@@ -24,6 +24,7 @@ KST = dt.timezone(dt.timedelta(hours=9))
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "news.json"
 SEEN = ROOT / "data" / "news_seen.json"
+ARCHIVE = ROOT / "data" / "news_archive"   # 날짜별 지난 이슈 보관
 
 # 수집할 키워드 (원하는 대로 수정)
 KEYWORDS = ["연예", "드라마 시청률", "예능", "아이돌 컴백", "열애", "결혼 발표"]
@@ -85,9 +86,34 @@ def telegram(items):
                         "disable_web_page_preview": True}).raise_for_status()
 
 
+def save_archive(articles):
+    """기사를 날짜(KST)별 파일에 누적 저장: data/news_archive/2026-10-20.json"""
+    ARCHIVE.mkdir(parents=True, exist_ok=True)
+    by_day = {}
+    for a in articles:
+        d = dt.datetime.fromisoformat(a["time"]).astimezone(KST).date().isoformat()
+        by_day.setdefault(d, []).append(a)
+    for d, items in by_day.items():
+        f = ARCHIVE / f"{d}.json"
+        old = json.loads(f.read_text(encoding="utf-8"))["articles"] if f.exists() else []
+        merged = {norm(a["title"]): a for a in old}
+        for a in items:
+            merged.setdefault(norm(a["title"]), a)
+        rows = sorted(merged.values(), key=lambda a: a["time"], reverse=True)
+        f.write_text(json.dumps({"date": d, "articles": rows}, ensure_ascii=False, indent=1),
+                     encoding="utf-8")
+    # 날짜 목록(최신순)과 기사 수
+    idx = []
+    for f in sorted(ARCHIVE.glob("????-??-??.json"), reverse=True):
+        n = len(json.loads(f.read_text(encoding="utf-8"))["articles"])
+        idx.append({"date": f.stem, "count": n})
+    (ARCHIVE / "index.json").write_text(json.dumps(idx, ensure_ascii=False), encoding="utf-8")
+
+
 def main():
     now = dt.datetime.now(KST)
-    seen = set(json.loads(SEEN.read_text())) if SEEN.exists() else set()
+    seen_list = json.loads(SEEN.read_text()) if SEEN.exists() else []
+    seen = set(seen_list)
     first_run = not SEEN.exists()
 
     articles = []
@@ -113,9 +139,14 @@ def main():
         except Exception as e:
             print(f"::warning::텔레그램 전송 실패: {e}")
 
-    seen |= {norm(a["title"]) for a in fresh}
+    for a in reversed(fresh):                 # 최근에 본 순서대로 기억
+        k = norm(a["title"])
+        if k not in seen:
+            seen.add(k)
+            seen_list.append(k)
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    SEEN.write_text(json.dumps(sorted(seen)[-3000:], ensure_ascii=False))
+    SEEN.write_text(json.dumps(seen_list[-5000:], ensure_ascii=False))
+    save_archive(fresh)
     OUT.write_text(json.dumps({"generated": now.isoformat(), "articles": fresh[:100]},
                               ensure_ascii=False, indent=1), encoding="utf-8")
 

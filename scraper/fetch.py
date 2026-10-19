@@ -27,8 +27,17 @@ HEADERS = {
 
 
 # ---------- 공통 도구 ----------
+# 방송사 서버가 잠깐 응답하지 않을 때 자동 재시도 (최대 4번, 간격을 늘려가며)
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+SESSION = requests.Session()
+SESSION.mount("https://", HTTPAdapter(max_retries=Retry(
+    total=4, connect=4, read=3, backoff_factor=2,
+    status_forcelist=(429, 500, 502, 503, 504), allowed_methods=("GET",))))
+
 def get_json(url, name, extra_headers=None, **kw):
-    r = requests.get(url, headers={**HEADERS, **(extra_headers or {})}, timeout=20, **kw)
+    r = SESSION.get(url, headers={**HEADERS, **(extra_headers or {})}, timeout=20, **kw)
     r.raise_for_status()
     RAW.mkdir(parents=True, exist_ok=True)
     (RAW / f"{name}.json").write_text(r.text, encoding="utf-8")
@@ -139,7 +148,7 @@ def sbs():
 
 # ---------- HTML 편성표 공통 ----------
 def get_html(url, name, referer):
-    r = requests.get(url, timeout=20, headers={**HEADERS, "Accept": "text/html,*/*",
+    r = SESSION.get(url, timeout=20, headers={**HEADERS, "Accept": "text/html,*/*",
                                                "Referer": referer})
     r.raise_for_status()
     if r.encoding in (None, "ISO-8859-1"):

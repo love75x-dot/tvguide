@@ -218,8 +218,9 @@ def mbn():
         for p in root.iter("program"):
             d = dt.date.fromisoformat(p.findtext("air_date").strip())
             st = to_dt(d, p.findtext("start_time"))
-            en = to_dt(d, p.findtext("end_time"))
-            if en <= st:
+            en_raw = (p.findtext("end_time") or "").strip()
+            en = to_dt(d, en_raw) if re.fullmatch(r"\d{1,2}:\d{2}", en_raw) else None
+            if en and en <= st:      # 종료시각이 비어 있으면 다음 프로그램 시작으로 채움
                 en += dt.timedelta(days=1)
             title = (p.findtext("program_title") or "").strip()
             ep = (p.findtext("bcast_episode") or "").strip()

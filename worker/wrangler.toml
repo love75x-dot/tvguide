@@ -1,0 +1,6 @@
+name = "tvguide-bot"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+SITE_URL = "https://내프로젝트.pages.dev"

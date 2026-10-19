@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>방송 편성표</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--line:#e3e6eb;--text:#1b1e23;--sub:#6b7280;--accent:#e5484d;--live:#fff1f1;--hl:#2563eb}
+@media (prefers-color-scheme:dark){:root{--bg:#111316;--card:#1a1d21;--line:#2b2f35;--text:#eceef1;--sub:#9aa1ab;--live:#3a1d1f}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif}
+header{padding:16px;position:sticky;top:0;background:var(--bg);z-index:5;border-bottom:1px solid var(--line)}
+h1{font-size:20px;margin:0 0 4px}
+#meta{font-size:12px;color:var(--sub)}
+#days{display:flex;gap:6px;overflow-x:auto;margin-top:12px}
+#days button{flex:none;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:20px;padding:6px 14px;font-size:14px;cursor:pointer}
+#days button.on{background:var(--text);color:var(--bg)}
+#now{padding:12px 16px}
+#now h2{font-size:15px;margin:0 0 8px}
+#nowList{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:8px}
+.nowCard{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:8px;padding:10px}
+.nowCard b{font-size:12px;color:var(--sub);display:block}
+.nowCard span{font-size:14px}
+.bar{height:3px;background:var(--line);border-radius:2px;margin-top:6px}
+.bar i{display:block;height:100%;background:var(--accent);border-radius:2px}
+#news{padding:4px 16px 8px}
+#news h2{font-size:15px;margin:0 0 8px}
+#newsList{background:var(--card);border:1px solid var(--line);border-radius:10px;max-height:320px;overflow-y:auto}
+.nw{display:block;padding:9px 12px;border-bottom:1px solid var(--line);color:var(--text);text-decoration:none;font-size:14px}
+.nw:last-child{border:0}
+.nw small{display:block;color:var(--sub);font-size:11px;margin-top:2px}
+#grid{display:grid;gap:12px;padding:12px 16px 40px}
+.ch{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.ch h3{margin:0;padding:10px 12px;font-size:15px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between}
+.ch h3 small{font-weight:400;font-size:11px;color:var(--accent)}
+.row{display:flex;gap:10px;padding:8px 12px;border-bottom:1px solid var(--line);font-size:14px}
+.row:last-child{border:0}
+.row time{color:var(--sub);width:44px;flex:none;font-variant-numeric:tabular-nums}
+.row.past{opacity:.45}
+.row.live{background:var(--live);font-weight:600}
+.row.live time{color:var(--accent)}
+.empty{padding:12px;color:var(--sub);font-size:13px}
+@media(min-width:900px){#grid{grid-template-columns:repeat(auto-fill,minmax(280px,1fr))}}
+</style>
+</head>
+<body>
+<header>
+  <h1>방송 편성표</h1>
+  <div id="meta">불러오는 중…</div>
+  <div id="days"></div>
+</header>
+<section id="now"><h2>🔴 지금 방송 중</h2><div id="nowList"></div></section>
+<section id="news"><h2>🔥 실시간 연예 이슈</h2><div id="newsList"><div class="empty">불러오는 중…</div></div></section>
+<main id="grid"></main>
+<script>
+const DATA_URL = "data/schedule.json";
+const WD = ["일","월","화","수","목","금","토"];
+let data = null, sel = null;
+
+const kstDay = d => new Date(d.getTime() + 9*3600e3).toISOString().slice(0,10);
+const hm = d => new Date(d.getTime() + 9*3600e3).toISOString().slice(11,16);
+
+async function load(){
+  try{
+    const r = await fetch(DATA_URL + "?t=" + Date.now());
+    data = await r.json();
+    const g = new Date(data.generated);
+    document.getElementById("meta").textContent =
+      "마지막 갱신 " + kstDay(g) + " " + hm(g) + " (1시간마다 자동 갱신)";
+    data.channels.forEach(c => c.programs.forEach(p => {p.s = new Date(p.start); p.e = new Date(p.end);}));
+    render();
+  }catch(e){ document.getElementById("meta").textContent = "편성표를 불러오지 못했습니다."; }
+}
+
+function render(){
+  const now = new Date(), today = kstDay(now);
+  if(!sel) sel = today;
+  // 요일 탭
+  const days = [...new Set(data.channels.flatMap(c => c.programs.map(p => kstDay(p.s))))]
+    .filter(d => d >= today).sort().slice(0,7);
+  document.getElementById("days").innerHTML = days.map(d => {
+    const w = WD[new Date(d+"T00:00:00+09:00").getDay()];
+    const label = d === today ? "오늘" : `${+d.slice(5,7)}/${+d.slice(8)}(${w})`;
+    return `<button class="${d===sel?"on":""}" data-d="${d}">${label}</button>`;
+  }).join("");
+  document.querySelectorAll("#days button").forEach(b => b.onclick = () => {sel = b.dataset.d; render();});
+
+  // 지금 방송 중
+  document.getElementById("nowList").innerHTML = data.channels.map(c => {
+    const p = c.programs.find(p => p.s <= now && now < p.e);
+    if(!p) return "";
+    const pct = Math.round((now - p.s) / (p.e - p.s) * 100);
+    return `<div class="nowCard"><b>${c.name} · ${hm(p.s)}~${hm(p.e)}</b><span>${esc(p.title)}</span>
+      <div class="bar"><i style="width:${pct}%"></i></div></div>`;
+  }).join("") || '<div class="empty">현재 방송 정보가 없습니다.</div>';
+
+  // 채널별 편성
+  document.getElementById("grid").innerHTML = data.channels.map(c => {
+    const list = c.programs.filter(p => kstDay(p.s) === sel);
+    const warn = c.ok ? "" : "<small>⚠ 최신 정보 아님</small>";
+    const rows = list.map(p => {
+      const cls = p.s <= now && now < p.e ? "live" : p.e <= now ? "past" : "";
+      return `<div class="row ${cls}" ${cls==="live"?'id="live-'+c.id+'"':""}><time>${hm(p.s)}</time><span>${esc(p.title)}</span></div>`;
+    }).join("") || '<div class="empty">편성 정보 없음</div>';
+    return `<section class="ch"><h3>${c.name}${warn}</h3>${rows}</section>`;
+  }).join("");
+}
+
+const esc = s => String(s).replace(/[&<>"]/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
+async function loadNews(){
+  try{
+    const n = await (await fetch("data/news.json?t=" + Date.now())).json();
+    const ago = t => { const m = Math.round((Date.now() - new Date(t)) / 6e4);
+      return m < 60 ? m + "분 전" : Math.floor(m / 60) + "시간 전"; };
+    document.getElementById("newsList").innerHTML = n.articles.slice(0, 40).map(a =>
+      `<a class="nw" href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}
+       <small>${esc(a.source || "")} · ${ago(a.time)} · #${esc(a.keyword)}</small></a>`).join("")
+      || '<div class="empty">새 기사가 없습니다.</div>';
+  }catch(e){ document.getElementById("newsList").innerHTML = '<div class="empty">뉴스를 불러오지 못했습니다.</div>'; }
+}
+load(); loadNews();
+setInterval(loadNews, 15*60e3);
+setInterval(() => data && render(), 60e3);   // 1분마다 '지금 방송 중' 갱신
+setInterval(load, 15*60e3);                   // 15분마다 새 데이터 확인
+</script>
+</body>
+</html>

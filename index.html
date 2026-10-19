@@ -25,7 +25,13 @@ h1{font-size:20px;margin:0 0 4px}
 .bar i{display:block;height:100%;background:var(--accent);border-radius:2px}
 #news{padding:4px 16px 8px}
 #news h2{font-size:15px;margin:0 0 8px}
-#newsList{background:var(--card);border:1px solid var(--line);border-radius:10px;max-height:320px;overflow-y:auto}
+#newsDays{display:flex;gap:6px;overflow-x:auto;margin-bottom:8px;padding-bottom:2px}
+#newsDays button{flex:none;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:16px;padding:4px 11px;font-size:13px;cursor:pointer}
+#newsDays button.on{background:var(--accent);border-color:var(--accent);color:#fff}
+#newsDays button small{opacity:.7;margin-left:3px;font-size:11px}
+#newsQ{width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--text);font-size:14px;margin-bottom:6px}
+#newsInfo{font-size:12px;color:var(--sub);margin:0 2px 6px}
+#newsList{background:var(--card);border:1px solid var(--line);border-radius:10px;max-height:420px;overflow-y:auto}
 .nw{display:block;padding:9px 12px;border-bottom:1px solid var(--line);color:var(--text);text-decoration:none;font-size:14px}
 .nw:last-child{border:0}
 .nw small{display:block;color:var(--sub);font-size:11px;margin-top:2px}
@@ -50,7 +56,11 @@ h1{font-size:20px;margin:0 0 4px}
   <div id="days"></div>
 </header>
 <section id="now"><h2>🔴 지금 방송 중</h2><div id="nowList"></div></section>
-<section id="news"><h2>🔥 실시간 연예 이슈</h2><div id="newsList"><div class="empty">불러오는 중…</div></div></section>
+<section id="news"><h2 id="newsTitle">🔥 실시간 연예 이슈</h2>
+<div id="newsDays"></div>
+<input id="newsQ" type="search" placeholder="기사 제목 검색 (예: 시청률, 컴백)">
+<div id="newsInfo"></div>
+<div id="newsList"><div class="empty">불러오는 중…</div></div></section>
 <main id="grid"></main>
 <script>
 const DATA_URL = "data/schedule.json";
@@ -107,19 +117,54 @@ function render(){
 }
 
 const esc = s => String(s).replace(/[&<>"]/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
-async function loadNews(){
-  try{
-    const n = await (await fetch("data/news.json?t=" + Date.now())).json();
-    const ago = t => { const m = Math.round((Date.now() - new Date(t)) / 6e4);
-      return m < 60 ? m + "분 전" : Math.floor(m / 60) + "시간 전"; };
-    document.getElementById("newsList").innerHTML = n.articles.slice(0, 40).map(a =>
-      `<a class="nw" href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}
-       <small>${esc(a.source || "")} · ${ago(a.time)} · #${esc(a.keyword)}</small></a>`).join("")
-      || '<div class="empty">새 기사가 없습니다.</div>';
-  }catch(e){ document.getElementById("newsList").innerHTML = '<div class="empty">뉴스를 불러오지 못했습니다.</div>'; }
+let newsDay = "live", newsRows = [];
+const WD2 = ["일","월","화","수","목","금","토"];
+const dayLabel = d => { const t = new Date(d + "T00:00:00+09:00");
+  return `${t.getMonth()+1}/${t.getDate()}(${WD2[t.getDay()]})`; };
+const ago = t => { const m = Math.round((Date.now() - new Date(t)) / 6e4);
+  return m < 60 ? m + "분 전" : m < 1440 ? Math.floor(m / 60) + "시간 전" : hm(new Date(t)); };
+
+async function loadNewsDays(){
+  let idx = [];
+  try{ idx = await (await fetch("data/news_archive/index.json?t=" + Date.now())).json(); }catch(e){}
+  const btn = (key, label, cnt) =>
+    `<button data-k="${key}" class="${newsDay===key?"on":""}">${label}${cnt!=null?`<small>${cnt}</small>`:""}</button>`;
+  document.getElementById("newsDays").innerHTML =
+    btn("live", "🔥 실시간") + idx.map(x => btn(x.date, dayLabel(x.date), x.count)).join("");
+  document.querySelectorAll("#newsDays button").forEach(b => b.onclick = () => {
+    newsDay = b.dataset.k; loadNews(); loadNewsDays(); });
 }
+
+async function loadNews(){
+  const list = document.getElementById("newsList");
+  try{
+    if(newsDay === "live"){
+      newsRows = (await (await fetch("data/news.json?t=" + Date.now())).json()).articles;
+      document.getElementById("newsTitle").textContent = "🔥 실시간 연예 이슈 (최근 24시간)";
+    }else{
+      newsRows = (await (await fetch(`data/news_archive/${newsDay}.json?t=` + Date.now())).json()).articles;
+      document.getElementById("newsTitle").textContent = `🗂 ${dayLabel(newsDay)} 연예 이슈`;
+    }
+    showNews();
+  }catch(e){ list.innerHTML = '<div class="empty">뉴스를 불러오지 못했습니다.</div>'; }
+}
+
+function showNews(){
+  const q = document.getElementById("newsQ").value.trim().toLowerCase();
+  const rows = newsRows.filter(a => !q || (a.title + " " + (a.keyword||"")).toLowerCase().includes(q));
+  const kw = {}; rows.forEach(a => kw[a.keyword] = (kw[a.keyword]||0) + 1);
+  document.getElementById("newsInfo").textContent = `${rows.length}건` + (q ? ` (검색: ${q})` : "") +
+    " · " + Object.entries(kw).sort((x,y)=>y[1]-x[1]).map(([k,n]) => `#${k} ${n}`).join("  ");
+  document.getElementById("newsList").innerHTML = rows.slice(0, newsDay==="live" ? 60 : 300).map(a =>
+    `<a class="nw" href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}
+     <small>${esc(a.source || "")} · ${newsDay==="live" ? ago(a.time) : hm(new Date(a.time))} · #${esc(a.keyword)}</small></a>`).join("")
+    || '<div class="empty">해당하는 기사가 없습니다.</div>';
+}
+document.getElementById("newsQ").addEventListener("input", showNews);
+loadNewsDays();
+
 load(); loadNews();
-setInterval(loadNews, 15*60e3);
+setInterval(() => { if(newsDay === "live") loadNews(); loadNewsDays(); }, 15*60e3);
 setInterval(() => data && render(), 60e3);   // 1분마다 '지금 방송 중' 갱신
 setInterval(load, 15*60e3);                   // 15분마다 새 데이터 확인
 </script>

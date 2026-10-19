@@ -1,0 +1,844 @@
+
+
+
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" id="meta_viewport" content="width=device-width,initial-scale=1.0,minimum-scale=0,maximum-scale=10">
+<meta name="HandheldFriendly" content="true">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"/>
+
+<title>ENA</title>
+<link rel="apple-touch-icon" sizes="57x57" href="https://ktena.co.kr/img/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://ktena.co.kr/img/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://ktena.co.kr/img/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://ktena.co.kr/img/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://ktena.co.kr/img/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://ktena.co.kr/img/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://ktena.co.kr/img/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://ktena.co.kr/img/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://ktena.co.kr/img/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://ktena.co.kr/img/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://ktena.co.kr/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://ktena.co.kr/img/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://ktena.co.kr/img/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://ktena.co.kr/img/favicon/manifest.json">
+<link rel="canonical" href="https://ktena.co.kr/">
+<meta name="msapplication-TileColor" content="#fff">
+<meta name="msapplication-TileImage" content="https://ktena.co.kr/img/favicon/ms-icon-144x144.png">
+
+
+<meta name="title" content="ENA">
+<meta name="Author" content="ENA">
+<meta name="keywords" content="ENA, ENA DRAMA, ENA PLAY, ENA STORY, OLIFE, ONCE, KT ENA, 케이티이엔에이, 이엔에이, 예능,드라마,버라이어티">
+<meta name="description" content="시청자에게 매 순간 즐거움을 선사하는 채널, 매일 새로운 ENA">
+<meta property="og:type" content="website">
+<meta property="og:title" content="ENA">
+<meta property="og:description" content="시청자에게 매 순간 즐거움을 선사하는 채널, 매일 새로운 ENA">
+<meta name="robots" content="index,follow">
+<meta name="naver-site-verification" content="e786b15f40f131f6957098445663e4cad2418a0b" />
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="ENA">
+<meta name="twitter:description" content="시청자에게 매 순간 즐거움을 선사하는 채널, 매일 새로운 ENA">
+<meta name="twitter:domain" content="ENA">
+
+<meta name="facebook:card" content="summary">
+<meta name="facebook:title" content="ENA">
+<meta name="facebook:description" content="시청자에게 매 순간 즐거움을 선사하는 채널, 매일 새로운 ENA">
+<meta name="facebook:domain" content="ENA">
+
+<meta name="robots" content="index,follow">
+
+<link rel="stylesheet" href="https://ktena.co.kr/css/common.css?ver=261020"><link rel="stylesheet" href="https://ktena.co.kr/css/contents.css?ver=261020">
+<!--[if lte IE 8]>
+<script src="https://ktena.co.kr/js/html5.js"></script>
+<![endif]-->
+<script>
+// 자바스크립트에서 사용하는 전역변수 선언
+var g5_url       = "https://ktena.co.kr";
+var g5_bbs_url   = "https://ktena.co.kr/bbs";
+var g5_is_member = "";
+var g5_is_admin  = "";
+var g5_is_mobile = "";
+var g5_bo_table  = "";
+var g5_sca       = "";
+var g5_editor    = "";
+var g5_cookie_domain = "";
+</script>
+<script src="https://ktena.co.kr/js/jquery-1.12.4.min.js?ver=261020"></script>
+<script src="https://ktena.co.kr/js/jquery-migrate-1.4.1.min.js?ver=261020"></script>
+<script src="https://ktena.co.kr/js/common.js?ver=261020"></script>
+<script src="https://ktena.co.kr/js/wrest.js?ver=261020"></script>
+<script src="https://ktena.co.kr/js/placeholders.min.js?ver=261020"></script>
+<script src="https://ktena.co.kr/js/ena.js?ver=261020"></script>
+</head>
+<body>
+
+
+<div id="wrap">
+<header id="header">
+    <div class="wide ">
+        <h1 id="h1">
+            <a href="https://ktena.co.kr" class="logo"><img src="https://ktena.co.kr/img/logo.png" alt="ENA"></a>
+                        <strong class="blind"></strong>
+                    </h1>
+        <nav id="gnb">
+            <ul class="lst">
+                                <li class="d1">
+                    <a href="https://ktena.co.kr/bbs/board.php?bo_table=variety" class="d1_link">예능</a>
+                                    </li>
+                                <li class="d1">
+                    <a href="https://ktena.co.kr/bbs/board.php?bo_table=drama" class="d1_link">드라마</a>
+                                    </li>
+                                <li class="d1">
+                    <a href="https://ktena.co.kr/schedule" class="d1_link">편성표</a>
+                                    </li>
+                                <li class="d1">
+                    <a href="https://ktena.co.kr/ENA" class="d1_link">채널소개</a>
+                                        <div class="sub">
+                        <ul class="sublist">
+                                                        <li class="d2">
+                                <a href="https://ktena.co.kr/ENA"><span>ENA</span></a>                            </li>
+                                                        <li class="d2">
+                                <a href="https://ktena.co.kr/ENA_DRAMA"><span>ENA DRAMA</span></a>                            </li>
+                                                        <li class="d2">
+                                <a href="https://ktena.co.kr/ENA_PLAY"><span>ENA PLAY</span></a>                            </li>
+                                                        <li class="d2">
+                                <a href="https://ktena.co.kr/ENA_STORY"><span>ENA STORY</span></a>                            </li>
+                                                        <li class="d2">
+                                <a href="https://ktena.co.kr/ONCE"><span>ONCE</span></a>                            </li>
+                                                        <li class="d2">
+                                <a href="https://ktena.co.kr/Olife"><span>Olife</span></a>                            </li>
+                                                        <li class="d2">
+                                <a href="https://ktena.co.kr/skyUHD"><span>skyUHD</span></a>                            </li>
+                                                        <li class="d2">
+                                <a href="https://ktena.co.kr/kidstalktalkplus"><span>kidstalktalkplus</span></a>                            </li>
+                                                    </ul>
+                    </div>
+                                    </li>
+                                <li class="d1">
+                    <a href="https://ktena.co.kr/bbs/board.php?bo_table=notice" class="d1_link">공지사항</a>
+                                    </li>
+                            </ul>
+        </nav>
+        <nav id="tnb">
+            <button type="button" onclick="showSnsList()" class="btn_sns mo">
+                <span>SNS 바로가기 열기</span>
+            </button>
+                        <ul class="list_sns">
+                                <li>
+                    <a href="https://www.instagram.com/ena_entertain/" target="_blank">
+                        <span class="icon"><img src="https://ktena.co.kr/img/sns_instagram.png" alt=""></span>
+                        <span class="lab">ENA 공식 예능 인스타그램</span>
+                    </a>
+                </li>
+                                <li>
+                    <a href="https://youtube.com/c/myskylifetv" target="_blank">
+                        <span class="icon"><img src="https://ktena.co.kr/img/sns_youtube.png" alt=""></span>
+                        <span class="lab">ENA 공식 유튜브</span>
+                    </a>
+                </li>
+                                <li>
+                    <a href="https://www.instagram.com/ena_drama/" target="_blank">
+                        <span class="icon"><img src="https://ktena.co.kr/img/sns_instagram.png" alt=""></span>
+                        <span class="lab">ENA 드라마 공식 인스타그램</span>
+                    </a>
+                </li>
+                                <li>
+                    <a href="https://www.facebook.com/channel.ena" target="_blank">
+                        <span class="icon"><img src="https://ktena.co.kr/img/sns_facebook.png" alt=""></span>
+                        <span class="lab">ENA 공식 페이스북</span>
+                    </a>
+                </li>
+                                <li>
+                    <a href="https://twitter.com/channel_ENA" target="_blank">
+                        <span class="icon"><img src="https://ktena.co.kr/img/sns_x.png" alt=""></span>
+                        <span class="lab">ENA 공식 엑스</span>
+                    </a>
+                </li>
+                            </ul>
+            <button type="button" onclick="activeAllMenu();" class="btn_allmenu">
+                <span>전체 메뉴 열기</span>
+            </button>
+        </nav>
+    </div>
+
+    <div id="quickMenu" class="mo">
+        <ul class="lst">
+                        <li><a href="https://ktena.co.kr/bbs/board.php?bo_table=variety">예능</a></li>
+                        <li><a href="https://ktena.co.kr/bbs/board.php?bo_table=drama">드라마</a></li>
+                        <li><a href="https://ktena.co.kr/schedule">편성표</a></li>
+                        <li><a href="https://ktena.co.kr/ENA">채널소개</a></li>
+                        <li><a href="https://ktena.co.kr/bbs/board.php?bo_table=notice">공지사항</a></li>
+                    </ul>
+    </div>
+
+    <div id="allMenu">
+        <div class="wrapper">
+            <div class="inner">
+                <div class="hd_allmenu">
+                    <a href="https://ktena.co.kr" class="allmenu_tit"><img src="https://ktena.co.kr/img/logo.png" alt="ENA"></a>
+                    <ul class="list_sns">
+                                                <li>
+                            <a href="https://www.instagram.com/ena_entertain/" target="_blank">
+                                <span class="icon"><img src="https://ktena.co.kr/img/sns_instagram.png" alt=""></span>
+                            </a>
+                        </li>
+                                                <li>
+                            <a href="https://youtube.com/c/myskylifetv" target="_blank">
+                                <span class="icon"><img src="https://ktena.co.kr/img/sns_youtube.png" alt=""></span>
+                            </a>
+                        </li>
+                                                <li>
+                            <a href="https://www.instagram.com/ena_drama/" target="_blank">
+                                <span class="icon"><img src="https://ktena.co.kr/img/sns_instagram.png" alt=""></span>
+                            </a>
+                        </li>
+                                                <li>
+                            <a href="https://www.facebook.com/channel.ena" target="_blank">
+                                <span class="icon"><img src="https://ktena.co.kr/img/sns_facebook.png" alt=""></span>
+                            </a>
+                        </li>
+                                                <li>
+                            <a href="https://twitter.com/channel_ENA" target="_blank">
+                                <span class="icon"><img src="https://ktena.co.kr/img/sns_x.png" alt=""></span>
+                            </a>
+                        </li>
+                                            </ul>
+                </div>
+                <div class="wrap_allmenu">
+                    <div class="col">
+                                                <a href="https://ktena.co.kr/bbs/board.php?bo_table=variety" class="depth1">예능</a>
+                                                <a href="https://ktena.co.kr/bbs/board.php?bo_table=drama" class="depth1">드라마</a>
+                                                <a href="https://ktena.co.kr/schedule" class="depth1">편성표</a>
+                                                <a href="https://ktena.co.kr/bbs/board.php?bo_table=notice" class="depth1">공지사항</a>
+                                            </div>
+                    <div class="col">
+                        <strong class="depth1">채널소개</strong>
+                        <div class="wrap_list">
+                            <ul class="list">
+                                                                <li><a href="https://ktena.co.kr/ENA">ENA</a></li>
+                                                                <li><a href="https://ktena.co.kr/ENA_DRAMA">ENA DRAMA</a></li>
+                                                                <li><a href="https://ktena.co.kr/ENA_PLAY">ENA PLAY</a></li>
+                                                                <li><a href="https://ktena.co.kr/ENA_STORY">ENA STORY</a></li>
+                                                                <li><a href="https://ktena.co.kr/ONCE">ONCE</a></li>
+                                                                <li><a href="https://ktena.co.kr/Olife">Olife</a></li>
+                                                                <li><a href="https://ktena.co.kr/skyUHD">skyUHD</a></li>
+                                                                <li><a href="https://ktena.co.kr/kidstalktalkplus">kidstalktalkplus</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <strong class="depth1">회사소개</strong>
+                        <div class="wrap_list">
+                            <ul class="list">
+                                                                <li><a href="https://ktena.co.kr/company">회사소개</a></li>
+                                                                <li><a href="https://ktena.co.kr/advertisement">방송광고</a></li>
+                                                                <li><a href="https://ktena.co.kr/financial">투자정보</a></li>
+                                                                <li><a href="https://ktena.co.kr/business">사업·제휴 </a></li>
+                                                                <li><a href="https://ktena.co.kr/bbs/board.php?bo_table=recruitment">채용</a></li>
+                                                                <li><a href="https://ktena.co.kr/bbs/board.php?bo_table=ethics">윤리경영</a></li>
+                                                                <li><a href="https://ktena.co.kr/bbs/board.php?bo_table=history">연혁</a></li>
+                                                                <li><a href="https://ktena.co.kr/qton?c=ENA">큐톤</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sns">
+                <span class="deco"><img src="https://ktena.co.kr/img/allmenu_logo.png" alt=""></span>
+                <ul class="list_sns">
+                                        <li>
+                        <a href="https://www.instagram.com/ena_entertain/" target="_blank">
+                            <span class="icon"><img src="https://ktena.co.kr/img/sns_instagram.png" alt=""></span>
+                            <span class="lab">ENA 공식 예능 인스타그램</span>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="https://youtube.com/c/myskylifetv" target="_blank">
+                            <span class="icon"><img src="https://ktena.co.kr/img/sns_youtube.png" alt=""></span>
+                            <span class="lab">ENA 공식 유튜브</span>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="https://www.instagram.com/ena_drama/" target="_blank">
+                            <span class="icon"><img src="https://ktena.co.kr/img/sns_instagram.png" alt=""></span>
+                            <span class="lab">ENA 드라마 공식 인스타그램</span>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="https://www.facebook.com/channel.ena" target="_blank">
+                            <span class="icon"><img src="https://ktena.co.kr/img/sns_facebook.png" alt=""></span>
+                            <span class="lab">ENA 공식 페이스북</span>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="https://twitter.com/channel_ENA" target="_blank">
+                            <span class="icon"><img src="https://ktena.co.kr/img/sns_x.png" alt=""></span>
+                            <span class="lab">ENA 공식 엑스</span>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="area_close">
+            <button type="button" onclick="closeAllMenu();" class="btn_close"><span>CLOSE</span></button>
+        </div>
+    </div>
+
+</header>
+<div id="container" class="schedule">
+<div class="wfix">
+   <div class="tit_comm">
+      <h3 class="title">편성표</h3>
+   </div>
+   
+<div id="schedule">
+    <div class="wrap_date">
+      <div class="inner">
+                 <a href="https://ktena.co.kr/schedule/?d=20261024" class="move_prev">이전</a>
+         <a href="https://ktena.co.kr/schedule/?d=20261026" class="move_next">다음</a>
+         <ul class="lst">
+                     <li>
+               <a href="https://ktena.co.kr/schedule/?d=20261022">
+                <span class="date">10.22</span>
+                <span class="day">목요일</span>
+               </a>
+            </li>
+                     <li>
+               <a href="https://ktena.co.kr/schedule/?d=20261023">
+                <span class="date">10.23</span>
+                <span class="day">금요일</span>
+               </a>
+            </li>
+                     <li>
+               <a href="https://ktena.co.kr/schedule/?d=20261024">
+                <span class="date">10.24</span>
+                <span class="day">토요일</span>
+               </a>
+            </li>
+                     <li>
+               <a href="https://ktena.co.kr/schedule/?d=20261025">
+                <span class="date">10.25</span>
+                <span class="day">일요일</span>
+               </a>
+            </li>
+                     <li>
+               <a href="https://ktena.co.kr/schedule/?d=20261026">
+                <span class="date">10.26</span>
+                <span class="day">월요일</span>
+               </a>
+            </li>
+                     <li>
+               <a href="https://ktena.co.kr/schedule/?d=20261027">
+                <span class="date">10.27</span>
+                <span class="day">화요일</span>
+               </a>
+            </li>
+                     <li>
+               <a href="https://ktena.co.kr/schedule/?d=20261028">
+                <span class="date">10.28</span>
+                <span class="day">수요일</span>
+               </a>
+            </li>
+                  </ul>
+      </div>
+   </div>
+
+      <div class="tab_comm wrap_chnList">
+      <ul class="lst">
+                  <li class="ena">
+            <a href="https://ktena.co.kr/schedule?c=ENA&d=20261025" class="on">ENA</a>
+         </li>
+                  <li class="ena_drama">
+            <a href="https://ktena.co.kr/schedule?c=ENA_DRAMA&d=20261025">ENA DRAMA</a>
+         </li>
+                  <li class="ena_play">
+            <a href="https://ktena.co.kr/schedule?c=ENA_PLAY&d=20261025">ENA PLAY</a>
+         </li>
+                  <li class="ena_story">
+            <a href="https://ktena.co.kr/schedule?c=ENA_STORY&d=20261025">ENA STORY</a>
+         </li>
+                  <li class="once">
+            <a href="https://ktena.co.kr/schedule?c=ONCE&d=20261025">ONCE</a>
+         </li>
+                  <li class="olife">
+            <a href="https://ktena.co.kr/schedule?c=Olife&d=20261025">Olife</a>
+         </li>
+                  <li class="skyuhd">
+            <a href="https://ktena.co.kr/schedule?c=skyUHD&d=20261025">skyUHD</a>
+         </li>
+                  <li class="kidstalktalkplus">
+            <a href="https://ktena.co.kr/schedule?c=kidstalktalkplus&d=20261025">kidstalktalkplus</a>
+         </li>
+               </ul>
+   </div>
+   
+   <div class="wrap_tbl ena">
+      <div class="thead">
+         <div class="col time">시간</div>
+         <div class="col tit">프로그램 제목</div>
+         <div class="col info">프로그램 정보</div>
+         <div class="col age">등급</div>
+         <div class="col summ">시간</div>
+      </div>
+      <div class="tbody">
+                  <div class="row">
+         
+            <div class="col time">00:30</div>
+            <div class="col tit">
+               
+                              <strong>닥터X : 하얀 마피아의 시대 6화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark2">본</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark2">본</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">75</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">01:45</div>
+            <div class="col tit">
+               
+                              <strong>닥터X : 하얀 마피아의 시대 6화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">75</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">03:00</div>
+            <div class="col tit">
+               
+                              <strong>지구마불 세계여행 4 2화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">125</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">05:05</div>
+            <div class="col tit">
+               
+                              <strong>내 아이의 사생활-도아 스페셜 6화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                        <li><span class="mark">수</span></li>
+
+                                          <li><span class="mark">자</span></li>
+
+                                                       </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                        <li><span class="mark">수</span></li>
+
+                                          <li><span class="mark">자</span></li>
+
+                                                       </ul>
+            </div>
+            <div class="col age">12</div>
+            <div class="col summ">45</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">05:50</div>
+            <div class="col tit">
+               
+                              <strong>닥터X : 하얀 마피아의 시대 5화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">80</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">07:10</div>
+            <div class="col tit">
+               
+                              <strong>닥터X : 하얀 마피아의 시대 6화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">80</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">08:30</div>
+            <div class="col tit">
+               
+                              <strong>트렌드 다큐 도시락 18화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">60</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">09:30</div>
+            <div class="col tit">
+               
+                              <strong>닥터X : 하얀 마피아의 시대 6화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">80</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">10:50</div>
+            <div class="col tit">
+               
+                              <strong>지구마불 세계여행 4 2화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">140</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">13:10</div>
+            <div class="col tit">
+               
+                              <strong>결이 다른 전쟁사 1화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">80</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">14:30</div>
+            <div class="col tit">
+               
+                              <strong>닥터X : 하얀 마피아의 시대 6화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">80</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">15:50</div>
+            <div class="col tit">
+               
+                              <strong>지구마불 세계여행 4 2화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">140</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">18:10</div>
+            <div class="col tit">
+               
+                              <strong>닥터X : 하얀 마피아의 시대 6화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">80</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">19:30</div>
+            <div class="col tit">
+               
+                              <strong>연애박사 5화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                      <li><span class="mark">해</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                      <li><span class="mark">해</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">80</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">20:50</div>
+            <div class="col tit">
+               
+                              <strong>연애박사 6화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                      <li><span class="mark">해</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                      <li><span class="mark">해</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">80</div>
+         </div>
+                  <div class="row">
+         
+            <div class="col time">22:10</div>
+            <div class="col tit">
+               
+                              <strong>지구마불 세계여행 4 2화</strong>
+
+               <ul class="list_mark mo">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col info">
+               <ul class="list_mark">
+                                    <li><span class="mark1">재</span></li>
+                                                      <li><span class="mark">HD</span></li>
+                                                   </ul>
+            </div>
+            <div class="col age">15</div>
+            <div class="col summ">140</div>
+         </div>
+               </div>
+   </div>
+   <div class="legend_tbl">
+      <ul class="list_mark">
+         <li><span class="mark1">재</span>재방송</li>
+         <li><span class="mark2">본</span>본방송</li>
+         <li><span class="mark">해</span>화면해설</li>
+         <li><span class="mark">수</span>수화방송</li>
+         <li><span class="mark">자</span>자막방송</li>
+         <li><span class="mark">음</span>음성다중</li>
+         <li><span class="mark">SD</span>일반화질</li>
+         <li><span class="mark">HD</span>고화질</li>
+         <li><span class="mark">UHD</span>초고화질</li>
+      </ul>
+          <p class="refer">이 편성표는 방송사 사정에 따라 변경 될 수 있습니다.</p>
+   </div>
+   <script>
+      $(document).ready(function(){
+         $('.onAir').prev().addClass('on')
+         $('.onAir').next().addClass('on')
+
+                     $('html, body').scrollTop($('.tit_comm').offset().top)
+              });
+   </script>
+</div></div>
+
+</div>
+
+<footer id="footer">
+    <div class="ft_top">
+        <div class="wfix">
+            <button type="button" id="top_btn"><span>TOP</span></button>
+            <div class="inner">
+                <ul class="links">
+                                        <li>
+                        <a href="https://ktena.co.kr/company"><span>회사소개</span></a> 
+                    </li>
+                                        <li>
+                        <a href="https://ktena.co.kr/advertisement"><span>방송광고</span></a> 
+                    </li>
+                                        <li>
+                        <a href="https://ktena.co.kr/financial"><span>투자정보</span></a> 
+                    </li>
+                                        <li>
+                        <a href="https://ktena.co.kr/business"><span>사업·제휴 </span></a> 
+                    </li>
+                    </ul><ul class="links">                    <li>
+                        <a href="https://ktena.co.kr/bbs/board.php?bo_table=recruitment"><span>채용</span></a> 
+                    </li>
+                                        <li>
+                        <a href="https://ktena.co.kr/bbs/board.php?bo_table=ethics"><span>윤리경영</span></a> 
+                    </li>
+                                        <li>
+                        <a href="https://ktena.co.kr/bbs/board.php?bo_table=history"><span>연혁</span></a> 
+                    </li>
+                                        <li>
+                        <a href="https://ktena.co.kr/qton?c=ENA"><span>큐톤</span></a> 
+                    </li>
+                                    </ul>
+            </div>
+
+        </div>
+    </div>
+       
+            
+    <div class="ft_conts">
+        <div class="wfix">
+            <p class="mo">대표이사 : 김호상 / 사업자등록번호 : 104-81-86162<br/>주소 : 서울특별시 마포구 월드컵북로 54길 25(상암동 1596) S-city 4~5층<br/>FAX : 02-2146-0702 / 이메일 : <a href="mailto:help@ktena.co.kr"  rel="nofollow">help@ktena.co.kr</a><br/><br/>Copyright 2024 케이티이엔에이. All Rights Reserved.</p><p>대표이사 : 김호상 / 사업자등록번호 : 104-81-86162 / 주소 : 서울특별시 마포구 월드컵북로 54길 25(상암동 1596) S-city 4~5층<br/>FAX : 02-2146-0702 / 이메일 : <a href="mailto:help@ktena.co.kr"  rel="nofollow">help@ktena.co.kr</a><br/><br/>Copyright 2024 케이티이엔에이. All Rights Reserved.</p>                         <div class="right">
+                
+                <div class="wrap_logo">
+                    <img src="https://ktena.co.kr/img/logo_ktENA.png" alt="kt ENA">
+                </div>
+               
+                <div class="links">
+                    <a href="https://ktena.co.kr/policy/privacy.php" class="link">개인정보처리방침</a>
+                </div>
+            </div>
+               
+              
+        </div>
+    </div>
+</footer>
+
+</div>
+
+<script>
+    $(function() {
+        $("#top_btn").on("click", function() {
+            $("html, body").animate({scrollTop:0}, '500');
+            return false;
+        });
+    });
+    </script>
+<script>
+$(function() {
+    // 폰트 리사이즈 쿠키있으면 실행
+    font_resize("container", get_cookie("ck_font_resize_rmv_class"), get_cookie("ck_font_resize_add_class"));
+});
+</script>
+
+
+
+
+
+</body>
+</html>

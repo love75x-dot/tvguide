@@ -1,0 +1,45 @@
+name: 편성표·연예이슈 업데이트
+
+on:
+  schedule:
+    - cron: "7 * * * *"   # 매시 7분 (UTC 기준, 1시간마다)
+  workflow_dispatch:       # Actions 탭에서 수동 실행 버튼
+    inputs:
+      digest_test:
+        description: "편성표 발송 테스트 (8 또는 19 입력, 비우면 평소대로)"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python scraper/fetch.py
+      - name: 연예 이슈 수집 + 알림
+        run: python scraper/news.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+      - name: 편성표 텔레그램 발송 (08시·19시)
+        run: python scraper/digest.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          DIGEST_FORCE: ${{ github.event.inputs.digest_test }}
+      - name: 변경사항 저장
+        run: |
+          git config user.name "tvguide-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "편성표 갱신 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+          git push

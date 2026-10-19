@@ -196,14 +196,18 @@ def jtbc():
 
 def tvchosun():
     def one(day):
-        res = []
         raw = get_html(f"https://broadcast.tvchosun.com/onair/schedule/today.cstv?date={day:%Y%m%d}&ch=",
                        f"tvchosun_{day:%Y%m%d}", "https://broadcast.tvchosun.com/")
-        items = re.findall(r'id="stime" value="(\d{4})".*?id="etime" value="(\d{4})".*?'
-                           r'<a class="title"[^>]*>(.*?)</a>', raw, re.S)
-        res += day_progs(day, [(s, e, txt(n)) for s, e, n in items])
-        return res
-    return per_day('tvchosun', one)
+        items = []
+        # 프로그램 한 줄(<li>)씩 잘라서 읽음 — 링크 없는 제목(<a>제목</a>)도 포함
+        for li in re.findall(r'<li>\s*<input type="hidden"[^>]*id="broad_on".*?</li>', raw, re.S):
+            st = re.search(r'id="stime" value="(\d{4})"', li)
+            en = re.search(r'id="etime" value="(\d{4})"', li)
+            ti = re.search(r'<div class="title-box[^"]*">.*?<a\b[^>]*>(.*?)</a>', li, re.S)
+            if st and ti:
+                items.append((st.group(1), en.group(1) if en else None, txt(ti.group(1))))
+        return day_progs(day, items)
+    return per_day("tvchosun", one)
 
 
 def channela():
@@ -278,7 +282,7 @@ def ena():
         raw = get_html(f"https://ktena.co.kr/schedule/?d={day:%Y%m%d}", f"ena_{day:%Y%m%d}",
                        "https://ktena.co.kr/schedule/")
         rows = re.findall(r'<div class="col time">\s*(\d{1,2}:\d{2})\s*</div>\s*'
-                          r'<div class="col tit">\s*<strong>(.*?)</strong>.*?'
+                          r'<div class="col tit">.*?<strong>(.*?)</strong>.*?'
                           r'<div class="col summ">\s*(\d*)\s*</div>', raw, re.S)
         res = day_progs(day, [(t, None, txt(n)) for t, n, _ in rows])
         for p, (_, _, mins) in zip(res, rows):

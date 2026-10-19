@@ -10,6 +10,7 @@ import json
 import pathlib
 import re
 import traceback
+import xml.etree.ElementTree as ET
 
 import requests
 
@@ -26,8 +27,8 @@ HEADERS = {
 
 
 # ---------- 공통 도구 ----------
-def get_json(url, name, **kw):
-    r = requests.get(url, headers=HEADERS, timeout=20, **kw)
+def get_json(url, name, extra_headers=None, **kw):
+    r = requests.get(url, headers={**HEADERS, **(extra_headers or {})}, timeout=20, **kw)
     r.raise_for_status()
     RAW.mkdir(parents=True, exist_ok=True)
     (RAW / f"{name}.json").write_text(r.text, encoding="utf-8")
@@ -89,18 +90,36 @@ def kbs(channel_code):
     return out
 
 
-def mbc():
+def per_day(name, fn):
+    """오늘 편성은 필수, 이후 날짜는 아직 미공개일 수 있으니 실패해도 건너뜀."""
     out = []
-    for day in days():
-        url = f"https://control.imbc.com/Schedule/PCONT?sDate={day:%Y%m%d}&sType=TV"
-        data = get_json(url, f"mbc_{day:%Y%m%d}")
-        for s in data if isinstance(data, list) else pick(data, "list", "data") or []:
-            if pick(s, "Channel", "ChannelCode") not in (None, "M", "MBC"):
-                continue
-            st = to_dt(day, pick(s, "StartTime", "starttime"))
-            out.append(prog(st, None, pick(s, "ProgramTitle", "Title", "title"),
-                            pick(s, "TypeTitle", "Genre")))
+    for i, day in enumerate(days()):
+        try:
+            out += fn(day)
+        except Exception as e:
+            if i == 0:
+                raise
+            print(f"  ({name} {day} 건너뜀: {e})")
     return out
+
+
+def mbc():
+    """MBC 공식 편성 API. BroadType 0 = 결방(스포츠 중계 등으로 대체)이라 제외."""
+    def one(day):
+        res = []
+        url = f"https://control.imbc.com/Schedule/TV?sDate={day:%Y%m%d}&sType=ALL"
+        data = get_json(url, f"mbc_{day:%Y%m%d}",
+                        extra_headers={"Referer": "https://schedule.imbc.com/"})
+        for s in data:
+            if str(s.get("BroadType", "1")).strip() == "0":
+                continue
+            st = to_dt(day, s["StartTime"])
+            en = to_dt(day, s["EndTime"]) if s.get("EndTime") else None
+            if en and en <= st:
+                en += dt.timedelta(days=1)
+            res.append(prog(st, en, s["Title"]))
+        return res
+    return per_day('mbc', one)
 
 
 def sbs():
@@ -118,71 +137,146 @@ def sbs():
     return out
 
 
-# ---------- 범용 HTML 편성표 수집기 ----------
-TIME_RE = re.compile(r"^(?:[01]?\d|2[0-9]):[0-5]\d$")
-INLINE_RE = re.compile(r"^((?:[01]?\d|2[0-9]):[0-5]\d)\s*[~\-]?\s*(?:(?:[01]?\d|2[0-9]):[0-5]\d)?\s+(.{2,})$")
-SKIP = {"본방", "재방", "생방", "HD", "UHD", "자막", "수화", "해설", "다시보기", "VOD", "편성표",
-        "LIVE", "ON AIR", "방송중", "15", "12", "19", "7", "ALL", "전체"}
+# ---------- HTML 편성표 공통 ----------
+def get_html(url, name, referer):
+    r = requests.get(url, timeout=20, headers={**HEADERS, "Accept": "text/html,*/*",
+                                               "Referer": referer})
+    r.raise_for_status()
+    if r.encoding in (None, "ISO-8859-1"):
+        r.encoding = r.apparent_encoding
+    RAW.mkdir(parents=True, exist_ok=True)
+    (RAW / f"{name}.html").write_text(r.text, encoding="utf-8")
+    return r.text
 
 
-def html_text_tokens(raw):
-    raw = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", raw)
-    raw = re.sub(r"(?s)<[^>]+>", "\n", raw)
-    toks = [html.unescape(t).strip() for t in raw.split("\n")]
-    return [re.sub(r"\s+", " ", t) for t in toks if t.strip()]
+def txt(s):
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s))).strip()
 
 
-def parse_html_schedule(raw, day):
-    """페이지에서 'HH:MM → 프로그램명' 순서를 찾아냅니다."""
-    toks, out, i = html_text_tokens(raw), [], 0
-    while i < len(toks):
-        t = toks[i]
-        m = INLINE_RE.match(t)
-        if m and m.group(2) not in SKIP:
-            out.append((m.group(1), m.group(2)))
-        elif TIME_RE.match(t):
-            for j in range(i + 1, min(i + 6, len(toks))):
-                c = toks[j]
-                if TIME_RE.match(c) or re.match(r"^[~\-]\s*\d", c):
-                    continue
-                if c not in SKIP and len(c) >= 2 and not c.isdigit():
-                    out.append((t, c))
-                    i = j
-                    break
-        i += 1
-    progs, prev = [], None
-    for hhmm, title in out:
-        st = to_dt(day, hhmm.zfill(5))
-        if prev and st < prev - dt.timedelta(hours=6):   # 자정 넘어가면 다음날
+def day_progs(day, items):
+    """[(시작 'HH:MM', 종료 'HH:MM' 또는 None, 제목)] → 프로그램 목록.
+    시각이 거꾸로 가면(자정 넘김) 다음날로 처리."""
+    out, prev = [], None
+    for st_s, en_s, title in items:
+        st = to_dt(day, st_s)
+        if prev and st < prev - dt.timedelta(hours=3):
             st += dt.timedelta(days=1)
         prev = st
-        progs.append(prog(st, None, title))
-    if len(progs) < 5:
-        raise ValueError(f"편성 항목을 {len(progs)}개밖에 찾지 못함 (페이지 구조 확인 필요)")
-    return progs
+        en = None
+        if en_s:
+            en = to_dt(st.date(), en_s)
+            if en <= st:
+                en += dt.timedelta(days=1)
+        out.append(prog(st, en, title))
+    if len(out) < 5:
+        raise ValueError(f"{day} 편성 항목 {len(out)}개 (페이지 구조 변경 가능성)")
+    return out
 
 
-def html_channel(name, url_tpl, date_fmt="%Y%m%d", days_n=DAYS):
-    """url_tpl 에 {date} 가 있으면 날짜별로, 없으면 오늘 하루만 수집."""
-    def run():
-        out, ds = [], days() if "{date}" in url_tpl else days()[:1]
-        for day in ds[:days_n]:
-            url = url_tpl.format(date=day.strftime(date_fmt))
-            r = requests.get(url, headers={**HEADERS, "Accept": "text/html,*/*"}, timeout=20)
-            r.raise_for_status()
-            r.encoding = r.apparent_encoding if r.encoding in (None, "ISO-8859-1") else r.encoding
-            RAW.mkdir(parents=True, exist_ok=True)
-            (RAW / f"{name}_{day:%Y%m%d}.html").write_text(r.text, encoding="utf-8")
-            out += parse_html_schedule(r.text, day)
-        return out
-    return run
+def jtbc():
+    def one(day):
+        res = []
+        raw = get_html(f"https://jtbc.co.kr/schedule/jtbc/{day:%Y%m%d}", f"jtbc_{day:%Y%m%d}",
+                       "https://jtbc.co.kr/schedule")
+        items = re.findall(r'class="time_v">\s*(\d{1,2}:\d{2}).*?<strong class="title">(.*?)</strong>',
+                           raw, re.S)
+        res += day_progs(day, [(t, None, txt(n)) for t, n in items])
+        return res
+    return per_day('jtbc', one)
 
 
-# 종편 4사 편성표 주소 — 첫 실행 결과에 따라 주소/날짜형식을 조정합니다.
-JTBC = html_channel("jtbc", "https://tv.jtbc.co.kr/schedule?date={date}")
-TVCHOSUN = html_channel("tvchosun", "https://broadcast.tvchosun.com/broadcast/schedule.cstv?date={date}", "%Y-%m-%d")
-CHANNELA = html_channel("channela", "https://www.ichannela.com/schedule/schedule.do?date={date}")
-MBN = html_channel("mbn", "https://www.mbn.co.kr/vod/schedule?date={date}")
+def tvchosun():
+    def one(day):
+        res = []
+        raw = get_html(f"https://broadcast.tvchosun.com/onair/schedule/today.cstv?date={day:%Y%m%d}&ch=",
+                       f"tvchosun_{day:%Y%m%d}", "https://broadcast.tvchosun.com/")
+        items = re.findall(r'id="stime" value="(\d{4})".*?id="etime" value="(\d{4})".*?'
+                           r'<a class="title"[^>]*>(.*?)</a>', raw, re.S)
+        res += day_progs(day, [(s, e, txt(n)) for s, e, n in items])
+        return res
+    return per_day('tvchosun', one)
+
+
+def channela():
+    def one(day):
+        res = []
+        raw = get_html(f"https://ichannela.com/com/cmm/schedule.do?selectedDate={day:%Y%m%d}",
+                       f"channela_{day:%Y%m%d}", "https://ichannela.com/")
+        items = re.findall(r'<div class="time">\s*<strong>(\d{1,2}:\d{2})</strong>.*?'
+                           r'<strong class="title">(.*?)</strong>', raw, re.S)
+        res += day_progs(day, [(t, None, re.sub(r"^\[[^\]]*\]\s*", "", txt(n))) for t, n in items])
+        return res
+    return per_day('channela', one)
+
+
+def mbn():
+    def one(day):
+        res = []
+        url = f"https://www.mbn.co.kr/xml/scheduleXML.mbn?date={day:%Y/%m/%d}"
+        raw = get_html(url, f"mbn_{day:%Y%m%d}", "https://www.mbn.co.kr/vod/schedule")
+        root = ET.fromstring(raw.encode("utf-8"))
+        for p in root.iter("program"):
+            d = dt.date.fromisoformat(p.findtext("air_date").strip())
+            st = to_dt(d, p.findtext("start_time"))
+            en = to_dt(d, p.findtext("end_time"))
+            if en <= st:
+                en += dt.timedelta(days=1)
+            title = (p.findtext("program_title") or "").strip()
+            ep = (p.findtext("bcast_episode") or "").strip()
+            if ep and ep != "0":
+                title += f" {ep}회"
+            res.append(prog(st, en, title, (p.findtext("attribute") or "").strip() or None))
+        return res
+    return per_day('mbn', one)
+
+
+def tvn():
+    """tvN 공식 편성표 페이지에 들어 있는 주간 편성 데이터(시작·종료 시각 포함)."""
+    raw = get_html("https://tvn.cjenm.com/ko/tvn-schedule/", "tvn", "https://tvn.cjenm.com/ko/")
+    m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', raw, re.S)
+    if not m:
+        raise ValueError("tvN 편성 데이터 블록을 찾지 못함")
+    found = []
+
+    def walk(o):
+        if isinstance(o, dict):
+            if isinstance(o.get("schePgmList"), list):
+                found.extend(o["schePgmList"])
+            for v in o.values():
+                walk(v)
+        elif isinstance(o, list):
+            for v in o:
+                walk(v)
+    walk(json.loads(m.group(1)))
+    out = []
+    for p in found:
+        if p.get("chnNm") not in (None, "tvN"):
+            continue
+        st = dt.datetime.fromtimestamp(p["bdStrDtm"], KST)
+        en = dt.datetime.fromtimestamp(p["bdEndDtm"], KST) if p.get("bdEndDtm") else None
+        title = re.sub(r"^\[[^\]]*\]\s*", "", (p.get("pgmNm") or "").strip())
+        ep = re.search(r"(\d+)\s*[회화]", p.get("pgmEpinoNm") or "")
+        if ep:
+            title += f" {ep.group(1)}회"
+        out.append(prog(st, en, title))
+    return out
+
+
+def ena():
+    """ENA 공식 편성표. 방송 길이(분)로 종료 시각 계산."""
+    def one(day):
+        raw = get_html(f"https://ktena.co.kr/schedule/?d={day:%Y%m%d}", f"ena_{day:%Y%m%d}",
+                       "https://ktena.co.kr/schedule/")
+        rows = re.findall(r'<div class="col time">\s*(\d{1,2}:\d{2})\s*</div>\s*'
+                          r'<div class="col tit">\s*<strong>(.*?)</strong>.*?'
+                          r'<div class="col summ">\s*(\d*)\s*</div>', raw, re.S)
+        res = day_progs(day, [(t, None, txt(n)) for t, n, _ in rows])
+        for p, (_, _, mins) in zip(res, rows):
+            if mins:
+                p["end"] = (dt.datetime.fromisoformat(p["start"])
+                            + dt.timedelta(minutes=int(mins))).isoformat()
+        return res
+    return per_day("ena", one)
 
 
 # 채널 추가는 여기에 한 줄씩: (id, 표시이름, 수집함수)
@@ -191,10 +285,12 @@ CHANNELS = [
     ("kbs2", "KBS2", lambda: kbs(12)),
     ("mbc", "MBC", mbc),
     ("sbs", "SBS", sbs),
-    ("jtbc", "JTBC", JTBC),
-    ("tvchosun", "TV조선", TVCHOSUN),
-    ("channela", "채널A", CHANNELA),
-    ("mbn", "MBN", MBN),
+    ("jtbc", "JTBC", jtbc),
+    ("tvchosun", "TV조선", tvchosun),
+    ("channela", "채널A", channela),
+    ("mbn", "MBN", mbn),
+    ("tvn", "tvN", tvn),
+    ("ena", "ENA", ena),
 ]
 
 

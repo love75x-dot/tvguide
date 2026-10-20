@@ -52,11 +52,19 @@ def main():
     if not (token and chat and DATA.exists()):
         print("토큰/채팅ID/편성 데이터 없음 → 건너뜀")
         return
+    # 같은 시각에 두 번 실행돼도(예약 실행 중복) 한 번만 발송
+    mark = ROOT / "data" / "digest_sent.txt"
+    key = f"{now:%Y-%m-%d} {hour:02d}"
+    if not force and mark.exists() and mark.read_text().strip() == key:
+        print("이미 발송함 → 건너뜀")
+        return
     text = build(*SCHEDULE[hour], now)
     for i in range(0, len(text), 4000):        # 텔레그램 길이 제한
         requests.post(f"https://api.telegram.org/bot{token}/sendMessage", timeout=20,
                       json={"chat_id": chat, "text": text[i:i + 4000], "parse_mode": "HTML",
                             "disable_web_page_preview": True}).raise_for_status()
+    if not force:
+        mark.write_text(key)
     print("편성표 발송 완료")
 
 

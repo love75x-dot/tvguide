@@ -54,8 +54,30 @@ nav.main button.on{color:var(--text);border-bottom-color:var(--accent)}
 .row.live{background:var(--live);font-weight:600}
 .row.live time{color:var(--accent)}
 @media(min-width:900px){#grid{grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}}
+/* 시간대별 */
+.seg{display:inline-flex;gap:3px;padding:3px;background:var(--card);border:1px solid var(--line);border-radius:10px;margin-top:10px}
+.seg button{border:0;background:none;color:var(--sub);font-size:14px;font-weight:600;padding:7px 14px;border-radius:7px;cursor:pointer}
+.seg button.on{background:var(--text);color:var(--bg)}
+.tools{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-top:12px}
+.toggle{border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:18px;padding:6px 13px;font-size:13px;cursor:pointer}
+.toggle.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.hr{margin-top:12px;overflow:hidden}
+.hr > h3{margin:0;padding:9px 14px;font-size:14px;background:var(--soft);border-bottom:1px solid var(--line);display:flex;justify-content:space-between;align-items:center;position:sticky;top:0}
+.hr > h3 small{font-weight:400;color:var(--sub);font-size:12px}
+.hr.nowh > h3{background:var(--live);color:var(--accent)}
+.tr{display:flex;gap:10px;padding:9px 14px;border-bottom:1px solid var(--line);font-size:14px;align-items:center}
+.tr:last-child{border:0}
+.tr time{width:42px;flex:none;color:var(--sub);font-variant-numeric:tabular-nums}
+.tr .chn{flex:none;width:58px;font-size:12px;font-weight:600;color:var(--sub);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tr .t{flex:1;min-width:0}
+.tr .t .tags{display:inline-flex;gap:4px;margin-left:4px;vertical-align:1px;flex-wrap:wrap}
+.tr .end{flex:none;font-size:11px;color:var(--sub);white-space:nowrap}
+.tr.live{background:var(--live)}.tr.live .t{font-weight:600}.tr.live time{color:var(--accent);font-weight:600}
+.tr.past{opacity:.45}
+.tr.game .chn{color:var(--ok)}
+@media(max-width:520px){.tr{gap:8px;padding:9px 10px}.tr .chn{width:50px}.tr .end{display:none}}
 /* 오늘의 소재 */
-.subnav{display:grid;grid-template-columns:repeat(4,1fr);gap:4px;padding:4px;background:var(--card);border:1px solid var(--line);border-radius:12px}
+.subnav{display:grid;grid-template-columns:repeat(3,1fr);gap:4px;padding:4px;background:var(--card);border:1px solid var(--line);border-radius:12px}
 .subnav button{border:0;background:none;color:var(--sub);font-size:14px;font-weight:600;padding:10px 4px;border-radius:9px;cursor:pointer}
 .subnav button.on{background:var(--accent);color:#fff}
 .datebar{display:flex;align-items:center;justify-content:center;gap:10px;margin:10px 0;padding:8px;background:var(--card);border:1px solid var(--line);border-radius:12px}
@@ -143,7 +165,13 @@ nav.main button.on{color:var(--text);border-bottom-color:var(--accent)}
 <!-- ===================== 편성표 ===================== -->
 <section class="view" id="v-schedule">
   <div class="chips" id="days"></div>
+  <div class="seg" id="schMode"><button data-m="time">⏰ 시간대별</button><button data-m="ch">📺 채널별</button></div>
   <section id="now"><h2>🔴 지금 방송 중</h2><div id="nowList"></div></section>
+  <div id="timeBox">
+    <div class="tools" id="tFilter"></div>
+    <div class="info" id="tInfo"></div>
+    <div id="tList"></div>
+  </div>
   <main id="grid"></main>
 </section>
 
@@ -152,7 +180,6 @@ nav.main button.on{color:var(--text);border-bottom-color:var(--accent)}
   <div class="subnav" id="subNav">
     <button data-s="ent">연예 실시간</button>
     <button data-s="kw">키워드</button>
-    <button data-s="bc">방송·경기</button>
     <button data-s="news">기사 모음</button>
   </div>
 
@@ -175,14 +202,6 @@ nav.main button.on{color:var(--text);border-bottom-color:var(--accent)}
     <div class="note" id="kwNote">📌 네이버 검색광고 키워드 도구 기준 <b>최근 한 달 검색량</b>(PC+모바일)이에요. 키워드를 누르면 네이버 검색이 열려요. ▲▼는 전날 대비 순위 변화.</div>
     <div class="chips" id="kwGroups"></div>
     <div class="kwgrid" id="kwList" style="margin-top:10px"></div>
-  </div>
-
-  <div id="s-bc" class="sub">
-    <div class="chips" id="bcDays" style="margin-top:10px"></div>
-    <div class="note">⏱ 속보 글은 <b>방송·경기가 끝난 직후</b>가 승부예요. 끝나는 시각을 보고 미리 초안을 잡아 두세요. 방송은 <b>저녁 본방</b>과 최근 <b>시청률 TOP20</b>(닐슨코리아) 프로그램만 모았어요.</div>
-    <div class="chips" id="bcFilter"></div>
-    <div class="info" id="bcInfo"></div>
-    <div id="bcList"></div>
   </div>
 
   <div id="s-news" class="sub">
@@ -260,7 +279,8 @@ function go(v, s){
   const h = view === "topics" ? `#topics/${sub}` : `#${view}`;
   if(location.hash !== h) history.replaceState(null, "", h);
   store.set("lastView", [view, sub]);
-  if(view === "topics"){ ({ent: loadEnt, kw: loadKw, bc: renderBc, news: loadNews})[sub](); }
+  if(view === "topics"){ ({ent: loadEnt, kw: loadKw, news: loadNews})[sub](); }
+  if(view === "schedule") renderSchedule();
   if(view === "image") drawImg();
 }
 document.querySelectorAll("#mainNav button").forEach(b => b.onclick = () => go(b.dataset.v));
@@ -306,6 +326,10 @@ function renderSchedule(){
     const pct = Math.round((now - p.s) / (p.e - p.s) * 100);
     return `<div class="nowCard"><b>${esc(c.name)} · ${hm(p.s)}~${hm(p.e)}</b><span>${esc(p.title)}</span><div class="bar"><i style="width:${pct}%"></i></div></div>`;
   }).join("") || '<div class="empty">현재 방송 정보가 없어요.</div>';
+  document.querySelectorAll("#schMode button").forEach(b => b.classList.toggle("on", b.dataset.m === schMode));
+  document.getElementById("timeBox").hidden = schMode !== "time";
+  document.getElementById("grid").hidden = schMode !== "ch";
+  if(schMode === "time"){ renderTime(); return; }
   document.getElementById("grid").innerHTML = sched.channels.map(c => {
     const rows = c.programs.filter(p => kstDay(p.s) === selDay).map(p => {
       const cls = p.s <= now && now < p.e ? "live" : p.e <= now ? "past" : "";
@@ -315,8 +339,65 @@ function renderSchedule(){
   }).join("");
 }
 
-/* ---------- 방송·경기 (타임라인) ---------- */
-let bcDay = null, bcFilter = "all";
+/* ---------- 시간대별 편성표 ---------- */
+let schMode = store.get("schMode", "time"), tGroup = "all", tMain = false, tPast = false;
+document.querySelectorAll("#schMode button").forEach(b => b.onclick = () => { schMode = b.dataset.m; store.set("schMode", schMode); renderSchedule(); });
+const GROUPS = {"지상파":["KBS1","KBS2","MBC","SBS"], "종편":["JTBC","TV조선","채널A","MBN"], "케이블":["tvN","ENA"]};
+function renderTime(){
+  const now = new Date(), day = selDay;
+  let ev = [];
+  sched.channels.forEach(c => c.programs.forEach(p => {
+    if(kstDay(p.s) !== day) return;
+    ev.push({kind:"tv", s:p.s, e:p.e, title:p.title, ch:c.name, type:p.type, rating:ratingOf(p.title, c.name)});
+  }));
+  (sports.games || []).filter(g => g.date === day).forEach(g => {
+    const s = new Date(`${g.date}T${g.time}:00+09:00`);
+    ev.push({kind:"game", s, e:new Date(s.getTime() + 3.5*3600e3), title:`${g.away} vs ${g.home}`, ch:g.league, g});
+  });
+  const cnt = {all:ev.length}; Object.keys(GROUPS).forEach(k => cnt[k] = ev.filter(e => GROUPS[k].includes(e.ch)).length);
+  cnt.game = ev.filter(e => e.kind === "game").length;
+  const chips = [["all","전체"],["지상파","지상파"],["종편","종편"],["케이블","케이블"]].concat(cnt.game ? [["game","⚾ 경기"]] : []);
+  document.getElementById("tFilter").innerHTML = `<div class="chips">${chips.map(([k,l]) =>
+    `<button class="${k===tGroup?"on":""}" data-k="${k}">${l}<small>${cnt[k]}</small></button>`).join("")}</div>
+    <button class="toggle ${tMain?"on":""}" id="tMain">본방·생방만</button>`;
+  document.querySelectorAll("#tFilter .chips button").forEach(b => b.onclick = () => { tGroup = b.dataset.k; renderTime(); });
+  document.getElementById("tMain").onclick = () => { tMain = !tMain; renderTime(); };
+  ev = ev.filter(e => (tGroup === "all" || (tGroup === "game" ? e.kind === "game" : GROUPS[tGroup].includes(e.ch)))
+                   && (!tMain || e.kind === "game" || e.type !== "재"));
+  ev.sort((a,b) => a.s - b.s || String(a.ch).localeCompare(b.ch));
+  const order = Object.values(GROUPS).flat();
+  ev.sort((a,b) => a.s - b.s || order.indexOf(a.ch) - order.indexOf(b.ch));
+  const rd = Object.values(ratings.latest || {})[0];
+  document.getElementById("tInfo").textContent = `${ev.length}개 방송·경기` + (rd ? ` · 시청률은 ${shortDay(rd.date)} 닐슨코리아 TOP20 기준` : "");
+  const byHour = {};
+  ev.forEach(e => { const h = +hm(e.s).slice(0,2); (byHour[h] = byHour[h] || []).push(e); });
+  const curH = day === todayStr() ? +hm(now).slice(0,2) : -1;
+  let hours = Object.keys(byHour).map(Number).sort((a,b) => a-b);
+  // 오늘은 지난 시간대를 접어 두고 지금 시간부터 보여줌
+  const hidden = curH >= 0 && !tPast ? hours.filter(h => h < curH) : [];
+  hours = hours.filter(h => !hidden.includes(h));
+  const pastBtn = curH >= 0 ? `<button class="toggle" id="tPastBtn" style="width:100%;margin-top:10px;border-radius:10px">${tPast ? "⬆ 지난 시간 접기" :
+    hidden.length ? `⬆ 지난 방송 보기 (${String(hidden[0]).padStart(2,"0")}시~${String(hidden[hidden.length-1]).padStart(2,"0")}시)` : ""}</button>` : "";
+  document.getElementById("tList").innerHTML = (pastBtn && (tPast || hidden.length) ? pastBtn : "") + hours.map(h => {
+    const rows = byHour[h].map(e => {
+      const cls = e.s <= now && now < e.e ? "live" : e.e <= now ? "past" : "";
+      let tags = "";
+      if(e.kind === "tv"){
+        tags = typeBadge(e.type) + (e.rating ? `<span class="badge red">시청률 ${(+e.rating.rating).toFixed(1)}%</span>` : "");
+      }else{
+        const g = e.g;
+        tags = (g.note ? `<span class="badge green">${esc(g.note)}</span>` : "") + (g.score && g.status !== "예정" ? `<span class="badge dark">${esc(g.score)} ${g.status==="종료"?"종료":""}</span>` : "") +
+               (g.tv ? `<span class="badge">📺 ${esc(g.tv)}</span>` : "");
+      }
+      return `<div class="tr ${cls} ${e.kind==="game"?"game":""}"><time>${hm(e.s)}</time><span class="chn">${e.kind==="game"?"⚾ "+esc(e.ch):esc(e.ch)}</span>
+        <span class="t">${esc(e.title)}<span class="tags">${tags}</span></span><span class="end">~${hm(e.e)}</span></div>`;
+    }).join("");
+    return `<section class="card hr ${h===curH?"nowh":""}" id="h${h}"><h3>${String(h).padStart(2,"0")}시 ${h===curH?"· 지금":""}<small>${byHour[h].length}개</small></h3>${rows}</section>`;
+  }).join("") || '<div class="card empty">조건에 맞는 방송이 없어요.</div>';
+  const pb = document.getElementById("tPastBtn"); if(pb) pb.onclick = () => { tPast = !tPast; renderTime(); };
+}
+
+/* ---------- 오늘 방송·경기 요약 (연예 실시간 위) ---------- */
 function bcEvents(day){
   const ev = [];
   if(sched) sched.channels.forEach(c => c.programs.forEach(p => {
@@ -338,47 +419,12 @@ function bcEvents(day){
     if(!cur || (cur.e <= now && e.s > cur.s) || (cur.e > now && e.e > now && e.s < cur.s)) keep[k] = e; });
   return ev.filter(e => e.type !== "재" || keep[e.ch + "|" + e.title] === e).sort((a,b) => a.s - b.s);
 }
-function renderBc(){
-  const today = todayStr();
-  if(!bcDay) bcDay = today;
-  const base = new Date(today + "T00:00:00+09:00");
-  const days = Array.from({length:7}, (_,i) => kstDay(new Date(base.getTime() + (i-1)*864e5)));
-  document.getElementById("bcDays").innerHTML = days.map(d =>
-    `<button class="${d===bcDay?"on":""}" data-d="${d}">${d===today?"오늘":shortDay(d)}</button>`).join("");
-  document.querySelectorAll("#bcDays button").forEach(b => b.onclick = () => { bcDay = b.dataset.d; renderBc(); });
-  const all = bcEvents(bcDay), now = new Date();
-  const n = {all:all.length, tv:all.filter(e=>e.kind==="tv").length, game:all.filter(e=>e.kind==="game").length,
-             main:all.filter(e=>e.kind==="tv" && e.type!=="재").length, rate:all.filter(e=>e.rating).length};
-  const F = [["all","전체"],["tv","📺 방송"],["game","⚾ 경기"],["main","본방만"],["rate","시청률 TOP"]];
-  document.getElementById("bcFilter").innerHTML = F.map(([k,l]) => `<button class="${k===bcFilter?"on":""}" data-k="${k}">${l}<small>${n[k]}</small></button>`).join("");
-  document.querySelectorAll("#bcFilter button").forEach(b => b.onclick = () => { bcFilter = b.dataset.k; renderBc(); });
-  const list = all.filter(e => bcFilter==="all" || (bcFilter==="tv"&&e.kind==="tv") || (bcFilter==="game"&&e.kind==="game") ||
-    (bcFilter==="main"&&e.kind==="tv"&&e.type!=="재") || (bcFilter==="rate"&&e.rating));
-  const rd = Object.values(ratings.latest||{})[0];
-  document.getElementById("bcInfo").textContent = `${list.length}개` + (rd ? ` · 시청률은 ${shortDay(rd.date)} 방송 기준` : "");
-  document.getElementById("bcList").innerHTML = list.map(e => {
-    const done = e.e <= now, on = e.s <= now && now < e.e, soon = !on && !done && e.s - now < 3600e3;
-    let st = done ? "끝" : on ? (e.kind==="game"?"경기 중":"방송 중") : soon ? "곧 시작" : "예정";
-    let meta = "";
-    if(e.kind === "tv"){
-      meta = `${typeBadge(e.type)}<span>${esc(e.ch)}</span>` + (e.rating ? `<span class="badge red">시청률 ${(+e.rating.rating).toFixed(1)}%</span>` : "");
-    }else{
-      const g = e.g;
-      if(g.status === "종료"){ st = "종료"; }
-      meta = `<span class="badge green">경기</span><span>${esc(g.league)}${g.note?" · "+esc(g.note):""}</span>` +
-             (g.score ? `<b>${esc(g.score)}</b>` : "") + (g.tv ? `<span>📺 ${esc(g.tv)}</span>` : "") + (g.place ? `<span>${esc(g.place)}</span>` : "");
-    }
-    return `<div class="card ev ${done?"done":""}"><div class="tm"><b>${hm(e.s)}</b><small>끝 ${hm(e.e)}</small></div>
-      <div class="body"><div class="tt">${esc(e.title)}</div><div class="meta">${meta}</div></div>
-      <span class="st ${on||soon?"on":""}">${st}</span></div>`;
-  }).join("") || '<div class="card empty">이 날은 표시할 방송·경기가 없어요.</div>';
-}
 function stripHtml(){
   const today = todayStr(), now = new Date();
   const ev = bcEvents(today).filter(e => e.e > now && (e.kind === "game" || e.rating || e.type === "본"))
     .sort((a,b) => (b.kind==="game") - (a.kind==="game") || (b.rating?.rating||0) - (a.rating?.rating||0)).slice(0,4).sort((a,b) => a.s - b.s);
   if(!ev.length) return "";
-  return `<h4><span>📺 오늘 방송·경기</span><a onclick="go('topics','bc')">전체 일정 →</a></h4>` + ev.map(e => {
+  return `<h4><span>📺 오늘 방송·경기</span><a onclick="schMode='time';go('schedule')">시간대별 편성표 →</a></h4>` + ev.map(e => {
     const on = e.s <= now;
     return `<div class="it"><time>${hm(e.s)}</time><span>${esc(e.title)} · ${esc(e.kind==="game"?e.g.league:e.ch)}</span><em>${on?(e.kind==="game"?"경기 중 ▶":"방송 중 ▶"):(e.s-now<3600e3?"곧 시작":"끝 "+hm(e.e))}</em></div>`;
   }).join("");
@@ -584,15 +630,16 @@ document.getElementById("btnCopy").onclick = async () => {
 
 /* ---------- 시작 ---------- */
 (async () => {
-  const m = location.hash.match(/^#(schedule|topics|image)(?:\/(ent|kw|bc|news))?/);
+  const m = location.hash.match(/^#(schedule|topics|image)(?:\/(ent|kw|news))?/);
   const last = store.get("lastView", ["schedule","ent"]);
   view = m ? m[1] : last[0]; sub = (m && m[2]) || last[1] || "ent";
+  if(!["ent","kw","news"].includes(sub)) sub = "ent";
   go(view, sub);
   await loadBase();
   renderSchedule();
   go(view, sub);
 })();
-setInterval(() => { renderSchedule(); if(view==="topics" && sub==="bc") renderBc(); }, 60e3);
+setInterval(() => { if(view==="schedule") renderSchedule(); }, 60e3);
 setInterval(async () => { await loadBase(); renderSchedule(); if(view==="topics") go(); }, 15*60e3);
 </script>
 </body>

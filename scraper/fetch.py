@@ -68,9 +68,24 @@ def finalize(programs):
     return [p for p in programs if p.get("end")]
 
 
-def prog(start, end, title, genre=None):
+def prog(start, end, title, genre=None, kind=None):
+    title = str(title).strip()
+    if kind is None and re.search(r"\(재[,)\s]|\[재\]|\(재방\)", title):
+        kind = "재"
     return {"start": start.isoformat(), "end": end.isoformat() if end else None,
-            "title": str(title).strip(), "genre": genre}
+            "title": title, "genre": genre, "type": kind}
+
+
+def kind_from(text):
+    """방송사 표시에서 생방/재방/본방 구분 → '생'·'재'·'본'·None"""
+    t = text or ""
+    if re.search(r"생방|>\s*생\s*<|livebroad|LIVE", t):
+        return "생"
+    if re.search(r"재방|>\s*재\s*<|rebroad", t):
+        return "재"
+    if re.search(r"본방|>\s*본\s*<|mainbroad", t):
+        return "본"
+    return None
 
 
 def days():
@@ -95,7 +110,8 @@ def kbs(channel_code):
             if en and en <= st:
                 en += dt.timedelta(days=1)
             out.append(prog(st, en, pick(s, "program_title", "programming_table_title"),
-                            pick(s, "program_genre")))
+                            pick(s, "program_genre"),
+                            kind_from(f"{s.get('production_type','')} {s.get('rerun_classification','')}")))
     return out
 
 
@@ -126,7 +142,8 @@ def mbc():
             en = to_dt(day, s["EndTime"]) if s.get("EndTime") else None
             if en and en <= st:
                 en += dt.timedelta(days=1)
-            res.append(prog(st, en, s["Title"]))
+            kind = "재" if "(재" in s["Title"] else "생" if s.get("Live") == "Y" else "본"
+            res.append(prog(st, en, s["Title"], kind=kind))
         return res
     return per_day('mbc', one)
 
@@ -166,7 +183,9 @@ def day_progs(day, items):
     """[(시작 'HH:MM', 종료 'HH:MM' 또는 None, 제목)] → 프로그램 목록.
     시각이 거꾸로 가면(자정 넘김) 다음날로 처리."""
     out, prev = [], None
-    for st_s, en_s, title in items:
+    for it in items:
+        st_s, en_s, title = it[:3]
+        kind = it[3] if len(it) > 3 else None
         st = to_dt(day, st_s)
         if prev and st < prev - dt.timedelta(hours=3):
             st += dt.timedelta(days=1)
@@ -176,7 +195,7 @@ def day_progs(day, items):
             en = to_dt(st.date(), en_s)
             if en <= st:
                 en += dt.timedelta(days=1)
-        out.append(prog(st, en, title))
+        out.append(prog(st, en, title, kind=kind))
     if len(out) < 5:
         raise ValueError(f"{day} 편성 항목 {len(out)}개 (페이지 구조 변경 가능성)")
     return out
@@ -187,9 +206,14 @@ def jtbc():
         res = []
         raw = get_html(f"https://jtbc.co.kr/schedule/jtbc/{day:%Y%m%d}", f"jtbc_{day:%Y%m%d}",
                        "https://jtbc.co.kr/schedule")
-        items = re.findall(r'class="time_v">\s*(\d{1,2}:\d{2}).*?<strong class="title">(.*?)</strong>',
-                           raw, re.S)
-        res += day_progs(day, [(t, None, txt(n)) for t, n in items])
+        items = []
+        for blk in raw.split('class="time_v"')[1:]:
+            t = re.match(r'>\s*(\d{1,2}:\d{2})', blk)
+            n = re.search(r'<strong class="title">(.*?)</strong>', blk, re.S)
+            if t and n:
+                badge = blk[n.end():n.end() + 2500].split("다시보기")[0]
+                items.append((t.group(1), None, txt(n.group(1)), kind_from(badge)))
+        res += day_progs(day, items)
         return res
     return per_day('jtbc', one)
 
@@ -205,7 +229,8 @@ def tvchosun():
             en = re.search(r'id="etime" value="(\d{4})"', li)
             ti = re.search(r'<div class="title-box[^"]*">.*?<a\b[^>]*>(.*?)</a>', li, re.S)
             if st and ti:
-                items.append((st.group(1), en.group(1) if en else None, txt(ti.group(1))))
+                badge = li.split('schedule-badge-box')[-1]
+                items.append((st.group(1), en.group(1) if en else None, txt(ti.group(1)), kind_from(badge)))
         return day_progs(day, items)
     return per_day("tvchosun", one)
 
@@ -215,9 +240,14 @@ def channela():
         res = []
         raw = get_html(f"https://ichannela.com/com/cmm/schedule.do?selectedDate={day:%Y%m%d}",
                        f"channela_{day:%Y%m%d}", "https://ichannela.com/")
-        items = re.findall(r'<div class="time">\s*<strong>(\d{1,2}:\d{2})</strong>.*?'
-                           r'<strong class="title">(.*?)</strong>', raw, re.S)
-        res += day_progs(day, [(t, None, re.sub(r"^\[[^\]]*\]\s*", "", txt(n))) for t, n in items])
+        items = []
+        for blk in raw.split('<div class="time">')[1:]:
+            t = re.match(r'\s*<strong>(\d{1,2}:\d{2})</strong>', blk)
+            n = re.search(r'<strong class="title">(.*?)</strong>', blk, re.S)
+            if t and n:
+                flags = blk[n.end():].split('class="btn_area"')[0]
+                items.append((t.group(1), None, re.sub(r"^\[[^\]]*\]\s*", "", txt(n.group(1))), kind_from(flags)))
+        res += day_progs(day, items)
         return res
     return per_day('channela', one)
 
@@ -239,7 +269,8 @@ def mbn():
             ep = (p.findtext("bcast_episode") or "").strip()
             if ep and ep != "0":
                 title += f" {ep}회"
-            res.append(prog(st, en, title, (p.findtext("attribute") or "").strip() or None))
+            res.append(prog(st, en, title, (p.findtext("attribute") or "").strip() or None,
+                            kind_from(p.findtext("info") or "")))
         return res
     return per_day('mbn', one)
 
@@ -272,7 +303,7 @@ def tvn():
         ep = re.search(r"(\d+)\s*[회화]", p.get("pgmEpinoNm") or "")
         if ep:
             title += f" {ep.group(1)}회"
-        out.append(prog(st, en, title))
+        out.append(prog(st, en, title, kind={"재": "재", "본": "본", "생": "생"}.get((p.get("bdFgNm") or "").strip())))
     return out
 
 
@@ -281,11 +312,16 @@ def ena():
     def one(day):
         raw = get_html(f"https://ktena.co.kr/schedule/?d={day:%Y%m%d}", f"ena_{day:%Y%m%d}",
                        "https://ktena.co.kr/schedule/")
-        rows = re.findall(r'<div class="col time">\s*(\d{1,2}:\d{2})\s*</div>\s*'
-                          r'<div class="col tit">.*?<strong>(.*?)</strong>.*?'
-                          r'<div class="col summ">\s*(\d*)\s*</div>', raw, re.S)
-        res = day_progs(day, [(t, None, txt(n)) for t, n, _ in rows])
-        for p, (_, _, mins) in zip(res, rows):
+        rows = []
+        for blk in raw.split('<div class="col time">')[1:]:
+            t = re.match(r'\s*(\d{1,2}:\d{2})\s*</div>', blk)
+            n = re.search(r'<div class="col tit">.*?<strong>(.*?)</strong>', blk, re.S)
+            mins = re.search(r'<div class="col summ">\s*(\d*)\s*</div>', blk)
+            if t and n:
+                marks = blk[n.end():].split('col age')[0]
+                rows.append((t.group(1), txt(n.group(1)), mins.group(1) if mins else "", kind_from(marks)))
+        res = day_progs(day, [(t, None, n, k) for t, n, _, k in rows])
+        for p, (_, _, mins, _) in zip(res, rows):
             if mins:
                 p["end"] = (dt.datetime.fromisoformat(p["start"])
                             + dt.timedelta(minutes=int(mins))).isoformat()

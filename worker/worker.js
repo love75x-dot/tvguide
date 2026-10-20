@@ -3,6 +3,9 @@
 //   BOT_TOKEN       텔레그램 봇 토큰 (Secret)
 //   SITE_URL        편성표 사이트 주소 예) https://내프로젝트.pages.dev
 //   WEBHOOK_SECRET  아무 영문/숫자 문자열 (Secret, 위조 요청 차단용)
+//   GH_TOKEN        GitHub 토큰 (Secret, 매시간 수집 실행용)
+//   GH_REPO         예) love75x-dot/tvguide (Text)
+// Settings → Trigger events 에 Cron "7 * * * *" 를 추가하면 매시간 GitHub 수집을 실행합니다.
 
 const HELP = `📺 편성표 봇 사용법
 
@@ -113,8 +116,34 @@ async function handle(env, text) {
   return HELP;
 }
 
+async function runCollector(env) {
+  const r = await fetch(
+    `https://api.github.com/repos/${env.GH_REPO}/actions/workflows/update.yml/dispatches`, {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${env.GH_TOKEN}`,
+        Accept: "application/vnd.github+json",
+        "User-Agent": "tvguide-bot",
+      },
+      body: JSON.stringify({ ref: "main" }),
+    });
+  if (r.status !== 204) throw new Error(`GitHub 실행 실패 ${r.status}: ${await r.text()}`);
+}
+
 export default {
+  // 매시간 예약 실행 (Cron Trigger)
+  async scheduled(event, env, ctx) {
+    ctx.waitUntil(runCollector(env));
+  },
+
   async fetch(request, env) {
+    // 수동 확인용: 브라우저에서 /run?key=WEBHOOK_SECRET 열면 즉시 수집 실행
+    const u = new URL(request.url);
+    if (request.method === "GET" && u.pathname === "/run") {
+      if (u.searchParams.get("key") !== env.WEBHOOK_SECRET) return new Response("forbidden", { status: 403 });
+      try { await runCollector(env); return new Response("수집 실행 요청 완료"); }
+      catch (e) { return new Response(String(e), { status: 500 }); }
+    }
     if (request.method !== "POST") return new Response("편성표 봇 작동 중");
     if (env.WEBHOOK_SECRET &&
         request.headers.get("X-Telegram-Bot-Api-Secret-Token") !== env.WEBHOOK_SECRET)

@@ -2,8 +2,8 @@ name: 편성표·연예이슈 업데이트
 
 on:
   schedule:
-    - cron: "7 * * * *"   # 매시 7분 (UTC 기준, 1시간마다)
-  workflow_dispatch:       # Actions 탭에서 수동 실행 버튼
+    - cron: "7 * * * *"   # 예비용 (주 실행은 Cloudflare 봇이 매시 7분에 시작)
+  workflow_dispatch:
     inputs:
       digest_test:
         description: "편성표 발송 테스트 (8 또는 19 입력, 비우면 평소대로)"
@@ -11,6 +11,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: tvguide-update
+  cancel-in-progress: false
 
 jobs:
   fetch:
@@ -29,6 +33,12 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+      - name: 오늘의 소재 (연예 랭킹·시청률·경기·키워드)
+        run: python scraper/trends.py
+        env:
+          NAVER_AD_API_KEY: ${{ secrets.NAVER_AD_API_KEY }}
+          NAVER_AD_SECRET: ${{ secrets.NAVER_AD_SECRET }}
+          NAVER_AD_CUSTOMER_ID: ${{ secrets.NAVER_AD_CUSTOMER_ID }}
       - name: 편성표 텔레그램 발송 (08시·19시)
         run: python scraper/digest.py
         env:
@@ -42,4 +52,5 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || git commit -m "편성표 갱신 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+          git pull --rebase -X ours || true
           git push

@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-20T16:24:59.671728+09:00",
+ "generated": "2026-10-20T17:07:50.825304+09:00",
  "channels": [
   {
    "id": "kbs1",
    "name": "KBS1",
    "ok": true,
-   "updated": "2026-10-20T16:24:59.671728+09:00",
+   "updated": "2026-10-20T17:07:50.825304+09:00",
    "programs": [
     {
      "start": "2026-10-20T05:00:00+09:00",
@@ -1183,7 +1183,7 @@
    "id": "kbs2",
    "name": "KBS2",
    "ok": true,
-   "updated": "2026-10-20T16:24:59.671728+09:00",
+   "updated": "2026-10-20T17:07:50.825304+09:00",
    "programs": [
     {
      "start": "2026-10-20T05:00:00+09:00",
@@ -1989,7 +1989,7 @@
    "id": "mbc",
    "name": "MBC",
    "ok": true,
-   "updated": "2026-10-20T16:24:59.671728+09:00",
+   "updated": "2026-10-20T17:07:50.825304+09:00",
    "programs": [
     {
      "start": "2026-10-20T05:00:00+09:00",
@@ -2789,7 +2789,7 @@
    "id": "sbs",
    "name": "SBS",
    "ok": true,
-   "updated": "2026-10-20T16:24:59.671728+09:00",
+   "updated": "2026-10-20T17:07:50.825304+09:00",
    "programs": [
     {
      "start": "2026-10-20T05:00:00+09:00",
@@ -3655,7 +3655,7 @@
    "id": "jtbc",
    "name": "JTBC",
    "ok": true,
-   "updated": "2026-10-20T16:24:59.671728+09:00",
+   "updated": "2026-10-20T17:07:50.825304+09:00",
    "programs": [
     {
      "start": "2026-10-20T00:00:00+09:00",
@@ -4413,7 +4413,7 @@
    "id": "tvchosun",
    "name": "TV조선",
    "ok": true,
-   "updated": "2026-10-20T16:24:59.671728+09:00",
+   "updated": "2026-10-20T17:07:50.825304+09:00",
    "programs": [
     {
      "start": "2026-10-20T00:30:00+09:00",
@@ -5243,7 +5243,7 @@
    "id": "channela",
    "name": "채널A",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='ichannela.com', port=443): Max retries exceeded with url: /com/cmm/schedule.do?selectedDate=20261020 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ichannela.com', port=443) at 0x7f8297b88a40>, 'Connection to ichannela.com timed out. (connect timeout=20)'))",
+   "error": "HTTPSConnectionPool(host='ichannela.com', port=443): Max retries exceeded with url: /com/cmm/schedule.do?selectedDate=20261020 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ichannela.com', port=443) at 0x7effafa41c70>, 'Connection to ichannela.com timed out. (connect timeout=20)'))",
    "updated": "2026-10-20T15:07:51.496302+09:00",
    "programs": [
     {
@@ -6140,7 +6140,7 @@
    "id": "mbn",
    "name": "MBN",
    "ok": true,
-   "updated": "2026-10-20T16:24:59.671728+09:00",
+   "updated": "2026-10-20T17:07:50.825304+09:00",
    "programs": [
     {
      "start": "2026-10-20T02:40:00+09:00",
@@ -6964,7 +6964,7 @@
    "id": "tvn",
    "name": "tvN",
    "ok": true,
-   "updated": "2026-10-20T16:24:59.671728+09:00",
+   "updated": "2026-10-20T17:07:50.825304+09:00",
    "programs": [
     {
      "start": "2026-10-17T05:55:00+09:00",
@@ -7508,54 +7508,60 @@
     },
     {
      "start": "2026-10-22T16:35:00+09:00",
-     "end": "2026-10-22T18:50:00+09:00",
+     "end": "2026-10-22T18:55:00+09:00",
      "title": "유퀴즈온더블럭 365회",
      "genre": null
     },
     {
-     "start": "2026-10-22T18:50:00+09:00",
-     "end": "2026-10-22T19:50:00+09:00",
+     "start": "2026-10-22T18:55:00+09:00",
+     "end": "2026-10-22T19:55:00+09:00",
      "title": "적과의 동거 21회",
      "genre": null
     },
     {
-     "start": "2026-10-22T19:50:00+09:00",
+     "start": "2026-10-22T19:55:00+09:00",
      "end": "2026-10-22T20:45:00+09:00",
      "title": "언니네 산지직송3 - 네 식구 산지 라이프 11회",
      "genre": null
     },
     {
      "start": "2026-10-22T20:45:00+09:00",
-     "end": "2026-10-22T22:50:00+09:00",
+     "end": "2026-10-22T22:55:00+09:00",
      "title": "언니네 산지직송3 12회",
      "genre": null
     },
     {
-     "start": "2026-10-22T22:50:00+09:00",
+     "start": "2026-10-22T22:55:00+09:00",
      "end": "2026-10-23T00:30:00+09:00",
      "title": "십오야 골든벨 3회",
      "genre": null
     },
     {
      "start": "2026-10-23T00:30:00+09:00",
-     "end": "2026-10-23T02:50:00+09:00",
+     "end": "2026-10-23T02:45:00+09:00",
      "title": "슬기로운 의사생활 시즌2 12회",
      "genre": null
     },
     {
-     "start": "2026-10-23T02:50:00+09:00",
-     "end": "2026-10-23T04:40:00+09:00",
+     "start": "2026-10-23T02:45:00+09:00",
+     "end": "2026-10-23T04:25:00+09:00",
      "title": "놀라운 토요일 438회",
      "genre": null
     },
     {
-     "start": "2026-10-23T04:40:00+09:00",
-     "end": "2026-10-23T05:50:00+09:00",
+     "start": "2026-10-23T04:25:00+09:00",
+     "end": "2026-10-23T04:50:00+09:00",
+     "title": "유 퀴즈 온 더 블럭 특별판 242회",
+     "genre": null
+    },
+    {
+     "start": "2026-10-23T04:50:00+09:00",
+     "end": "2026-10-23T06:00:00+09:00",
      "title": "잡학자들 2회",
      "genre": null
     },
     {
-     "start": "2026-10-23T05:50:00+09:00",
+     "start": "2026-10-23T06:00:00+09:00",
      "end": "2026-10-23T06:50:00+09:00",
      "title": "너의 몸소리가 들려 79회",
      "genre": null
@@ -7656,7 +7662,7 @@
    "id": "ena",
    "name": "ENA",
    "ok": true,
-   "updated": "2026-10-20T16:24:59.671728+09:00",
+   "updated": "2026-10-20T17:07:50.825304+09:00",
    "programs": [
     {
      "start": "2026-10-20T00:42:00+09:00",

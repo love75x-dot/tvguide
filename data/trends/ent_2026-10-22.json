@@ -25,7 +25,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -42,14 +42,15 @@
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 14
+    "nate_int": 22
    },
    "count": 2,
    "inrank": true
@@ -78,7 +79,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -93,14 +94,15 @@
     "07:15",
     "08:10",
     "09:10",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 49
+    "nate_int": 50
    },
    "count": 2,
    "inrank": true
@@ -185,7 +187,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 2,
    "hours": [
     "00:08",
@@ -202,7 +204,8 @@
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
@@ -338,11 +341,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c6",
@@ -551,30 +552,35 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 34
-   },
+   "now": {},
    "count": 3,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c10",
    "title": "에릭남 \"배신당하고 돈 뜯기고…못 받은 돈 억 넘어\" 상처 고백 [MHN:픽]",
    "titles": [
-    "에릭남 \"배신당하고 돈 뜯기고…못 받은 돈 억 넘어\" 상처 고백 [MHN:픽]"
+    "에릭남 \"배신당하고 돈 뜯기고…못 받은 돈 억 넘어\" 상처 고백 [MHN:픽]",
+    "에릭남 \"배신당하고 돈 뜯겨, 못 받은 돈만 억대\" 충격 고백 [DA클립]"
    ],
    "links": [
-    "https://news.nate.com/view/20261021n37922"
+    "https://news.nate.com/view/20261021n37922",
+    "https://news.nate.com/view/20261022n11483"
    ],
    "articles": [
     {
      "title": "에릭남 \"배신당하고 돈 뜯기고…못 받은 돈 억 넘어\" 상처 고백 [MHN:픽]",
      "link": "https://news.nate.com/view/20261021n37922",
      "media": "MHN스포츠"
+    },
+    {
+     "title": "에릭남 \"배신당하고 돈 뜯겨, 못 받은 돈만 억대\" 충격 고백 [DA클립]",
+     "link": "https://news.nate.com/view/20261022n11483",
+     "media": "스포츠동아"
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "12:08",
    "best": 6,
    "hours": [
     "00:08",
@@ -587,15 +593,19 @@
     "06:10",
     "07:08",
     "07:15",
-    "08:10"
+    "08:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 20,
+    "nate_int": 10
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c11",
@@ -637,11 +647,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 42
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c12",
@@ -681,7 +689,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 6,
    "hours": [
     "00:08",
@@ -697,15 +705,16 @@
     "08:10",
     "09:10",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 8
+    "nate_pop": 14,
+    "nate_int": 12
    },
    "count": 4,
    "inrank": true
@@ -757,11 +766,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 46
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c14",
@@ -806,11 +813,13 @@
    "title": "테이·이영현, 희귀암 투병 중인 부부 위해 축가 열창…\"건강하고 행복하길...",
    "titles": [
     "테이·이영현, 희귀암 투병 중인 부부 위해 축가 열창…\"건강하고 행복하길...",
-    "\"암 투병 중인 남편과 이혼하고 싶어\" 아내 눈물 펑펑 (이호선 상담소)"
+    "\"암 투병 중인 남편과 이혼하고 싶어\" 아내 눈물 펑펑 (이호선 상담소)",
+    "\"양육비 180만 원서 넷플릭스비 뺐다\"…암 투병 아내 울린 '이숙캠' 남..."
    ],
    "links": [
     "https://news.nate.com/view/20261021n38898",
-    "https://news.nate.com/view/20261021n02124"
+    "https://news.nate.com/view/20261021n02124",
+    "https://news.nate.com/view/20261022n17012"
    ],
    "articles": [
     {
@@ -822,26 +831,35 @@
      "title": "\"암 투병 중인 남편과 이혼하고 싶어\" 아내 눈물 펑펑 (이호선 상담소)",
      "link": "https://news.nate.com/view/20261021n02124",
      "media": "뉴스엔"
+    },
+    {
+     "title": "\"양육비 180만 원서 넷플릭스비 뺐다\"…암 투병 아내 울린 '이숙캠' 남...",
+     "link": "https://news.nate.com/view/20261022n17012",
+     "media": "마이데일리"
     }
    ],
    "first": "00:08",
-   "last": "06:10",
-   "best": 15,
+   "last": "12:08",
+   "best": 3,
    "hours": [
     "00:08",
     "01:08",
     "02:08",
     "03:10",
     "05:10",
-    "06:10"
+    "06:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 2,
-   "inrank": false
+   "now": {
+    "nate_pop": 3,
+    "nate_int": 9
+   },
+   "count": 3,
+   "inrank": true
   },
   {
    "id": "c16",
@@ -976,7 +994,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 8,
    "hours": [
     "00:08",
@@ -992,15 +1010,15 @@
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 28
+    "nate_int": 35
    },
    "count": 5,
    "inrank": true
@@ -1603,7 +1621,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 22,
    "hours": [
     "00:08",
@@ -1617,14 +1635,15 @@
     "07:15",
     "08:10",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 45
+    "nate_int": 49
    },
    "count": 2,
    "inrank": true
@@ -1633,31 +1652,43 @@
    "id": "c36",
    "title": "백수 도경완, '120억 펜트하우스' 관리비 못냈다…주식 실패 후 장윤정에...",
    "titles": [
-    "백수 도경완, '120억 펜트하우스' 관리비 못냈다…주식 실패 후 장윤정에..."
+    "백수 도경완, '120억 펜트하우스' 관리비 못냈다…주식 실패 후 장윤정에...",
+    "도경완, ♥장윤정 은퇴 상의 없이 폭로…\"비밀이라고 했잖아\" 당황(편스토..."
    ],
    "links": [
-    "https://news.nate.com/view/20261021n14089"
+    "https://news.nate.com/view/20261021n14089",
+    "https://news.nate.com/view/20261022n14265"
    ],
    "articles": [
     {
      "title": "백수 도경완, '120억 펜트하우스' 관리비 못냈다…주식 실패 후 장윤정에...",
      "link": "https://news.nate.com/view/20261021n14089",
      "media": "OSEN"
+    },
+    {
+     "title": "도경완, ♥장윤정 은퇴 상의 없이 폭로…\"비밀이라고 했잖아\" 당황(편스토...",
+     "link": "https://news.nate.com/view/20261022n14265",
+     "media": "OSEN"
     }
    ],
    "first": "00:08",
-   "last": "03:10",
-   "best": 36,
+   "last": "12:08",
+   "best": 6,
    "hours": [
     "00:08",
-    "03:10"
+    "03:10",
+    "12:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 6,
+    "nate_int": 6
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c37",
@@ -1837,7 +1868,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -1845,7 +1876,8 @@
     "02:08",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
@@ -1853,7 +1885,7 @@
    ],
    "now": {
     "nate_pop": 1,
-    "nate_int": 1
+    "nate_int": 2
    },
    "count": 7,
    "inrank": true
@@ -2018,20 +2050,21 @@
     }
    ],
    "first": "00:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 2,
    "hours": [
     "00:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 2
+    "nate_pop": 8,
+    "nate_int": 7
    },
    "count": 3,
    "inrank": true
@@ -2168,7 +2201,7 @@
     }
    ],
    "first": "01:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 19,
    "hours": [
     "01:08",
@@ -2182,14 +2215,15 @@
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 38
+    "nate_int": 40
    },
    "count": 1,
    "inrank": true
@@ -2248,19 +2282,20 @@
     }
    ],
    "first": "02:08",
-   "last": "11:10",
-   "best": 24,
+   "last": "12:08",
+   "best": 11,
    "hours": [
     "02:08",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 30
+    "nate_pop": 13,
+    "nate_int": 11
    },
    "count": 2,
    "inrank": true
@@ -2429,7 +2464,7 @@
     }
    ],
    "first": "07:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 1,
    "hours": [
     "07:08",
@@ -2438,15 +2473,16 @@
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 6
+    "nate_pop": 9,
+    "nate_int": 5
    },
    "count": 1,
    "inrank": true
@@ -2475,7 +2511,7 @@
     }
    ],
    "first": "07:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 2,
    "hours": [
     "07:08",
@@ -2484,15 +2520,16 @@
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 11
+    "nate_pop": 21,
+    "nate_int": 20
    },
    "count": 2,
    "inrank": true
@@ -2514,7 +2551,7 @@
     }
    ],
    "first": "07:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 3,
    "hours": [
     "07:08",
@@ -2523,15 +2560,16 @@
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 17
+    "nate_pop": 27,
+    "nate_int": 26
    },
    "count": 1,
    "inrank": true
@@ -2553,7 +2591,7 @@
     }
    ],
    "first": "07:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 4,
    "hours": [
     "07:08",
@@ -2562,15 +2600,16 @@
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 12
+    "nate_pop": 25,
+    "nate_int": 21
    },
    "count": 1,
    "inrank": true
@@ -2592,7 +2631,7 @@
     }
    ],
    "first": "07:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 4,
    "hours": [
     "07:08",
@@ -2601,15 +2640,15 @@
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 32
+    "nate_int": 34
    },
    "count": 1,
    "inrank": true
@@ -2631,7 +2670,7 @@
     }
    ],
    "first": "07:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 5,
    "hours": [
     "07:08",
@@ -2640,15 +2679,15 @@
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 26,
-    "nate_int": 27
+    "nate_int": 36
    },
    "count": 1,
    "inrank": true
@@ -2717,11 +2756,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 40
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c64",
@@ -2740,7 +2777,7 @@
     }
    ],
    "first": "07:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 14,
    "hours": [
     "07:08",
@@ -2749,15 +2786,15 @@
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 23
+    "nate_int": 31
    },
    "count": 1,
    "inrank": true
@@ -2809,7 +2846,7 @@
     }
    ],
    "first": "07:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 24,
    "hours": [
     "07:08",
@@ -2818,14 +2855,15 @@
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 36
+    "nate_int": 42
    },
    "count": 1,
    "inrank": true
@@ -2854,7 +2892,7 @@
     }
    ],
    "first": "07:15",
-   "last": "11:10",
+   "last": "12:08",
    "best": 7,
    "hours": [
     "07:15",
@@ -2862,15 +2900,15 @@
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 18
+    "nate_int": 37
    },
    "count": 2,
    "inrank": true
@@ -2899,22 +2937,23 @@
     }
    ],
    "first": "07:15",
-   "last": "11:10",
+   "last": "12:08",
    "best": 12,
    "hours": [
     "07:15",
     "08:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 19
+    "nate_pop": 29,
+    "nate_int": 32
    },
    "count": 2,
    "inrank": true
@@ -2936,20 +2975,21 @@
     }
    ],
    "first": "08:10",
-   "last": "11:10",
+   "last": "12:08",
    "best": 35,
    "hours": [
     "08:10",
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 39
+    "nate_int": 45
    },
    "count": 1,
    "inrank": true
@@ -3007,22 +3047,22 @@
     }
    ],
    "first": "08:10",
-   "last": "11:10",
+   "last": "12:08",
    "best": 22,
    "hours": [
     "08:10",
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 26
+    "nate_int": 28
    },
    "count": 2,
    "inrank": true
@@ -3167,21 +3207,22 @@
     }
    ],
    "first": "09:10",
-   "last": "11:10",
+   "last": "12:08",
    "best": 10,
    "hours": [
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 25
+    "nate_pop": 28,
+    "nate_int": 30
    },
    "count": 1,
    "inrank": true
@@ -3215,11 +3256,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 41
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c78",
@@ -3238,21 +3277,22 @@
     }
    ],
    "first": "09:10",
-   "last": "11:10",
+   "last": "12:08",
    "best": 13,
    "hours": [
     "09:10",
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 15
+    "nate_pop": 17,
+    "nate_int": 19
    },
    "count": 1,
    "inrank": true
@@ -3274,20 +3314,21 @@
     }
    ],
    "first": "10:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 4,
    "hours": [
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 7
+    "nate_pop": 15,
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -3309,20 +3350,21 @@
     }
    ],
    "first": "10:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 5,
    "hours": [
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 10
+    "nate_pop": 22,
+    "nate_int": 18
    },
    "count": 1,
    "inrank": true
@@ -3344,20 +3386,21 @@
     }
    ],
    "first": "10:08",
-   "last": "11:10",
-   "best": 15,
+   "last": "12:08",
+   "best": 10,
    "hours": [
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 16
+    "nate_pop": 10,
+    "nate_int": 15
    },
    "count": 1,
    "inrank": true
@@ -3367,11 +3410,13 @@
    "title": "\"그럴 거면 사주지 마\"…신지, 문원 명품백 선물에 웃지 못한 이유",
    "titles": [
     "\"그럴 거면 사주지 마\"…신지, 문원 명품백 선물에 웃지 못한 이유",
-    "신지, 부부상담 중 ♥문원에 단호한 선 긋기…\"내 음악엔 관여하지 마\""
+    "신지, 부부상담 중 ♥문원에 단호한 선 긋기…\"내 음악엔 관여하지 마\"",
+    "신지, 결혼 5개월 만에 부부상담…\"내 음악에 남편 관여 안 했으면\" [..."
    ],
    "links": [
     "https://news.nate.com/view/20261022n04722",
-    "https://news.nate.com/view/20261022n03185"
+    "https://news.nate.com/view/20261022n03185",
+    "https://news.nate.com/view/20261022n08487"
    ],
    "articles": [
     {
@@ -3383,25 +3428,31 @@
      "title": "신지, 부부상담 중 ♥문원에 단호한 선 긋기…\"내 음악엔 관여하지 마\"",
      "link": "https://news.nate.com/view/20261022n03185",
      "media": "스포츠조선"
+    },
+    {
+     "title": "신지, 결혼 5개월 만에 부부상담…\"내 음악에 남편 관여 안 했으면\" [...",
+     "link": "https://news.nate.com/view/20261022n08487",
+     "media": "iMBC연예"
     }
    ],
    "first": "10:08",
-   "last": "11:10",
-   "best": 23,
+   "last": "12:08",
+   "best": 1,
    "hours": [
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 35
+    "nate_pop": 2,
+    "nate_int": 1
    },
-   "count": 2,
+   "count": 3,
    "inrank": true
   },
   {
@@ -3450,20 +3501,21 @@
     }
    ],
    "first": "10:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 19,
    "hours": [
     "10:08",
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 29
+    "nate_pop": 24,
+    "nate_int": 25
    },
    "count": 1,
    "inrank": true
@@ -3485,17 +3537,18 @@
     }
    ],
    "first": "10:26",
-   "last": "11:10",
+   "last": "12:08",
    "best": 43,
    "hours": [
     "10:26",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 43
+    "nate_int": 47
    },
    "count": 1,
    "inrank": true
@@ -3526,12 +3579,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 2,
-    "nate_int": 3
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c87",
@@ -3550,10 +3600,11 @@
     }
    ],
    "first": "11:10",
-   "last": "11:10",
-   "best": 4,
+   "last": "12:08",
+   "best": 3,
    "hours": [
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
@@ -3561,7 +3612,170 @@
    ],
    "now": {
     "nate_pop": 4,
-    "nate_int": 5
+    "nate_int": 3
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c88",
+   "title": "'김현중 子 양육' 전 여친 A씨, 예명 '시유'로 틱톡커 데뷔…\"책임감 있는...",
+   "titles": [
+    "'김현중 子 양육' 전 여친 A씨, 예명 '시유'로 틱톡커 데뷔…\"책임감 있는..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261022n11466"
+   ],
+   "articles": [
+    {
+     "title": "'김현중 子 양육' 전 여친 A씨, 예명 '시유'로 틱톡커 데뷔…\"책임감 있는...",
+     "link": "https://news.nate.com/view/20261022n11466",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "12:08",
+   "last": "12:08",
+   "best": 7,
+   "hours": [
+    "12:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 7,
+    "nate_int": 8
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c89",
+   "title": "[공식] '명량' 김한민 감독, 판소리 명창 ♥︎이소영과 11월 15일 결...",
+   "titles": [
+    "[공식] '명량' 김한민 감독, 판소리 명창 ♥︎이소영과 11월 15일 결..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261022n07292"
+   ],
+   "articles": [
+    {
+     "title": "[공식] '명량' 김한민 감독, 판소리 명창 ♥︎이소영과 11월 15일 결...",
+     "link": "https://news.nate.com/view/20261022n07292",
+     "media": "스포츠서울"
+    }
+   ],
+   "first": "12:08",
+   "last": "12:08",
+   "best": 11,
+   "hours": [
+    "12:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 11,
+    "nate_int": 16
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c90",
+   "title": "이광수 팬 소통이 \"고객 유치?\"…보넥도 명재현, 무례 논란에 사과 \"존경한...",
+   "titles": [
+    "이광수 팬 소통이 \"고객 유치?\"…보넥도 명재현, 무례 논란에 사과 \"존경한..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261022n15057"
+   ],
+   "articles": [
+    {
+     "title": "이광수 팬 소통이 \"고객 유치?\"…보넥도 명재현, 무례 논란에 사과 \"존경한...",
+     "link": "https://news.nate.com/view/20261022n15057",
+     "media": "마이데일리"
+    }
+   ],
+   "first": "12:08",
+   "last": "12:08",
+   "best": 12,
+   "hours": [
+    "12:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 12,
+    "nate_int": 13
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c91",
+   "title": "이서진 맞아? '게이 이상형 1위' 손석구 넥타이 매주며 다정…\"둘이 사귀는...",
+   "titles": [
+    "이서진 맞아? '게이 이상형 1위' 손석구 넥타이 매주며 다정…\"둘이 사귀는..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261022n16754"
+   ],
+   "articles": [
+    {
+     "title": "이서진 맞아? '게이 이상형 1위' 손석구 넥타이 매주며 다정…\"둘이 사귀는...",
+     "link": "https://news.nate.com/view/20261022n16754",
+     "media": "OSEN"
+    }
+   ],
+   "first": "12:08",
+   "last": "12:08",
+   "best": 16,
+   "hours": [
+    "12:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 16,
+    "nate_int": 17
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c92",
+   "title": "'공황장애→은퇴설' 에릭남, \"좋아했는데 대놓고 무시\" 톱스타 인성 폭로 ...",
+   "titles": [
+    "'공황장애→은퇴설' 에릭남, \"좋아했는데 대놓고 무시\" 톱스타 인성 폭로 ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261022n16146"
+   ],
+   "articles": [
+    {
+     "title": "'공황장애→은퇴설' 에릭남, \"좋아했는데 대놓고 무시\" 톱스타 인성 폭로 ...",
+     "link": "https://news.nate.com/view/20261022n16146",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "12:08",
+   "last": "12:08",
+   "best": 48,
+   "hours": [
+    "12:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 48
    },
    "count": 1,
    "inrank": true
@@ -3687,9 +3901,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "12:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-10-22T11:10:50.784460+09:00",
+ "updated": "2026-10-22T12:08:29.346196+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

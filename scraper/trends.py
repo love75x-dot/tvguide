@@ -424,11 +424,18 @@ def _shop_collect():
     shopping.collect()
 
 
+def _marts_collect():
+    import sys
+    sys.path.insert(0, str(pathlib.Path(__file__).parent))
+    import marts
+    marts.collect()
+
+
 def main():
     failed = []
     for name, fn in [("연예 랭킹", collect_ent), ("시청률", collect_ratings),
                      ("경기 일정", collect_sports), ("키워드", collect_keywords),
-                     ("키워드(API HUB)", _hub_collect), ("쇼핑", _shop_collect)]:
+                     ("키워드(API HUB)", _hub_collect), ("쇼핑", _shop_collect), ("마트·다이소", _marts_collect)]:
         try:
             fn()
         except Exception as e:

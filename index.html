@@ -85,6 +85,20 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .gd.hot{background:var(--warnbg);color:var(--warn)}
 .gd.good{background:var(--okbg);color:var(--ok)}.gd.hard{background:var(--live);color:var(--accent)}.gd.mid{display:none}
 @media(max-width:520px){.kh,details.kr summary{grid-template-columns:1fr 70px 46px 52px;padding-left:10px;padding-right:10px}}
+/* 마트·다이소 */
+.mitem{display:flex;gap:10px;padding:10px 12px;border-bottom:1px solid var(--line);text-decoration:none;color:var(--text);align-items:center}
+.mitem:last-child{border:0}
+.mitem img{width:56px;height:56px;object-fit:contain;border-radius:8px;background:#fff;flex:none;border:1px solid var(--line)}
+.mitem .b{flex:1;min-width:0}
+.mitem .nm{font-size:14px;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.mitem .pr{margin-top:3px;font-size:13px;display:flex;gap:6px;flex-wrap:wrap;align-items:baseline}
+.mitem .pr b{font-size:15px}
+.mitem .pr s{color:var(--sub);font-size:12px}
+.mitem .pr .off{color:var(--accent);font-weight:700}
+.mitem .meta{font-size:11px;color:var(--sub);margin-top:3px;display:flex;gap:6px;flex-wrap:wrap}
+.msearch{width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--text);font-size:14px;margin:8px 0}
+.hol dt{font-weight:700;margin-top:8px}.hol dd{margin:2px 0 0;color:var(--sub);font-size:13px}
+.more-btn{width:100%;margin-top:8px;padding:10px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--text);font-size:14px;cursor:pointer}
 /* 시간대별 */
 .seg{display:inline-flex;gap:3px;padding:3px;background:var(--card);border:1px solid var(--line);border-radius:10px;margin-top:10px}
 .seg button{border:0;background:none;color:var(--sub);font-size:14px;font-weight:600;padding:7px 14px;border-radius:7px;cursor:pointer}
@@ -270,6 +284,16 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 
 <!-- ===================== 쇼핑 ===================== -->
 <section class="view" id="v-shop">
+  <div class="subnav" id="shopNav" style="grid-template-columns:1fr 1fr">
+    <button data-s="trend" class="on">📊 쇼핑 트렌드</button>
+    <button data-s="mart">🏬 마트·다이소</button>
+  </div>
+  <div id="shopMart" hidden>
+    <div class="seg" id="martTabs" style="margin-top:10px"><button data-m="costco">코스트코</button><button data-m="traders">트레이더스</button><button data-m="daiso">다이소</button></div>
+    <div class="info" id="martInfo"></div>
+    <div id="martBody"></div>
+  </div>
+  <div id="shopTrend">
   <div class="datebar"><button id="shPrev">◀</button><b id="shDate">-</b><button id="shNext">▶</button></div>
   <div class="note">🛍 네이버쇼핑 <b>쇼핑인사이트</b> 기준이에요. <b>인기도</b> = 최근 7일 쇼핑 클릭(가장 많은 것 = 100), <b>상승</b> = 최근 3일 vs 그 전 7일, <b>후기 글</b> = 「키워드 후기」 블로그 글 수. <b>🟢 쓰기 좋음</b> = 사람들이 많이 찾는데 후기가 적은 상품이라 쇼핑 커넥트 글감으로 좋아요.</div>
   <div class="sec"><h2>📊 분야별 쇼핑 클릭 추이</h2></div>
@@ -278,6 +302,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
   <div class="chips" id="shGroups"></div>
   <div class="chips" id="shSort" style="margin-top:8px"></div>
   <div class="kwgrid" id="shList" style="margin-top:10px"></div>
+  </div>
 </section>
 
 <!-- ===================== 표 변환 ===================== -->
@@ -759,9 +784,82 @@ document.getElementById("btnCopy").onclick = async () => {
   }catch(e){ toast("이 브라우저는 복사를 지원하지 않아요. JPG 저장을 이용해 주세요."); }
 };
 
+/* ---------- 마트·다이소 ---------- */
+let shopSub = store.get("shopSub", "trend"), mart = store.get("mart", "costco"), martData = null, mView = "sale", mSort = "disc", mLimit = 40;
+document.querySelectorAll("#shopNav button").forEach(b => b.onclick = () => { shopSub = b.dataset.s; store.set("shopSub", shopSub); loadShop(); });
+document.querySelectorAll("#martTabs button").forEach(b => b.onclick = () => { mart = b.dataset.m; store.set("mart", mart); mLimit = 40; renderMart(); });
+const won = v => v ? Number(v).toLocaleString() + "원" : "";
+const dleft = e => { if(!e) return ""; const d = Math.round((new Date(e + "T23:59:59+09:00") - new Date()) / 864e5); return d < 0 ? "종료" : d === 0 ? "오늘 마감" : `D-${d}`; };
+const isNew = f => f && (new Date() - new Date(f + "T00:00:00+09:00")) < 3 * 864e5;
+const postList = (arr, empty) => (arr && arr.length) ? arr.map(p => `<a class="nw" href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.title)}<small>${esc(p.by || "")}${p.by && p.date ? " · " : ""}${esc(p.date || "")}</small></a>`).join("") : `<div class="empty">${empty}</div>`;
+async function loadMart(){ martData = await getJSON("data/marts.json", null); renderMart(); }
+function renderMart(){
+  document.querySelectorAll("#martTabs button").forEach(b => b.classList.toggle("on", b.dataset.m === mart));
+  const body = document.getElementById("martBody"), info = document.getElementById("martInfo");
+  if(!martData){ body.innerHTML = '<div class="card empty">아직 자료가 없어요. 오전 8시·낮 12시·저녁 6시에 자동으로 모아요.</div>'; info.textContent = ""; return; }
+  const up = new Date(martData.updated);
+  info.textContent = `마지막 갱신 ${shortDay(kstDay(up))} ${hm(up)} · 하루 3번(8시·12시·18시) · 새 할인·신상은 텔레그램으로 알려드려요`;
+  if(mart === "costco"){
+    const c = martData.costco || {};
+    const views = [["sale",`🏷 스페셜 할인 ${c.sale?.length||0}`],["new",`🆕 신상품 ${c.new?.length||0}`],["blog","📝 최신 후기"]];
+    let html = `<div class="chips" style="margin-top:6px">${views.map(([k,l]) => `<button class="${k===mView?"on":""}" data-v="${k}">${l}</button>`).join("")}</div>`;
+    if(mView === "blog"){ html += `<div class="card" style="margin-top:10px">${postList(c.blog, "후기가 없어요.")}</div>`; }
+    else{
+      const sorts = mView === "sale" ? [["disc","할인 큰 순"],["end","마감 임박"],["new","새로 올라온"],["rate","평점 높은"]] : [["new","새로 올라온"],["rate","평점 높은"],["low","낮은 가격"]];
+      if(!sorts.some(s => s[0] === mSort)) mSort = sorts[0][0];
+      html += `<div class="chips" style="margin-top:8px">${sorts.map(([k,l]) => `<button class="${k===mSort?"on":""}" data-s="${k}">${l}</button>`).join("")}</div>
+        <input class="msearch" id="mQ" type="search" placeholder="상품 검색 (예: 귤, 패딩, 청소기)">
+        <div class="card" id="mList"></div>`;
+    }
+    body.innerHTML = html;
+    body.querySelectorAll("[data-v]").forEach(b => b.onclick = () => { mView = b.dataset.v; mLimit = 40; renderMart(); });
+    body.querySelectorAll("[data-s]").forEach(b => b.onclick = () => { mSort = b.dataset.s; renderMart(); });
+    const q = document.getElementById("mQ");
+    if(q){ q.value = store.get("mQ", ""); q.oninput = () => { store.set("mQ", q.value); drawCostco(); }; drawCostco(); }
+  }else if(mart === "traders"){
+    const t = martData.traders || {}, h = t.holiday;
+    body.innerHTML = `<div class="sec"><h2>📅 ${esc(h?.title || "휴점일 안내")}</h2></div>
+      <div class="card" style="padding:4px 14px 12px"><dl class="hol">${(h?.rows||[]).map(r => `<dt>${esc(r.dates)}</dt><dd>${esc(r.stores)}</dd>`).join("") || "<dd>정보가 없어요.</dd>"}</dl></div>
+      <div class="sec"><h2>📰 행사 소식 (네이버 뉴스)</h2></div><div class="card">${postList(t.news, "최근 뉴스가 없어요.")}</div>
+      <div class="sec"><h2>📝 최신 후기 (네이버 블로그)</h2></div><div class="card">${postList(t.blog, "후기가 없어요.")}</div>
+      <div class="info">트레이더스 행사 상품은 이마트 앱 안에만 있어서, 공식 휴점일과 뉴스·블로그 소식으로 보여드려요.</div>`;
+  }else{
+    const d = martData.daiso || {}, ex = d.exhibits || [];
+    const up = ex.filter(x => x.upcoming), on = ex.filter(x => !x.upcoming);
+    const row = x => `<a class="mitem" href="${esc(x.url)}" target="_blank" rel="noopener"><div class="b"><div class="nm">${esc(x.name)}</div>
+      <div class="meta">${isNew(x.first)?'<span class="badge red">NEW</span>':""}${x.new?'<span class="badge green">신상</span>':""}${x.theme?`<span class="badge">${esc(x.theme)}</span>`:""}
+      <span>${x.upcoming?"오픈 "+esc(x.start.slice(5)):esc(x.start)}${x.end?" ~ "+esc(x.end):""}</span></div></div></a>`;
+    body.innerHTML = (up.length ? `<div class="sec"><h2>⏰ 오픈 예정 기획전</h2></div><div class="card">${up.map(row).join("")}</div>` : "") +
+      `<div class="sec"><h2>🛍 진행 중인 신상·기획전</h2></div><div class="card">${on.map(row).join("") || '<div class="empty">없어요.</div>'}</div>
+       <div class="sec"><h2>📝 「다이소 신상」 최신 후기</h2></div><div class="card">${postList(d.blog, "후기가 없어요.")}</div>`;
+  }
+}
+function drawCostco(){
+  const c = martData.costco || {}, q = (document.getElementById("mQ")?.value || "").trim().toLowerCase();
+  let arr = (mView === "sale" ? c.sale : c.new) || [];
+  if(q) arr = arr.filter(x => (x.name || "").toLowerCase().includes(q));
+  const by = {disc:(a,b) => (b.discount||0) - (a.discount||0), end:(a,b) => (a.end||"9999").localeCompare(b.end||"9999"),
+              new:(a,b) => (b.first||"").localeCompare(a.first||""), rate:(a,b) => (b.rating||0) - (a.rating||0) || (b.reviews||0) - (a.reviews||0),
+              low:(a,b) => (a.price||0) - (b.price||0)}[mSort];
+  arr = arr.slice().sort(by);
+  const box = document.getElementById("mList");
+  box.innerHTML = arr.slice(0, mLimit).map(x => `<a class="mitem" href="${esc(x.url)}" target="_blank" rel="noopener">
+      ${x.img ? `<img loading="lazy" src="${esc(x.img)}" alt="">` : ""}<div class="b"><div class="nm">${esc(x.name)}</div>
+      <div class="pr"><b>${won(x.price)}</b>${x.discount && x.base ? `<s>${won(x.base)}</s><span class="off">−${won(x.discount)}</span>` : ""}</div>
+      <div class="meta">${isNew(x.first)?'<span class="badge red">NEW</span>':""}${x.end?`<span class="badge">${dleft(x.end)}</span><span>~${esc(x.end.slice(5))}</span>`:""}
+      ${x.rating?`<span>★ ${(+x.rating).toFixed(1)} (${x.reviews||0})</span>`:""}${x.soldout?'<span class="badge">품절</span>':""}</div></div></a>`).join("")
+    || '<div class="empty">해당하는 상품이 없어요.</div>';
+  if(arr.length > mLimit){ const b = document.createElement("button"); b.className = "more-btn"; b.textContent = `더 보기 (${arr.length - mLimit}개 더)`;
+    b.onclick = () => { mLimit += 60; drawCostco(); }; box.appendChild(b); }
+}
+
 /* ---------- 쇼핑 ---------- */
 let shIdx = [], shDay = null, shData = null, shGroup = "all", shSort = "opp";
 async function loadShop(){
+  document.querySelectorAll("#shopNav button").forEach(b => b.classList.toggle("on", b.dataset.s === shopSub));
+  document.getElementById("shopMart").hidden = shopSub !== "mart";
+  document.getElementById("shopTrend").hidden = shopSub !== "trend";
+  if(shopSub === "mart"){ loadMart(); return; }
   shIdx = await getJSON("data/shopping/index.json", []);
   if(!shDay) shDay = shIdx[0] || todayStr();
   shData = await getJSON(`data/shopping/${shDay}.json`, null);

@@ -41,6 +41,9 @@ jobs:
           NAVER_AD_CUSTOMER_ID: ${{ secrets.NAVER_AD_CUSTOMER_ID }}
           NAVER_HUB_ID: ${{ secrets.NAVER_HUB_ID }}
           NAVER_HUB_SECRET: ${{ secrets.NAVER_HUB_SECRET }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SITE_URL: ${{ vars.SITE_URL }}
       - name: 편성표 텔레그램 발송 (08시·19시)
         run: python scraper/digest.py
         env:

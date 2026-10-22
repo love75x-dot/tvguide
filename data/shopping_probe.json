@@ -1,0 +1,26 @@
+{
+ "prefix": "/shopping/v1",
+ "checked": "2026-10-22T18:01:55.370777+09:00",
+ "log": {
+  "/shopping-insight/v1": [
+   404,
+   "{\"error\":{\"errorCode\":\"300\",\"message\":\"Not Found Exception\",\"details\":\"URL not found.\"}}"
+  ],
+  "/shopping-insight/v1/shopping": [
+   404,
+   "{\"error\":{\"errorCode\":\"300\",\"message\":\"Not Found Exception\",\"details\":\"URL not found.\"}}"
+  ],
+  "/v1/datalab/shopping": [
+   404,
+   "{\"error\":{\"errorCode\":\"300\",\"message\":\"Not Found Exception\",\"details\":\"URL not found.\"}}"
+  ],
+  "/datalab/v1/shopping": [
+   404,
+   "{\"error\":{\"errorCode\":\"300\",\"message\":\"Not Found Exception\",\"details\":\"URL not found.\"}}"
+  ],
+  "/shopping/v1": [
+   200,
+   "{\"startDate\":\"2026-09-22\",\"endDate\":\"2026-10-21\",\"timeUnit\":\"date\",\"results\":[{\"title\":\"식품\",\"category\":[\"50000006\"],\"data\":[{\"period\":\"2026-09-22\",\"ratio\":90.80"
+  ]
+ }
+}

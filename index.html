@@ -82,6 +82,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .kr .more .links{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
 .kr .more .links a{font-size:12px;border:1px solid var(--line);border-radius:7px;padding:3px 8px;text-decoration:none}
 .gd{flex:none;font-size:10px;padding:2px 5px;border-radius:4px}
+.gd.hot{background:var(--warnbg);color:var(--warn)}
 .gd.good{background:var(--okbg);color:var(--ok)}.gd.hard{background:var(--live);color:var(--accent)}.gd.mid{display:none}
 @media(max-width:520px){.kh,details.kr summary{grid-template-columns:1fr 70px 46px 52px;padding-left:10px;padding-right:10px}}
 /* 시간대별 */
@@ -252,7 +253,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 
   <div id="s-kw" class="sub">
     <div class="datebar"><button id="kwPrev">◀</button><b id="kwDate">-</b><button id="kwNext">▶</button></div>
-    <div class="note" id="kwNote">📌 네이버 데이터랩 기준 <b>인기도</b>(최근 7일, 가장 많이 찾은 키워드 = 100)와 <b>상승률</b>(최근 3일 vs 그 전 7일), 네이버 <b>블로그 글 수</b>로 경쟁도를 보여줘요. <b>🟢 쓰기 좋음</b> = 찾는 사람에 비해 글이 적은 키워드. 키워드를 누르면 사람들이 묻는 질문이 나와요.</div>
+    <div class="note" id="kwNote">📌 네이버 데이터랩 기준 <b>인기도</b>(최근 7일, 가장 많이 찾은 키워드 = 100)와 <b>상승률</b>(최근 3일 vs 그 전 7일), 네이버 <b>블로그 글 수</b>로 경쟁도를 보여줘요. <b>🟢 쓰기 좋음</b> = 찾는 사람에 비해 글이 적은 키워드, <b>오늘 뜸</b> = 그 분야 오늘 뉴스에 자주 나온 단어. 키워드를 누르면 사람들이 묻는 질문이 나와요.</div>
     <div class="chips" id="kwGroups"></div>
     <div class="chips" id="kwSort" style="margin-top:8px"></div>
     <div class="kwgrid" id="kwList" style="margin-top:10px"></div>
@@ -611,12 +612,12 @@ function renderKwHub(){
       const q = encodeURIComponent(k.keyword);
       const qs = (k.questions || []).map(x => `<div>❓ <a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.title)}</a></div>`).join("") || '<div class="info" style="margin:0">관련 질문이 없어요.</div>';
       return `<details class="kr"><summary>
-        <span class="k"><b>${esc(k.keyword)}</b><span class="gd ${k.grade||"mid"}">${gl[k.grade]||""}</span></span>
+        <span class="k"><b>${esc(k.keyword)}</b>${k.hot?'<span class="gd hot">오늘 뜸</span>':""}<span class="gd ${k.grade||"mid"}">${gl[k.grade]||""}</span></span>
         <span class="popbar">${spark(k.spark)}<span>${Math.round(k.pop)}</span></span>
         <span class="rise ${k.rise>0?"up":k.rise<0?"dn":""}">${k.rise>0?"▲":k.rise<0?"▼":""}${Math.abs(k.rise)}%</span>
         <span class="bc">${n(k.blog)}</span></summary>
         <div class="more"><b>사람들이 묻는 질문</b>${qs}
-          <div class="info" style="margin:6px 0 0">카페 글 ${n(k.cafe)} · 블로그 글 ${n(k.blog)}</div>
+          <div class="info" style="margin:6px 0 0">블로그 글 ${n(k.blog)}${k.cafe!=null?" · 카페 글 "+n(k.cafe):""}${k.hot?" · 오늘 이 분야 뉴스에 자주 나온 단어":""}</div>
           <div class="links"><a href="https://search.naver.com/search.naver?query=${q}" target="_blank" rel="noopener">네이버 검색</a>
           <a href="https://search.naver.com/search.naver?ssc=tab.blog.all&query=${q}" target="_blank" rel="noopener">블로그 글 보기</a>
           <a href="https://kin.naver.com/search/list.naver?query=${q}" target="_blank" rel="noopener">지식iN 더 보기</a></div></div></details>`;

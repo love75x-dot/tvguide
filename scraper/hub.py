@@ -92,6 +92,33 @@ def trend(groups, start, end):
     return out
 
 
+NEWS_STOP = set("""뉴스 기자 단독 속보 오늘 내일 어제 올해 지난 이번 최대 최고 최초 공개 출시 발표 진행 개최 확대 지원
+시작 예정 관련 위해 대해 통해 이후 이상 이하 가능 제공 운영 선정 추진 강화 기념 맞이 대상 결과 가운데 정부 국내 세계 한국
+서울 전국 지역 시장 업계 기업 회사 사업 행사 신규 첫날 이벤트 할인 혜택 사진 영상 포토 종합 인터뷰 화제 인기 논란""".split())
+
+
+def news_terms(queries, exclude, limit=6):
+    """분야 뉴스 최신 기사 제목에서 자주 나온 단어 → 그날 뜨는 키워드 후보."""
+    if "news" not in ROUTES:
+        return []
+    cnt = {}
+    for q in queries:
+        try:
+            _, items = search_total("news", q, display=50)
+        except Exception as e:
+            print(f"  (뉴스 실패 {q}: {e})")
+            continue
+        for it in items:
+            for w in T.tokens(T.txt(it.get("title", ""))):
+                if w in NEWS_STOP or len(w) > 10 or re.fullmatch(r"[A-Za-z]{1,2}|\d+\S*", w):
+                    continue
+                cnt[w] = cnt.get(w, 0) + 1
+        time.sleep(0.1)
+    low = {e.replace(" ", "").lower() for e in exclude} | {q.replace(" ", "").lower() for q in queries}
+    picks = [w for w, c in sorted(cnt.items(), key=lambda x: -x[1]) if c >= 3 and w.lower() not in low]
+    return picks[:limit]
+
+
 def clean_kw(s):
     s = re.sub(r"\s+", " ", s).strip()
     return s if 2 <= len(s) <= 20 else None
@@ -109,8 +136,16 @@ def collect():
         raise RuntimeError("검색어트렌드 API 연결 실패 (data/hub_probe.json 참고)")
 
     cfg = T.load(T.CONFIG, {"categories": {}})
-    groups = {"오늘 방송 프로그램": T.program_seeds()[:15], "오늘의 연예 소재": T.ent_seeds()[:15]}
-    groups.update({k: v[:10] for k, v in cfg.get("categories", {}).items() if v})
+    groups = {"방송 프로그램": T.program_seeds()[:12], "엔터·연예": T.ent_seeds()[:12]}
+    auto = set()
+    for name, c in cfg.get("categories", {}).items():
+        if isinstance(c, list):                       # 예전 형식: ["단어", ...]
+            groups[name] = c[:12]
+            continue
+        seeds = c.get("seeds", [])[:10]
+        hot = news_terms(c.get("news", []), seeds)
+        auto |= {(name, w) for w in hot}
+        groups[name] = seeds + hot
     allkw = []
     for g, ks in groups.items():
         groups[g] = [k for k in (clean_kw(x) for x in ks) if k]
@@ -145,22 +180,26 @@ def collect():
     for kw in series:
         series[kw] = [round(v / top * 100, 1) for v in series[kw]]
 
-    # 2) 블로그·카페 글 수, 지식iN 질문
-    info = {}
+    # 2) 블로그 글 수(전체), 지식iN 질문(분야별 인기 상위 6개만 — 호출 수 절약)
+    info = {kw: {"blog": None, "cafe": None, "questions": []} for kw in allkw}
     for kw in allkw:
-        row = {}
-        for kind in ("blog", "cafe"):
-            try:
-                row[kind], _ = search_total(kind, kw)
-            except Exception:
-                row[kind] = None
+        if kw not in series:
+            continue
+        try:
+            info[kw]["blog"], _ = search_total("blog", kw)
+        except Exception:
+            pass
+        time.sleep(0.05)
+    want_q = set()
+    for kws in groups.values():
+        want_q |= set(sorted([k for k in kws if k in series], key=lambda k: -sum(series[k][-7:]))[:6])
+    for kw in want_q:
         try:
             _, items = search_total("kin", kw, display=3)
-            row["questions"] = [{"title": T.txt(i.get("title")), "link": i.get("link")} for i in items[:3]]
+            info[kw]["questions"] = [{"title": T.txt(i.get("title")), "link": i.get("link")} for i in items[:3]]
         except Exception:
-            row["questions"] = []
-        info[kw] = row
-        time.sleep(0.1)
+            pass
+        time.sleep(0.05)
 
     # 3) 점수: 인기도(최근 7일 평균), 상승률(최근 3일 vs 그 전 7일), 기회(인기도 ÷ 경쟁)
     prev = {}
@@ -179,7 +218,7 @@ def collect():
             rise = round((recent - before) / before * 100) if before > 0.5 else (100 if recent > 0.5 else 0)
             blog = info.get(kw, {}).get("blog")
             opp = round(pop / math.log10((blog or 0) + 10), 2) if pop else 0
-            rows.append({"keyword": kw, "pop": pop, "rise": rise, "spark": s[-14:],
+            rows.append({"keyword": kw, "pop": pop, "rise": rise, "spark": s[-14:], "hot": (gname, kw) in auto,
                          "blog": blog, "cafe": info.get(kw, {}).get("cafe"),
                          "questions": info.get(kw, {}).get("questions", []), "opp": opp})
         rows.sort(key=lambda r: -r["pop"])

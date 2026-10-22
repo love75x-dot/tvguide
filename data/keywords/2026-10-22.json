@@ -1,7 +1,8 @@
 {
  "date": "2026-10-22",
  "source": "hub",
- "updated": "2026-10-22T17:16:38.601849+09:00",
+ "ver": 3,
+ "updated": "2026-10-22T17:34:26.349749+09:00",
  "range": [
   "2026-09-22",
   "2026-10-21"
@@ -12,26 +13,26 @@
    "keywords": [
     {
      "keyword": "인간극장",
-     "pop": 0.3,
+     "pop": 0.2,
      "rise": 0,
      "spark": [
-      0.5,
-      0.7,
-      0.2,
-      0.2,
-      0.7,
-      0.5,
-      0.4,
-      0.4,
+      0.3,
       0.4,
       0.1,
       0.1,
-      0.6,
       0.4,
-      0.4
+      0.3,
+      0.2,
+      0.2,
+      0.2,
+      0.1,
+      0.1,
+      0.3,
+      0.2,
+      0.2
      ],
      "hot": false,
-     "blog": 830893,
+     "blog": 830902,
      "cafe": null,
      "questions": [
       {
@@ -47,32 +48,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=30312&docId=495155493&answerNo=1"
       }
      ],
-     "opp": 0.05,
+     "opp": 0.03,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "아침마당",
-     "pop": 0.3,
+     "pop": 0.1,
      "rise": 0,
      "spark": [
-      0.2,
-      0.2,
+      0.1,
+      0.1,
+      0.0,
+      0.0,
       0.1,
       0.1,
       0.2,
-      0.2,
-      0.3,
-      0.2,
-      0.2,
+      0.1,
+      0.1,
+      0.0,
       0.1,
       0.2,
-      0.3,
-      0.2,
-      0.7
+      0.1,
+      0.4
      ],
      "hot": false,
-     "blog": 1688316,
+     "blog": 1688322,
      "cafe": null,
      "questions": [
       {
@@ -88,32 +89,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=301&docId=495541628&answerNo=1"
       }
      ],
-     "opp": 0.05,
+     "opp": 0.02,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "6시 내고향",
-     "pop": 0.2,
+     "pop": 0.1,
      "rise": 0,
      "spark": [
-      0.3,
-      0.3,
+      0.2,
+      0.2,
+      0.1,
+      0.0,
       0.1,
       0.1,
       0.2,
-      0.2,
-      0.3,
-      0.2,
-      0.4,
       0.1,
-      0.1,
-      0.3,
       0.2,
-      0.3
+      0.0,
+      0.0,
+      0.2,
+      0.1,
+      0.2
      ],
      "hot": false,
-     "blog": 904365,
+     "blog": 904413,
      "cafe": null,
      "questions": [
       {
@@ -129,91 +130,9 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=80205&docId=495378218&answerNo=1"
       }
      ],
-     "opp": 0.03,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "무엇이든 물어보세요",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.0,
-      0.0,
-      0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.0,
-      0.0,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": false,
-     "blog": 7054618,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "백내장 렌즈 상담 중 빛 번짐이 걱정되면 무엇 을 물어봐야 ....",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=70112&docId=495582076&answerNo=5"
-      },
-      {
-       "title": "백내장 렌즈 상담 중 빛 번짐이 걱정되면 무엇 을 물어봐야 ....",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=70112&docId=495582076&answerNo=3"
-      },
-      {
-       "title": "백내장 렌즈 상담 중 빛 번짐이 걱정되면 무엇 을 물어봐야 ....",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=70112&docId=495582076&answerNo=4"
-      }
-     ],
-     "opp": 0.01,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "한국인의 밥상",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.2,
-      0.1,
-      0.1,
-      0.1,
-      0.0,
-      0.0,
-      0.1,
-      0.3,
-      0.1,
-      0.2,
-      0.1,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": false,
-     "blog": 522663,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "' 한국인의 밥상 ' 이찬원과 외국인 손님의 케미는 어땠나요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=301&docId=495025890&answerNo=1"
-      },
-      {
-       "title": "한국인의 밥상 15주년 특집, 출연진들 케미는 어떨까요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=30203&docId=494898259&answerNo=1"
-      },
-      {
-       "title": "' 한국인의 밥상 ' 이찬원의 활약이 돋보인 순간은 언제였나요....",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=301&docId=495025425&answerNo=3"
-      }
-     ],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "생활의 발견",
@@ -236,9 +155,22 @@
       0.0
      ],
      "hot": false,
-     "blog": 13880679,
+     "blog": 13881000,
      "cafe": null,
-     "questions": [],
+     "questions": [
+      {
+       "title": "개콘 생활의 발견 음악",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=30211&docId=168823722&answerNo=1"
+      },
+      {
+       "title": "개그 콘서트 생활의 발견 이랑 네 가지는",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=613&docId=475400679&answerNo=1"
+      },
+      {
+       "title": "생활의 발견 게스트",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=3010202&docId=168333803&answerNo=1"
+      }
+     ],
      "opp": 0,
      "move": null,
      "grade": "mid"
@@ -264,9 +196,50 @@
       0.0
      ],
      "hot": false,
-     "blog": 3757766,
+     "blog": 3757858,
      "cafe": null,
      "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "무엇이든 물어보세요",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.1,
+      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.1,
+      0.1,
+      0.1
+     ],
+     "hot": false,
+     "blog": 7054853,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "백내장 렌즈 상담 중 빛 번짐이 걱정되면 무엇 을 물어봐야 ....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=70112&docId=495582076&answerNo=5"
+      },
+      {
+       "title": "백내장 렌즈 상담 중 빛 번짐이 걱정되면 무엇 을 물어봐야 ....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=70112&docId=495582076&answerNo=3"
+      },
+      {
+       "title": "백내장 렌즈 상담 중 빛 번짐이 걱정되면 무엇 을 물어봐야 ....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=70112&docId=495582076&answerNo=4"
+      }
+     ],
      "opp": 0,
      "move": null,
      "grade": "mid"
@@ -312,12 +285,12 @@
       0.0,
       0.0,
       0.0,
-      0.1,
-      0.1,
       0.0,
       0.0,
       0.0,
-      0.1
+      0.0,
+      0.0,
+      0.0
      ],
      "hot": false,
      "blog": 121,
@@ -348,7 +321,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 181057,
+     "blog": 181062,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -376,9 +349,50 @@
       0.0
      ],
      "hot": false,
-     "blog": 274787,
+     "blog": 274788,
      "cafe": null,
      "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "한국인의 밥상",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.1,
+      0.0,
+      0.0,
+      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.2,
+      0.0,
+      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": false,
+     "blog": 522666,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "' 한국인의 밥상 ' 이찬원과 외국인 손님의 케미는 어땠나요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=301&docId=495025890&answerNo=1"
+      },
+      {
+       "title": "한국인의 밥상 15주년 특집, 출연진들 케미는 어떨까요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=30203&docId=494898259&answerNo=1"
+      },
+      {
+       "title": "' 한국인의 밥상 ' 이찬원의 활약이 돋보인 순간은 언제였나요....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=301&docId=495025425&answerNo=3"
+      }
+     ],
      "opp": 0,
      "move": null,
      "grade": "mid"
@@ -418,26 +432,26 @@
    "keywords": [
     {
      "keyword": "박세영",
-     "pop": 0.8,
+     "pop": 0.5,
      "rise": 100,
      "spark": [
       0.1,
+      0.1,
+      0.0,
+      0.0,
+      0.1,
+      0.1,
+      0.0,
       0.2,
-      0.1,
-      0.1,
+      0.5,
       0.1,
       0.2,
-      0.1,
-      0.3,
-      0.8,
       0.2,
-      0.3,
       0.4,
-      0.7,
-      2.6
+      1.6
      ],
      "hot": false,
-     "blog": 35079,
+     "blog": 35085,
      "cafe": null,
      "questions": [
       {
@@ -453,32 +467,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=301&docId=495634426&answerNo=1"
       }
      ],
-     "opp": 0.18,
+     "opp": 0.11,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "박위",
-     "pop": 0.5,
-     "rise": -14,
+     "pop": 0.3,
+     "rise": 0,
      "spark": [
-      1.2,
-      1.4,
-      1.2,
-      1.1,
-      0.9,
-      1.3,
       0.7,
-      0.4,
-      0.4,
-      0.4,
       0.8,
-      0.6,
-      0.6,
-      0.6
+      0.7,
+      0.7,
+      0.5,
+      0.8,
+      0.4,
+      0.3,
+      0.2,
+      0.3,
+      0.5,
+      0.4,
+      0.3,
+      0.3
      ],
      "hot": false,
-     "blog": 53872,
+     "blog": 53875,
      "cafe": null,
      "questions": [
       {
@@ -494,73 +508,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=814&docId=495063652&answerNo=5"
       }
      ],
-     "opp": 0.11,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "손예진",
-     "pop": 0.4,
-     "rise": 0,
-     "spark": [
-      0.4,
-      0.5,
-      0.4,
-      0.5,
-      0.4,
-      0.3,
-      0.3,
-      0.3,
-      0.3,
-      0.4,
-      0.5,
-      0.4,
-      0.5,
-      0.4
-     ],
-     "hot": false,
-     "blog": 313807,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "손예진 일본 여행 룩, 패션스타일의 핵심은 무엇인가요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=804&docId=495607977&answerNo=2"
-      },
-      {
-       "title": "손예진 일본 여행 사진 속 가장 가보고 싶은 장소는 어디인....",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=9020101&docId=495605390&answerNo=3"
-      },
-      {
-       "title": "손예진 일본 여행 룩, 패션스타일의 핵심은 무엇인가요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=804&docId=495607977&answerNo=1"
-      }
-     ],
-     "opp": 0.07,
+     "opp": 0.06,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "신지",
-     "pop": 0.3,
+     "pop": 0.2,
      "rise": 0,
      "spark": [
-      0.3,
-      0.3,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
       0.2,
       0.2,
       0.1,
-      0.9,
-      0.2,
       0.1,
-      0.2
+      0.0,
+      0.0,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.6,
+      0.1,
+      0.1,
+      0.1
      ],
      "hot": false,
-     "blog": 778924,
+     "blog": 778933,
      "cafe": null,
      "questions": [
       {
@@ -576,32 +549,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=80902&docId=495536918&answerNo=3"
       }
      ],
-     "opp": 0.05,
+     "opp": 0.03,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "황정음",
-     "pop": 0.3,
+     "pop": 0.2,
      "rise": 0,
      "spark": [
-      0.2,
-      0.2,
-      0.2,
-      0.2,
       0.1,
       0.1,
-      0.2,
-      0.7,
-      0.3,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.5
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.4,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.3
      ],
      "hot": false,
-     "blog": 127982,
+     "blog": 127997,
      "cafe": null,
      "questions": [
       {
@@ -617,13 +590,138 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=8030301&docId=494830764&answerNo=2"
       }
      ],
-     "opp": 0.06,
+     "opp": 0.04,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "손예진",
+     "pop": 0.2,
+     "rise": 0,
+     "spark": [
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.3,
+      0.3,
+      0.3,
+      0.2
+     ],
+     "hot": false,
+     "blog": 313812,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "손예진 일본 여행 룩, 패션스타일의 핵심은 무엇인가요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=804&docId=495607977&answerNo=2"
+      },
+      {
+       "title": "손예진 일본 여행 사진 속 가장 가보고 싶은 장소는 어디인....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=9020101&docId=495605390&answerNo=3"
+      },
+      {
+       "title": "손예진 일본 여행 룩, 패션스타일의 핵심은 무엇인가요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=804&docId=495607977&answerNo=1"
+      }
+     ],
+     "opp": 0.04,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "나혼산",
+     "pop": 0.1,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.3,
+      0.1,
+      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.3,
+      0.2,
+      0.1,
+      0.1,
+      0.0,
+      0.0
+     ],
+     "hot": false,
+     "blog": 371673,
+     "cafe": null,
+     "questions": [],
+     "opp": 0.02,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "이나연",
+     "pop": 0.1,
+     "rise": 0,
+     "spark": [
+      0.1,
+      0.1,
+      0.1,
+      0.2,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.2
+     ],
+     "hot": false,
+     "blog": 33918,
+     "cafe": null,
+     "questions": [],
+     "opp": 0.02,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "나솔",
+     "pop": 0.1,
+     "rise": 0,
+     "spark": [
+      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.1,
+      0.2,
+      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.1
+     ],
+     "hot": false,
+     "blog": 290617,
+     "cafe": null,
+     "questions": [],
+     "opp": 0.02,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "이혜성",
-     "pop": 0.2,
+     "pop": 0.1,
      "rise": 0,
      "spark": [
       0.1,
@@ -632,17 +730,17 @@
       0.1,
       0.1,
       0.1,
-      0.3,
-      0.4,
+      0.2,
+      0.2,
       0.1,
       0.1,
       0.1,
       0.1,
       0.1,
-      0.6
+      0.3
      ],
      "hot": false,
-     "blog": 19517,
+     "blog": 19516,
      "cafe": null,
      "questions": [
       {
@@ -658,105 +756,21 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=11080202&docId=494215311&answerNo=2"
       }
      ],
-     "opp": 0.05,
+     "opp": 0.02,
      "move": null,
      "grade": "good"
-    },
-    {
-     "keyword": "나혼산",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.4,
-      0.2,
-      0.1,
-      0.1,
-      0.0,
-      0.0,
-      0.0,
-      0.4,
-      0.3,
-      0.1,
-      0.1,
-      0.0,
-      0.0
-     ],
-     "hot": false,
-     "blog": 371669,
-     "cafe": null,
-     "questions": [],
-     "opp": 0.02,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "이나연",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.1,
-      0.1,
-      0.3,
-      0.2,
-      0.2,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.2,
-      0.1,
-      0.1,
-      0.3
-     ],
-     "hot": false,
-     "blog": 33915,
-     "cafe": null,
-     "questions": [],
-     "opp": 0.02,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "나솔",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.2,
-      0.1,
-      0.1,
-      0.0,
-      0.1,
-      0.0,
-      0.1,
-      0.3,
-      0.1,
-      0.1,
-      0.0,
-      0.0,
-      0.0,
-      0.1
-     ],
-     "hot": false,
-     "blog": 290589,
-     "cafe": null,
-     "questions": [],
-     "opp": 0.02,
-     "move": null,
-     "grade": "mid"
     },
     {
      "keyword": "시유",
      "pop": 0.0,
      "rise": 0,
      "spark": [
-      0.1,
-      0.2,
-      0.1,
+      0.0,
       0.1,
       0.1,
       0.1,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0,
@@ -767,7 +781,35 @@
       0.0
      ],
      "hot": false,
-     "blog": 189861,
+     "blog": 189889,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "손담비",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": false,
+     "blog": 103716,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -795,35 +837,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 5083263,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "환연2",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": false,
-     "blog": 71728,
+     "blog": 5083313,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -837,26 +851,26 @@
    "keywords": [
     {
      "keyword": "프로야구",
-     "pop": 17.3,
+     "pop": 10.4,
      "rise": -30,
      "spark": [
-      18.2,
-      28.6,
-      40.3,
-      31.8,
-      38.3,
-      13.2,
-      25.4,
-      11.7,
-      8.1,
-      25.8,
-      29.6,
-      7.8,
-      28.4,
-      9.5
+      10.9,
+      17.1,
+      24.2,
+      19.0,
+      22.9,
+      7.9,
+      15.3,
+      7.0,
+      4.8,
+      15.5,
+      17.8,
+      4.7,
+      17.0,
+      5.7
      ],
      "hot": false,
-     "blog": 1794393,
+     "blog": 1794397,
      "cafe": null,
      "questions": [
       {
@@ -872,32 +886,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=10010202&docId=495586320&answerNo=1"
       }
      ],
-     "opp": 2.77,
+     "opp": 1.66,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "KBO",
-     "pop": 9.6,
+     "pop": 5.7,
      "rise": -29,
      "spark": [
-      8.8,
-      14.1,
-      18.7,
-      17.4,
-      26.5,
+      5.3,
       8.4,
-      17.5,
-      6.7,
-      4.6,
-      12.9,
-      14.8,
+      11.2,
+      10.5,
+      15.9,
       5.1,
-      17.3,
-      5.6
+      10.5,
+      4.0,
+      2.7,
+      7.7,
+      8.9,
+      3.0,
+      10.4,
+      3.3
      ],
      "hot": false,
-     "blog": 1252782,
+     "blog": 1252811,
      "cafe": null,
      "questions": [
       {
@@ -913,32 +927,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=1001020201&docId=495517701&answerNo=1"
       }
      ],
-     "opp": 1.57,
+     "opp": 0.93,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "손흥민",
-     "pop": 1.7,
-     "rise": -46,
+     "pop": 1.0,
+     "rise": -45,
      "spark": [
-      3.9,
-      2.7,
       2.4,
-      3.5,
-      2.6,
-      2.2,
-      1.7,
-      3.2,
-      1.7,
+      1.6,
+      1.4,
+      2.1,
+      1.5,
       1.3,
-      2.3,
-      1.1,
       1.0,
-      1.4
+      1.9,
+      1.0,
+      0.8,
+      1.4,
+      0.7,
+      0.6,
+      0.8
      ],
      "hot": false,
-     "blog": 861360,
+     "blog": 861337,
      "cafe": null,
      "questions": [
       {
@@ -954,32 +968,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=10010102&docId=495497028&answerNo=1"
       }
      ],
-     "opp": 0.29,
+     "opp": 0.17,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "K리그",
-     "pop": 1.6,
-     "rise": -55,
+     "pop": 1.0,
+     "rise": -54,
      "spark": [
-      0.6,
-      3.5,
-      3.1,
-      2.7,
-      0.8,
-      0.6,
+      0.3,
+      2.1,
+      1.8,
+      1.6,
       0.5,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      1.5,
+      3.4,
+      0.6,
       0.4,
-      0.5,
-      2.5,
-      5.7,
-      1.0,
-      0.6,
-      0.5
+      0.3
      ],
      "hot": false,
-     "blog": 879982,
+     "blog": 879979,
      "cafe": null,
      "questions": [
       {
@@ -995,32 +1009,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=1001010201&docId=495565878&answerNo=2"
       }
      ],
-     "opp": 0.27,
+     "opp": 0.17,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "이강인",
-     "pop": 1.2,
-     "rise": -40,
+     "pop": 0.7,
+     "rise": -41,
      "spark": [
+      0.7,
+      0.6,
+      1.1,
+      1.3,
       1.2,
-      1.0,
-      1.8,
-      2.2,
-      2.0,
-      2.7,
-      2.9,
-      1.0,
-      0.9,
       1.6,
-      1.4,
+      1.7,
+      0.6,
+      0.5,
+      1.0,
       0.9,
-      0.8,
-      1.5
+      0.5,
+      0.5,
+      0.9
      ],
      "hot": false,
-     "blog": 252930,
+     "blog": 252929,
      "cafe": null,
      "questions": [
       {
@@ -1036,29 +1050,29 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=10010102&docId=495560737&answerNo=1"
       }
      ],
-     "opp": 0.22,
+     "opp": 0.13,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "프로농구",
-     "pop": 1.0,
-     "rise": -8,
+     "pop": 0.6,
+     "rise": -12,
      "spark": [
-      0.9,
-      1.1,
-      1.2,
-      1.3,
-      0.8,
-      0.8,
+      0.5,
+      0.7,
       0.7,
       0.8,
+      0.5,
+      0.5,
+      0.4,
+      0.5,
+      0.5,
       0.8,
-      1.3,
-      1.4,
       0.8,
-      0.9,
-      0.9
+      0.5,
+      0.5,
+      0.5
      ],
      "hot": false,
      "blog": 729532,
@@ -1077,121 +1091,65 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=1001030201&docId=494994844&answerNo=2"
       }
      ],
-     "opp": 0.17,
+     "opp": 0.1,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "김민재",
-     "pop": 0.8,
+     "pop": 0.5,
      "rise": -57,
      "spark": [
-      3.8,
-      2.4,
-      2.5,
-      3.4,
-      3.1,
-      2.2,
-      1.7,
-      1.1,
+      2.3,
+      1.4,
+      1.5,
+      2.0,
+      1.9,
+      1.3,
       1.0,
-      0.8,
-      0.9,
       0.7,
       0.6,
-      0.7
+      0.5,
+      0.5,
+      0.4,
+      0.4,
+      0.4
      ],
      "hot": false,
-     "blog": 271758,
+     "blog": 271760,
      "cafe": null,
      "questions": [],
-     "opp": 0.15,
+     "opp": 0.09,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "프로배구",
-     "pop": 0.4,
+     "pop": 0.2,
      "rise": 0,
      "spark": [
       0.1,
+      0.0,
       0.1,
-      0.1,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.3,
+      0.2,
       0.3,
       0.3,
-      0.4,
-      0.3,
-      0.4,
-      0.3,
-      0.4,
-      0.4,
-      0.6,
-      0.5,
-      0.3
+      0.2
      ],
      "hot": false,
-     "blog": 205719,
+     "blog": 205730,
      "cafe": null,
      "questions": [],
-     "opp": 0.08,
+     "opp": 0.04,
      "move": null,
      "grade": "good"
-    },
-    {
-     "keyword": "축구",
-     "pop": 0.4,
-     "rise": -45,
-     "spark": [
-      1.1,
-      0.9,
-      0.9,
-      0.8,
-      0.7,
-      0.5,
-      0.5,
-      0.4,
-      0.4,
-      0.6,
-      0.7,
-      0.3,
-      0.3,
-      0.3
-     ],
-     "hot": true,
-     "blog": 9916173,
-     "cafe": null,
-     "questions": [],
-     "opp": 0.06,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "개막",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 2486752,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
     },
     {
      "keyword": "LX배",
@@ -1214,7 +1172,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 61555,
+     "blog": 61568,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -1222,7 +1180,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "대표",
+     "keyword": "선수",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -1242,7 +1200,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 103355647,
+     "blog": 15617494,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -1250,35 +1208,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "국가대표",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.1,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 9628426,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "대회",
+     "keyword": "여자",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -1298,7 +1228,91 @@
       0.0
      ],
      "hot": true,
-     "blog": 13626764,
+     "blog": 46677646,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "그분",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 5671738,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "구본준",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 15406,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "후원",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 5404829,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -1312,26 +1326,26 @@
    "keywords": [
     {
      "keyword": "환율",
-     "pop": 63.7,
+     "pop": 38.2,
      "rise": 23,
      "spark": [
-      77.3,
-      38.6,
-      28.3,
-      23.4,
-      87.7,
-      85.0,
-      74.1,
-      83.5,
-      72.2,
-      28.9,
-      22.5,
-      78.4,
-      82.6,
-      78.1
+      46.3,
+      23.2,
+      16.9,
+      14.0,
+      52.6,
+      51.0,
+      44.4,
+      50.1,
+      43.3,
+      17.3,
+      13.5,
+      47.0,
+      49.5,
+      46.8
      ],
      "hot": false,
-     "blog": 4562389,
+     "blog": 4562528,
      "cafe": null,
      "questions": [
       {
@@ -1347,32 +1361,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=40102&docId=495374176&answerNo=2"
       }
      ],
-     "opp": 9.57,
+     "opp": 5.74,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "금시세",
-     "pop": 18.6,
+     "pop": 11.2,
      "rise": 11,
      "spark": [
-      23.3,
-      12.1,
-      10.8,
-      10.4,
-      25.7,
-      24.6,
-      21.8,
-      25.4,
-      21.7,
-      10.0,
-      8.0,
-      21.6,
-      22.0,
-      21.6
+      14.0,
+      7.2,
+      6.5,
+      6.3,
+      15.4,
+      14.8,
+      13.1,
+      15.2,
+      13.0,
+      6.0,
+      4.8,
+      13.0,
+      13.2,
+      12.9
      ],
      "hot": false,
-     "blog": 5256615,
+     "blog": 5256854,
      "cafe": null,
      "questions": [
       {
@@ -1388,32 +1402,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=80403&docId=495568670&answerNo=1"
       }
      ],
-     "opp": 2.77,
+     "opp": 1.67,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "나스닥",
-     "pop": 8.0,
-     "rise": 2,
+     "pop": 4.8,
+     "rise": 3,
      "spark": [
-      5.4,
-      5.3,
-      3.0,
-      0.7,
-      3.6,
-      8.1,
-      7.7,
-      13.2,
-      10.2,
-      8.3,
-      1.5,
+      3.2,
+      3.2,
+      1.8,
+      0.4,
+      2.1,
       4.8,
-      9.5,
-      8.7
+      4.6,
+      7.9,
+      6.1,
+      5.0,
+      0.9,
+      2.9,
+      5.7,
+      5.2
      ],
      "hot": true,
-     "blog": 1859818,
+     "blog": 1859884,
      "cafe": null,
      "questions": [
       {
@@ -1429,32 +1443,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=40102&docId=492602039&answerNo=7"
       }
      ],
-     "opp": 1.28,
+     "opp": 0.77,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "주식",
-     "pop": 6.1,
-     "rise": 7,
+     "pop": 3.6,
+     "rise": 6,
      "spark": [
-      4.2,
-      1.1,
-      0.6,
+      2.5,
+      0.7,
       0.4,
-      5.2,
-      8.4,
-      5.9,
-      13.2,
-      7.6,
-      1.5,
+      0.3,
+      3.1,
+      5.1,
+      3.5,
+      7.9,
+      4.5,
       0.9,
-      6.9,
-      6.9,
-      5.7
+      0.5,
+      4.1,
+      4.1,
+      3.4
      ],
      "hot": false,
-     "blog": 23986622,
+     "blog": 23986757,
      "cafe": null,
      "questions": [
       {
@@ -1462,40 +1476,40 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=40102&docId=495504884&answerNo=2"
       },
       {
-       "title": "주식 궁금증",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=40102&docId=495538646&answerNo=8"
+       "title": "네이버 주식 어떤가요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=40102&docId=495526877&answerNo=4"
       },
       {
-       "title": "삼성전자 주식",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=40102&docId=495526366&answerNo=2"
+       "title": "주식 궁금증",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=40102&docId=495538646&answerNo=8"
       }
      ],
-     "opp": 0.83,
+     "opp": 0.49,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "청년미래적금",
-     "pop": 3.2,
+     "pop": 1.9,
      "rise": -66,
      "spark": [
-      9.7,
-      3.3,
-      2.7,
-      4.5,
-      11.4,
-      7.5,
-      7.7,
-      6.5,
-      6.6,
-      1.6,
-      1.3,
-      2.5,
+      5.8,
       2.0,
-      1.7
+      1.6,
+      2.7,
+      6.8,
+      4.5,
+      4.6,
+      3.9,
+      4.0,
+      0.9,
+      0.8,
+      1.5,
+      1.2,
+      1.0
      ],
      "hot": false,
-     "blog": 157475,
+     "blog": 157482,
      "cafe": null,
      "questions": [
       {
@@ -1511,32 +1525,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=40101&docId=495598716&answerNo=1"
       }
      ],
-     "opp": 0.62,
+     "opp": 0.37,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "부동산",
-     "pop": 3.0,
-     "rise": 2,
+     "pop": 1.8,
+     "rise": 3,
      "spark": [
-      3.0,
-      2.9,
-      2.9,
-      2.8,
-      3.5,
-      3.2,
-      3.1,
-      3.1,
-      3.0,
-      2.8,
-      2.6,
-      3.2,
-      3.1,
-      3.0
+      1.8,
+      1.7,
+      1.7,
+      1.7,
+      2.1,
+      1.9,
+      1.8,
+      1.9,
+      1.8,
+      1.7,
+      1.5,
+      1.9,
+      1.9,
+      1.8
      ],
      "hot": false,
-     "blog": 38998953,
+     "blog": 38999841,
      "cafe": null,
      "questions": [
       {
@@ -1552,35 +1566,35 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=40201&docId=495586698&answerNo=1"
       }
      ],
-     "opp": 0.4,
+     "opp": 0.24,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "스페이스X",
-     "pop": 2.8,
-     "rise": 108,
+     "pop": 1.7,
+     "rise": 106,
      "spark": [
-      1.7,
-      1.3,
-      0.9,
-      0.5,
-      1.3,
-      1.7,
-      1.6,
-      2.0,
-      3.4,
-      2.0,
+      1.0,
       0.8,
-      1.9,
-      2.8,
-      6.7
+      0.6,
+      0.3,
+      0.8,
+      1.0,
+      1.0,
+      1.2,
+      2.0,
+      1.2,
+      0.5,
+      1.1,
+      1.7,
+      4.0
      ],
      "hot": true,
-     "blog": 515738,
+     "blog": 515777,
      "cafe": null,
      "questions": [],
-     "opp": 0.49,
+     "opp": 0.3,
      "move": null,
      "grade": "good"
     },
@@ -1590,27 +1604,27 @@
      "rise": 0,
      "spark": [
       0.1,
+      0.0,
+      0.0,
+      0.0,
       0.1,
       0.1,
       0.1,
       0.1,
       0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
+      0.0,
+      0.0,
       0.1,
       0.1,
       0.1
      ],
      "hot": false,
-     "blog": 1174194,
+     "blog": 1174211,
      "cafe": null,
      "questions": [],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "적금 금리",
@@ -1618,55 +1632,27 @@
      "rise": 0,
      "spark": [
       0.1,
-      0.1,
-      0.1,
-      0.1,
+      0.0,
+      0.0,
+      0.0,
       0.1,
       0.1,
       0.1,
       0.1,
       0.1,
       0.0,
-      0.1,
+      0.0,
       0.1,
       0.1,
       0.1
      ],
      "hot": false,
-     "blog": 673692,
+     "blog": 673675,
      "cafe": null,
      "questions": [],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "뉴욕",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": true,
-     "blog": 7588389,
-     "cafe": null,
-     "questions": [],
-     "opp": 0.01,
-     "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "배당금",
@@ -1689,35 +1675,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 4894416,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "상승",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 31467864,
+     "blog": 4894496,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -1745,7 +1703,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 340970,
+     "blog": 341025,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -1753,7 +1711,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "하락",
+     "keyword": "실적",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -1773,7 +1731,63 @@
       0.0
      ],
      "hot": true,
-     "blog": 11914383,
+     "blog": 9779964,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "기술주",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 805979,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "강세",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 3188996,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -1787,26 +1801,26 @@
    "keywords": [
     {
      "keyword": "무신사",
-     "pop": 7.5,
-     "rise": 18,
+     "pop": 4.5,
+     "rise": 19,
      "spark": [
-      8.4,
-      6.1,
-      5.9,
-      6.3,
-      7.9,
-      8.0,
-      8.5,
-      8.0,
-      7.0,
-      5.3,
-      6.2,
-      8.3,
-      8.3,
-      9.2
+      5.0,
+      3.6,
+      3.6,
+      3.7,
+      4.7,
+      4.8,
+      5.1,
+      4.8,
+      4.2,
+      3.2,
+      3.7,
+      5.0,
+      5.0,
+      5.5
      ],
      "hot": true,
-     "blog": 761180,
+     "blog": 761182,
      "cafe": null,
      "questions": [
       {
@@ -1822,32 +1836,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=511&docId=495594398&answerNo=2"
       }
      ],
-     "opp": 1.28,
+     "opp": 0.77,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "유한양행",
-     "pop": 0.9,
-     "rise": 81,
+     "pop": 0.6,
+     "rise": 100,
      "spark": [
-      0.6,
-      0.2,
-      0.2,
-      0.2,
+      0.4,
+      0.1,
+      0.1,
+      0.1,
+      0.4,
+      0.4,
+      0.4,
       0.7,
       0.7,
+      0.2,
+      0.2,
+      1.0,
       0.7,
-      1.1,
-      1.1,
-      0.3,
-      0.3,
-      1.6,
-      1.2,
-      1.0
+      0.6
      ],
      "hot": true,
-     "blog": 254210,
+     "blog": 254213,
      "cafe": null,
      "questions": [
       {
@@ -1863,32 +1877,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=40607&docId=495013836&answerNo=1"
       }
      ],
-     "opp": 0.17,
+     "opp": 0.11,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "올리브영 세일",
-     "pop": 0.5,
-     "rise": 100,
+     "pop": 0.3,
+     "rise": 0,
      "spark": [
-      0.4,
-      0.4,
-      0.4,
-      0.5,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.5,
-      0.6,
-      0.6
+      0.2,
+      0.2,
+      0.2,
+      0.3,
+      0.3,
+      0.2,
+      0.3,
+      0.3,
+      0.3,
+      0.2,
+      0.3,
+      0.3,
+      0.3,
+      0.4
      ],
      "hot": false,
-     "blog": 511064,
+     "blog": 511054,
      "cafe": null,
      "questions": [
       {
@@ -1904,119 +1918,50 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=5030102&docId=440723945&answerNo=4"
       }
      ],
-     "opp": 0.09,
+     "opp": 0.05,
      "move": null,
      "grade": "good"
     },
     {
-     "keyword": "가을 코디",
-     "pop": 0.1,
+     "keyword": "롯데몰",
+     "pop": 0.3,
      "rise": 0,
      "spark": [
-      0.1,
-      0.0,
-      0.0,
-      0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3
      ],
-     "hot": false,
-     "blog": 1336997,
+     "hot": true,
+     "blog": 2010908,
      "cafe": null,
      "questions": [
       {
-       "title": "가을 에 레드 니트 코디 , 도전해도 될까요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=8040104&docId=495468537&answerNo=1"
+       "title": "롯데몰 알바",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1001020205&docId=494546157&answerNo=1"
       },
       {
-       "title": "메리제인 가을코디 추천",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=80404&docId=495563960&answerNo=1"
+       "title": "롯데몰 알바",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1001020205&docId=494546157&answerNo=2"
       },
       {
-       "title": "봉태규 스타일, 무인양품 가을 코디 도전해볼 만할까요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=100507&docId=495528592&answerNo=1"
+       "title": "롯데몰 은 아울렛인가요? 백화점 인가요??",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1001020205&docId=495410892&answerNo=1"
       }
      ],
-     "opp": 0.02,
+     "opp": 0.05,
      "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "헤어스타일",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.0,
-      0.0,
-      0.1,
-      0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": false,
-     "blog": 8832287,
-     "cafe": null,
-     "questions": [],
-     "opp": 0.01,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "다이소 화장품",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": false,
-     "blog": 338621,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "다이소 갈웜 화장품 추천",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=50301&docId=495489952&answerNo=2"
-      },
-      {
-       "title": "다이소 화장품 추천템, 재고 확인 어떻게 하시나요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1060113&docId=494213739&answerNo=15"
-      },
-      {
-       "title": "다이소 화장품",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=5030101&docId=494732366&answerNo=1"
-      }
-     ],
-     "opp": 0.02,
-     "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "트렌치코트",
@@ -2029,17 +1974,17 @@
       0.1,
       0.1,
       0.1,
-      0.2,
-      0.2,
       0.1,
       0.1,
       0.1,
       0.1,
       0.1,
-      0.2
+      0.1,
+      0.1,
+      0.1
      ],
      "hot": false,
-     "blog": 487510,
+     "blog": 487520,
      "cafe": null,
      "questions": [
       {
@@ -2057,33 +2002,33 @@
      ],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
-     "keyword": "선크림",
-     "pop": 0.1,
+     "keyword": "가을 코디",
+     "pop": 0.0,
      "rise": 0,
      "spark": [
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
      ],
      "hot": false,
-     "blog": 2693538,
+     "blog": 1337076,
      "cafe": null,
      "questions": [],
-     "opp": 0.02,
+     "opp": 0,
      "move": null,
      "grade": "mid"
     },
@@ -2108,7 +2053,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 2887588,
+     "blog": 2887811,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -2136,7 +2081,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 2212035,
+     "blog": 2212114,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -2144,7 +2089,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "뷰티",
+     "keyword": "헤어스타일",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -2163,8 +2108,8 @@
       0.0,
       0.0
      ],
-     "hot": true,
-     "blog": 29047306,
+     "hot": false,
+     "blog": 8832441,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -2172,57 +2117,70 @@
      "grade": "mid"
     },
     {
-     "keyword": "패션",
+     "keyword": "다이소 화장품",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": false,
+     "blog": 338625,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "선크림",
      "pop": 0.0,
      "rise": 0,
      "spark": [
       0.1,
       0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
       0.0,
       0.0,
       0.0,
       0.0,
       0.1,
       0.0,
-      0.0
+      0.1
      ],
-     "hot": true,
-     "blog": 24500129,
+     "hot": false,
+     "blog": 2693551,
      "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "트렌드",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
+     "questions": [
+      {
+       "title": "30년 이상 선크림 을 바르지 않고 살았다면?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=70111&docId=495544909&answerNo=3"
+      },
+      {
+       "title": "스킨보톡스 후 바로 선크림 을 발라도 피부에 괜찮을까요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=70111&docId=495536105&answerNo=1"
+      },
+      {
+       "title": "서울예대 실무과 메이크업 금지인데 톤업 선크림 정도는 괜....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=110408&docId=495593557&answerNo=2"
+      }
      ],
-     "hot": true,
-     "blog": 14152878,
-     "cafe": null,
-     "questions": [],
      "opp": 0,
      "move": null,
      "grade": "mid"
@@ -2254,6 +2212,62 @@
      "opp": 0,
      "move": null,
      "grade": "mid"
+    },
+    {
+     "keyword": "청량리",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 990611,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "더마푸라민Rx",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 48,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
     }
    ]
   },
@@ -2262,26 +2276,26 @@
    "keywords": [
     {
      "keyword": "축제",
-     "pop": 1.5,
+     "pop": 0.9,
      "rise": -40,
      "spark": [
-      2.6,
-      3.8,
-      3.3,
-      2.2,
-      1.2,
-      1.0,
-      1.1,
-      1.1,
+      1.6,
+      2.3,
       2.0,
-      3.0,
-      1.4,
-      1.0,
+      1.3,
+      0.7,
+      0.6,
+      0.7,
+      0.7,
+      1.2,
+      1.8,
       0.9,
-      0.9
+      0.6,
+      0.5,
+      0.6
      ],
      "hot": false,
-     "blog": 14271252,
+     "blog": 14271205,
      "cafe": null,
      "questions": [
       {
@@ -2297,32 +2311,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=70106&docId=495477211&answerNo=3"
       }
      ],
-     "opp": 0.21,
+     "opp": 0.13,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "일본 여행",
-     "pop": 0.5,
-     "rise": 100,
+     "pop": 0.3,
+     "rise": 0,
      "spark": [
-      0.4,
-      0.4,
-      0.4,
-      0.5,
-      0.6,
-      0.5,
-      0.5,
-      0.5,
-      0.4,
-      0.4,
-      0.5,
-      0.6,
-      0.5,
-      0.5
+      0.3,
+      0.2,
+      0.2,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.2,
+      0.3,
+      0.3,
+      0.3,
+      0.3
      ],
      "hot": false,
-     "blog": 14660218,
+     "blog": 14660267,
      "cafe": null,
      "questions": [
       {
@@ -2338,73 +2352,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=51003&docId=495531765&answerNo=2"
       }
      ],
-     "opp": 0.07,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "부산",
-     "pop": 0.5,
-     "rise": 0,
-     "spark": [
-      0.5,
-      0.4,
-      0.4,
-      0.4,
-      0.5,
-      0.5,
-      0.4,
-      0.4,
-      0.5,
-      0.4,
-      0.4,
-      0.5,
-      0.5,
-      0.5
-     ],
-     "hot": true,
-     "blog": 45858509,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "부산 대광고",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=8030302&docId=495497106&answerNo=1"
-      },
-      {
-       "title": "부산 기계공고",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=110308&docId=495601571&answerNo=1"
-      },
-      {
-       "title": "부산 예고 면접",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=110308&docId=495625135&answerNo=1"
-      }
-     ],
-     "opp": 0.07,
+     "opp": 0.04,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "캠핑장",
-     "pop": 0.4,
-     "rise": 100,
+     "pop": 0.3,
+     "rise": 0,
      "spark": [
-      0.6,
-      0.5,
       0.4,
       0.3,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
       0.4,
-      0.4,
       0.3,
-      0.3,
-      0.3,
-      0.3,
-      0.3,
-      0.6,
-      0.6,
-      0.4
+      0.3
      ],
      "hot": false,
-     "blog": 8462367,
+     "blog": 8462475,
      "cafe": null,
      "questions": [
       {
@@ -2420,7 +2393,130 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=100508&docId=495548862&answerNo=1"
       }
      ],
-     "opp": 0.06,
+     "opp": 0.04,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "부산",
+     "pop": 0.3,
+     "rise": 0,
+     "spark": [
+      0.3,
+      0.3,
+      0.2,
+      0.2,
+      0.3,
+      0.3,
+      0.2,
+      0.3,
+      0.3,
+      0.2,
+      0.3,
+      0.3,
+      0.3,
+      0.3
+     ],
+     "hot": true,
+     "blog": 45858605,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "부산 대광고",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=8030302&docId=495497106&answerNo=1"
+      },
+      {
+       "title": "부산 기계공고",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=110308&docId=495601571&answerNo=1"
+      },
+      {
+       "title": "부산 예고 면접",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=110308&docId=495625135&answerNo=1"
+      }
+     ],
+     "opp": 0.04,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "바다",
+     "pop": 0.2,
+     "rise": 0,
+     "spark": [
+      0.1,
+      0.2,
+      0.2,
+      0.1,
+      0.1,
+      0.4,
+      0.6,
+      0.2,
+      0.2,
+      0.2,
+      0.1,
+      0.1,
+      0.2,
+      0.4
+     ],
+     "hot": true,
+     "blog": 37977018,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "가을 바다 산책, 어디가 제일 좋았나요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=90101&docId=495524339&answerNo=1"
+      },
+      {
+       "title": "성추행 당하는 꿈, 바다 에 빠지는 꿈 해몽해주세요",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=31505&docId=495553215&answerNo=4"
+      },
+      {
+       "title": "바다 에서면접보는꿈해몽부탁드려요",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=31505&docId=495543272&answerNo=8"
+      }
+     ],
+     "opp": 0.03,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "생생정보",
+     "pop": 0.2,
+     "rise": 0,
+     "spark": [
+      0.2,
+      0.2,
+      0.0,
+      0.0,
+      0.5,
+      0.3,
+      0.2,
+      0.2,
+      0.3,
+      0.0,
+      0.0,
+      0.2,
+      0.4,
+      0.3
+     ],
+     "hot": true,
+     "blog": 1928356,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "생생정보 통 소고기 잡채, 단맛 조절 어떻게 하세요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=8020104&docId=495605162&answerNo=2"
+      },
+      {
+       "title": "생생정보 맛집 어딘가요??",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=80208&docId=493405975&answerNo=5"
+      },
+      {
+       "title": "생생정보 통 맛집질문",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=80208&docId=200221003&answerNo=2"
+      }
+     ],
+     "opp": 0.03,
      "move": null,
      "grade": "good"
     },
@@ -2438,99 +2534,17 @@
       0.1,
       0.1,
       0.1,
-      0.1,
+      0.0,
       0.1,
       0.1,
       0.1,
       0.1
      ],
      "hot": false,
-     "blog": 10642574,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "뚜벅이 제주도여행",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=90112&docId=492552624&answerNo=9"
-      },
-      {
-       "title": "제주도여행",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1214&docId=495595322&answerNo=1"
-      },
-      {
-       "title": "10월 제주도 여행",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1214&docId=452059776&answerNo=5"
-      }
-     ],
-     "opp": 0.01,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "가을 여행지",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": false,
-     "blog": 3005154,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "20대 뚜벅이 커플 가을 여행지 추천해주세요!",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=90111&docId=371409089&answerNo=8"
-      },
-      {
-       "title": "가을 여행지 , 현지인 추천 장소가 궁금해요!",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=901&docId=494880912&answerNo=3"
-      },
-      {
-       "title": "9월 가을 여행지 추천, 부여의 숨은 명소들은 어디인가요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=90105&docId=488606799&answerNo=4"
-      }
-     ],
-     "opp": 0.02,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "익스피디아",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.0,
-      0.0,
-      0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.0,
-      0.0,
-      0.0,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": true,
-     "blog": 83148,
+     "blog": 10642645,
      "cafe": null,
      "questions": [],
-     "opp": 0.02,
+     "opp": 0.01,
      "move": null,
      "grade": "mid"
     },
@@ -2550,12 +2564,12 @@
       0.0,
       0.0,
       0.0,
-      0.1,
-      0.1,
-      0.1
+      0.0,
+      0.0,
+      0.0
      ],
      "hot": false,
-     "blog": 672894,
+     "blog": 672959,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -2583,7 +2597,35 @@
       0.0
      ],
      "hot": false,
-     "blog": 83291333,
+     "blog": 83294355,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "가을 여행지",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.1,
+      0.1,
+      0.1
+     ],
+     "hot": false,
+     "blog": 3005289,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -2611,7 +2653,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 12965927,
+     "blog": 12966560,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -2619,7 +2661,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "유일",
+     "keyword": "익스피디아",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -2639,7 +2681,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 18771110,
+     "blog": 83154,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -2647,7 +2689,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "개막",
+     "keyword": "글로벌",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -2667,7 +2709,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 2486752,
+     "blog": 18150155,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -2675,7 +2717,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "내년",
+     "keyword": "주말",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -2695,35 +2737,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 14509221,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "주목할",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 12149915,
+     "blog": 72137447,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -2737,26 +2751,26 @@
    "keywords": [
     {
      "keyword": "삼성전기",
-     "pop": 7.2,
+     "pop": 4.3,
      "rise": 41,
      "spark": [
-      7.8,
-      1.0,
+      4.6,
+      0.6,
+      0.4,
+      0.4,
+      4.3,
+      5.0,
+      4.5,
+      6.8,
+      5.5,
       0.7,
-      0.7,
-      7.2,
-      8.4,
-      7.4,
-      11.3,
-      9.2,
-      1.2,
-      0.9,
-      9.8,
-      8.8,
-      8.9
+      0.5,
+      5.9,
+      5.3,
+      5.3
      ],
      "hot": true,
-     "blog": 2622864,
+     "blog": 2622850,
      "cafe": null,
      "questions": [
       {
@@ -2772,32 +2786,73 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=1118&docId=390240981&answerNo=6"
       }
      ],
-     "opp": 1.12,
+     "opp": 0.67,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "애플",
+     "pop": 1.8,
+     "rise": -17,
+     "spark": [
+      1.4,
+      1.2,
+      1.2,
+      1.2,
+      1.5,
+      1.6,
+      1.7,
+      1.6,
+      3.1,
+      1.8,
+      1.4,
+      1.6,
+      1.5,
+      1.4
+     ],
+     "hot": true,
+     "blog": 9712267,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "애플 뮤직 애플 원 무료체험",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1060109&docId=495502552&answerNo=2"
+      },
+      {
+       "title": "애플 계정에서",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1040105&docId=495516120&answerNo=2"
+      },
+      {
+       "title": "애플 펜슬1세대",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=113&docId=495033101&answerNo=1"
+      }
+     ],
+     "opp": 0.26,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "아이폰",
-     "pop": 0.8,
-     "rise": -7,
+     "pop": 0.5,
+     "rise": 0,
      "spark": [
-      0.6,
-      0.6,
-      0.6,
-      0.6,
+      0.4,
+      0.4,
+      0.4,
+      0.4,
+      0.4,
+      0.4,
+      0.4,
+      0.4,
       0.7,
-      0.7,
-      0.7,
-      0.7,
-      1.1,
-      0.8,
-      0.8,
-      0.8,
-      0.7,
-      0.7
+      0.5,
+      0.5,
+      0.5,
+      0.4,
+      0.4
      ],
      "hot": false,
-     "blog": 8427230,
+     "blog": 8427390,
      "cafe": null,
      "questions": [
       {
@@ -2809,131 +2864,8 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=1070401&docId=495509810&answerNo=2"
       },
       {
-       "title": "아이폰 16",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1061203&docId=495564253&answerNo=1"
-      }
-     ],
-     "opp": 0.12,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "AI",
-     "pop": 0.6,
-     "rise": 17,
-     "spark": [
-      0.7,
-      0.5,
-      0.5,
-      0.5,
-      0.7,
-      0.7,
-      0.7,
-      0.7,
-      0.6,
-      0.5,
-      0.5,
-      0.7,
-      0.7,
-      0.8
-     ],
-     "hot": false,
-     "blog": 19157486,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "제미나이 ai",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=506&docId=495509497&answerNo=2"
-      },
-      {
-       "title": "스마트폰에서 사진을 AI 로 바꾸고 있는데요",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1070402&docId=495569227&answerNo=2"
-      },
-      {
-       "title": "ai 시대에 대체될 직업",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=11080106&docId=495504954&answerNo=1"
-      }
-     ],
-     "opp": 0.08,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "아이패드",
-     "pop": 0.5,
-     "rise": 0,
-     "spark": [
-      0.5,
-      0.5,
-      0.4,
-      0.5,
-      0.5,
-      0.5,
-      0.5,
-      0.5,
-      0.5,
-      0.5,
-      0.5,
-      0.5,
-      0.5,
-      0.5
-     ],
-     "hot": false,
-     "blog": 2937555,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "쿠팡 아이패드",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1010701&docId=495602692&answerNo=2"
-      },
-      {
-       "title": "아이패드 전원이 안켜져요",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1010701&docId=495590017&answerNo=2"
-      },
-      {
-       "title": "학생 아이패드",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1010701&docId=495612128&answerNo=3"
-      }
-     ],
-     "opp": 0.08,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "자동차 보험",
-     "pop": 0.5,
-     "rise": 100,
-     "spark": [
-      0.6,
-      0.3,
-      0.3,
-      0.4,
-      0.7,
-      0.6,
-      0.6,
-      0.5,
-      0.5,
-      0.3,
-      0.3,
-      0.6,
-      0.6,
-      0.5
-     ],
-     "hot": false,
-     "blog": 6441570,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "자동차보험",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=401030202&docId=495507836&answerNo=6"
-      },
-      {
-       "title": "자동차보험",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=401030202&docId=495507836&answerNo=2"
-      },
-      {
-       "title": "자동차보험",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=401030202&docId=495500478&answerNo=2"
+       "title": "아이폰 18프로",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=10901&docId=495609722&answerNo=1"
       }
      ],
      "opp": 0.07,
@@ -2941,7 +2873,7 @@
      "grade": "good"
     },
     {
-     "keyword": "전기차",
+     "keyword": "AI",
      "pop": 0.4,
      "rise": 0,
      "spark": [
@@ -2958,84 +2890,166 @@
       0.3,
       0.4,
       0.4,
-      0.4
+      0.5
      ],
      "hot": false,
-     "blog": 10759669,
+     "blog": 19157833,
      "cafe": null,
      "questions": [
       {
-       "title": "전기차 매연?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=8110301&docId=495492281&answerNo=3"
+       "title": "제미나이 ai",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=506&docId=495509497&answerNo=2"
       },
       {
-       "title": "보통 전기차 타면",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=507&docId=495509815&answerNo=1"
+       "title": "스마트폰에서 사진을 AI 로 바꾸고 있는데요",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1070402&docId=495569227&answerNo=2"
       },
       {
-       "title": "경차랑 전기차 는 몬스터볼에 보관 가능한가요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=811&docId=495500475&answerNo=2"
+       "title": "ai 시대에 대체될 직업",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=11080106&docId=495504954&answerNo=1"
       }
      ],
-     "opp": 0.06,
+     "opp": 0.05,
      "move": null,
      "grade": "good"
     },
     {
-     "keyword": "갤럭시",
+     "keyword": "아이패드",
      "pop": 0.3,
      "rise": 0,
      "spark": [
-      0.4,
-      0.3,
-      0.3,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
       0.3,
       0.3,
       0.3,
       0.3,
-      0.4,
-      0.4,
-      0.4
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3
      ],
      "hot": false,
-     "blog": 6245776,
+     "blog": 2937562,
      "cafe": null,
-     "questions": [],
+     "questions": [
+      {
+       "title": "쿠팡 아이패드",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1010701&docId=495602692&answerNo=2"
+      },
+      {
+       "title": "아이패드 전원이 안켜져요",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1010701&docId=495590017&answerNo=2"
+      },
+      {
+       "title": "학생 아이패드",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1010701&docId=495612128&answerNo=3"
+      }
+     ],
+     "opp": 0.05,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "자동차 보험",
+     "pop": 0.3,
+     "rise": 0,
+     "spark": [
+      0.3,
+      0.2,
+      0.2,
+      0.2,
+      0.4,
+      0.4,
+      0.3,
+      0.3,
+      0.3,
+      0.2,
+      0.2,
+      0.4,
+      0.3,
+      0.3
+     ],
+     "hot": false,
+     "blog": 6441623,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "자동차보험",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=401030202&docId=495507836&answerNo=6"
+      },
+      {
+       "title": "자동차보험",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=401030202&docId=495507836&answerNo=2"
+      },
+      {
+       "title": "자동차보험",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=401030202&docId=495500478&answerNo=2"
+      }
+     ],
      "opp": 0.04,
      "move": null,
      "grade": "good"
     },
     {
-     "keyword": "노트북 추천",
-     "pop": 0.1,
+     "keyword": "갤럭시",
+     "pop": 0.2,
      "rise": 0,
      "spark": [
-      0.1,
-      0.0,
-      0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2
      ],
      "hot": false,
-     "blog": 3710255,
+     "blog": 6245755,
      "cafe": null,
      "questions": [],
-     "opp": 0.02,
+     "opp": 0.03,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
+    },
+    {
+     "keyword": "전기차",
+     "pop": 0.2,
+     "rise": 0,
+     "spark": [
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.3,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2
+     ],
+     "hot": false,
+     "blog": 10759656,
+     "cafe": null,
+     "questions": [],
+     "opp": 0.03,
+     "move": null,
+     "grade": "good"
     },
     {
      "keyword": "듀오",
@@ -3043,38 +3057,53 @@
      "rise": 0,
      "spark": [
       0.1,
+      0.0,
+      0.0,
+      0.0,
       0.1,
       0.1,
       0.1,
       0.1,
       0.1,
       0.1,
-      0.1,
-      0.2,
-      0.1,
-      0.1,
+      0.0,
       0.1,
       0.1,
       0.1
      ],
      "hot": true,
-     "blog": 1188071,
+     "blog": 1188087,
      "cafe": null,
-     "questions": [
-      {
-       "title": "아이폰 듀오 구매할려고그러는데",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1070401&docId=495516933&answerNo=3"
-      },
-      {
-       "title": "저 좀 도와주십쇼!! (아이폰 듀오 )외 2개",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1070401&docId=495597890&answerNo=1"
-      },
-      {
-       "title": "스포티파이게인요금제에서 듀오 로변경햏는데날짜도변경됗....",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=110103&docId=495595382&answerNo=1"
-      }
-     ],
+     "questions": [],
      "opp": 0.02,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "노트북 추천",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.1,
+      0.1,
+      0.1
+     ],
+     "hot": false,
+     "blog": 3710421,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
      "move": null,
      "grade": "mid"
     },
@@ -3099,35 +3128,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 7382216,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "전자",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 35544511,
+     "blog": 7382206,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -3163,34 +3164,6 @@
      "grade": "mid"
     },
     {
-     "keyword": "상무",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 2185523,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
      "keyword": "산업포장",
      "pop": 0.0,
      "rise": 0,
@@ -3211,7 +3184,35 @@
       0.0
      ],
      "hot": true,
-     "blog": 1218192,
+     "blog": 1218201,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "KB안심중고렌트",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 9961,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -3225,26 +3226,26 @@
    "keywords": [
     {
      "keyword": "수능",
-     "pop": 2.3,
-     "rise": 42,
+     "pop": 1.4,
+     "rise": 43,
      "spark": [
-      1.5,
+      0.9,
+      0.8,
+      0.9,
+      1.0,
       1.3,
-      1.4,
-      1.6,
-      2.1,
-      2.0,
-      2.2,
-      2.1,
-      2.0,
+      1.2,
+      1.3,
+      1.3,
+      1.2,
+      1.0,
+      1.2,
       1.7,
-      1.9,
-      2.8,
-      2.9,
-      2.8
+      1.8,
+      1.7
      ],
      "hot": false,
-     "blog": 7913529,
+     "blog": 7913465,
      "cafe": null,
      "questions": [
       {
@@ -3260,32 +3261,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=110304&docId=495580945&answerNo=1"
       }
      ],
-     "opp": 0.33,
+     "opp": 0.2,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "토익",
-     "pop": 1.0,
-     "rise": 81,
+     "pop": 0.6,
+     "rise": 100,
      "spark": [
-      0.8,
+      0.5,
+      0.3,
       0.6,
-      1.0,
-      1.5,
-      1.1,
-      0.8,
-      0.8,
-      0.8,
+      0.9,
       0.7,
       0.5,
-      0.7,
-      1.1,
-      2.2,
-      0.9
+      0.5,
+      0.5,
+      0.4,
+      0.3,
+      0.4,
+      0.6,
+      1.3,
+      0.5
      ],
      "hot": false,
-     "blog": 2345302,
+     "blog": 2345353,
      "cafe": null,
      "questions": [
       {
@@ -3301,32 +3302,73 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=11080308&docId=495560943&answerNo=3"
       }
      ],
-     "opp": 0.16,
+     "opp": 0.09,
      "move": null,
      "grade": "good"
     },
     {
+     "keyword": "자격증",
+     "pop": 0.1,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.1,
+      0.1,
+      0.1
+     ],
+     "hot": false,
+     "blog": 19197661,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "테이핑 자격증",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1007&docId=495514024&answerNo=2"
+      },
+      {
+       "title": "자격증 질문",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=111&docId=495505939&answerNo=4"
+      },
+      {
+       "title": "지게차 자격증",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=8110303&docId=492131928&answerNo=8"
+      }
+     ],
+     "opp": 0.01,
+     "move": null,
+     "grade": "mid"
+    },
+    {
      "keyword": "한국사",
-     "pop": 0.2,
+     "pop": 0.1,
      "rise": 0,
      "spark": [
       0.1,
+      0.0,
+      0.0,
       0.1,
       0.1,
       0.1,
+      0.1,
+      0.1,
       0.2,
       0.2,
-      0.2,
-      0.2,
-      0.3,
-      0.3,
       0.1,
       0.1,
       0.1,
       0.1
      ],
      "hot": false,
-     "blog": 33905221,
+     "blog": 33904843,
      "cafe": null,
      "questions": [
       {
@@ -3342,157 +3384,6 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=110409&docId=495611418&answerNo=1"
       }
      ],
-     "opp": 0.03,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "자격증",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": false,
-     "blog": 19197553,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "테이핑 자격증",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1007&docId=495514024&answerNo=2"
-      },
-      {
-       "title": "자격증 질문",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=111&docId=495505939&answerNo=4"
-      },
-      {
-       "title": "기계 기사 자격증 응시 자격 여부 확인",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=40609&docId=495591767&answerNo=2"
-      }
-     ],
-     "opp": 0.01,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "공무원 시험",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.0,
-      0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": false,
-     "blog": 1878934,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "공무원시험",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=40601&docId=495553029&answerNo=2"
-      },
-      {
-       "title": "경찰 공무원 시험 .",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=40601&docId=495568697&answerNo=1"
-      },
-      {
-       "title": "공무원시험",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=40601&docId=495553029&answerNo=4"
-      }
-     ],
-     "opp": 0.02,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "문화센터",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.0,
-      0.0,
-      0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.0,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": true,
-     "blog": 8406038,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "복지관, 문화센터 강사 관련 질문이요",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=406&docId=494903534&answerNo=2"
-      },
-      {
-       "title": "롯데마트,홈플러스 문화센터",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=40605&docId=495332227&answerNo=1"
-      },
-      {
-       "title": "강서구 생활 문화센터 대관신청에 관한 사항이 궁금합니다.",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=60105&docId=494501265&answerNo=1"
-      }
-     ],
-     "opp": 0.01,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "인천시",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.0,
-      0.0,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": true,
-     "blog": 24266490,
-     "cafe": null,
-     "questions": [],
      "opp": 0.01,
      "move": null,
      "grade": "mid"
@@ -3518,9 +3409,63 @@
       0.0
      ],
      "hot": false,
-     "blog": 13641973,
+     "blog": 13642236,
      "cafe": null,
-     "questions": [],
+     "questions": [
+      {
+       "title": "영어 공부 추천",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=11080308&docId=495541653&answerNo=4"
+      },
+      {
+       "title": "영어공부 질문입니다.",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=11080305&docId=495488351&answerNo=3"
+      },
+      {
+       "title": "영어 공부 법",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=11080308&docId=495617860&answerNo=5"
+      }
+     ],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "공무원 시험",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": false,
+     "blog": 1878902,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "공무원시험",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=40601&docId=495553029&answerNo=2"
+      },
+      {
+       "title": "경찰 공무원 시험 .",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=40601&docId=495568697&answerNo=1"
+      },
+      {
+       "title": "공무원시험",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=40601&docId=495553029&answerNo=4"
+      }
+     ],
      "opp": 0,
      "move": null,
      "grade": "mid"
@@ -3546,7 +3491,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 20637231,
+     "blog": 20637490,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -3574,7 +3519,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 33034145,
+     "blog": 33034167,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -3582,7 +3527,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "경기",
+     "keyword": "대학",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -3602,7 +3547,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 83749418,
+     "blog": 40423247,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -3610,7 +3555,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "대입",
+     "keyword": "개정",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -3630,35 +3575,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 2953322,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "설명회",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 16817424,
+     "blog": 6641006,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -3686,7 +3603,91 @@
       0.0
      ],
      "hot": true,
-     "blog": 73887,
+     "blog": 73900,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "국교위",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 7554,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "조성",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 19107716,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "재외동포",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 242593,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -3699,68 +3700,68 @@
    "name": "리빙·푸드",
    "keywords": [
     {
-     "keyword": "편의점",
-     "pop": 1.9,
-     "rise": -24,
+     "keyword": "맥도날드",
+     "pop": 1.6,
+     "rise": -17,
      "spark": [
-      1.8,
-      3.3,
-      3.4,
-      2.3,
-      1.6,
-      1.4,
       1.5,
+      1.8,
+      1.9,
+      1.7,
+      1.3,
+      1.3,
       1.6,
       1.9,
-      3.2,
-      2.0,
-      1.4,
-      1.5,
-      1.4
+      1.6,
+      1.9,
+      1.7,
+      1.2,
+      1.3,
+      1.5
      ],
      "hot": true,
-     "blog": 26991898,
+     "blog": 2175810,
      "cafe": null,
      "questions": [
       {
-       "title": "편의점 택배",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=81302&docId=495542592&answerNo=1"
+       "title": "맥도날드 런치 메뉴 중 지드래곤 버거, 정말 맛있나요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=8020203&docId=495514770&answerNo=1"
       },
       {
-       "title": "gs25 편의점 앱에서 구매후",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=40701&docId=495597568&answerNo=2"
+       "title": "맥도날드 지디 콜라보 버거, 맛은 어땠나요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=8020203&docId=495347800&answerNo=1"
       },
       {
-       "title": "편의점 알바 고민",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=40611&docId=495623244&answerNo=1"
+       "title": "맥도날드 알바 급여",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=40611&docId=495449557&answerNo=1"
       }
      ],
-     "opp": 0.26,
+     "opp": 0.25,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "bhc",
-     "pop": 1.4,
-     "rise": -21,
+     "pop": 0.9,
+     "rise": -22,
      "spark": [
-      1.4,
-      1.7,
-      1.6,
-      1.5,
-      1.3,
-      1.3,
-      1.3,
-      1.3,
-      1.7,
-      1.8,
-      1.7,
-      1.2,
-      1.2,
-      1.1
+      0.8,
+      1.0,
+      1.0,
+      0.9,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      1.0,
+      1.1,
+      1.0,
+      0.7,
+      0.7,
+      0.7
      ],
      "hot": true,
-     "blog": 446839,
+     "blog": 446837,
      "cafe": null,
      "questions": [
       {
@@ -3776,32 +3777,73 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=90207&docId=495231705&answerNo=2"
       }
      ],
-     "opp": 0.25,
+     "opp": 0.16,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "노브랜드",
+     "pop": 0.6,
+     "rise": -11,
+     "spark": [
+      0.5,
+      0.6,
+      0.7,
+      1.1,
+      0.5,
+      0.5,
+      0.7,
+      0.5,
+      0.5,
+      0.6,
+      0.9,
+      0.5,
+      0.5,
+      0.6
+     ],
+     "hot": true,
+     "blog": 741164,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "노브랜드 는 어느나라 기업인가요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1117&docId=494975647&answerNo=4"
+      },
+      {
+       "title": "노브랜드 통모짜치즈스틱, 다른 소스로 더 맛있게 먹는 방법....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=50502&docId=495540815&answerNo=3"
+      },
+      {
+       "title": "노브랜드 통모짜치즈스틱, 진짜 치즈가 쭉 늘어나나요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=50502&docId=495540814&answerNo=4"
+      }
+     ],
+     "opp": 0.1,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "가습기",
-     "pop": 0.8,
-     "rise": -1,
+     "pop": 0.5,
+     "rise": 0,
      "spark": [
-      1.0,
-      0.8,
+      0.6,
+      0.5,
+      0.4,
+      0.4,
+      0.5,
+      0.5,
       0.6,
       0.6,
-      0.8,
-      0.8,
-      1.0,
-      1.0,
-      0.9,
-      0.7,
-      0.7,
-      0.8,
-      0.8,
-      0.9
+      0.5,
+      0.4,
+      0.4,
+      0.5,
+      0.5,
+      0.5
      ],
      "hot": false,
-     "blog": 1996812,
+     "blog": 1996846,
      "cafe": null,
      "questions": [
       {
@@ -3817,7 +3859,7 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=508&docId=490409608&answerNo=9"
       }
      ],
-     "opp": 0.13,
+     "opp": 0.08,
      "move": null,
      "grade": "good"
     },
@@ -3842,7 +3884,7 @@
       0.1
      ],
      "hot": false,
-     "blog": 64146720,
+     "blog": 64147426,
      "cafe": null,
      "questions": [
       {
@@ -3880,10 +3922,10 @@
       0.0,
       0.1,
       0.1,
-      0.3
+      0.2
      ],
      "hot": true,
-     "blog": 30682,
+     "blog": 30687,
      "cafe": null,
      "questions": [
       {
@@ -3901,7 +3943,7 @@
      ],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "에어프라이어 요리",
@@ -3919,27 +3961,14 @@
       0.0,
       0.0,
       0.0,
-      0.1,
-      0.1,
+      0.0,
+      0.0,
       0.0
      ],
      "hot": false,
-     "blog": 783094,
+     "blog": 783100,
      "cafe": null,
-     "questions": [
-      {
-       "title": "에어프라이어",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1114&docId=495620304&answerNo=1"
-      },
-      {
-       "title": "고구마 맛탕, 에어프라이어 로도 가능할까요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=71105&docId=495526227&answerNo=2"
-      },
-      {
-       "title": "고구마 맛탕, 에어프라이어 로 대체 가능할까요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=50502&docId=495541716&answerNo=3"
-      }
-     ],
+     "questions": [],
      "opp": 0,
      "move": null,
      "grade": "mid"
@@ -3960,12 +3989,12 @@
       0.0,
       0.0,
       0.0,
-      0.1,
-      0.1,
+      0.0,
+      0.0,
       0.0
      ],
      "hot": false,
-     "blog": 1938405,
+     "blog": 1938426,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -3993,7 +4022,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 190367,
+     "blog": 190379,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -4021,7 +4050,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 856783,
+     "blog": 856799,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -4049,7 +4078,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 5233361,
+     "blog": 5233549,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -4066,7 +4095,7 @@
       0.0,
       0.0,
       0.0,
-      0.1,
+      0.0,
       0.0,
       0.0,
       0.0,
@@ -4077,7 +4106,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 14826055,
+     "blog": 14826261,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -4113,41 +4142,13 @@
      "grade": "mid"
     },
     {
-     "keyword": "신상",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 12019934,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
      "keyword": "버거",
      "pop": 0.0,
      "rise": 0,
      "spark": [
       0.0,
-      0.1,
-      0.1,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0,
@@ -4161,7 +4162,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 5605105,
+     "blog": 5605100,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -4174,27 +4175,68 @@
    "name": "건강·의학",
    "keywords": [
     {
+     "keyword": "유튜브",
+     "pop": 93.9,
+     "rise": 4,
+     "spark": [
+      94.8,
+      85.9,
+      85.3,
+      85.2,
+      96.4,
+      97.7,
+      97.3,
+      97.2,
+      96.2,
+      85.9,
+      86.5,
+      95.9,
+      97.8,
+      98.1
+     ],
+     "hot": true,
+     "blog": 28497688,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "유튜브 화면 갑자기 밝아짐",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=10604&docId=495519449&answerNo=1"
+      },
+      {
+       "title": "유튜브 타로",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=31503&docId=495486637&answerNo=2"
+      },
+      {
+       "title": "유튜브 오류인가요",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=10905&docId=495484837&answerNo=4"
+      }
+     ],
+     "opp": 12.6,
+     "move": null,
+     "grade": "good"
+    },
+    {
      "keyword": "독감 예방접종",
-     "pop": 2.3,
+     "pop": 1.4,
      "rise": -33,
      "spark": [
-      4.5,
-      2.5,
-      2.8,
-      2.0,
-      5.1,
-      3.8,
-      3.7,
-      3.8,
-      3.0,
-      1.9,
+      2.7,
+      1.5,
+      1.7,
+      1.2,
+      3.1,
+      2.2,
+      2.2,
+      2.3,
+      1.8,
       1.1,
-      2.5,
-      2.0,
-      1.9
+      0.6,
+      1.5,
+      1.2,
+      1.1
      ],
      "hot": false,
-     "blog": 454037,
+     "blog": 454055,
      "cafe": null,
      "questions": [
       {
@@ -4210,32 +4252,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=7010107&docId=495513159&answerNo=1"
       }
      ],
-     "opp": 0.41,
+     "opp": 0.25,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "비타민D",
-     "pop": 0.4,
+     "pop": 0.2,
      "rise": 0,
      "spark": [
-      0.4,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
       0.3,
       0.3,
       0.3,
-      0.4,
-      0.4,
-      0.5,
-      0.4,
-      0.4,
-      0.4,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
       0.3,
-      0.5,
-      0.5,
-      0.4
+      0.3,
+      0.3
      ],
      "hot": false,
-     "blog": 3176287,
+     "blog": 3176309,
      "cafe": null,
      "questions": [
       {
@@ -4251,7 +4293,7 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=70117&docId=495514100&answerNo=1"
       }
      ],
-     "opp": 0.06,
+     "opp": 0.03,
      "move": null,
      "grade": "good"
     },
@@ -4263,20 +4305,20 @@
       0.1,
       0.1,
       0.1,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
       0.1,
       0.1,
       0.1,
       0.1,
-      0.2,
-      0.2,
-      0.2
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1
      ],
      "hot": false,
-     "blog": 6342314,
+     "blog": 6342515,
      "cafe": null,
      "questions": [
       {
@@ -4317,7 +4359,7 @@
       0.1
      ],
      "hot": false,
-     "blog": 508402,
+     "blog": 508411,
      "cafe": null,
      "questions": [
       {
@@ -4335,30 +4377,30 @@
      ],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "혈압",
-     "pop": 0.1,
+     "pop": 0.0,
      "rise": 0,
      "spark": [
-      0.1,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.1,
       0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.1,
-      0.1,
-      0.1
+      0.0,
+      0.0
      ],
      "hot": false,
-     "blog": 7847652,
+     "blog": 7847715,
      "cafe": null,
      "questions": [
       {
@@ -4374,76 +4416,63 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=7010103&docId=495526493&answerNo=1"
       }
      ],
-     "opp": 0.01,
+     "opp": 0,
      "move": null,
      "grade": "mid"
     },
     {
      "keyword": "당뇨",
-     "pop": 0.1,
+     "pop": 0.0,
      "rise": 0,
      "spark": [
-      0.1,
       0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
      ],
      "hot": false,
-     "blog": 7024797,
+     "blog": 7024874,
      "cafe": null,
-     "questions": [
-      {
-       "title": "당뇨 증상인지",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=7010106&docId=495522187&answerNo=1"
-      },
-      {
-       "title": "당뇨 증상인지",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=7010106&docId=495522187&answerNo=5"
-      },
-      {
-       "title": "당뇨 일까요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=7010106&docId=495514143&answerNo=6"
-      }
-     ],
-     "opp": 0.01,
+     "questions": [],
+     "opp": 0,
      "move": null,
      "grade": "mid"
     },
     {
      "keyword": "탈모",
-     "pop": 0.1,
+     "pop": 0.0,
      "rise": 0,
      "spark": [
-      0.1,
       0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0
      ],
      "hot": false,
-     "blog": 4198197,
+     "blog": 4198224,
      "cafe": null,
      "questions": [],
-     "opp": 0.02,
+     "opp": 0,
      "move": null,
      "grade": "mid"
     },
@@ -4468,119 +4497,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 17674899,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "표창",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 1327629,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "관리",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 179421250,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "예방",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 48455087,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "질병",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 15465852,
+     "blog": 17675113,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -4616,7 +4533,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "교수",
+     "keyword": "대구보건대병원",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -4636,7 +4553,91 @@
       0.0
      ],
      "hot": true,
-     "blog": 17254301,
+     "blog": 14513,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "노인",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 10394824,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "의료관련감염",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 1108745,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "의사",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 35173900,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -4650,26 +4651,26 @@
    "keywords": [
     {
      "keyword": "키즈카페",
-     "pop": 0.4,
+     "pop": 0.3,
      "rise": 0,
      "spark": [
-      0.3,
-      0.8,
+      0.2,
+      0.5,
+      0.4,
+      0.4,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.2,
+      0.4,
       0.7,
-      0.7,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.3,
-      0.7,
-      1.1,
-      0.2,
-      0.2,
-      0.3
+      0.1,
+      0.1,
+      0.2
      ],
      "hot": false,
-     "blog": 4278182,
+     "blog": 4278193,
      "cafe": null,
      "questions": [
       {
@@ -4685,32 +4686,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=8010501&docId=495543638&answerNo=1"
       }
      ],
-     "opp": 0.06,
+     "opp": 0.05,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "어린이집",
-     "pop": 0.3,
+     "pop": 0.2,
      "rise": 0,
      "spark": [
-      0.2,
       0.1,
       0.1,
       0.1,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
       0.1,
       0.1,
-      0.5,
-      0.5,
-      0.4
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.3,
+      0.3,
+      0.2
      ],
      "hot": false,
-     "blog": 18855571,
+     "blog": 18855792,
      "cafe": null,
      "questions": [
       {
@@ -4726,32 +4727,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=110102&docId=495491346&answerNo=1"
       }
      ],
-     "opp": 0.04,
+     "opp": 0.03,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "육아휴직",
-     "pop": 0.2,
+     "pop": 0.1,
      "rise": 0,
      "spark": [
       0.1,
+      0.0,
+      0.0,
+      0.0,
       0.1,
       0.1,
       0.1,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
       0.1,
       0.1,
+      0.0,
+      0.0,
       0.1,
-      0.2,
-      0.2,
-      0.2
+      0.1,
+      0.1
      ],
      "hot": false,
-     "blog": 862383,
+     "blog": 862385,
      "cafe": null,
      "questions": [
       {
@@ -4767,91 +4768,9 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=60804&docId=495515604&answerNo=4"
       }
      ],
-     "opp": 0.03,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "동서식품",
-     "pop": 0.2,
-     "rise": 0,
-     "spark": [
-      0.2,
-      0.1,
-      0.1,
-      0.1,
-      0.2,
-      0.2,
-      0.1,
-      0.1,
-      0.2,
-      0.1,
-      0.1,
-      0.2,
-      0.3,
-      0.2
-     ],
-     "hot": true,
-     "blog": 134713,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "대한민국 원조 커피믹스, 동서식품 의 시작은 어땠을까요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=40607&docId=494146050&answerNo=2"
-      },
-      {
-       "title": "경성대 환경공학과 vs 동서 대 식품 영양학과",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=11050403&docId=495101977&answerNo=3"
-      },
-      {
-       "title": "경성대 환경공학과 vs 동서 대 식품 영양학과",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=11050403&docId=495101977&answerNo=1"
-      }
-     ],
-     "opp": 0.04,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "부모급여",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.2,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": false,
-     "blog": 925494,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "부모급여 아이계좌로 받은 후 아이적금관련 질문",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=40101&docId=495606241&answerNo=5"
-      },
-      {
-       "title": "남편이 아이 학대하고 수사 중인데 부모급여 지가 받고 잠수....",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=110102&docId=495538458&answerNo=3"
-      },
-      {
-       "title": "아동수당, 부모급여 관련",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=6100105&docId=495070979&answerNo=5"
-      }
-     ],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "아기 옷",
@@ -4874,7 +4793,7 @@
       0.1
      ],
      "hot": false,
-     "blog": 4533286,
+     "blog": 4533334,
      "cafe": null,
      "questions": [
       {
@@ -4892,33 +4811,87 @@
      ],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
-     "keyword": "남양주시",
+     "keyword": "동서식품",
      "pop": 0.1,
      "rise": 0,
      "spark": [
       0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
       0.0,
-      0.0,
-      0.0,
       0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.0,
-      0.0,
-      0.1,
-      0.1,
+      0.2,
       0.1
      ],
      "hot": true,
-     "blog": 5726643,
+     "blog": 134718,
      "cafe": null,
-     "questions": [],
-     "opp": 0.01,
+     "questions": [
+      {
+       "title": "대한민국 원조 커피믹스, 동서식품 의 시작은 어땠을까요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=40607&docId=494146050&answerNo=2"
+      },
+      {
+       "title": "경성대 환경공학과 vs 동서 대 식품 영양학과",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=11050403&docId=495101977&answerNo=3"
+      },
+      {
+       "title": "경성대 환경공학과 vs 동서 대 식품 영양학과",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=11050403&docId=495101977&answerNo=1"
+      }
+     ],
+     "opp": 0.02,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "부모급여",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.1,
+      0.1,
+      0.1,
+      0.0,
+      0.1,
+      0.1,
+      0.1,
+      0.0,
+      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.1,
+      0.0
+     ],
+     "hot": false,
+     "blog": 925530,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "부모급여 아이계좌로 받은 후 아이적금관련 질문",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=40101&docId=495606241&answerNo=5"
+      },
+      {
+       "title": "남편이 아이 학대하고 수사 중인데 부모급여 지가 받고 잠수....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=110102&docId=495538458&answerNo=3"
+      },
+      {
+       "title": "아동수당, 부모급여 관련",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=6100105&docId=495070979&answerNo=5"
+      }
+     ],
+     "opp": 0,
      "move": null,
      "grade": "mid"
     },
@@ -4943,7 +4916,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 13180954,
+     "blog": 13181153,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -4971,7 +4944,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 2632854,
+     "blog": 2632903,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -4999,7 +4972,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 11087684,
+     "blog": 11087795,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -5007,7 +4980,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "휴직",
+     "keyword": "1000만원",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -5027,7 +5000,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 1354557,
+     "blog": 1698798,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -5035,7 +5008,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "셋째",
+     "keyword": "영유아",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -5055,7 +5028,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 14154524,
+     "blog": 2668650,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -5063,7 +5036,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "장려금",
+     "keyword": "가정",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -5083,7 +5056,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 1796126,
+     "blog": 37060922,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -5111,7 +5084,35 @@
       0.0
      ],
      "hot": true,
-     "blog": 6382750,
+     "blog": 6382654,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "박홍근",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.1,
+      0.0,
+      0.0,
+      0.1,
+      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 59833,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -5125,26 +5126,26 @@
    "keywords": [
     {
      "keyword": "부산",
-     "pop": 0.5,
+     "pop": 0.3,
      "rise": 0,
      "spark": [
-      0.5,
-      0.4,
-      0.4,
-      0.4,
-      0.5,
-      0.5,
-      0.4,
-      0.4,
-      0.5,
-      0.4,
-      0.4,
-      0.5,
-      0.5,
-      0.5
+      0.3,
+      0.3,
+      0.2,
+      0.2,
+      0.3,
+      0.3,
+      0.2,
+      0.3,
+      0.3,
+      0.2,
+      0.3,
+      0.3,
+      0.3,
+      0.3
      ],
      "hot": true,
-     "blog": 45858509,
+     "blog": 45858605,
      "cafe": null,
      "questions": [
       {
@@ -5160,7 +5161,7 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=110308&docId=495625135&answerNo=1"
       }
      ],
-     "opp": 0.07,
+     "opp": 0.04,
      "move": null,
      "grade": "good"
     },
@@ -5180,12 +5181,12 @@
       0.1,
       0.1,
       0.1,
-      0.2,
+      0.1,
       0.1,
       0.1
      ],
      "hot": false,
-     "blog": 1427535,
+     "blog": 1427566,
      "cafe": null,
      "questions": [
       {
@@ -5203,7 +5204,7 @@
      ],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "고양이 사료",
@@ -5214,19 +5215,19 @@
       0.1,
       0.1,
       0.1,
-      0.2,
       0.1,
       0.1,
       0.1,
       0.1,
       0.1,
       0.1,
-      0.2,
-      0.2,
+      0.1,
+      0.1,
+      0.1,
       0.1
      ],
      "hot": false,
-     "blog": 1082019,
+     "blog": 1082043,
      "cafe": null,
      "questions": [
       {
@@ -5244,7 +5245,7 @@
      ],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "강아지 간식",
@@ -5267,7 +5268,7 @@
       0.1
      ],
      "hot": false,
-     "blog": 2487985,
+     "blog": 2488031,
      "cafe": null,
      "questions": [
       {
@@ -5285,7 +5286,7 @@
      ],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "펫보험",
@@ -5293,22 +5294,22 @@
      "rise": 0,
      "spark": [
       0.1,
+      0.0,
+      0.0,
+      0.0,
       0.1,
       0.1,
       0.1,
       0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
+      0.0,
+      0.0,
+      0.0,
       0.1,
       0.1,
       0.1
      ],
      "hot": false,
-     "blog": 102503,
+     "blog": 102496,
      "cafe": null,
      "questions": [
       {
@@ -5326,76 +5327,7 @@
      ],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "고양이 장난감",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.0,
-      0.0,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": false,
-     "blog": 801409,
-     "cafe": null,
-     "questions": [],
-     "opp": 0.02,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "페스티벌",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": true,
-     "blog": 3475345,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "페스티벌 축제",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=40611&docId=495497765&answerNo=2"
-      },
-      {
-       "title": "페스티벌 스텝알바",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=40611&docId=495497862&answerNo=3"
-      },
-      {
-       "title": "대구힙합 페스티벌 대구힙페 퇴근길",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=30202&docId=495430812&answerNo=1"
-      }
-     ],
-     "opp": 0.02,
-     "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "반려견 산책",
@@ -5418,15 +5350,28 @@
       0.0
      ],
      "hot": false,
-     "blog": 1749766,
+     "blog": 1749815,
      "cafe": null,
-     "questions": [],
+     "questions": [
+      {
+       "title": "반려견 이 산책 할 때 다른 강아지 보면 짖어요.",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=8050104&docId=495474335&answerNo=2"
+      },
+      {
+       "title": "반려견 이 산책 할 때 다른 강아지 보면 짖어요.",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=8050104&docId=495474335&answerNo=1"
+      },
+      {
+       "title": "공원 내 반려견 산책 목출착용",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=60105&docId=494500835&answerNo=1"
+      }
+     ],
      "opp": 0,
      "move": null,
      "grade": "mid"
     },
     {
-     "keyword": "지인",
+     "keyword": "고양이 장난감",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -5445,8 +5390,8 @@
       0.0,
       0.0
      ],
-     "hot": true,
-     "blog": 26828943,
+     "hot": false,
+     "blog": 801423,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -5462,10 +5407,10 @@
       0.0,
       0.0,
       0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0,
@@ -5474,7 +5419,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 30399,
+     "blog": 30408,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -5530,7 +5475,63 @@
       0.0
      ],
      "hot": true,
-     "blog": 64083,
+     "blog": 64081,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "공동개발",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 4250202,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "SKY동물메디컬센터",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 3079,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -5544,26 +5545,26 @@
    "keywords": [
     {
      "keyword": "다이소",
-     "pop": 10.5,
+     "pop": 6.3,
      "rise": -1,
      "spark": [
-      10.8,
-      12.2,
-      12.0,
-      11.8,
-      11.0,
-      10.5,
-      10.9,
-      10.3,
-      10.5,
-      11.0,
-      10.2,
-      10.8,
-      10.3,
-      10.6
+      6.5,
+      7.3,
+      7.2,
+      7.1,
+      6.6,
+      6.3,
+      6.5,
+      6.2,
+      6.3,
+      6.6,
+      6.1,
+      6.5,
+      6.2,
+      6.3
      ],
      "hot": true,
-     "blog": 4883844,
+     "blog": 4883944,
      "cafe": null,
      "questions": [
       {
@@ -5579,32 +5580,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=602060401&docId=495549631&answerNo=2"
       }
      ],
-     "opp": 1.57,
+     "opp": 0.94,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "유한양행",
-     "pop": 0.9,
-     "rise": 81,
+     "pop": 0.6,
+     "rise": 100,
      "spark": [
-      0.6,
-      0.2,
-      0.2,
-      0.2,
+      0.4,
+      0.1,
+      0.1,
+      0.1,
+      0.4,
+      0.4,
+      0.4,
       0.7,
       0.7,
+      0.2,
+      0.2,
+      1.0,
       0.7,
-      1.1,
-      1.1,
-      0.3,
-      0.3,
-      1.6,
-      1.2,
-      1.0
+      0.6
      ],
      "hot": true,
-     "blog": 254210,
+     "blog": 254213,
      "cafe": null,
      "questions": [
       {
@@ -5620,32 +5621,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=40607&docId=495013836&answerNo=1"
       }
      ],
-     "opp": 0.17,
+     "opp": 0.11,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "블랙프라이데이",
-     "pop": 0.4,
+     "pop": 0.2,
      "rise": 0,
      "spark": [
+      0.1,
+      0.1,
+      0.1,
+      0.1,
       0.2,
       0.2,
       0.2,
       0.2,
+      0.2,
+      0.2,
+      0.2,
       0.3,
       0.3,
-      0.4,
-      0.3,
-      0.3,
-      0.3,
-      0.3,
-      0.5,
-      0.5,
-      0.5
+      0.3
      ],
      "hot": false,
-     "blog": 435421,
+     "blog": 435400,
      "cafe": null,
      "questions": [
       {
@@ -5661,32 +5662,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=1070404&docId=495621738&answerNo=2"
       }
      ],
-     "opp": 0.07,
+     "opp": 0.04,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "로봇청소기",
-     "pop": 0.4,
+     "pop": 0.2,
      "rise": 0,
      "spark": [
-      0.4,
-      0.4,
-      0.4,
-      0.5,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.4,
-      0.5,
-      0.4,
-      0.4
+      0.2,
+      0.2,
+      0.2,
+      0.3,
+      0.3,
+      0.3,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.3,
+      0.3,
+      0.2
      ],
      "hot": false,
-     "blog": 894704,
+     "blog": 894733,
      "cafe": null,
      "questions": [
       {
@@ -5702,32 +5703,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=50104&docId=495580510&answerNo=2"
       }
      ],
-     "opp": 0.07,
+     "opp": 0.03,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "무선이어폰",
-     "pop": 0.3,
+     "pop": 0.2,
      "rise": 0,
      "spark": [
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
       0.2,
       0.2,
       0.2,
+      0.1,
+      0.1,
+      0.1,
       0.2,
       0.2,
-      0.3,
-      0.3,
-      0.3,
-      0.2,
-      0.2,
-      0.2,
-      0.3,
-      0.3,
-      0.3
+      0.2
      ],
      "hot": false,
-     "blog": 754849,
+     "blog": 754850,
      "cafe": null,
      "questions": [
       {
@@ -5743,38 +5744,34 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=1070402&docId=495508764&answerNo=2"
       }
      ],
-     "opp": 0.05,
+     "opp": 0.03,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "패딩",
-     "pop": 0.3,
+     "pop": 0.2,
      "rise": 0,
      "spark": [
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.2,
+      0.2,
+      0.1,
+      0.1,
       0.2,
       0.2,
       0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.3,
-      0.3,
-      0.2,
-      0.2,
-      0.3,
-      0.3,
-      0.3,
-      0.5
+      0.3
      ],
      "hot": false,
-     "blog": 3763186,
+     "blog": 3763242,
      "cafe": null,
      "questions": [
-      {
-       "title": "경량 패딩 소매수선",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=80903&docId=495531320&answerNo=2"
-      },
       {
        "title": "패딩 작은 구멍 수선",
        "link": "https://kin.naver.com/qna/detail.naver?dirId=80903&docId=495501870&answerNo=2"
@@ -5782,9 +5779,13 @@
       {
        "title": "경량 패딩 사이즈",
        "link": "https://kin.naver.com/qna/detail.naver?dirId=8040103&docId=495626653&answerNo=1"
+      },
+      {
+       "title": "패딩 은 빨래방건조기",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=61303&docId=491156095&answerNo=8"
       }
      ],
-     "opp": 0.05,
+     "opp": 0.03,
      "move": null,
      "grade": "good"
     },
@@ -5806,15 +5807,15 @@
       0.1,
       0.1,
       0.1,
-      0.2
+      0.1
      ],
      "hot": false,
-     "blog": 149764,
+     "blog": 149778,
      "cafe": null,
      "questions": [],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "쿠팡 추천",
@@ -5837,7 +5838,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 5037252,
+     "blog": 5037391,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -5865,35 +5866,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 4533665,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "신제품",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 5544508,
+     "blog": 4533657,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -5929,7 +5902,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "전용",
+     "keyword": "스킨케어",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -5949,7 +5922,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 35558158,
+     "blog": 6591054,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -5972,12 +5945,40 @@
       0.0,
       0.0,
       0.0,
-      0.1,
+      0.0,
       0.0,
       0.0
      ],
      "hot": true,
-     "blog": 26646,
+     "blog": 26642,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "더마",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 779493,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -5990,55 +5991,14 @@
    "name": "원예·재배",
    "keywords": [
     {
-     "keyword": "다육이",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": false,
-     "blog": 2021909,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "이 다육이 의 이름은 무엇인가요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=111607&docId=495627057&answerNo=2"
-      },
-      {
-       "title": "이 다육이 의 이름은 무엇인가요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=111607&docId=495627057&answerNo=1"
-      },
-      {
-       "title": "다육이 이름 알려주세요.",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=80604&docId=495488063&answerNo=1"
-      }
-     ],
-     "opp": 0.02,
-     "move": null,
-     "grade": "mid"
-    },
-    {
      "keyword": "몬스테라",
      "pop": 0.1,
      "rise": 0,
      "spark": [
-      0.2,
-      0.2,
-      0.2,
-      0.2,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
       0.1,
       0.1,
       0.1,
@@ -6051,7 +6011,7 @@
       0.1
      ],
      "hot": false,
-     "blog": 281680,
+     "blog": 281681,
      "cafe": null,
      "questions": [
       {
@@ -6069,7 +6029,7 @@
      ],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "식물 키우기",
@@ -6092,7 +6052,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 3953647,
+     "blog": 3953686,
      "cafe": null,
      "questions": [
       {
@@ -6106,6 +6066,47 @@
       {
        "title": "식물 키우는데 도와주세요",
        "link": "https://kin.naver.com/qna/detail.naver?dirId=80604&docId=495447887&answerNo=1"
+      }
+     ],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "다육이",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": false,
+     "blog": 2021916,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "이 다육이 의 이름은 무엇인가요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=111607&docId=495627057&answerNo=2"
+      },
+      {
+       "title": "이 다육이 의 이름은 무엇인가요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=111607&docId=495627057&answerNo=1"
+      },
+      {
+       "title": "다육이 이름 알려주세요.",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=80604&docId=495488063&answerNo=1"
       }
      ],
      "opp": 0,
@@ -6133,7 +6134,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 3538439,
+     "blog": 3538466,
      "cafe": null,
      "questions": [
       {
@@ -6174,7 +6175,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 912809,
+     "blog": 912825,
      "cafe": null,
      "questions": [
       {
@@ -6215,7 +6216,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 684152,
+     "blog": 684156,
      "cafe": null,
      "questions": [
       {
@@ -6231,62 +6232,6 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=8080104&docId=495028486&answerNo=3"
       }
      ],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "품질백서",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 41510,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "구축",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 17548962,
-     "cafe": null,
-     "questions": [],
      "opp": 0,
      "move": null,
      "grade": "mid"
@@ -6312,35 +6257,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 2991383,
-     "cafe": null,
-     "questions": [],
-     "opp": 0,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "국립",
-     "pop": 0.0,
-     "rise": 0,
-     "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0
-     ],
-     "hot": true,
-     "blog": 7699729,
+     "blog": 2991334,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -6368,7 +6285,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 237548,
+     "blog": 237542,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -6396,7 +6313,91 @@
       0.0
      ],
      "hot": true,
-     "blog": 40169,
+     "blog": 40168,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "태교",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 1190295,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "임신부",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 3355201,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "보급",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 3808302,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -6409,68 +6410,27 @@
    "name": "영화·드라마",
    "keywords": [
     {
-     "keyword": "영화",
-     "pop": 9.5,
-     "rise": -13,
-     "spark": [
-      10.6,
-      13.4,
-      12.3,
-      10.0,
-      8.1,
-      7.7,
-      7.9,
-      8.0,
-      10.1,
-      12.3,
-      11.7,
-      8.0,
-      7.8,
-      8.8
-     ],
-     "hot": true,
-     "blog": 45032705,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "p2p 영화 다운 로드",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=10607&docId=495555415&answerNo=2"
-      },
-      {
-       "title": "26년하반기 재개봉 영화",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=3031001&docId=495522842&answerNo=1"
-      },
-      {
-       "title": "영화 밀양",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=30302&docId=495516784&answerNo=1"
-      }
-     ],
-     "opp": 1.24,
-     "move": null,
-     "grade": "good"
-    },
-    {
      "keyword": "티빙",
-     "pop": 3.6,
-     "rise": -14,
+     "pop": 2.2,
+     "rise": -15,
      "spark": [
-      7.1,
-      4.9,
-      4.4,
-      4.1,
-      4.8,
-      3.4,
-      4.5,
-      3.1,
-      3.2,
       4.3,
-      4.3,
-      3.0,
-      4.2,
-      3.0
+      2.9,
+      2.6,
+      2.4,
+      2.9,
+      2.1,
+      2.7,
+      1.9,
+      1.9,
+      2.6,
+      2.6,
+      1.8,
+      2.5,
+      1.8
      ],
      "hot": false,
-     "blog": 787720,
+     "blog": 787738,
      "cafe": null,
      "questions": [
       {
@@ -6486,32 +6446,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=10905&docId=495535607&answerNo=1"
       }
      ],
-     "opp": 0.61,
+     "opp": 0.37,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "실낙원",
-     "pop": 2.4,
-     "rise": 162,
+     "pop": 1.4,
+     "rise": 165,
      "spark": [
-      0.4,
-      0.9,
-      2.1,
-      2.3,
-      1.6,
-      1.5,
-      1.2,
-      1.3,
-      1.5,
+      0.2,
+      0.5,
       1.3,
       1.4,
-      2.1,
-      2.5,
-      6.4
+      1.0,
+      0.9,
+      0.7,
+      0.8,
+      0.9,
+      0.8,
+      0.8,
+      1.3,
+      1.5,
+      3.9
      ],
      "hot": true,
-     "blog": 24510,
+     "blog": 24521,
      "cafe": null,
      "questions": [
       {
@@ -6519,81 +6479,40 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=50502&docId=495515061&answerNo=1"
       },
       {
-       "title": "연상호 감독 영화 ' 실낙원 ', GV에서 관객들이 가장 많이 한 질....",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=30313&docId=495528349&answerNo=1"
-      },
-      {
        "title": "' 실낙원 '에서 AI 시대의 인간다움에 대한 질문, 어떻게 다가....",
        "link": "https://kin.naver.com/qna/detail.naver?dirId=61301&docId=495541662&answerNo=1"
-      }
-     ],
-     "opp": 0.55,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "드라마",
-     "pop": 1.7,
-     "rise": -7,
-     "spark": [
-      1.4,
-      2.1,
-      2.2,
-      2.2,
-      1.9,
-      1.7,
-      1.6,
-      1.5,
-      2.0,
-      1.8,
-      1.8,
-      1.7,
-      1.7,
-      1.5
-     ],
-     "hot": true,
-     "blog": 19837665,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "AI 숏 드라마 제목",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=31503&docId=495534598&answerNo=1"
       },
       {
-       "title": "Ptsd 드라마 영화 ㅊㅊ",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=10905&docId=495485701&answerNo=4"
-      },
-      {
-       "title": "드라마 제작사 취업",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=10608&docId=495564942&answerNo=1"
+       "title": "연상호 감독 영화 ' 실낙원 ', GV에서 관객들이 가장 많이 한 질....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=30313&docId=495528349&answerNo=1"
       }
      ],
-     "opp": 0.23,
+     "opp": 0.32,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "박스오피스",
-     "pop": 1.6,
-     "rise": -13,
+     "pop": 1.0,
+     "rise": -12,
      "spark": [
-      2.2,
-      2.3,
-      2.2,
-      2.0,
-      2.1,
-      1.7,
-      1.7,
-      1.6,
-      1.8,
-      1.7,
-      1.7,
-      1.6,
+      1.3,
       1.4,
-      1.6
+      1.3,
+      1.2,
+      1.3,
+      1.0,
+      1.0,
+      1.0,
+      1.1,
+      1.0,
+      1.0,
+      1.0,
+      0.8,
+      1.0
      ],
      "hot": false,
-     "blog": 568934,
+     "blog": 568939,
      "cafe": null,
      "questions": [
       {
@@ -6609,32 +6528,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=30301&docId=495200665&answerNo=2"
       }
      ],
-     "opp": 0.28,
+     "opp": 0.17,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "디즈니플러스",
-     "pop": 1.4,
-     "rise": -9,
+     "pop": 0.8,
+     "rise": -11,
      "spark": [
-      1.6,
-      1.7,
-      1.6,
-      1.5,
-      1.5,
-      1.5,
-      1.6,
-      1.5,
-      1.5,
-      1.4,
-      1.5,
-      1.3,
-      1.4,
-      1.4
+      0.9,
+      1.0,
+      0.9,
+      0.9,
+      0.9,
+      0.9,
+      1.0,
+      0.9,
+      0.9,
+      0.8,
+      0.9,
+      0.8,
+      0.8,
+      0.8
      ],
      "hot": false,
-     "blog": 525534,
+     "blog": 525548,
      "cafe": null,
      "questions": [
       {
@@ -6650,119 +6569,117 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=10905&docId=495358422&answerNo=3"
       }
      ],
-     "opp": 0.24,
+     "opp": 0.14,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "개봉 영화",
-     "pop": 1.1,
-     "rise": -5,
+     "pop": 0.6,
+     "rise": -6,
      "spark": [
-      1.2,
-      1.3,
-      1.2,
-      0.9,
-      0.9,
-      0.8,
-      0.9,
-      0.9,
-      1.2,
-      1.3,
-      1.1,
-      0.9,
-      0.9,
-      1.1
-     ],
-     "hot": false,
-     "blog": 6059261,
-     "cafe": null,
-     "questions": [],
-     "opp": 0.16,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "시청률",
-     "pop": 0.5,
-     "rise": -8,
-     "spark": [
-      0.4,
-      0.3,
       0.7,
-      0.9,
+      0.8,
+      0.7,
+      0.6,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.7,
+      0.8,
       0.7,
       0.5,
-      0.4,
-      0.4,
-      0.3,
-      0.6,
-      0.9,
-      0.7,
-      0.4,
-      0.4
+      0.5,
+      0.7
      ],
-     "hot": true,
-     "blog": 1935162,
+     "hot": false,
+     "blog": 6059216,
      "cafe": null,
-     "questions": [],
-     "opp": 0.08,
+     "questions": [
+      {
+       "title": "이번 9월 4주차 개봉 영화 중 가장 기대되는 작품은 뭔가요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=30306&docId=495334502&answerNo=1"
+      },
+      {
+       "title": "가족들과 함께 볼만한 9월 개봉 영화 는 뭐가 좋을까요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=9020102&docId=495279544&answerNo=2"
+      },
+      {
+       "title": "2026년 9월 개봉 영화 , 어떤 장르가 대세일까요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=30303&docId=494869274&answerNo=1"
+      }
+     ],
+     "opp": 0.09,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "넷플릭스 추천",
-     "pop": 0.4,
+     "pop": 0.2,
      "rise": 0,
      "spark": [
-      0.5,
-      0.6,
-      0.6,
-      0.5,
-      0.3,
-      0.3,
-      0.3,
       0.3,
       0.4,
-      0.5,
-      0.5,
       0.3,
-      0.4,
-      0.4
+      0.3,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.3,
+      0.3,
+      0.2,
+      0.2,
+      0.2
      ],
      "hot": false,
-     "blog": 2076724,
+     "blog": 2076819,
      "cafe": null,
-     "questions": [],
-     "opp": 0.06,
+     "questions": [
+      {
+       "title": "넷플릭스 추천 알고리즘, 많이 활용하고 계신가요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=10905&docId=495170703&answerNo=4"
+      },
+      {
+       "title": "넷플릭스 미국&서양 예능 및 드라마 추천 해 주세요",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=10905&docId=495494470&answerNo=1"
+      },
+      {
+       "title": "10월 넷플릭스 영화 추천 , '드롭'과 '노보케인' 중 뭐가 더 재....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=30301&docId=495515755&answerNo=1"
+      }
+     ],
+     "opp": 0.03,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "드라마 추천",
-     "pop": 0.4,
+     "pop": 0.2,
      "rise": 0,
      "spark": [
-      0.3,
-      0.4,
-      0.5,
-      0.5,
-      0.4,
-      0.4,
+      0.2,
+      0.2,
       0.3,
       0.3,
-      0.4,
-      0.4,
-      0.5,
-      0.4,
-      0.4,
-      0.4
+      0.3,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.3,
+      0.3,
+      0.2,
+      0.2,
+      0.2
      ],
      "hot": false,
-     "blog": 5017663,
+     "blog": 5017940,
      "cafe": null,
      "questions": [],
-     "opp": 0.06,
+     "opp": 0.03,
      "move": null,
      "grade": "good"
     },
@@ -6780,17 +6697,45 @@
       0.1,
       0.1,
       0.1,
+      0.0,
+      0.0,
       0.1,
       0.1,
-      0.1,
-      0.1,
-      0.2
+      0.1
      ],
      "hot": true,
-     "blog": 899401,
+     "blog": 899396,
      "cafe": null,
      "questions": [],
      "opp": 0.02,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "크리스마스",
+     "pop": 0.1,
+     "rise": 0,
+     "spark": [
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1
+     ],
+     "hot": true,
+     "blog": 11996509,
+     "cafe": null,
+     "questions": [],
+     "opp": 0.01,
      "move": null,
      "grade": "mid"
     },
@@ -6815,7 +6760,63 @@
       0.0
      ],
      "hot": true,
-     "blog": 1173258,
+     "blog": 1173160,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "오디션",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 1435963,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "글로벌",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 18150155,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -6829,26 +6830,26 @@
    "keywords": [
     {
      "keyword": "멜론 차트",
-     "pop": 2.1,
-     "rise": 8,
+     "pop": 1.2,
+     "rise": 6,
      "spark": [
+      0.4,
+      0.5,
+      0.4,
+      0.5,
+      0.6,
       0.7,
-      0.8,
-      0.7,
-      0.8,
-      0.9,
-      1.1,
-      2.1,
-      3.7,
+      1.3,
       2.2,
+      1.3,
+      0.9,
+      0.7,
+      1.0,
       1.5,
-      1.2,
-      1.7,
-      2.5,
-      1.7
+      1.0
      ],
      "hot": false,
-     "blog": 156942,
+     "blog": 156941,
      "cafe": null,
      "questions": [
       {
@@ -6864,32 +6865,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=110201&docId=494147642&answerNo=2"
       }
      ],
-     "opp": 0.4,
+     "opp": 0.23,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "유홍준",
-     "pop": 1.4,
+     "pop": 0.8,
      "rise": 100,
      "spark": [
-      0.1,
-      0.0,
-      0.1,
       0.0,
       0.0,
       0.0,
       0.0,
-      0.5,
-      0.6,
+      0.0,
+      0.0,
+      0.0,
+      0.3,
       0.3,
       0.2,
-      2.1,
-      1.4,
-      4.6
+      0.1,
+      1.2,
+      0.8,
+      2.8
      ],
      "hot": true,
-     "blog": 76814,
+     "blog": 76820,
      "cafe": null,
      "questions": [
       {
@@ -6905,32 +6906,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=3120102&docId=492217023&answerNo=1"
       }
      ],
-     "opp": 0.29,
+     "opp": 0.16,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "뮤지컬",
-     "pop": 1.0,
-     "rise": 0,
+     "pop": 0.6,
+     "rise": 2,
      "spark": [
-      1.2,
-      1.0,
-      0.9,
-      0.9,
-      1.1,
-      1.1,
-      1.0,
-      1.0,
-      1.0,
-      0.9,
-      0.9,
-      1.0,
-      1.0,
-      1.0
+      0.7,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.7,
+      0.6,
+      0.6,
+      0.6,
+      0.5,
+      0.5,
+      0.6,
+      0.6,
+      0.6
      ],
      "hot": false,
-     "blog": 4778922,
+     "blog": 4778884,
      "cafe": null,
      "questions": [
       {
@@ -6946,32 +6947,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=309&docId=495554420&answerNo=1"
       }
      ],
-     "opp": 0.15,
+     "opp": 0.09,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "콘서트",
-     "pop": 0.7,
-     "rise": -3,
+     "pop": 0.4,
+     "rise": 0,
      "spark": [
-      0.9,
-      0.8,
-      0.9,
-      1.0,
-      0.9,
-      0.8,
-      0.7,
-      0.7,
-      0.8,
-      0.7,
-      0.7,
-      0.8,
-      0.7,
-      0.7
+      0.5,
+      0.5,
+      0.5,
+      0.6,
+      0.6,
+      0.5,
+      0.4,
+      0.4,
+      0.5,
+      0.4,
+      0.4,
+      0.5,
+      0.4,
+      0.4
      ],
      "hot": false,
-     "blog": 7200814,
+     "blog": 7200705,
      "cafe": null,
      "questions": [
       {
@@ -6987,32 +6988,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=90205&docId=495468078&answerNo=1"
       }
      ],
-     "opp": 0.1,
+     "opp": 0.06,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "전시회",
-     "pop": 0.2,
+     "pop": 0.1,
      "rise": 0,
      "spark": [
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
       0.1,
-      0.2,
-      0.2,
-      0.2
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1
      ],
      "hot": false,
-     "blog": 9234553,
+     "blog": 9234401,
      "cafe": null,
      "questions": [
       {
@@ -7028,9 +7029,9 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=10402&docId=495568176&answerNo=2"
       }
      ],
-     "opp": 0.03,
+     "opp": 0.01,
      "move": null,
-     "grade": "good"
+     "grade": "mid"
     },
     {
      "keyword": "아이돌 컴백",
@@ -7053,7 +7054,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 233586,
+     "blog": 233584,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -7072,31 +7073,18 @@
       0.0,
       0.0,
       0.0,
-      0.1,
       0.0,
       0.0,
       0.0,
       0.0,
       0.0,
-      0.1
+      0.0,
+      0.0
      ],
      "hot": false,
-     "blog": 1761863,
+     "blog": 1761853,
      "cafe": null,
-     "questions": [
-      {
-       "title": "위시 고척 티켓팅",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1001020203&docId=495513435&answerNo=1"
-      },
-      {
-       "title": "멜론뮤직어워드 멜뮤 티켓팅 계정",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=30207&docId=495496379&answerNo=1"
-      },
-      {
-       "title": "티켓팅 일정",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=10010101&docId=495502930&answerNo=3"
-      }
-     ],
+     "questions": [],
      "opp": 0,
      "move": null,
      "grade": "mid"
@@ -7122,7 +7110,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 346749,
+     "blog": 346736,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -7136,7 +7124,7 @@
      "spark": [
       0.0,
       0.0,
-      0.2,
+      0.1,
       0.1,
       0.0,
       0.0,
@@ -7152,7 +7140,20 @@
      "hot": true,
      "blog": 45208,
      "cafe": null,
-     "questions": [],
+     "questions": [
+      {
+       "title": "' 페퍼톤스 ' 이장원, 무대에서 보여주는 가장 특별한 매력은 ....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=3021401&docId=494408266&answerNo=4"
+      },
+      {
+       "title": "' 페퍼톤스 ' 이장원의 음악이 오래 사랑받는 이유는 무엇이라....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=3021401&docId=494408490&answerNo=3"
+      },
+      {
+       "title": "' 페퍼톤스 ' 이장원, 무대에서 보여주는 가장 특별한 매력은 ....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=3021401&docId=494408266&answerNo=3"
+      }
+     ],
      "opp": 0,
      "move": null,
      "grade": "mid"
@@ -7166,11 +7167,11 @@
       0.0,
       0.1,
       0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0,
@@ -7186,7 +7187,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "연말",
+     "keyword": "확정",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -7206,7 +7207,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 11367280,
+     "blog": 16377052,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -7214,7 +7215,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "글씨",
+     "keyword": "셀프",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -7234,7 +7235,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 8160046,
+     "blog": 25069095,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -7248,28 +7249,32 @@
    "keywords": [
     {
      "keyword": "웹툰",
-     "pop": 5.1,
+     "pop": 3.0,
      "rise": 0,
      "spark": [
-      5.1,
-      5.1,
-      5.2,
-      5.1,
-      5.2,
-      5.2,
-      5.1,
-      5.0,
-      5.1,
-      5.0,
-      5.1,
-      5.1,
-      5.1,
-      5.1
+      3.0,
+      3.0,
+      3.1,
+      3.1,
+      3.1,
+      3.1,
+      3.1,
+      3.0,
+      3.1,
+      3.0,
+      3.0,
+      3.1,
+      3.1,
+      3.0
      ],
      "hot": false,
-     "blog": 3338479,
+     "blog": 3338475,
      "cafe": null,
      "questions": [
+      {
+       "title": "웹툰 웹소설고수님들알려주세요",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=80606&docId=495481538&answerNo=1"
+      },
       {
        "title": "웹툰 작가.",
        "link": "https://kin.naver.com/qna/detail.naver?dirId=814&docId=495614398&answerNo=1"
@@ -7277,38 +7282,34 @@
       {
        "title": "웹툰 작가.",
        "link": "https://kin.naver.com/qna/detail.naver?dirId=814&docId=495614398&answerNo=4"
-      },
-      {
-       "title": "애니, 웹툰 추천",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1060109&docId=495500213&answerNo=1"
       }
      ],
-     "opp": 0.78,
+     "opp": 0.46,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "아이폰",
-     "pop": 0.8,
-     "rise": -7,
+     "pop": 0.5,
+     "rise": 0,
      "spark": [
-      0.6,
-      0.6,
-      0.6,
-      0.6,
+      0.4,
+      0.4,
+      0.4,
+      0.4,
+      0.4,
+      0.4,
+      0.4,
+      0.4,
       0.7,
-      0.7,
-      0.7,
-      0.7,
-      1.1,
-      0.8,
-      0.8,
-      0.8,
-      0.7,
-      0.7
+      0.5,
+      0.5,
+      0.5,
+      0.4,
+      0.4
      ],
      "hot": true,
-     "blog": 8427230,
+     "blog": 8427390,
      "cafe": null,
      "questions": [
       {
@@ -7320,49 +7321,8 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=1070401&docId=495509810&answerNo=2"
       },
       {
-       "title": "아이폰 16",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1061203&docId=495564253&answerNo=1"
-      }
-     ],
-     "opp": 0.12,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "게임",
-     "pop": 0.5,
-     "rise": 100,
-     "spark": [
-      0.3,
-      0.3,
-      0.3,
-      0.3,
-      0.3,
-      0.3,
-      0.3,
-      0.3,
-      0.4,
-      0.4,
-      0.4,
-      0.6,
-      0.6,
-      0.5
-     ],
-     "hot": true,
-     "blog": 37833402,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "게임 찾아요",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=208&docId=495597567&answerNo=1"
-      },
-      {
-       "title": "게임 용 컴퓨터 중고거래 하려는데",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=50201&docId=495611605&answerNo=2"
-      },
-      {
-       "title": "게임 사양",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=20903&docId=495629217&answerNo=1"
+       "title": "아이폰 18프로",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=10901&docId=495609722&answerNo=1"
       }
      ],
      "opp": 0.07,
@@ -7371,26 +7331,26 @@
     },
     {
      "keyword": "포켓몬",
-     "pop": 0.4,
+     "pop": 0.2,
      "rise": 0,
      "spark": [
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2,
       0.3,
-      0.4,
-      0.4,
-      0.4,
-      0.3,
-      0.3,
-      0.3,
-      0.3,
-      0.3,
-      0.4,
-      0.4,
-      0.5,
-      0.4,
-      0.3
+      0.2,
+      0.2
      ],
      "hot": false,
-     "blog": 2055950,
+     "blog": 2055956,
      "cafe": null,
      "questions": [
       {
@@ -7406,32 +7366,32 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=20413&docId=495494949&answerNo=2"
       }
      ],
-     "opp": 0.06,
+     "opp": 0.03,
      "move": null,
      "grade": "good"
     },
     {
      "keyword": "닌텐도 스위치",
-     "pop": 0.2,
+     "pop": 0.1,
      "rise": 0,
      "spark": [
+      0.1,
+      0.1,
+      0.1,
       0.2,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
       0.2,
-      0.2,
-      0.3,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.3,
-      0.2,
-      0.2,
-      0.2
+      0.1,
+      0.1,
+      0.1
      ],
      "hot": false,
-     "blog": 577076,
+     "blog": 577088,
      "cafe": null,
      "questions": [
       {
@@ -7447,65 +7407,9 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=20901&docId=495507984&answerNo=3"
       }
      ],
-     "opp": 0.03,
-     "move": null,
-     "grade": "good"
-    },
-    {
-     "keyword": "애니메이션",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": false,
-     "blog": 5629524,
-     "cafe": null,
-     "questions": [],
-     "opp": 0.01,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "공모전",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.1,
-      0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": true,
-     "blog": 3610531,
-     "cafe": null,
-     "questions": [],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "이모티콘",
@@ -7528,12 +7432,25 @@
       0.1
      ],
      "hot": true,
-     "blog": 1363905,
+     "blog": 1363884,
      "cafe": null,
-     "questions": [],
+     "questions": [
+      {
+       "title": "이모티콘 플러스 구독 안 했는데",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1060801&docId=495017817&answerNo=3"
+      },
+      {
+       "title": "카카오 이모티콘 플러스 해지하는 법",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1060801&docId=495100227&answerNo=2"
+      },
+      {
+       "title": "페이스북 이모티콘",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1061201&docId=495587620&answerNo=2"
+      }
+     ],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "듀오",
@@ -7541,14 +7458,42 @@
      "rise": 0,
      "spark": [
       0.1,
+      0.0,
+      0.0,
+      0.0,
       0.1,
       0.1,
       0.1,
       0.1,
       0.1,
       0.1,
+      0.0,
       0.1,
-      0.2,
+      0.1,
+      0.1
+     ],
+     "hot": true,
+     "blog": 1188087,
+     "cafe": null,
+     "questions": [],
+     "opp": 0.02,
+     "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "CBT",
+     "pop": 0.1,
+     "rise": 0,
+     "spark": [
+      0.1,
+      0.0,
+      0.0,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
       0.1,
       0.1,
       0.1,
@@ -7556,25 +7501,25 @@
       0.1
      ],
      "hot": true,
-     "blog": 1188071,
+     "blog": 470730,
      "cafe": null,
      "questions": [
       {
-       "title": "아이폰 듀오 구매할려고그러는데",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1070401&docId=495516933&answerNo=3"
+       "title": "CBT 자격증 시험",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=406&docId=495308929&answerNo=1"
       },
       {
-       "title": "저 좀 도와주십쇼!! (아이폰 듀오 )외 2개",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=1070401&docId=495597890&answerNo=1"
+       "title": "공공조달관리사 CBT 최종 제출 이후에 확인할 것이 있나요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=40607&docId=495403013&answerNo=3"
       },
       {
-       "title": "스포티파이게인요금제에서 듀오 로변경햏는데날짜도변경됗....",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=110103&docId=495595382&answerNo=1"
+       "title": "이기적 CBT , 시나공 상시 기출문제",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=1020204&docId=495158272&answerNo=1"
       }
      ],
      "opp": 0.02,
      "move": null,
-     "grade": "mid"
+     "grade": "good"
     },
     {
      "keyword": "신작 게임",
@@ -7597,7 +7542,7 @@
       0.0
      ],
      "hot": false,
-     "blog": 839418,
+     "blog": 839449,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -7605,7 +7550,35 @@
      "grade": "mid"
     },
     {
-     "keyword": "중독",
+     "keyword": "애니메이션",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": false,
+     "blog": 5629580,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "청소년",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -7625,7 +7598,35 @@
       0.0
      ],
      "hot": true,
-     "blog": 10986900,
+     "blog": 12344767,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "플레",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 417539,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -7639,26 +7640,26 @@
    "keywords": [
     {
      "keyword": "베스트셀러",
-     "pop": 0.2,
+     "pop": 0.1,
      "rise": 0,
      "spark": [
-      0.2,
       0.1,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2,
-      0.2
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1
      ],
      "hot": false,
-     "blog": 2981349,
+     "blog": 2981371,
      "cafe": null,
      "questions": [
       {
@@ -7674,7 +7675,7 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=30511&docId=487705929&answerNo=3"
       }
      ],
-     "opp": 0.03,
+     "opp": 0.02,
      "move": null,
      "grade": "good"
     },
@@ -7699,7 +7700,7 @@
       0.1
      ],
      "hot": false,
-     "blog": 20345639,
+     "blog": 20347510,
      "cafe": null,
      "questions": [
       {
@@ -7720,47 +7721,6 @@
      "grade": "mid"
     },
     {
-     "keyword": "뜨개질",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.0,
-      0.1,
-      0.1,
-      0.1,
-      0.1
-     ],
-     "hot": false,
-     "blog": 1146722,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "천안습진이 뜨개질 을 시작한 뒤 손가락에 생겼습니다(천안 ....",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=70301&docId=495540248&answerNo=1"
-      },
-      {
-       "title": "뜨개질 꽃 담요 제일 쉬운 도안 영상",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=80603&docId=495533222&answerNo=2"
-      },
-      {
-       "title": "뜨개질 초보 입문",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=80603&docId=495474149&answerNo=1"
-      }
-     ],
-     "opp": 0.02,
-     "move": null,
-     "grade": "mid"
-    },
-    {
      "keyword": "캘리그라피",
      "pop": 0.1,
      "rise": 0,
@@ -7768,20 +7728,20 @@
       0.1,
       0.1,
       0.1,
+      0.0,
       0.1,
       0.1,
       0.1,
       0.1,
       0.1,
-      0.1,
-      0.1,
-      0.1,
+      0.0,
+      0.0,
       0.1,
       0.1,
       0.1
      ],
      "hot": false,
-     "blog": 2179897,
+     "blog": 2179895,
      "cafe": null,
      "questions": [
       {
@@ -7799,47 +7759,84 @@
      ],
      "opp": 0.02,
      "move": null,
+     "grade": "good"
+    },
+    {
+     "keyword": "뜨개질",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": false,
+     "blog": 1146743,
+     "cafe": null,
+     "questions": [
+      {
+       "title": "천안습진이 뜨개질 을 시작한 뒤 손가락에 생겼습니다(천안 ....",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=70301&docId=495540248&answerNo=1"
+      },
+      {
+       "title": "뜨개질 꽃 담요 제일 쉬운 도안 영상",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=80603&docId=495533222&answerNo=2"
+      },
+      {
+       "title": "뜨개질 초보 입문",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=80603&docId=495474149&answerNo=1"
+      }
+     ],
+     "opp": 0,
+     "move": null,
      "grade": "mid"
     },
     {
      "keyword": "등산",
-     "pop": 0.1,
+     "pop": 0.0,
      "rise": 0,
      "spark": [
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
       0.0,
       0.0,
       0.0,
-      0.1,
-      0.1,
       0.0,
-      0.1,
-      0.1,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
       0.0
      ],
      "hot": false,
-     "blog": 9404151,
+     "blog": 9404239,
      "cafe": null,
      "questions": [],
-     "opp": 0.01,
+     "opp": 0,
      "move": null,
      "grade": "mid"
     },
     {
      "keyword": "러닝",
-     "pop": 0.1,
+     "pop": 0.0,
      "rise": 0,
      "spark": [
+      0.0,
       0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.2,
       0.1,
       0.1,
       0.1,
@@ -7847,10 +7844,14 @@
       0.1,
       0.1,
       0.1,
-      0.1
+      0.0,
+      0.0,
+      0.1,
+      0.0,
+      0.0
      ],
      "hot": false,
-     "blog": 7442522,
+     "blog": 7442487,
      "cafe": null,
      "questions": [
       {
@@ -7866,48 +7867,7 @@
        "link": "https://kin.naver.com/qna/detail.naver?dirId=70301&docId=495573633&answerNo=1"
       }
      ],
-     "opp": 0.01,
-     "move": null,
-     "grade": "mid"
-    },
-    {
-     "keyword": "노벨문학상",
-     "pop": 0.1,
-     "rise": 0,
-     "spark": [
-      2.4,
-      1.0,
-      0.4,
-      0.2,
-      0.3,
-      0.2,
-      0.2,
-      0.1,
-      0.1,
-      0.1,
-      0.1,
-      0.0,
-      0.0,
-      0.1
-     ],
-     "hot": true,
-     "blog": 334083,
-     "cafe": null,
-     "questions": [
-      {
-       "title": "노벨문학상 수상 후 한강 작가의 책 판매량 변화는?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=30706&docId=486654803&answerNo=2"
-      },
-      {
-       "title": "작가 한강 노벨문학상",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=814&docId=476642688&answerNo=11"
-      },
-      {
-       "title": "한강의 노벨문학상 수상작은 무엇인가요?",
-       "link": "https://kin.naver.com/qna/detail.naver?dirId=30706&docId=476487849&answerNo=13"
-      }
-     ],
-     "opp": 0.02,
+     "opp": 0,
      "move": null,
      "grade": "mid"
     },
@@ -7940,19 +7900,19 @@
      "grade": "mid"
     },
     {
-     "keyword": "자서전",
+     "keyword": "노벨문학상",
      "pop": 0.0,
      "rise": 0,
      "spark": [
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
-      0.0,
+      1.5,
+      0.6,
+      0.3,
+      0.1,
+      0.2,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
       0.0,
       0.0,
       0.0,
@@ -7960,9 +7920,22 @@
       0.0
      ],
      "hot": true,
-     "blog": 1646618,
+     "blog": 334105,
      "cafe": null,
-     "questions": [],
+     "questions": [
+      {
+       "title": "노벨문학상 수상 후 한강 작가의 책 판매량 변화는?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=30706&docId=486654803&answerNo=2"
+      },
+      {
+       "title": "작가 한강 노벨문학상",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=814&docId=476642688&answerNo=11"
+      },
+      {
+       "title": "한강의 노벨문학상 수상작은 무엇인가요?",
+       "link": "https://kin.naver.com/qna/detail.naver?dirId=30706&docId=476487849&answerNo=13"
+      }
+     ],
      "opp": 0,
      "move": null,
      "grade": "mid"
@@ -7988,7 +7961,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 3388313,
+     "blog": 3388329,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -7996,7 +7969,7 @@
      "grade": "mid"
     },
     {
-     "keyword": "판매량",
+     "keyword": "자서전",
      "pop": 0.0,
      "rise": 0,
      "spark": [
@@ -8016,7 +7989,7 @@
       0.0
      ],
      "hot": true,
-     "blog": 3612986,
+     "blog": 1646640,
      "cafe": null,
      "questions": [],
      "opp": 0,
@@ -8028,15 +8001,15 @@
      "pop": 0.0,
      "rise": 0,
      "spark": [
-      1.3,
-      1.0,
+      0.8,
       0.6,
+      0.4,
+      0.1,
       0.2,
-      0.3,
-      0.2,
       0.1,
       0.1,
-      0.1,
+      0.0,
+      0.0,
       0.0,
       0.0,
       0.0,
@@ -8044,7 +8017,35 @@
       0.0
      ],
      "hot": true,
-     "blog": 981094,
+     "blog": 981113,
+     "cafe": null,
+     "questions": [],
+     "opp": 0,
+     "move": null,
+     "grade": "mid"
+    },
+    {
+     "keyword": "코리아",
+     "pop": 0.0,
+     "rise": 0,
+     "spark": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "hot": true,
+     "blog": 20196590,
      "cafe": null,
      "questions": [],
      "opp": 0,

@@ -210,6 +210,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
   <nav class="main" id="mainNav">
     <button data-v="schedule">편성표</button>
     <button data-v="topics">오늘의 소재</button>
+    <button data-v="shop">🛍 쇼핑</button>
     <button data-v="image">이미지 합성</button>
     <button data-v="table">표 변환</button>
   </nav>
@@ -265,6 +266,18 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
     <div class="info" id="newsInfo"></div>
     <div class="card" id="newsList"><div class="empty">불러오는 중…</div></div>
   </div>
+</section>
+
+<!-- ===================== 쇼핑 ===================== -->
+<section class="view" id="v-shop">
+  <div class="datebar"><button id="shPrev">◀</button><b id="shDate">-</b><button id="shNext">▶</button></div>
+  <div class="note">🛍 네이버쇼핑 <b>쇼핑인사이트</b> 기준이에요. <b>인기도</b> = 최근 7일 쇼핑 클릭(가장 많은 것 = 100), <b>상승</b> = 최근 3일 vs 그 전 7일, <b>후기 글</b> = 「키워드 후기」 블로그 글 수. <b>🟢 쓰기 좋음</b> = 사람들이 많이 찾는데 후기가 적은 상품이라 쇼핑 커넥트 글감으로 좋아요.</div>
+  <div class="sec"><h2>📊 분야별 쇼핑 클릭 추이</h2></div>
+  <div class="card" id="shCats"></div>
+  <div class="sec"><h2>🔎 분야별 상품 키워드</h2></div>
+  <div class="chips" id="shGroups"></div>
+  <div class="chips" id="shSort" style="margin-top:8px"></div>
+  <div class="kwgrid" id="shList" style="margin-top:10px"></div>
 </section>
 
 <!-- ===================== 표 변환 ===================== -->
@@ -364,6 +377,7 @@ function go(v, s){
   if(view === "schedule") renderSchedule();
   if(view === "image") drawImg();
   if(view === "table") tbRender();
+  if(view === "shop") loadShop();
 }
 document.querySelectorAll("#mainNav button").forEach(b => b.onclick = () => go(b.dataset.v));
 document.querySelectorAll("#subNav button").forEach(b => b.onclick = () => go("topics", b.dataset.s));
@@ -745,6 +759,53 @@ document.getElementById("btnCopy").onclick = async () => {
   }catch(e){ toast("이 브라우저는 복사를 지원하지 않아요. JPG 저장을 이용해 주세요."); }
 };
 
+/* ---------- 쇼핑 ---------- */
+let shIdx = [], shDay = null, shData = null, shGroup = "all", shSort = "opp";
+async function loadShop(){
+  shIdx = await getJSON("data/shopping/index.json", []);
+  if(!shDay) shDay = shIdx[0] || todayStr();
+  shData = await getJSON(`data/shopping/${shDay}.json`, null);
+  renderShop();
+}
+document.getElementById("shPrev").onclick = () => { const i = shIdx.indexOf(shDay); if(i < shIdx.length-1){ shDay = shIdx[i+1]; loadShop(); } };
+document.getElementById("shNext").onclick = () => { const i = shIdx.indexOf(shDay); if(i > 0){ shDay = shIdx[i-1]; loadShop(); } };
+function renderShop(){
+  const i = shIdx.indexOf(shDay);
+  document.getElementById("shDate").textContent = dayLabel(shDay);
+  document.getElementById("shPrev").disabled = i < 0 || i >= shIdx.length - 1;
+  document.getElementById("shNext").disabled = i <= 0;
+  const cats = document.getElementById("shCats"), list = document.getElementById("shList");
+  if(!shData){ cats.innerHTML = '<div class="empty">아직 쇼핑 자료가 없어요. 매일 아침 자동으로 채워져요.</div>'; list.innerHTML = ""; 
+    document.getElementById("shGroups").innerHTML = document.getElementById("shSort").innerHTML = ""; return; }
+  const n = v => v == null ? "-" : v >= 10000 ? (v/10000).toFixed(v >= 100000 ? 0 : 1) + "만" : v.toLocaleString();
+  const riseHtml = r => `<span class="rise ${r>0?"up":r<0?"dn":""}">${r>0?"▲":r<0?"▼":""}${Math.abs(r)}%</span>`;
+  cats.innerHTML = `<div class="kh" style="grid-template-columns:1fr 92px 54px"><span>분야</span><span>인기도</span><span>상승</span></div>` +
+    shData.categories.map(c => `<div class="kwr" style="display:grid;grid-template-columns:1fr 92px 54px;gap:6px;padding:9px 14px">
+      <b style="font-weight:600">${esc(c.name)}</b><span class="popbar">${spark(c.spark)}<span>${Math.round(c.pop)}</span></span>${riseHtml(c.rise)}</div>`).join("");
+  const groups = shData.groups.filter(g => g.keywords.length);
+  document.getElementById("shGroups").innerHTML = [["all","전체"], ...groups.map(g => [g.name, g.name])].map(([k,l]) =>
+    `<button class="${k===shGroup?"on":""}" data-k="${esc(k)}">${esc(l)}</button>`).join("");
+  document.querySelectorAll("#shGroups button").forEach(b => b.onclick = () => { shGroup = b.dataset.k; renderShop(); });
+  document.getElementById("shSort").innerHTML = [["opp","🟢 쓰기 좋은 순"],["pop","🔥 인기순"],["rise","📈 상승순"]].map(([k,l]) =>
+    `<button class="${k===shSort?"on":""}" data-k="${k}">${l}</button>`).join("");
+  document.querySelectorAll("#shSort button").forEach(b => b.onclick = () => { shSort = b.dataset.k; renderShop(); });
+  const by = {opp:(a,b) => b.opp - a.opp, pop:(a,b) => b.pop - a.pop, rise:(a,b) => b.rise - a.rise}[shSort];
+  const gl = {good:"쓰기 좋음", hard:"경쟁 심함", mid:""};
+  list.innerHTML = groups.filter(g => shGroup === "all" || g.name === shGroup).map(g =>
+    `<section class="card kw"><h3>${esc(g.name)} <small>${shortDay(shData.date)} 기준</small></h3>
+     <div class="kh"><span>상품 키워드</span><span>인기도</span><span>상승</span><span>후기 글</span></div>` +
+    g.keywords.slice().sort(by).map(k => { const q = encodeURIComponent(k.keyword);
+      return `<details class="kr"><summary>
+        <span class="k"><b>${esc(k.keyword)}</b>${k.hot?'<span class="gd hot">오늘 뜸</span>':""}<span class="gd ${k.grade||"mid"}">${gl[k.grade]||""}</span></span>
+        <span class="popbar">${spark(k.spark)}<span>${Math.round(k.pop)}</span></span>${riseHtml(k.rise)}<span class="bc">${n(k.blog)}</span></summary>
+        <div class="more"><div class="links">
+          <a href="https://search.shopping.naver.com/ns/search?query=${q}" target="_blank" rel="noopener">🛒 네이버쇼핑에서 보기</a>
+          <a href="https://search.naver.com/search.naver?ssc=tab.blog.all&query=${encodeURIComponent(k.keyword + " 후기")}" target="_blank" rel="noopener">후기 글 보기</a>
+          <a href="https://search.naver.com/search.naver?query=${q}" target="_blank" rel="noopener">네이버 검색</a></div>
+          <div class="info" style="margin:6px 0 0">「${esc(k.keyword)} 후기」 블로그 글 ${n(k.blog)}${k.hot?" · 오늘 이 분야 뉴스에 자주 나온 단어":""}</div></div></details>`;
+    }).join("") + `</section>`).join("") || '<div class="card empty">표시할 키워드가 없어요.</div>';
+}
+
 /* ---------- 표 변환 (네이버 에디터용) ---------- */
 const tbSrc = document.getElementById("tbSrc"), tbOut = document.getElementById("tbOut"), tbCount = document.getElementById("tbCount");
 try{ const saved = localStorage.getItem("tbSrc"); if(saved !== null) tbSrc.value = saved; }catch(e){}
@@ -828,7 +889,7 @@ if("serviceWorker" in navigator) addEventListener("load", () => navigator.servic
 
 /* ---------- 시작 ---------- */
 (async () => {
-  const m = location.hash.match(/^#(schedule|topics|image|table)(?:\/(ent|kw|news))?/);
+  const m = location.hash.match(/^#(schedule|topics|shop|image|table)(?:\/(ent|kw|news))?/);
   const last = store.get("lastView", ["schedule","ent"]);
   view = m ? m[1] : last[0]; sub = (m && m[2]) || last[1] || "ent";
   if(!["ent","kw","news"].includes(sub)) sub = "ent";

@@ -11,14 +11,75 @@
   "theme_color": "#e5484d",
   "lang": "ko",
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ],
   "shortcuts": [
-    { "name": "시간대별 편성표", "url": "/#schedule", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
-    { "name": "연예 실시간", "url": "/#topics/ent", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
-    { "name": "표 변환", "url": "/#table", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
-    { "name": "이미지 합성", "url": "/#image", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+    {
+      "name": "시간대별 편성표",
+      "url": "/#schedule",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "연예 실시간",
+      "url": "/#topics/ent",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "쇼핑",
+      "url": "/#shop",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "표 변환",
+      "url": "/#table",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "이미지 합성",
+      "url": "/#image",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
   ]
 }

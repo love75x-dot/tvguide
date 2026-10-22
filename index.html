@@ -2,7 +2,16 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#e5484d">
+<meta name="description" content="방송 편성표 · 연예 실시간 소재 · 블로그 도구">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="편성표">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <title>방송 편성표</title>
 <style>
 :root{--bg:#f6f7f9;--card:#fff;--line:#e3e6eb;--text:#1b1e23;--sub:#6b7280;--accent:#e5484d;--live:#fff1f1;--hl:#2563eb;--soft:#f1f2f5;--ok:#15803d;--okbg:#e8f6ec;--warnbg:#fff8e6;--warn:#92400e;--blue:#2563eb;--bluebg:#eaf1ff}
@@ -130,6 +139,28 @@ nav.main button.on{color:var(--text);border-bottom-color:var(--accent)}
 .nw{display:block;padding:10px 13px;border-bottom:1px solid var(--line);color:var(--text);text-decoration:none;font-size:14px}
 .nw:last-child{border:0}
 .nw small{display:block;color:var(--sub);font-size:11px;margin-top:2px}
+/* 표 변환 */
+.tb-src{width:100%;min-height:170px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13px;line-height:1.5;padding:12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--text);resize:vertical}
+.tb-row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0}
+.tb-btn{font-size:14px;font-weight:600;border-radius:9px;cursor:pointer;padding:9px 14px;border:1px solid var(--accent);background:var(--card);color:var(--accent)}
+.tb-btn.pri{background:var(--accent);color:#fff}
+.tb-btn.done{border-color:var(--ok);background:var(--ok);color:#fff}
+.tb-card{padding:12px 14px;margin-top:10px}
+.tb-card .tb-bar{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:8px}
+.tb-card .tb-bar .name{font-size:13px;color:var(--sub)}
+.tb-scroll{overflow-x:auto}
+.tb-scroll table{border-collapse:collapse;font-size:14px}
+.tb-scroll th,.tb-scroll td{border:1px solid var(--line);padding:6px 10px;text-align:left;font-variant-numeric:tabular-nums}
+.tb-scroll th{background:var(--soft)}
+.tb-steps{margin:0;padding-left:20px;color:var(--sub);font-size:13px;line-height:1.7}
+/* 앱 설치 */
+#installBtn{margin-left:auto;border:1px solid var(--accent);background:var(--card);color:var(--accent);border-radius:16px;padding:4px 11px;font-size:12px;font-weight:600;cursor:pointer}
+#installSheet{position:fixed;inset:0;background:rgba(0,0,0,.45);display:none;align-items:flex-end;justify-content:center;z-index:30}
+#installSheet.on{display:flex}
+#installSheet .box{background:var(--card);color:var(--text);width:100%;max-width:460px;border-radius:16px 16px 0 0;padding:18px 18px calc(18px + env(safe-area-inset-bottom));line-height:1.6;font-size:14px}
+#installSheet h3{margin:0 0 8px;font-size:16px}
+#installSheet ol{padding-left:20px;margin:6px 0 12px}
+#installSheet button{width:100%;padding:11px;border-radius:10px;border:0;background:var(--accent);color:#fff;font-weight:600;font-size:15px;cursor:pointer}
 /* 이미지 합성 */
 .img-in{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .drop{border:1.5px dashed var(--line);border-radius:10px;padding:16px 8px;text-align:center;cursor:pointer;background:var(--soft);font-size:13px;color:var(--sub)}
@@ -153,11 +184,12 @@ nav.main button.on{color:var(--text);border-bottom-color:var(--accent)}
 </head>
 <body>
 <div class="top"><div class="topin">
-  <div class="brand"><h1>📺 방송 편성표</h1><span id="meta">불러오는 중…</span></div>
+  <div class="brand"><h1>📺 방송 편성표</h1><span id="meta">불러오는 중…</span><button id="installBtn" hidden>📲 앱 설치</button></div>
   <nav class="main" id="mainNav">
     <button data-v="schedule">편성표</button>
     <button data-v="topics">오늘의 소재</button>
     <button data-v="image">이미지 합성</button>
+    <button data-v="table">표 변환</button>
   </nav>
 </div></div>
 
@@ -212,6 +244,27 @@ nav.main button.on{color:var(--text);border-bottom-color:var(--accent)}
   </div>
 </section>
 
+<!-- ===================== 표 변환 ===================== -->
+<section class="view" id="v-table">
+  <div class="note">📋 블로그 글의 표 글자를 붙여넣으면 <b>네이버 에디터에 진짜 표로 붙는 형태</b>로 복사해 줘요.</div>
+  <ol class="tb-steps">
+    <li>채팅의 표 코드블록(또는 본문 전체)을 복사합니다.</li>
+    <li>아래 칸에 붙여넣습니다. 예시는 「칸 비우기」로 지우고 붙이세요.</li>
+    <li>「표 복사」를 누르고 네이버 에디터에 붙여넣습니다. 복사가 막히면 미리보기 표를 드래그해서 복사하세요.</li>
+  </ol>
+  <div class="info">「항목 | 내용」 줄, [표]…[/표], 마크다운 표, 엑셀·구글시트(탭) 모두 됩니다 · 빈 줄로 나누면 표 여러 개 · 첫 줄은 머리글</div>
+  <textarea id="tbSrc" class="tb-src" spellcheck="false">[표] 신형 IM L6 기본 정보 (예시)
+항목 | 내용
+중국 판매가 | 19만9,900~25만9,900위안(출시 혜택가)
+원화 환산 | 약 3,943만~5,126만 원
+출시일 | 2026년 8월 28일(중국)
+크기 | 전장 4,924mm · 휠베이스 2,950mm
+라이다 | 전 트림 기본
+[/표]</textarea>
+  <div class="tb-row"><button type="button" class="tb-btn" id="tbClear">칸 비우기</button><button type="button" class="tb-btn" id="tbPaste">📋 클립보드에서 붙여넣기</button><span class="info" id="tbCount" style="margin:0"></span></div>
+  <div id="tbOut"></div>
+</section>
+
 <!-- ===================== 이미지 합성 ===================== -->
 <section class="view" id="v-image">
   <div class="note">🖼 사진 두 장을 넣으면 왼쪽·오른쪽 반반으로 붙여 줘요. 사진은 서버로 올라가지 않고 <b>이 화면 안에서만</b> 합성돼요.</div>
@@ -251,6 +304,11 @@ nav.main button.on{color:var(--text);border-bottom-color:var(--accent)}
 </section>
 </div>
 <div id="toast"></div>
+<div id="installSheet"><div class="box">
+  <h3>📲 앱으로 설치하기</h3>
+  <div id="installHow"></div>
+  <button id="installClose">확인</button>
+</div></div>
 
 <script>
 /* ---------- 공통 ---------- */
@@ -282,6 +340,7 @@ function go(v, s){
   if(view === "topics"){ ({ent: loadEnt, kw: loadKw, news: loadNews})[sub](); }
   if(view === "schedule") renderSchedule();
   if(view === "image") drawImg();
+  if(view === "table") tbRender();
 }
 document.querySelectorAll("#mainNav button").forEach(b => b.onclick = () => go(b.dataset.v));
 document.querySelectorAll("#subNav button").forEach(b => b.onclick = () => go("topics", b.dataset.s));
@@ -628,9 +687,90 @@ document.getElementById("btnCopy").onclick = async () => {
   }catch(e){ toast("이 브라우저는 복사를 지원하지 않아요. JPG 저장을 이용해 주세요."); }
 };
 
+/* ---------- 표 변환 (네이버 에디터용) ---------- */
+const tbSrc = document.getElementById("tbSrc"), tbOut = document.getElementById("tbOut"), tbCount = document.getElementById("tbCount");
+try{ const saved = localStorage.getItem("tbSrc"); if(saved !== null) tbSrc.value = saved; }catch(e){}
+const tbEsc = s => s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+function tbParse(text){
+  const groups = []; let cur = null, title = "";
+  const close = () => { if(cur && cur.rows.length) groups.push(cur); cur = null; };
+  for(const raw of text.replace(/\r/g,"").split("\n")){
+    let l = raw.trim();
+    if(l.startsWith("```")) continue;
+    const t = l.match(/^\[표\]\s*(.*)$/); if(t){ close(); title = t[1]; continue; }
+    if(/^\[\/표\]$/.test(l)){ close(); title = ""; continue; }
+    if(!l){ close(); continue; }
+    let cells = null;
+    if(l.includes("\t")) cells = l.split("\t");
+    else if(l.includes("|")){ l = l.replace(/^\|/,"").replace(/\|$/,""); if(/^[\s:\-|]+$/.test(l)) continue; cells = l.split("|"); }
+    if(!cells){ close(); title = l; continue; }
+    cells = cells.map(c => c.trim().replace(/\\~/g,"~"));
+    if(!cur){ cur = {title, rows:[]}; title = ""; }
+    cur.rows.push(cells);
+  }
+  close(); return groups;
+}
+function tbHTML(rows, forCopy){
+  const n = Math.max(...rows.map(r => r.length));
+  const st = forCopy ? ' style="border:1px solid #999999;padding:6px 10px;text-align:left;"' : "";
+  let h = "<table" + (forCopy ? ' style="border-collapse:collapse;"' : "") + ">";
+  rows.forEach((r,i) => { const tag = i === 0 ? "th" : "td"; h += "<tr>"; for(let k = 0; k < n; k++) h += `<${tag}${st}>${tbEsc(r[k]||"")}</${tag}>`; h += "</tr>"; });
+  return h + "</table>";
+}
+async function tbCopy(rows, btn, label){
+  const h = tbHTML(rows, true), t = rows.map(r => r.join("\t")).join("\n");
+  let ok = false;
+  try{ if(window.ClipboardItem && navigator.clipboard && navigator.clipboard.write){
+    await navigator.clipboard.write([new ClipboardItem({"text/html": new Blob([h], {type:"text/html"}), "text/plain": new Blob([t], {type:"text/plain"})})]); ok = true; } }catch(e){}
+  if(!ok){ try{ const box = document.createElement("div"); box.innerHTML = h; box.style.cssText = "position:fixed;left:-9999px;top:0";
+    document.body.appendChild(box); const sel = getSelection(); sel.removeAllRanges(); const r = document.createRange(); r.selectNodeContents(box); sel.addRange(r);
+    ok = document.execCommand("copy"); sel.removeAllRanges(); box.remove(); }catch(e){} }
+  btn.textContent = ok ? "복사됨 · 네이버에 붙여넣으세요" : "복사가 막혔어요 · 표를 드래그해 복사하세요";
+  btn.classList.toggle("done", ok);
+  setTimeout(() => { btn.textContent = label; btn.classList.remove("done"); }, 2500);
+}
+function tbRender(){
+  try{ localStorage.setItem("tbSrc", tbSrc.value); }catch(e){}
+  const groups = tbParse(tbSrc.value); tbOut.innerHTML = "";
+  if(!groups.length){ tbOut.innerHTML = '<div class="card empty">아직 표가 없어요. 위 칸에 「항목 | 내용」처럼 칸을 | 로 나눈 줄을 붙여넣으세요.</div>'; tbCount.textContent = ""; return; }
+  tbCount.textContent = `표 ${groups.length}개를 찾았어요`;
+  groups.forEach((g, i) => {
+    const label = groups.length > 1 ? `표 ${i+1} 복사` : "표 복사";
+    const card = document.createElement("section"); card.className = "card tb-card";
+    card.innerHTML = `<div class="tb-bar"><span class="name">${tbEsc(g.title || ("표 " + (i+1)))}</span><button type="button" class="tb-btn pri">${label}</button></div><div class="tb-scroll">${tbHTML(g.rows, false)}</div>`;
+    const b = card.querySelector("button"); b.onclick = () => tbCopy(g.rows, b, label);
+    tbOut.appendChild(card);
+  });
+}
+tbSrc.addEventListener("input", tbRender);
+document.getElementById("tbClear").onclick = () => { tbSrc.value = ""; tbRender(); tbSrc.focus(); };
+document.getElementById("tbPaste").onclick = async () => {
+  try{ const t = await navigator.clipboard.readText(); if(t){ tbSrc.value = t; tbRender(); toast("붙여넣었어요"); } }
+  catch(e){ tbSrc.focus(); toast("칸을 누르고 Ctrl+V(길게 눌러 붙여넣기) 해 주세요"); }
+};
+
+/* ---------- 앱 설치 (PWA) ---------- */
+let deferredPrompt = null;
+const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+const installBtn = document.getElementById("installBtn");
+if(!standalone) installBtn.hidden = false;
+addEventListener("beforeinstallprompt", e => { e.preventDefault(); deferredPrompt = e; installBtn.hidden = false; });
+addEventListener("appinstalled", () => { installBtn.hidden = true; toast("설치됐어요! 홈 화면에서 열 수 있어요"); });
+installBtn.onclick = async () => {
+  if(deferredPrompt){ deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt = null; return; }
+  document.getElementById("installHow").innerHTML = isIOS
+    ? `<b>아이폰·아이패드 (사파리)</b><ol><li>아래쪽 <b>공유 버튼(□↑)</b>을 누릅니다.</li><li><b>「홈 화면에 추가」</b>를 누릅니다.</li><li>오른쪽 위 <b>「추가」</b>를 누르면 끝!</li></ol><div class="info">크롬이나 네이버 앱에서는 안 될 수 있어요. 사파리로 열어 주세요.</div>`
+    : `<b>안드로이드 (크롬·삼성 인터넷)</b><ol><li>오른쪽 위 <b>⋮ 메뉴</b>를 누릅니다.</li><li><b>「앱 설치」</b> 또는 <b>「홈 화면에 추가」</b>를 누릅니다.</li></ol><b>PC (크롬·엣지)</b><ol><li>주소창 오른쪽의 <b>설치 아이콘(⊕ 또는 □↓)</b>을 누릅니다.</li><li>또는 ⋮ 메뉴 → <b>「앱 설치」</b>(엣지는 ⋯ → 앱 → 이 사이트를 앱으로 설치)</li></ol>`;
+  document.getElementById("installSheet").classList.add("on");
+};
+document.getElementById("installClose").onclick = () => document.getElementById("installSheet").classList.remove("on");
+document.getElementById("installSheet").onclick = e => { if(e.target.id === "installSheet") e.target.classList.remove("on"); };
+if("serviceWorker" in navigator) addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+
 /* ---------- 시작 ---------- */
 (async () => {
-  const m = location.hash.match(/^#(schedule|topics|image)(?:\/(ent|kw|news))?/);
+  const m = location.hash.match(/^#(schedule|topics|image|table)(?:\/(ent|kw|news))?/);
   const last = store.get("lastView", ["schedule","ent"]);
   view = m ? m[1] : last[0]; sub = (m && m[2]) || last[1] || "ent";
   if(!["ent","kw","news"].includes(sub)) sub = "ent";

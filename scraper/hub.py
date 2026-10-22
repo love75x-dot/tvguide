@@ -94,7 +94,13 @@ def trend(groups, start, end):
 
 NEWS_STOP = set("""뉴스 기자 단독 속보 오늘 내일 어제 올해 지난 이번 최대 최고 최초 공개 출시 발표 진행 개최 확대 지원
 시작 예정 관련 위해 대해 통해 이후 이상 이하 가능 제공 운영 선정 추진 강화 기념 맞이 대상 결과 가운데 정부 국내 세계 한국
-서울 전국 지역 시장 업계 기업 회사 사업 행사 신규 첫날 이벤트 할인 혜택 사진 영상 포토 종합 인터뷰 화제 인기 논란""".split())
+서울 전국 지역 시장 업계 기업 회사 사업 행사 신규 첫날 이벤트 할인 혜택 사진 영상 포토 종합 인터뷰 화제 인기 논란
+대표 국가대표 대회 개막 폐막 상승 하락 급등 급락 유일 내년 주목 전자 상무 이사 회장 사장 경기 설명회 관리 예방 질병 교수
+표창 수상 휴직 셋째 둘째 장려금 지인 페스티벌 신제품 제품 전용 구축 국립 시립 영화 드라마 시청률 연말 연초 글씨 게임
+공모전 중독 판매량 트렌드 패션 뷰티 신상 축구 야구 농구 배구 여행 맛집 건강 육아 결혼 반려 원예 음악 공연 취미 교육
+대입 입시 문화센터 시청 구청 군청 도청 협약 체결 모집 접수 신청 성료 마련 확인 기록 돌파 달성 증가 감소 전망 분석
+남양주시 인천시 부산시 경기도 미국 중국 일본 뉴욕 정책 방안 계획 조사 발표회 축제 박람회 전시 시즌 오픈 론칭 출범""".split())
+BAD_END = re.compile(r"(할|한|된|될|는|던|서|에서|으로|까지|부터|처럼|하고|하는|했다|이다|에게|께서|이며|이고)$")
 
 
 def news_terms(queries, exclude, limit=6):
@@ -110,12 +116,14 @@ def news_terms(queries, exclude, limit=6):
             continue
         for it in items:
             for w in T.tokens(T.txt(it.get("title", ""))):
-                if w in NEWS_STOP or len(w) > 10 or re.fullmatch(r"[A-Za-z]{1,2}|\d+\S*", w):
+                if (w in NEWS_STOP or len(w) > 10 or len(w) < 2 or BAD_END.search(w)
+                        or re.fullmatch(r"[A-Za-z]{1,2}|\d+\S*|.*(시|군|구|청)$", w) and len(w) <= 4 and w not in exclude):
                     continue
                 cnt[w] = cnt.get(w, 0) + 1
         time.sleep(0.1)
     low = {e.replace(" ", "").lower() for e in exclude} | {q.replace(" ", "").lower() for q in queries}
-    picks = [w for w, c in sorted(cnt.items(), key=lambda x: -x[1]) if c >= 3 and w.lower() not in low]
+    picks = [w for w, c in sorted(cnt.items(), key=lambda x: -x[1]) if c >= 3 and w.lower() not in low
+             and not any(w in x or x in w for x in low)]
     return picks[:limit]
 
 

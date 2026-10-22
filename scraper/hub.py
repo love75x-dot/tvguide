@@ -17,6 +17,7 @@ import time
 import trends as T
 
 BASE = "https://naverapihub.apigw.ntruss.com"
+VERSION = 3          # 수집 방식을 바꾸면 숫자를 올림 → 오늘 자료를 새로 만듦
 PROBE = T.DATA / "hub_probe.json"
 
 
@@ -137,7 +138,7 @@ def collect():
         print("NAVER API HUB 키 없음 → 키워드 건너뜀")
         return
     f = T.KWDIR / f"{T.TODAY}.json"
-    if f.exists() and T.load(f, {}).get("source") == "hub":
+    if f.exists() and T.load(f, {}).get("ver") == VERSION:
         return                                            # 오늘 이미 수집
     probe()
     if "trend" not in ROUTES:
@@ -241,7 +242,7 @@ def collect():
         for g in out:
             for r in g["keywords"]:
                 r["grade"] = "good" if r["opp"] >= hi else "hard" if r["opp"] < lo else "mid"
-    T.save(f, {"date": str(T.TODAY), "source": "hub", "updated": T.NOW.isoformat(),
+    T.save(f, {"date": str(T.TODAY), "source": "hub", "ver": VERSION, "updated": T.NOW.isoformat(),
                "range": [str(start), str(end)], "groups": out})
     idx = [p.stem for p in sorted(T.KWDIR.glob("????-??-??.json"), reverse=True)[:60]]
     T.save(T.KWDIR / "index.json", idx)

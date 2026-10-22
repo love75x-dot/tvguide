@@ -39,6 +39,8 @@ jobs:
           NAVER_AD_API_KEY: ${{ secrets.NAVER_AD_API_KEY }}
           NAVER_AD_SECRET: ${{ secrets.NAVER_AD_SECRET }}
           NAVER_AD_CUSTOMER_ID: ${{ secrets.NAVER_AD_CUSTOMER_ID }}
+          NAVER_HUB_ID: ${{ secrets.NAVER_HUB_ID }}
+          NAVER_HUB_SECRET: ${{ secrets.NAVER_HUB_SECRET }}
       - name: 편성표 텔레그램 발송 (08시·19시)
         run: python scraper/digest.py
         env:

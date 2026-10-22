@@ -63,6 +63,27 @@ nav.main button.on{color:var(--text);border-bottom-color:var(--accent)}
 .row.live{background:var(--live);font-weight:600}
 .row.live time{color:var(--accent)}
 @media(min-width:900px){#grid{grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}}
+/* 키워드(API HUB) */
+.kh{display:grid;grid-template-columns:1fr 92px 54px 62px;gap:6px;padding:7px 14px;font-size:11px;color:var(--sub);border-bottom:1px solid var(--line)}
+.kh span:not(:first-child){text-align:right}
+details.kr{border-bottom:1px solid var(--line)}
+details.kr:last-child{border:0}
+details.kr summary{list-style:none;display:grid;grid-template-columns:1fr 92px 54px 62px;gap:6px;align-items:center;padding:9px 14px;cursor:pointer;font-size:14px}
+details.kr summary::-webkit-details-marker{display:none}
+details.kr summary .k{min-width:0;display:flex;gap:6px;align-items:center}
+details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.popbar{display:flex;align-items:center;gap:5px;justify-content:flex-end;font-variant-numeric:tabular-nums}
+.popbar i{display:block;height:6px;border-radius:3px;background:var(--accent);opacity:.75}
+.rise{text-align:right;font-size:12px;font-variant-numeric:tabular-nums}
+.rise.up{color:var(--accent)}.rise.dn{color:var(--blue)}
+.bc{text-align:right;color:var(--sub);font-size:12px;font-variant-numeric:tabular-nums}
+.kr .more{padding:0 14px 12px;font-size:13px;line-height:1.7}
+.kr .more a{color:var(--text)}
+.kr .more .links{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.kr .more .links a{font-size:12px;border:1px solid var(--line);border-radius:7px;padding:3px 8px;text-decoration:none}
+.gd{flex:none;font-size:10px;padding:2px 5px;border-radius:4px}
+.gd.good{background:var(--okbg);color:var(--ok)}.gd.hard{background:var(--live);color:var(--accent)}.gd.mid{display:none}
+@media(max-width:520px){.kh,details.kr summary{grid-template-columns:1fr 70px 46px 52px;padding-left:10px;padding-right:10px}}
 /* 시간대별 */
 .seg{display:inline-flex;gap:3px;padding:3px;background:var(--card);border:1px solid var(--line);border-radius:10px;margin-top:10px}
 .seg button{border:0;background:none;color:var(--sub);font-size:14px;font-weight:600;padding:7px 14px;border-radius:7px;cursor:pointer}
@@ -231,8 +252,9 @@ nav.main button.on{color:var(--text);border-bottom-color:var(--accent)}
 
   <div id="s-kw" class="sub">
     <div class="datebar"><button id="kwPrev">◀</button><b id="kwDate">-</b><button id="kwNext">▶</button></div>
-    <div class="note" id="kwNote">📌 네이버 검색광고 키워드 도구 기준 <b>최근 한 달 검색량</b>(PC+모바일)이에요. 키워드를 누르면 네이버 검색이 열려요. ▲▼는 전날 대비 순위 변화.</div>
+    <div class="note" id="kwNote">📌 네이버 데이터랩 기준 <b>인기도</b>(최근 7일, 가장 많이 찾은 키워드 = 100)와 <b>상승률</b>(최근 3일 vs 그 전 7일), 네이버 <b>블로그 글 수</b>로 경쟁도를 보여줘요. <b>🟢 쓰기 좋음</b> = 찾는 사람에 비해 글이 적은 키워드. 키워드를 누르면 사람들이 묻는 질문이 나와요.</div>
     <div class="chips" id="kwGroups"></div>
+    <div class="chips" id="kwSort" style="margin-top:8px"></div>
     <div class="kwgrid" id="kwList" style="margin-top:10px"></div>
   </div>
 
@@ -567,6 +589,39 @@ async function loadKw(){
 document.getElementById("kwPrev").onclick = () => { const i = kwIdx.indexOf(kwDay); if(i < kwIdx.length-1){ kwDay = kwIdx[i+1]; loadKw(); } };
 document.getElementById("kwNext").onclick = () => { const i = kwIdx.indexOf(kwDay); if(i > 0){ kwDay = kwIdx[i-1]; loadKw(); } };
 const fmtN = n => n >= 10000 ? (n/10000).toFixed(n >= 100000 ? 0 : 1).replace(/\.0$/,"") + "만" : n.toLocaleString();
+let kwSort = "opp";
+const spark = a => { if(!a || !a.length) return ""; const w = 46, h = 14, mx = Math.max(...a, 1);
+  return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" style="flex:none"><polyline fill="none" stroke="currentColor" stroke-width="1.4" opacity=".6" points="${a.map((v,i) => `${(i/(a.length-1)*w).toFixed(1)},${(h - v/mx*(h-2) - 1).toFixed(1)}`).join(" ")}"/></svg>`; };
+function renderKwHub(){
+  const box = document.getElementById("kwList"), chips = document.getElementById("kwGroups");
+  const groups = kwData.groups.filter(g => g.keywords.length);
+  chips.innerHTML = [["all","전체"], ...groups.map(g => [g.name, g.name])].map(([k,l]) =>
+    `<button class="${k===kwGroup?"on":""}" data-k="${esc(k)}">${esc(l)}</button>`).join("");
+  chips.querySelectorAll("button").forEach(b => b.onclick = () => { kwGroup = b.dataset.k; renderKw(); });
+  document.getElementById("kwSort").innerHTML = [["opp","🟢 쓰기 좋은 순"],["pop","🔥 인기순"],["rise","📈 상승순"]].map(([k,l]) =>
+    `<button class="${k===kwSort?"on":""}" data-k="${k}">${l}</button>`).join("");
+  document.querySelectorAll("#kwSort button").forEach(b => b.onclick = () => { kwSort = b.dataset.k; renderKw(); });
+  const by = {opp:(a,b) => b.opp - a.opp, pop:(a,b) => b.pop - a.pop, rise:(a,b) => b.rise - a.rise}[kwSort];
+  const n = v => v == null ? "-" : v >= 10000 ? (v/10000).toFixed(v >= 100000 ? 0 : 1) + "만" : v.toLocaleString();
+  const gl = {good:"쓰기 좋음", hard:"경쟁 심함", mid:""};
+  box.innerHTML = groups.filter(g => kwGroup === "all" || g.name === kwGroup).map(g =>
+    `<section class="card kw"><h3>${esc(g.name)} <small>${shortDay(kwData.date)} 기준</small></h3>
+     <div class="kh"><span>키워드</span><span>인기도</span><span>상승</span><span>블로그 글</span></div>` +
+    g.keywords.slice().sort(by).map(k => {
+      const q = encodeURIComponent(k.keyword);
+      const qs = (k.questions || []).map(x => `<div>❓ <a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.title)}</a></div>`).join("") || '<div class="info" style="margin:0">관련 질문이 없어요.</div>';
+      return `<details class="kr"><summary>
+        <span class="k"><b>${esc(k.keyword)}</b><span class="gd ${k.grade||"mid"}">${gl[k.grade]||""}</span></span>
+        <span class="popbar">${spark(k.spark)}<span>${Math.round(k.pop)}</span></span>
+        <span class="rise ${k.rise>0?"up":k.rise<0?"dn":""}">${k.rise>0?"▲":k.rise<0?"▼":""}${Math.abs(k.rise)}%</span>
+        <span class="bc">${n(k.blog)}</span></summary>
+        <div class="more"><b>사람들이 묻는 질문</b>${qs}
+          <div class="info" style="margin:6px 0 0">카페 글 ${n(k.cafe)} · 블로그 글 ${n(k.blog)}</div>
+          <div class="links"><a href="https://search.naver.com/search.naver?query=${q}" target="_blank" rel="noopener">네이버 검색</a>
+          <a href="https://search.naver.com/search.naver?ssc=tab.blog.all&query=${q}" target="_blank" rel="noopener">블로그 글 보기</a>
+          <a href="https://kin.naver.com/search/list.naver?query=${q}" target="_blank" rel="noopener">지식iN 더 보기</a></div></div></details>`;
+    }).join("") + `</section>`).join("") || '<div class="card empty">표시할 키워드가 없어요.</div>';
+}
 function renderKw(){
   const i = kwIdx.indexOf(kwDay);
   document.getElementById("kwDate").textContent = dayLabel(kwDay);
@@ -575,9 +630,11 @@ function renderKw(){
   const box = document.getElementById("kwList"), chips = document.getElementById("kwGroups");
   if(!kwData){
     chips.innerHTML = "";
-    box.innerHTML = `<div class="card empty" style="grid-column:1/-1">아직 키워드 자료가 없어요.<br>네이버 검색광고 API 키를 GitHub에 등록하면 매일 아침 자동으로 채워져요. (설정 방법은 README 참고)</div>`;
+    box.innerHTML = `<div class="card empty" style="grid-column:1/-1">아직 키워드 자료가 없어요.<br>매일 아침(오전 6시 이후 첫 수집 때) 자동으로 채워져요.</div>`;
     return;
   }
+  if(kwData.source === "hub"){ renderKwHub(); return; }
+  document.getElementById("kwSort").innerHTML = "";
   const groups = kwData.groups.filter(g => g.keywords.length);
   chips.innerHTML = [["all","전체"], ...groups.map(g => [g.name, g.name])].map(([k,l]) =>
     `<button class="${k===kwGroup?"on":""}" data-k="${esc(k)}">${esc(l)}</button>`).join("");

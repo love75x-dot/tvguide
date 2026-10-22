@@ -785,7 +785,7 @@ document.getElementById("btnCopy").onclick = async () => {
 };
 
 /* ---------- 마트·다이소 ---------- */
-let shopSub = store.get("shopSub", "trend"), mart = store.get("mart", "costco"), martData = null, mView = "sale", mSort = "disc", mLimit = 40;
+let shopSub = store.get("shopSub", "trend"), mart = store.get("mart", "costco"), martData = null, mView = "sale", mSort = "disc", mLimit = 40, mCat = "all";
 document.querySelectorAll("#shopNav button").forEach(b => b.onclick = () => { shopSub = b.dataset.s; store.set("shopSub", shopSub); loadShop(); });
 document.querySelectorAll("#martTabs button").forEach(b => b.onclick = () => { mart = b.dataset.m; store.set("mart", mart); mLimit = 40; renderMart(); });
 const won = v => v ? Number(v).toLocaleString() + "원" : "";
@@ -808,6 +808,7 @@ function renderMart(){
       const sorts = mView === "sale" ? [["disc","할인 큰 순"],["end","마감 임박"],["new","새로 올라온"],["rate","평점 높은"]] : [["new","새로 올라온"],["rate","평점 높은"],["low","낮은 가격"]];
       if(!sorts.some(s => s[0] === mSort)) mSort = sorts[0][0];
       html += `<div class="chips" style="margin-top:8px">${sorts.map(([k,l]) => `<button class="${k===mSort?"on":""}" data-s="${k}">${l}</button>`).join("")}</div>
+        <div class="chips" id="mCats" style="margin-top:8px"></div>
         <input class="msearch" id="mQ" type="search" placeholder="상품 검색 (예: 귤, 패딩, 청소기)">
         <div class="card" id="mList"></div>`;
     }
@@ -837,6 +838,14 @@ function renderMart(){
 function drawCostco(){
   const c = martData.costco || {}, q = (document.getElementById("mQ")?.value || "").trim().toLowerCase();
   let arr = (mView === "sale" ? c.sale : c.new) || [];
+  const cnt = {}; arr.forEach(x => cnt[x.cat || "기타"] = (cnt[x.cat || "기타"] || 0) + 1);
+  const cats = Object.entries(cnt).sort((a,b) => b[1] - a[1]);
+  if(mCat !== "all" && !cnt[mCat]) mCat = "all";
+  const cb = document.getElementById("mCats");
+  if(cb){ cb.innerHTML = [["all", "전체", arr.length], ...cats.map(([k,n]) => [k, k, n])].map(([k,l,n]) =>
+    `<button class="${k===mCat?"on":""}" data-c="${esc(k)}">${esc(l)}<small>${n}</small></button>`).join("");
+    cb.querySelectorAll("button").forEach(b => b.onclick = () => { mCat = b.dataset.c; mLimit = 40; drawCostco(); }); }
+  if(mCat !== "all") arr = arr.filter(x => (x.cat || "기타") === mCat);
   if(q) arr = arr.filter(x => (x.name || "").toLowerCase().includes(q));
   const by = {disc:(a,b) => (b.discount||0) - (a.discount||0), end:(a,b) => (a.end||"9999").localeCompare(b.end||"9999"),
               new:(a,b) => (b.first||"").localeCompare(a.first||""), rate:(a,b) => (b.rating||0) - (a.rating||0) || (b.reviews||0) - (a.reviews||0),

@@ -22,6 +22,12 @@ SEEN = T.DATA / "marts_seen.json"
 RUN_HOURS = {8, 12, 18}
 COSTCO = "https://www.costco.co.kr"
 DAISO = "https://www.daisomall.co.kr"
+COSTCO_CAT = {"Foods": "식품", "FurnitureBeddingHome": "가구·침구·홈", "HomeKitchen": "주방", "ClothingBagsAccessories": "의류·잡화",
+              "BeautyHouseholdPersonal-Care": "뷰티·생활", "Appliances": "가전", "HealthSupplement": "건강",
+              "BabyKidsToysPets": "유아·완구·반려", "HardwareAutomotive": "공구·자동차", "PatioLawnGarden": "정원·야외",
+              "ElectronicsComputers": "전자·컴퓨터", "Gift-Set-Special": "선물세트", "SportsFitnessCamping": "스포츠·캠핑",
+              "JewelryWatchesAccessories": "주얼리·시계", "StationeryOffice-Supplies": "문구·사무"}
+BULK = re.compile(r"x\s*\d{3,}\s*(개|팩|박스|ea|EA)")      # 사업자용 대량 상품 (x 100개 이상)
 UA = {"User-Agent": T.UA, "Accept": "application/json, text/plain, */*", "Accept-Language": "ko-KR,ko;q=0.9"}
 
 
@@ -42,11 +48,14 @@ def costco_list(category, max_items=1200):
         r.raise_for_status()
         j = r.json()
         for p in j.get("products", []):
+            if BULK.search(p.get("name") or ""):
+                continue
             cd = p.get("couponDiscount") or {}
             disc = (p.get("discountPrice") or {}).get("value") or cd.get("discountValue") or 0
             img = ((p.get("images") or [{}])[0]).get("url") or ""
             items.append({
                 "id": p.get("code"), "name": p.get("name"), "url": COSTCO + (p.get("url") or ""),
+                "cat": COSTCO_CAT.get((p.get("url") or "/").split("/")[1], "기타"),
                 "price": (p.get("price") or {}).get("value"), "base": (p.get("basePrice") or {}).get("value"),
                 "discount": disc, "start": kst_date(cd.get("discountStartDate") or p.get("discountStartDate") or ""),
                 "end": kst_date(cd.get("discountEndDate") or p.get("discountEndDate") or ""),

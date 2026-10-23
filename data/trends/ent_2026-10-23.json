@@ -133,11 +133,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 7,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c3",
@@ -214,7 +212,7 @@
     }
    ],
    "first": "00:12",
-   "last": "14:10",
+   "last": "15:12",
    "best": 3,
    "hours": [
     "00:12",
@@ -231,14 +229,15 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
+    "nate_pop": 5,
     "nate_int": 7
    },
    "count": 4,
@@ -284,11 +283,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 49
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c6",
@@ -333,7 +330,8 @@
     "A2O 라이트 아이찡, 출근길 태도 두고 갑론을박…\"멤버 가려\" vs \"동선 ...",
     "'13살' 아이찡 흠집 못 내서 안달…'인성 논란' 출근길 알고보니 '반전' [...",
     "A2O LITE 아이찡, 부모 빚투 후폭풍…中 팬들 나섰다 \"대신 갚자\"[스타...",
-    "장원영, A2O LITE 인사에 때아닌 '거만 논란'···라다 팬 계정도 옹호"
+    "장원영, A2O LITE 인사에 때아닌 '거만 논란'···라다 팬 계정도 옹호",
+    "식당 손님들 고깃값 다 냈다…이수만, A2O LITE 1위에 '골든벨 플렉..."
    ],
    "links": [
     "https://news.nate.com/view/20261022n21892",
@@ -342,7 +340,8 @@
     "https://news.nate.com/view/20261022n36432",
     "https://news.nate.com/view/20261022n33463",
     "https://news.nate.com/view/20261023n08687",
-    "https://news.nate.com/view/20261023n08897"
+    "https://news.nate.com/view/20261023n08897",
+    "https://news.nate.com/view/20261023n11734"
    ],
    "articles": [
     {
@@ -379,11 +378,16 @@
      "title": "장원영, A2O LITE 인사에 때아닌 '거만 논란'···라다 팬 계정도 옹호",
      "link": "https://news.nate.com/view/20261023n08897",
      "media": "스포츠경향"
+    },
+    {
+     "title": "식당 손님들 고깃값 다 냈다…이수만, A2O LITE 1위에 '골든벨 플렉...",
+     "link": "https://news.nate.com/view/20261023n11734",
+     "media": "스타뉴스"
     }
    ],
    "first": "00:12",
-   "last": "14:10",
-   "best": 4,
+   "last": "15:12",
+   "best": 2,
    "hours": [
     "00:12",
     "01:08",
@@ -399,17 +403,18 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 8
+    "nate_pop": 4,
+    "nate_int": 2
    },
-   "count": 7,
+   "count": 8,
    "inrank": true
   },
   {
@@ -425,7 +430,8 @@
     "솔비, '예비 신랑' 직접 소개…♥이규한 \"20년 전부터 좋아했다\"",
     "'남유정 뭐가 되나'…이규한, ♥솔비에 \"20년 전부터 좋아해\" 과거 지...",
     "이규한, \"20년 전부터 솔비였다\"…남유정과 공개 열애→결별 해놓고 '...",
-    "'솔비♥' 이규한, 결혼 발표 후 달라진 얼굴…\"인상이 변해, 부드러워져 ..."
+    "'솔비♥' 이규한, 결혼 발표 후 달라진 얼굴…\"인상이 변해, 부드러워져 ...",
+    "\"전 국민이 응원하는 건 처음\"…솔비♥이규한, 투샷 공개→댓글로 이어지..."
    ],
    "links": [
     "https://news.nate.com/view/20261022n36726",
@@ -437,7 +443,8 @@
     "https://news.nate.com/view/20261023n00694",
     "https://news.nate.com/view/20261023n04360",
     "https://news.nate.com/view/20261023n14741",
-    "https://news.nate.com/view/20261023n17941"
+    "https://news.nate.com/view/20261023n17941",
+    "https://news.nate.com/view/20261023n17930"
    ],
    "articles": [
     {
@@ -489,10 +496,15 @@
      "title": "'솔비♥' 이규한, 결혼 발표 후 달라진 얼굴…\"인상이 변해, 부드러워져 ...",
      "link": "https://news.nate.com/view/20261023n17941",
      "media": "스포츠조선"
+    },
+    {
+     "title": "\"전 국민이 응원하는 건 처음\"…솔비♥이규한, 투샷 공개→댓글로 이어지...",
+     "link": "https://news.nate.com/view/20261023n17930",
+     "media": "MHN스포츠"
     }
    ],
    "first": "00:12",
-   "last": "14:10",
+   "last": "15:12",
    "best": 1,
    "hours": [
     "00:12",
@@ -509,17 +521,18 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 4
+    "nate_pop": 1,
+    "nate_int": 1
    },
-   "count": 10,
+   "count": 11,
    "inrank": true
   },
   {
@@ -546,20 +559,20 @@
     }
    ],
    "first": "00:12",
-   "last": "14:10",
+   "last": "15:12",
    "best": 9,
    "hours": [
     "00:12",
     "01:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 23
+    "nate_int": 44
    },
    "count": 2,
    "inrank": true
@@ -744,11 +757,13 @@
    "title": "아이유 '힐이 필요 없는 비율'[엑's HD포토]",
    "titles": [
     "아이유 '힐이 필요 없는 비율'[엑's HD포토]",
-    "'아이유 결별' 이종석, 첫 포토월 [포토엔HD]"
+    "'아이유 결별' 이종석, 첫 포토월 [포토엔HD]",
+    "아이유·이종석, 단 하루차 결별 후 첫 포토월…애써 '담담'한 미소 [Oh!..."
    ],
    "links": [
     "https://news.nate.com/view/20261022n27813",
-    "https://news.nate.com/view/20261023n12587"
+    "https://news.nate.com/view/20261023n12587",
+    "https://news.nate.com/view/20261023n19023"
    ],
    "articles": [
     {
@@ -760,11 +775,16 @@
      "title": "'아이유 결별' 이종석, 첫 포토월 [포토엔HD]",
      "link": "https://news.nate.com/view/20261023n12587",
      "media": "뉴스엔"
+    },
+    {
+     "title": "아이유·이종석, 단 하루차 결별 후 첫 포토월…애써 '담담'한 미소 [Oh!...",
+     "link": "https://news.nate.com/view/20261023n19023",
+     "media": "OSEN"
     }
    ],
    "first": "00:12",
-   "last": "14:10",
-   "best": 15,
+   "last": "15:12",
+   "best": 12,
    "hours": [
     "00:12",
     "01:08",
@@ -780,17 +800,18 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 17
+    "nate_pop": 13,
+    "nate_int": 12
    },
-   "count": 2,
+   "count": 3,
    "inrank": true
   },
   {
@@ -838,7 +859,7 @@
     }
    ],
    "first": "00:12",
-   "last": "14:10",
+   "last": "15:12",
    "best": 5,
    "hours": [
     "00:12",
@@ -855,15 +876,15 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 24
+    "nate_int": 27
    },
    "count": 5,
    "inrank": true
@@ -931,7 +952,7 @@
     }
    ],
    "first": "00:12",
-   "last": "14:10",
+   "last": "15:12",
    "best": 12,
    "hours": [
     "00:12",
@@ -948,15 +969,16 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 19
+    "nate_pop": 26,
+    "nate_int": 25
    },
    "count": 2,
    "inrank": true
@@ -1192,7 +1214,7 @@
     }
    ],
    "first": "00:12",
-   "last": "14:10",
+   "last": "15:12",
    "best": 2,
    "hours": [
     "00:12",
@@ -1209,15 +1231,16 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 20
+    "nate_pop": 25,
+    "nate_int": 23
    },
    "count": 4,
    "inrank": true
@@ -1823,7 +1846,7 @@
     }
    ],
    "first": "00:12",
-   "last": "14:10",
+   "last": "15:12",
    "best": 8,
    "hours": [
     "00:12",
@@ -1840,14 +1863,15 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 37
+    "nate_int": 41
    },
    "count": 6,
    "inrank": true
@@ -1958,12 +1982,14 @@
    "titles": [
     "이혼 서인영, 위자료 못 받았나 \"혼인신고 해놓고 돈 안 주는 사람도 ...",
     "서인영, 이혼 후 다이아 결혼 반지 팔았다 \"X값이니 현금으로 받길\"(유행...",
-    "서인영, 이혼 재산 분할 질문에 역대급 '솔직' 반응…\"그 돈 받으면 이혼하..."
+    "서인영, 이혼 재산 분할 질문에 역대급 '솔직' 반응…\"그 돈 받으면 이혼하...",
+    "재혼 앞둔 서인영, 이혼 위자료 2년째 못 받았나…\"혼인신고 했는데 돈..."
    ],
    "links": [
     "https://news.nate.com/view/20261022n39499",
     "https://news.nate.com/view/20261022n39849",
-    "https://news.nate.com/view/20261022n40128"
+    "https://news.nate.com/view/20261022n40128",
+    "https://news.nate.com/view/20261023n21129"
    ],
    "articles": [
     {
@@ -1980,10 +2006,15 @@
      "title": "서인영, 이혼 재산 분할 질문에 역대급 '솔직' 반응…\"그 돈 받으면 이혼하...",
      "link": "https://news.nate.com/view/20261022n40128",
      "media": "OSEN"
+    },
+    {
+     "title": "재혼 앞둔 서인영, 이혼 위자료 2년째 못 받았나…\"혼인신고 했는데 돈...",
+     "link": "https://news.nate.com/view/20261023n21129",
+     "media": "스포티비뉴스"
     }
    ],
    "first": "01:08",
-   "last": "08:08",
+   "last": "15:12",
    "best": 3,
    "hours": [
     "01:08",
@@ -1994,15 +2025,19 @@
     "05:08",
     "06:08",
     "07:17",
-    "08:08"
+    "08:08",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 3,
-   "inrank": false
+   "now": {
+    "nate_pop": 3,
+    "nate_int": 34
+   },
+   "count": 4,
+   "inrank": true
   },
   {
    "id": "c45",
@@ -2043,22 +2078,22 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 39
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c46",
    "title": "\"전 재산 남편에게\"…한고은, 가상 유언장에 ♥신영수 향한 애정 담아 [M...",
    "titles": [
     "\"전 재산 남편에게\"…한고은, 가상 유언장에 ♥신영수 향한 애정 담아 [M...",
-    "한고은, '6년 백수' 남편에 전 재산 상속→\"여보 다 가져\" 유언장 작..."
+    "한고은, '6년 백수' 남편에 전 재산 상속→\"여보 다 가져\" 유언장 작...",
+    "한고은 유언장 작성, 재산 2천억 언급하며 \"남편에게 남길 것\""
    ],
    "links": [
     "https://news.nate.com/view/20261023n00132",
-    "https://news.nate.com/view/20261023n10234"
+    "https://news.nate.com/view/20261023n10234",
+    "https://news.nate.com/view/20261023n18931"
    ],
    "articles": [
     {
@@ -2070,10 +2105,15 @@
      "title": "한고은, '6년 백수' 남편에 전 재산 상속→\"여보 다 가져\" 유언장 작...",
      "link": "https://news.nate.com/view/20261023n10234",
      "media": "TV리포트"
+    },
+    {
+     "title": "한고은 유언장 작성, 재산 2천억 언급하며 \"남편에게 남길 것\"",
+     "link": "https://news.nate.com/view/20261023n18931",
+     "media": "스포츠서울"
     }
    ],
    "first": "01:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 2,
    "hours": [
     "01:08",
@@ -2085,17 +2125,18 @@
     "06:08",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 6
+    "nate_pop": 9,
+    "nate_int": 10
    },
-   "count": 2,
+   "count": 3,
    "inrank": true
   },
   {
@@ -2157,7 +2198,7 @@
     }
    ],
    "first": "01:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 21,
    "hours": [
     "01:08",
@@ -2169,15 +2210,15 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 31
+    "nate_int": 39
    },
    "count": 2,
    "inrank": true
@@ -2234,12 +2275,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 30,
-    "nate_int": 34
-   },
+   "now": {},
    "count": 3,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c50",
@@ -2487,7 +2525,7 @@
     }
    ],
    "first": "05:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 4,
    "hours": [
     "05:08",
@@ -2497,14 +2535,15 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 27
+    "nate_int": 30
    },
    "count": 2,
    "inrank": true
@@ -2555,7 +2594,7 @@
     }
    ],
    "first": "07:17",
-   "last": "14:10",
+   "last": "15:12",
    "best": 2,
    "hours": [
     "07:17",
@@ -2564,15 +2603,16 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 12
+    "nate_pop": 21,
+    "nate_int": 19
    },
    "count": 1,
    "inrank": true
@@ -2594,7 +2634,7 @@
     }
    ],
    "first": "07:17",
-   "last": "14:10",
+   "last": "15:12",
    "best": 3,
    "hours": [
     "07:17",
@@ -2603,14 +2643,15 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 28
+    "nate_int": 36
    },
    "count": 1,
    "inrank": true
@@ -2632,7 +2673,7 @@
     }
    ],
    "first": "07:17",
-   "last": "14:10",
+   "last": "15:12",
    "best": 8,
    "hours": [
     "07:17",
@@ -2641,14 +2682,15 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 26
+    "nate_int": 28
    },
    "count": 1,
    "inrank": true
@@ -2670,7 +2712,7 @@
     }
    ],
    "first": "07:17",
-   "last": "14:10",
+   "last": "15:12",
    "best": 7,
    "hours": [
     "07:17",
@@ -2679,15 +2721,15 @@
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 21
+    "nate_int": 38
    },
    "count": 1,
    "inrank": true
@@ -2923,22 +2965,23 @@
     }
    ],
    "first": "10:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 3,
    "hours": [
     "10:08",
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 14
+    "nate_pop": 19,
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -2973,48 +3016,53 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 27,
-    "nate_int": 33
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c72",
    "title": "'지인 폭행 실형' 정창욱 셰프 근황…뜬금 없는 일상 사진",
    "titles": [
-    "'지인 폭행 실형' 정창욱 셰프 근황…뜬금 없는 일상 사진"
+    "'지인 폭행 실형' 정창욱 셰프 근황…뜬금 없는 일상 사진",
+    "\"소름 돋는다\" 정창욱, 부러진 안경 사진에 반응 '싸늘'…폭행·흉기 협박 ..."
    ],
    "links": [
-    "https://news.nate.com/view/20261023n06929"
+    "https://news.nate.com/view/20261023n06929",
+    "https://news.nate.com/view/20261023n13631"
    ],
    "articles": [
     {
      "title": "'지인 폭행 실형' 정창욱 셰프 근황…뜬금 없는 일상 사진",
      "link": "https://news.nate.com/view/20261023n06929",
      "media": "스포츠서울"
+    },
+    {
+     "title": "\"소름 돋는다\" 정창욱, 부러진 안경 사진에 반응 '싸늘'…폭행·흉기 협박 ...",
+     "link": "https://news.nate.com/view/20261023n13631",
+     "media": "스포츠서울"
     }
    ],
    "first": "10:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 3,
    "hours": [
     "10:08",
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 16
+    "nate_pop": 15,
+    "nate_int": 20
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -3034,22 +3082,22 @@
     }
    ],
    "first": "10:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 5,
    "hours": [
     "10:08",
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 11
+    "nate_int": 26
    },
    "count": 1,
    "inrank": true
@@ -3071,21 +3119,22 @@
     }
    ],
    "first": "10:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 11,
    "hours": [
     "10:08",
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 30
+    "nate_int": 43
    },
    "count": 1,
    "inrank": true
@@ -3185,11 +3234,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c78",
@@ -3208,14 +3255,15 @@
     }
    ],
    "first": "10:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 16,
    "hours": [
     "10:08",
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_int"
@@ -3257,21 +3305,22 @@
     }
    ],
    "first": "10:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 9,
    "hours": [
     "10:08",
     "10:25",
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 9,
+    "nate_pop": 12,
     "nate_int": 9
    },
    "count": 3,
@@ -3362,20 +3411,21 @@
     }
    ],
    "first": "12:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 1,
    "hours": [
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 1
+    "nate_pop": 6,
+    "nate_int": 3
    },
    "count": 2,
    "inrank": true
@@ -3397,20 +3447,21 @@
     }
    ],
    "first": "12:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 2,
    "hours": [
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 2
+    "nate_pop": 8,
+    "nate_int": 6
    },
    "count": 1,
    "inrank": true
@@ -3432,20 +3483,21 @@
     }
    ],
    "first": "12:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 6,
    "hours": [
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 10
+    "nate_pop": 27,
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -3478,11 +3530,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 41
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c86",
@@ -3531,20 +3581,21 @@
     }
    ],
    "first": "12:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 3,
    "hours": [
     "12:08",
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 3
+    "nate_pop": 16,
+    "nate_int": 11
    },
    "count": 1,
    "inrank": true
@@ -3566,19 +3617,20 @@
     }
    ],
    "first": "13:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 13,
    "hours": [
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 13
+    "nate_pop": 22,
+    "nate_int": 18
    },
    "count": 1,
    "inrank": true
@@ -3610,12 +3662,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_pop": 26,
-    "nate_int": 22
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c90",
@@ -3663,17 +3712,18 @@
     }
    ],
    "first": "13:08",
-   "last": "14:10",
+   "last": "15:12",
    "best": 45,
    "hours": [
     "13:08",
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 47
+    "nate_int": 49
    },
    "count": 1,
    "inrank": true
@@ -3695,18 +3745,18 @@
     }
    ],
    "first": "14:10",
-   "last": "14:10",
+   "last": "15:12",
    "best": 13,
    "hours": [
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 15
+    "nate_int": 35
    },
    "count": 1,
    "inrank": true
@@ -3728,18 +3778,18 @@
     }
    ],
    "first": "14:10",
-   "last": "14:10",
+   "last": "15:12",
    "best": 17,
    "hours": [
-    "14:10"
+    "14:10",
+    "15:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 18
+    "nate_int": 33
    },
    "count": 1,
    "inrank": true
@@ -3761,16 +3811,213 @@
     }
    ],
    "first": "14:10",
-   "last": "14:10",
-   "best": 42,
+   "last": "15:12",
+   "best": 17,
    "hours": [
-    "14:10"
+    "14:10",
+    "15:12"
+   ],
+   "srcs": [
+    "nate_int",
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 17,
+    "nate_int": 24
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c95",
+   "title": "[공식] 송혜교, 신생 기획사 STAND와 전속계약…청명한 새 프로필",
+   "titles": [
+    "[공식] 송혜교, 신생 기획사 STAND와 전속계약…청명한 새 프로필"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261023n19063"
+   ],
+   "articles": [
+    {
+     "title": "[공식] 송혜교, 신생 기획사 STAND와 전속계약…청명한 새 프로필",
+     "link": "https://news.nate.com/view/20261023n19063",
+     "media": "OSEN"
+    }
+   ],
+   "first": "15:12",
+   "last": "15:12",
+   "best": 2,
+   "hours": [
+    "15:12"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 2,
+    "nate_int": 4
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c96",
+   "title": "\"오빠\" 이준 턱 매만진 이주빈…심쿵 스킨십에 전현무 \"설렌다\" [현무로드]",
+   "titles": [
+    "\"오빠\" 이준 턱 매만진 이주빈…심쿵 스킨십에 전현무 \"설렌다\" [현무로드]"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261023n18112"
+   ],
+   "articles": [
+    {
+     "title": "\"오빠\" 이준 턱 매만진 이주빈…심쿵 스킨십에 전현무 \"설렌다\" [현무로드]",
+     "link": "https://news.nate.com/view/20261023n18112",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "15:12",
+   "last": "15:12",
+   "best": 7,
+   "hours": [
+    "15:12"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 7,
+    "nate_int": 8
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c97",
+   "title": "서인국, 생일 전날인데 박소담·고윤정에 플렉스…\"털린 사람이 생일이라니...",
+   "titles": [
+    "서인국, 생일 전날인데 박소담·고윤정에 플렉스…\"털린 사람이 생일이라니..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261023n18760"
+   ],
+   "articles": [
+    {
+     "title": "서인국, 생일 전날인데 박소담·고윤정에 플렉스…\"털린 사람이 생일이라니...",
+     "link": "https://news.nate.com/view/20261023n18760",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "15:12",
+   "last": "15:12",
+   "best": 11,
+   "hours": [
+    "15:12"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 11,
+    "nate_int": 21
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c98",
+   "title": "'악플 프리존 오픈' 28기 영숙 '男 옭매지 마' 댓글에 뿔났다 \"이혼도 능력...",
+   "titles": [
+    "'악플 프리존 오픈' 28기 영숙 '男 옭매지 마' 댓글에 뿔났다 \"이혼도 능력..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261023n18694"
+   ],
+   "articles": [
+    {
+     "title": "'악플 프리존 오픈' 28기 영숙 '男 옭매지 마' 댓글에 뿔났다 \"이혼도 능력...",
+     "link": "https://news.nate.com/view/20261023n18694",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "15:12",
+   "last": "15:12",
+   "best": 23,
+   "hours": [
+    "15:12"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 23,
+    "nate_int": 31
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c99",
+   "title": "SM 떠나고 3년만에 대박난 이수만, '골든벨' 이어 이니셜 새겨진 '팔찌' ...",
+   "titles": [
+    "SM 떠나고 3년만에 대박난 이수만, '골든벨' 이어 이니셜 새겨진 '팔찌' ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261023n14326"
+   ],
+   "articles": [
+    {
+     "title": "SM 떠나고 3년만에 대박난 이수만, '골든벨' 이어 이니셜 새겨진 '팔찌' ...",
+     "link": "https://news.nate.com/view/20261023n14326",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "15:12",
+   "last": "15:12",
+   "best": 47,
+   "hours": [
+    "15:12"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 42
+    "nate_int": 47
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c100",
+   "title": "키스 포즈 요청에 부끄럼 타는 변우석",
+   "titles": [
+    "키스 포즈 요청에 부끄럼 타는 변우석"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261023n17250"
+   ],
+   "articles": [
+    {
+     "title": "키스 포즈 요청에 부끄럼 타는 변우석",
+     "link": "https://news.nate.com/view/20261023n17250",
+     "media": "뉴스1"
+    }
+   ],
+   "first": "15:12",
+   "last": "15:12",
+   "best": 50,
+   "hours": [
+    "15:12"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 50
    },
    "count": 1,
    "inrank": true
@@ -3895,9 +4142,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "15:12",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-10-23T14:10:37.907508+09:00",
+ "updated": "2026-10-23T15:12:47.130800+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

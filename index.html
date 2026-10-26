@@ -105,6 +105,8 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .week button.sat b{color:var(--blue)}.week button.sun b{color:var(--accent)}
 .week button.on{background:var(--accent);border-color:var(--accent)}
 .week button.on small,.week button.on b{color:#fff}
+#tFilter .chips,#tFilter2 .chips{flex-wrap:wrap;overflow:visible}
+#newsDays b{font-size:16px}
 .week button:disabled{opacity:.35;cursor:default}
 /* 마트·다이소 */
 .mitem{display:flex;gap:10px;padding:10px 12px;border-bottom:1px solid var(--line);text-decoration:none;color:var(--text);align-items:center}
@@ -305,7 +307,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
   </div>
 
   <div id="s-news" class="sub">
-    <div class="chips" id="newsDays" style="margin-top:10px"></div>
+    <div class="week" id="newsDays" style="margin-top:10px;grid-template-columns:repeat(4,1fr)"></div>
     <input id="newsQ" type="search" placeholder="기사 제목 검색 (예: 시청률, 컴백)">
     <div class="info" id="newsInfo"></div>
     <div class="card" id="newsList"><div class="empty">불러오는 중…</div></div>
@@ -744,8 +746,14 @@ function renderKw(){
 let newsDay = "live", newsRows = [];
 async function loadNews(){
   const idx = await getJSON("data/news_archive/index.json", []);
-  const btn = (k, l, c) => `<button data-k="${k}" class="${newsDay===k?"on":""}">${l}${c!=null?`<small>${c}</small>`:""}</button>`;
-  document.getElementById("newsDays").innerHTML = btn("live","🔥 최근 24시간") + idx.map(x => btn(x.date, shortDay(x.date), x.count)).join("");
+  const WD = "일월화수목금토";
+  const btn = (k, top, big, c) => `<button data-k="${k}" class="${newsDay===k?"on":""}"><small>${top}</small><b>${big}</b>${c!=null?`<small>${c}건</small>`:""}</button>`;
+  const days = idx.slice(0, 3);
+  if (newsDay !== "live" && !days.some(x => x.date === newsDay)) newsDay = "live";
+  document.getElementById("newsDays").innerHTML = btn("live","최근","🔥 24h") + days.map((x, i) => {
+    const d = new Date(x.date + "T00:00:00");
+    return btn(x.date, x.date === todayStr() ? "오늘" : WD[d.getDay()], `${d.getMonth()+1}/${d.getDate()}`, x.count);
+  }).join("");
   document.querySelectorAll("#newsDays button").forEach(b => b.onclick = () => { newsDay = b.dataset.k; loadNews(); });
   const d = newsDay === "live" ? await getJSON("data/news.json", {articles:[]}) : await getJSON(`data/news_archive/${newsDay}.json`, {articles:[]});
   newsRows = d.articles || []; showNews();

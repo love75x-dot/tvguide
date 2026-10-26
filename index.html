@@ -213,7 +213,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .ev .meta{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px;font-size:12px;color:var(--sub);align-items:center}
 .ev .st{flex:none;font-size:12px;font-weight:600;padding:6px 9px;border-radius:8px;border:1px solid var(--line);color:var(--sub)}
 .ev .st.on{border-color:var(--accent);color:var(--accent)}
-#newsQ{width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--text);font-size:14px;margin:8px 0 2px}
+#newsQ,#ecQ{width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--text);font-size:14px;margin:8px 0 2px}
 #newsList{overflow:hidden}
 .nw{display:block;padding:10px 13px;border-bottom:1px solid var(--line);color:var(--text);text-decoration:none;font-size:14px}
 .nw:last-child{border:0}
@@ -337,7 +337,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
     <div class="week" id="ecDays" style="margin-top:10px;grid-template-columns:repeat(4,1fr)"></div>
     <div id="ecDue"></div>
     <div class="chips" id="ecTags" style="margin-top:10px;flex-wrap:wrap"></div>
-    <input id="ecQ" type="search" placeholder="제목 검색 (예: 지원금, 전세, 금리)">
+    <input id="ecQ" style="margin-bottom:8px" type="search" placeholder="제목 검색 (예: 지원금, 전세, 금리)">
     <div class="card" id="ecList"><div class="empty">불러오는 중…</div></div>
   </div>
 </section>

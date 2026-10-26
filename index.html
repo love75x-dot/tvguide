@@ -245,7 +245,6 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 <div class="top"><div class="topin">
   <div class="brand"><h1>📺 방송 편성표</h1><span id="meta">불러오는 중…</span><button id="installBtn" hidden>📲 앱 설치</button></div>
   <nav class="main" id="mainNav">
-    <button data-v="schedule">편성표</button>
     <button data-v="topics">오늘의 소재</button>
     <button data-v="shop">🛍 쇼핑</button>
     <button data-v="image">이미지 합성</button>
@@ -1094,6 +1093,7 @@ if("serviceWorker" in navigator) addEventListener("load", () => navigator.servic
   const last = store.get("lastView", ["schedule","ent"]);
   view = m ? m[1] : last[0]; sub = (m && m[2]) || last[1] || "ent";
   if(!["ent","kw","news","tv"].includes(sub)) sub = "ent";
+  if(view === "schedule"){ view = "topics"; sub = "tv"; }
   go(view, sub);
   await loadBase();
   renderSchedule();

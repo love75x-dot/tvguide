@@ -85,6 +85,16 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .gd.hot{background:var(--warnbg);color:var(--warn)}
 .gd.good{background:var(--okbg);color:var(--ok)}.gd.hard{background:var(--live);color:var(--accent)}.gd.mid{display:none}
 @media(max-width:520px){.kh,details.kr summary{grid-template-columns:1fr 70px 46px 52px;padding-left:10px;padding-right:10px}}
+/* 이미지 합성 장수·배치 */
+.imgsw{display:flex;align-items:center;gap:6px}
+.seg.mini{margin-top:0;padding:2px}
+.seg.mini button{padding:5px 11px;font-size:13px}
+.img-in.n3{grid-template-columns:1fr 1fr 1fr}
+.img-in > div{min-width:0}
+.img-in.n3 .drop{padding:14px 4px;font-size:0}
+.img-in.n3 .drop b{font-size:13px;margin:0}
+.img-in.n3 .zoom{font-size:11px;gap:3px}
+.zoom input{min-width:0;width:100%}
 /* 마트·다이소 */
 .mitem{display:flex;gap:10px;padding:10px 12px;border-bottom:1px solid var(--line);text-decoration:none;color:var(--text);align-items:center}
 .mitem:last-child{border:0}
@@ -328,11 +338,13 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 
 <!-- ===================== 이미지 합성 ===================== -->
 <section class="view" id="v-image">
-  <div class="note">🖼 사진 두 장을 넣으면 왼쪽·오른쪽 반반으로 붙여 줘요. 사진은 서버로 올라가지 않고 <b>이 화면 안에서만</b> 합성돼요.</div>
+  <div class="note">🖼 사진 2~3장을 좌우 또는 위아래로 나란히 붙여 줘요. 아래 <b>장수·배치</b>에서 바꿀 수 있어요. 사진은 서버로 올라가지 않고 <b>이 화면 안에서만</b> 합성돼요.</div>
   <div class="card" style="padding:12px">
     <div class="img-in">
       <div><div class="drop" id="dropL"><b>왼쪽 사진</b>눌러서 고르기 · 끌어다 놓기 · 붙여넣기</div>
         <div class="zoom">확대 <input type="range" id="zoomL" min="1" max="3" step="0.01" value="1"></div></div>
+      <div id="cellC" hidden><div class="drop" id="dropC"><b>가운데 사진</b>눌러서 고르기 · 끌어다 놓기 · 붙여넣기</div>
+        <div class="zoom">확대 <input type="range" id="zoomC" min="1" max="3" step="0.01" value="1"></div></div>
       <div><div class="drop" id="dropR"><b>오른쪽 사진</b>눌러서 고르기 · 끌어다 놓기 · 붙여넣기</div>
         <div class="zoom">확대 <input type="range" id="zoomR" min="1" max="3" step="0.01" value="1"></div></div>
     </div>
@@ -346,6 +358,8 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
       <option value="1080x1350">세로 4:5 (1080×1350)</option>
     </select></label>
     <label><input type="checkbox" id="imgLine" checked> 가운데 흰 줄</label>
+    <div class="imgsw"><span>장수</span><div class="seg mini" id="imgCount"><button data-n="2">2장</button><button data-n="3">3장</button></div></div>
+    <div class="imgsw"><span>배치</span><div class="seg mini" id="imgDir"><button data-d="h">⬌ 좌우</button><button data-d="v">⬍ 위아래</button></div></div>
   </div>
   <div class="card" style="padding:12px">
     <canvas id="cv" width="1200" height="800"></canvas>
@@ -712,33 +726,55 @@ document.getElementById("newsQ").addEventListener("input", showNews);
 
 /* ---------- 이미지 합성 ---------- */
 const cv = document.getElementById("cv"), cx = cv.getContext("2d");
-const slots = { L:{img:null, zoom:1, dx:0, dy:0}, R:{img:null, zoom:1, dx:0, dy:0} };
-let pickSide = "L";
+const blank = () => ({img:null, zoom:1, dx:0, dy:0});
+const slots = { L:blank(), C:blank(), R:blank() };
+let pickSide = "L", imgN = store.get("imgN", 2), imgDir = store.get("imgDir", "h");
+const keys = () => imgN === 3 ? ["L","C","R"] : ["L","R"];
+const LABEL = { h:{L:"왼쪽", C:"가운데", R:"오른쪽"}, v:{L:"위", C:"가운데", R:"아래"} };
 function size(){ const [w,h] = document.getElementById("imgSize").value.split("x").map(Number); return {w,h}; }
+function cells(w, h){            // 각 칸의 위치 [x, y, 너비, 높이]
+  const n = keys().length;
+  return keys().map((k, i) => imgDir === "h" ? [w*i/n, 0, w/n, h] : [0, h*i/n, w, h/n]);
+}
+function syncImgUI(){
+  document.querySelectorAll("#imgCount button").forEach(b => b.classList.toggle("on", +b.dataset.n === imgN));
+  document.querySelectorAll("#imgDir button").forEach(b => b.classList.toggle("on", b.dataset.d === imgDir));
+  document.getElementById("cellC").hidden = imgN !== 3;
+  document.querySelector(".img-in").classList.toggle("n3", imgN === 3);
+  document.querySelector('label:has(#imgLine)').lastChild.textContent = imgN === 3 ? " 사이 흰 줄" : " 가운데 흰 줄";
+  document.getElementById("btnSwap").textContent = imgN === 3 ? "⟳ 순서 돌리기" : imgDir === "h" ? "⇄ 좌우 바꾸기" : "⇅ 위아래 바꾸기";
+}
 function drawImg(){
+  syncImgUI();
   const {w,h} = size(); if(cv.width !== w || cv.height !== h){ cv.width = w; cv.height = h; }
-  const half = w / 2;
   cx.fillStyle = "#f3f4f6"; cx.fillRect(0,0,w,h);
-  ["L","R"].forEach((k, i) => {
-    const s = slots[k], x0 = i * half;
-    cx.save(); cx.beginPath(); cx.rect(x0, 0, half, h); cx.clip();
+  const cs = cells(w, h);
+  keys().forEach((k, i) => {
+    const s = slots[k], [x0, y0, cw, ch] = cs[i];
+    cx.save(); cx.beginPath(); cx.rect(x0, y0, cw, ch); cx.clip();
     if(s.img){
-      const sc = Math.max(half / s.img.width, h / s.img.height) * s.zoom;
+      const sc = Math.max(cw / s.img.width, ch / s.img.height) * s.zoom;
       const iw = s.img.width * sc, ih = s.img.height * sc;
-      const maxX = (iw - half) / 2, maxY = (ih - h) / 2;
+      const maxX = (iw - cw) / 2, maxY = (ih - ch) / 2;
       s.dx = Math.max(-maxX, Math.min(maxX, s.dx)); s.dy = Math.max(-maxY, Math.min(maxY, s.dy));
-      cx.drawImage(s.img, x0 + (half - iw)/2 + s.dx, (h - ih)/2 + s.dy, iw, ih);
+      cx.drawImage(s.img, x0 + (cw - iw)/2 + s.dx, y0 + (ch - ih)/2 + s.dy, iw, ih);
     }else{
-      cx.fillStyle = "#9ca3af"; cx.font = `bold ${Math.round(h/16)}px sans-serif`; cx.textAlign = "center"; cx.textBaseline = "middle";
-      cx.fillText(i ? "오른쪽 사진" : "왼쪽 사진", x0 + half/2, h/2);
+      cx.fillStyle = "#9ca3af"; cx.font = `bold ${Math.round(Math.min(w,h)/16)}px sans-serif`; cx.textAlign = "center"; cx.textBaseline = "middle";
+      cx.fillText(LABEL[imgDir][k] + " 사진", x0 + cw/2, y0 + ch/2);
     }
     cx.restore();
   });
-  if(document.getElementById("imgLine").checked){ cx.fillStyle = "#fff"; cx.fillRect(half - Math.max(2, w/300), 0, Math.max(4, w/150), h); }
-  const ready = slots.L.img && slots.R.img;
+  if(document.getElementById("imgLine").checked){
+    cx.fillStyle = "#fff";
+    for(let i = 1; i < cs.length; i++){
+      if(imgDir === "h"){ const lw = Math.max(4, w/150); cx.fillRect(cs[i][0] - lw/2, 0, lw, h); }
+      else { const lw = Math.max(4, h/150); cx.fillRect(0, cs[i][1] - lw/2, w, lw); }
+    }
+  }
+  const ready = keys().every(k => slots[k].img);
   document.getElementById("btnCopy").disabled = document.getElementById("btnSave").disabled = !ready;
-  ["L","R"].forEach(k => { const d = document.getElementById("drop"+k); d.classList.toggle("has", !!slots[k].img);
-    d.querySelector("b").textContent = (k==="L"?"왼쪽":"오른쪽") + (slots[k].img ? " 사진 ✓ (바꾸려면 누르기)" : " 사진"); });
+  ["L","C","R"].forEach(k => { const d = document.getElementById("drop"+k); d.classList.toggle("has", !!slots[k].img);
+    d.querySelector("b").textContent = LABEL[imgDir][k] + (slots[k].img ? " 사진 ✓" + (imgN === 3 ? "" : " (바꾸려면 누르기)") : " 사진"); });
 }
 function setImage(side, file){
   if(!file || !file.type.startsWith("image/")) return;
@@ -746,7 +782,7 @@ function setImage(side, file){
   img.onload = () => { slots[side] = {img, zoom:1, dx:0, dy:0}; document.getElementById("zoom"+side).value = 1; drawImg(); };
   img.src = url;
 }
-["L","R"].forEach(k => {
+["L","C","R"].forEach(k => {
   const d = document.getElementById("drop"+k);
   d.onclick = () => { pickSide = k; document.getElementById("fileIn").click(); };
   d.ondragover = e => { e.preventDefault(); d.classList.add("over"); };
@@ -754,19 +790,30 @@ function setImage(side, file){
   d.ondrop = e => { e.preventDefault(); d.classList.remove("over"); setImage(k, e.dataTransfer.files[0]); };
   document.getElementById("zoom"+k).oninput = e => { slots[k].zoom = +e.target.value; drawImg(); };
 });
+document.querySelectorAll("#imgCount button").forEach(b => b.onclick = () => { imgN = +b.dataset.n; store.set("imgN", imgN); drawImg(); });
+document.querySelectorAll("#imgDir button").forEach(b => b.onclick = () => {
+  imgDir = b.dataset.d; store.set("imgDir", imgDir);
+  ["L","C","R"].forEach(k => { slots[k].dx = slots[k].dy = 0; });     // 칸 모양이 바뀌니 위치는 처음으로
+  drawImg(); });
 document.getElementById("fileIn").onchange = e => { setImage(pickSide, e.target.files[0]); e.target.value = ""; };
 document.addEventListener("paste", e => {
   if(view !== "image") return;
   const f = [...(e.clipboardData?.items||[])].find(i => i.type.startsWith("image/"))?.getAsFile();
-  if(f){ setImage(!slots.L.img ? "L" : !slots.R.img ? "R" : "L", f); toast("붙여넣었어요"); }
+  if(f){ setImage(keys().find(k => !slots[k].img) || "L", f); toast("붙여넣었어요"); }
 });
 document.getElementById("imgSize").onchange = drawImg;
 document.getElementById("imgLine").onchange = drawImg;
-document.getElementById("btnSwap").onclick = () => { [slots.L, slots.R] = [slots.R, slots.L];
-  document.getElementById("zoomL").value = slots.L.zoom; document.getElementById("zoomR").value = slots.R.zoom; drawImg(); };
-document.getElementById("btnReset").onclick = () => { ["L","R"].forEach(k => { slots[k].zoom = 1; slots[k].dx = slots[k].dy = 0; document.getElementById("zoom"+k).value = 1; }); drawImg(); };
+document.getElementById("btnSwap").onclick = () => {
+  const ks = keys(), vals = ks.map(k => slots[k]);
+  vals.unshift(vals.pop());                                   // 2장: 맞바꾸기, 3장: 한 칸씩 돌리기
+  ks.forEach((k, i) => { slots[k] = vals[i]; document.getElementById("zoom"+k).value = slots[k].zoom; });
+  drawImg(); };
+document.getElementById("btnReset").onclick = () => { ["L","C","R"].forEach(k => { slots[k].zoom = 1; slots[k].dx = slots[k].dy = 0; document.getElementById("zoom"+k).value = 1; }); drawImg(); };
 let drag = null;
-cv.addEventListener("pointerdown", e => { const r = cv.getBoundingClientRect(); const side = (e.clientX - r.left) < r.width/2 ? "L" : "R";
+cv.addEventListener("pointerdown", e => {
+  const r = cv.getBoundingClientRect(), n = keys().length;
+  const pos = imgDir === "h" ? (e.clientX - r.left) / r.width : (e.clientY - r.top) / r.height;
+  const side = keys()[Math.min(n - 1, Math.max(0, Math.floor(pos * n)))];
   if(!slots[side].img) return; drag = {side, x:e.clientX, y:e.clientY, k: cv.width / r.width}; cv.setPointerCapture(e.pointerId); });
 cv.addEventListener("pointermove", e => { if(!drag) return; const s = slots[drag.side];
   s.dx += (e.clientX - drag.x) * drag.k; s.dy += (e.clientY - drag.y) * drag.k; drag.x = e.clientX; drag.y = e.clientY; drawImg(); });

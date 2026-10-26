@@ -13,7 +13,7 @@ import time
 import trends as T
 import hub as H
 
-VERSION = 1
+VERSION = 2
 SHOPDIR = T.DATA / "shopping"
 CONF = T.ROOT / "config" / "shopping.json"
 PROBE = T.DATA / "shopping_probe.json"
@@ -51,20 +51,26 @@ def series_of(result, days):
     return [m.get(d, 0.0) for d in days]
 
 
+def pct(now, base):
+    return round((now - base) / base * 100) if base > 0.5 else (100 if now > 0.5 else 0)
+
+
 def score(s):
+    """s 마지막 값 = 어제(확정치). d1 = 전날 대비, w1 = 지난주 7일 평균 대비"""
     pop = round(sum(s[-7:]) / 7, 1)
-    recent, before = sum(s[-3:]) / 3, sum(s[-10:-3]) / 7
-    rise = round((recent - before) / before * 100) if before > 0.5 else (100 if recent > 0.5 else 0)
-    return pop, rise
+    d1 = pct(s[-1], s[-2])
+    w1 = pct(s[-1], sum(s[-8:-1]) / 7)
+    return pop, d1, w1
 
 
 def collect():
     if not __import__("os").getenv("NAVER_HUB_ID"):
         return
     f = SHOPDIR / f"{T.TODAY}.json"
-    if f.exists() and T.load(f, {}).get("ver") == VERSION:
-        return
     end = T.TODAY - dt.timedelta(days=1)
+    old = T.load(f, {}) if f.exists() else {}
+    if old.get("ver") == VERSION and old.get("range", [None, None])[1] == str(end):
+        return                                      # 어제 확정치까지 이미 반영됨
     start = end - dt.timedelta(days=29)
     days = [str(start + dt.timedelta(days=i)) for i in range(30)]
     prefix = find_prefix(start, end)
@@ -92,12 +98,21 @@ def collect():
             if n in res:
                 cat_series[n] = [v * base / am for v in res[n]]
         time.sleep(0.15)
+    # 어제 자료가 아직 안 올라왔으면(전부 0) 그 날은 빼고 계산 → 다음 시간에 다시 시도
+    nd = len(days)
+    while nd > 10 and all((s[nd - 1] if len(s) >= nd else 0) == 0 for s in cat_series.values()):
+        nd -= 1
+    days = days[:nd]
+    cat_series = {k: v[:nd] for k, v in cat_series.items()}
+    if old.get("ver") == VERSION and old.get("range", [None, None])[1] == days[-1]:
+        print(f"  (쇼핑: {end} 자료가 아직 없어요, 다음에 다시 시도)")
+        return
     top = max((max(s) for s in cat_series.values() if s), default=1) or 1
     cats = []
     for n, s in cat_series.items():
         s = [round(v / top * 100, 1) for v in s]
-        pop, rise = score(s)
-        cats.append({"name": n, "code": cfg[n]["code"], "pop": pop, "rise": rise, "spark": s[-14:]})
+        pop, d1, w1 = score(s)
+        cats.append({"name": n, "code": cfg[n]["code"], "pop": pop, "rise": d1, "d1": d1, "w1": w1, "spark": s[-14:]})
     cats.sort(key=lambda c: -c["pop"])
 
     # 2) 분야별 상품 키워드 클릭 추이 (한 번에 최대 5개 → 첫 키워드 기준으로 맞춤)
@@ -134,14 +149,14 @@ def collect():
         rows = []
         for k, s in ser.items():
             s = [round(v / top * 100, 1) for v in s]
-            pop, rise = score(s)
+            pop, d1, w1 = score(s)
             try:
                 blog, _ = H.search_total("blog", f"{k} 후기")
             except Exception:
                 blog = None
             time.sleep(0.05)
             opp = round(pop / math.log10((blog or 0) + 10), 2) if pop else 0
-            rows.append({"keyword": k, "pop": pop, "rise": rise, "spark": s[-14:], "blog": blog,
+            rows.append({"keyword": k, "pop": pop, "rise": d1, "d1": d1, "w1": w1, "spark": s[-14:], "blog": blog,
                          "opp": opp, "hot": k in hot and k not in seeds})
         rows.sort(key=lambda r: -r["pop"])
         groups.append({"name": n, "code": c["code"], "keywords": rows})
@@ -153,6 +168,6 @@ def collect():
             for r in g["keywords"]:
                 r["grade"] = "good" if r["opp"] >= hi else "hard" if r["opp"] < lo else "mid"
     T.save(f, {"date": str(T.TODAY), "ver": VERSION, "updated": T.NOW.isoformat(),
-               "range": [str(start), str(end)], "categories": cats, "groups": groups})
+               "range": [str(start), days[-1]], "categories": cats, "groups": groups})
     T.save(SHOPDIR / "index.json", [p.stem for p in sorted(SHOPDIR.glob("????-??-??.json"), reverse=True)[:60]])
     print(f"[OK] 쇼핑: 분야 {len(cats)}개, 키워드 {sum(len(g['keywords']) for g in groups)}개")

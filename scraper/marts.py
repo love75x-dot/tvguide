@@ -124,6 +124,80 @@ def naver_recent(kind, query, n=12):
     return out
 
 
+# ---------------- 할인 행사 기사 ----------------
+DEAL_EVENTS = [("넾다세일", "넾다세일", ["넾다세일", "넾다 세일"]),
+               ("블프", "블랙프라이데이 할인", ["블랙프라이데이", "블프"]),
+               ("쓱데이", "쓱데이", ["쓱데이"]),
+               ("코세페", "코리아세일페스타", ["코리아세일페스타", "코세페"]),
+               ("십일절", "십일절 할인", ["십일절"]),
+               ("빅스마일", "빅스마일데이", ["빅스마일"])]
+DEAL_TOPICS = [("대형마트", ["이마트 할인 행사", "홈플러스 할인 행사", "롯데마트 할인 행사"]),
+               ("편의점", ["편의점 할인 행사"]),
+               ("온라인몰", ["쿠팡 할인 행사", "온라인 쇼핑 할인 행사"])]
+DEAL_END = re.compile(r"(?:~|∼|부터\s*)?(\d{1,2})월\s*(\d{1,2})일\s*까지|~\s*(\d{1,2})[./](\d{1,2})")
+
+
+def news_items(query, n=30):
+    _, path = H.ROUTES["news"]
+    r = T.S.get(H.BASE + path, params={"query": query, "display": n, "sort": "date"}, headers=H.headers(), timeout=20)
+    r.raise_for_status()
+    out = []
+    for i in r.json().get("items", []):
+        try:
+            t = dt.datetime.strptime(i["pubDate"], "%a, %d %b %Y %H:%M:%S %z")
+        except Exception:
+            continue
+        out.append({"title": T.txt(i.get("title")), "desc": T.txt(i.get("description")),
+                    "link": i.get("originallink") or i.get("link"), "t": t.isoformat(),
+                    "by": re.sub(r"^(?:www|m|news)\.", "", (re.search(r"//([^/]+)", i.get("originallink") or "") or [None, ""])[1])})
+    return out
+
+
+def deals():
+    cut = (T.NOW - dt.timedelta(days=3)).isoformat()
+    arts, events = {}, []
+    def add(items, tag):
+        for a in items:
+            if a["t"] < cut:
+                continue
+            k = re.sub(r"[^가-힣a-zA-Z0-9]", "", a["title"])[:24]
+            if k in arts:
+                if tag not in arts[k]["tags"]:
+                    arts[k]["tags"].append(tag)
+                continue
+            a["tags"] = [tag]
+            arts[k] = a
+    for name, q, words in DEAL_EVENTS:
+        items = [a for a in (safe(news_items, q)[0] or []) if any(w in a["title"] + a["desc"] for w in words)]
+        add(items, name)
+        recent = [a for a in items if a["t"] >= cut]
+        if len(recent) >= 2:
+            ends = {}
+            for a in recent:
+                for m in DEAL_END.finditer(a["title"] + " " + a["desc"]):
+                    mo, d = int(m.group(1) or m.group(3)), int(m.group(2) or m.group(4))
+                    if 1 <= mo <= 12 and 1 <= d <= 31:
+                        y = T.TODAY.year + (1 if mo < T.TODAY.month - 6 else 0)
+                        try:
+                            e = dt.date(y, mo, d)
+                        except ValueError:
+                            continue
+                        if e >= T.TODAY - dt.timedelta(days=1):
+                            ends[str(e)] = ends.get(str(e), 0) + 1
+            end = max(ends, key=lambda k: (ends[k], k)) if ends else None
+            events.append({"name": name, "count": len(recent), "end": end, "latest": max(a["t"] for a in recent)})
+        time.sleep(0.1)
+    for name, qs in DEAL_TOPICS:
+        for q in qs:
+            add([a for a in (safe(news_items, q, 20)[0] or []) if re.search(r"할인|세일|특가|행사|반값|1\+1", a["title"])], name)
+            time.sleep(0.1)
+    rows = sorted(arts.values(), key=lambda a: a["t"], reverse=True)[:150]
+    for a in rows:
+        a.pop("desc", None)
+    events.sort(key=lambda e: (e["end"] is None, e["end"] or "", -e["count"]))
+    return {"events": events, "articles": rows}
+
+
 def safe(fn, *a, **k):
     try:
         return fn(*a, **k), None
@@ -164,6 +238,7 @@ def collect(force=False):
     for key, q in [("costco", "코스트코 추천템"), ("traders", "트레이더스 추천템"), ("daiso", "다이소 신상")]:
         blogs[key], _ = safe(naver_recent, "blog", q)
     tnews, _ = safe(naver_recent, "news", "트레이더스 할인 행사")
+    deal, errors["deals"] = safe(deals) if os.getenv("NAVER_HUB_ID") else (None, None)
 
     # 처음 본 날짜 기록 → NEW 표시와 알림
     seen = T.load(SEEN, {})
@@ -180,6 +255,13 @@ def collect(force=False):
         # 오래된 기록 정리(60일)
         cut = str(T.TODAY - dt.timedelta(days=60))
         seen[key] = {k: v for k, v in book.items() if v >= cut or k in {x["id"] for x in items}}
+    new_events = []
+    if deal:
+        ev_seen = seen.setdefault("deal_events", {})
+        for e in deal["events"]:
+            if e["name"] not in ev_seen or ev_seen[e["name"]] < str(T.TODAY - dt.timedelta(days=20)):
+                new_events.append(e)
+            ev_seen[e["name"]] = str(T.TODAY)
     hol_key = json.dumps(hol, ensure_ascii=False) if hol else None
     hol_changed = hol and seen.get("traders_holiday") != hol_key
     if hol:
@@ -194,6 +276,7 @@ def collect(force=False):
         "traders": {"holiday": hol or (prev.get("traders") or {}).get("holiday"),
                     "news": tnews or [], "blog": blogs.get("traders") or []},
         "daiso": {"exhibits": keep(exb, "daiso", "exhibits"), "blog": blogs.get("daiso") or []},
+        "deals": deal or prev.get("deals") or {"events": [], "articles": []},
         "errors": {k: v for k, v in errors.items() if v},
     }
     T.save(OUT, data)
@@ -223,6 +306,12 @@ def collect(force=False):
         for x in d[:8]:
             lines.append(f"• <a href=\"{x['url']}\">{html.escape(x['name'])}</a>"
                          + (f" (오픈 {x['start'][5:]})" if x["upcoming"] else ""))
+    if new_events:
+        lines.append(f"\n🔥 <b>새 할인 행사 소식</b>")
+        for e in new_events:
+            top = next((a for a in data["deals"]["articles"] if e["name"] in a["tags"]), None)
+            lines.append(f"• <b>{html.escape(e['name'])}</b>" + (f" (~{e['end'][5:]})" if e["end"] else "")
+                         + (f" — <a href=\"{top['link']}\">{html.escape(top['title'])}</a>" if top else ""))
     if hol_changed and hol:
         lines.append(f"\n📅 <b>{html.escape(hol['title'] or '트레이더스 휴점일')}</b>")
         for r in hol["rows"]:

@@ -223,7 +223,7 @@ def won(v):
 
 def collect(force=False):
     prev = T.load(OUT, {})
-    if not force and prev and T.NOW.hour not in RUN_HOURS:
+    if not force and prev and "deals" in prev and T.NOW.hour not in RUN_HOURS:
         return
     if not force and prev.get("slot") == f"{T.TODAY} {T.NOW.hour}":
         return

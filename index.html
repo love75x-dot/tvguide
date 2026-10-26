@@ -653,7 +653,7 @@ function renderEnt(){
   document.getElementById("entPrev").disabled = i < 0 || i >= ds.length - 1;
   document.getElementById("entNext").disabled = i <= 0;
   const strip = document.getElementById("entStrip");
-  const sh = entDay === todayStr() ? stripHtml() : "";
+  const sh = "";
   strip.hidden = !sh; strip.innerHTML = sh;
   const list = document.getElementById("entList");
   if(!entData){ list.innerHTML = '<div class="card empty">아직 이 날 수집된 소재가 없어요. 다음 정시 수집 후 나타나요.</div>'; document.getElementById("entInfo").textContent=""; return; }

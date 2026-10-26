@@ -121,6 +121,12 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .evgrid b{display:block;font-size:14px}.evgrid small{color:var(--sub)}
 .dd{display:inline-block;margin-top:5px;font-size:11px;font-weight:700;border-radius:6px;padding:2px 6px;background:var(--accent);color:#fff}
 .dd.soon{background:var(--line);color:var(--sub)}
+#subNav{grid-template-columns:repeat(5,1fr)}#subNav button{font-size:13px;white-space:nowrap;padding-left:0;padding-right:0}
+.ecdue{display:grid;grid-template-columns:1fr auto;gap:10px;align-items:center;padding:11px 14px;border-top:1px solid var(--line);color:inherit;text-decoration:none}
+.ecdue:first-child{border-top:0}.ecdue small{display:block;color:var(--sub);font-size:12px;margin-top:3px}
+.ecdue .dd{font-size:12px}
+.lb{display:inline-block;font-size:11px;font-weight:700;border-radius:5px;padding:1px 6px;margin-right:5px;vertical-align:1px;background:var(--line);color:var(--sub)}
+.lb.gov{background:#eaf1fd;color:#2f6fdc}.lb.fact{background:#fff1d6;color:#b45309}
 .week button:disabled{opacity:.35;cursor:default}
 /* 마트·다이소 */
 .mitem{display:flex;gap:10px;padding:10px 12px;border-bottom:1px solid var(--line);text-decoration:none;color:var(--text);align-items:center}
@@ -285,6 +291,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
     <button data-s="ent">연예 실시간</button>
     <button data-s="kw">키워드</button>
     <button data-s="news">기사 모음</button>
+    <button data-s="econ">경제</button>
     <button data-s="tv">편성표</button>
   </div>
 
@@ -324,6 +331,14 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
     <input id="newsQ" type="search" placeholder="기사 제목 검색 (예: 시청률, 컴백)">
     <div class="info" id="newsInfo"></div>
     <div class="card" id="newsList"><div class="empty">불러오는 중…</div></div>
+  </div>
+
+  <div id="s-econ" class="sub">
+    <div class="week" id="ecDays" style="margin-top:10px;grid-template-columns:repeat(4,1fr)"></div>
+    <div id="ecDue"></div>
+    <div class="chips" id="ecTags" style="margin-top:10px;flex-wrap:wrap"></div>
+    <input id="ecQ" type="search" placeholder="제목 검색 (예: 지원금, 전세, 금리)">
+    <div class="card" id="ecList"><div class="empty">불러오는 중…</div></div>
   </div>
 </section>
 
@@ -451,7 +466,7 @@ function go(v, s){
   const h = view === "topics" ? `#topics/${sub}` : `#${view}`;
   if(location.hash !== h) history.replaceState(null, "", h);
   store.set("lastView", [view, sub]);
-  if(view === "topics"){ ({ent: loadEnt, kw: loadKw, news: loadNews, tv: renderWeek})[sub](); }
+  if(view === "topics"){ ({ent: loadEnt, kw: loadKw, news: loadNews, econ: loadEcon, tv: renderWeek})[sub](); }
   if(view === "schedule") renderSchedule();
   if(view === "image") drawImg();
   if(view === "table") tbRender();
@@ -787,6 +802,45 @@ function showNews(){
     || '<div class="empty">해당하는 기사가 없어요.</div>';
 }
 document.getElementById("newsQ").addEventListener("input", showNews);
+
+/* ---------- 경제·정책 ---------- */
+let ecDay = "live", ecTag = "all", ecRows = [];
+const EC_ORDER = ["정부 정책","지원금·복지","부동산","금리·물가","주식·환율","세금·연금","사실은 이렇습니다"];
+async function loadEcon(){
+  const idx = await getJSON("data/econ/index.json", []);
+  const WD = "일월화수목금토", days = idx.slice(0, 3);
+  if(ecDay !== "live" && !days.some(x => x.date === ecDay)) ecDay = "live";
+  const btn = (k, top, big, c) => `<button data-k="${k}" class="${ecDay===k?"on":""}"><small>${top}</small><b>${big}</b>${c!=null?`<small>${c}건</small>`:""}</button>`;
+  document.getElementById("ecDays").innerHTML = btn("live","최근","🔥 24h") + days.map(x => { const d = new Date(x.date + "T00:00:00");
+    return btn(x.date, x.date === todayStr() ? "오늘" : WD[d.getDay()], `${d.getMonth()+1}/${d.getDate()}`, x.count); }).join("");
+  document.querySelectorAll("#ecDays button").forEach(b => b.onclick = () => { ecDay = b.dataset.k; loadEcon(); });
+  let rows = [];
+  if(ecDay === "live"){
+    const fs = await Promise.all(idx.slice(0, 2).map(x => getJSON(`data/econ/${x.date}.json`, {articles:[]})));
+    const cut = Date.now() - 864e5; rows = fs.flatMap(f => f.articles || []).filter(a => new Date(a.t) >= cut);
+  } else rows = (await getJSON(`data/econ/${ecDay}.json`, {articles:[]})).articles || [];
+  // 마감 임박은 날짜 버튼과 상관없이 최근 3일치 전부에서
+  const all = (await Promise.all(idx.slice(0, 3).map(x => getJSON(`data/econ/${x.date}.json`, {articles:[]})))).flatMap(f => f.articles || []);
+  const seen = new Set(), due = all.filter(a => a.end && a.end >= todayStr()).sort((a,b) => a.end.localeCompare(b.end))
+    .filter(a => { const k = a.title.replace(/[^가-힣a-zA-Z0-9]/g,"").slice(0,14); if(seen.has(k)) return false; seen.add(k); return true; }).slice(0, 8);
+  document.getElementById("ecDue").innerHTML = due.length ? `<div class="sec"><h2>⏰ 신청 마감 임박</h2></div><div class="card">${due.map(a =>
+    `<a class="ecdue" href="${esc(a.link)}" target="_blank" rel="noopener"><span>${esc(a.title)}<small>${esc(a.by||"")} · 신청 ~${+a.end.slice(5,7)}/${+a.end.slice(8)}</small></span><span class="dd">${dleft(a.end)}</span></a>`).join("")}</div>` : "";
+  ecRows = rows.sort((a,b) => b.t.localeCompare(a.t)); showEcon();
+}
+function showEcon(){
+  const cnt = {}; ecRows.forEach(a => a.tags.forEach(t => cnt[t] = (cnt[t]||0) + 1));
+  if(ecTag !== "all" && !cnt[ecTag]) ecTag = "all";
+  document.getElementById("ecTags").innerHTML = [["all","전체",ecRows.length], ...EC_ORDER.filter(k => cnt[k]).map(k => [k,k,cnt[k]])].map(([k,l,n]) =>
+    `<button class="${k===ecTag?"on":""}" data-k="${esc(k)}">${esc(l)}<small>${n}</small></button>`).join("");
+  document.querySelectorAll("#ecTags button").forEach(b => b.onclick = () => { ecTag = b.dataset.k; showEcon(); });
+  const q = document.getElementById("ecQ").value.trim().toLowerCase();
+  const rows = ecRows.filter(a => (ecTag === "all" || a.tags.includes(ecTag)) && (!q || a.title.toLowerCase().includes(q)));
+  const ago = t => { const m = Math.round((Date.now() - new Date(t)) / 6e4); return m < 60 ? Math.max(m,1) + "분 전" : m < 1440 ? Math.floor(m/60) + "시간 전" : hm(new Date(t)); };
+  document.getElementById("ecList").innerHTML = rows.slice(0, 300).map(a => { const fact = a.tags.includes("사실은 이렇습니다");
+    return `<a class="nw" href="${esc(a.link)}" target="_blank" rel="noopener">${fact ? '<span class="lb fact">사실은</span>' : a.gov ? '<span class="lb gov">정책브리핑</span>' : ""}${(Date.now() - new Date(a.t)) < 2*36e5 ? '<span class="badge red" style="margin-right:4px">NEW</span>' : ""}${esc(a.title)}<small>${esc(a.by||"")} · ${ago(a.t)} · ${a.tags.map(t => "#" + esc(t)).join(" ")}${a.end ? ` · 신청 ~${+a.end.slice(5,7)}/${+a.end.slice(8)}` : ""}</small></a>`; }).join("")
+    || '<div class="empty">아직 모인 글이 없어요. 매시간 자동으로 모아요.</div>';
+}
+document.getElementById("ecQ").addEventListener("input", showEcon);
 
 /* ---------- 이미지 합성 ---------- */
 const cv = document.getElementById("cv"), cx = cv.getContext("2d");
@@ -1140,10 +1194,10 @@ if("serviceWorker" in navigator) addEventListener("load", () => navigator.servic
 
 /* ---------- 시작 ---------- */
 (async () => {
-  const m = location.hash.match(/^#(schedule|topics|shop|image|table)(?:\/(ent|kw|news|tv))?/);
+  const m = location.hash.match(/^#(schedule|topics|shop|image|table)(?:\/(ent|kw|news|econ|tv))?/);
   const last = store.get("lastView", ["schedule","ent"]);
   view = m ? m[1] : last[0]; sub = (m && m[2]) || last[1] || "ent";
-  if(!["ent","kw","news","tv"].includes(sub)) sub = "ent";
+  if(!["ent","kw","news","econ","tv"].includes(sub)) sub = "ent";
   if(view === "schedule"){ view = "topics"; sub = "tv"; }
   go(view, sub);
   await loadBase();

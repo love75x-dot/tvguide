@@ -57,21 +57,24 @@ def korea_list(url):
     r = T.S.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0", "Referer": "https://www.korea.kr/"})
     r.raise_for_status()
     raw = r.text
+    view = re.search(r"/(\w+)List\.do", url)[1] + "View.do"        # 그 목록의 글만 (사이드바·인기글 제외)
     out, seen = [], set()
     for m in re.finditer(r'<a[^>]+href="([^"]*?newsId=(\d+)[^"]*)"[^>]*>(.*?)</a>', raw, re.S):
         href, nid, inner = m.groups()
-        if nid in seen:
+        if nid in seen or view not in href:
             continue
         block = raw[m.start():m.end() + 600]
         title = T.txt((re.search(r'<strong[^>]*>(.*?)</strong>', inner, re.S) or [None, ""])[1]) or T.txt(inner)
         title = re.sub(r"\s+", " ", title).strip()
+        title = re.sub(r"\s*(?:순위동일|NEW|▲\d+|▼\d+)$", "", title)
         if len(title) < 8:
             continue
         dm = re.search(r"(20\d\d)\.(\d\d)\.(\d\d)", block)
         tm = re.search(r"\b(\d\d):(\d\d)\b", block)
-        if dm:
-            t = dt.datetime(int(dm[1]), int(dm[2]), int(dm[3]), int(tm[1]) if tm else 9, int(tm[2]) if tm else 0, tzinfo=KST)
-        else:
+        if not dm:
+            continue
+        t = dt.datetime(int(dm[1]), int(dm[2]), int(dm[3]), int(tm[1]) if tm else 9, int(tm[2]) if tm else 0, tzinfo=KST)
+        if t > T.NOW:
             t = T.NOW
         dept = T.txt((re.search(r'class="(?:source|dept|ministry)[^"]*"[^>]*>(.*?)<', block, re.S) or [None, ""])[1])
         link = html.unescape(href if href.startswith("http") else "https://www.korea.kr" + (href if href.startswith("/") else "/" + href))

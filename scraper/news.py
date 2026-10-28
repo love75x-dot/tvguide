@@ -76,11 +76,11 @@ def norm(t):
     return re.sub(r"[\W_]+", "", re.sub(r"\[[^\]]*\]", "", t))[:40]
 
 
-def telegram(items):
+def telegram(items, test=False):
     token, chat = os.getenv("TELEGRAM_BOT_TOKEN"), os.getenv("TELEGRAM_CHAT_ID")
     if not (token and chat) or not items:
         return
-    lines = [f"🎬 새 드라마 이슈 {len(items)}건"]
+    lines = [("🧪 [테스트] " if test else "") + f"🎬 새 드라마 이슈 {len(items)}건"]
     for a in items:
         lines.append(f"\n• <a href=\"{html.escape(a['link'])}\">{html.escape(a['title'])}</a>"
                      f" <i>({html.escape(a['source'] or a['keyword'])})</i>")
@@ -136,9 +136,15 @@ def main():
 
     new = [a for a in fresh if norm(a["title"]) not in seen]
     print(f"수집 {len(fresh)}건, 새 기사 {len(new)}건")
-    if not first_run:   # 첫 실행은 기존 기사로 알림 폭탄이 가지 않도록 건너뜀
+    drama = lambda a: a["keyword"].startswith("드라마") or DRAMA.search(a["title"])
+    if os.getenv("NEWS_TEST") == "1":
         try:
-            telegram([a for a in new if a["keyword"].startswith("드라마") or DRAMA.search(a["title"])][:MAX_ALERT])
+            telegram([a for a in fresh if drama(a)][:5], test=True)
+        except Exception as e:
+            print(f"::warning::텔레그램 테스트 실패: {e}")
+    elif not first_run:   # 첫 실행은 기존 기사로 알림 폭탄이 가지 않도록 건너뜀
+        try:
+            telegram([a for a in new if drama(a)][:MAX_ALERT])
         except Exception as e:
             print(f"::warning::텔레그램 전송 실패: {e}")
 

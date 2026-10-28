@@ -8,6 +8,9 @@ on:
       digest_test:
         description: "편성표 발송 테스트 (8 또는 19 입력, 비우면 평소대로)"
         required: false
+      news_test:
+        description: "드라마 이슈 알림 테스트 (1 입력 시 최근 드라마 기사 5건 발송)"
+        required: false
 
 permissions:
   contents: write
@@ -29,6 +32,7 @@ jobs:
       - name: 연예 이슈 수집 + 알림
         run: python scraper/news.py
         env:
+          NEWS_TEST: ${{ github.event.inputs.news_test }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}

@@ -27,7 +27,10 @@ SEEN = ROOT / "data" / "news_seen.json"
 ARCHIVE = ROOT / "data" / "news_archive"   # 날짜별 지난 이슈 보관
 
 # 수집할 키워드 (원하는 대로 수정)
-KEYWORDS = ["연예", "드라마 시청률", "예능", "아이돌 컴백", "열애", "결혼 발표"]
+KEYWORDS = ["연예", "드라마", "드라마 시청률", "드라마 캐스팅", "예능", "아이돌 컴백", "열애", "결혼 발표"]
+# 텔레그램 알림은 드라마 이슈만 (사이트 기사 모음에는 전부 보여줌)
+DRAMA = re.compile(r"드라마|시청률|캐스팅|주연|출연 확정|첫\s?방송|첫방|종영|최종회|대본\s?리딩|미니시리즈|주말극|일일극|OST|"
+                   r"넷플릭스|티빙|디즈니\+|쿠팡플레이|웨이브|시즌\s?\d|\d+회")
 KEEP_HOURS = 24          # 페이지에 보여줄 기간
 MAX_ALERT = 15           # 한 번에 보낼 최대 알림 수
 HEADERS = {"User-Agent": "Mozilla/5.0 tvguide-news"}
@@ -77,7 +80,7 @@ def telegram(items):
     token, chat = os.getenv("TELEGRAM_BOT_TOKEN"), os.getenv("TELEGRAM_CHAT_ID")
     if not (token and chat) or not items:
         return
-    lines = [f"📺 새 연예 이슈 {len(items)}건"]
+    lines = [f"🎬 새 드라마 이슈 {len(items)}건"]
     for a in items:
         lines.append(f"\n• <a href=\"{html.escape(a['link'])}\">{html.escape(a['title'])}</a>"
                      f" <i>({html.escape(a['source'] or a['keyword'])})</i>")
@@ -135,7 +138,7 @@ def main():
     print(f"수집 {len(fresh)}건, 새 기사 {len(new)}건")
     if not first_run:   # 첫 실행은 기존 기사로 알림 폭탄이 가지 않도록 건너뜀
         try:
-            telegram(new[:MAX_ALERT])
+            telegram([a for a in new if a["keyword"].startswith("드라마") or DRAMA.search(a["title"])][:MAX_ALERT])
         except Exception as e:
             print(f"::warning::텔레그램 전송 실패: {e}")
 

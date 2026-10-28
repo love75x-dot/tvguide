@@ -954,7 +954,7 @@ let shopSub = store.get("shopSub", "trend"), mart = store.get("mart", "costco"),
 document.querySelectorAll("#shopNav button").forEach(b => b.onclick = () => { shopSub = b.dataset.s; store.set("shopSub", shopSub); loadShop(); });
 document.querySelectorAll("#martTabs button").forEach(b => b.onclick = () => { mart = b.dataset.m; store.set("mart", mart); mLimit = 40; renderMart(); });
 const won = v => v ? Number(v).toLocaleString() + "원" : "";
-const dleft = e => { if(!e) return ""; const d = Math.round((new Date(e + "T23:59:59+09:00") - new Date()) / 864e5); return d < 0 ? "종료" : d === 0 ? "오늘 마감" : `D-${d}`; };
+const dleft = e => { if(!e) return ""; const d = Math.round((new Date(e + "T23:59:59+09:00") - new Date()) / 864e5); return d < 0 ? "종료" : d === 0 ? "오늘 마감" : `${d}일 남음`; };
 const isNew = f => f && (new Date() - new Date(f + "T00:00:00+09:00")) < 3 * 864e5;
 const postList = (arr, empty) => (arr && arr.length) ? arr.map(p => `<a class="nw" href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.title)}<small>${esc(p.by || "")}${p.by && p.date ? " · " : ""}${esc(p.date || "")}</small></a>`).join("") : `<div class="empty">${empty}</div>`;
 async function loadMart(){ martData = await getJSON("data/marts.json", null); renderMart(); }
@@ -1008,7 +1008,7 @@ function drawDeals(body){
   const cnt = {}; arts.forEach(a => a.tags.forEach(t => cnt[t] = (cnt[t]||0) + 1));
   if(dTag !== "all" && !cnt[dTag]) dTag = "all";
   const ago = t => { const m = Math.round((new Date() - new Date(t)) / 6e4); return m < 60 ? `${Math.max(m,1)}분 전` : m < 1440 ? `${Math.round(m/60)}시간 전` : `${Math.round(m/1440)}일 전`; };
-  const ev = (D.events || []).map(e => `<button data-t="${esc(e.name)}" class="${dTag===e.name?"on":""}"><b>${esc(e.name)}</b><small>${e.end ? "~" + (+e.end.slice(5,7)) + "/" + (+e.end.slice(8)) : "기사 " + e.count + "건"}</small><br>
+  const ev = (D.events || []).map(e => `<button data-t="${esc(e.name)}" class="${dTag===e.name?"on":""}"><b>${esc(e.name)}</b><small>${e.end ? (+e.end.slice(5,7)) + "/" + (+e.end.slice(8)) + "까지" : "기사 " + e.count + "건"}</small><br>
      <span class="dd ${e.end?"":"soon"}">${e.end ? dleft(e.end) : "날짜 미정"}</span></button>`).join("");
   const order = [...(D.events||[]).map(e => e.name), "대형마트", "편의점", "온라인몰"].filter(k => cnt[k]);
   const list = arts.filter(a => dTag === "all" || a.tags.includes(dTag));

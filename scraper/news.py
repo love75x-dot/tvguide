@@ -27,13 +27,52 @@ SEEN = ROOT / "data" / "news_seen.json"
 ARCHIVE = ROOT / "data" / "news_archive"   # 날짜별 지난 이슈 보관
 
 # 수집할 키워드 (원하는 대로 수정)
-KEYWORDS = ["연예", "드라마", "드라마 시청률", "드라마 캐스팅", "예능", "아이돌 컴백", "열애", "결혼 발표"]
+KEYWORDS = ["연예", "드라마", "드라마 시청률", "예능", "아이돌 컴백", "열애", "결혼 발표"]
 # 텔레그램 알림은 드라마 이슈만 (사이트 기사 모음에는 전부 보여줌)
 DRAMA = re.compile(r"드라마|시청률|캐스팅|주연|출연 확정|첫\s?방송|첫방|종영|최종회|대본\s?리딩|미니시리즈|주말극|일일극|OST|"
                    r"넷플릭스|티빙|디즈니\+|쿠팡플레이|웨이브|시즌\s?\d|\d+회")
 KEEP_HOURS = 24          # 페이지에 보여줄 기간
 MAX_ALERT = 15           # 한 번에 보낼 최대 알림 수
 HEADERS = {"User-Agent": "Mozilla/5.0 tvguide-news"}
+
+
+def airing_dramas():
+    """지금 방영 중인 드라마 제목 (닐슨 시청률 표의 '○○드라마(제목)' + 편성표의 '일일·주말드라마 제목' + config/dramas.json)"""
+    names = set()
+    try:
+        r = json.loads((ROOT / "data" / "ratings.json").read_text(encoding="utf-8"))
+        for rows in list(r.get("days", {}).values())[-10:]:
+            for x in rows:
+                p = x["program"]
+                try:
+                    p = p.encode("latin-1").decode("utf-8")     # 예전 깨진 자료 대비
+                except Exception:
+                    pass
+                m = re.search(r"드라마\(([^)]+)\)", p)
+                if m:
+                    names.add(m.group(1))
+    except Exception as e:
+        print(f"  (시청률 읽기 실패: {e})")
+    try:
+        sc = json.loads((ROOT / "data" / "schedule.json").read_text(encoding="utf-8"))
+        for ch in sc["channels"]:
+            for p in ch["programs"]:
+                m = re.match(r"(?:일일|주말|월화|수목|금토|토일|아침|저녁)?\s*드라마\s+(.+?)(?:\s*\d+회)?$", p["title"])
+                if m:
+                    names.add(m.group(1))
+    except Exception:
+        pass
+    try:
+        names |= set(json.loads((ROOT / "config" / "dramas.json").read_text(encoding="utf-8")).get("dramas", []))
+    except Exception:
+        pass
+    out = set()
+    for n in names:
+        n = re.sub(r"\s+", "", re.sub(r"\([^)]*\)|[\[\]<>《》'‘’\"“”]", "", n))
+        for v in {n, re.split(r"[-:~]", n)[0]}:
+            if len(v) >= 3:
+                out.add(v)
+    return out
 
 
 def clean(s):
@@ -136,7 +175,9 @@ def main():
 
     new = [a for a in fresh if norm(a["title"]) not in seen]
     print(f"수집 {len(fresh)}건, 새 기사 {len(new)}건")
-    drama = lambda a: a["keyword"].startswith("드라마") or DRAMA.search(a["title"])
+    titles = airing_dramas()
+    print(f"방영 중 드라마 {len(titles)}편: {', '.join(sorted(titles))[:300]}")
+    drama = lambda a: any(t in re.sub(r"\s+", "", a["title"]) for t in titles)
     if os.getenv("NEWS_TEST") == "1":
         try:
             telegram([a for a in fresh if drama(a)][:5], test=True)

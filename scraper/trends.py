@@ -210,7 +210,9 @@ def norm_prog(s):
 
 def collect_ratings():
     out = load(DATA / "ratings.json", {"days": {}})
-    for back in (1, 2):                      # 전날 자료가 아직 없으면 그 전날
+    if out.get("enc") != 2:                  # 예전 자료는 글자가 깨져 있어서 새로 받음
+        out = {"days": {}, "enc": 2}
+    for back in range(1, 15):                # 최근 2주 중 빠진 날만
         d = TODAY - dt.timedelta(days=back)
         if str(d) in out["days"]:
             continue
@@ -220,7 +222,9 @@ def collect_ratings():
                    f"&area=00&sYear={d:%Y}&sMonth={d:%m}&sDay={d:%d}")
             r = S.get(url, timeout=20)
             r.raise_for_status()
-            page = r.text
+            page = r.content.decode("utf-8", errors="replace")
+            if "\ufffd" in page[:5000]:
+                page = r.content.decode("euc-kr", errors="replace")
             if f"{d:%Y.%m.%d}" not in page:
                 break
             body = page.split("가구시청률")[1] if "가구시청률" in page else page
@@ -229,6 +233,8 @@ def collect_ratings():
                 tds = [txt(x) for x in re.findall(r"<td[^>]*>(.*?)</td>", tr, re.S)]
                 if len(tds) == 4 and tds[0].isdigit():
                     try:
+                        if float(tds[3]) > 60:          # 시청자수(천 명) 표가 섞이면 버림
+                            continue
                         rows.append({"rank": int(tds[0]), "kind": kind, "channel": tds[1],
                                      "program": tds[2], "rating": float(tds[3])})
                     except ValueError:

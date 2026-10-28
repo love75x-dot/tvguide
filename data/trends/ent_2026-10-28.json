@@ -137,7 +137,7 @@
     }
    ],
    "first": "00:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 1,
    "hours": [
     "00:10",
@@ -161,15 +161,16 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 4
+    "nate_pop": 10,
+    "nate_int": 6
    },
    "count": 18,
    "inrank": true
@@ -405,7 +406,7 @@
     }
    ],
    "first": "00:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 1,
    "hours": [
     "00:10",
@@ -429,15 +430,16 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 3
+    "nate_pop": 5,
+    "nate_int": 2
    },
    "count": 18,
    "inrank": true
@@ -787,11 +789,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 4,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c12",
@@ -1123,7 +1123,7 @@
     }
    ],
    "first": "00:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 3,
    "hours": [
     "00:10",
@@ -1139,7 +1139,8 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
@@ -1147,7 +1148,7 @@
    ],
    "now": {
     "nate_pop": 3,
-    "nate_int": 5
+    "nate_int": 3
    },
    "count": 3,
    "inrank": true
@@ -1425,11 +1426,13 @@
    "title": "'모모랜드 출신' 주이, 못 알아볼 뻔…확 달라진 미모에 시선 집중",
    "titles": [
     "'모모랜드 출신' 주이, 못 알아볼 뻔…확 달라진 미모에 시선 집중",
-    "홍수아, 얼굴이 또 바뀌었나…몰라보게 달라진 미모"
+    "홍수아, 얼굴이 또 바뀌었나…몰라보게 달라진 미모",
+    "허가윤, 과감한 수영복 뒤태에 시선 집중…파도 위에선 수준급 서퍼 [★해..."
    ],
    "links": [
     "https://news.nate.com/view/20261027n11357",
-    "https://news.nate.com/view/20261028n02032"
+    "https://news.nate.com/view/20261028n02032",
+    "https://news.nate.com/view/20261028n33941"
    ],
    "articles": [
     {
@@ -1441,10 +1444,15 @@
      "title": "홍수아, 얼굴이 또 바뀌었나…몰라보게 달라진 미모",
      "link": "https://news.nate.com/view/20261028n02032",
      "media": "마이데일리"
+    },
+    {
+     "title": "허가윤, 과감한 수영복 뒤태에 시선 집중…파도 위에선 수준급 서퍼 [★해...",
+     "link": "https://news.nate.com/view/20261028n33941",
+     "media": "엑스포츠뉴스"
     }
    ],
    "first": "00:10",
-   "last": "17:10",
+   "last": "19:08",
    "best": 6,
    "hours": [
     "00:10",
@@ -1467,15 +1475,18 @@
     "14:24",
     "15:10",
     "16:10",
-    "17:10"
+    "17:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 2,
-   "inrank": false
+   "now": {
+    "nate_int": 42
+   },
+   "count": 3,
+   "inrank": true
   },
   {
    "id": "c27",
@@ -1559,7 +1570,7 @@
     }
    ],
    "first": "00:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 7,
    "hours": [
     "00:10",
@@ -1579,14 +1590,15 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 30
+    "nate_int": 32
    },
    "count": 3,
    "inrank": true
@@ -2063,11 +2075,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 42
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c40",
@@ -2146,12 +2156,16 @@
    "titles": [
     "백진희, 결혼 앞두고 예비 남편과 다툼 고백 \"싸우면 입부터 닫아\"",
     "한은서, 결혼 앞두고 英 석사 최우수 졸업 겹경사…예비신랑 ♥윤종훈 '좋...",
-    "'4월 결혼' 솔비, '예비 신랑' 이규한과 골프 데이트 [★한컷]"
+    "'4월 결혼' 솔비, '예비 신랑' 이규한과 골프 데이트 [★한컷]",
+    "솔비, ♥이규한 프러포즈에 미지근한 반응 \"기회 많으니까 크리스마스 기대...",
+    "솔비, ♥이규한에 상처받고 연락 끊었는데…\"자존심 상했지만 사과에 마음 ..."
    ],
    "links": [
     "https://news.nate.com/view/20261027n40677",
     "https://news.nate.com/view/20261027n35788",
-    "https://news.nate.com/view/20261028n32657"
+    "https://news.nate.com/view/20261028n32657",
+    "https://news.nate.com/view/20261028n32804",
+    "https://news.nate.com/view/20261028n21843"
    ],
    "articles": [
     {
@@ -2168,11 +2182,21 @@
      "title": "'4월 결혼' 솔비, '예비 신랑' 이규한과 골프 데이트 [★한컷]",
      "link": "https://news.nate.com/view/20261028n32657",
      "media": "티브이데일리"
+    },
+    {
+     "title": "솔비, ♥이규한 프러포즈에 미지근한 반응 \"기회 많으니까 크리스마스 기대...",
+     "link": "https://news.nate.com/view/20261028n32804",
+     "media": "스포츠조선"
+    },
+    {
+     "title": "솔비, ♥이규한에 상처받고 연락 끊었는데…\"자존심 상했지만 사과에 마음 ...",
+     "link": "https://news.nate.com/view/20261028n21843",
+     "media": "스포츠조선"
     }
    ],
    "first": "00:10",
-   "last": "18:10",
-   "best": 41,
+   "last": "19:08",
+   "best": 16,
    "hours": [
     "00:10",
     "01:10",
@@ -2180,15 +2204,18 @@
     "03:08",
     "05:00",
     "06:08",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 41
+    "nate_pop": 16,
+    "nate_int": 28
    },
-   "count": 3,
+   "count": 5,
    "inrank": true
   },
   {
@@ -2247,7 +2274,7 @@
     }
    ],
    "first": "01:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 4,
    "hours": [
     "01:10",
@@ -2265,15 +2292,16 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 17
+    "nate_pop": 20,
+    "nate_int": 20
    },
    "count": 2,
    "inrank": true
@@ -2867,7 +2895,7 @@
     }
    ],
    "first": "08:08",
-   "last": "18:10",
+   "last": "19:08",
    "best": 2,
    "hours": [
     "08:08",
@@ -2882,15 +2910,16 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 9
+    "nate_pop": 28,
+    "nate_int": 7
    },
    "count": 1,
    "inrank": true
@@ -3011,7 +3040,7 @@
     }
    ],
    "first": "08:44",
-   "last": "18:10",
+   "last": "19:08",
    "best": 3,
    "hours": [
     "08:44",
@@ -3025,14 +3054,14 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 26,
     "nate_int": 22
    },
    "count": 5,
@@ -3144,7 +3173,7 @@
     }
    ],
    "first": "08:44",
-   "last": "18:10",
+   "last": "19:08",
    "best": 3,
    "hours": [
     "08:44",
@@ -3158,15 +3187,16 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 11
+    "nate_pop": 26,
+    "nate_int": 27
    },
    "count": 3,
    "inrank": true
@@ -3401,7 +3431,7 @@
     }
    ],
    "first": "11:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 21,
    "hours": [
     "11:10",
@@ -3412,13 +3442,14 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 29
+    "nate_int": 31
    },
    "count": 2,
    "inrank": true
@@ -3440,7 +3471,7 @@
     }
    ],
    "first": "11:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 15,
    "hours": [
     "11:10",
@@ -3451,14 +3482,15 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 27
+    "nate_int": 30
    },
    "count": 1,
    "inrank": true
@@ -3643,7 +3675,7 @@
     }
    ],
    "first": "12:08",
-   "last": "18:10",
+   "last": "19:08",
    "best": 18,
    "hours": [
     "12:08",
@@ -3653,15 +3685,15 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 36
+    "nate_int": 50
    },
    "count": 1,
    "inrank": true
@@ -3727,12 +3759,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 29,
-    "nate_int": 34
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c83",
@@ -3751,7 +3780,7 @@
     }
    ],
    "first": "13:08",
-   "last": "18:10",
+   "last": "19:08",
    "best": 12,
    "hours": [
     "13:08",
@@ -3760,7 +3789,8 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_int",
@@ -3768,7 +3798,7 @@
    ],
    "now": {
     "nate_pop": 21,
-    "nate_int": 25
+    "nate_int": 37
    },
    "count": 1,
    "inrank": true
@@ -3941,12 +3971,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 11,
-    "nate_int": 10
-   },
+   "now": {},
    "count": 3,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c89",
@@ -4058,11 +4085,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 37
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c92",
@@ -4088,7 +4113,7 @@
     }
    ],
    "first": "14:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 6,
    "hours": [
     "14:10",
@@ -4096,7 +4121,8 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
@@ -4158,21 +4184,22 @@
     }
    ],
    "first": "15:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 1,
    "hours": [
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 13
+    "nate_pop": 15,
+    "nate_int": 26
    },
    "count": 1,
    "inrank": true
@@ -4194,21 +4221,22 @@
     }
    ],
    "first": "15:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 2,
    "hours": [
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 8
+    "nate_pop": 8,
+    "nate_int": 12
    },
    "count": 1,
    "inrank": true
@@ -4241,11 +4269,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 45
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c97",
@@ -4322,20 +4348,21 @@
     }
    ],
    "first": "16:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 4,
    "hours": [
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 15
+    "nate_pop": 24,
+    "nate_int": 39
    },
    "count": 1,
    "inrank": true
@@ -4382,11 +4409,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 47
-   },
+   "now": {},
    "count": 3,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c101",
@@ -4405,19 +4430,20 @@
     }
    ],
    "first": "16:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 8,
    "hours": [
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 40
+    "nate_int": 49
    },
    "count": 1,
    "inrank": true
@@ -4439,20 +4465,21 @@
     }
    ],
    "first": "16:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 10,
    "hours": [
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 16
+    "nate_pop": 13,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -4485,11 +4512,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 50
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c104",
@@ -4553,24 +4578,32 @@
    "id": "c106",
    "title": "'후덕 논란' 닉쿤, 리프팅 시술 받고 확 바뀐 비주얼 \"나이 들면 처져,...",
    "titles": [
-    "'후덕 논란' 닉쿤, 리프팅 시술 받고 확 바뀐 비주얼 \"나이 들면 처져,..."
+    "'후덕 논란' 닉쿤, 리프팅 시술 받고 확 바뀐 비주얼 \"나이 들면 처져,...",
+    "'3일간 달걀 3개' 살 뺀 닉쿤, 이번엔 리프팅 시술…\"나이 들면 처져\" (오..."
    ],
    "links": [
-    "https://news.nate.com/view/20261028n31151"
+    "https://news.nate.com/view/20261028n31151",
+    "https://news.nate.com/view/20261028n33185"
    ],
    "articles": [
     {
      "title": "'후덕 논란' 닉쿤, 리프팅 시술 받고 확 바뀐 비주얼 \"나이 들면 처져,...",
      "link": "https://news.nate.com/view/20261028n31151",
      "media": "스포츠조선"
+    },
+    {
+     "title": "'3일간 달걀 3개' 살 뺀 닉쿤, 이번엔 리프팅 시술…\"나이 들면 처져\" (오...",
+     "link": "https://news.nate.com/view/20261028n33185",
+     "media": "엑스포츠뉴스"
     }
    ],
    "first": "17:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 1,
    "hours": [
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
@@ -4580,7 +4613,7 @@
     "nate_pop": 1,
     "nate_int": 1
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -4600,19 +4633,20 @@
     }
    ],
    "first": "17:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 2,
    "hours": [
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 2
+    "nate_pop": 4,
+    "nate_int": 5
    },
    "count": 1,
    "inrank": true
@@ -4634,19 +4668,20 @@
     }
    ],
    "first": "17:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 9,
    "hours": [
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 14
+    "nate_pop": 17,
+    "nate_int": 36
    },
    "count": 1,
    "inrank": true
@@ -4668,19 +4703,19 @@
     }
    ],
    "first": "17:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 20,
    "hours": [
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 33
+    "nate_int": 44
    },
    "count": 1,
    "inrank": true
@@ -4702,19 +4737,20 @@
     }
    ],
    "first": "17:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 17,
    "hours": [
     "17:10",
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 32
+    "nate_pop": 29,
+    "nate_int": 40
    },
    "count": 1,
    "inrank": true
@@ -4765,18 +4801,19 @@
     }
    ],
    "first": "18:10",
-   "last": "18:10",
-   "best": 24,
+   "last": "19:08",
+   "best": 18,
    "hours": [
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 38
+    "nate_pop": 19,
+    "nate_int": 18
    },
    "count": 1,
    "inrank": true
@@ -4798,18 +4835,18 @@
     }
    ],
    "first": "18:10",
-   "last": "18:10",
+   "last": "19:08",
    "best": 25,
    "hours": [
-    "18:10"
+    "18:10",
+    "19:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 35
+    "nate_int": 45
    },
    "count": 1,
    "inrank": true
@@ -4831,16 +4868,262 @@
     }
    ],
    "first": "18:10",
-   "last": "18:10",
-   "best": 44,
+   "last": "19:08",
+   "best": 23,
    "hours": [
-    "18:10"
+    "18:10",
+    "19:08"
+   ],
+   "srcs": [
+    "nate_int",
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 23,
+    "nate_int": 38
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c115",
+   "title": "정웅인 20살 딸, 이렇게 예쁘게 컸어?…배우 지망생의 완성형 미모",
+   "titles": [
+    "정웅인 20살 딸, 이렇게 예쁘게 컸어?…배우 지망생의 완성형 미모"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261028n35863"
+   ],
+   "articles": [
+    {
+     "title": "정웅인 20살 딸, 이렇게 예쁘게 컸어?…배우 지망생의 완성형 미모",
+     "link": "https://news.nate.com/view/20261028n35863",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "19:08",
+   "last": "19:08",
+   "best": 2,
+   "hours": [
+    "19:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 2,
+    "nate_int": 4
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c116",
+   "title": "인천 가스폭발 사고 피해 확산 막은 '의인'…알고보니 '서울의 봄' '탁류' ...",
+   "titles": [
+    "인천 가스폭발 사고 피해 확산 막은 '의인'…알고보니 '서울의 봄' '탁류' ...",
+    "'서울의 봄' 배우 윤대열, 폭발 현장서 가스통 밸브 잠가…2차 피해 막았다",
+    "인천 LPG 폭발 대참사 막은 의인, 알고보니 '폭싹' 박보검 코치 윤대열 ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261028n36392",
+    "https://news.nate.com/view/20261028n37107",
+    "https://news.nate.com/view/20261028n36608"
+   ],
+   "articles": [
+    {
+     "title": "인천 가스폭발 사고 피해 확산 막은 '의인'…알고보니 '서울의 봄' '탁류' ...",
+     "link": "https://news.nate.com/view/20261028n36392",
+     "media": "스포츠경향"
+    },
+    {
+     "title": "'서울의 봄' 배우 윤대열, 폭발 현장서 가스통 밸브 잠가…2차 피해 막았다",
+     "link": "https://news.nate.com/view/20261028n37107",
+     "media": "TV리포트"
+    },
+    {
+     "title": "인천 LPG 폭발 대참사 막은 의인, 알고보니 '폭싹' 박보검 코치 윤대열 ...",
+     "link": "https://news.nate.com/view/20261028n36608",
+     "media": "OSEN"
+    }
+   ],
+   "first": "19:08",
+   "last": "19:08",
+   "best": 6,
+   "hours": [
+    "19:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 6,
+    "nate_int": 13
+   },
+   "count": 3,
+   "inrank": true
+  },
+  {
+   "id": "c117",
+   "title": "의리 지킨 이종석, 촬영 내내 선글라스 쓴 이유 \"긴장감에 눈 흰 자만 남는...",
+   "titles": [
+    "의리 지킨 이종석, 촬영 내내 선글라스 쓴 이유 \"긴장감에 눈 흰 자만 남는..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261028n35837"
+   ],
+   "articles": [
+    {
+     "title": "의리 지킨 이종석, 촬영 내내 선글라스 쓴 이유 \"긴장감에 눈 흰 자만 남는...",
+     "link": "https://news.nate.com/view/20261028n35837",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "19:08",
+   "last": "19:08",
+   "best": 7,
+   "hours": [
+    "19:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 7,
+    "nate_int": 10
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c118",
+   "title": "[단독] 2NE1 씨엘, 테디 품으로…더블랙레이블 行",
+   "titles": [
+    "[단독] 2NE1 씨엘, 테디 품으로…더블랙레이블 行"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261028n36672"
+   ],
+   "articles": [
+    {
+     "title": "[단독] 2NE1 씨엘, 테디 품으로…더블랙레이블 行",
+     "link": "https://news.nate.com/view/20261028n36672",
+     "media": "뉴스1"
+    }
+   ],
+   "first": "19:08",
+   "last": "19:08",
+   "best": 9,
+   "hours": [
+    "19:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 9,
+    "nate_int": 11
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c119",
+   "title": "[단독] '효심이네' 박근수, 오늘(28일) 부친상…남성진·김지영 부부도 애...",
+   "titles": [
+    "[단독] '효심이네' 박근수, 오늘(28일) 부친상…남성진·김지영 부부도 애..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261028n34832"
+   ],
+   "articles": [
+    {
+     "title": "[단독] '효심이네' 박근수, 오늘(28일) 부친상…남성진·김지영 부부도 애...",
+     "link": "https://news.nate.com/view/20261028n34832",
+     "media": "MK스포츠"
+    }
+   ],
+   "first": "19:08",
+   "last": "19:08",
+   "best": 11,
+   "hours": [
+    "19:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 11,
+    "nate_int": 16
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c120",
+   "title": "홍현희 아들도 JYP 갔는데…이지혜, 성심당 이어 딸 춤 테스트도 '억까'?...",
+   "titles": [
+    "홍현희 아들도 JYP 갔는데…이지혜, 성심당 이어 딸 춤 테스트도 '억까'?..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261028n36628"
+   ],
+   "articles": [
+    {
+     "title": "홍현희 아들도 JYP 갔는데…이지혜, 성심당 이어 딸 춤 테스트도 '억까'?...",
+     "link": "https://news.nate.com/view/20261028n36628",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "19:08",
+   "last": "19:08",
+   "best": 25,
+   "hours": [
+    "19:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 25,
+    "nate_int": 34
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c121",
+   "title": "'싱글맘' 박지윤, 8kg 감량했다더니 몸매 뭐야?…\"예쁘게 늙어가고 싶은 ...",
+   "titles": [
+    "'싱글맘' 박지윤, 8kg 감량했다더니 몸매 뭐야?…\"예쁘게 늙어가고 싶은 ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261028n29833"
+   ],
+   "articles": [
+    {
+     "title": "'싱글맘' 박지윤, 8kg 감량했다더니 몸매 뭐야?…\"예쁘게 늙어가고 싶은 ...",
+     "link": "https://news.nate.com/view/20261028n29833",
+     "media": "헤럴드뮤즈"
+    }
+   ],
+   "first": "19:08",
+   "last": "19:08",
+   "best": 46,
+   "hours": [
+    "19:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 44
+    "nate_int": 46
    },
    "count": 1,
    "inrank": true
@@ -5022,9 +5305,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "19:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-10-28T18:10:36.542308+09:00",
+ "updated": "2026-10-28T19:08:31.218999+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

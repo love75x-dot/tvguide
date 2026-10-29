@@ -28,6 +28,61 @@ STRONG = re.compile(r"레시피|만드는\s?법|비법\s?(?:공개|소스|양념
 NOISE = re.compile(r"주가|증시|매출|실적|출시|프랜차이즈|가맹|편의점 신상|분양|부동산")
 
 
+# 유튜브 채널 (이름으로 찾아서 채널 번호를 저장해 둠). all=True 요리 채널 → 새 영상 전부, False → 요리 영상만
+YT_CHANNELS = [("백종원", "백종원 PAIK JONG WON", True), ("류수영", "류수영 어남선생", True),
+               ("정호영", "정호영의 오늘도 요리", True), ("이연복", "이연복의 복주머니", True),
+               ("김대석 셰프", "김대석 셰프TV", True), ("승우아빠", "승우아빠", True),
+               ("1분요리 뚝딱이형", "1분요리 뚝딱이형", True), ("이혜정", "이혜정의 얼마나 맛있게요", True),
+               ("만개의레시피", "만개의레시피", True), ("문쌤", "문쌤 요리", True),
+               ("최화정", "최화정이에요", False), ("손태영", "Mrs.뉴저지 손태영", False),
+               ("편스토랑", "KBS 편스토랑", False), ("냉장고를 부탁해", "냉장고를 부탁해 JTBC", False)]
+YT_CACHE = T.DATA / "yt_channels.json"
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124 Safari/537.36", "Accept-Language": "ko-KR,ko;q=0.9"}
+
+
+def yt_resolve():
+    cache = T.load(YT_CACHE, {})
+    for name, q, _ in YT_CHANNELS:
+        if cache.get(name, {}).get("id"):
+            continue
+        try:
+            r = T.S.get("https://www.youtube.com/results", params={"search_query": q, "sp": "EgIQAg%3D%3D"}, headers=UA, timeout=20)
+            m = re.search(r'"channelRenderer":\{"channelId":"(UC[\w-]{22})".{0,400}?"simpleText":"([^"]+)"', r.text, re.S)
+            cache[name] = {"id": m.group(1), "title": m.group(2)} if m else {"err": "못 찾음"}
+        except Exception as e:
+            cache[name] = {"err": str(e)[:120]}
+        time.sleep(0.5)
+    T.save(YT_CACHE, cache)
+    return cache
+
+
+def yt_videos():
+    cache = yt_resolve()
+    out = []
+    for name, _, all_ in YT_CHANNELS:
+        cid = cache.get(name, {}).get("id")
+        if not cid:
+            continue
+        try:
+            r = T.S.get("https://www.youtube.com/feeds/videos.xml", params={"channel_id": cid}, headers=UA, timeout=20)
+            r.raise_for_status()
+        except Exception as e:
+            print(f"  (유튜브 {name} 실패: {e})")
+            continue
+        for e in re.findall(r"<entry>(.*?)</entry>", r.text, re.S)[:6]:
+            title = html.unescape((re.search(r"<title>(.*?)</title>", e, re.S) or [None, ""])[1])
+            vid = (re.search(r"<yt:videoId>(.*?)</yt:videoId>", e) or [None, ""])[1]
+            pub = (re.search(r"<published>(.*?)</published>", e) or [None, ""])[1]
+            if not vid or not pub:
+                continue
+            if not all_ and not COOK.search(title):
+                continue
+            out.append({"title": title, "link": f"https://www.youtube.com/watch?v={vid}", "t": dt.datetime.fromisoformat(pub).astimezone(T.NOW.tzinfo).isoformat(),
+                        "show": "유튜브 " + name, "by": "YouTube", "yt": True})
+        time.sleep(0.2)
+    return out
+
+
 def show_of(title):
     t = re.sub(r"\s+", "", title)
     for s in SHOWS:
@@ -92,6 +147,12 @@ def collect():
             got[k] = {"title": title, "link": i.get("originallink") or i.get("link"), "t": t, "show": show,
                       "by": re.sub(r"^(?:www|m|news)\.", "", src)}
         time.sleep(0.1)
+    try:
+        for v in yt_videos():
+            if v["t"] >= cut:
+                got.setdefault("yt" + v["link"][-11:], v)
+    except Exception as e:
+        print(f"  (유튜브 확인 실패: {e})")
     rows = sorted(got.values(), key=lambda a: a["t"], reverse=True)
     T.save(OUT, {"updated": T.NOW.isoformat(), "ended": ended, "articles": rows[:200]})
 
@@ -100,7 +161,8 @@ def collect():
     seen = seen or []
     new = [a for k, a in got.items() if k not in seen]
     test = os.getenv("RECIPE_TEST") == "1"
-    send = rows[:5] if test else sorted(new, key=lambda a: (a["show"] is None, a["t"]))[:10]
+    yts = [a for a in rows if a.get("yt")]
+    send = (yts[:3] + [a for a in rows if not a.get("yt")][:2]) if test else sorted(new, key=lambda a: (a["show"] is None, a["t"]))[:10]
     if send and (test or not first):
         lines = [("🧪 [테스트] " if test else "") + f"🍳 <b>방송 레시피 {len(send)}건</b>"
                  + (f"\n(방금 끝난 방송: {', '.join(ended)})" if ended else "")]

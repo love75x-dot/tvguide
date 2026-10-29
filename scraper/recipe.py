@@ -35,6 +35,7 @@ YT_CHANNELS = [("백종원", "백종원 PAIK JONG WON", True), ("정호영", "�
                ("만개의레시피", "만개의레시피", True), ("문쌤", "문쌤 요리", False),
                ("최화정", "최화정이에요", False), ("손태영", "Mrs.뉴저지 손태영", False),
                ("편스토랑", "KBS 편스토랑", False), ("냉장고를 부탁해", "냉장고를 부탁해 JTBC", False)]
+YT_ON = False          # 유튜브 알림 잠시 꺼둠 (켜려면 True)
 YT_CACHE = T.DATA / "yt_channels.json"
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124 Safari/537.36", "Accept-Language": "ko-KR,ko;q=0.9"}
 
@@ -147,7 +148,7 @@ def collect():
                       "by": re.sub(r"^(?:www|m|news)\.", "", src)}
         time.sleep(0.1)
     try:
-        for v in yt_videos():
+        for v in (yt_videos() if YT_ON else []):
             if v["t"] >= cut:
                 got.setdefault("yt" + re.sub(r"[^가-힣a-zA-Z0-9]", "", v["title"])[:20], v)
     except Exception as e:

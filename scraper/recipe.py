@@ -29,11 +29,10 @@ NOISE = re.compile(r"주가|증시|매출|실적|출시|프랜차이즈|가맹|�
 
 
 # 유튜브 채널 (이름으로 찾아서 채널 번호를 저장해 둠). all=True 요리 채널 → 새 영상 전부, False → 요리 영상만
-YT_CHANNELS = [("백종원", "백종원 PAIK JONG WON", True), ("류수영", "류수영 어남선생", True),
-               ("정호영", "정호영의 오늘도 요리", True), ("이연복", "이연복의 복주머니", True),
+YT_CHANNELS = [("백종원", "백종원 PAIK JONG WON", True), ("정호영", "정호영의 오늘도 요리", True), ("이연복", "이연복의 복주머니", True),
                ("김대석 셰프", "김대석 셰프TV", True), ("승우아빠", "승우아빠", True),
                ("1분요리 뚝딱이형", "1분요리 뚝딱이형", True), ("이혜정", "이혜정의 얼마나 맛있게요", True),
-               ("만개의레시피", "만개의레시피", True), ("문쌤", "문쌤 요리", True),
+               ("만개의레시피", "만개의레시피", True), ("문쌤", "문쌤 요리", False),
                ("최화정", "최화정이에요", False), ("손태영", "Mrs.뉴저지 손태영", False),
                ("편스토랑", "KBS 편스토랑", False), ("냉장고를 부탁해", "냉장고를 부탁해 JTBC", False)]
 YT_CACHE = T.DATA / "yt_channels.json"
@@ -150,7 +149,7 @@ def collect():
     try:
         for v in yt_videos():
             if v["t"] >= cut:
-                got.setdefault("yt" + v["link"][-11:], v)
+                got.setdefault("yt" + re.sub(r"[^가-힣a-zA-Z0-9]", "", v["title"])[:20], v)
     except Exception as e:
         print(f"  (유튜브 확인 실패: {e})")
     rows = sorted(got.values(), key=lambda a: a["t"], reverse=True)

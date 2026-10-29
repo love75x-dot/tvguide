@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-29T13:07:52.387628+09:00",
+ "generated": "2026-10-29T14:07:51.659378+09:00",
  "channels": [
   {
    "id": "kbs1",
    "name": "KBS1",
    "ok": true,
-   "updated": "2026-10-29T13:07:52.387628+09:00",
+   "updated": "2026-10-29T14:07:51.659378+09:00",
    "programs": [
     {
      "start": "2026-10-29T05:00:00+09:00",
@@ -951,7 +951,7 @@
    "id": "kbs2",
    "name": "KBS2",
    "ok": true,
-   "updated": "2026-10-29T13:07:52.387628+09:00",
+   "updated": "2026-10-29T14:07:51.659378+09:00",
    "programs": [
     {
      "start": "2026-10-29T05:00:00+09:00",
@@ -1540,7 +1540,7 @@
    "id": "mbc",
    "name": "MBC",
    "ok": true,
-   "updated": "2026-10-29T13:07:52.387628+09:00",
+   "updated": "2026-10-29T14:07:51.659378+09:00",
    "programs": [
     {
      "start": "2026-10-29T05:00:00+09:00",
@@ -2192,7 +2192,7 @@
    "id": "sbs",
    "name": "SBS",
    "ok": true,
-   "updated": "2026-10-29T13:07:52.387628+09:00",
+   "updated": "2026-10-29T14:07:51.659378+09:00",
    "programs": [
     {
      "start": "2026-10-29T05:00:00+09:00",
@@ -2823,7 +2823,7 @@
    "id": "jtbc",
    "name": "JTBC",
    "ok": true,
-   "updated": "2026-10-29T13:07:52.387628+09:00",
+   "updated": "2026-10-29T14:07:51.659378+09:00",
    "programs": [
     {
      "start": "2026-10-29T00:30:00+09:00",
@@ -3412,7 +3412,7 @@
    "id": "tvchosun",
    "name": "TV조선",
    "ok": true,
-   "updated": "2026-10-29T13:07:52.387628+09:00",
+   "updated": "2026-10-29T14:07:51.659378+09:00",
    "programs": [
     {
      "start": "2026-10-29T00:10:00+09:00",
@@ -4063,9 +4063,8 @@
   {
    "id": "channela",
    "name": "채널A",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='ichannela.com', port=443): Max retries exceeded with url: /com/cmm/schedule.do?selectedDate=20261029 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ichannela.com', port=443) at 0x7fd75a0a9820>, 'Connection to ichannela.com timed out. (connect timeout=20)'))",
-   "updated": "2026-10-29T12:07:52.301270+09:00",
+   "ok": true,
+   "updated": "2026-10-29T14:07:51.659378+09:00",
    "programs": [
     {
      "start": "2026-10-29T01:10:00+09:00",
@@ -5270,7 +5269,7 @@
    "id": "mbn",
    "name": "MBN",
    "ok": true,
-   "updated": "2026-10-29T13:07:52.387628+09:00",
+   "updated": "2026-10-29T14:07:51.659378+09:00",
    "programs": [
     {
      "start": "2026-10-29T02:00:00+09:00",
@@ -5908,7 +5907,7 @@
    "id": "tvn",
    "name": "tvN",
    "ok": true,
-   "updated": "2026-10-29T13:07:52.387628+09:00",
+   "updated": "2026-10-29T14:07:51.659378+09:00",
    "programs": [
     {
      "start": "2026-10-26T05:55:00+09:00",
@@ -6669,7 +6668,7 @@
     {
      "start": "2026-11-01T16:00:00+09:00",
      "end": "2026-11-01T18:10:00+09:00",
-     "title": "맛따라 길따라 대명이따라 2회",
+     "title": "유퀴즈온더블럭 366회",
      "genre": null,
      "type": "재"
     },
@@ -6728,7 +6727,7 @@
    "id": "ena",
    "name": "ENA",
    "ok": true,
-   "updated": "2026-10-29T13:07:52.387628+09:00",
+   "updated": "2026-10-29T14:07:51.659378+09:00",
    "programs": [
     {
      "start": "2026-10-29T00:35:00+09:00",

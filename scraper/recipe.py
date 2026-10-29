@@ -81,7 +81,7 @@ def collect():
             title, desc = T.txt(i.get("title")), T.txt(i.get("description"))
             if t < cut or NOISE.search(title):
                 continue
-            show = show_of(title) or show_of(desc)
+            show = show_of(title)
             # 방송 이름 + 요리 이야기, 또는 제목에 레시피·만드는 법이 있고 방송 이야기인 것
             if not ((show and COOK.search(title)) or (STRONG.search(title) and (show or re.search(r"방송|예능|공개|셰프", title + desc)))):
                 continue

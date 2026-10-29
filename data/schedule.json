@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-29T16:07:53.776623+09:00",
+ "generated": "2026-10-29T17:07:51.567977+09:00",
  "channels": [
   {
    "id": "kbs1",
    "name": "KBS1",
    "ok": true,
-   "updated": "2026-10-29T16:07:53.776623+09:00",
+   "updated": "2026-10-29T17:07:51.567977+09:00",
    "programs": [
     {
      "start": "2026-10-29T05:00:00+09:00",
@@ -951,7 +951,7 @@
    "id": "kbs2",
    "name": "KBS2",
    "ok": true,
-   "updated": "2026-10-29T16:07:53.776623+09:00",
+   "updated": "2026-10-29T17:07:51.567977+09:00",
    "programs": [
     {
      "start": "2026-10-29T05:00:00+09:00",
@@ -1540,7 +1540,7 @@
    "id": "mbc",
    "name": "MBC",
    "ok": true,
-   "updated": "2026-10-29T16:07:53.776623+09:00",
+   "updated": "2026-10-29T17:07:51.567977+09:00",
    "programs": [
     {
      "start": "2026-10-29T05:00:00+09:00",
@@ -2192,7 +2192,7 @@
    "id": "sbs",
    "name": "SBS",
    "ok": true,
-   "updated": "2026-10-29T16:07:53.776623+09:00",
+   "updated": "2026-10-29T17:07:51.567977+09:00",
    "programs": [
     {
      "start": "2026-10-29T05:00:00+09:00",
@@ -2822,7 +2822,8 @@
   {
    "id": "jtbc",
    "name": "JTBC",
-   "ok": true,
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='jtbc.co.kr', port=443): Max retries exceeded with url: /schedule/jtbc/20261029 (Caused by ConnectTimeoutError(<HTTPSConnection(host='jtbc.co.kr', port=443) at 0x7f77498aa390>, 'Connection to jtbc.co.kr timed out. (connect timeout=20)'))",
    "updated": "2026-10-29T16:07:53.776623+09:00",
    "programs": [
     {
@@ -3412,7 +3413,7 @@
    "id": "tvchosun",
    "name": "TV조선",
    "ok": true,
-   "updated": "2026-10-29T16:07:53.776623+09:00",
+   "updated": "2026-10-29T17:07:51.567977+09:00",
    "programs": [
     {
      "start": "2026-10-29T00:10:00+09:00",
@@ -3662,9 +3663,9 @@
     {
      "start": "2026-10-30T10:20:00+09:00",
      "end": "2026-10-30T11:10:00+09:00",
-     "title": "역전의 한방 특별판(23회)",
+     "title": "역전의 한방 특별판(22회)",
      "genre": null,
-     "type": null
+     "type": "본"
     },
     {
      "start": "2026-10-30T11:10:00+09:00",
@@ -3804,7 +3805,7 @@
      "end": "2026-10-31T08:00:00+09:00",
      "title": "질병의 법칙 특별판(21회)",
      "genre": null,
-     "type": "본"
+     "type": null
     },
     {
      "start": "2026-10-31T08:00:00+09:00",
@@ -3846,12 +3847,12 @@
      "end": "2026-10-31T13:00:00+09:00",
      "title": "방방곡곡 낭만로드 유랑닥터 특별판(7회)",
      "genre": null,
-     "type": null
+     "type": "본"
     },
     {
      "start": "2026-10-31T13:00:00+09:00",
      "end": "2026-10-31T14:00:00+09:00",
-     "title": "[TV CHOSUN 특집다큐] 부안댐 30년, 물길위의 삶(127회)",
+     "title": "[TV CHOSUN 특집다큐] 부안댐 30주년, 물길위의 삶(127회)",
      "genre": null,
      "type": "본"
     },
@@ -3972,7 +3973,7 @@
      "end": "2026-11-01T08:30:00+09:00",
      "title": "건강한 집2 특별판(27회)",
      "genre": null,
-     "type": "본"
+     "type": null
     },
     {
      "start": "2026-11-01T08:30:00+09:00",
@@ -3986,7 +3987,7 @@
      "end": "2026-11-01T10:50:00+09:00",
      "title": "인생의 연장전 특별판(89회)",
      "genre": null,
-     "type": null
+     "type": "본"
     },
     {
      "start": "2026-11-01T10:50:00+09:00",
@@ -4005,9 +4006,9 @@
     {
      "start": "2026-11-01T13:00:00+09:00",
      "end": "2026-11-01T14:00:00+09:00",
-     "title": "트롯 키친 달리는 디너쇼(4회)",
+     "title": "승리의 순간! 다시보는 2026 아이치-나고야(1회)",
      "genre": null,
-     "type": "재"
+     "type": "본"
     },
     {
      "start": "2026-11-01T14:00:00+09:00",
@@ -4063,7 +4064,8 @@
   {
    "id": "channela",
    "name": "채널A",
-   "ok": true,
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='ichannela.com', port=443): Max retries exceeded with url: /com/cmm/schedule.do?selectedDate=20261029 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ichannela.com', port=443) at 0x7f77498abaa0>, 'Connection to ichannela.com timed out. (connect timeout=20)'))",
    "updated": "2026-10-29T16:07:53.776623+09:00",
    "programs": [
     {
@@ -5269,7 +5271,7 @@
    "id": "mbn",
    "name": "MBN",
    "ok": true,
-   "updated": "2026-10-29T16:07:53.776623+09:00",
+   "updated": "2026-10-29T17:07:51.567977+09:00",
    "programs": [
     {
      "start": "2026-10-29T02:00:00+09:00",
@@ -5907,7 +5909,7 @@
    "id": "tvn",
    "name": "tvN",
    "ok": true,
-   "updated": "2026-10-29T16:07:53.776623+09:00",
+   "updated": "2026-10-29T17:07:51.567977+09:00",
    "programs": [
     {
      "start": "2026-10-26T05:55:00+09:00",
@@ -6703,7 +6705,7 @@
     {
      "start": "2026-11-02T01:00:00+09:00",
      "end": "2026-11-02T02:30:00+09:00",
-     "title": "십오야 골든벨 4회",
+     "title": "벌거벗은 세계사 277회",
      "genre": null,
      "type": "재"
     },
@@ -6727,7 +6729,7 @@
    "id": "ena",
    "name": "ENA",
    "ok": true,
-   "updated": "2026-10-29T16:07:53.776623+09:00",
+   "updated": "2026-10-29T17:07:51.567977+09:00",
    "programs": [
     {
      "start": "2026-10-29T00:35:00+09:00",

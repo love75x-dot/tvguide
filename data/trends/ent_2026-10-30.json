@@ -53,7 +53,7 @@
     }
    ],
    "first": "00:10",
-   "last": "11:10",
+   "last": "12:08",
    "best": 1,
    "hours": [
     "00:10",
@@ -72,15 +72,16 @@
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 13
+    "nate_pop": 16,
+    "nate_int": 21
    },
    "count": 6,
    "inrank": true
@@ -207,7 +208,7 @@
     }
    ],
    "first": "00:10",
-   "last": "11:10",
+   "last": "12:08",
    "best": 2,
    "hours": [
     "00:10",
@@ -226,14 +227,15 @@
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 37
+    "nate_int": 42
    },
    "count": 16,
    "inrank": true
@@ -383,7 +385,7 @@
     }
    ],
    "first": "00:10",
-   "last": "11:10",
+   "last": "12:08",
    "best": 2,
    "hours": [
     "00:10",
@@ -402,15 +404,16 @@
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 7
+    "nate_pop": 13,
+    "nate_int": 12
    },
    "count": 6,
    "inrank": true
@@ -1260,21 +1263,22 @@
     }
    ],
    "first": "00:10",
-   "last": "11:10",
-   "best": 8,
+   "last": "12:08",
+   "best": 5,
    "hours": [
     "00:10",
     "01:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 10
+    "nate_pop": 5,
+    "nate_int": 11
    },
    "count": 2,
    "inrank": true
@@ -1734,7 +1738,7 @@
     }
    ],
    "first": "01:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 1,
    "hours": [
     "01:08",
@@ -1752,14 +1756,15 @@
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
+    "nate_pop": 4,
     "nate_int": 1
    },
    "count": 21,
@@ -1806,11 +1811,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c37",
@@ -1925,7 +1928,7 @@
     }
    ],
    "first": "06:46",
-   "last": "11:10",
+   "last": "12:08",
    "best": 3,
    "hours": [
     "06:46",
@@ -1934,15 +1937,15 @@
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 16
+    "nate_int": 19
    },
    "count": 1,
    "inrank": true
@@ -1978,7 +1981,7 @@
     }
    ],
    "first": "06:46",
-   "last": "11:10",
+   "last": "12:08",
    "best": 6,
    "hours": [
     "06:46",
@@ -1987,15 +1990,15 @@
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 31
+    "nate_int": 39
    },
    "count": 3,
    "inrank": true
@@ -2017,7 +2020,7 @@
     }
    ],
    "first": "06:46",
-   "last": "11:10",
+   "last": "12:08",
    "best": 4,
    "hours": [
     "06:46",
@@ -2026,15 +2029,15 @@
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 24
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -2076,36 +2079,45 @@
    "id": "c44",
    "title": "임형주, 故 최불암 '이모부' 불렀다 \"안 믿겨 눈물만, 몇달 전 병문안이 작...",
    "titles": [
-    "임형주, 故 최불암 '이모부' 불렀다 \"안 믿겨 눈물만, 몇달 전 병문안이 작..."
+    "임형주, 故 최불암 '이모부' 불렀다 \"안 믿겨 눈물만, 몇달 전 병문안이 작...",
+    "故 최불암 마지막 작품 함께한 소재원, 눈물 펑펑 \"아쉽고 원통, 우리 아버..."
    ],
    "links": [
-    "https://news.nate.com/view/20261030n03116"
+    "https://news.nate.com/view/20261030n03116",
+    "https://news.nate.com/view/20261030n14095"
    ],
    "articles": [
     {
      "title": "임형주, 故 최불암 '이모부' 불렀다 \"안 믿겨 눈물만, 몇달 전 병문안이 작...",
      "link": "https://news.nate.com/view/20261030n03116",
      "media": "뉴스엔"
+    },
+    {
+     "title": "故 최불암 마지막 작품 함께한 소재원, 눈물 펑펑 \"아쉽고 원통, 우리 아버...",
+     "link": "https://news.nate.com/view/20261030n14095",
+     "media": "스포츠조선"
     }
    ],
    "first": "08:10",
-   "last": "11:10",
+   "last": "12:08",
    "best": 10,
    "hours": [
     "08:10",
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 39
+    "nate_pop": 12,
+    "nate_int": 13
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -2125,22 +2137,23 @@
     }
    ],
    "first": "08:10",
-   "last": "11:10",
+   "last": "12:08",
    "best": 7,
    "hours": [
     "08:10",
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 14
+    "nate_pop": 27,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -2169,21 +2182,22 @@
     }
    ],
    "first": "08:10",
-   "last": "11:10",
+   "last": "12:08",
    "best": 22,
    "hours": [
     "08:10",
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 40
+    "nate_pop": 22
    },
    "count": 2,
    "inrank": true
@@ -2236,22 +2250,22 @@
     }
    ],
    "first": "08:10",
-   "last": "11:10",
+   "last": "12:08",
    "best": 15,
    "hours": [
     "08:10",
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 28
+    "nate_int": 37
    },
    "count": 1,
    "inrank": true
@@ -2287,22 +2301,23 @@
     }
    ],
    "first": "08:10",
-   "last": "11:10",
-   "best": 16,
+   "last": "12:08",
+   "best": 9,
    "hours": [
     "08:10",
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 30
+    "nate_pop": 9,
+    "nate_int": 36
    },
    "count": 3,
    "inrank": true
@@ -2324,20 +2339,21 @@
     }
    ],
    "first": "08:10",
-   "last": "11:10",
+   "last": "12:08",
    "best": 30,
    "hours": [
     "08:10",
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 35
+    "nate_int": 45
    },
    "count": 1,
    "inrank": true
@@ -2395,21 +2411,22 @@
     }
    ],
    "first": "09:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 1,
    "hours": [
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 4
+    "nate_pop": 10,
+    "nate_int": 5
    },
    "count": 2,
    "inrank": true
@@ -2431,21 +2448,22 @@
     }
    ],
    "first": "09:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 1,
    "hours": [
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 6
+    "nate_pop": 7,
+    "nate_int": 9
    },
    "count": 1,
    "inrank": true
@@ -2497,21 +2515,21 @@
     }
    ],
    "first": "09:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 12,
    "hours": [
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 21
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -2533,21 +2551,22 @@
     }
    ],
    "first": "09:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 10,
    "hours": [
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 23
+    "nate_pop": 15,
+    "nate_int": 24
    },
    "count": 1,
    "inrank": true
@@ -2569,29 +2588,36 @@
     }
    ],
    "first": "09:08",
-   "last": "10:08",
-   "best": 42,
+   "last": "12:08",
+   "best": 24,
    "hours": [
     "09:08",
-    "10:08"
+    "10:08",
+    "12:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
-   "now": {},
+   "now": {
+    "nate_pop": 24,
+    "nate_int": 35
+   },
    "count": 1,
-   "inrank": false
+   "inrank": true
   },
   {
    "id": "c58",
    "title": "\"그리움도 보고픔도\" 故 최불암, 김혜수에게 보낸 문자 '먹먹'",
    "titles": [
     "\"그리움도 보고픔도\" 故 최불암, 김혜수에게 보낸 문자 '먹먹'",
-    "故 최불암, 생전 김혜수에 보낸 문자 재조명…저장하고 또 읽은 '한 ..."
+    "故 최불암, 생전 김혜수에 보낸 문자 재조명…저장하고 또 읽은 '한 ...",
+    "[전문] \"사람부터 돼라\" 故 최불암 유언 재조명…우상호 \"선생님 덕분에 따..."
    ],
    "links": [
     "https://news.nate.com/view/20261030n03977",
-    "https://news.nate.com/view/20261030n06919"
+    "https://news.nate.com/view/20261030n06919",
+    "https://news.nate.com/view/20261030n13891"
    ],
    "articles": [
     {
@@ -2603,26 +2629,32 @@
      "title": "故 최불암, 생전 김혜수에 보낸 문자 재조명…저장하고 또 읽은 '한 ...",
      "link": "https://news.nate.com/view/20261030n06919",
      "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "[전문] \"사람부터 돼라\" 故 최불암 유언 재조명…우상호 \"선생님 덕분에 따...",
+     "link": "https://news.nate.com/view/20261030n13891",
+     "media": "마이데일리"
     }
    ],
    "first": "09:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 1,
    "hours": [
     "09:08",
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 3
+    "nate_pop": 6,
+    "nate_int": 4
    },
-   "count": 2,
+   "count": 3,
    "inrank": true
   },
   {
@@ -2642,20 +2674,21 @@
     }
    ],
    "first": "10:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 8,
    "hours": [
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 12
+    "nate_pop": 21,
+    "nate_int": 26
    },
    "count": 1,
    "inrank": true
@@ -2677,20 +2710,21 @@
     }
    ],
    "first": "10:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 9,
    "hours": [
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 20
+    "nate_pop": 23,
+    "nate_int": 34
    },
    "count": 1,
    "inrank": true
@@ -2719,20 +2753,21 @@
     }
    ],
    "first": "10:08",
-   "last": "11:10",
+   "last": "12:08",
    "best": 11,
    "hours": [
     "10:08",
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 19
+    "nate_pop": 26,
+    "nate_int": 27
    },
    "count": 2,
    "inrank": true
@@ -2783,18 +2818,19 @@
     }
    ],
    "first": "10:52",
-   "last": "11:10",
-   "best": 2,
+   "last": "12:08",
+   "best": 1,
    "hours": [
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
+    "nate_pop": 1,
     "nate_int": 2
    },
    "count": 1,
@@ -2804,24 +2840,32 @@
    "id": "c64",
    "title": "\"유족이 원치 않아\" 故최불암 빈소 비공개…미소 어린 흑백 영정 '먹먹'",
    "titles": [
-    "\"유족이 원치 않아\" 故최불암 빈소 비공개…미소 어린 흑백 영정 '먹먹'"
+    "\"유족이 원치 않아\" 故최불암 빈소 비공개…미소 어린 흑백 영정 '먹먹'",
+    "유인촌, 故최불암 빈소 차려지자마자 조문…\"父같은 존재, 얼른 보자 ..."
    ],
    "links": [
-    "https://news.nate.com/view/20261030n11057"
+    "https://news.nate.com/view/20261030n11057",
+    "https://news.nate.com/view/20261030n14909"
    ],
    "articles": [
     {
      "title": "\"유족이 원치 않아\" 故최불암 빈소 비공개…미소 어린 흑백 영정 '먹먹'",
      "link": "https://news.nate.com/view/20261030n11057",
      "media": "스포티비뉴스"
+    },
+    {
+     "title": "유인촌, 故최불암 빈소 차려지자마자 조문…\"父같은 존재, 얼른 보자 ...",
+     "link": "https://news.nate.com/view/20261030n14909",
+     "media": "뉴스1"
     }
    ],
    "first": "10:52",
-   "last": "11:10",
+   "last": "12:08",
    "best": 3,
    "hours": [
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
@@ -2829,9 +2873,9 @@
    ],
    "now": {
     "nate_pop": 3,
-    "nate_int": 5
+    "nate_int": 7
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -2851,19 +2895,20 @@
     }
    ],
    "first": "10:52",
-   "last": "11:10",
+   "last": "12:08",
    "best": 9,
    "hours": [
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 15
+    "nate_pop": 17,
+    "nate_int": 16
    },
    "count": 1,
    "inrank": true
@@ -2885,17 +2930,20 @@
     }
    ],
    "first": "10:52",
-   "last": "11:10",
-   "best": 34,
+   "last": "12:08",
+   "best": 19,
    "hours": [
     "10:52",
-    "11:10"
+    "11:10",
+    "12:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 34
+    "nate_pop": 19,
+    "nate_int": 28
    },
    "count": 1,
    "inrank": true
@@ -2926,8 +2974,231 @@
    "srcs": [
     "nate_int"
    ],
+   "now": {},
+   "count": 1,
+   "inrank": false
+  },
+  {
+   "id": "c68",
+   "title": "\"방시혁 ㅈ되는 거 보고 싶다\"…민희진 측근, 하이브 기밀 빼돌려 기소",
+   "titles": [
+    "\"방시혁 ㅈ되는 거 보고 싶다\"…민희진 측근, 하이브 기밀 빼돌려 기소"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n12196"
+   ],
+   "articles": [
+    {
+     "title": "\"방시혁 ㅈ되는 거 보고 싶다\"…민희진 측근, 하이브 기밀 빼돌려 기소",
+     "link": "https://news.nate.com/view/20261030n12196",
+     "media": "디스패치"
+    }
+   ],
+   "first": "12:08",
+   "last": "12:08",
+   "best": 2,
+   "hours": [
+    "12:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
    "now": {
-    "nate_int": 46
+    "nate_pop": 2,
+    "nate_int": 3
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c69",
+   "title": "'승리 옥바라지설' 유혜원, 사업가 됐다…\"함께 지켜봐달라\" [MHN:피드]",
+   "titles": [
+    "'승리 옥바라지설' 유혜원, 사업가 됐다…\"함께 지켜봐달라\" [MHN:피드]"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n12854"
+   ],
+   "articles": [
+    {
+     "title": "'승리 옥바라지설' 유혜원, 사업가 됐다…\"함께 지켜봐달라\" [MHN:피드]",
+     "link": "https://news.nate.com/view/20261030n12854",
+     "media": "MHN스포츠"
+    }
+   ],
+   "first": "12:08",
+   "last": "12:08",
+   "best": 11,
+   "hours": [
+    "12:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 11,
+    "nate_int": 14
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c70",
+   "title": "\"이 바닥 뜬다\"더니 결국 말랑이 매장 직접 방문…이광수, SNS 목격담 화...",
+   "titles": [
+    "\"이 바닥 뜬다\"더니 결국 말랑이 매장 직접 방문…이광수, SNS 목격담 화..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n13938"
+   ],
+   "articles": [
+    {
+     "title": "\"이 바닥 뜬다\"더니 결국 말랑이 매장 직접 방문…이광수, SNS 목격담 화...",
+     "link": "https://news.nate.com/view/20261030n13938",
+     "media": "스포츠서울"
+    }
+   ],
+   "first": "12:08",
+   "last": "12:08",
+   "best": 14,
+   "hours": [
+    "12:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 14,
+    "nate_int": 18
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c71",
+   "title": "\"여기 남자 있냐\" 비번 누르며 층마다 돌아다닌女…한서희 경찰 신고",
+   "titles": [
+    "\"여기 남자 있냐\" 비번 누르며 층마다 돌아다닌女…한서희 경찰 신고"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n13526"
+   ],
+   "articles": [
+    {
+     "title": "\"여기 남자 있냐\" 비번 누르며 층마다 돌아다닌女…한서희 경찰 신고",
+     "link": "https://news.nate.com/view/20261030n13526",
+     "media": "머니투데이"
+    }
+   ],
+   "first": "12:08",
+   "last": "12:08",
+   "best": 18,
+   "hours": [
+    "12:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 18,
+    "nate_int": 33
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c72",
+   "title": "어도어 전 부대표, 하이브 '재무정보 무단 반출' 혐의로 약식기소",
+   "titles": [
+    "어도어 전 부대표, 하이브 '재무정보 무단 반출' 혐의로 약식기소"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n11829"
+   ],
+   "articles": [
+    {
+     "title": "어도어 전 부대표, 하이브 '재무정보 무단 반출' 혐의로 약식기소",
+     "link": "https://news.nate.com/view/20261030n11829",
+     "media": "스타투데이"
+    }
+   ],
+   "first": "12:08",
+   "last": "12:08",
+   "best": 48,
+   "hours": [
+    "12:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 48
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c73",
+   "title": "'21kg 감량' 손담비, 등 훤히 드러낸 브라탑 입고 발레 열중…탄탄한 등근...",
+   "titles": [
+    "'21kg 감량' 손담비, 등 훤히 드러낸 브라탑 입고 발레 열중…탄탄한 등근..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n03224"
+   ],
+   "articles": [
+    {
+     "title": "'21kg 감량' 손담비, 등 훤히 드러낸 브라탑 입고 발레 열중…탄탄한 등근...",
+     "link": "https://news.nate.com/view/20261030n03224",
+     "media": "OSEN"
+    }
+   ],
+   "first": "12:08",
+   "last": "12:08",
+   "best": 49,
+   "hours": [
+    "12:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 49
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c74",
+   "title": "아이브 장원영, 액세서리보다 눈에 띄는 비주얼…인형이 따로 없네",
+   "titles": [
+    "아이브 장원영, 액세서리보다 눈에 띄는 비주얼…인형이 따로 없네"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n09054"
+   ],
+   "articles": [
+    {
+     "title": "아이브 장원영, 액세서리보다 눈에 띄는 비주얼…인형이 따로 없네",
+     "link": "https://news.nate.com/view/20261030n09054",
+     "media": "헤럴드뮤즈"
+    }
+   ],
+   "first": "12:08",
+   "last": "12:08",
+   "best": 50,
+   "hours": [
+    "12:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 50
    },
    "count": 1,
    "inrank": true
@@ -3069,9 +3340,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "12:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-10-30T11:10:47.015952+09:00",
+ "updated": "2026-10-30T12:08:21.563330+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

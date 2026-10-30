@@ -67,7 +67,7 @@
     }
    ],
    "first": "00:10",
-   "last": "18:08",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "00:10",
@@ -93,15 +93,16 @@
     "15:10",
     "16:10",
     "17:08",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 16
+    "nate_pop": 14,
+    "nate_int": 29
    },
    "count": 8,
    "inrank": true
@@ -405,7 +406,7 @@
     }
    ],
    "first": "00:10",
-   "last": "18:08",
+   "last": "19:10",
    "best": 2,
    "hours": [
     "00:10",
@@ -432,14 +433,15 @@
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 36
+    "nate_int": 35
    },
    "count": 6,
    "inrank": true
@@ -891,8 +893,8 @@
     }
    ],
    "first": "00:10",
-   "last": "18:08",
-   "best": 5,
+   "last": "19:10",
+   "best": 3,
    "hours": [
     "00:10",
     "01:08",
@@ -902,15 +904,16 @@
     "04:08",
     "05:10",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 7
+    "nate_pop": 12,
+    "nate_int": 3
    },
    "count": 2,
    "inrank": true
@@ -1114,12 +1117,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 28,
-    "nate_int": 26
-   },
+   "now": {},
    "count": 4,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c20",
@@ -1352,7 +1352,7 @@
     }
    ],
    "first": "00:10",
-   "last": "18:08",
+   "last": "19:10",
    "best": 5,
    "hours": [
     "00:10",
@@ -1366,14 +1366,15 @@
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 40
+    "nate_int": 34
    },
    "count": 2,
    "inrank": true
@@ -1910,7 +1911,7 @@
     }
    ],
    "first": "01:08",
-   "last": "18:08",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "01:08",
@@ -1936,14 +1937,15 @@
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
+    "nate_pop": 4,
     "nate_int": 4
    },
    "count": 32,
@@ -2247,11 +2249,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 47
-   },
+   "now": {},
    "count": 3,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c43",
@@ -2343,12 +2343,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 23,
-    "nate_int": 15
-   },
+   "now": {},
    "count": 4,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c45",
@@ -2367,7 +2364,7 @@
     }
    ],
    "first": "08:10",
-   "last": "18:08",
+   "last": "19:10",
    "best": 7,
    "hours": [
     "08:10",
@@ -2382,14 +2379,15 @@
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 37
+    "nate_int": 36
    },
    "count": 1,
    "inrank": true
@@ -2644,7 +2642,7 @@
     }
    ],
    "first": "09:08",
-   "last": "18:08",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "09:08",
@@ -2658,15 +2656,16 @@
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 11
+    "nate_pop": 21,
+    "nate_int": 16
    },
    "count": 2,
    "inrank": true
@@ -2688,7 +2687,7 @@
     }
    ],
    "first": "09:08",
-   "last": "18:08",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "09:08",
@@ -2702,14 +2701,15 @@
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 24
+    "nate_int": 31
    },
    "count": 1,
    "inrank": true
@@ -2752,14 +2752,16 @@
     "[단독] '한국인의 밥상' PD \"최불암, 병상에 누워서도 기어이 내레이션…...",
     "[단독] \"故 최불암, 생전 특집 편성 정중히 사양했지만…\" '한국인의 밥상'...",
     "故 최불암, 생전 김혜수에 보낸 문자 재조명…저장하고 또 읽은 '한 편의 ...",
-    "김혜수 \"최불암, 저를 자식처럼 따뜻하게 품어준 아빠 같은 분\" 재주목"
+    "김혜수 \"최불암, 저를 자식처럼 따뜻하게 품어준 아빠 같은 분\" 재주목",
+    "고두심·김혜수·전도연·송혜교, 故 최불암 가는 길 추모…\"명복을 빈다\"[..."
    ],
    "links": [
     "https://news.nate.com/view/20261030n04975",
     "https://news.nate.com/view/20261030n16208",
     "https://news.nate.com/view/20261030n21251",
     "https://news.nate.com/view/20261030n06919",
-    "https://news.nate.com/view/20261030n10673"
+    "https://news.nate.com/view/20261030n10673",
+    "https://news.nate.com/view/20261030n20571"
    ],
    "articles": [
     {
@@ -2786,10 +2788,15 @@
      "title": "김혜수 \"최불암, 저를 자식처럼 따뜻하게 품어준 아빠 같은 분\" 재주목",
      "link": "https://news.nate.com/view/20261030n10673",
      "media": "뉴스1"
+    },
+    {
+     "title": "고두심·김혜수·전도연·송혜교, 故 최불암 가는 길 추모…\"명복을 빈다\"[...",
+     "link": "https://news.nate.com/view/20261030n20571",
+     "media": "스타뉴스"
     }
    ],
    "first": "09:08",
-   "last": "18:08",
+   "last": "19:10",
    "best": 12,
    "hours": [
     "09:08",
@@ -2803,17 +2810,18 @@
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 17
+    "nate_pop": 28,
+    "nate_int": 15
    },
-   "count": 5,
+   "count": 6,
    "inrank": true
   },
   {
@@ -3095,7 +3103,7 @@
     }
    ],
    "first": "10:52",
-   "last": "18:08",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "10:52",
@@ -3107,15 +3115,16 @@
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 12
+    "nate_pop": 19,
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -3144,7 +3153,7 @@
     }
    ],
    "first": "10:52",
-   "last": "18:08",
+   "last": "19:10",
    "best": 3,
    "hours": [
     "10:52",
@@ -3156,7 +3165,8 @@
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
@@ -3219,7 +3229,7 @@
     }
    ],
    "first": "10:52",
-   "last": "18:08",
+   "last": "19:10",
    "best": 16,
    "hours": [
     "10:52",
@@ -3231,14 +3241,15 @@
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 34
+    "nate_int": 32
    },
    "count": 1,
    "inrank": true
@@ -3290,7 +3301,7 @@
     }
    ],
    "first": "12:08",
-   "last": "18:08",
+   "last": "19:10",
    "best": 2,
    "hours": [
     "12:08",
@@ -3300,15 +3311,16 @@
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 8
+    "nate_pop": 13,
+    "nate_int": 11
    },
    "count": 1,
    "inrank": true
@@ -3533,12 +3545,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 30,
-    "nate_int": 33
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c76",
@@ -3564,7 +3573,7 @@
     }
    ],
    "first": "14:08",
-   "last": "18:08",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "14:08",
@@ -3572,14 +3581,15 @@
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 27
+    "nate_int": 33
    },
    "count": 2,
    "inrank": true
@@ -3639,7 +3649,7 @@
     }
    ],
    "first": "14:08",
-   "last": "18:08",
+   "last": "19:10",
    "best": 6,
    "hours": [
     "14:08",
@@ -3647,15 +3657,15 @@
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 32
+    "nate_int": 47
    },
    "count": 2,
    "inrank": true
@@ -3670,7 +3680,9 @@
     "차예련 측, \"뺨 때려 고막 찢어져\" 학폭 여배우 의혹에 \"사실무근\" [공...",
     "차예련 측, 고막 찢은 학폭 여배우 지목에 \"사실무근\"[공식]",
     "[속보]차예련, 학폭한 85년생 여배우 지목에 \"사실무근\"(공식)",
-    "'학폭 부인' 차예련, \"가해자 맞냐\" 해명 요구 댓글은 삭제…논란 계..."
+    "'학폭 부인' 차예련, \"가해자 맞냐\" 해명 요구 댓글은 삭제…논란 계...",
+    "차예련, \"학폭 사실무근\" 해명→♥주상욱 과거 '학폭 일침' 발언 재조...",
+    "주상욱 \"학폭엔 특단의 조치\" 소신 속…차예련, 학폭 의혹 \"사실 무근\""
    ],
    "links": [
     "https://news.nate.com/view/20261030n20879",
@@ -3679,7 +3691,9 @@
     "https://news.nate.com/view/20261030n22941",
     "https://news.nate.com/view/20261030n22324",
     "https://news.nate.com/view/20261030n22865",
-    "https://news.nate.com/view/20261030n25009"
+    "https://news.nate.com/view/20261030n25009",
+    "https://news.nate.com/view/20261030n30536",
+    "https://news.nate.com/view/20261030n24753"
    ],
    "articles": [
     {
@@ -3716,27 +3730,38 @@
      "title": "'학폭 부인' 차예련, \"가해자 맞냐\" 해명 요구 댓글은 삭제…논란 계...",
      "link": "https://news.nate.com/view/20261030n25009",
      "media": "스포츠조선"
+    },
+    {
+     "title": "차예련, \"학폭 사실무근\" 해명→♥주상욱 과거 '학폭 일침' 발언 재조...",
+     "link": "https://news.nate.com/view/20261030n30536",
+     "media": "TV리포트"
+    },
+    {
+     "title": "주상욱 \"학폭엔 특단의 조치\" 소신 속…차예련, 학폭 의혹 \"사실 무근\"",
+     "link": "https://news.nate.com/view/20261030n24753",
+     "media": "스포츠경향"
     }
    ],
    "first": "15:10",
-   "last": "18:08",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "15:10",
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
+    "nate_pop": 2,
     "nate_int": 1
    },
-   "count": 7,
+   "count": 9,
    "inrank": true
   },
   {
@@ -3756,22 +3781,23 @@
     }
    ],
    "first": "15:10",
-   "last": "18:08",
+   "last": "19:10",
    "best": 4,
    "hours": [
     "15:10",
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 19
+    "nate_pop": 29,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -3974,21 +4000,22 @@
     }
    ],
    "first": "16:10",
-   "last": "18:08",
+   "last": "19:10",
    "best": 2,
    "hours": [
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 14
+    "nate_pop": 18,
+    "nate_int": 21
    },
    "count": 1,
    "inrank": true
@@ -4010,20 +4037,21 @@
     }
    ],
    "first": "16:10",
-   "last": "18:08",
+   "last": "19:10",
    "best": 4,
    "hours": [
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
+    "nate_pop": 27,
     "nate_int": 23
    },
    "count": 1,
@@ -4046,20 +4074,21 @@
     }
    ],
    "first": "16:10",
-   "last": "18:08",
+   "last": "19:10",
    "best": 6,
    "hours": [
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 18
+    "nate_int": 26
    },
    "count": 1,
    "inrank": true
@@ -4132,12 +4161,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 26,
-    "nate_int": 31
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c92",
@@ -4163,21 +4189,22 @@
     }
    ],
    "first": "16:10",
-   "last": "18:08",
+   "last": "19:10",
    "best": 10,
    "hours": [
     "16:10",
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 10
+    "nate_pop": 10,
+    "nate_int": 13
    },
    "count": 2,
    "inrank": true
@@ -4199,19 +4226,20 @@
     }
    ],
    "first": "17:08",
-   "last": "18:08",
+   "last": "19:10",
    "best": 5,
    "hours": [
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
+    "nate_pop": 26,
     "nate_int": 22
    },
    "count": 1,
@@ -4234,20 +4262,21 @@
     }
    ],
    "first": "17:08",
-   "last": "18:08",
+   "last": "19:10",
    "best": 6,
    "hours": [
     "17:08",
     "17:32",
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 9
+    "nate_pop": 7,
+    "nate_int": 10
    },
    "count": 1,
    "inrank": true
@@ -4278,11 +4307,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 49
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c96",
@@ -4330,18 +4357,19 @@
     }
    ],
    "first": "18:08",
-   "last": "18:08",
+   "last": "19:10",
    "best": 4,
    "hours": [
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 20
+    "nate_pop": 25,
+    "nate_int": 43
    },
    "count": 1,
    "inrank": true
@@ -4363,18 +4391,19 @@
     }
    ],
    "first": "18:08",
-   "last": "18:08",
+   "last": "19:10",
    "best": 7,
    "hours": [
-    "18:08"
+    "18:08",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 13
+    "nate_pop": 20,
+    "nate_int": 40
    },
    "count": 1,
    "inrank": true
@@ -4405,12 +4434,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 19,
-    "nate_int": 43
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c100",
@@ -4438,9 +4464,268 @@
     "nate_pop",
     "nate_int"
    ],
+   "now": {},
+   "count": 1,
+   "inrank": false
+  },
+  {
+   "id": "c101",
+   "title": "'43세' 이세돌, 알고 보니 20대 딸 있었다…\"제 딸과 친구\"[백수 이세...",
+   "titles": [
+    "'43세' 이세돌, 알고 보니 20대 딸 있었다…\"제 딸과 친구\"[백수 이세..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n30256"
+   ],
+   "articles": [
+    {
+     "title": "'43세' 이세돌, 알고 보니 20대 딸 있었다…\"제 딸과 친구\"[백수 이세...",
+     "link": "https://news.nate.com/view/20261030n30256",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 1,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 44
+    "nate_pop": 1,
+    "nate_int": 2
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c102",
+   "title": "'나솔' 28기 이혼·결별女들 뭉쳤다 '미소 활짝'…\"이별 3인방 빵터짐\"",
+   "titles": [
+    "'나솔' 28기 이혼·결별女들 뭉쳤다 '미소 활짝'…\"이별 3인방 빵터짐\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n30131"
+   ],
+   "articles": [
+    {
+     "title": "'나솔' 28기 이혼·결별女들 뭉쳤다 '미소 활짝'…\"이별 3인방 빵터짐\"",
+     "link": "https://news.nate.com/view/20261030n30131",
+     "media": "스포티비뉴스"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 6,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 6,
+    "nate_int": 12
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c103",
+   "title": "홍현희, 父 임종 당시 회상 \"의사 앞에 무릎까지 꿇어…너무 후회돼\"[홍쓴...",
+   "titles": [
+    "홍현희, 父 임종 당시 회상 \"의사 앞에 무릎까지 꿇어…너무 후회돼\"[홍쓴..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n30353"
+   ],
+   "articles": [
+    {
+     "title": "홍현희, 父 임종 당시 회상 \"의사 앞에 무릎까지 꿇어…너무 후회돼\"[홍쓴...",
+     "link": "https://news.nate.com/view/20261030n30353",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 8,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 8,
+    "nate_int": 18
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c104",
+   "title": "'고정 0개' 조세호, 아내가 공개한 집 영상→'억'대 그림 포착 [RE:스타]",
+   "titles": [
+    "'고정 0개' 조세호, 아내가 공개한 집 영상→'억'대 그림 포착 [RE:스타]"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n30686"
+   ],
+   "articles": [
+    {
+     "title": "'고정 0개' 조세호, 아내가 공개한 집 영상→'억'대 그림 포착 [RE:스타]",
+     "link": "https://news.nate.com/view/20261030n30686",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 11,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 11,
+    "nate_int": 19
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c105",
+   "title": "故 최불암, 금관문화훈장 추서…윤여정·이정재·故 이순재 잇는 영예 [엑...",
+   "titles": [
+    "故 최불암, 금관문화훈장 추서…윤여정·이정재·故 이순재 잇는 영예 [엑..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n30225"
+   ],
+   "articles": [
+    {
+     "title": "故 최불암, 금관문화훈장 추서…윤여정·이정재·故 이순재 잇는 영예 [엑...",
+     "link": "https://news.nate.com/view/20261030n30225",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 15,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 15,
+    "nate_int": 20
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c106",
+   "title": "이효리, ♥이상순 투병 후 불거진 '은퇴설' 추측에 \"내려놓는다고 한 적 없...",
+   "titles": [
+    "이효리, ♥이상순 투병 후 불거진 '은퇴설' 추측에 \"내려놓는다고 한 적 없..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n29748"
+   ],
+   "articles": [
+    {
+     "title": "이효리, ♥이상순 투병 후 불거진 '은퇴설' 추측에 \"내려놓는다고 한 적 없...",
+     "link": "https://news.nate.com/view/20261030n29748",
+     "media": "스포츠경향"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 22,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 22,
+    "nate_int": 41
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c107",
+   "title": "\"일본인이지만 조선 편 응원\" \"올해 최고 K드라마\" '100일의 거짓말' 해...",
+   "titles": [
+    "\"일본인이지만 조선 편 응원\" \"올해 최고 K드라마\" '100일의 거짓말' 해..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n28908"
+   ],
+   "articles": [
+    {
+     "title": "\"일본인이지만 조선 편 응원\" \"올해 최고 K드라마\" '100일의 거짓말' 해...",
+     "link": "https://news.nate.com/view/20261030n28908",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 24,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 24,
+    "nate_int": 30
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c108",
+   "title": "'12살 연하♥' 유재명, 늦둥이 子 이름 뭐길래…\"아이 운명인데 맘대로 지...",
+   "titles": [
+    "'12살 연하♥' 유재명, 늦둥이 子 이름 뭐길래…\"아이 운명인데 맘대로 지..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261030n29562"
+   ],
+   "articles": [
+    {
+     "title": "'12살 연하♥' 유재명, 늦둥이 子 이름 뭐길래…\"아이 운명인데 맘대로 지...",
+     "link": "https://news.nate.com/view/20261030n29562",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 45,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 45
    },
    "count": 1,
    "inrank": true
@@ -4646,9 +4931,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "19:10",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-10-30T18:08:21.463245+09:00",
+ "updated": "2026-10-30T19:10:59.458837+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

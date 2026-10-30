@@ -101,11 +101,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 8,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c2",
@@ -363,7 +361,8 @@
     "'노동 착취 의혹' 헤이지니, 샌들 두 켤레가 직원 월급보다 비싸…과거 영...",
     "\"심장 고장? 회사가 더 힘들어\" 헤이지니 남편이 한 말…'연봉 2천' 직원 ...",
     "헤이지니, 노동 착취 논란 속 명품 과소비 영상 소환 '직원 줄 돈은 아깝고...",
-    "\"하루 16시간 일\" 헤이지니와 비교되는 이찬혁 회사, 주 4일제→전 직원 스..."
+    "\"하루 16시간 일\" 헤이지니와 비교되는 이찬혁 회사, 주 4일제→전 직원 스...",
+    "헤이지니 연봉 2000만원 줬는데 히밥은 창립 멤버에 월 1200만원, 비교..."
    ],
    "links": [
     "https://news.nate.com/view/20261029n44886",
@@ -371,7 +370,8 @@
     "https://news.nate.com/view/20261029n33435",
     "https://news.nate.com/view/20261029n04068",
     "https://news.nate.com/view/20261030n01905",
-    "https://news.nate.com/view/20261030n05733"
+    "https://news.nate.com/view/20261030n05733",
+    "https://news.nate.com/view/20261030n27091"
    ],
    "articles": [
     {
@@ -403,10 +403,15 @@
      "title": "\"하루 16시간 일\" 헤이지니와 비교되는 이찬혁 회사, 주 4일제→전 직원 스...",
      "link": "https://news.nate.com/view/20261030n05733",
      "media": "뉴스엔"
+    },
+    {
+     "title": "헤이지니 연봉 2000만원 줬는데 히밥은 창립 멤버에 월 1200만원, 비교...",
+     "link": "https://news.nate.com/view/20261030n27091",
+     "media": "뉴스엔"
     }
    ],
    "first": "00:10",
-   "last": "20:08",
+   "last": "21:10",
    "best": 2,
    "hours": [
     "00:10",
@@ -435,16 +440,18 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
+    "nate_pop": 4,
     "nate_int": 36
    },
-   "count": 6,
+   "count": 7,
    "inrank": true
   },
   {
@@ -625,20 +632,27 @@
    "id": "c10",
    "title": "유재석, 건강 악화 딛고 결실 \"허락하는 그날까지 최선 다할 것\"…보관문화...",
    "titles": [
-    "유재석, 건강 악화 딛고 결실 \"허락하는 그날까지 최선 다할 것\"…보관문화..."
+    "유재석, 건강 악화 딛고 결실 \"허락하는 그날까지 최선 다할 것\"…보관문화...",
+    "[SC이슈]고지용, 이혼·건강 악화 딛고 젝스키스 무대 복귀…은지원·김재..."
    ],
    "links": [
-    "https://news.nate.com/view/20261029n41062"
+    "https://news.nate.com/view/20261029n41062",
+    "https://news.nate.com/view/20261030n24998"
    ],
    "articles": [
     {
      "title": "유재석, 건강 악화 딛고 결실 \"허락하는 그날까지 최선 다할 것\"…보관문화...",
      "link": "https://news.nate.com/view/20261029n41062",
      "media": "스타뉴스"
+    },
+    {
+     "title": "[SC이슈]고지용, 이혼·건강 악화 딛고 젝스키스 무대 복귀…은지원·김재...",
+     "link": "https://news.nate.com/view/20261030n24998",
+     "media": "스포츠조선"
     }
    ],
    "first": "00:10",
-   "last": "05:10",
+   "last": "21:10",
    "best": 10,
    "hours": [
     "00:10",
@@ -648,15 +662,18 @@
     "03:10",
     "04:01",
     "04:08",
-    "05:10"
+    "05:10",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 10
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c11",
@@ -894,7 +911,7 @@
     }
    ],
    "first": "00:10",
-   "last": "20:08",
+   "last": "21:10",
    "best": 2,
    "hours": [
     "00:10",
@@ -907,15 +924,16 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 2
+    "nate_pop": 12,
+    "nate_int": 3
    },
    "count": 2,
    "inrank": true
@@ -985,7 +1003,7 @@
     }
    ],
    "first": "00:10",
-   "last": "20:08",
+   "last": "21:10",
    "best": 1,
    "hours": [
     "00:10",
@@ -996,15 +1014,16 @@
     "04:01",
     "04:08",
     "05:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 4
+    "nate_pop": 2,
+    "nate_int": 2
    },
    "count": 2,
    "inrank": true
@@ -1922,7 +1941,7 @@
     }
    ],
    "first": "01:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 1,
    "hours": [
     "01:08",
@@ -1950,15 +1969,16 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 3
+    "nate_pop": 11,
+    "nate_int": 4
    },
    "count": 32,
    "inrank": true
@@ -2152,13 +2172,17 @@
     "\"9년 만 재회, 14살 나이차 극복\" 강균성♥유하진 오늘(30일) 결혼…혼전순...",
     "강균성, ♥유하진과 오늘(30일) 오후 7시 결혼…14세 연하, 9년 전 나이 차...",
     "은지원, ♥9살 연하 아내와 '결혼 1주년' 캠핑카 여행…달달 신혼 근황 ('...",
-    "장성규, '혼전순결' 강균성 결혼 축하 \"그동안 잘 참아온 만큼…\""
+    "장성규, '혼전순결' 강균성 결혼 축하 \"그동안 잘 참아온 만큼…\"",
+    "[속보] 강균성, ♥유하진과 결혼식서 팬미팅? 여성 하객과 직접 셀카",
+    "[단독]혼전순결 지키더니…강균성♥유하진, 결혼식서 입맞춤도 없었다"
    ],
    "links": [
     "https://news.nate.com/view/20261030n02092",
     "https://news.nate.com/view/20261030n04211",
     "https://news.nate.com/view/20261030n04378",
-    "https://news.nate.com/view/20261030n20342"
+    "https://news.nate.com/view/20261030n20342",
+    "https://news.nate.com/view/20261030n32177",
+    "https://news.nate.com/view/20261030n33678"
    ],
    "articles": [
     {
@@ -2180,10 +2204,20 @@
      "title": "장성규, '혼전순결' 강균성 결혼 축하 \"그동안 잘 참아온 만큼…\"",
      "link": "https://news.nate.com/view/20261030n20342",
      "media": "스타뉴스"
+    },
+    {
+     "title": "[속보] 강균성, ♥유하진과 결혼식서 팬미팅? 여성 하객과 직접 셀카",
+     "link": "https://news.nate.com/view/20261030n32177",
+     "media": "MK스포츠"
+    },
+    {
+     "title": "[단독]혼전순결 지키더니…강균성♥유하진, 결혼식서 입맞춤도 없었다",
+     "link": "https://news.nate.com/view/20261030n33678",
+     "media": "스타뉴스"
     }
    ],
    "first": "06:46",
-   "last": "17:08",
+   "last": "21:10",
    "best": 6,
    "hours": [
     "06:46",
@@ -2197,15 +2231,18 @@
     "13:08",
     "15:10",
     "16:10",
-    "17:08"
+    "17:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 4,
-   "inrank": false
+   "now": {
+    "nate_pop": 20
+   },
+   "count": 6,
+   "inrank": true
   },
   {
    "id": "c42",
@@ -2376,7 +2413,7 @@
     }
    ],
    "first": "08:10",
-   "last": "20:08",
+   "last": "21:10",
    "best": 7,
    "hours": [
     "08:10",
@@ -2393,14 +2430,15 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 35
+    "nate_int": 34
    },
    "count": 1,
    "inrank": true
@@ -2655,7 +2693,7 @@
     }
    ],
    "first": "09:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 1,
    "hours": [
     "09:08",
@@ -2671,14 +2709,15 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
+    "nate_pop": 24,
     "nate_int": 18
    },
    "count": 2,
@@ -2701,7 +2740,7 @@
     }
    ],
    "first": "09:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 1,
    "hours": [
     "09:08",
@@ -2717,7 +2756,8 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
@@ -2825,7 +2865,7 @@
     }
    ],
    "first": "09:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 5,
    "hours": [
     "09:08",
@@ -2841,15 +2881,16 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 13
+    "nate_pop": 8,
+    "nate_int": 12
    },
    "count": 8,
    "inrank": true
@@ -3035,7 +3076,7 @@
     }
    ],
    "first": "10:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 9,
    "hours": [
     "10:08",
@@ -3044,15 +3085,16 @@
     "12:08",
     "13:08",
     "14:08",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 29
+    "nate_pop": 13,
+    "nate_int": 15
    },
    "count": 2,
    "inrank": true
@@ -3144,7 +3186,7 @@
     }
    ],
    "first": "10:52",
-   "last": "20:08",
+   "last": "21:10",
    "best": 1,
    "hours": [
     "10:52",
@@ -3158,15 +3200,16 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 16
+    "nate_pop": 22,
+    "nate_int": 20
    },
    "count": 1,
    "inrank": true
@@ -3176,11 +3219,13 @@
    "title": "\"유족이 원치 않아\" 故최불암 빈소 비공개…미소 어린 흑백 영정 '먹먹'",
    "titles": [
     "\"유족이 원치 않아\" 故최불암 빈소 비공개…미소 어린 흑백 영정 '먹먹'",
-    "유인촌, 故최불암 빈소 차려지자마자 조문…\"父같은 존재, 얼른 보자 ..."
+    "유인촌, 故최불암 빈소 차려지자마자 조문…\"父같은 존재, 얼른 보자 ...",
+    "故최불암 빈소 현장, 'BTS 제이홉부터 李대통령까지 애도 물결' [영..."
    ],
    "links": [
     "https://news.nate.com/view/20261030n11057",
-    "https://news.nate.com/view/20261030n14909"
+    "https://news.nate.com/view/20261030n14909",
+    "https://news.nate.com/view/20261030n26402"
    ],
    "articles": [
     {
@@ -3192,10 +3237,15 @@
      "title": "유인촌, 故최불암 빈소 차려지자마자 조문…\"父같은 존재, 얼른 보자 ...",
      "link": "https://news.nate.com/view/20261030n14909",
      "media": "뉴스1"
+    },
+    {
+     "title": "故최불암 빈소 현장, 'BTS 제이홉부터 李대통령까지 애도 물결' [영...",
+     "link": "https://news.nate.com/view/20261030n26402",
+     "media": "스타뉴스"
     }
    ],
    "first": "10:52",
-   "last": "20:08",
+   "last": "21:10",
    "best": 3,
    "hours": [
     "10:52",
@@ -3209,16 +3259,18 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 24
+    "nate_pop": 5,
+    "nate_int": 11
    },
-   "count": 2,
+   "count": 3,
    "inrank": true
   },
   {
@@ -3342,7 +3394,7 @@
     }
    ],
    "first": "12:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 2,
    "hours": [
     "12:08",
@@ -3354,15 +3406,16 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 9
+    "nate_pop": 15,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -3615,7 +3668,7 @@
     }
    ],
    "first": "14:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 1,
    "hours": [
     "14:08",
@@ -3625,14 +3678,15 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 34
+    "nate_int": 35
    },
    "count": 2,
    "inrank": true
@@ -3784,7 +3838,7 @@
     }
    ],
    "first": "15:10",
-   "last": "20:08",
+   "last": "21:10",
    "best": 1,
    "hours": [
     "15:10",
@@ -3793,14 +3847,15 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
+    "nate_pop": 1,
     "nate_int": 1
    },
    "count": 9,
@@ -3823,7 +3878,7 @@
     }
    ],
    "first": "15:10",
-   "last": "20:08",
+   "last": "21:10",
    "best": 4,
    "hours": [
     "15:10",
@@ -3832,15 +3887,15 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 21
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -4043,7 +4098,7 @@
     }
    ],
    "first": "16:10",
-   "last": "20:08",
+   "last": "21:10",
    "best": 2,
    "hours": [
     "16:10",
@@ -4051,7 +4106,8 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
@@ -4059,7 +4115,7 @@
    ],
    "now": {
     "nate_pop": 26,
-    "nate_int": 22
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -4081,7 +4137,7 @@
     }
    ],
    "first": "16:10",
-   "last": "20:08",
+   "last": "21:10",
    "best": 4,
    "hours": [
     "16:10",
@@ -4089,14 +4145,15 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 32
+    "nate_int": 31
    },
    "count": 1,
    "inrank": true
@@ -4118,7 +4175,7 @@
     }
    ],
    "first": "16:10",
-   "last": "20:08",
+   "last": "21:10",
    "best": 6,
    "hours": [
     "16:10",
@@ -4126,7 +4183,8 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
@@ -4234,7 +4292,7 @@
     }
    ],
    "first": "16:10",
-   "last": "20:08",
+   "last": "21:10",
    "best": 10,
    "hours": [
     "16:10",
@@ -4242,15 +4300,16 @@
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 15
+    "nate_pop": 18,
+    "nate_int": 16
    },
    "count": 2,
    "inrank": true
@@ -4272,22 +4331,23 @@
     }
    ],
    "first": "17:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 5,
    "hours": [
     "17:08",
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 23
+    "nate_pop": 29,
+    "nate_int": 21
    },
    "count": 1,
    "inrank": true
@@ -4309,21 +4369,22 @@
     }
    ],
    "first": "17:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 3,
    "hours": [
     "17:08",
     "17:32",
     "18:08",
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
+    "nate_pop": 6,
     "nate_int": 10
    },
    "count": 1,
@@ -4436,19 +4497,22 @@
     }
    ],
    "first": "18:08",
-   "last": "19:10",
+   "last": "21:10",
    "best": 7,
    "hours": [
     "18:08",
-    "19:10"
+    "19:10",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
+   "now": {
+    "nate_int": 48
+   },
    "count": 1,
-   "inrank": false
+   "inrank": true
   },
   {
    "id": "c99",
@@ -4527,19 +4591,20 @@
     }
    ],
    "first": "19:10",
-   "last": "20:08",
+   "last": "21:10",
    "best": 1,
    "hours": [
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 11
+    "nate_pop": 16,
+    "nate_int": 19
    },
    "count": 1,
    "inrank": true
@@ -4571,12 +4636,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 22,
-    "nate_int": 40
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c103",
@@ -4605,11 +4667,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c104",
@@ -4628,19 +4688,19 @@
     }
    ],
    "first": "19:10",
-   "last": "20:08",
+   "last": "21:10",
    "best": 11,
    "hours": [
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 31
+    "nate_int": 50
    },
    "count": 1,
    "inrank": true
@@ -4649,34 +4709,42 @@
    "id": "c105",
    "title": "故 최불암, 금관문화훈장 추서…윤여정·이정재·故 이순재 잇는 영예 [엑...",
    "titles": [
-    "故 최불암, 금관문화훈장 추서…윤여정·이정재·故 이순재 잇는 영예 [엑..."
+    "故 최불암, 금관문화훈장 추서…윤여정·이정재·故 이순재 잇는 영예 [엑...",
+    "[포토] 故 최불암, 금관문화훈장 추서"
    ],
    "links": [
-    "https://news.nate.com/view/20261030n30225"
+    "https://news.nate.com/view/20261030n30225",
+    "https://news.nate.com/view/20261030n33164"
    ],
    "articles": [
     {
      "title": "故 최불암, 금관문화훈장 추서…윤여정·이정재·故 이순재 잇는 영예 [엑...",
      "link": "https://news.nate.com/view/20261030n30225",
      "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "[포토] 故 최불암, 금관문화훈장 추서",
+     "link": "https://news.nate.com/view/20261030n33164",
+     "media": "조이뉴스24"
     }
    ],
    "first": "19:10",
-   "last": "20:08",
+   "last": "21:10",
    "best": 15,
    "hours": [
     "19:10",
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 17
+    "nate_pop": 27,
+    "nate_int": 32
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -4736,11 +4804,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 50
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c108",
@@ -4788,18 +4854,19 @@
     }
    ],
    "first": "20:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 7,
    "hours": [
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 19
+    "nate_pop": 9,
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -4808,33 +4875,41 @@
    "id": "c110",
    "title": "[단독] 반포 살던 김동현, 압구정현대 100억에 샀다…50억원이 '집주인 대...",
    "titles": [
-    "[단독] 반포 살던 김동현, 압구정현대 100억에 샀다…50억원이 '집주인 대..."
+    "[단독] 반포 살던 김동현, 압구정현대 100억에 샀다…50억원이 '집주인 대...",
+    "김동현, 반포 60평 반전세→압구정 신현대 100억 매수…50억은 집주인 대출"
    ],
    "links": [
-    "https://news.nate.com/view/20261030n26554"
+    "https://news.nate.com/view/20261030n26554",
+    "https://news.nate.com/view/20261030n30165"
    ],
    "articles": [
     {
      "title": "[단독] 반포 살던 김동현, 압구정현대 100억에 샀다…50억원이 '집주인 대...",
      "link": "https://news.nate.com/view/20261030n26554",
      "media": "헤럴드경제"
+    },
+    {
+     "title": "김동현, 반포 60평 반전세→압구정 신현대 100억 매수…50억은 집주인 대출",
+     "link": "https://news.nate.com/view/20261030n30165",
+     "media": "뉴스엔"
     }
    ],
    "first": "20:08",
-   "last": "20:08",
-   "best": 9,
+   "last": "21:10",
+   "best": 3,
    "hours": [
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 20
+    "nate_pop": 3,
+    "nate_int": 5
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -4854,18 +4929,19 @@
     }
    ],
    "first": "20:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 11,
    "hours": [
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 42
+    "nate_pop": 23,
+    "nate_int": 28
    },
    "count": 1,
    "inrank": true
@@ -4887,18 +4963,19 @@
     }
    ],
    "first": "20:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 13,
    "hours": [
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 14
+    "nate_pop": 19,
+    "nate_int": 27
    },
    "count": 1,
    "inrank": true
@@ -4920,18 +4997,19 @@
     }
    ],
    "first": "20:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 19,
    "hours": [
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 30
+    "nate_pop": 28,
+    "nate_int": 40
    },
    "count": 1,
    "inrank": true
@@ -4953,18 +5031,18 @@
     }
    ],
    "first": "20:08",
-   "last": "20:08",
+   "last": "21:10",
    "best": 25,
    "hours": [
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 41
+    "nate_int": 49
    },
    "count": 1,
    "inrank": true
@@ -4986,16 +5064,17 @@
     }
    ],
    "first": "20:08",
-   "last": "20:08",
-   "best": 47,
+   "last": "21:10",
+   "best": 44,
    "hours": [
-    "20:08"
+    "20:08",
+    "21:10"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 47
+    "nate_int": 44
    },
    "count": 1,
    "inrank": true
@@ -5217,9 +5296,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "21:10",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-10-30T20:08:35.182122+09:00",
+ "updated": "2026-10-30T21:10:41.635522+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

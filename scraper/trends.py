@@ -466,16 +466,27 @@ def _topic_collect():
 
 
 def main():
-    failed = []
+    import signal, time as _t
+    failed, times = [], {}
+    LIMIT = {"키워드(API HUB)": 1200, "쇼핑": 600}
+    def _alarm(*_):
+        raise TimeoutError("시간 초과")
+    signal.signal(signal.SIGALRM, _alarm)
     for name, fn in [("연예 랭킹", collect_ent), ("시청률", collect_ratings),
                      ("경기 일정", collect_sports), ("키워드", collect_keywords),
                      ("키워드(API HUB)", _hub_collect), ("쇼핑", _shop_collect), ("마트·다이소", _marts_collect), ("경제", _econ_collect), ("레시피", _recipe_collect), ("신차", _cars_collect), ("건강·IT", _topic_collect)]:
+        t0 = _t.time()
+        signal.alarm(LIMIT.get(name, 300))           # 한 항목이 오래 걸리면 끊고 다음으로
         try:
             fn()
         except Exception as e:
             failed.append(name)
             print(f"[실패] {name}: {e}")
             traceback.print_exc()
+        finally:
+            signal.alarm(0)
+            times[name] = round(_t.time() - t0)
+    save(DATA / "run_times.json", {"at": NOW.isoformat(), "seconds": times, "failed": failed})
     if failed:
         print("::warning::소재 수집 실패: " + ", ".join(failed))
 

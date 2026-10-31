@@ -127,6 +127,14 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .ecdue .dd{font-size:12px}
 .lb{display:inline-block;font-size:11px;font-weight:700;border-radius:5px;padding:1px 6px;margin-right:5px;vertical-align:1px;background:var(--line);color:var(--sub)}
 .lb.gov{background:#eaf1fd;color:#2f6fdc}.lb.fact{background:#fff1d6;color:#b45309}
+.calgrid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.calgrid a{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;color:inherit;text-decoration:none;min-width:0}
+.calgrid b{display:block;font-size:14.5px}.calgrid small{color:var(--sub);font-size:12px}
+.cpill{display:inline-block;margin-top:6px;font-size:11px;font-weight:700;border-radius:6px;padding:2px 7px;background:var(--line);color:var(--sub)}
+.cpill.soon{background:var(--accent);color:#fff}.cpill.out{background:#e9f8ef;color:#15803d}.cpill.pre{background:#eaf1fd;color:#2f6fdc}
+.hotcar{display:grid;grid-template-columns:24px 1fr auto;gap:10px;align-items:center;padding:10px 14px;border-top:1px solid var(--line);cursor:pointer}
+.hotcar:first-child{border-top:0}.hotcar .rk{font-weight:800;color:var(--accent);font-size:17px;text-align:center}
+.hotcar small{display:block;color:var(--sub);font-size:12px;margin-top:2px}
 .week button:disabled{opacity:.35;cursor:default}
 /* 마트·다이소 */
 .mitem{display:flex;gap:10px;padding:10px 12px;border-bottom:1px solid var(--line);text-decoration:none;color:var(--text);align-items:center}
@@ -213,7 +221,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .ev .meta{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px;font-size:12px;color:var(--sub);align-items:center}
 .ev .st{flex:none;font-size:12px;font-weight:600;padding:6px 9px;border-radius:8px;border:1px solid var(--line);color:var(--sub)}
 .ev .st.on{border-color:var(--accent);color:var(--accent)}
-#newsQ,#ecQ{width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--text);font-size:14px;margin:8px 0 2px}
+#newsQ,#ecQ,#carQ{width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--text);font-size:14px;margin:8px 0 2px}
 #newsList{overflow:hidden}
 .nw{display:block;padding:10px 13px;border-bottom:1px solid var(--line);color:var(--text);text-decoration:none;font-size:14px}
 .nw:last-child{border:0}
@@ -258,7 +266,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .tips{font-size:12px;color:var(--sub);line-height:1.7;margin:10px 2px 0;padding-left:16px}
 #toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--text);color:var(--bg);padding:10px 16px;border-radius:10px;font-size:14px;opacity:0;transition:.25s;pointer-events:none;z-index:20}
 #toast.on{opacity:1}
-@media(max-width:520px){.btns{grid-template-columns:1fr 1fr}.subnav button{font-size:13px}}
+@media(max-width:520px){nav.main{gap:0}nav.main button{padding:9px 6px;font-size:13.5px}.btns{grid-template-columns:1fr 1fr}.subnav button{font-size:13px}}
 </style>
 </head>
 <body>
@@ -266,6 +274,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
   <div class="brand"><h1>📺 방송 편성표</h1><span id="meta">불러오는 중…</span><button id="installBtn" hidden>📲 앱 설치</button></div>
   <nav class="main" id="mainNav">
     <button data-v="topics">오늘의 소재</button>
+    <button data-v="cars">🚗 신차</button>
     <button data-v="shop">🛍 쇼핑</button>
     <button data-v="image">이미지 합성</button>
     <button data-v="table">표 변환</button>
@@ -343,6 +352,19 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 </section>
 
 <!-- ===================== 쇼핑 ===================== -->
+<!-- ===================== 신차 ===================== -->
+<section class="view" id="v-cars">
+  <div class="subnav" id="carKind" style="grid-template-columns:repeat(3,1fr)"><button data-k="all">전체</button><button data-k="car">🚗 자동차</button><button data-k="moto">🏍 오토바이</button></div>
+  <div class="sec"><h2>🔥 지금 화제인 차 TOP 5</h2></div>
+  <div class="card" id="carHot"></div>
+  <div class="sec"><h2>📆 출시 달력</h2></div>
+  <div class="calgrid" id="carCal"></div>
+  <div class="week" id="carDays" style="margin-top:14px;grid-template-columns:repeat(4,1fr)"></div>
+  <div class="chips" id="carTags" style="margin-top:10px;flex-wrap:wrap"></div>
+  <input id="carQ" style="margin-bottom:8px" type="search" placeholder="차 이름 검색 (예: 그랜저, EV3, PCX)">
+  <div class="card" id="carList"><div class="empty">불러오는 중…</div></div>
+</section>
+
 <section class="view" id="v-shop">
   <div class="subnav" id="shopNav" style="grid-template-columns:1fr 1fr">
     <button data-s="trend" class="on">📊 쇼핑 트렌드</button>
@@ -471,6 +493,7 @@ function go(v, s){
   if(view === "image") drawImg();
   if(view === "table") tbRender();
   if(view === "shop") loadShop();
+  if(view === "cars") loadCars();
 }
 document.querySelectorAll("#mainNav button").forEach(b => b.onclick = () => go(b.dataset.v));
 document.querySelectorAll("#subNav button").forEach(b => b.onclick = () => go("topics", b.dataset.s));
@@ -842,6 +865,60 @@ function showEcon(){
 }
 document.getElementById("ecQ").addEventListener("input", showEcon);
 
+/* ---------- 신차 ---------- */
+let carKind = store.get("carKind", "all"), carDay = "live", carTag = "all", carRows = [], carSum = null;
+const CAR_ORDER = ["신차","현대","기아","제네시스","KGM·르노·GM","수입차","전기차","오토바이","리콜·결함","판매·순위","중고차·시세"];
+document.querySelectorAll("#carKind button").forEach(b => b.onclick = () => { carKind = b.dataset.k; store.set("carKind", carKind); drawCars(); });
+async function loadCars(){
+  const idx = await getJSON("data/cars/index.json", []);
+  carSum = await getJSON("data/cars/summary.json", {hot:[], calendar:[]});
+  const WD = "일월화수목금토", days = idx.slice(0, 3);
+  if(carDay !== "live" && !days.some(x => x.date === carDay)) carDay = "live";
+  const btn = (k, top, big, c) => `<button data-k="${k}" class="${carDay===k?"on":""}"><small>${top}</small><b>${big}</b>${c!=null?`<small>${c}건</small>`:""}</button>`;
+  document.getElementById("carDays").innerHTML = btn("live","최근","🔥 24h") + days.map(x => { const d = new Date(x.date + "T00:00:00");
+    return btn(x.date, x.date === todayStr() ? "오늘" : WD[d.getDay()], `${d.getMonth()+1}/${d.getDate()}`, x.count); }).join("");
+  document.querySelectorAll("#carDays button").forEach(b => b.onclick = () => { carDay = b.dataset.k; loadCars(); });
+  if(carDay === "live"){
+    const fs = await Promise.all(idx.slice(0, 2).map(x => getJSON(`data/cars/${x.date}.json`, {articles:[]})));
+    const cut = Date.now() - 864e5; carRows = fs.flatMap(f => f.articles || []).filter(a => new Date(a.t) >= cut);
+  } else carRows = (await getJSON(`data/cars/${carDay}.json`, {articles:[]})).articles || [];
+  carRows.sort((a,b) => b.t.localeCompare(a.t)); drawCars();
+}
+function drawCars(){
+  document.querySelectorAll("#carKind button").forEach(b => b.classList.toggle("on", b.dataset.k === carKind));
+  const okKind = x => carKind === "all" || (carKind === "moto") === !!x.moto;
+  const hot = (carSum?.hot || []).filter(okKind).slice(0, 5);
+  document.getElementById("carHot").innerHTML = hot.map((h,i) => { const r = h.rise;
+    const rs = r == null ? (h.prev ? "" : '<span class="rise up">NEW</span>') : `<span class="rise ${r>0?"up":r<0?"dn":""}">${r>0?"▲":r<0?"▼":""}${Math.abs(r)}%</span>`;
+    return `<div class="hotcar" data-q="${esc(h.name)}"><span class="rk">${i+1}</span><span><b>${esc(h.name)}</b><small>기사 ${h.count}건${h.why.length ? " · " + h.why.map(esc).join(" · ") : ""}</small></span>${rs}</div>`; }).join("")
+    || '<div class="empty">아직 모인 자료가 없어요. 매시간 자동으로 모아요.</div>';
+  document.querySelectorAll("#carHot .hotcar").forEach(e => e.onclick = () => { const q = document.getElementById("carQ"); q.value = e.dataset.q; carTag = "all"; showCars(); q.scrollIntoView({behavior:"smooth", block:"start"}); });
+  const ST = {soon:["soon", e => dleft(e.date)], presale:["pre", () => "사전계약 중"], out:["out", () => "출시됨"], tbd:["", () => "날짜 미정"]};
+  const md = d => d ? `${+d.slice(5,7)}/${+d.slice(8)}` : "";
+  const cal = (carSum?.calendar || []).filter(okKind).slice(0, 8);
+  document.getElementById("carCal").innerHTML = cal.map(c => `<a href="${esc(c.link)}" target="_blank" rel="noopener"><b>${esc(c.name)}</b>
+    <small>${c.status === "soon" ? md(c.date) + " 출시" : c.status === "presale" ? md(c.date) + " 사전계약" : c.status === "out" ? md(c.date) + " 출시" : "출시 예정"}</small><br>
+    <span class="cpill ${ST[c.status][0]}">${ST[c.status][1](c)}</span></a>`).join("") || '<div class="info">아직 잡힌 출시 일정이 없어요.</div>';
+  showCars();
+}
+function showCars(){
+  const okKind = x => carKind === "all" || (carKind === "moto") === !!x.moto;
+  const rows0 = carRows.filter(okKind);
+  const cnt = {}; rows0.forEach(a => a.tags.forEach(t => cnt[t] = (cnt[t]||0) + 1));
+  if(carTag !== "all" && !cnt[carTag]) carTag = "all";
+  document.getElementById("carTags").innerHTML = [["all","전체",rows0.length], ...CAR_ORDER.filter(k => cnt[k]).map(k => [k,k,cnt[k]])].map(([k,l,n]) =>
+    `<button class="${k===carTag?"on":""}" data-k="${esc(k)}">${esc(l)}<small>${n}</small></button>`).join("");
+  document.querySelectorAll("#carTags button").forEach(b => b.onclick = () => { carTag = b.dataset.k; showCars(); });
+  const q = document.getElementById("carQ").value.trim().toLowerCase().replace(/\s+/g, "");
+  const rows = rows0.filter(a => (carTag === "all" || a.tags.includes(carTag)) && (!q || a.title.toLowerCase().replace(/\s+/g, "").includes(q)));
+  const ago = t => { const m = Math.round((Date.now() - new Date(t)) / 6e4); return m < 60 ? Math.max(m,1) + "분 전" : m < 1440 ? Math.floor(m/60) + "시간 전" : hm(new Date(t)); };
+  const FL = {"사전계약":"pre","가격 공개":"pre","리콜":"fact"};
+  document.getElementById("carList").innerHTML = rows.slice(0, 300).map(a =>
+    `<a class="nw" href="${esc(a.link)}" target="_blank" rel="noopener">${(Date.now() - new Date(a.t)) < 2*36e5 ? '<span class="badge red" style="margin-right:4px">NEW</span>' : ""}${(a.flags||[]).filter(f => FL[f]).map(f => `<span class="lb ${f==="리콜"?"fact":"gov"}">${esc(f)}</span>`).join("")}${esc(a.title)}<small>${esc(a.by||"")} · ${ago(a.t)} · ${a.tags.map(t => "#" + esc(t)).join(" ")}</small></a>`).join("")
+    || '<div class="empty">해당하는 기사가 없어요.</div>';
+}
+document.getElementById("carQ").addEventListener("input", showCars);
+
 /* ---------- 이미지 합성 ---------- */
 const cv = document.getElementById("cv"), cx = cv.getContext("2d");
 const blank = () => ({img:null, zoom:1, dx:0, dy:0});
@@ -1194,7 +1271,7 @@ if("serviceWorker" in navigator) addEventListener("load", () => navigator.servic
 
 /* ---------- 시작 ---------- */
 (async () => {
-  const m = location.hash.match(/^#(schedule|topics|shop|image|table)(?:\/(ent|kw|news|econ|tv))?/);
+  const m = location.hash.match(/^#(schedule|topics|cars|shop|image|table)(?:\/(ent|kw|news|econ|tv))?/);
   const last = store.get("lastView", ["schedule","ent"]);
   view = m ? m[1] : last[0]; sub = (m && m[2]) || last[1] || "ent";
   if(!["ent","kw","news","econ","tv"].includes(sub)) sub = "ent";

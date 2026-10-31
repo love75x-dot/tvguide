@@ -1,7 +1,7 @@
 {
-  "name": "방송 편성표 · 오늘의 소재",
-  "short_name": "편성표",
-  "description": "10개 채널 편성표, 연예 실시간 소재, 이미지 합성, 네이버 표 변환",
+  "name": "오늘의 글감",
+  "short_name": "오늘의 글감",
+  "description": "블로그 소재를 카테고리별로 한곳에: 연예·경제·리빙·카테크·건강, 표 변환·이미지 합성",
   "id": "/",
   "start_url": "/",
   "scope": "/",
@@ -12,19 +12,19 @@
   "lang": "ko",
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "icons/icon-192.png?v=2",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "icons/icon-512.png?v=2",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/maskable-512.png",
+      "src": "icons/maskable-512.png?v=2",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -32,8 +32,8 @@
   ],
   "shortcuts": [
     {
-      "name": "시간대별 편성표",
-      "url": "/#schedule",
+      "name": "표 변환",
+      "url": "/#tools/table",
       "icons": [
         {
           "src": "icons/icon-192.png",
@@ -43,7 +43,7 @@
     },
     {
       "name": "연예 실시간",
-      "url": "/#topics/ent",
+      "url": "/#star/ent",
       "icons": [
         {
           "src": "icons/icon-192.png",
@@ -52,8 +52,8 @@
       ]
     },
     {
-      "name": "쇼핑",
-      "url": "/#shop",
+      "name": "편성표",
+      "url": "/#star/tv",
       "icons": [
         {
           "src": "icons/icon-192.png",
@@ -62,8 +62,8 @@
       ]
     },
     {
-      "name": "표 변환",
-      "url": "/#table",
+      "name": "쇼핑 트렌드",
+      "url": "/#living/trend",
       "icons": [
         {
           "src": "icons/icon-192.png",
@@ -73,7 +73,7 @@
     },
     {
       "name": "이미지 합성",
-      "url": "/#image",
+      "url": "/#tools/image",
       "icons": [
         {
           "src": "icons/icon-192.png",

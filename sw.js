@@ -1,7 +1,7 @@
 // 앱 설치·오프라인용 서비스 워커
 // - 화면(index.html, 아이콘): 인터넷 먼저, 안 되면 저장본
 // - 데이터(data/*.json): 항상 인터넷에서 최신, 끊기면 마지막 저장본
-const CACHE = "tvguide-v1";
+const CACHE = "tvguide-v2";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 
 self.addEventListener("install", e => {

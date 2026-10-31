@@ -4,15 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#e5484d">
-<meta name="description" content="방송 편성표 · 연예 실시간 소재 · 블로그 도구">
+<meta name="description" content="오늘의 글감 · 블로그 소재 모음">
 <link rel="manifest" href="manifest.webmanifest">
-<link rel="icon" href="icons/icon-192.png">
-<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" href="icons/icon-192.png?v=2">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png?v=2">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="편성표">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
-<title>방송 편성표</title>
+<title>오늘의 글감</title>
 <style>
 :root{--bg:#f6f7f9;--card:#fff;--line:#e3e6eb;--text:#1b1e23;--sub:#6b7280;--accent:#e5484d;--live:#fff1f1;--hl:#2563eb;--soft:#f1f2f5;--ok:#15803d;--okbg:#e8f6ec;--warnbg:#fff8e6;--warn:#92400e;--blue:#2563eb;--bluebg:#eaf1ff}
 @media (prefers-color-scheme:dark){:root{--bg:#111316;--card:#1a1d21;--line:#2b2f35;--text:#eceef1;--sub:#9aa1ab;--live:#3a1d1f;--soft:#23272c;--ok:#4ade80;--okbg:#16301f;--warnbg:#2f2614;--warn:#fbbf24;--blue:#7aa7ff;--bluebg:#1b2840}}
@@ -289,14 +289,14 @@ details.help .note{margin:6px 0 0}
 </head>
 <body>
 <div class="top"><div class="topin">
-  <div class="brand"><h1>📺 방송 편성표</h1><span id="meta">불러오는 중…</span><button id="installBtn" hidden>📲 앱 설치</button></div>
+  <div class="brand"><h1>📝 오늘의 글감</h1><span id="meta">불러오는 중…</span><button id="installBtn" hidden>📲 앱 설치</button></div>
   <nav class="main" id="mainNav">
     <button data-c="star"><i>🎬</i><span>연예</span></button>
     <button data-c="econ"><i>💰</i><span>경제</span></button>
     <button data-c="living"><i>🍳</i><span>리빙</span></button>
     <button data-c="it"><i>🚗</i><span>카테크</span></button>
     <button data-c="health"><i>💊</i><span>건강</span></button>
-    <button data-c="etc"><i>📦</i><span>기타</span></button>
+    <button data-c="etc"><i>📦</i><span>그외키워드</span></button>
     <button data-c="tools"><i>🛠</i><span>도구</span></button>
   </nav>
 </div></div>
@@ -382,10 +382,10 @@ details.help .note{margin:6px 0 0}
 <!-- ===================== 쇼핑 ===================== -->
 <!-- ===================== 신차 ===================== -->
 <section class="view" id="v-cars">
-  <div class="subnav" id="carKind" style="grid-template-columns:repeat(3,1fr)"><button data-k="all">전체</button><button data-k="car">🚗 자동차</button><button data-k="moto">🏍 오토바이</button></div>
-  <div class="sec"><h2>🔥 지금 화제인 차 TOP 5</h2></div>
+  <div class="subnav" id="carKind" hidden style="grid-template-columns:repeat(3,1fr)"><button data-k="all">전체</button><button data-k="car">🚗 자동차</button><button data-k="moto">🏍 오토바이</button></div>
+  <div class="sec"><h2 id="carHotH">🔥 지금 화제인 차 TOP 5</h2></div>
   <div class="card" id="carHot"></div>
-  <div class="sec"><h2>📆 출시 달력</h2></div>
+  <div class="sec"><h2 id="carCalH">📆 출시 달력</h2></div>
   <div class="calgrid" id="carCal"></div>
   <div class="week" id="carDays" style="margin-top:14px;grid-template-columns:repeat(4,1fr)"></div>
   <div class="chips" id="carTags" style="margin-top:10px;flex-wrap:wrap"></div>
@@ -511,7 +511,7 @@ const CATS = {
   star:   {pages:[["ent","실시간"],["news","연예기사"],["tv","편성표"],["kw","키워드"]], kw:["영화·드라마","음악·공연"]},
   econ:   {pages:[["econ","경제·정책"],["kw","키워드"]], kw:["경제·재테크"]},
   living: {pages:[["trend","트렌드"],["mart","마트"],["deals","할인행사"],["recipe","레시피"],["kw","키워드"]], kw:["리빙·푸드","여행·맛집","육아·결혼","반려동물","원예·재배","상품리뷰·쇼핑"]},
-  it:     {pages:[["cars","자동차"],["itnews","IT 신제품"],["kw","키워드"]], kw:["자동차·IT","게임·만화"]},
+  it:     {pages:[["car","자동차"],["moto","오토바이"],["itnews","IT/컴퓨터"],["kw","키워드"]], kw:["자동차·IT","게임·만화"]},
   health: {pages:[["health","건강 뉴스"],["kw","키워드"]], kw:["건강·의학"]},
   etc:    {pages:[["kw","키워드"]], kw:["스포츠","패션·뷰티","지식·교육","취미·책"]},
   tools:  {pages:[["table","표 변환"],["image","이미지 합성"]]},
@@ -523,9 +523,9 @@ function show(v, s){
 }
 function go(c, p){
   if(c && !CATS[c]){            // 예전 주소(#topics/tv, #cars, #shop …)도 새 탭으로 연결
-    const map = {topics:{ent:"star",news:"star",tv:"star",kw:"star",econ:"econ"}, cars:"it", shop:"living", image:"tools", table:"tools", schedule:"star"};
+    const map = {topics:{ent:"star",news:"star",tv:"star",kw:"star",econ:"econ"}, cars:"it", car:"it", shop:"living", image:"tools", table:"tools", schedule:"star"};
     const m = map[c];
-    const pp = c === "topics" ? (p || "ent") : c === "shop" ? "trend" : c === "schedule" ? "tv" : c;
+    const pp = c === "topics" ? (p || "ent") : c === "shop" ? "trend" : c === "schedule" ? "tv" : c === "cars" ? "car" : c;
     return go(typeof m === "object" ? (m[pp] || "star") : (m || "star"), pp);
   }
   cat = c || cat; const C = CATS[cat];
@@ -543,7 +543,7 @@ function go(c, p){
     show("topics", page);
     if(page === "kw"){ kwGroup = "all"; loadKw(); }
     else ({ent: loadEnt, news: loadNews, econ: loadEcon, tv: renderWeek})[page]();
-  } else if(page === "cars"){ show("cars"); loadCars(); }
+  } else if(page === "car" || page === "moto"){ show("cars"); carKind = page; document.getElementById("carKind").hidden = true; loadCars(); }
   else if(page === "trend"){ show("shop"); shopSub = "trend"; loadShop(); }
   else if(page === "mart" || page === "deals"){
     show("shop"); shopSub = "mart";
@@ -559,7 +559,7 @@ document.querySelectorAll("#mainNav button").forEach(b => b.onclick = () => go(b
 
 /* ---------- 건강 · IT 신제품 · 방송 레시피 기사 ---------- */
 let fdKind = "health", fdDay = "live", fdTag = "all", fdRows = [];
-const FD = {health:{dir:"data/health", q:"제목 검색 (예: 독감, 영양제, 수면)"}, itnews:{dir:"data/it", q:"제목 검색 (예: 갤럭시, 아이폰, 로봇청소기)"},
+const FD = {health:{dir:"data/health", q:"제목 검색 (예: 독감, 영양제, 수면)"}, itnews:{dir:"data/it", q:"제목 검색 (예: 갤럭시, 아이폰, 노트북, 해킹)"},
             recipe:{file:"data/recipes.json", q:"제목 검색 (예: 편스토랑, 김치, 떡볶이)"}};
 async function loadFeed(kind){
   if(kind !== fdKind){ fdKind = kind; fdDay = "live"; fdTag = "all"; document.getElementById("fdQ").value = ""; }
@@ -971,7 +971,7 @@ document.getElementById("ecQ").addEventListener("input", showEcon);
 
 /* ---------- 신차 ---------- */
 let carKind = store.get("carKind", "all"), carDay = "live", carTag = "all", carRows = [], carSum = null;
-const CAR_ORDER = ["신차","현대","기아","제네시스","KGM·르노·GM","수입차","전기차","오토바이","리콜·결함","판매·순위","중고차·시세"];
+const CAR_ORDER = ["신차","업계 이슈","현대","기아","제네시스","KGM·르노·GM","수입차","전기차","오토바이","리콜·결함","판매·순위","중고차·시세"];
 document.querySelectorAll("#carKind button").forEach(b => b.onclick = () => { carKind = b.dataset.k; store.set("carKind", carKind); drawCars(); });
 async function loadCars(){
   const idx = await getJSON("data/cars/index.json", []);
@@ -989,6 +989,7 @@ async function loadCars(){
   carRows.sort((a,b) => b.t.localeCompare(a.t)); drawCars();
 }
 function drawCars(){
+  document.getElementById("carHotH").textContent = carKind === "moto" ? "🔥 지금 화제인 오토바이 TOP 5" : "🔥 지금 화제인 차 TOP 5";
   document.querySelectorAll("#carKind button").forEach(b => b.classList.toggle("on", b.dataset.k === carKind));
   const okKind = x => carKind === "all" || (carKind === "moto") === !!x.moto;
   const hot = (carSum?.hot || []).filter(okKind).slice(0, 5);

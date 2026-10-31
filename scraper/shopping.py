@@ -13,7 +13,7 @@ import time
 import trends as T
 import hub as H
 
-VERSION = 2
+VERSION = 3
 SHOPDIR = T.DATA / "shopping"
 CONF = T.ROOT / "config" / "shopping.json"
 PROBE = T.DATA / "shopping_probe.json"
@@ -57,6 +57,8 @@ def pct(now, base):
 
 def score(s):
     """s 마지막 값 = 어제(확정치). d1 = 전날 대비, w1 = 지난주 7일 평균 대비"""
+    while len(s) > 10 and s[-1] == 0 and s[-2] > 0:       # 마지막 날 자료가 아직 0이면 그 날은 빼고
+        s = s[:-1]
     pop = round(sum(s[-7:]) / 7, 1)
     d1 = pct(s[-1], s[-2])
     w1 = pct(s[-1], sum(s[-8:-1]) / 7)

@@ -149,6 +149,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .itemchips{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 4px}
 .itemchips a{font-size:13.5px;border:1px solid var(--line);border-radius:16px;padding:5px 11px;text-decoration:none;color:var(--text);background:var(--card)}
 .itemchips a small{color:var(--brand);font-weight:700;margin-left:4px}
+.kn{display:inline-flex;flex-direction:column;min-width:0;flex:none;max-width:100%}.kn b{white-space:nowrap}.kn small{font-size:11px;color:var(--sub);font-weight:400;line-height:1.2}
 .week button:disabled{opacity:.35;cursor:default}
 /* 마트·다이소 */
 .mitem{display:flex;gap:10px;padding:10px 12px;border-bottom:1px solid var(--line);text-decoration:none;color:var(--text);align-items:center}
@@ -1332,12 +1333,15 @@ function renderShop(){
   document.querySelectorAll("#shSort button").forEach(b => b.onclick = () => { shSort = b.dataset.k; renderShop(); });
   const by = {opp:(a,b) => b.opp - a.opp, pop:(a,b) => b.pop - a.pop, rise:(a,b) => M(b) - M(a)}[shSort];
   const gl = {good:"쓰기 좋음", hard:"경쟁 심함", mid:""};
-  list.innerHTML = groups.filter(g => shGroup === "all" || g.name === shGroup).map(g =>
-    `<section class="card kw"><h3>${esc(g.name)} <small>${shortDay(shData.date)} 기준</small></h3>
+  const shown = shGroup === "all"
+    ? [{name: "전체 상품 키워드", keywords: groups.flatMap(g => g.keywords.map(k => ({...k, cat: g.name})))}]
+    : groups.filter(g => g.name === shGroup);
+  list.innerHTML = shown.map(g =>
+    `<section class="card kw"><h3>${esc(g.name)} <small>${shortDay(shData.date)} 기준${shGroup === "all" ? " · " + g.keywords.length + "개" : ""}</small></h3>
      <div class="kh"><span>상품 키워드</span><span>인기도</span><span>상승</span><span>후기 글</span></div>` +
     g.keywords.slice().sort(by).map(k => { const q = encodeURIComponent(k.keyword);
       return `<details class="kr"><summary>
-        <span class="k"><b>${esc(k.keyword)}</b>${k.hot?'<span class="gd hot">오늘 뜸</span>':""}<span class="gd ${k.grade||"mid"}">${gl[k.grade]||""}</span></span>
+        <span class="k"><span class="kn"><b>${esc(k.keyword)}</b>${k.cat?`<small>${esc(k.cat)}</small>`:""}</span>${k.hot?'<span class="gd hot">오늘 뜸</span>':""}<span class="gd ${k.grade||"mid"}">${gl[k.grade]||""}</span></span>
         <span class="popbar">${spark(k.spark)}<span>${Math.round(k.pop)}</span></span>${riseHtml(M(k))}<span class="bc">${n(k.blog)}</span></summary>
         <div class="more"><div class="links">
           <a href="https://search.shopping.naver.com/ns/search?query=${q}" target="_blank" rel="noopener">네이버쇼핑에서 보기</a>

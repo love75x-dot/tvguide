@@ -150,6 +150,15 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .itemchips a{font-size:13.5px;border:1px solid var(--line);border-radius:16px;padding:5px 11px;text-decoration:none;color:var(--text);background:var(--card)}
 .itemchips a small{color:var(--brand);font-weight:700;margin-left:4px}
 .kn{display:inline-flex;flex-direction:column;min-width:0;flex:none;max-width:100%}.kn b{white-space:nowrap}.kn small{font-size:11px;color:var(--sub);font-weight:400;line-height:1.2}
+.htopics{margin-top:10px;display:grid;gap:8px}
+.ht{background:var(--card);border:1px solid var(--line);border-radius:8px}
+.ht summary{list-style:none;cursor:pointer;padding:11px 14px;display:flex;align-items:baseline;gap:8px}
+.ht summary::-webkit-details-marker{display:none}
+.ht summary b{font-size:16px}.ht summary small{color:var(--sub);font-size:12px}
+.hang{display:flex;flex-wrap:wrap;gap:6px;padding:0 14px 10px}
+.hang a{font-size:13px;border:1px solid var(--line);border-radius:14px;padding:4px 10px;text-decoration:none;color:var(--text)}
+.hang a.hot{border-color:var(--brand);color:var(--brand);font-weight:700}
+/* PC: 옆으로 넘기는 줄은 줄바꿈해서 다 보이게 */
 .week button:disabled{opacity:.35;cursor:default}
 /* 마트·다이소 */
 .mitem{display:flex;gap:10px;padding:10px 12px;border-bottom:1px solid var(--line);text-decoration:none;color:var(--text);align-items:center}
@@ -322,6 +331,10 @@ nav.main button.on{color:var(--brand) !important;font-weight:800 !important;bord
 .note{background:var(--tray);color:var(--sub);border-radius:6px}
 #carKind button.on{background:#444;color:#fff}
 #catNav[hidden]{display:none !important}
+@media (hover:hover) and (pointer:fine) and (min-width:700px){
+  body .chips{flex-wrap:wrap !important;overflow:visible !important}
+  body nav.main,body #catNav{flex-wrap:wrap !important}
+}
 nav.main button:first-child{margin-left:auto}nav.main button:last-child{margin-right:auto}
 #catNav button:first-child{margin-left:auto}#catNav button:last-child{margin-right:auto}
 </style>
@@ -609,6 +622,26 @@ function go(c, p){
 }
 document.querySelectorAll("#mainNav button").forEach(b => b.onclick = () => go(b.dataset.c));
 
+/* ---------- 건강 소재 ---------- */
+let hTopics = [], hKind = "all";
+function drawHealthTopics(){
+  const kinds = ["식품·제철","영양제","질환·증상","운동·생활"].filter(k => hTopics.some(t => t.kind === k));
+  if(hKind !== "all" && !kinds.includes(hKind)) hKind = "all";
+  const list = hTopics.filter(t => hKind === "all" || t.kind === hKind).slice(0, 16);
+  const q = w => `https://search.naver.com/search.naver?query=${encodeURIComponent(w)}`;
+  const angles = t => { const base = t.kind === "질환·증상" ? [[t.name + "에 좋은 음식","에 좋은"],[t.name + " 증상","증상"],[t.name + " 예방","예방"]]
+      : t.kind === "운동·생활" ? [[t.name + " 효과","효과"],[t.name + " 방법","방법"],[t.name + " 주의할 점","주의"]]
+      : [[t.name + "의 효능","효능"],[t.name + " 부작용","부작용"],[t.name + " 먹는 법","먹는 법"]];
+    return base.map(([w,l]) => `<a href="${q(w)}" target="_blank" rel="noopener" class="${t.angles.some(a => l.includes(a) || a.includes(l)) ? "hot" : ""}">${esc(w)}</a>`).join(""); };
+  document.getElementById("fdTop").innerHTML = `<div class="sec"><h2>지금 뜨는 건강 소재</h2></div>
+    <div class="info" style="margin:-4px 0 8px">최근 3일 건강 기사 제목에 자주 나온 식품·영양제·질환이에요. 아래 글 제목 예시를 누르면 네이버 검색이 열려요. 초록 글씨는 요즘 기사에서 실제로 많이 다룬 방향이에요.</div>
+    <div class="chips" id="hKinds">${[["all","전체"], ...kinds.map(k => [k,k])].map(([k,l]) => `<button data-k="${k}" class="${k===hKind?"on":""}">${l}</button>`).join("")}</div>
+    <div class="htopics">${list.map(t => `<details class="ht"><summary><b>${esc(t.name)}</b><small>${esc(t.kind)} · 기사 ${t.count}건</small></summary>
+      <div class="hang">${angles(t)}</div>
+      ${t.items.map(a => `<a class="nw" href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}<small>${esc(a.by||"")}</small></a>`).join("")}</details>`).join("") || '<div class="empty">아직 모인 소재가 없어요.</div>'}</div>`;
+  document.querySelectorAll("#hKinds button").forEach(b => b.onclick = () => { hKind = b.dataset.k; drawHealthTopics(); });
+}
+
 /* ---------- 건강 · IT 신제품 · 방송 레시피 기사 ---------- */
 let fdKind = "health", fdDay = "live", fdTag = "all", fdRows = [];
 const FD = {health:{dir:"data/health", q:"제목 검색 (예: 독감, 영양제, 수면)"}, itnews:{dir:"data/it", q:"제목 검색 (예: 갤럭시, 아이폰, 노트북, 해킹)"},
@@ -629,7 +662,8 @@ async function loadFeed(kind){
     daysBox.hidden = true;
     const idx = await getJSON(`${F.dir}/index.json`, []);
     const iss = await getJSON(`${F.dir}/issues.json`, {});
-    document.getElementById("fdTop").innerHTML = issueBox(iss.all, kind === "health" ? "지금 건강 이슈" : "지금 IT 이슈");
+    if(kind === "health"){ hTopics = (await getJSON(`${F.dir}/topics.json`, {topics:[]})).topics || []; drawHealthTopics(); }
+    else document.getElementById("fdTop").innerHTML = issueBox(iss.all, "지금 IT 이슈");
     document.getElementById("fdH").textContent = "최근 24시간 소식";
     const fs = await Promise.all(idx.slice(0, 2).map(x => getJSON(`${F.dir}/${x.date}.json`, {articles:[]})));
     const cut = Date.now() - 864e5; fdRows = fs.flatMap(f => f.articles || []).filter(a => new Date(a.t) >= cut);

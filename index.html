@@ -25,7 +25,7 @@ a{color:inherit}
 .brand{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
 h1{font-size:19px;margin:0}
 #meta{font-size:12px;color:var(--sub)}
-nav.main{display:flex;gap:4px;margin-top:10px;overflow-x:auto}
+nav.main{display:grid;grid-template-columns:repeat(4,1fr);gap:2px 4px;margin-top:10px}
 nav.main button{flex:none;border:0;background:none;color:var(--sub);font-size:15px;font-weight:600;padding:9px 12px;border-bottom:3px solid transparent;cursor:pointer}
 nav.main button.on{color:var(--text);border-bottom-color:var(--accent)}
 .wrap{max-width:1100px;margin:0 auto;padding:12px 16px 48px}
@@ -135,6 +135,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .hotcar{display:grid;grid-template-columns:24px 1fr auto;gap:10px;align-items:center;padding:10px 14px;border-top:1px solid var(--line);cursor:pointer}
 .hotcar:first-child{border-top:0}.hotcar .rk{font-weight:800;color:var(--accent);font-size:17px;text-align:center}
 .hotcar small{display:block;color:var(--sub);font-size:12px;margin-top:2px}
+#catNav{margin-bottom:4px}#catNav button{white-space:nowrap;font-size:13px;padding-left:0;padding-right:0}.subnav[hidden],#fdDays[hidden],#martTabs[hidden]{display:none}
 .week button:disabled{opacity:.35;cursor:default}
 /* 마트·다이소 */
 .mitem{display:flex;gap:10px;padding:10px 12px;border-bottom:1px solid var(--line);text-decoration:none;color:var(--text);align-items:center}
@@ -221,7 +222,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .ev .meta{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px;font-size:12px;color:var(--sub);align-items:center}
 .ev .st{flex:none;font-size:12px;font-weight:600;padding:6px 9px;border-radius:8px;border:1px solid var(--line);color:var(--sub)}
 .ev .st.on{border-color:var(--accent);color:var(--accent)}
-#newsQ,#ecQ,#carQ{width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--text);font-size:14px;margin:8px 0 2px}
+#newsQ,#ecQ,#carQ,#fdQ{width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--text);font-size:14px;margin:8px 0 2px}
 #newsList{overflow:hidden}
 .nw{display:block;padding:10px 13px;border-bottom:1px solid var(--line);color:var(--text);text-decoration:none;font-size:14px}
 .nw:last-child{border:0}
@@ -266,22 +267,32 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .tips{font-size:12px;color:var(--sub);line-height:1.7;margin:10px 2px 0;padding-left:16px}
 #toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--text);color:var(--bg);padding:10px 16px;border-radius:10px;font-size:14px;opacity:0;transition:.25s;pointer-events:none;z-index:20}
 #toast.on{opacity:1}
-@media(max-width:520px){nav.main{gap:0}nav.main button{padding:9px 6px;font-size:13.5px}.btns{grid-template-columns:1fr 1fr}.subnav button{font-size:13px}}
+@media(max-width:520px){nav.main{gap:0}nav.main button{padding:8px 4px;font-size:13.5px}.btns{grid-template-columns:1fr 1fr}.subnav button{font-size:13px}}
 </style>
 </head>
 <body>
 <div class="top"><div class="topin">
   <div class="brand"><h1>📺 방송 편성표</h1><span id="meta">불러오는 중…</span><button id="installBtn" hidden>📲 앱 설치</button></div>
   <nav class="main" id="mainNav">
-    <button data-v="topics">오늘의 소재</button>
-    <button data-v="cars">🚗 신차</button>
-    <button data-v="shop">🛍 쇼핑</button>
-    <button data-v="image">이미지 합성</button>
-    <button data-v="table">표 변환</button>
+    <button data-c="star">🎬 스타·방송</button>
+    <button data-c="econ">💰 경제·비즈</button>
+    <button data-c="living">🍳 리빙·푸드</button>
+    <button data-c="it">🚗 IT·자동차</button>
+    <button data-c="health">💊 건강</button>
+    <button data-c="etc">📦 기타</button>
+    <button data-c="tools">🛠 도구</button>
   </nav>
 </div></div>
 
 <div class="wrap">
+<div class="subnav" id="catNav"></div>
+<!-- ===================== 건강·IT·레시피 기사 ===================== -->
+<section class="view" id="v-feed">
+  <div class="week" id="fdDays" style="margin-top:10px;grid-template-columns:repeat(4,1fr)"></div>
+  <div class="chips" id="fdTags" style="margin-top:10px;flex-wrap:wrap"></div>
+  <input id="fdQ" style="margin-bottom:8px" type="search" placeholder="제목 검색">
+  <div class="card" id="fdList"><div class="empty">불러오는 중…</div></div>
+</section>
 <!-- ===================== 편성표 ===================== -->
 <section class="view" id="v-schedule">
   <div class="chips" id="days"></div>
@@ -296,7 +307,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 
 <!-- ===================== 오늘의 소재 ===================== -->
 <section class="view" id="v-topics">
-  <div class="subnav" id="subNav">
+  <div class="subnav" id="subNav" hidden>
     <button data-s="ent">연예 실시간</button>
     <button data-s="kw">키워드</button>
     <button data-s="news">기사 모음</button>
@@ -366,12 +377,12 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 </section>
 
 <section class="view" id="v-shop">
-  <div class="subnav" id="shopNav" style="grid-template-columns:1fr 1fr">
+  <div class="subnav" id="shopNav" style="grid-template-columns:1fr 1fr" hidden>
     <button data-s="trend" class="on">📊 쇼핑 트렌드</button>
     <button data-s="mart">🏬 마트·다이소</button>
   </div>
   <div id="shopMart" hidden>
-    <div class="seg" id="martTabs" style="margin-top:10px"><button data-m="costco">코스트코</button><button data-m="traders">트레이더스</button><button data-m="daiso">다이소</button><button data-m="deals">🔥 할인 소식</button></div>
+    <div class="seg" id="martTabs" style="margin-top:10px"><button data-m="costco">코스트코</button><button data-m="traders">트레이더스</button><button data-m="daiso">다이소</button></div>
     <div class="info" id="martInfo"></div>
     <div id="martBody"></div>
   </div>
@@ -478,25 +489,99 @@ function toast(msg){ const t = document.getElementById("toast"); t.textContent =
 const normProg = s => String(s).replace(/<[^>]*>|\[[^\]]*\]/g,"").replace(/\s+\d+\s*[회화부]$/,"").replace(/\(재\)|\(본\)|\s|[^\w가-힣]/g,"").toLowerCase();
 
 /* ---------- 화면 전환 ---------- */
-let view = "schedule", sub = "ent";
-function go(v, s){
-  view = v || view; if(s) sub = s;
-  document.querySelectorAll(".view").forEach(e => e.classList.toggle("on", e.id === "v-" + view));
-  document.querySelectorAll("#mainNav button").forEach(b => b.classList.toggle("on", b.dataset.v === view));
+let view = "topics", sub = "ent", cat = "tools", page = "table";
+const CATS = {
+  star:   {pages:[["ent","실시간"],["news","연예기사"],["tv","편성표"],["kw","키워드"]], kw:["영화·드라마","음악·공연"]},
+  econ:   {pages:[["econ","경제·정책"],["kw","키워드"]], kw:["경제·재테크"]},
+  living: {pages:[["trend","트렌드"],["mart","마트"],["deals","할인행사"],["recipe","레시피"],["kw","키워드"]], kw:["리빙·푸드","여행·맛집","육아·결혼","반려동물","원예·재배","상품리뷰·쇼핑"]},
+  it:     {pages:[["cars","자동차"],["itnews","IT 신제품"],["kw","키워드"]], kw:["자동차·IT","게임·만화"]},
+  health: {pages:[["health","건강 뉴스"],["kw","키워드"]], kw:["건강·의학"]},
+  etc:    {pages:[["kw","키워드"]], kw:["스포츠","패션·뷰티","지식·교육","취미·책"]},
+  tools:  {pages:[["table","표 변환"],["image","이미지 합성"]]},
+};
+function show(v, s){
+  view = v; if(s) sub = s;
+  document.querySelectorAll(".view").forEach(e => e.classList.toggle("on", e.id === "v-" + v));
   document.querySelectorAll(".sub").forEach(e => e.hidden = e.id !== "s-" + sub);
-  document.querySelectorAll("#subNav button").forEach(b => b.classList.toggle("on", b.dataset.s === sub));
-  const h = view === "topics" ? `#topics/${sub}` : `#${view}`;
-  if(location.hash !== h) history.replaceState(null, "", h);
-  store.set("lastView", [view, sub]);
-  if(view === "topics"){ ({ent: loadEnt, kw: loadKw, news: loadNews, econ: loadEcon, tv: renderWeek})[sub](); }
-  if(view === "schedule") renderSchedule();
-  if(view === "image") drawImg();
-  if(view === "table") tbRender();
-  if(view === "shop") loadShop();
-  if(view === "cars") loadCars();
 }
-document.querySelectorAll("#mainNav button").forEach(b => b.onclick = () => go(b.dataset.v));
-document.querySelectorAll("#subNav button").forEach(b => b.onclick = () => go("topics", b.dataset.s));
+function go(c, p){
+  if(c && !CATS[c]){            // 예전 주소(#topics/tv, #cars, #shop …)도 새 탭으로 연결
+    const map = {topics:{ent:"star",news:"star",tv:"star",kw:"star",econ:"econ"}, cars:"it", shop:"living", image:"tools", table:"tools", schedule:"star"};
+    const m = map[c];
+    const pp = c === "topics" ? (p || "ent") : c === "shop" ? "trend" : c === "schedule" ? "tv" : c;
+    return go(typeof m === "object" ? (m[pp] || "star") : (m || "star"), pp);
+  }
+  cat = c || cat; const C = CATS[cat];
+  page = p && C.pages.some(x => x[0] === p) ? p : (C.pages.some(x => x[0] === page) ? page : C.pages[0][0]);
+  document.querySelectorAll("#mainNav button").forEach(b => b.classList.toggle("on", b.dataset.c === cat));
+  const nav = document.getElementById("catNav");
+  nav.hidden = C.pages.length < 2;
+  nav.style.gridTemplateColumns = `repeat(${C.pages.length},1fr)`;
+  nav.innerHTML = C.pages.map(([k,l]) => `<button data-p="${k}" class="${k===page?"on":""}">${l}</button>`).join("");
+  nav.querySelectorAll("button").forEach(b => b.onclick = () => go(cat, b.dataset.p));
+  const h = `#${cat}/${page}`;
+  if(location.hash !== h) history.replaceState(null, "", h);
+  kwAllow = C.kw || null;
+  if(["ent","news","tv","econ","kw"].includes(page)){
+    show("topics", page);
+    if(page === "kw"){ kwGroup = "all"; loadKw(); }
+    else ({ent: loadEnt, news: loadNews, econ: loadEcon, tv: renderWeek})[page]();
+  } else if(page === "cars"){ show("cars"); loadCars(); }
+  else if(page === "trend"){ show("shop"); shopSub = "trend"; loadShop(); }
+  else if(page === "mart" || page === "deals"){
+    show("shop"); shopSub = "mart";
+    document.getElementById("martTabs").hidden = page === "deals";
+    if(page === "deals") mart = "deals"; else if(mart === "deals") mart = "costco";
+    loadShop();
+  }
+  else if(["recipe","itnews","health"].includes(page)){ show("feed"); loadFeed(page); }
+  else if(page === "table"){ show("table"); tbRender(); }
+  else if(page === "image"){ show("image"); drawImg(); }
+}
+document.querySelectorAll("#mainNav button").forEach(b => b.onclick = () => go(b.dataset.c));
+
+/* ---------- 건강 · IT 신제품 · 방송 레시피 기사 ---------- */
+let fdKind = "health", fdDay = "live", fdTag = "all", fdRows = [];
+const FD = {health:{dir:"data/health", q:"제목 검색 (예: 독감, 영양제, 수면)"}, itnews:{dir:"data/it", q:"제목 검색 (예: 갤럭시, 아이폰, 로봇청소기)"},
+            recipe:{file:"data/recipes.json", q:"제목 검색 (예: 편스토랑, 김치, 떡볶이)"}};
+async function loadFeed(kind){
+  if(kind !== fdKind){ fdKind = kind; fdDay = "live"; fdTag = "all"; document.getElementById("fdQ").value = ""; }
+  const F = FD[kind]; document.getElementById("fdQ").placeholder = F.q;
+  const daysBox = document.getElementById("fdDays");
+  if(F.file){
+    daysBox.hidden = true;
+    const d = await getJSON(F.file, {articles:[]});
+    fdRows = (d.articles || []).map(a => ({...a, tags: [a.show || "기타"]}));
+  } else {
+    daysBox.hidden = false;
+    const idx = await getJSON(`${F.dir}/index.json`, []), WD = "일월화수목금토", days = idx.slice(0, 3);
+    if(fdDay !== "live" && !days.some(x => x.date === fdDay)) fdDay = "live";
+    const btn = (k, top, big, c) => `<button data-k="${k}" class="${fdDay===k?"on":""}"><small>${top}</small><b>${big}</b>${c!=null?`<small>${c}건</small>`:""}</button>`;
+    daysBox.innerHTML = btn("live","최근","🔥 24h") + days.map(x => { const d = new Date(x.date + "T00:00:00");
+      return btn(x.date, x.date === todayStr() ? "오늘" : WD[d.getDay()], `${d.getMonth()+1}/${d.getDate()}`, x.count); }).join("");
+    daysBox.querySelectorAll("button").forEach(b => b.onclick = () => { fdDay = b.dataset.k; loadFeed(fdKind); });
+    if(fdDay === "live"){
+      const fs = await Promise.all(idx.slice(0, 2).map(x => getJSON(`${F.dir}/${x.date}.json`, {articles:[]})));
+      const cut = Date.now() - 864e5; fdRows = fs.flatMap(f => f.articles || []).filter(a => new Date(a.t) >= cut);
+    } else fdRows = (await getJSON(`${F.dir}/${fdDay}.json`, {articles:[]})).articles || [];
+  }
+  fdRows.sort((a,b) => b.t.localeCompare(a.t)); showFeed();
+}
+function showFeed(){
+  const cnt = {}; fdRows.forEach(a => a.tags.forEach(t => cnt[t] = (cnt[t]||0) + 1));
+  if(fdTag !== "all" && !cnt[fdTag]) fdTag = "all";
+  document.getElementById("fdTags").innerHTML = [["all","전체",fdRows.length], ...Object.entries(cnt).sort((a,b) => b[1]-a[1]).map(([k,n]) => [k,k,n])].map(([k,l,n]) =>
+    `<button class="${k===fdTag?"on":""}" data-k="${esc(k)}">${esc(l)}<small>${n}</small></button>`).join("");
+  document.querySelectorAll("#fdTags button").forEach(b => b.onclick = () => { fdTag = b.dataset.k; showFeed(); });
+  const q = document.getElementById("fdQ").value.trim().toLowerCase().replace(/\s+/g, "");
+  const rows = fdRows.filter(a => (fdTag === "all" || a.tags.includes(fdTag)) && (!q || a.title.toLowerCase().replace(/\s+/g, "").includes(q)));
+  const ago = t => { const m = Math.round((Date.now() - new Date(t)) / 6e4); return m < 60 ? Math.max(m,1) + "분 전" : m < 1440 ? Math.floor(m/60) + "시간 전" : shortDay(kstDay(new Date(t))) + " " + hm(new Date(t)); };
+  document.getElementById("fdList").innerHTML = rows.slice(0, 300).map(a =>
+    `<a class="nw" href="${esc(a.link)}" target="_blank" rel="noopener">${(Date.now() - new Date(a.t)) < 2*36e5 ? '<span class="badge red" style="margin-right:4px">NEW</span>' : ""}${esc(a.title)}<small>${esc(a.by||"")} · ${ago(a.t)} · ${a.tags.map(t => "#" + esc(t)).join(" ")}</small></a>`).join("")
+    || '<div class="empty">아직 모인 기사가 없어요. 매시간 자동으로 모아요.</div>';
+}
+document.getElementById("fdQ").addEventListener("input", showFeed);
+
 
 /* ---------- 데이터 ---------- */
 let sched = null, ratings = {latest:{}}, sports = {games:[]};
@@ -655,7 +740,7 @@ function stripHtml(){
   const ev = bcEvents(today).filter(e => e.e > now && (e.kind === "game" || e.rating || e.type === "본"))
     .sort((a,b) => (b.kind==="game") - (a.kind==="game") || (b.rating?.rating||0) - (a.rating?.rating||0)).slice(0,4).sort((a,b) => a.s - b.s);
   if(!ev.length) return "";
-  return `<h4><span>📺 오늘 방송·경기</span><a onclick="schMode='time';go('schedule')">시간대별 편성표 →</a></h4>` + ev.map(e => {
+  return `<h4><span>📺 오늘 방송·경기</span><a onclick="go('star','tv')">시간대별 편성표 →</a></h4>` + ev.map(e => {
     const on = e.s <= now;
     return `<div class="it"><time>${hm(e.s)}</time><span>${esc(e.title)} · ${esc(e.kind==="game"?e.g.league:e.ch)}</span><em>${on?(e.kind==="game"?"경기 중 ▶":"방송 중 ▶"):(e.s-now<3600e3?"곧 시작":"끝 "+hm(e.e))}</em></div>`;
   }).join("");
@@ -742,9 +827,11 @@ const fmtN = n => n >= 10000 ? (n/10000).toFixed(n >= 100000 ? 0 : 1).replace(/\
 let kwSort = "opp";
 const spark = a => { if(!a || !a.length) return ""; const w = 46, h = 14, mx = Math.max(...a, 1);
   return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" style="flex:none"><polyline fill="none" stroke="currentColor" stroke-width="1.4" opacity=".6" points="${a.map((v,i) => `${(i/(a.length-1)*w).toFixed(1)},${(h - v/mx*(h-2) - 1).toFixed(1)}`).join(" ")}"/></svg>`; };
+let kwAllow = null;
 function renderKwHub(){
   const box = document.getElementById("kwList"), chips = document.getElementById("kwGroups");
-  const groups = kwData.groups.filter(g => g.keywords.length);
+  const groups = kwData.groups.filter(g => g.keywords.length && (!kwAllow || kwAllow.includes(g.name)));
+  if(kwGroup !== "all" && !groups.some(g => g.name === kwGroup)) kwGroup = "all";
   chips.innerHTML = [["all","전체"], ...groups.map(g => [g.name, g.name])].map(([k,l]) =>
     `<button class="${k===kwGroup?"on":""}" data-k="${esc(k)}">${esc(l)}</button>`).join("");
   chips.querySelectorAll("button").forEach(b => b.onclick = () => { kwGroup = b.dataset.k; renderKw(); });
@@ -785,7 +872,7 @@ function renderKw(){
   }
   if(kwData.source === "hub"){ renderKwHub(); return; }
   document.getElementById("kwSort").innerHTML = "";
-  const groups = kwData.groups.filter(g => g.keywords.length);
+  const groups = kwData.groups.filter(g => g.keywords.length && (!kwAllow || kwAllow.includes(g.name)));
   chips.innerHTML = [["all","전체"], ...groups.map(g => [g.name, g.name])].map(([k,l]) =>
     `<button class="${k===kwGroup?"on":""}" data-k="${esc(k)}">${esc(l)}</button>`).join("");
   chips.querySelectorAll("button").forEach(b => b.onclick = () => { kwGroup = b.dataset.k; renderKw(); });
@@ -1271,18 +1358,14 @@ if("serviceWorker" in navigator) addEventListener("load", () => navigator.servic
 
 /* ---------- 시작 ---------- */
 (async () => {
-  const m = location.hash.match(/^#(schedule|topics|cars|shop|image|table)(?:\/(ent|kw|news|econ|tv))?/);
-  const last = store.get("lastView", ["schedule","ent"]);
-  view = m ? m[1] : last[0]; sub = (m && m[2]) || last[1] || "ent";
-  if(!["ent","kw","news","econ","tv"].includes(sub)) sub = "ent";
-  if(view === "schedule"){ view = "topics"; sub = "tv"; }
-  go(view, sub);
+  const m = location.hash.match(/^#(\w+)(?:\/(\w+))?/);
+  if(m) go(m[1], m[2]); else go("tools", "table");      // 첫 화면은 표 변환
   await loadBase();
   renderSchedule();
-  go(view, sub);
+  go(cat, page);
 })();
-setInterval(() => { if(view==="schedule") renderSchedule(); if(view==="topics" && sub==="tv") renderWeek(); }, 60e3);
-setInterval(async () => { await loadBase(); renderSchedule(); if(view==="topics") go(); }, 15*60e3);
+setInterval(() => { if(page==="tv") renderWeek(); }, 60e3);
+setInterval(async () => { await loadBase(); renderSchedule(); if(!["table","image"].includes(page)) go(cat, page); }, 15*60e3);
 </script>
 </body>
 </html>

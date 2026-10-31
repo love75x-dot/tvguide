@@ -100,7 +100,8 @@ def collect():
         time.sleep(0.15)
     # 어제 자료가 아직 안 올라왔으면(전부 0) 그 날은 빼고 계산 → 다음 시간에 다시 시도
     nd = len(days)
-    while nd > 10 and all((s[nd - 1] if len(s) >= nd else 0) == 0 for s in cat_series.values()):
+    tot = lambda i: sum(s[i] for s in cat_series.values() if len(s) > i)
+    while nd > 10 and (tot(nd - 1) < 0.5 * tot(nd - 2) or any(len(s) >= nd and s[nd - 1] == 0 for s in cat_series.values())):
         nd -= 1
     days = days[:nd]
     cat_series = {k: v[:nd] for k, v in cat_series.items()}

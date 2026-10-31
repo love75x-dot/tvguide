@@ -255,7 +255,9 @@ def collect(force=False):
     import issues
     def items_of(rows):
         arts = [{"title": x["title"], "link": x["link"], "t": x.get("date") or "", "by": x.get("by") or x["link"][:40]} for x in rows]
-        return [{"name": i["name"], "count": i["count"], "link": i["items"][0]["link"]} for i in issues.find(arts, top=10, min_src=2)]
+        bad = re.compile(r"다이소|트레이더스|코스트코|이마트|쓱데|추천|구매|후기|리뷰|꿀템|핫템|인기템|품절템|신상|가성비|살림|이번주|쇼핑")
+        return [{"name": i["name"], "count": i["count"], "link": i["items"][0]["link"]} for i in issues.find(arts, top=20, min_src=2)
+                if not bad.search(i["name"])][:10]
     dhot = items_of([x for v in dgroups.values() for x in v])
     deal, errors["deals"] = safe(deals) if os.getenv("NAVER_HUB_ID") else (None, None)
 

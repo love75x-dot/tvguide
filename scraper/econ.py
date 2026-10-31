@@ -26,7 +26,7 @@ TOPICS = [("정부 정책", ["정부 정책 발표", "정책브리핑"]),
           ("금리·물가", ["기준금리", "물가 상승", "대출 금리"]),
           ("주식·환율", ["코스피", "환율"]),
           ("세금·연금", ["연말정산", "국민연금", "세금 개편"]),
-          ("교통·개발", ["광역철도", "GTX", "교통 호재", "신도시 개발", "철도 노선"]),
+          ("교통·개발", ["광역철도", "국가철도망", "GTX", "교통 호재", "신도시 개발", "철도 노선"]),
           ("경제 이슈", ["경제 이슈", "산업 이슈", "기업 이슈"])]
 APPLY = re.compile(r"신청|접수|모집|지원금|바우처|공모")
 DATE = re.compile(r"(\d{1,2})월\s*(\d{1,2})일\s*(?:\([월화수목금토일]\)\s*)?까지|~\s*(\d{1,2})월\s*(\d{1,2})일|~\s*(\d{1,2})\.\s*(\d{1,2})\b|(\d{1,2})\.\s*(\d{1,2})\.?\s*\([월화수목금토일]\)\s*까지")
@@ -171,7 +171,7 @@ def collect():
                 old["gov"] = old.get("gov") or a.get("gov", False)
             else:
                 book[k] = a
-        rows = sorted(book.values(), key=lambda x: x["t"], reverse=True)[:400]
+        rows = sorted(book.values(), key=lambda x: x["t"], reverse=True)[:1000]
         T.save(f, {"date": day, "updated": T.NOW.isoformat(), "articles": rows})
     files = sorted(DIR.glob("????-??-??.json"), reverse=True)
     for old in files[10:]:

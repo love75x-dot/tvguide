@@ -116,7 +116,7 @@
     }
    ],
    "first": "00:09",
-   "last": "18:08",
+   "last": "18:39",
    "best": 1,
    "hours": [
     "00:09",
@@ -141,7 +141,8 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
@@ -283,7 +284,7 @@
     }
    ],
    "first": "00:09",
-   "last": "18:08",
+   "last": "18:39",
    "best": 1,
    "hours": [
     "00:09",
@@ -306,15 +307,16 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 14
+    "nate_pop": 24,
+    "nate_int": 16
    },
    "count": 17,
    "inrank": true
@@ -699,7 +701,7 @@
     }
    ],
    "first": "00:09",
-   "last": "18:08",
+   "last": "18:39",
    "best": 2,
    "hours": [
     "00:09",
@@ -724,14 +726,15 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
+    "nate_pop": 11,
     "nate_int": 17
    },
    "count": 22,
@@ -813,7 +816,7 @@
     }
    ],
    "first": "00:09",
-   "last": "18:08",
+   "last": "18:39",
    "best": 7,
    "hours": [
     "00:09",
@@ -838,14 +841,15 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 37
+    "nate_int": 41
    },
    "count": 3,
    "inrank": true
@@ -987,7 +991,7 @@
     }
    ],
    "first": "00:09",
-   "last": "18:08",
+   "last": "18:39",
    "best": 3,
    "hours": [
     "00:09",
@@ -1003,14 +1007,15 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 36
+    "nate_int": 39
    },
    "count": 10,
    "inrank": true
@@ -1321,21 +1326,28 @@
    "id": "c18",
    "title": "[단독] 반포 살던 김동현, 압구정현대 100억에 샀다…50억원이 '집주인 대...",
    "titles": [
-    "[단독] 반포 살던 김동현, 압구정현대 100억에 샀다…50억원이 '집주인 대..."
+    "[단독] 반포 살던 김동현, 압구정현대 100억에 샀다…50억원이 '집주인 대...",
+    "'4남매 아빠' 김동현, 압구정 아파트 100억 매입…50억은 집주인 대출"
    ],
    "links": [
-    "https://news.nate.com/view/20261030n26554"
+    "https://news.nate.com/view/20261030n26554",
+    "https://news.nate.com/view/20261031n09150"
    ],
    "articles": [
     {
      "title": "[단독] 반포 살던 김동현, 압구정현대 100억에 샀다…50억원이 '집주인 대...",
      "link": "https://news.nate.com/view/20261030n26554",
      "media": "헤럴드경제"
+    },
+    {
+     "title": "'4남매 아빠' 김동현, 압구정 아파트 100억 매입…50억은 집주인 대출",
+     "link": "https://news.nate.com/view/20261031n09150",
+     "media": "스타투데이"
     }
    ],
    "first": "00:09",
-   "last": "10:08",
-   "best": 14,
+   "last": "18:39",
+   "best": 6,
    "hours": [
     "00:09",
     "00:50",
@@ -1349,15 +1361,19 @@
     "07:08",
     "08:08",
     "09:10",
-    "10:08"
+    "10:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 6,
+    "nate_int": 9
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c19",
@@ -2082,7 +2098,7 @@
     }
    ],
    "first": "01:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 1,
    "hours": [
     "01:08",
@@ -2105,15 +2121,16 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 21
+    "nate_pop": 16,
+    "nate_int": 19
    },
    "count": 7,
    "inrank": true
@@ -2218,11 +2235,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c39",
@@ -2842,7 +2857,7 @@
     }
    ],
    "first": "08:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 5,
    "hours": [
     "08:08",
@@ -2855,15 +2870,16 @@
     "14:08",
     "15:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 25
+    "nate_pop": 20,
+    "nate_int": 24
    },
    "count": 2,
    "inrank": true
@@ -2996,7 +3012,7 @@
     }
    ],
    "first": "09:10",
-   "last": "18:08",
+   "last": "18:39",
    "best": 3,
    "hours": [
     "09:10",
@@ -3010,15 +3026,15 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 33
+    "nate_int": 37
    },
    "count": 1,
    "inrank": true
@@ -3347,7 +3363,7 @@
     }
    ],
    "first": "12:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 1,
    "hours": [
     "12:08",
@@ -3357,14 +3373,15 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 42
+    "nate_int": 40
    },
    "count": 1,
    "inrank": true
@@ -3393,7 +3410,7 @@
     }
    ],
    "first": "12:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 1,
    "hours": [
     "12:08",
@@ -3403,15 +3420,16 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 5
+    "nate_pop": 7,
+    "nate_int": 8
    },
    "count": 2,
    "inrank": true
@@ -3454,7 +3472,7 @@
     }
    ],
    "first": "12:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 7,
    "hours": [
     "12:08",
@@ -3464,14 +3482,15 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 34
+    "nate_int": 36
    },
    "count": 4,
    "inrank": true
@@ -3628,7 +3647,7 @@
     }
    ],
    "first": "12:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 5,
    "hours": [
     "12:08",
@@ -3638,15 +3657,16 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 13
+    "nate_pop": 21,
+    "nate_int": 26
    },
    "count": 2,
    "inrank": true
@@ -3668,7 +3688,7 @@
     }
    ],
    "first": "12:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 10,
    "hours": [
     "12:08",
@@ -3678,14 +3698,15 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 24
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -3723,11 +3744,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c80",
@@ -3844,7 +3863,7 @@
     }
    ],
    "first": "14:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 3,
    "hours": [
     "14:08",
@@ -3852,14 +3871,15 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
+    "nate_pop": 17,
     "nate_int": 20
    },
    "count": 1,
@@ -3869,34 +3889,51 @@
    "id": "c84",
    "title": "'37kg 감량' 풍자, 진짜 못 알아보겠네…모자에 '쏙' 들어가는 반쪽 얼굴",
    "titles": [
-    "'37kg 감량' 풍자, 진짜 못 알아보겠네…모자에 '쏙' 들어가는 반쪽 얼굴"
+    "'37kg 감량' 풍자, 진짜 못 알아보겠네…모자에 '쏙' 들어가는 반쪽 얼굴",
+    "\"얼굴 반쪽 됐다\"…조현아, 17kg 폭풍 감량 후 '완전 딴사람' 된 근황",
+    "조현아, 17kg 감량 효과가 이 정도?…'얼굴 반쪽' 된 운동복 셀카"
    ],
    "links": [
-    "https://news.nate.com/view/20261031n01436"
+    "https://news.nate.com/view/20261031n01436",
+    "https://news.nate.com/view/20261031n08755",
+    "https://news.nate.com/view/20261031n07532"
    ],
    "articles": [
     {
      "title": "'37kg 감량' 풍자, 진짜 못 알아보겠네…모자에 '쏙' 들어가는 반쪽 얼굴",
      "link": "https://news.nate.com/view/20261031n01436",
      "media": "스포츠조선"
+    },
+    {
+     "title": "\"얼굴 반쪽 됐다\"…조현아, 17kg 폭풍 감량 후 '완전 딴사람' 된 근황",
+     "link": "https://news.nate.com/view/20261031n08755",
+     "media": "마이데일리"
+    },
+    {
+     "title": "조현아, 17kg 감량 효과가 이 정도?…'얼굴 반쪽' 된 운동복 셀카",
+     "link": "https://news.nate.com/view/20261031n07532",
+     "media": "스포츠조선"
     }
    ],
    "first": "14:08",
-   "last": "16:08",
+   "last": "18:39",
    "best": 26,
    "hours": [
     "14:08",
     "15:08",
     "15:54",
-    "16:08"
+    "16:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_int": 49
+   },
+   "count": 3,
+   "inrank": true
   },
   {
    "id": "c85",
@@ -3915,7 +3952,7 @@
     }
    ],
    "first": "14:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 8,
    "hours": [
     "14:08",
@@ -3923,14 +3960,15 @@
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
+    "nate_pop": 27,
     "nate_int": 35
    },
    "count": 1,
@@ -4014,22 +4052,23 @@
     }
    ],
    "first": "15:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 1,
    "hours": [
     "15:08",
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 18
+    "nate_pop": 29,
+    "nate_int": 25
    },
    "count": 1,
    "inrank": true
@@ -4051,21 +4090,22 @@
     }
    ],
    "first": "15:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 4,
    "hours": [
     "15:08",
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
+    "nate_pop": 9,
     "nate_int": 10
    },
    "count": 1,
@@ -4088,21 +4128,22 @@
     }
    ],
    "first": "15:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 28,
    "hours": [
     "15:08",
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 41
+    "nate_int": 42
    },
    "count": 1,
    "inrank": true
@@ -4154,21 +4195,22 @@
     }
    ],
    "first": "15:54",
-   "last": "18:08",
+   "last": "18:39",
    "best": 2,
    "hours": [
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 8
+    "nate_pop": 10,
+    "nate_int": 12
    },
    "count": 1,
    "inrank": true
@@ -4202,11 +4244,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 50
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c94",
@@ -4232,13 +4272,14 @@
     }
    ],
    "first": "15:54",
-   "last": "18:08",
+   "last": "18:39",
    "best": 1,
    "hours": [
     "15:54",
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
@@ -4268,19 +4309,20 @@
     }
    ],
    "first": "16:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 4,
    "hours": [
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
+    "nate_pop": 12,
     "nate_int": 11
    },
    "count": 1,
@@ -4303,20 +4345,21 @@
     }
    ],
    "first": "16:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 5,
    "hours": [
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 9
+    "nate_pop": 13,
+    "nate_int": 13
    },
    "count": 1,
    "inrank": true
@@ -4338,19 +4381,20 @@
     }
    ],
    "first": "16:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 13,
    "hours": [
     "16:08",
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 30
+    "nate_int": 32
    },
    "count": 1,
    "inrank": true
@@ -4403,11 +4447,12 @@
     }
    ],
    "first": "17:10",
-   "last": "18:08",
+   "last": "18:39",
    "best": 1,
    "hours": [
     "17:10",
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
@@ -4447,11 +4492,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 47
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c101",
@@ -4499,18 +4542,19 @@
     }
    ],
    "first": "18:08",
-   "last": "18:08",
+   "last": "18:39",
    "best": 3,
    "hours": [
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 6
+    "nate_pop": 5,
+    "nate_int": 5
    },
    "count": 1,
    "inrank": true
@@ -4532,18 +4576,19 @@
     }
    ],
    "first": "18:08",
-   "last": "18:08",
-   "best": 24,
+   "last": "18:39",
+   "best": 19,
    "hours": [
-    "18:08"
+    "18:08",
+    "18:39"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 46
+    "nate_pop": 19,
+    "nate_int": 33
    },
    "count": 1,
    "inrank": true
@@ -4565,10 +4610,139 @@
     }
    ],
    "first": "18:08",
-   "last": "18:08",
+   "last": "18:39",
+   "best": 46,
+   "hours": [
+    "18:08",
+    "18:39"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 46
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c105",
+   "title": "'43세 자연임신' 이희경, 30일 득남…\"임신중독증에 긴급 제왕절개\"",
+   "titles": [
+    "'43세 자연임신' 이희경, 30일 득남…\"임신중독증에 긴급 제왕절개\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261031n08276"
+   ],
+   "articles": [
+    {
+     "title": "'43세 자연임신' 이희경, 30일 득남…\"임신중독증에 긴급 제왕절개\"",
+     "link": "https://news.nate.com/view/20261031n08276",
+     "media": "마이데일리"
+    }
+   ],
+   "first": "18:39",
+   "last": "18:39",
+   "best": 3,
+   "hours": [
+    "18:39"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 3,
+    "nate_int": 6
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c106",
+   "title": "故 최불암, 김민자와 각별했던 부부 금슬…정대철 \"스캔들 들어본 적 없어...",
+   "titles": [
+    "故 최불암, 김민자와 각별했던 부부 금슬…정대철 \"스캔들 들어본 적 없어..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261031n09226"
+   ],
+   "articles": [
+    {
+     "title": "故 최불암, 김민자와 각별했던 부부 금슬…정대철 \"스캔들 들어본 적 없어...",
+     "link": "https://news.nate.com/view/20261031n09226",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "18:39",
+   "last": "18:39",
+   "best": 14,
+   "hours": [
+    "18:39"
+   ],
+   "srcs": [
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 14
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c107",
+   "title": "'32억 대출' 이해인, 月 이자 갚으려 틱톡 진출…\"답이 없더라\"",
+   "titles": [
+    "'32억 대출' 이해인, 月 이자 갚으려 틱톡 진출…\"답이 없더라\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261031n09074"
+   ],
+   "articles": [
+    {
+     "title": "'32억 대출' 이해인, 月 이자 갚으려 틱톡 진출…\"답이 없더라\"",
+     "link": "https://news.nate.com/view/20261031n09074",
+     "media": "OSEN"
+    }
+   ],
+   "first": "18:39",
+   "last": "18:39",
+   "best": 22,
+   "hours": [
+    "18:39"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 22,
+    "nate_int": 45
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c108",
+   "title": "아이브 장원영 \"사람 감정에 이유 있나?\"…의미심장 문구",
+   "titles": [
+    "아이브 장원영 \"사람 감정에 이유 있나?\"…의미심장 문구"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261031n02983"
+   ],
+   "articles": [
+    {
+     "title": "아이브 장원영 \"사람 감정에 이유 있나?\"…의미심장 문구",
+     "link": "https://news.nate.com/view/20261031n02983",
+     "media": "티브이데일리"
+    }
+   ],
+   "first": "18:39",
+   "last": "18:39",
    "best": 48,
    "hours": [
-    "18:08"
+    "18:39"
    ],
    "srcs": [
     "nate_int"
@@ -4764,9 +4938,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "18:39",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-10-31T18:08:31.583058+09:00",
+ "updated": "2026-10-31T18:39:32.861984+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

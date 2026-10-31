@@ -296,7 +296,7 @@ details.help .note{margin:6px 0 0}
     <button data-c="living"><i>🍳</i><span>리빙</span></button>
     <button data-c="it"><i>🚗</i><span>카테크</span></button>
     <button data-c="health"><i>💊</i><span>건강</span></button>
-    <button data-c="etc"><i>📦</i><span>그외키워드</span></button>
+    <button data-c="kw"><i>🔑</i><span>키워드</span></button>
     <button data-c="tools"><i>🛠</i><span>도구</span></button>
   </nav>
 </div></div>
@@ -508,12 +508,13 @@ const normProg = s => String(s).replace(/<[^>]*>|\[[^\]]*\]/g,"").replace(/\s+\d
 /* ---------- 화면 전환 ---------- */
 let view = "topics", sub = "ent", cat = "tools", page = "table";
 const CATS = {
-  star:   {pages:[["ent","실시간"],["news","연예기사"],["tv","편성표"],["kw","키워드"]], kw:["영화·드라마","음악·공연"]},
-  econ:   {pages:[["econ","경제·정책"],["kw","키워드"]], kw:["경제·재테크"]},
-  living: {pages:[["trend","트렌드"],["mart","마트"],["deals","할인행사"],["recipe","레시피"],["kw","키워드"]], kw:["리빙·푸드","여행·맛집","육아·결혼","반려동물","원예·재배","상품리뷰·쇼핑"]},
-  it:     {pages:[["car","자동차"],["moto","오토바이"],["itnews","IT/컴퓨터"],["kw","키워드"]], kw:["자동차·IT","게임·만화"]},
-  health: {pages:[["health","건강 뉴스"],["kw","키워드"]], kw:["건강·의학"]},
-  etc:    {pages:[["kw","키워드"]], kw:["스포츠","패션·뷰티","지식·교육","취미·책"]},
+  star:   {pages:[["ent","실시간"],["news","연예기사"],["tv","편성표"]]},
+  econ:   {pages:[["econ","경제·정책"]]},
+  living: {pages:[["trend","트렌드"],["mart","마트"],["deals","할인행사"],["recipe","레시피"]]},
+  it:     {pages:[["car","자동차"],["moto","오토바이"],["itnews","IT/컴퓨터"]]},
+  health: {pages:[["health","건강 뉴스"]]},
+  kw:     {pages:[["kw","키워드"]]},
+  etc:    {pages:[["kw","키워드"]]},
   tools:  {pages:[["table","표 변환"],["image","이미지 합성"]]},
 };
 function show(v, s){
@@ -528,6 +529,7 @@ function go(c, p){
     const pp = c === "topics" ? (p || "ent") : c === "shop" ? "trend" : c === "schedule" ? "tv" : c === "cars" ? "car" : c;
     return go(typeof m === "object" ? (m[pp] || "star") : (m || "star"), pp);
   }
+  if(c === "etc") c = "kw";
   cat = c || cat; const C = CATS[cat];
   page = p && C.pages.some(x => x[0] === p) ? p : (C.pages.some(x => x[0] === page) ? page : C.pages[0][0]);
   document.querySelectorAll("#mainNav button").forEach(b => b.classList.toggle("on", b.dataset.c === cat));

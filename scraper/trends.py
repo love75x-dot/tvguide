@@ -41,7 +41,8 @@ S = requests.Session()
 S.headers["User-Agent"] = UA
 S.mount("https://", HTTPAdapter(max_retries=Retry(
     total=3, connect=3, read=2, backoff_factor=2,
-    status_forcelist=(429, 500, 502, 503, 504), allowed_methods=("GET", "POST"))))
+    status_forcelist=(429, 500, 502, 503, 504), allowed_methods=("GET", "POST"),
+    respect_retry_after_header=False)))
 
 NOW = dt.datetime.now(KST)
 TODAY = NOW.date()

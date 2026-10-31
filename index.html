@@ -140,7 +140,7 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 .iss summary{list-style:none;display:grid;grid-template-columns:22px 1fr;gap:10px;align-items:center;padding:11px 14px;cursor:pointer}
 .iss summary::-webkit-details-marker{display:none}
 .iss .rk{font-weight:800;color:var(--brand);font-size:16px;text-align:center}
-.iss .nm{min-width:0}.iss .nm b{font-size:15.5px}.iss .nm small{display:block;color:var(--sub);font-size:12px;margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.iss .nm{min-width:0}.pin{font-style:normal;font-size:11px;font-weight:700;color:var(--brand);border:1px solid var(--brand);border-radius:4px;padding:0 4px;vertical-align:2px}.iss .nm b{font-size:15.5px}.iss .nm small{display:block;color:var(--sub);font-size:12px;margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .iss[open] summary{background:var(--tray)}
 .iss .nw{padding-left:46px}
 .dishes{display:grid;grid-template-columns:1fr 1fr;gap:8px}
@@ -990,7 +990,7 @@ document.getElementById("newsQ").addEventListener("input", showNews);
 /* ---------- 지금 이슈 상자 ---------- */
 function issueBox(list, title){
   if(!list || !list.length) return "";
-  return `<div class="sec"><h2>${title}</h2></div><div class="card issues">` + list.map((x,i) => `<details class="iss"><summary><span class="rk">${i+1}</span><span class="nm"><b>${esc(x.name)}</b><small>언론사 ${x.count}곳 · ${esc(x.items[0]?.title || "")}</small></span></summary>
+  return `<div class="sec"><h2>${title}</h2></div><div class="card issues">` + list.map((x,i) => `<details class="iss"><summary><span class="rk">${i+1}</span><span class="nm"><b>${esc(x.name)}${x.pinned ? ' <em class="pin">관심</em>' : ""}</b><small>${x.pinned ? "최근 7일 · " : ""}언론사 ${x.count}곳 · ${esc(x.items[0]?.title || "")}</small></span></summary>
     ${x.items.map(a => `<a class="nw" href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}<small>${esc(a.by||"")}</small></a>`).join("")}</details>`).join("") + `</div>`;
 }
 

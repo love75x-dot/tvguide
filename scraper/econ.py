@@ -102,6 +102,22 @@ def news(query, n=30):
     return out
 
 
+def watch_news(q):
+    _, path = H.ROUTES["news"]
+    r = T.S.get(H.BASE + path, params={"query": q, "display": 20, "sort": "date"}, headers=H.headers(), timeout=20)
+    r.raise_for_status()
+    out = []
+    for i in r.json().get("items", []):
+        try:
+            t = dt.datetime.strptime(i["pubDate"], "%a, %d %b %Y %H:%M:%S %z").isoformat()
+        except Exception:
+            continue
+        src = (re.search(r"//([^/]+)", i.get("originallink") or "") or [None, ""])[1]
+        out.append({"title": T.txt(i.get("title")), "link": i.get("originallink") or i.get("link"), "t": t,
+                    "by": re.sub(r"^(?:www|m|news)\.", "", src)})
+    return out
+
+
 def save_issues(d, name, pick=None):
     """최근 이틀 기사로 '지금 이슈' 계산 → <d>/issues.json"""
     import issues
@@ -110,9 +126,19 @@ def save_issues(d, name, pick=None):
     for p in sorted(d.glob("????-??-??.json"), reverse=True)[:3]:
         arts += [a for a in T.load(p, {"articles": []})["articles"] if a["t"] >= cut]
     out = {}
+    pinned = []
+    for w in T.load(T.ROOT / "config" / "watch.json", {}).get(name, []):
+        try:
+            got = [a for a in watch_news(w) if a["t"] >= (T.NOW - dt.timedelta(days=7)).isoformat()]
+        except Exception as e:
+            print(f"  (관심 이슈 실패 {w}: {e})")
+            continue
+        if got:
+            pinned.append({"name": w, "count": len({a["by"] for a in got}), "pinned": True, "items": got[:5]})
     for key, flt in (pick or {"all": None}).items():
         sub = [a for a in arts if not flt or flt(a)]
-        out[key] = issues.find(sorted(sub, key=lambda a: a["t"], reverse=True)[:500])
+        found = issues.find(sorted(sub, key=lambda a: a["t"], reverse=True)[:500])
+        out[key] = (pinned if key in ("all", "car") else []) + [x for x in found if x["name"] not in {p["name"] for p in pinned}]
     T.save(d / "issues.json", {"updated": T.NOW.isoformat(), **out})
 
 

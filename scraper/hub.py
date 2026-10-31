@@ -17,7 +17,7 @@ import time
 import trends as T
 
 BASE = "https://naverapihub.apigw.ntruss.com"
-VERSION = 4          # 수집 방식을 바꾸면 숫자를 올림 → 오늘 자료를 새로 만듦
+VERSION = 5          # 수집 방식을 바꾸면 숫자를 올림 → 오늘 자료를 새로 만듦
 PROBE = T.DATA / "hub_probe.json"
 
 
@@ -234,10 +234,12 @@ def collect():
     out = []
     for gname, kws in groups.items():
         rows = []
+        gtop = max((max(series[k]) for k in kws if series.get(k)), default=0) or 1   # 주제 안에서 가장 많이 찾은 것 = 100
         for kw in kws:
             s = series.get(kw)
             if not s:
                 continue
+            s = [round(v / gtop * 100, 1) for v in s]
             pop = round(sum(s[-7:]) / 7, 1)
             recent, before = sum(s[-3:]) / 3, sum(s[-10:-3]) / 7
             rise = round((recent - before) / before * 100) if before > 0.5 else (100 if recent > 0.5 else 0)

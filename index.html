@@ -390,7 +390,7 @@ nav.main button:first-child{margin-left:auto}nav.main button:last-child{margin-r
   <div id="s-kw" class="sub">
     <div class="datebar"><button id="kwPrev">‹</button><b id="kwDate">-</b><button id="kwNext">›</button></div>
     <div class="note" id="kwNote">네이버 데이터랩 기준 <b>인기도</b>(최근 7일, 가장 많이 찾은 키워드 = 100)와 <b>상승률</b>(최근 3일 vs 그 전 7일), 네이버 <b>블로그 글 수</b>로 경쟁도를 보여줘요. <b>쓰기 좋음</b> = 찾는 사람에 비해 글이 적은 키워드, <b>오늘 뜸</b> = 그 분야 오늘 뉴스에 자주 나온 단어. 키워드를 누르면 사람들이 묻는 질문이 나와요.</div>
-    <div class="seg" id="kwAreas"></div>
+    <div class="chips" id="kwAreas"></div>
     <div class="chips" id="kwGroups" style="margin-top:8px"></div>
     <div class="chips" id="kwSort" style="margin-top:8px"></div>
     <div class="kwgrid" id="kwList" style="margin-top:10px"></div>
@@ -903,7 +903,7 @@ function renderKwHub(){
   if(kwArea !== "all" && !areas.includes(kwArea)) kwArea = "all";
   const groups = all.filter(g => kwArea === "all" || g.area === kwArea);
   if(kwGroup !== "all" && !groups.some(g => g.name === kwGroup)) kwGroup = "all";
-  document.getElementById("kwAreas").innerHTML = areas.length ? [["all","전체 주제"], ...areas.map(a => [a, a])].map(([k,l]) =>
+  document.getElementById("kwAreas").innerHTML = areas.length ? [["all","전체 주제"], ...areas.map(a => [a, a.replace("엔터테인먼트·예술","엔터·예술").replace("생활·노하우·쇼핑","생활·쇼핑").replace("취미·여가·여행","취미·여행")])].map(([k,l]) =>
     `<button class="${k===kwArea?"on":""}" data-k="${esc(k)}">${esc(l)}</button>`).join("") : "";
   document.querySelectorAll("#kwAreas button").forEach(b => b.onclick = () => { kwArea = b.dataset.k; kwGroup = "all"; renderKw(); });
   chips.innerHTML = [["all","전체"], ...groups.map(g => [g.name, g.name])].map(([k,l]) =>
@@ -1191,7 +1191,7 @@ const dleft = e => { if(!e) return ""; const d = Math.round((new Date(e + "T23:5
 const isNew = f => f && (new Date() - new Date(f + "T00:00:00+09:00")) < 3 * 864e5;
 const postList = (arr, empty) => (arr && arr.length) ? arr.map(p => `<a class="nw" href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.title)}<small>${esc(p.by || "")}${p.by && p.date ? " · " : ""}${esc(p.date || "")}</small></a>`).join("") : `<div class="empty">${empty}</div>`;
 async function loadMart(){ martData = await getJSON("data/marts.json", null); renderMart(); }
-const itemChips = (items, title) => items && items.length ? `<div class="sec"><h2>${title}</h2></div><div class="itemchips">${items.map(x =>
+const itemChips = (items, title) => items && items.length >= 3 ? `<div class="sec"><h2>${title}</h2></div><div class="itemchips">${items.map(x =>
   `<a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.name)}<small>${x.count}</small></a>`).join("")}</div>` : "";
 let dGroup = "핫템";
 function renderMart(){

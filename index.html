@@ -268,19 +268,35 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 #toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--text);color:var(--bg);padding:10px 16px;border-radius:10px;font-size:14px;opacity:0;transition:.25s;pointer-events:none;z-index:20}
 #toast.on{opacity:1}
 @media(max-width:520px){nav.main{gap:0}nav.main button{padding:8px 4px;font-size:13.5px}.btns{grid-template-columns:1fr 1fr}.subnav button{font-size:13px}}
+
+/* ---- 정리된 메뉴 ---- */
+nav.main{display:grid !important;grid-template-columns:repeat(7,1fr) !important;gap:0 !important;margin-top:8px;overflow:visible}
+nav.main button{display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0 7px !important;font-size:11.5px !important;font-weight:600;min-width:0;border-bottom:3px solid transparent}
+nav.main button i{font-style:normal;font-size:20px;line-height:1;filter:grayscale(1);opacity:.55}
+nav.main button span{white-space:nowrap;letter-spacing:-.3px}
+nav.main button.on i{filter:none;opacity:1}
+#catNav{display:flex !important;gap:18px;background:none;border:0;border-bottom:1px solid var(--line);border-radius:0;padding:0 2px;margin:2px 0 6px}
+#catNav button{flex:none;background:none !important;color:var(--sub) !important;border-radius:0;padding:11px 0 9px !important;font-size:14.5px !important;border-bottom:2.5px solid transparent;margin-bottom:-1px}
+#catNav button.on{color:var(--text) !important;border-bottom-color:var(--text);font-weight:700}
+.chips button{padding:5px 11px;font-size:12.5px}
+.chips button small{opacity:.5}
+details.help{margin:6px 0 8px}
+details.help>summary{list-style:none;cursor:pointer;font-size:12.5px;color:var(--sub);display:inline-block}
+details.help>summary::-webkit-details-marker{display:none}
+details.help .note{margin:6px 0 0}
 </style>
 </head>
 <body>
 <div class="top"><div class="topin">
   <div class="brand"><h1>📺 방송 편성표</h1><span id="meta">불러오는 중…</span><button id="installBtn" hidden>📲 앱 설치</button></div>
   <nav class="main" id="mainNav">
-    <button data-c="star">🎬 스타·방송</button>
-    <button data-c="econ">💰 경제·비즈</button>
-    <button data-c="living">🍳 리빙·푸드</button>
-    <button data-c="it">🚗 IT·자동차</button>
-    <button data-c="health">💊 건강</button>
-    <button data-c="etc">📦 기타</button>
-    <button data-c="tools">🛠 도구</button>
+    <button data-c="star"><i>🎬</i><span>연예</span></button>
+    <button data-c="econ"><i>💰</i><span>경제</span></button>
+    <button data-c="living"><i>🍳</i><span>리빙</span></button>
+    <button data-c="it"><i>🚗</i><span>IT·차</span></button>
+    <button data-c="health"><i>💊</i><span>건강</span></button>
+    <button data-c="etc"><i>📦</i><span>기타</span></button>
+    <button data-c="tools"><i>🛠</i><span>도구</span></button>
   </nav>
 </div></div>
 
@@ -1355,6 +1371,11 @@ installBtn.onclick = async () => {
 document.getElementById("installClose").onclick = () => document.getElementById("installSheet").classList.remove("on");
 document.getElementById("installSheet").onclick = e => { if(e.target.id === "installSheet") e.target.classList.remove("on"); };
 if("serviceWorker" in navigator) addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+
+/* ---------- 설명 상자 접기 ---------- */
+document.querySelectorAll(".note").forEach(n => { if(n.id === "shNote") return;
+  const d = document.createElement("details"); d.className = "help";
+  d.innerHTML = "<summary>ⓘ 이 화면 보는 법</summary>"; n.replaceWith(d); d.appendChild(n); });
 
 /* ---------- 시작 ---------- */
 (async () => {

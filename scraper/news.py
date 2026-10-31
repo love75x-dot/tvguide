@@ -32,7 +32,8 @@ KEYWORDS = ["연예", "드라마", "드라마 시청률", "예능", "아이돌 �
 DRAMA = re.compile(r"드라마|시청률|캐스팅|주연|출연 확정|첫\s?방송|첫방|종영|최종회|대본\s?리딩|미니시리즈|주말극|일일극|OST|"
                    r"넷플릭스|티빙|디즈니\+|쿠팡플레이|웨이브|시즌\s?\d|\d+회")
 KEEP_HOURS = 24          # 페이지에 보여줄 기간
-MAX_ALERT = 15           # 한 번에 보낼 최대 알림 수
+MAX_ALERT = 15
+ALERT_ON = False         # 드라마 이슈 텔레그램 알림 (잠시 꺼둠, 다시 켜려면 True)           # 한 번에 보낼 최대 알림 수
 HEADERS = {"User-Agent": "Mozilla/5.0 tvguide-news"}
 
 
@@ -183,7 +184,7 @@ def main():
             telegram([a for a in fresh if drama(a)][:5], test=True)
         except Exception as e:
             print(f"::warning::텔레그램 테스트 실패: {e}")
-    elif not first_run:   # 첫 실행은 기존 기사로 알림 폭탄이 가지 않도록 건너뜀
+    elif ALERT_ON and not first_run:   # 첫 실행은 기존 기사로 알림 폭탄이 가지 않도록 건너뜀
         try:
             telegram([a for a in new if drama(a)][:MAX_ALERT])
         except Exception as e:

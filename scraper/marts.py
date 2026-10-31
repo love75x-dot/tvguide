@@ -223,7 +223,7 @@ def won(v):
 
 def collect(force=False):
     prev = T.load(OUT, {})
-    if not force and prev and "deals" in prev and T.NOW.hour not in RUN_HOURS:
+    if not force and prev and "items" in (prev.get("daiso") or {}) and T.NOW.hour not in RUN_HOURS:
         return
     if not force and prev.get("slot") == f"{T.TODAY} {T.NOW.hour}":
         return
@@ -238,6 +238,25 @@ def collect(force=False):
     for key, q in [("costco", "코스트코 추천템"), ("traders", "트레이더스 추천템"), ("daiso", "다이소 신상")]:
         blogs[key], _ = safe(naver_recent, "blog", q)
     tnews, _ = safe(naver_recent, "news", "트레이더스 할인 행사")
+    # 다이소 핫템·인기템·품절템·신상 (뉴스 + 블로그)
+    dgroups = {}
+    for name, q in [("핫템", "다이소 핫템"), ("인기템", "다이소 인기템"), ("품절템", "다이소 품절템"), ("신상", "다이소 신상")]:
+        rows = []
+        for kind in ("news", "blog"):
+            r, _ = safe(naver_recent, kind, q, 15)
+            for x in r or []:
+                x["kind"] = kind
+                rows.append(x)
+        rows.sort(key=lambda x: x.get("date") or "", reverse=True)
+        dgroups[name] = rows[:20]
+    # 트레이더스·코스트코 추천템 (블로그) — 회원이 아니어도 '후기 글'로 쓰기 좋은 상품
+    tpick, _ = safe(naver_recent, "blog", "트레이더스 추천템 이번주", 15)
+    cpick, _ = safe(naver_recent, "blog", "코스트코 추천템 이번주", 15)
+    import issues
+    def items_of(rows):
+        arts = [{"title": x["title"], "link": x["link"], "t": x.get("date") or "", "by": x.get("by") or x["link"][:40]} for x in rows]
+        return [{"name": i["name"], "count": i["count"], "link": i["items"][0]["link"]} for i in issues.find(arts, top=10, min_src=2)]
+    dhot = items_of([x for v in dgroups.values() for x in v])
     deal, errors["deals"] = safe(deals) if os.getenv("NAVER_HUB_ID") else (None, None)
 
     # 처음 본 날짜 기록 → NEW 표시와 알림
@@ -272,10 +291,12 @@ def collect(force=False):
     data = {
         "updated": T.NOW.isoformat(), "slot": f"{T.TODAY} {T.NOW.hour}",
         "costco": {"sale": keep(sale, "costco", "sale"), "new": keep(new, "costco", "new"),
-                   "blog": blogs.get("costco") or []},
+                   "blog": blogs.get("costco") or [], "pick": cpick or [],
+                   "items": items_of((cpick or []) + (blogs.get("costco") or []))},
         "traders": {"holiday": hol or (prev.get("traders") or {}).get("holiday"),
-                    "news": tnews or [], "blog": blogs.get("traders") or []},
-        "daiso": {"exhibits": keep(exb, "daiso", "exhibits"), "blog": blogs.get("daiso") or []},
+                    "news": tnews or [], "blog": blogs.get("traders") or [], "pick": tpick or [],
+                    "items": items_of((tnews or []) + (tpick or []) + (blogs.get("traders") or []))},
+        "daiso": {"exhibits": keep(exb, "daiso", "exhibits"), "blog": blogs.get("daiso") or [], "groups": dgroups, "items": dhot},
         "deals": deal or prev.get("deals") or {"events": [], "articles": []},
         "errors": {k: v for k, v in errors.items() if v},
     }

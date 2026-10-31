@@ -94,4 +94,6 @@ def collect():
         for old in files[10:]:
             old.unlink()
         T.save(d / "index.json", [{"date": p.stem, "count": len(T.load(p, {"articles": []})["articles"])} for p in files[:10]])
+        import econ
+        econ.save_issues(d, name)
         print(f"[OK] {name}: {len(got)}건")

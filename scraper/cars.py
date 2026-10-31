@@ -95,11 +95,14 @@ def collect():
         text = a["title"]
         a["cars"] = [m["name"] for m in MS if m["pat"].search(text) and (not m["need"] or m["need"] in text)]
         a["flags"] = [f for f, p in FLAGS if re.search(p, a["title"])]
-        a["moto"] = "오토바이" in a["tags"] or bool(re.search(r"오토바이|바이크|스쿠터|\d{2,4}\s?cc", a["title"])) \
+        a["moto"] = bool(re.search(r"오토바이|바이크|이륜차|스쿠터|모터사이클|라이더|\d{2,4}\s?cc|할리데이비슨|모토라드|야마하", a["title"])) \
             or any(m["kind"] == "moto" and m["name"] in a["cars"] for m in MS)
         if a["moto"] and "오토바이" not in a["tags"]:
             a["tags"].append("오토바이")
+        if not a["moto"] and "오토바이" in a["tags"]:
+            a["tags"].remove("오토바이")
 
+    got = {k: a for k, a in got.items() if a["tags"]}        # 오토바이 검색에서 왔지만 오토바이 기사가 아닌 것 버림
     # 날짜별 파일에 누적
     cut3 = str(T.TODAY - dt.timedelta(days=3))
     by_day = {}
@@ -188,6 +191,8 @@ def collect():
             if not old or rank[status] >= rank[old["status"]]:
                 cal[c] = {"name": c, "status": status, "date": day, "title": a["title"], "link": a["link"], "moto": kinds.get(c) == "moto"}
     cal_rows = sorted(cal.values(), key=lambda x: ({"soon": 0, "presale": 1, "out": 2, "tbd": 3}[x["status"]], x["date"] or "9"))[:12]
+    import econ
+    econ.save_issues(DIR, "cars", {"car": lambda a: not a.get("moto"), "moto": lambda a: a.get("moto")})
     T.save(DIR / "summary.json", {"updated": T.NOW.isoformat(), "hot": hot_rows, "calendar": cal_rows})
 
     # 텔레그램 (사전계약·가격 공개·출시·리콜, 하루 최대 6건)

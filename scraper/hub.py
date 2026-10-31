@@ -17,7 +17,7 @@ import time
 import trends as T
 
 BASE = "https://naverapihub.apigw.ntruss.com"
-VERSION = 3          # 수집 방식을 바꾸면 숫자를 올림 → 오늘 자료를 새로 만듦
+VERSION = 4          # 수집 방식을 바꾸면 숫자를 올림 → 오늘 자료를 새로 만듦
 PROBE = T.DATA / "hub_probe.json"
 
 
@@ -133,6 +133,15 @@ def clean_kw(s):
     return s if 2 <= len(s) <= 20 else None
 
 
+def drama_seeds():
+    """방영 중 드라마 제목 (텔레그램 드라마 알림과 같은 목록)"""
+    try:
+        import news
+        return sorted(t for t in news.airing_dramas() if "-" not in t and len(t) <= 10)
+    except Exception:
+        return []
+
+
 def collect():
     if not os.getenv("NAVER_HUB_ID"):
         print("NAVER API HUB 키 없음 → 키워드 건너뜀")
@@ -145,13 +154,20 @@ def collect():
         raise RuntimeError("검색어트렌드 API 연결 실패 (data/hub_probe.json 참고)")
 
     cfg = T.load(T.CONFIG, {"categories": {}})
-    groups = {"방송 프로그램": T.program_seeds()[:12], "엔터·연예": T.ent_seeds()[:12]}
+    groups, areas = {}, {}
     auto = set()
     for name, c in cfg.get("categories", {}).items():
         if isinstance(c, list):                       # 예전 형식: ["단어", ...]
             groups[name] = c[:12]
             continue
+        areas[name] = c.get("area", "")
         seeds = c.get("seeds", [])[:10]
+        if c.get("auto") == "program":
+            seeds = (T.program_seeds() + seeds)[:10]
+        elif c.get("auto") == "ent":
+            seeds = (T.ent_seeds() + seeds)[:10]
+        elif c.get("auto") == "drama":
+            seeds = drama_seeds()[:10]
         hot = news_terms(c.get("news", []), seeds)
         auto |= {(name, w) for w in hot}
         groups[name] = seeds + hot
@@ -234,7 +250,7 @@ def collect():
         for i, r in enumerate(rows):
             p = prev.get((gname, r["keyword"]))
             r["move"] = (p - (i + 1)) if p else None
-        out.append({"name": gname, "keywords": rows})
+        out.append({"name": gname, "area": areas.get(gname, ""), "keywords": rows})
     # 기회 등급: 전체에서 상위 1/3 = 쓰기 좋음, 하위 1/3 = 경쟁 심함
     opps = sorted(r["opp"] for g in out for r in g["keywords"])
     if opps:

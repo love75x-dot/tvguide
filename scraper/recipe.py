@@ -111,6 +111,35 @@ def just_ended():
     return sorted(out)
 
 
+DISH = re.compile(r"[가-힣]{1,9}(?:볶음밥|볶음|칼국수|국수|수제비|찌개|전골|국밥|해장국|뭇국|미역국|국|탕|무침|조림|덮밥|비빔밥|김밥|떡볶이|잡채|"
+                  r"샐러드|파스타|라면|김치|깍두기|구이|찜|카레|케이크|쿠키|빵|토스트|장아찌|나물|죽|전|튀김|스테이크|샌드위치|만두|냉면|쌈|"
+                  r"솥밥|리조또|그라탕|피자|부침개|양념|소스|라떼|청|차|잼|피클|장조림|불고기|갈비|족발|보쌈|어묵|순두부|두부)(?![가-힣])")
+DISH_BAD = re.compile(r"^(?:요리|레시피|방송|공개|비법|이국|한국|전국|미국|중국|천국|강국|결국|당국|정국|본전|도전|역전|"
+                      r"대전|부전|출전|이전|안전|발전|예전|생전|매전|사전|충전|전전|내전|완전|자전|시전|특전|재전|중전|국전|교전|"
+                      r"호전|원전|관전|열전|추전|운전|공전|외전|선전|접전|격전|성전|불전|부찜|감찜|타탕|사탕|설탕|목탕|"
+                      r"녹차|격차|마차|기차|자차|외차|열차|주차|순차|시차|오차|편차|정차|하차|승차|세차|발차|"
+                      r"마빵|대빵|꿀빵|한빵|방빵|이찜|열전|팩전|맛국|후덕죽)$")
+
+
+def dishes(rows):
+    """기사 제목에 나온 요리 이름 → 많이 나온 순"""
+    cnt, shows, first = {}, {}, {}
+    for a in rows:
+        seen = set()
+        for m in DISH.finditer(re.sub(r"\[[^\]]*\]", " ", a["title"])):
+            d = m.group(0)
+            if len(d) < 2 or DISH_BAD.match(d) or d in seen:
+                continue
+            seen.add(d)
+            cnt[d] = cnt.get(d, 0) + 1
+            if a.get("show"):
+                shows.setdefault(d, set()).add(a["show"])
+            first.setdefault(d, a)
+    out = sorted(cnt, key=lambda d: (-cnt[d], first[d]["t"]), reverse=False)
+    return [{"name": d, "count": cnt[d], "shows": sorted(shows.get(d, [])), "link": first[d]["link"], "title": first[d]["title"], "t": first[d]["t"]}
+            for d in out[:12]]
+
+
 def collect():
     if not os.getenv("NAVER_HUB_ID"):
         return
@@ -154,7 +183,7 @@ def collect():
     except Exception as e:
         print(f"  (유튜브 확인 실패: {e})")
     rows = sorted(got.values(), key=lambda a: a["t"], reverse=True)
-    T.save(OUT, {"updated": T.NOW.isoformat(), "ended": ended, "articles": rows[:200]})
+    T.save(OUT, {"updated": T.NOW.isoformat(), "ended": ended, "articles": rows[:200], "dishes": dishes(rows)})
 
     seen = T.load(SEEN, None)
     first = seen is None

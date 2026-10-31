@@ -25,7 +25,9 @@ TOPICS = [("정부 정책", ["정부 정책 발표", "정책브리핑"]),
           ("부동산", ["부동산 정책", "아파트 매매 전세"]),
           ("금리·물가", ["기준금리", "물가 상승", "대출 금리"]),
           ("주식·환율", ["코스피", "환율"]),
-          ("세금·연금", ["연말정산", "국민연금", "세금 개편"])]
+          ("세금·연금", ["연말정산", "국민연금", "세금 개편"]),
+          ("교통·개발", ["광역철도", "GTX", "교통 호재", "신도시 개발", "철도 노선"]),
+          ("경제 이슈", ["경제 이슈", "산업 이슈", "기업 이슈"])]
 APPLY = re.compile(r"신청|접수|모집|지원금|바우처|공모")
 DATE = re.compile(r"(\d{1,2})월\s*(\d{1,2})일\s*(?:\([월화수목금토일]\)\s*)?까지|~\s*(\d{1,2})월\s*(\d{1,2})일|~\s*(\d{1,2})\.\s*(\d{1,2})\b|(\d{1,2})\.\s*(\d{1,2})\.?\s*\([월화수목금토일]\)\s*까지")
 
@@ -100,6 +102,20 @@ def news(query, n=30):
     return out
 
 
+def save_issues(d, name, pick=None):
+    """최근 이틀 기사로 '지금 이슈' 계산 → <d>/issues.json"""
+    import issues
+    cut = (T.NOW - dt.timedelta(hours=48)).isoformat()
+    arts = []
+    for p in sorted(d.glob("????-??-??.json"), reverse=True)[:3]:
+        arts += [a for a in T.load(p, {"articles": []})["articles"] if a["t"] >= cut]
+    out = {}
+    for key, flt in (pick or {"all": None}).items():
+        sub = [a for a in arts if not flt or flt(a)]
+        out[key] = issues.find(sorted(sub, key=lambda a: a["t"], reverse=True)[:500])
+    T.save(d / "issues.json", {"updated": T.NOW.isoformat(), **out})
+
+
 def collect():
     DIR.mkdir(parents=True, exist_ok=True)
     got, probe = [], {"checked": T.NOW.isoformat()}
@@ -161,4 +177,5 @@ def collect():
     for old in files[10:]:
         old.unlink()
     T.save(DIR / "index.json", [{"date": p.stem, "count": len(T.load(p, {"articles": []})["articles"])} for p in files[:10]])
+    save_issues(DIR, "econ")
     print(f"[OK] 경제: 정책브리핑 {korea_ok}건, 전체 {len(got)}건 수집")

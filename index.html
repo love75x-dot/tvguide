@@ -269,35 +269,58 @@ details.kr summary .k b{font-weight:600;overflow:hidden;text-overflow:ellipsis;w
 #toast.on{opacity:1}
 @media(max-width:520px){nav.main{gap:0}nav.main button{padding:8px 4px;font-size:13.5px}.btns{grid-template-columns:1fr 1fr}.subnav button{font-size:13px}}
 
-/* ---- 정리된 메뉴 ---- */
-nav.main{display:grid !important;grid-template-columns:repeat(7,1fr) !important;gap:0 !important;margin-top:8px;overflow:visible}
-nav.main button{display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0 7px !important;font-size:11.5px !important;font-weight:600;min-width:0;border-bottom:3px solid transparent}
-nav.main button i{font-style:normal;font-size:20px;line-height:1;filter:grayscale(1);opacity:.55}
-nav.main button span{white-space:nowrap;letter-spacing:-.3px}
-nav.main button.on i{filter:none;opacity:1}
-#catNav{display:flex !important;gap:18px;background:none;border:0;border-bottom:1px solid var(--line);border-radius:0;padding:0 2px;margin:2px 0 6px}
-#catNav button{flex:none;background:none !important;color:var(--sub) !important;border-radius:0;padding:11px 0 9px !important;font-size:14.5px !important;border-bottom:2.5px solid transparent;margin-bottom:-1px}
-#catNav button.on{color:var(--text) !important;border-bottom-color:var(--text);font-weight:700}
-.chips button{padding:5px 11px;font-size:12.5px}
-.chips button small{opacity:.5}
-#carKind button.on{background:var(--text);color:var(--bg)}#carKind button{padding:8px 4px;font-size:13.5px}
 details.help{margin:6px 0 8px}
 details.help>summary{list-style:none;cursor:pointer;font-size:12.5px;color:var(--sub);display:inline-block}
 details.help>summary::-webkit-details-marker{display:none}
 details.help .note{margin:6px 0 0}
+
+/* ===== 네이버 크리에이터 어드바이저 스타일 ===== */
+:root{--brand:#03c75a;--tray:#f5f6f7;--bg:#fff}
+@media (prefers-color-scheme:dark){:root{--tray:#22262b;--bg:#111316}}
+body{background:var(--bg)}
+.top{background:var(--card);border-bottom:1px solid var(--line)}
+.topin{padding:10px 0 0}
+.brand{justify-content:center;position:relative;padding:4px 16px 8px}
+.brand h1{font-size:19px;font-weight:800;letter-spacing:-.3px}
+#meta{position:absolute;left:16px;bottom:-2px;font-size:11px;opacity:.8;display:none}
+#installBtn{position:absolute;right:12px;top:0;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:6px;font-size:12px;padding:5px 9px}
+nav.main{display:flex !important;gap:0 !important;margin:0 !important;overflow-x:auto;scrollbar-width:none;border-top:1px solid var(--line);padding:0 6px}
+nav.main::-webkit-scrollbar,#catNav::-webkit-scrollbar,.chips::-webkit-scrollbar{display:none}
+nav.main button{flex:none !important;display:block !important;font-size:16px !important;font-weight:500 !important;color:var(--text) !important;padding:13px 14px 11px !important;border-bottom:3px solid transparent !important;white-space:nowrap}
+nav.main button.on{color:var(--brand) !important;font-weight:800 !important;border-bottom-color:var(--brand) !important}
+#catNav{display:flex !important;gap:4px;overflow-x:auto;scrollbar-width:none;background:var(--tray);border:0;border-radius:0;margin:-12px -16px 12px;padding:8px 12px;border-bottom:1px solid var(--line)}
+#catNav button{flex:none;background:none !important;border:0;color:var(--sub) !important;font-size:15px !important;font-weight:500;padding:6px 10px !important;border-radius:2px;white-space:nowrap}
+#catNav button.on{background:var(--brand) !important;color:#fff !important;font-weight:800}
+.chips{flex-wrap:nowrap !important;overflow-x:auto;scrollbar-width:none;background:var(--tray);border-radius:8px;padding:4px;gap:2px}
+.chips button{border:0 !important;background:none !important;color:var(--sub) !important;border-radius:6px !important;padding:8px 12px !important;font-size:14px !important;white-space:nowrap}
+.chips button.on{background:#444 !important;color:#fff !important;font-weight:700}
+.chips button small{opacity:.6}
+.seg{display:grid !important;grid-auto-flow:column;grid-auto-columns:1fr;gap:0 !important;padding:0 !important;border:0 !important;background:none !important;border-radius:0 !important}
+.seg button{border:1px solid var(--line) !important;margin-left:-1px;background:var(--card) !important;color:var(--text) !important;border-radius:0 !important;padding:11px 4px !important;font-size:15px !important;font-weight:500}
+.seg button.on{border-color:var(--brand) !important;color:var(--brand) !important;position:relative;z-index:1;font-weight:700}
+.week button{border-radius:6px}
+.week button.on{background:var(--brand) !important;border-color:var(--brand) !important}
+.datebar{background:none !important;border:0 !important;box-shadow:none !important;border-bottom:1px solid var(--line) !important;border-radius:0 !important;margin:0 -16px 10px !important;padding:6px 16px 12px !important}
+.datebar b{font-size:19px;font-weight:500;letter-spacing:.3px}
+.datebar button{background:none !important;border:0 !important;font-size:30px;line-height:1;color:var(--sub);padding:0 14px}
+.card{border-radius:8px}
+.sec h2{font-size:17px;font-weight:800}
+.note{background:var(--tray);color:var(--sub);border-radius:6px}
+#carKind button.on{background:#444;color:#fff}
+#catNav[hidden]{display:none !important}
 </style>
 </head>
 <body>
 <div class="top"><div class="topin">
-  <div class="brand"><h1>📝 오늘의 글감</h1><span id="meta">불러오는 중…</span><button id="installBtn" hidden>📲 앱 설치</button></div>
+  <div class="brand"><h1>오늘의 글감</h1><span id="meta">불러오는 중…</span><button id="installBtn" hidden>앱 설치</button></div>
   <nav class="main" id="mainNav">
-    <button data-c="star"><i>🎬</i><span>연예</span></button>
-    <button data-c="econ"><i>💰</i><span>경제</span></button>
-    <button data-c="living"><i>🍳</i><span>리빙</span></button>
-    <button data-c="it"><i>🚗</i><span>카테크</span></button>
-    <button data-c="health"><i>💊</i><span>건강</span></button>
-    <button data-c="kw"><i>🔑</i><span>키워드</span></button>
-    <button data-c="tools"><i>🛠</i><span>도구</span></button>
+    <button data-c="star">연예·방송</button>
+    <button data-c="econ">경제·비즈</button>
+    <button data-c="living">리빙·푸드</button>
+    <button data-c="it">카테크</button>
+    <button data-c="health">건강</button>
+    <button data-c="kw">키워드</button>
+    <button data-c="tools">도구</button>
   </nav>
 </div></div>
 
@@ -313,7 +336,7 @@ details.help .note{margin:6px 0 0}
 <!-- ===================== 편성표 ===================== -->
 <section class="view" id="v-schedule">
   <div class="chips" id="days"></div>
-  <div class="seg" id="schMode"><button data-m="time">⏰ 시간대별</button><button data-m="ch">📺 채널별</button></div>
+  <div class="seg" id="schMode"><button data-m="time">시간대별</button><button data-m="ch">채널별</button></div>
   <div id="timeBox">
     <div class="tools" id="tFilter"></div>
     <div class="info" id="tInfo"></div>
@@ -333,13 +356,13 @@ details.help .note{margin:6px 0 0}
   </div>
 
   <div id="s-ent" class="sub">
-    <div class="datebar"><button id="entPrev">◀</button><b id="entDate">-</b><button id="entNext">▶</button></div>
+    <div class="datebar"><button id="entPrev">‹</button><b id="entDate">-</b><button id="entNext">›</button></div>
     <div class="strip" id="entStrip" hidden></div>
-    <div class="note">💡 네이트 연예 랭킹(많이 본·관심)을 매시간 모아 같은 이야기는 하나로 묶었어요. 쓸 소재에 <b>「쓸게요」</b>를 눌러 두면 이 기기에 표시가 남아요.</div>
+    <div class="note">네이트 연예 랭킹(많이 본·관심)을 매시간 모아 같은 이야기는 하나로 묶었어요. 쓸 소재에 <b>「쓸게요」</b>를 눌러 두면 이 기기에 표시가 남아요.</div>
     <div class="chips" id="entSort">
-      <button data-k="now" class="on">🔥 인기순</button>
-      <button data-k="new">🆕 새로 뜬 순</button>
-      <button data-k="mine">✓ 내가 쓸 소재</button>
+      <button data-k="now" class="on">인기순</button>
+      <button data-k="new">새로 뜬 순</button>
+      <button data-k="mine">내가 쓸 소재</button>
     </div>
     <div class="info" id="entHelp"></div>
     <div class="info" id="entInfo"></div>
@@ -347,17 +370,17 @@ details.help .note{margin:6px 0 0}
   </div>
 
   <div id="s-kw" class="sub">
-    <div class="datebar"><button id="kwPrev">◀</button><b id="kwDate">-</b><button id="kwNext">▶</button></div>
-    <div class="note" id="kwNote">📌 네이버 데이터랩 기준 <b>인기도</b>(최근 7일, 가장 많이 찾은 키워드 = 100)와 <b>상승률</b>(최근 3일 vs 그 전 7일), 네이버 <b>블로그 글 수</b>로 경쟁도를 보여줘요. <b>🟢 쓰기 좋음</b> = 찾는 사람에 비해 글이 적은 키워드, <b>오늘 뜸</b> = 그 분야 오늘 뉴스에 자주 나온 단어. 키워드를 누르면 사람들이 묻는 질문이 나와요.</div>
+    <div class="datebar"><button id="kwPrev">‹</button><b id="kwDate">-</b><button id="kwNext">›</button></div>
+    <div class="note" id="kwNote">네이버 데이터랩 기준 <b>인기도</b>(최근 7일, 가장 많이 찾은 키워드 = 100)와 <b>상승률</b>(최근 3일 vs 그 전 7일), 네이버 <b>블로그 글 수</b>로 경쟁도를 보여줘요. <b>쓰기 좋음</b> = 찾는 사람에 비해 글이 적은 키워드, <b>오늘 뜸</b> = 그 분야 오늘 뉴스에 자주 나온 단어. 키워드를 누르면 사람들이 묻는 질문이 나와요.</div>
     <div class="chips" id="kwGroups"></div>
     <div class="chips" id="kwSort" style="margin-top:8px"></div>
     <div class="kwgrid" id="kwList" style="margin-top:10px"></div>
   </div>
 
   <div id="s-tv" class="sub">
-    <div class="datebar wk-bar"><button id="wkPrev" title="이전 주">◀</button><b id="wkTitle">-</b><button id="wkNext" title="다음 주">▶</button><button class="wk-today" id="wkToday">오늘</button></div>
+    <div class="datebar wk-bar"><button id="wkPrev" title="이전 주">‹</button><b id="wkTitle">-</b><button id="wkNext" title="다음 주">›</button><button class="wk-today" id="wkToday">오늘</button></div>
     <div class="week" id="wkDays"></div>
-    <div class="note">⏱ 속보 글은 <b>방송·경기가 끝난 직후</b>가 승부예요. 끝나는 시각을 보고 미리 초안을 잡아 두세요.</div>
+    <div class="note">속보 글은 <b>방송·경기가 끝난 직후</b>가 승부예요. 끝나는 시각을 보고 미리 초안을 잡아 두세요.</div>
     <div class="tools" id="tFilter2"></div>
     <div class="info" id="tInfo2"></div>
     <div id="tList2"></div>
@@ -382,10 +405,10 @@ details.help .note{margin:6px 0 0}
 <!-- ===================== 쇼핑 ===================== -->
 <!-- ===================== 신차 ===================== -->
 <section class="view" id="v-cars">
-  <div class="subnav" id="carKind" hidden style="grid-template-columns:repeat(3,1fr)"><button data-k="all">전체</button><button data-k="car">🚗 자동차</button><button data-k="moto">🏍 오토바이</button></div>
-  <div class="sec"><h2 id="carHotH">🔥 지금 화제인 차 TOP 5</h2></div>
+  <div class="subnav" id="carKind" hidden style="grid-template-columns:repeat(3,1fr)"><button data-k="all">전체</button><button data-k="car">자동차</button><button data-k="moto">오토바이</button></div>
+  <div class="sec"><h2 id="carHotH">지금 화제인 차 TOP 5</h2></div>
   <div class="card" id="carHot"></div>
-  <div class="sec"><h2 id="carCalH">📆 출시 달력</h2></div>
+  <div class="sec"><h2 id="carCalH">출시 달력</h2></div>
   <div class="calgrid" id="carCal"></div>
   <div class="week" id="carDays" style="margin-top:14px;grid-template-columns:repeat(4,1fr)"></div>
   <div class="chips" id="carTags" style="margin-top:10px;flex-wrap:wrap"></div>
@@ -395,8 +418,8 @@ details.help .note{margin:6px 0 0}
 
 <section class="view" id="v-shop">
   <div class="subnav" id="shopNav" style="grid-template-columns:1fr 1fr" hidden>
-    <button data-s="trend" class="on">📊 쇼핑 트렌드</button>
-    <button data-s="mart">🏬 마트·다이소</button>
+    <button data-s="trend" class="on">쇼핑 트렌드</button>
+    <button data-s="mart">마트·다이소</button>
   </div>
   <div id="shopMart" hidden>
     <div class="seg" id="martTabs" style="margin-top:10px"><button data-m="costco">코스트코</button><button data-m="traders">트레이더스</button><button data-m="daiso">다이소</button></div>
@@ -404,15 +427,15 @@ details.help .note{margin:6px 0 0}
     <div id="martBody"></div>
   </div>
   <div id="shopTrend">
-  <div class="datebar"><button id="shPrev">◀</button><b id="shDate">-</b><button id="shNext">▶</button></div>
+  <div class="datebar"><button id="shPrev">‹</button><b id="shDate">-</b><button id="shNext">›</button></div>
   <div class="note" id="shNote"></div>
   <div class="seg" id="shCmp" style="display:grid;grid-template-columns:1fr 1fr"><button data-c="d1">전날 대비</button><button data-c="w1">지난주 대비</button></div>
-  <div class="sec"><h2>✍️ 오늘 쓰기 좋은 상품 TOP 5</h2></div>
+  <div class="sec"><h2>오늘 쓰기 좋은 상품 TOP 5</h2></div>
   <div class="card" id="shTop"></div>
-  <div class="sec"><h2>📊 분야별 변화</h2></div>
+  <div class="sec"><h2>분야별 변화</h2></div>
   <div class="catgrid" id="shCatGrid"></div>
   <details class="shmore"><summary>분야별 그래프 자세히 보기</summary><div class="card" id="shCats" style="margin-top:8px"></div></details>
-  <div class="sec"><h2>🔎 분야별 상품 키워드</h2></div>
+  <div class="sec"><h2>분야별 상품 키워드</h2></div>
   <div class="chips" id="shGroups" style="flex-wrap:wrap"></div>
   <div class="chips" id="shSort" style="margin-top:8px"></div>
   <div class="kwgrid" id="shList" style="margin-top:10px"></div>
@@ -421,7 +444,7 @@ details.help .note{margin:6px 0 0}
 
 <!-- ===================== 표 변환 ===================== -->
 <section class="view" id="v-table">
-  <div class="note">📋 블로그 글의 표 글자를 붙여넣으면 <b>네이버 에디터에 진짜 표로 붙는 형태</b>로 복사해 줘요.</div>
+  <div class="note">블로그 글의 표 글자를 붙여넣으면 <b>네이버 에디터에 진짜 표로 붙는 형태</b>로 복사해 줘요.</div>
   <ol class="tb-steps">
     <li>채팅의 표 코드블록(또는 본문 전체)을 복사합니다.</li>
     <li>아래 칸에 붙여넣습니다. 예시는 「칸 비우기」로 지우고 붙이세요.</li>
@@ -436,13 +459,13 @@ details.help .note{margin:6px 0 0}
 크기 | 전장 4,924mm · 휠베이스 2,950mm
 라이다 | 전 트림 기본
 [/표]</textarea>
-  <div class="tb-row"><button type="button" class="tb-btn" id="tbClear">칸 비우기</button><button type="button" class="tb-btn" id="tbPaste">📋 클립보드에서 붙여넣기</button><span class="info" id="tbCount" style="margin:0"></span></div>
+  <div class="tb-row"><button type="button" class="tb-btn" id="tbClear">칸 비우기</button><button type="button" class="tb-btn" id="tbPaste">클립보드에서 붙여넣기</button><span class="info" id="tbCount" style="margin:0"></span></div>
   <div id="tbOut"></div>
 </section>
 
 <!-- ===================== 이미지 합성 ===================== -->
 <section class="view" id="v-image">
-  <div class="note">🖼 사진 2~3장을 좌우 또는 위아래로 나란히 붙여 줘요. 아래 <b>장수·배치</b>에서 바꿀 수 있어요. 사진은 서버로 올라가지 않고 <b>이 화면 안에서만</b> 합성돼요.</div>
+  <div class="note">사진 2~3장을 좌우 또는 위아래로 나란히 붙여 줘요. 아래 <b>장수·배치</b>에서 바꿀 수 있어요. 사진은 서버로 올라가지 않고 <b>이 화면 안에서만</b> 합성돼요.</div>
   <div class="card" style="padding:12px">
     <div class="img-in">
       <div><div class="drop" id="dropL"><b>왼쪽 사진</b>눌러서 고르기 · 끌어다 놓기 · 붙여넣기</div>
@@ -468,7 +491,7 @@ details.help .note{margin:6px 0 0}
   <div class="card" style="padding:12px">
     <canvas id="cv" width="1200" height="800"></canvas>
     <div class="btns">
-      <button class="pri" id="btnCopy" disabled>📋 클립보드에 복사</button>
+      <button class="pri" id="btnCopy" disabled>클립보드에 복사</button>
       <button id="btnSave" disabled>⬇ JPG 저장</button>
       <button id="btnSwap">⇄ 좌우 바꾸기</button>
       <button id="btnReset">위치 처음으로</button>
@@ -484,7 +507,7 @@ details.help .note{margin:6px 0 0}
 </div>
 <div id="toast"></div>
 <div id="installSheet"><div class="box">
-  <h3>📲 앱으로 설치하기</h3>
+  <h3>앱으로 설치하기</h3>
   <div id="installHow"></div>
   <button id="installClose">확인</button>
 </div></div>
@@ -533,6 +556,8 @@ function go(c, p){
   cat = c || cat; const C = CATS[cat];
   page = p && C.pages.some(x => x[0] === p) ? p : (C.pages.some(x => x[0] === page) ? page : C.pages[0][0]);
   document.querySelectorAll("#mainNav button").forEach(b => b.classList.toggle("on", b.dataset.c === cat));
+  const mb = document.querySelector("#mainNav button.on"), mn = document.getElementById("mainNav");
+  if(mb) mn.scrollTo({left: mb.offsetLeft - (mn.clientWidth - mb.offsetWidth) / 2, behavior: "smooth"});
   const nav = document.getElementById("catNav");
   nav.hidden = C.pages.length < 2;
   nav.style.gridTemplateColumns = `repeat(${C.pages.length},1fr)`;
@@ -576,7 +601,7 @@ async function loadFeed(kind){
     const idx = await getJSON(`${F.dir}/index.json`, []), WD = "일월화수목금토", days = idx.slice(0, 3);
     if(fdDay !== "live" && !days.some(x => x.date === fdDay)) fdDay = "live";
     const btn = (k, top, big, c) => `<button data-k="${k}" class="${fdDay===k?"on":""}"><small>${top}</small><b>${big}</b>${c!=null?`<small>${c}건</small>`:""}</button>`;
-    daysBox.innerHTML = btn("live","최근","🔥 24h") + days.map(x => { const d = new Date(x.date + "T00:00:00");
+    daysBox.innerHTML = btn("live","최근","24h") + days.map(x => { const d = new Date(x.date + "T00:00:00");
       return btn(x.date, x.date === todayStr() ? "오늘" : WD[d.getDay()], `${d.getMonth()+1}/${d.getDate()}`, x.count); }).join("");
     daysBox.querySelectorAll("button").forEach(b => b.onclick = () => { fdDay = b.dataset.k; loadFeed(fdKind); });
     if(fdDay === "live"){
@@ -645,7 +670,7 @@ function renderSchedule(){
       const cls = p.s <= now && now < p.e ? "live" : p.e <= now ? "past" : "";
       return `<div class="row ${cls}"><time>${hm(p.s)}</time><span class="t">${esc(p.title)}</span>${p.type==="재"?'<span class="badge">재</span>':""}</div>`;
     }).join("") || '<div class="empty">편성 정보 없음</div>';
-    return `<section class="card ch"><h3>${esc(c.name)}${c.ok?"":"<small>⚠ 최신 정보 아님</small>"}</h3>${rows}</section>`;
+    return `<section class="card ch"><h3>${esc(c.name)}${c.ok?"":"<small>최신 정보 아님</small>"}</h3>${rows}</section>`;
   }).join("");
 }
 
@@ -691,7 +716,7 @@ function renderTime(sfx = ""){
   });
   const cnt = {all:ev.length}; Object.keys(GROUPS).forEach(k => cnt[k] = ev.filter(e => GROUPS[k].includes(e.ch)).length);
   cnt.game = ev.filter(e => e.kind === "game").length;
-  const chips = [["all","전체"],["지상파","지상파"],["종편","종편"],["케이블","케이블"]].concat(cnt.game ? [["game","⚾ 경기"]] : []);
+  const chips = [["all","전체"],["지상파","지상파"],["종편","종편"],["케이블","케이블"]].concat(cnt.game ? [["game","경기"]] : []);
   $("tFilter").innerHTML = `<div class="chips">${chips.map(([k,l]) =>
     `<button class="${k===tGroup?"on":""}" data-k="${k}">${l}<small>${cnt[k]}</small></button>`).join("")}</div>
     <button class="toggle ${tMain?"on":""}" id="tMain${sfx}">본방·생방만</button>`;
@@ -711,8 +736,8 @@ function renderTime(sfx = ""){
   // 오늘은 지난 시간대를 접어 두고 지금 시간부터 보여줌
   const hidden = curH >= 0 && !tPast ? hours.filter(h => h < curH) : [];
   hours = hours.filter(h => !hidden.includes(h));
-  const pastBtn = curH >= 0 ? `<button class="toggle" id="tPastBtn${sfx}" style="width:100%;margin-top:10px;border-radius:10px">${tPast ? "⬆ 지난 시간 접기" :
-    hidden.length ? `⬆ 지난 방송 보기 (${String(hidden[0]).padStart(2,"0")}시~${String(hidden[hidden.length-1]).padStart(2,"0")}시)` : ""}</button>` : "";
+  const pastBtn = curH >= 0 ? `<button class="toggle" id="tPastBtn${sfx}" style="width:100%;margin-top:10px;border-radius:10px">${tPast ? "지난 시간 접기" :
+    hidden.length ? `지난 방송 보기 (${String(hidden[0]).padStart(2,"0")}시~${String(hidden[hidden.length-1]).padStart(2,"0")}시)` : ""}</button>` : "";
   $("tList").innerHTML = (pastBtn && (tPast || hidden.length) ? pastBtn : "") + hours.map(h => {
     const rows = byHour[h].map(e => {
       const cls = e.s <= now && now < e.e ? "live" : e.e <= now ? "past" : "";
@@ -722,9 +747,9 @@ function renderTime(sfx = ""){
       }else{
         const g = e.g;
         tags = (g.note ? `<span class="badge green">${esc(g.note)}</span>` : "") + (g.score && g.status !== "예정" ? `<span class="badge dark">${esc(g.score)} ${g.status==="종료"?"종료":""}</span>` : "") +
-               (g.tv ? `<span class="badge">📺 ${esc(g.tv)}</span>` : "");
+               (g.tv ? `<span class="badge">${esc(g.tv)}</span>` : "");
       }
-      return `<div class="tr ${cls} ${e.kind==="game"?"game":""}"><time>${hm(e.s)}</time><span class="chn">${e.kind==="game"?"⚾ "+esc(e.ch):esc(e.ch)}</span>
+      return `<div class="tr ${cls} ${e.kind==="game"?"game":""}"><time>${hm(e.s)}</time><span class="chn">${e.kind==="game"?""+esc(e.ch):esc(e.ch)}</span>
         <span class="t">${esc(e.title)}<span class="tags">${tags}</span></span><span class="end">~${hm(e.e)}</span></div>`;
     }).join("");
     return `<section class="card hr ${h===curH?"nowh":""}" id="h${h}${sfx}"><h3>${String(h).padStart(2,"0")}시 ${h===curH?"· 지금":""}<small>${byHour[h].length}개</small></h3>${rows}</section>`;
@@ -759,7 +784,7 @@ function stripHtml(){
   const ev = bcEvents(today).filter(e => e.e > now && (e.kind === "game" || e.rating || e.type === "본"))
     .sort((a,b) => (b.kind==="game") - (a.kind==="game") || (b.rating?.rating||0) - (a.rating?.rating||0)).slice(0,4).sort((a,b) => a.s - b.s);
   if(!ev.length) return "";
-  return `<h4><span>📺 오늘 방송·경기</span><a onclick="go('star','tv')">시간대별 편성표 →</a></h4>` + ev.map(e => {
+  return `<h4><span>오늘 방송·경기</span><a onclick="go('star','tv')">시간대별 편성표 →</a></h4>` + ev.map(e => {
     const on = e.s <= now;
     return `<div class="it"><time>${hm(e.s)}</time><span>${esc(e.title)} · ${esc(e.kind==="game"?e.g.league:e.ch)}</span><em>${on?(e.kind==="game"?"경기 중 ▶":"방송 중 ▶"):(e.s-now<3600e3?"곧 시작":"끝 "+hm(e.e))}</em></div>`;
   }).join("");
@@ -789,7 +814,7 @@ const ENT_HELP = {
   mine: "「쓸게요」를 눌러 둔 소재만 모아 봐요."
 };
 function renderEnt(){
-  document.getElementById("entHelp").textContent = "ℹ️ " + ENT_HELP[entSort];
+  document.getElementById("entHelp").textContent = "" + ENT_HELP[entSort];
   const ds = entIdx.map(x => x.date), i = ds.indexOf(entDay);
   document.getElementById("entDate").textContent = dayLabel(entDay);
   document.getElementById("entPrev").disabled = i < 0 || i >= ds.length - 1;
@@ -825,7 +850,7 @@ function renderEnt(){
     return `<div class="card topic ${on?"mine":""} ${isToday && !c.inrank && entSort!=="mine" ? "old":""}">
       <div class="body"><a class="tt" href="${esc(best.link)}" target="_blank" rel="noopener">${esc(best.title)}</a>
       <div class="tags">${tags}</div>${more}</div>
-      <button class="claim ${on?"on":""}" data-k="${esc(key)}">${on?"✓ 쓸게요":"쓸게요"}</button></div>`;
+      <button class="claim ${on?"on":""}" data-k="${esc(key)}">${on?"쓸게요":"쓸게요"}</button></div>`;
   }).join("") || `<div class="card empty">${entSort==="mine"?"아직 「쓸게요」를 누른 소재가 없어요.":"소재가 없어요."}</div>`;
   list.querySelectorAll(".claim").forEach(b => b.onclick = () => {
     const C2 = claims(); if(C2[b.dataset.k]) delete C2[b.dataset.k]; else C2[b.dataset.k] = Date.now();
@@ -854,7 +879,7 @@ function renderKwHub(){
   chips.innerHTML = [["all","전체"], ...groups.map(g => [g.name, g.name])].map(([k,l]) =>
     `<button class="${k===kwGroup?"on":""}" data-k="${esc(k)}">${esc(l)}</button>`).join("");
   chips.querySelectorAll("button").forEach(b => b.onclick = () => { kwGroup = b.dataset.k; renderKw(); });
-  document.getElementById("kwSort").innerHTML = [["opp","🟢 쓰기 좋은 순"],["pop","🔥 인기순"],["rise","📈 상승순"]].map(([k,l]) =>
+  document.getElementById("kwSort").innerHTML = [["opp","쓰기 좋은 순"],["pop","인기순"],["rise","상승순"]].map(([k,l]) =>
     `<button class="${k===kwSort?"on":""}" data-k="${k}">${l}</button>`).join("");
   document.querySelectorAll("#kwSort button").forEach(b => b.onclick = () => { kwSort = b.dataset.k; renderKw(); });
   const by = {opp:(a,b) => b.opp - a.opp, pop:(a,b) => b.pop - a.pop, rise:(a,b) => b.rise - a.rise}[kwSort];
@@ -865,7 +890,7 @@ function renderKwHub(){
      <div class="kh"><span>키워드</span><span>인기도</span><span>상승</span><span>블로그 글</span></div>` +
     g.keywords.slice().sort(by).map(k => {
       const q = encodeURIComponent(k.keyword);
-      const qs = (k.questions || []).map(x => `<div>❓ <a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.title)}</a></div>`).join("") || '<div class="info" style="margin:0">관련 질문이 없어요.</div>';
+      const qs = (k.questions || []).map(x => `<div><a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.title)}</a></div>`).join("") || '<div class="info" style="margin:0">관련 질문이 없어요.</div>';
       return `<details class="kr"><summary>
         <span class="k"><b>${esc(k.keyword)}</b>${k.hot?'<span class="gd hot">오늘 뜸</span>':""}<span class="gd ${k.grade||"mid"}">${gl[k.grade]||""}</span></span>
         <span class="popbar">${spark(k.spark)}<span>${Math.round(k.pop)}</span></span>
@@ -911,7 +936,7 @@ async function loadNews(){
   const btn = (k, top, big, c) => `<button data-k="${k}" class="${newsDay===k?"on":""}"><small>${top}</small><b>${big}</b>${c!=null?`<small>${c}건</small>`:""}</button>`;
   const days = idx.slice(0, 3);
   if (newsDay !== "live" && !days.some(x => x.date === newsDay)) newsDay = "live";
-  document.getElementById("newsDays").innerHTML = btn("live","최근","🔥 24h") + days.map((x, i) => {
+  document.getElementById("newsDays").innerHTML = btn("live","최근","24h") + days.map((x, i) => {
     const d = new Date(x.date + "T00:00:00");
     return btn(x.date, x.date === todayStr() ? "오늘" : WD[d.getDay()], `${d.getMonth()+1}/${d.getDate()}`, x.count);
   }).join("");
@@ -940,7 +965,7 @@ async function loadEcon(){
   const WD = "일월화수목금토", days = idx.slice(0, 3);
   if(ecDay !== "live" && !days.some(x => x.date === ecDay)) ecDay = "live";
   const btn = (k, top, big, c) => `<button data-k="${k}" class="${ecDay===k?"on":""}"><small>${top}</small><b>${big}</b>${c!=null?`<small>${c}건</small>`:""}</button>`;
-  document.getElementById("ecDays").innerHTML = btn("live","최근","🔥 24h") + days.map(x => { const d = new Date(x.date + "T00:00:00");
+  document.getElementById("ecDays").innerHTML = btn("live","최근","24h") + days.map(x => { const d = new Date(x.date + "T00:00:00");
     return btn(x.date, x.date === todayStr() ? "오늘" : WD[d.getDay()], `${d.getMonth()+1}/${d.getDate()}`, x.count); }).join("");
   document.querySelectorAll("#ecDays button").forEach(b => b.onclick = () => { ecDay = b.dataset.k; loadEcon(); });
   let rows = [];
@@ -952,7 +977,7 @@ async function loadEcon(){
   const all = (await Promise.all(idx.slice(0, 3).map(x => getJSON(`data/econ/${x.date}.json`, {articles:[]})))).flatMap(f => f.articles || []);
   const seen = new Set(), due = all.filter(a => a.end && a.end >= todayStr()).sort((a,b) => a.end.localeCompare(b.end))
     .filter(a => { const k = a.title.replace(/[^가-힣a-zA-Z0-9]/g,"").slice(0,14); if(seen.has(k)) return false; seen.add(k); return true; }).slice(0, 8);
-  document.getElementById("ecDue").innerHTML = due.length ? `<div class="sec"><h2>⏰ 신청 마감 임박</h2></div><div class="card">${due.map(a =>
+  document.getElementById("ecDue").innerHTML = due.length ? `<div class="sec"><h2>신청 마감 임박</h2></div><div class="card">${due.map(a =>
     `<a class="ecdue" href="${esc(a.link)}" target="_blank" rel="noopener"><span>${esc(a.title)}<small>${esc(a.by||"")} · 신청 ~${+a.end.slice(5,7)}/${+a.end.slice(8)}</small></span><span class="dd">${dleft(a.end)}</span></a>`).join("")}</div>` : "";
   ecRows = rows.sort((a,b) => b.t.localeCompare(a.t)); showEcon();
 }
@@ -981,7 +1006,7 @@ async function loadCars(){
   const WD = "일월화수목금토", days = idx.slice(0, 3);
   if(carDay !== "live" && !days.some(x => x.date === carDay)) carDay = "live";
   const btn = (k, top, big, c) => `<button data-k="${k}" class="${carDay===k?"on":""}"><small>${top}</small><b>${big}</b>${c!=null?`<small>${c}건</small>`:""}</button>`;
-  document.getElementById("carDays").innerHTML = btn("live","최근","🔥 24h") + days.map(x => { const d = new Date(x.date + "T00:00:00");
+  document.getElementById("carDays").innerHTML = btn("live","최근","24h") + days.map(x => { const d = new Date(x.date + "T00:00:00");
     return btn(x.date, x.date === todayStr() ? "오늘" : WD[d.getDay()], `${d.getMonth()+1}/${d.getDate()}`, x.count); }).join("");
   document.querySelectorAll("#carDays button").forEach(b => b.onclick = () => { carDay = b.dataset.k; loadCars(); });
   if(carDay === "live"){
@@ -991,7 +1016,7 @@ async function loadCars(){
   carRows.sort((a,b) => b.t.localeCompare(a.t)); drawCars();
 }
 function drawCars(){
-  document.getElementById("carHotH").textContent = carKind === "moto" ? "🔥 지금 화제인 오토바이 TOP 5" : "🔥 지금 화제인 차 TOP 5";
+  document.getElementById("carHotH").textContent = carKind === "moto" ? "지금 화제인 오토바이 TOP 5" : "지금 화제인 차 TOP 5";
   document.querySelectorAll("#carKind button").forEach(b => b.classList.toggle("on", b.dataset.k === carKind));
   const okKind = x => carKind === "all" || (carKind === "moto") === !!x.moto;
   const hot = (carSum?.hot || []).filter(okKind).slice(0, 5);
@@ -1076,7 +1101,7 @@ function drawImg(){
   const ready = keys().every(k => slots[k].img);
   document.getElementById("btnCopy").disabled = document.getElementById("btnSave").disabled = !ready;
   ["L","C","R"].forEach(k => { const d = document.getElementById("drop"+k); d.classList.toggle("has", !!slots[k].img);
-    d.querySelector("b").textContent = LABEL[imgDir][k] + (slots[k].img ? " 사진 ✓" + (imgN === 3 ? "" : " (바꾸려면 누르기)") : " 사진"); });
+    d.querySelector("b").textContent = LABEL[imgDir][k] + (slots[k].img ? " 사진 " + (imgN === 3 ? "" : " (바꾸려면 누르기)") : " 사진"); });
 }
 function setImage(side, file){
   if(!file || !file.type.startsWith("image/")) return;
@@ -1150,7 +1175,7 @@ function renderMart(){
   info.textContent = `마지막 갱신 ${shortDay(kstDay(up))} ${hm(up)} · 하루 3번(8시·12시·18시) · 새 할인·신상은 텔레그램으로 알려드려요`;
   if(mart === "costco"){
     const c = martData.costco || {};
-    const views = [["sale",`🏷 스페셜 할인 ${c.sale?.length||0}`],["new",`🆕 신상품 ${c.new?.length||0}`],["blog","📝 최신 후기"]];
+    const views = [["sale",`스페셜 할인 ${c.sale?.length||0}`],["new",`신상품 ${c.new?.length||0}`],["blog","최신 후기"]];
     let html = `<div class="chips" style="margin-top:6px">${views.map(([k,l]) => `<button class="${k===mView?"on":""}" data-v="${k}">${l}</button>`).join("")}</div>`;
     if(mView === "blog"){ html += `<div class="card" style="margin-top:10px">${postList(c.blog, "후기가 없어요.")}</div>`; }
     else{
@@ -1168,10 +1193,10 @@ function renderMart(){
     if(q){ q.value = store.get("mQ", ""); q.oninput = () => { store.set("mQ", q.value); drawCostco(); }; drawCostco(); }
   }else if(mart === "traders"){
     const t = martData.traders || {}, h = t.holiday;
-    body.innerHTML = `<div class="sec"><h2>📅 ${esc(h?.title || "휴점일 안내")}</h2></div>
+    body.innerHTML = `<div class="sec"><h2>${esc(h?.title || "휴점일 안내")}</h2></div>
       <div class="card" style="padding:4px 14px 12px"><dl class="hol">${(h?.rows||[]).map(r => `<dt>${esc(r.dates)}</dt><dd>${esc(r.stores)}</dd>`).join("") || "<dd>정보가 없어요.</dd>"}</dl></div>
-      <div class="sec"><h2>📰 행사 소식 (네이버 뉴스)</h2></div><div class="card">${postList(t.news, "최근 뉴스가 없어요.")}</div>
-      <div class="sec"><h2>📝 최신 후기 (네이버 블로그)</h2></div><div class="card">${postList(t.blog, "후기가 없어요.")}</div>
+      <div class="sec"><h2>행사 소식 (네이버 뉴스)</h2></div><div class="card">${postList(t.news, "최근 뉴스가 없어요.")}</div>
+      <div class="sec"><h2>최신 후기 (네이버 블로그)</h2></div><div class="card">${postList(t.blog, "후기가 없어요.")}</div>
       <div class="info">트레이더스 행사 상품은 이마트 앱 안에만 있어서, 공식 휴점일과 뉴스·블로그 소식으로 보여드려요.</div>`;
   }else if(mart === "deals"){
     drawDeals(body);
@@ -1181,9 +1206,9 @@ function renderMart(){
     const row = x => `<a class="mitem" href="${esc(x.url)}" target="_blank" rel="noopener"><div class="b"><div class="nm">${esc(x.name)}</div>
       <div class="meta">${isNew(x.first)?'<span class="badge red">NEW</span>':""}${x.new?'<span class="badge green">신상</span>':""}${x.theme?`<span class="badge">${esc(x.theme)}</span>`:""}
       <span>${x.upcoming?"오픈 "+esc(x.start.slice(5)):esc(x.start)}${x.end?" ~ "+esc(x.end):""}</span></div></div></a>`;
-    body.innerHTML = (up.length ? `<div class="sec"><h2>⏰ 오픈 예정 기획전</h2></div><div class="card">${up.map(row).join("")}</div>` : "") +
-      `<div class="sec"><h2>🛍 진행 중인 신상·기획전</h2></div><div class="card">${on.map(row).join("") || '<div class="empty">없어요.</div>'}</div>
-       <div class="sec"><h2>📝 「다이소 신상」 최신 후기</h2></div><div class="card">${postList(d.blog, "후기가 없어요.")}</div>`;
+    body.innerHTML = (up.length ? `<div class="sec"><h2>오픈 예정 기획전</h2></div><div class="card">${up.map(row).join("")}</div>` : "") +
+      `<div class="sec"><h2>진행 중인 신상·기획전</h2></div><div class="card">${on.map(row).join("") || '<div class="empty">없어요.</div>'}</div>
+       <div class="sec"><h2>「다이소 신상」 최신 후기</h2></div><div class="card">${postList(d.blog, "후기가 없어요.")}</div>`;
   }
 }
 let dTag = "all";
@@ -1196,7 +1221,7 @@ function drawDeals(body){
      <span class="dd ${e.end?"":"soon"}">${e.end ? dleft(e.end) : "날짜 미정"}</span></button>`).join("");
   const order = [...(D.events||[]).map(e => e.name), "대형마트", "편의점", "온라인몰"].filter(k => cnt[k]);
   const list = arts.filter(a => dTag === "all" || a.tags.includes(dTag));
-  body.innerHTML = (ev ? `<div class="sec"><h2>📆 진행 중·다가오는 행사</h2></div><div class="evgrid">${ev}</div>` : "") +
+  body.innerHTML = (ev ? `<div class="sec"><h2>진행 중·다가오는 행사</h2></div><div class="evgrid">${ev}</div>` : "") +
     `<div class="chips" id="dTags" style="margin-top:10px;flex-wrap:wrap">${[["all","전체",arts.length], ...order.map(k => [k,k,cnt[k]])].map(([k,l,n]) =>
       `<button class="${k===dTag?"on":""}" data-t="${esc(k)}">${esc(l)}<small>${n}</small></button>`).join("")}</div>
      <div class="card" style="margin-top:10px">${list.map(a => `<a class="nw" href="${esc(a.link)}" target="_blank" rel="noopener">${(new Date() - new Date(a.t)) < 3*36e5 ? '<span class="badge red" style="margin-right:4px">NEW</span>' : ""}${esc(a.title)}<small>${esc(a.by||"")} · ${ago(a.t)} · ${a.tags.map(t => "#" + esc(t)).join(" ")}</small></a>`).join("")
@@ -1224,7 +1249,7 @@ function drawCostco(){
       ${x.img ? `<img loading="lazy" src="${esc(x.img)}" alt="">` : ""}<div class="b"><div class="nm">${esc(x.name)}</div>
       <div class="pr"><b>${won(x.price)}</b>${x.discount && x.base ? `<s>${won(x.base)}</s><span class="off">−${won(x.discount)}</span>` : ""}</div>
       <div class="meta">${isNew(x.first)?'<span class="badge red">NEW</span>':""}${x.end?`<span class="badge">${dleft(x.end)}</span><span>~${esc(x.end.slice(5))}</span>`:""}
-      ${x.rating?`<span>★ ${(+x.rating).toFixed(1)} (${x.reviews||0})</span>`:""}${x.soldout?'<span class="badge">품절</span>':""}</div></div></a>`).join("")
+      ${x.rating?`<span>${(+x.rating).toFixed(1)} (${x.reviews||0})</span>`:""}${x.soldout?'<span class="badge">품절</span>':""}</div></div></a>`).join("")
     || '<div class="empty">해당하는 상품이 없어요.</div>';
   if(arr.length > mLimit){ const b = document.createElement("button"); b.className = "more-btn"; b.textContent = `더 보기 (${arr.length - mLimit}개 더)`;
     b.onclick = () => { mLimit += 60; drawCostco(); }; box.appendChild(b); }
@@ -1257,7 +1282,7 @@ function renderShop(){
   const M = x => x[shCmp] ?? x.rise ?? 0;
   document.querySelectorAll("#shCmp button").forEach(b => b.classList.toggle("on", b.dataset.c === shCmp));
   const last = shData.range ? shData.range[1] : null;
-  document.getElementById("shNote").innerHTML = last ? `📅 <b>${shortDay(last)}</b> 확정치 기준` : "📅 어제 확정치 기준";
+  document.getElementById("shNote").innerHTML = last ? `<b>${shortDay(last)}</b> 확정치 기준` : "어제 확정치 기준";
   const allKw = shData.groups.flatMap(g => g.keywords.map(k => ({...k, g: g.name})));
   const top = allKw.filter(k => M(k) > 0 && k.pop >= 5).map(k => ({...k, sc: M(k) * Math.sqrt(k.pop) / Math.log10((k.blog||0) + 10)})).sort((a,b) => b.sc - a.sc).slice(0,5);
   const nn = v => v == null ? "-" : v >= 10000 ? (v/10000).toFixed(1) + "만" : v.toLocaleString();
@@ -1275,7 +1300,7 @@ function renderShop(){
   document.getElementById("shGroups").innerHTML = [["all","전체"], ...groups.map(g => [g.name, g.name])].map(([k,l]) =>
     `<button class="${k===shGroup?"on":""}" data-k="${esc(k)}">${esc(l)}</button>`).join("");
   document.querySelectorAll("#shGroups button").forEach(b => b.onclick = () => { shGroup = b.dataset.k; renderShop(); });
-  document.getElementById("shSort").innerHTML = [["opp","🟢 쓰기 좋은 순"],["pop","🔥 인기순"],["rise","📈 상승순"]].map(([k,l]) =>
+  document.getElementById("shSort").innerHTML = [["opp","쓰기 좋은 순"],["pop","인기순"],["rise","상승순"]].map(([k,l]) =>
     `<button class="${k===shSort?"on":""}" data-k="${k}">${l}</button>`).join("");
   document.querySelectorAll("#shSort button").forEach(b => b.onclick = () => { shSort = b.dataset.k; renderShop(); });
   const by = {opp:(a,b) => b.opp - a.opp, pop:(a,b) => b.pop - a.pop, rise:(a,b) => M(b) - M(a)}[shSort];
@@ -1288,7 +1313,7 @@ function renderShop(){
         <span class="k"><b>${esc(k.keyword)}</b>${k.hot?'<span class="gd hot">오늘 뜸</span>':""}<span class="gd ${k.grade||"mid"}">${gl[k.grade]||""}</span></span>
         <span class="popbar">${spark(k.spark)}<span>${Math.round(k.pop)}</span></span>${riseHtml(M(k))}<span class="bc">${n(k.blog)}</span></summary>
         <div class="more"><div class="links">
-          <a href="https://search.shopping.naver.com/ns/search?query=${q}" target="_blank" rel="noopener">🛒 네이버쇼핑에서 보기</a>
+          <a href="https://search.shopping.naver.com/ns/search?query=${q}" target="_blank" rel="noopener">네이버쇼핑에서 보기</a>
           <a href="https://search.naver.com/search.naver?ssc=tab.blog.all&query=${encodeURIComponent(k.keyword + " 후기")}" target="_blank" rel="noopener">후기 글 보기</a>
           <a href="https://search.naver.com/search.naver?query=${q}" target="_blank" rel="noopener">네이버 검색</a></div>
           <div class="info" style="margin:6px 0 0">「${esc(k.keyword)} 후기」 블로그 글 ${n(k.blog)}${k.hot?" · 오늘 이 분야 뉴스에 자주 나온 단어":""}</div></div></details>`;

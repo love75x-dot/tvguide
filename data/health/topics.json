@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T04:08:52.895722+09:00",
+ "updated": "2026-11-01T05:08:55.495946+09:00",
  "topics": [
   {
    "name": "독감",
@@ -83,6 +83,48 @@
    ]
   },
   {
+   "name": "혈당",
+   "kind": "질환·증상",
+   "count": 9,
+   "angles": [
+    "부작용",
+    "에 좋은",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "공복 혈당 105, 정상인 줄 알았는데…30세 이상 10명 중 4명 ‘당뇨 전단...",
+     "link": "https://www.segye.com/newsView/20261101500848?OutUrl=naver",
+     "t": "2026-11-01T04:43:00+09:00",
+     "by": "segye.com"
+    },
+    {
+     "title": "“잠만 잤는데 혈당 오른다고?”…전문가가 경고한 건강 망치는 ‘잠버...",
+     "link": "https://www.sedaily.com/article/20108624?ref=naver",
+     "t": "2026-10-31T23:13:00+09:00",
+     "by": "sedaily.com"
+    },
+    {
+     "title": "최강창민, “‘이것’ 한 숟갈 먹고 바로 기절”… 혈당 급상승 주의해...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/10/30/2026103002644.html",
+     "t": "2026-10-31T21:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "\"내 하루 컨디션 좌우하는 '혈당'…이 4가지만 기억하세요\"[ 건강 비책]",
+     "link": "https://www.nocutnews.co.kr/news/6600126?utm_source=naver&utm_medium=article&utm_campaign=20261031103745",
+     "t": "2026-10-31T10:38:00+09:00",
+     "by": "nocutnews.co.kr"
+    },
+    {
+     "title": "“설탕 대신 알룰로스 듬뿍 넣었더니?”…당류 없어 안심했는데 혈당 껑...",
+     "link": "https://kormedi.com/?p=2894689",
+     "t": "2026-10-31T08:02:00+09:00",
+     "by": "kormedi.com"
+    }
+   ]
+  },
+  {
    "name": "혈압",
    "kind": "질환·증상",
    "count": 9,
@@ -122,48 +164,6 @@
      "link": "http://www.joseilbo.com/news/news_read.php?uid=578511&class=27&grp=",
      "t": "2026-10-30T08:10:00+09:00",
      "by": "joseilbo.com"
-    }
-   ]
-  },
-  {
-   "name": "혈당",
-   "kind": "질환·증상",
-   "count": 8,
-   "angles": [
-    "부작용",
-    "에 좋은",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "“잠만 잤는데 혈당 오른다고?”…전문가가 경고한 건강 망치는 ‘잠버...",
-     "link": "https://www.sedaily.com/article/20108624?ref=naver",
-     "t": "2026-10-31T23:13:00+09:00",
-     "by": "sedaily.com"
-    },
-    {
-     "title": "최강창민, “‘이것’ 한 숟갈 먹고 바로 기절”… 혈당 급상승 주의해...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/10/30/2026103002644.html",
-     "t": "2026-10-31T21:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "\"내 하루 컨디션 좌우하는 '혈당'…이 4가지만 기억하세요\"[ 건강 비책]",
-     "link": "https://www.nocutnews.co.kr/news/6600126?utm_source=naver&utm_medium=article&utm_campaign=20261031103745",
-     "t": "2026-10-31T10:38:00+09:00",
-     "by": "nocutnews.co.kr"
-    },
-    {
-     "title": "“설탕 대신 알룰로스 듬뿍 넣었더니?”…당류 없어 안심했는데 혈당 껑...",
-     "link": "https://kormedi.com/?p=2894689",
-     "t": "2026-10-31T08:02:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "“살찌고 혈당 오른다”… 꼭 고쳐야 할 ‘잠버릇’ 한 가지",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/10/30/2026103002128.html",
-     "t": "2026-10-31T08:01:00+09:00",
-     "by": "health.chosun.com"
     }
    ]
   },
@@ -403,6 +403,35 @@
    ]
   },
   {
+   "name": "당뇨",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "공복 혈당 105, 정상인 줄 알았는데…30세 이상 10명 중 4명 ‘당뇨 전단...",
+     "link": "https://www.segye.com/newsView/20261101500848?OutUrl=naver",
+     "t": "2026-11-01T04:43:00+09:00",
+     "by": "segye.com"
+    },
+    {
+     "title": "고 혈압 ·당뇨 있다면 더 주의해야… 뇌졸중 위험 낮추는 생활습관은?",
+     "link": "https://www.rapportian.com/news/articleView.html?idxno=241868",
+     "t": "2026-10-30T16:20:00+09:00",
+     "by": "rapportian.com"
+    },
+    {
+     "title": "대웅제약 \"엔블로, 당뇨 넘어 대사기능 개선 가능성 확인\"",
+     "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=167007",
+     "t": "2026-10-29T15:18:00+09:00",
+     "by": "doctorsnews.co.kr"
+    }
+   ]
+  },
+  {
    "name": "면역력",
    "kind": "질환·증상",
    "count": 3,
@@ -453,29 +482,6 @@
      "link": "https://www.k-health.com/news/articleView.html?idxno=101909",
      "t": "2026-10-29T14:10:00+09:00",
      "by": "k-health.com"
-    }
-   ]
-  },
-  {
-   "name": "당뇨",
-   "kind": "질환·증상",
-   "count": 2,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "고 혈압 ·당뇨 있다면 더 주의해야… 뇌졸중 위험 낮추는 생활습관은?",
-     "link": "https://www.rapportian.com/news/articleView.html?idxno=241868",
-     "t": "2026-10-30T16:20:00+09:00",
-     "by": "rapportian.com"
-    },
-    {
-     "title": "대웅제약 \"엔블로, 당뇨 넘어 대사기능 개선 가능성 확인\"",
-     "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=167007",
-     "t": "2026-10-29T15:18:00+09:00",
-     "by": "doctorsnews.co.kr"
     }
    ]
   },

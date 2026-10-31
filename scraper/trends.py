@@ -458,11 +458,18 @@ def _cars_collect():
     cars.collect()
 
 
+def _topic_collect():
+    import sys
+    sys.path.insert(0, str(pathlib.Path(__file__).parent))
+    import topicnews
+    topicnews.collect()
+
+
 def main():
     failed = []
     for name, fn in [("연예 랭킹", collect_ent), ("시청률", collect_ratings),
                      ("경기 일정", collect_sports), ("키워드", collect_keywords),
-                     ("키워드(API HUB)", _hub_collect), ("쇼핑", _shop_collect), ("마트·다이소", _marts_collect), ("경제", _econ_collect), ("레시피", _recipe_collect), ("신차", _cars_collect)]:
+                     ("키워드(API HUB)", _hub_collect), ("쇼핑", _shop_collect), ("마트·다이소", _marts_collect), ("경제", _econ_collect), ("레시피", _recipe_collect), ("신차", _cars_collect), ("건강·IT", _topic_collect)]:
         try:
             fn()
         except Exception as e:

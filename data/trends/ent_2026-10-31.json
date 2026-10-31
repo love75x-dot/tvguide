@@ -137,7 +137,7 @@
     }
    ],
    "first": "00:09",
-   "last": "22:06",
+   "last": "23:12",
    "best": 1,
    "hours": [
     "00:09",
@@ -172,15 +172,16 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 2
+    "nate_pop": 1,
+    "nate_int": 1
    },
    "count": 18,
    "inrank": true
@@ -328,7 +329,7 @@
     }
    ],
    "first": "00:09",
-   "last": "22:06",
+   "last": "23:12",
    "best": 1,
    "hours": [
     "00:09",
@@ -361,15 +362,16 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 6
+    "nate_pop": 12,
+    "nate_int": 7
    },
    "count": 19,
    "inrank": true
@@ -761,7 +763,7 @@
     }
    ],
    "first": "00:09",
-   "last": "22:06",
+   "last": "23:12",
    "best": 2,
    "hours": [
     "00:09",
@@ -796,15 +798,16 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 12
+    "nate_pop": 26,
+    "nate_int": 25
    },
    "count": 23,
    "inrank": true
@@ -1091,11 +1094,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 40
-   },
+   "now": {},
    "count": 10,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c12",
@@ -1368,11 +1369,13 @@
    "title": "[영상] 故 최불암 빈소 찾은 김혜수 '슬픔이 느껴지는 눈빛'",
    "titles": [
     "[영상] 故 최불암 빈소 찾은 김혜수 '슬픔이 느껴지는 눈빛'",
-    "[영상] 선우용녀, 故 최불암 빈소 조문 '먹먹한 발걸음'"
+    "[영상] 선우용녀, 故 최불암 빈소 조문 '먹먹한 발걸음'",
+    "최명길, 故 최불암 떠나보내며 공개한 26년 전 먹먹한 영상 \"편히 쉬셔요 ..."
    ],
    "links": [
     "https://news.nate.com/view/20261030n35222",
-    "https://news.nate.com/view/20261030n35318"
+    "https://news.nate.com/view/20261030n35318",
+    "https://news.nate.com/view/20261031n10024"
    ],
    "articles": [
     {
@@ -1384,20 +1387,29 @@
      "title": "[영상] 선우용녀, 故 최불암 빈소 조문 '먹먹한 발걸음'",
      "link": "https://news.nate.com/view/20261030n35318",
      "media": "iMBC연예"
+    },
+    {
+     "title": "최명길, 故 최불암 떠나보내며 공개한 26년 전 먹먹한 영상 \"편히 쉬셔요 ...",
+     "link": "https://news.nate.com/view/20261031n10024",
+     "media": "뉴스엔"
     }
    ],
    "first": "00:09",
-   "last": "00:09",
+   "last": "23:12",
    "best": 20,
    "hours": [
-    "00:09"
+    "00:09",
+    "23:12"
    ],
    "srcs": [
-    "nate_pop"
+    "nate_pop",
+    "nate_int"
    ],
-   "now": {},
-   "count": 2,
-   "inrank": false
+   "now": {
+    "nate_int": 46
+   },
+   "count": 3,
+   "inrank": true
   },
   {
    "id": "c18",
@@ -1454,11 +1466,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 38
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c19",
@@ -2183,7 +2193,7 @@
     }
    ],
    "first": "01:08",
-   "last": "22:06",
+   "last": "23:12",
    "best": 1,
    "hours": [
     "01:08",
@@ -2216,15 +2226,15 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 27
+    "nate_int": 29
    },
    "count": 7,
    "inrank": true
@@ -2924,7 +2934,7 @@
     }
    ],
    "first": "08:08",
-   "last": "22:06",
+   "last": "23:12",
    "best": 3,
    "hours": [
     "08:08",
@@ -2944,15 +2954,16 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 5
+    "nate_pop": 15,
+    "nate_int": 11
    },
    "count": 6,
    "inrank": true
@@ -3537,7 +3548,7 @@
     }
    ],
    "first": "12:08",
-   "last": "22:06",
+   "last": "23:12",
    "best": 1,
    "hours": [
     "12:08",
@@ -3557,15 +3568,15 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 21
+    "nate_int": 28
    },
    "count": 2,
    "inrank": true
@@ -3792,7 +3803,7 @@
     }
    ],
    "first": "12:08",
-   "last": "22:06",
+   "last": "23:12",
    "best": 1,
    "hours": [
     "12:08",
@@ -3812,15 +3823,16 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 1
+    "nate_pop": 2,
+    "nate_int": 2
    },
    "count": 3,
    "inrank": true
@@ -3842,7 +3854,7 @@
     }
    ],
    "first": "12:08",
-   "last": "22:06",
+   "last": "23:12",
    "best": 10,
    "hours": [
     "12:08",
@@ -3862,14 +3874,15 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 30
+    "nate_int": 32
    },
    "count": 1,
    "inrank": true
@@ -4128,7 +4141,7 @@
     }
    ],
    "first": "14:08",
-   "last": "22:06",
+   "last": "23:12",
    "best": 4,
    "hours": [
     "14:08",
@@ -4146,15 +4159,16 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 10
+    "nate_pop": 19,
+    "nate_int": 17
    },
    "count": 2,
    "inrank": true
@@ -4277,7 +4291,7 @@
     }
    ],
    "first": "15:08",
-   "last": "22:06",
+   "last": "23:12",
    "best": 4,
    "hours": [
     "15:08",
@@ -4294,7 +4308,8 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
@@ -4413,11 +4428,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 36
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c93",
@@ -4476,7 +4489,7 @@
     }
    ],
    "first": "15:54",
-   "last": "22:06",
+   "last": "23:12",
    "best": 1,
    "hours": [
     "15:54",
@@ -4492,14 +4505,15 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
+    "nate_pop": 13,
     "nate_int": 14
    },
    "count": 2,
@@ -4543,11 +4557,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 37
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c96",
@@ -4587,30 +4599,35 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 29
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c97",
    "title": "故 최불암, 불과 3~4주 전에도 방송 복귀 의욕…홍문종 \"빨리 나가서 '한...",
    "titles": [
-    "故 최불암, 불과 3~4주 전에도 방송 복귀 의욕…홍문종 \"빨리 나가서 '한..."
+    "故 최불암, 불과 3~4주 전에도 방송 복귀 의욕…홍문종 \"빨리 나가서 '한...",
+    "백일섭, 故 최불암 무명 시절부터 이어진 인연…\"너무 빨리 갔다\" 황망 [..."
    ],
    "links": [
-    "https://news.nate.com/view/20261031n07488"
+    "https://news.nate.com/view/20261031n07488",
+    "https://news.nate.com/view/20261031n11038"
    ],
    "articles": [
     {
      "title": "故 최불암, 불과 3~4주 전에도 방송 복귀 의욕…홍문종 \"빨리 나가서 '한...",
      "link": "https://news.nate.com/view/20261031n07488",
      "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "백일섭, 故 최불암 무명 시절부터 이어진 인연…\"너무 빨리 갔다\" 황망 [...",
+     "link": "https://news.nate.com/view/20261031n11038",
+     "media": "엑스포츠뉴스"
     }
    ],
    "first": "16:08",
-   "last": "21:07",
+   "last": "23:12",
    "best": 13,
    "hours": [
     "16:08",
@@ -4623,15 +4640,19 @@
     "20:10",
     "20:44",
     "21:03",
-    "21:07"
+    "21:07",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 14,
+    "nate_int": 38
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c98",
@@ -4688,7 +4709,7 @@
     }
    ],
    "first": "17:10",
-   "last": "22:06",
+   "last": "23:12",
    "best": 1,
    "hours": [
     "17:10",
@@ -4702,14 +4723,15 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 33
+    "nate_int": 49
    },
    "count": 2,
    "inrank": true
@@ -4791,7 +4813,7 @@
     }
    ],
    "first": "18:08",
-   "last": "22:06",
+   "last": "23:12",
    "best": 3,
    "hours": [
     "18:08",
@@ -4804,15 +4826,15 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 22
+    "nate_int": 39
    },
    "count": 1,
    "inrank": true
@@ -4898,7 +4920,7 @@
     }
    ],
    "first": "18:39",
-   "last": "22:06",
+   "last": "23:12",
    "best": 3,
    "hours": [
     "18:39",
@@ -4910,15 +4932,16 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 17
+    "nate_pop": 24,
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -5020,11 +5043,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 50
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c109",
@@ -5079,7 +5100,7 @@
     }
    ],
    "first": "19:33",
-   "last": "22:06",
+   "last": "23:12",
    "best": 9,
    "hours": [
     "19:33",
@@ -5088,15 +5109,15 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 15
+    "nate_int": 41
    },
    "count": 1,
    "inrank": true
@@ -5132,11 +5153,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 49
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c112",
@@ -5155,7 +5174,7 @@
     }
    ],
    "first": "20:10",
-   "last": "22:06",
+   "last": "23:12",
    "best": 17,
    "hours": [
     "20:10",
@@ -5163,14 +5182,15 @@
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 17,
+    "nate_pop": 18,
     "nate_int": 19
    },
    "count": 1,
@@ -5193,20 +5213,23 @@
     }
    ],
    "first": "20:44",
-   "last": "22:06",
-   "best": 35,
+   "last": "23:12",
+   "best": 27,
    "hours": [
     "20:44",
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 35
+    "nate_pop": 27,
+    "nate_int": 42
    },
    "count": 1,
    "inrank": true
@@ -5235,21 +5258,22 @@
     }
    ],
    "first": "21:03",
-   "last": "22:06",
+   "last": "23:12",
    "best": 6,
    "hours": [
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 11
+    "nate_pop": 20,
+    "nate_int": 22
    },
    "count": 2,
    "inrank": true
@@ -5271,21 +5295,22 @@
     }
    ],
    "first": "21:03",
-   "last": "22:06",
+   "last": "23:12",
    "best": 9,
    "hours": [
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 9
+    "nate_pop": 21,
+    "nate_int": 24
    },
    "count": 1,
    "inrank": true
@@ -5307,21 +5332,22 @@
     }
    ],
    "first": "21:03",
-   "last": "22:06",
+   "last": "23:12",
    "best": 11,
    "hours": [
     "21:03",
     "21:07",
     "21:30",
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 13
+    "nate_pop": 30,
+    "nate_int": 37
    },
    "count": 1,
    "inrank": true
@@ -5354,11 +5380,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c118",
@@ -5386,11 +5410,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c119",
@@ -5409,16 +5431,19 @@
     }
    ],
    "first": "22:06",
-   "last": "22:06",
+   "last": "23:12",
    "best": 5,
    "hours": [
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
-    "nate_pop"
+    "nate_pop",
+    "nate_int"
    ],
    "now": {
-    "nate_pop": 5
+    "nate_pop": 9,
+    "nate_int": 13
    },
    "count": 1,
    "inrank": true
@@ -5427,31 +5452,40 @@
    "id": "c120",
    "title": "이승철에 20년 전 손절 당한 강호동 \"뻔뻔하게 여길 나와?\" 호통(아형)",
    "titles": [
-    "이승철에 20년 전 손절 당한 강호동 \"뻔뻔하게 여길 나와?\" 호통(아형)"
+    "이승철에 20년 전 손절 당한 강호동 \"뻔뻔하게 여길 나와?\" 호통(아형)",
+    "이승철, 결혼하자마자 강호동 손절한 이유 \"제일 먼저 끊어야 할 술친구\""
    ],
    "links": [
-    "https://news.nate.com/view/20261031n10489"
+    "https://news.nate.com/view/20261031n10489",
+    "https://news.nate.com/view/20261031n10763"
    ],
    "articles": [
     {
      "title": "이승철에 20년 전 손절 당한 강호동 \"뻔뻔하게 여길 나와?\" 호통(아형)",
      "link": "https://news.nate.com/view/20261031n10489",
      "media": "뉴스엔"
+    },
+    {
+     "title": "이승철, 결혼하자마자 강호동 손절한 이유 \"제일 먼저 끊어야 할 술친구\"",
+     "link": "https://news.nate.com/view/20261031n10763",
+     "media": "스포츠조선"
     }
    ],
    "first": "22:06",
-   "last": "22:06",
+   "last": "23:12",
    "best": 9,
    "hours": [
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
-    "nate_pop"
+    "nate_pop",
+    "nate_int"
    ],
    "now": {
-    "nate_pop": 9
+    "nate_int": 21
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -5471,16 +5505,267 @@
     }
    ],
    "first": "22:06",
-   "last": "22:06",
+   "last": "23:12",
    "best": 46,
    "hours": [
-    "22:06"
+    "22:06",
+    "23:12"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 46
+    "nate_int": 50
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c122",
+   "title": "'100일의 거짓말' 송지효, 박진영 양어머니 특별출연 \"일본인과 결혼한...",
+   "titles": [
+    "'100일의 거짓말' 송지효, 박진영 양어머니 특별출연 \"일본인과 결혼한...",
+    "'100일의 거짓말' 김현주, 남편 감우성 죽음에 숨죽여 오열",
+    "김유정, 감우성 마지막 말 전했다…김현주 눈물('100일의 거짓말')[셀럽캡...",
+    "김유정-박진영, 눈물의 포옹 그 후…서로의 아픈 과거 공유 (100일의 거짓..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261031n10914",
+    "https://news.nate.com/view/20261031n10716",
+    "https://news.nate.com/view/20261031n10612",
+    "https://news.nate.com/view/20261031n10621"
+   ],
+   "articles": [
+    {
+     "title": "'100일의 거짓말' 송지효, 박진영 양어머니 특별출연 \"일본인과 결혼한...",
+     "link": "https://news.nate.com/view/20261031n10914",
+     "media": "뉴스엔"
+    },
+    {
+     "title": "'100일의 거짓말' 김현주, 남편 감우성 죽음에 숨죽여 오열",
+     "link": "https://news.nate.com/view/20261031n10716",
+     "media": "뉴스엔"
+    },
+    {
+     "title": "김유정, 감우성 마지막 말 전했다…김현주 눈물('100일의 거짓말')[셀럽캡...",
+     "link": "https://news.nate.com/view/20261031n10612",
+     "media": "셀럽미디어"
+    },
+    {
+     "title": "김유정-박진영, 눈물의 포옹 그 후…서로의 아픈 과거 공유 (100일의 거짓...",
+     "link": "https://news.nate.com/view/20261031n10621",
+     "media": "iMBC연예"
+    }
+   ],
+   "first": "23:12",
+   "last": "23:12",
+   "best": 3,
+   "hours": [
+    "23:12"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 3,
+    "nate_int": 8
+   },
+   "count": 4,
+   "inrank": true
+  },
+  {
+   "id": "c123",
+   "title": "\"박위는 보고 배워라\" 원샷한솔, 역무원 친절에 거듭 감사인사…KTX ...",
+   "titles": [
+    "\"박위는 보고 배워라\" 원샷한솔, 역무원 친절에 거듭 감사인사…KTX ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261031n10986"
+   ],
+   "articles": [
+    {
+     "title": "\"박위는 보고 배워라\" 원샷한솔, 역무원 친절에 거듭 감사인사…KTX ...",
+     "link": "https://news.nate.com/view/20261031n10986",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "23:12",
+   "last": "23:12",
+   "best": 4,
+   "hours": [
+    "23:12"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 4,
+    "nate_int": 5
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c124",
+   "title": "이승철, '父 필리핀서 의문사' 우즈 아버지 돼줬다…음악으로 맺어진 ...",
+   "titles": [
+    "이승철, '父 필리핀서 의문사' 우즈 아버지 돼줬다…음악으로 맺어진 ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261031n10858"
+   ],
+   "articles": [
+    {
+     "title": "이승철, '父 필리핀서 의문사' 우즈 아버지 돼줬다…음악으로 맺어진 ...",
+     "link": "https://news.nate.com/view/20261031n10858",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "23:12",
+   "last": "23:12",
+   "best": 5,
+   "hours": [
+    "23:12"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 5,
+    "nate_int": 9
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c125",
+   "title": "전원주, 경도인지장애 이 정도일 줄이야…10분 전에 본 친구 사진도 잊어 (...",
+   "titles": [
+    "전원주, 경도인지장애 이 정도일 줄이야…10분 전에 본 친구 사진도 잊어 (..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261031n10901"
+   ],
+   "articles": [
+    {
+     "title": "전원주, 경도인지장애 이 정도일 줄이야…10분 전에 본 친구 사진도 잊어 (...",
+     "link": "https://news.nate.com/view/20261031n10901",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "23:12",
+   "last": "23:12",
+   "best": 11,
+   "hours": [
+    "23:12"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 11,
+    "nate_int": 18
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c126",
+   "title": "이하이♥도끼, 신곡 MV서 로맨틱 키스…공개 열애 후 거침없는 애정 표현",
+   "titles": [
+    "이하이♥도끼, 신곡 MV서 로맨틱 키스…공개 열애 후 거침없는 애정 표현"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261031n10540"
+   ],
+   "articles": [
+    {
+     "title": "이하이♥도끼, 신곡 MV서 로맨틱 키스…공개 열애 후 거침없는 애정 표현",
+     "link": "https://news.nate.com/view/20261031n10540",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "23:12",
+   "last": "23:12",
+   "best": 22,
+   "hours": [
+    "23:12"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 22,
+    "nate_int": 35
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c127",
+   "title": "오윤아, '♥4살 연하' 재혼 후 발달장애 子 기적 근황…러닝 대회 4.2KM ...",
+   "titles": [
+    "오윤아, '♥4살 연하' 재혼 후 발달장애 子 기적 근황…러닝 대회 4.2KM ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261031n10912"
+   ],
+   "articles": [
+    {
+     "title": "오윤아, '♥4살 연하' 재혼 후 발달장애 子 기적 근황…러닝 대회 4.2KM ...",
+     "link": "https://news.nate.com/view/20261031n10912",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "23:12",
+   "last": "23:12",
+   "best": 23,
+   "hours": [
+    "23:12"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 23,
+    "nate_int": 36
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c128",
+   "title": "'비주얼이 명품' 김지원, 확신의 청담동 며느리상",
+   "titles": [
+    "'비주얼이 명품' 김지원, 확신의 청담동 며느리상"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261031n08633"
+   ],
+   "articles": [
+    {
+     "title": "'비주얼이 명품' 김지원, 확신의 청담동 며느리상",
+     "link": "https://news.nate.com/view/20261031n08633",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "23:12",
+   "last": "23:12",
+   "best": 48,
+   "hours": [
+    "23:12"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 48
    },
    "count": 1,
    "inrank": true
@@ -5750,9 +6035,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "23:12",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-10-31T22:06:15.013632+09:00",
+ "updated": "2026-10-31T23:12:17.203294+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

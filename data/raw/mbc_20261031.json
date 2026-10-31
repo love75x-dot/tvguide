@@ -114,14 +114,14 @@
     "DVS": "N",
     "PreviewUrl": "",
     "VodUrl": "",
-    "ChkMedia": "Y|N",
+    "ChkMedia": "Y|Y",
     "SubCategoryID": "3",
     "IsPreview": "Y",
-    "IsVod": "N",
-    "percentTime": 96,
-    "IsOnAirNow": "Y",
+    "IsVod": "Y",
+    "percentTime": 0,
+    "IsOnAirNow": "N",
     "Photo": "https://img.imbc.com/adams/Program/20245/133610057271734844.png",
-    "OnAirImage": "https://img.imbc.com/thumbnail/mbc_img.jpg"
+    "OnAirImage": ""
   },
   {
     "IsToday": "Y",
@@ -145,10 +145,10 @@
     "DVS": "N",
     "PreviewUrl": "",
     "VodUrl": "",
-    "ChkMedia": "Y|N",
+    "ChkMedia": "Y|Y",
     "SubCategoryID": "3",
     "IsPreview": "Y",
-    "IsVod": "N",
+    "IsVod": "Y",
     "percentTime": 0,
     "IsOnAirNow": "N",
     "Photo": "https://img.imbc.com/adams/Program/20269/134350342956482474.jpg",
@@ -180,10 +180,10 @@
     "SubCategoryID": "3",
     "IsPreview": "N",
     "IsVod": "N",
-    "percentTime": 0,
-    "IsOnAirNow": "N",
+    "percentTime": 13,
+    "IsOnAirNow": "Y",
     "Photo": "https://img.imbc.com/adams/Program/20189/131819015646026599.jpg",
-    "OnAirImage": ""
+    "OnAirImage": "https://img.imbc.com/thumbnail/mbc_img.jpg"
   },
   {
     "IsToday": "Y",

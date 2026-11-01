@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T08:08:55.091585+09:00",
+ "updated": "2026-11-01T09:08:38.748411+09:00",
  "topics": [
   {
    "name": "독감",
@@ -45,11 +45,17 @@
   {
    "name": "코로나",
    "kind": "질환·증상",
-   "count": 14,
+   "count": 15,
    "angles": [
     "효능"
    ],
    "items": [
+    {
+     "title": "코로나 백신 맞으면 암 걸린다?…3600만명 분석했더니 '뜻밖의 결과'",
+     "link": "https://www.insight.co.kr/news/580075",
+     "t": "2026-11-01T09:04:00+09:00",
+     "by": "insight.co.kr"
+    },
     {
      "title": "\"코로나 백신 맞으면 암 걸린다?\"…3600만명 분석한 결과 '깜짝'",
      "link": "https://view.asiae.co.kr/article/2026103118024312696",
@@ -72,12 +78,6 @@
      "title": "코로나 백신 맞으면 암 걸린다? 확인해 봤더니 [자막뉴스]",
      "link": "https://www.ytn.co.kr/_ln/0134_202610311333243101",
      "t": "2026-10-31T13:33:00+09:00",
-     "by": "ytn.co.kr"
-    },
-    {
-     "title": "코로나 백신 맞으면 암 걸린다?...\"근거 없어\"",
-     "link": "https://www.ytn.co.kr/_ln/0103_202610310535352140",
-     "t": "2026-10-31T05:35:00+09:00",
      "by": "ytn.co.kr"
     }
    ]
@@ -127,7 +127,7 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 9,
+   "count": 10,
    "angles": [
     "에 좋은",
     "효능",
@@ -135,6 +135,12 @@
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "디스크 있는데, 혈압 높은데…‘산스장’ 슬기롭게 활용해볼까",
+     "link": "https://www.nongmin.com/article/20261028500071",
+     "t": "2026-11-01T08:31:00+09:00",
+     "by": "nongmin.com"
+    },
     {
      "title": "가을·겨울철 혈액투석 환자 건강관리 주의보… 혈압·감염·식이조절 ...",
      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=35780",
@@ -158,12 +164,6 @@
      "link": "https://health.chosun.com/site/data/html_dir/2026/10/29/2026102903614.html",
      "t": "2026-10-30T10:16:00+09:00",
      "by": "health.chosun.com"
-    },
-    {
-     "title": "\"섭취 2~3시간 뒤 효과 최고\" 영양사가 꼽은 혈압 낮추는 음식 1위",
-     "link": "http://www.joseilbo.com/news/news_read.php?uid=578511&class=27&grp=",
-     "t": "2026-10-30T08:10:00+09:00",
-     "by": "joseilbo.com"
     }
    ]
   },
@@ -404,6 +404,40 @@
    ]
   },
   {
+   "name": "폐렴",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "[반려동물 건강 이야기] 캑캑! 감기인 줄 알았는데…강아지 폐렴",
+     "link": "https://www.k-health.com/news/articleView.html?idxno=101936",
+     "t": "2026-11-01T09:04:00+09:00",
+     "by": "k-health.com"
+    },
+    {
+     "title": "‘감기약 먹으며 버텼는데’… 고열·가슴 통증 계속되면 ‘폐렴’ 의심...",
+     "link": "https://www.segye.com/newsView/20261030507068?OutUrl=naver",
+     "t": "2026-10-31T11:08:00+09:00",
+     "by": "segye.com"
+    },
+    {
+     "title": "‘환절기 불청객’ 감기의 탈을 쓴 폐렴 주의!",
+     "link": "https://www.khan.co.kr/article/202610310900015",
+     "t": "2026-10-31T09:00:00+09:00",
+     "by": "khan.co.kr"
+    },
+    {
+     "title": "기침·가래에 열까지…감기 아닌 '폐렴' 의심해야",
+     "link": "https://www.k-health.com/news/articleView.html?idxno=101909",
+     "t": "2026-10-29T14:10:00+09:00",
+     "by": "k-health.com"
+    }
+   ]
+  },
+  {
    "name": "당뇨",
    "kind": "질환·증상",
    "count": 3,
@@ -483,34 +517,6 @@
      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=68982",
      "t": "2026-10-31T06:00:00+09:00",
      "by": "hidoc.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "폐렴",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "‘감기약 먹으며 버텼는데’… 고열·가슴 통증 계속되면 ‘폐렴’ 의심...",
-     "link": "https://www.segye.com/newsView/20261030507068?OutUrl=naver",
-     "t": "2026-10-31T11:08:00+09:00",
-     "by": "segye.com"
-    },
-    {
-     "title": "‘환절기 불청객’ 감기의 탈을 쓴 폐렴 주의!",
-     "link": "https://www.khan.co.kr/article/202610310900015",
-     "t": "2026-10-31T09:00:00+09:00",
-     "by": "khan.co.kr"
-    },
-    {
-     "title": "기침·가래에 열까지…감기 아닌 '폐렴' 의심해야",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=101909",
-     "t": "2026-10-29T14:10:00+09:00",
-     "by": "k-health.com"
     }
    ]
   },
@@ -624,6 +630,22 @@
      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092173222",
      "t": "2026-10-30T16:30:00+09:00",
      "by": "it.chosun.com"
+    }
+   ]
+  },
+  {
+   "name": "갑상선",
+   "kind": "질환·증상",
+   "count": 1,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "\"갑상선에 좋은 음식 따로 있다?\"... 꼭 챙겨야 할 영양소와 식품 5가지",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69384",
+     "t": "2026-11-01T09:00:00+09:00",
+     "by": "hidoc.co.kr"
     }
    ]
   },
@@ -774,20 +796,6 @@
      "link": "https://www.insight.co.kr/news/579865",
      "t": "2026-10-30T10:28:00+09:00",
      "by": "insight.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "사우나",
-   "kind": "운동·생활",
-   "count": 1,
-   "angles": [],
-   "items": [
-    {
-     "title": "“으슬으슬한데 사우나 갈까”…‘이 질환’ 있는 사람은 조심해야",
-     "link": "https://kormedi.com/?p=2895085",
-     "t": "2026-10-31T22:06:00+09:00",
-     "by": "kormedi.com"
     }
    ]
   }

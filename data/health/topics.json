@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T23:10:53.998498+09:00",
+ "updated": "2026-11-02T00:08:43.355873+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -46,12 +46,18 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 14,
+   "count": 15,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "독감 무료접종 대상은 어린이·임신부·65세 이상",
+     "link": "https://www.vegannews.co.kr/news/article.html?no=399241",
+     "t": "2026-11-01T23:18:00+09:00",
+     "by": "vegannews.co.kr"
+    },
     {
      "title": "겨울 독감 대비하기… 무료 예방접종 대상 나이, 예방법 총정리",
      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3738942",
@@ -75,12 +81,6 @@
      "link": "https://www.dailian.co.kr/news/view/1709076/?sc=Naver",
      "t": "2026-11-01T00:01:00+09:00",
      "by": "dailian.co.kr"
-    },
-    {
-     "title": "“관절 아파 먹는 약… 독감 바이러스에 더 취약해진다?”",
-     "link": "https://kormedi.com/?p=2894314",
-     "t": "2026-10-31T12:02:00+09:00",
-     "by": "kormedi.com"
     }
    ]
   },
@@ -328,6 +328,46 @@
    ]
   },
   {
+   "name": "면역력",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "'아침 최저 5도' 쌀쌀·새벽까지 전국 곳곳에 가을비…체온·면역력 높이...",
+     "link": "https://www.dailian.co.kr/news/view/1709230/?sc=Naver",
+     "t": "2026-11-02T00:00:00+09:00",
+     "by": "dailian.co.kr"
+    },
+    {
+     "title": "사우나 30분 만에 백혈구 증가…면역력도 좋아졌을까?",
+     "link": "http://weekly.chosun.com/news/articleView.html?idxno=56740",
+     "t": "2026-11-01T23:10:00+09:00",
+     "by": "weekly.chosun.com"
+    },
+    {
+     "title": "가을 환절기 아이 면역력 관리 , 한약 복용 전 확인해야 할 사항은?",
+     "link": "http://www.ikoreanspirit.com/news/articleView.html?idxno=87992",
+     "t": "2026-10-30T17:40:00+09:00",
+     "by": "ikoreanspirit.com"
+    },
+    {
+     "title": "[ 건강 프라임_칼럼] 짧아진 가을철 환절기, 아이 면역력을 기르기 위한 ...",
+     "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=248835",
+     "t": "2026-10-30T15:40:00+09:00",
+     "by": "sisunnews.co.kr"
+    },
+    {
+     "title": "[메디톡] 짧아진 가을 환절기, 아이 면역력 관리 중요… 한약 복용 시 살...",
+     "link": "https://www.kyosu.net/news/articleView.html?idxno=211864",
+     "t": "2026-10-30T15:20:00+09:00",
+     "by": "kyosu.net"
+    }
+   ]
+  },
+  {
    "name": "치매",
    "kind": "질환·증상",
    "count": 5,
@@ -468,38 +508,6 @@
      "link": "https://www.segye.com/newsView/20261030501314?OutUrl=naver",
      "t": "2026-10-30T05:02:00+09:00",
      "by": "segye.com"
-    }
-   ]
-  },
-  {
-   "name": "면역력",
-   "kind": "질환·증상",
-   "count": 4,
-   "angles": [],
-   "items": [
-    {
-     "title": "사우나 30분 만에 백혈구 증가…면역력도 좋아졌을까?",
-     "link": "http://weekly.chosun.com/news/articleView.html?idxno=56740",
-     "t": "2026-11-01T23:10:00+09:00",
-     "by": "weekly.chosun.com"
-    },
-    {
-     "title": "가을 환절기 아이 면역력 관리 , 한약 복용 전 확인해야 할 사항은?",
-     "link": "http://www.ikoreanspirit.com/news/articleView.html?idxno=87992",
-     "t": "2026-10-30T17:40:00+09:00",
-     "by": "ikoreanspirit.com"
-    },
-    {
-     "title": "[ 건강 프라임_칼럼] 짧아진 가을철 환절기, 아이 면역력을 기르기 위한 ...",
-     "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=248835",
-     "t": "2026-10-30T15:40:00+09:00",
-     "by": "sisunnews.co.kr"
-    },
-    {
-     "title": "[메디톡] 짧아진 가을 환절기, 아이 면역력 관리 중요… 한약 복용 시 살...",
-     "link": "https://www.kyosu.net/news/articleView.html?idxno=211864",
-     "t": "2026-10-30T15:20:00+09:00",
-     "by": "kyosu.net"
     }
    ]
   },

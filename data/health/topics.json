@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T20:10:53.850578+09:00",
+ "updated": "2026-11-01T21:10:53.052623+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -46,12 +46,18 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 14,
+   "count": 15,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "겨울 독감 대비하기… 무료 예방접종 대상 나이, 예방법 총정리",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3738942",
+     "t": "2026-11-01T20:32:00+09:00",
+     "by": "gukjenews.com"
+    },
     {
      "title": "GC녹십자, 차세대 독감 백신 美·유럽 공략…점유율 확대",
      "link": "https://www.hankyung.com/article/2026110184681",
@@ -75,12 +81,6 @@
      "link": "https://kormedi.com/?p=2894314",
      "t": "2026-10-31T12:02:00+09:00",
      "by": "kormedi.com"
-    },
-    {
-     "title": "독감 ·코로나19 백신, 함께 맞아도 될까…순서는 어떻게?",
-     "link": "https://www.segye.com/newsView/20261026516686?OutUrl=naver",
-     "t": "2026-10-31T04:59:00+09:00",
-     "by": "segye.com"
     }
    ]
   },
@@ -125,46 +125,6 @@
    ]
   },
   {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 10,
-   "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "코로나 백신 맞으면 암 걸린다?…3600만명 분석했더니 '뜻밖의 결과'",
-     "link": "https://www.insight.co.kr/news/580075",
-     "t": "2026-11-01T09:04:00+09:00",
-     "by": "insight.co.kr"
-    },
-    {
-     "title": "\"코로나 백신 맞으면 암 걸린다?\"…3600만명 분석한 결과 '깜짝'",
-     "link": "https://view.asiae.co.kr/article/2026103118024312696",
-     "t": "2026-10-31T18:31:00+09:00",
-     "by": "view.asiae.co.kr"
-    },
-    {
-     "title": "코로나19 백신이 암 발병 늘렸다?…3600만 분석 결과 “아니요”",
-     "link": "https://www.kmib.co.kr/article/20261031500166",
-     "t": "2026-10-31T16:30:00+09:00",
-     "by": "kmib.co.kr"
-    },
-    {
-     "title": "장기 코로나에 저용량 프레드니솔론, 증상 개선 효과 작고 일시적",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622154",
-     "t": "2026-10-31T14:54:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "코로나 백신 맞으면 암 걸린다? 확인해 봤더니 [자막뉴스]",
-     "link": "https://www.ytn.co.kr/_ln/0134_202610311333243101",
-     "t": "2026-10-31T13:33:00+09:00",
-     "by": "ytn.co.kr"
-    }
-   ]
-  },
-  {
    "name": "염증",
    "kind": "질환·증상",
    "count": 9,
@@ -202,6 +162,46 @@
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622124",
      "t": "2026-10-31T13:20:00+09:00",
      "by": "mdtoday.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "코로나",
+   "kind": "질환·증상",
+   "count": 9,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "코로나 백신 맞으면 암 걸린다?…3600만명 분석했더니 '뜻밖의 결과'",
+     "link": "https://www.insight.co.kr/news/580075",
+     "t": "2026-11-01T09:04:00+09:00",
+     "by": "insight.co.kr"
+    },
+    {
+     "title": "\"코로나 백신 맞으면 암 걸린다?\"…3600만명 분석한 결과 '깜짝'",
+     "link": "https://view.asiae.co.kr/article/2026103118024312696",
+     "t": "2026-10-31T18:31:00+09:00",
+     "by": "view.asiae.co.kr"
+    },
+    {
+     "title": "코로나19 백신이 암 발병 늘렸다?…3600만 분석 결과 “아니요”",
+     "link": "https://www.kmib.co.kr/article/20261031500166",
+     "t": "2026-10-31T16:30:00+09:00",
+     "by": "kmib.co.kr"
+    },
+    {
+     "title": "장기 코로나에 저용량 프레드니솔론, 증상 개선 효과 작고 일시적",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622154",
+     "t": "2026-10-31T14:54:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "코로나 백신 맞으면 암 걸린다? 확인해 봤더니 [자막뉴스]",
+     "link": "https://www.ytn.co.kr/_ln/0134_202610311333243101",
+     "t": "2026-10-31T13:33:00+09:00",
+     "by": "ytn.co.kr"
     }
    ]
   },

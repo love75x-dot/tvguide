@@ -1,14 +1,13 @@
 {
- "updated": "2026-11-02T06:11:21.904920+09:00",
+ "updated": "2026-11-02T07:08:40.780544+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 17,
+   "count": 16,
    "angles": [
     "부작용",
-    "에 좋은",
-    "효능"
+    "에 좋은"
    ],
    "items": [
     {
@@ -53,6 +52,12 @@
    ],
    "items": [
     {
+     "title": "독하면 독감 , 순하면 감기?…‘콧물·기침’ 증상 비슷한데 구별법은",
+     "link": "https://www.nongmin.com/article/20261028500214",
+     "t": "2026-11-02T06:31:00+09:00",
+     "by": "nongmin.com"
+    },
+    {
      "title": "독감 무료접종 대상은 어린이·임신부·65세 이상",
      "link": "https://www.vegannews.co.kr/news/article.html?no=399241",
      "t": "2026-11-01T23:18:00+09:00",
@@ -75,12 +80,6 @@
      "link": "http://www.metroseoul.co.kr/article/20261031500031",
      "t": "2026-11-01T09:36:00+09:00",
      "by": "metroseoul.co.kr"
-    },
-    {
-     "title": "'아침 최저 3도' 쌀쌀·제주 최대 60㎜ 비… 독감 에 좋은 음식과 피해야...",
-     "link": "https://www.dailian.co.kr/news/view/1709076/?sc=Naver",
-     "t": "2026-11-01T00:01:00+09:00",
-     "by": "dailian.co.kr"
     }
    ]
   },
@@ -246,14 +245,20 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 7,
+   "count": 8,
    "angles": [
+    "효능",
     "부작용",
     "에 좋은",
-    "효능",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "마늘 의외의 효능 5가지… 혈압·지방간·감기 증상 관리까지",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69347",
+     "t": "2026-11-02T07:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
     {
      "title": "아침 기온 '뚝', 혈압은 '쑥'… 환절기 '모닝 서지' 주의보",
      "link": "https://www.sisajournal.com/news/articleView.html?idxno=391918",
@@ -277,12 +282,48 @@
      "link": "https://www.rapportian.com/news/articleView.html?idxno=241868",
      "t": "2026-10-30T16:20:00+09:00",
      "by": "rapportian.com"
+    }
+   ]
+  },
+  {
+   "name": "감기",
+   "kind": "질환·증상",
+   "count": 7,
+   "angles": [
+    "부작용",
+    "효능",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "마늘 의외의 효능 5가지… 혈압·지방간·감기 증상 관리까지",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69347",
+     "t": "2026-11-02T07:00:00+09:00",
+     "by": "hidoc.co.kr"
     },
     {
-     "title": "[고 혈압 의 정체 18] 고 혈압 환자, 약과 음식도 가려 먹어야",
-     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214015",
-     "t": "2026-10-30T16:00:00+09:00",
-     "by": "100ssd.co.kr"
+     "title": "독하면 독감 , 순하면 감기?…‘콧물·기침’ 증상 비슷한데 구별법은",
+     "link": "https://www.nongmin.com/article/20261028500214",
+     "t": "2026-11-02T06:31:00+09:00",
+     "by": "nongmin.com"
+    },
+    {
+     "title": "[김소형의 본초 테라피] 감기 예방과 호흡기 보호에 좋은 ‘귤’",
+     "link": "http://www.metroseoul.co.kr/article/20261028500092",
+     "t": "2026-11-02T05:02:00+09:00",
+     "by": "metroseoul.co.kr"
+    },
+    {
+     "title": "[의사人]\" 감기 인 줄 알았는데\"…오래가는 기침, 천식 경고 신호",
+     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261029010010196",
+     "t": "2026-11-01T17:24:00+09:00",
+     "by": "asiatoday.co.kr"
+    },
+    {
+     "title": "[기업기상도] 가을하늘 높은 기업 vs 한파에 감기 든 기업",
+     "link": "http://www.yonhapnewstv.co.kr/news/MYH20261031184744k65",
+     "t": "2026-11-01T11:01:00+09:00",
+     "by": "yonhapnewstv.co.kr"
     }
    ]
   },
@@ -324,47 +365,6 @@
      "link": "https://www.medipana.com/news/articleView.html?idxno=420564",
      "t": "2026-10-31T08:36:00+09:00",
      "by": "medipana.com"
-    }
-   ]
-  },
-  {
-   "name": "감기",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "[김소형의 본초 테라피] 감기 예방과 호흡기 보호에 좋은 ‘귤’",
-     "link": "http://www.metroseoul.co.kr/article/20261028500092",
-     "t": "2026-11-02T05:02:00+09:00",
-     "by": "metroseoul.co.kr"
-    },
-    {
-     "title": "[의사人]\" 감기 인 줄 알았는데\"…오래가는 기침, 천식 경고 신호",
-     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261029010010196",
-     "t": "2026-11-01T17:24:00+09:00",
-     "by": "asiatoday.co.kr"
-    },
-    {
-     "title": "[기업기상도] 가을하늘 높은 기업 vs 한파에 감기 든 기업",
-     "link": "http://www.yonhapnewstv.co.kr/news/MYH20261031184744k65",
-     "t": "2026-11-01T11:01:00+09:00",
-     "by": "yonhapnewstv.co.kr"
-    },
-    {
-     "title": "‘환절기 불청객’ 감기의 탈을 쓴 폐렴 주의!",
-     "link": "https://www.khan.co.kr/article/202610310900015",
-     "t": "2026-10-31T09:00:00+09:00",
-     "by": "khan.co.kr"
-    },
-    {
-     "title": "\"아이 콧물, 감기 인 줄 알았는데\"…환절기 알레르기 비염 주의보",
-     "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88541",
-     "t": "2026-10-30T08:52:00+09:00",
-     "by": "industrynews.co.kr"
     }
    ]
   },
@@ -547,6 +547,32 @@
    ]
   },
   {
+   "name": "비타민C",
+   "kind": "영양제",
+   "count": 3,
+   "angles": [],
+   "items": [
+    {
+     "title": "비타민C 1000mg의 진화… 코아팜바이오, 2030 뷰티 수요 공략",
+     "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80395",
+     "t": "2026-11-02T06:12:00+09:00",
+     "by": "hitnews.co.kr"
+    },
+    {
+     "title": "코아팜바이오, 물 없이 녹여 먹는 비타민C '톡비타씨오디프스산' 출시",
+     "link": "https://www.pharmnews.com/news/articleView.html?idxno=307390",
+     "t": "2026-11-02T06:00:00+09:00",
+     "by": "pharmnews.com"
+    },
+    {
+     "title": "비타민C 먹어도 피로 안 풀리는 이유 '이것' 빠졌기 때문",
+     "link": "https://www.insight.co.kr/news/579865",
+     "t": "2026-10-30T10:28:00+09:00",
+     "by": "insight.co.kr"
+    }
+   ]
+  },
+  {
    "name": "유방암",
    "kind": "질환·증상",
    "count": 3,
@@ -665,26 +691,6 @@
    ]
   },
   {
-   "name": "비타민C",
-   "kind": "영양제",
-   "count": 2,
-   "angles": [],
-   "items": [
-    {
-     "title": "코아팜바이오, 물 없이 녹여 먹는 비타민C '톡비타씨오디프스산' 출시",
-     "link": "https://www.pharmnews.com/news/articleView.html?idxno=307390",
-     "t": "2026-11-02T06:00:00+09:00",
-     "by": "pharmnews.com"
-    },
-    {
-     "title": "비타민C 먹어도 피로 안 풀리는 이유 '이것' 빠졌기 때문",
-     "link": "https://www.insight.co.kr/news/579865",
-     "t": "2026-10-30T10:28:00+09:00",
-     "by": "insight.co.kr"
-    }
-   ]
-  },
-  {
    "name": "사과",
    "kind": "식품·제철",
    "count": 2,
@@ -749,24 +755,24 @@
    ]
   },
   {
-   "name": "피로",
+   "name": "지방간",
    "kind": "질환·증상",
    "count": 2,
    "angles": [
-    "부작용"
+    "효능"
    ],
    "items": [
     {
-     "title": "비타민C 먹어도 피로 안 풀리는 이유 '이것' 빠졌기 때문",
-     "link": "https://www.insight.co.kr/news/579865",
-     "t": "2026-10-30T10:28:00+09:00",
-     "by": "insight.co.kr"
+     "title": "마늘 의외의 효능 5가지… 혈압·지방간·감기 증상 관리까지",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69347",
+     "t": "2026-11-02T07:00:00+09:00",
+     "by": "hidoc.co.kr"
     },
     {
-     "title": "“마라톤 레이스 막판, 기록 생각에 통증·피로 참는 순간 위험해집니다...",
-     "link": "https://www.khan.co.kr/article/202610300630005",
-     "t": "2026-10-30T06:30:00+09:00",
-     "by": "khan.co.kr"
+     "title": "방치하면 간암까지…비알코올성 지방간, 식습관·운동 관리 가 중요",
+     "link": "https://www.segye.com/newsView/20261031504986?OutUrl=naver",
+     "t": "2026-10-31T15:20:00+09:00",
+     "by": "segye.com"
     }
    ]
   },

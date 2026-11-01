@@ -1,15 +1,21 @@
 {
- "updated": "2026-11-01T09:08:38.748411+09:00",
+ "updated": "2026-11-01T10:11:01.343975+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 20,
+   "count": 18,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "울진군, 전 군민 독감 무료접종 확대… 의료비 부담 덜고 건강 지킨다",
+     "link": "http://www.metroseoul.co.kr/article/20261031500031",
+     "t": "2026-11-01T09:36:00+09:00",
+     "by": "metroseoul.co.kr"
+    },
     {
      "title": "'아침 최저 3도' 쌀쌀·제주 최대 60㎜ 비… 독감 에 좋은 음식과 피해야...",
      "link": "https://www.dailian.co.kr/news/view/1709076/?sc=Naver",
@@ -33,12 +39,6 @@
      "link": "https://www.koreatimes.com/article/11629825?utm_source=naver",
      "t": "2026-10-31T03:44:00+09:00",
      "by": "koreatimes.com"
-    },
-    {
-     "title": "백신은 안전벨트, 독감 입원 가능성 33% 낮춘다",
-     "link": "https://www.joongang.co.kr/article/25474537",
-     "t": "2026-10-31T00:20:00+09:00",
-     "by": "joongang.co.kr"
     }
    ]
   },
@@ -290,46 +290,6 @@
    ]
   },
   {
-   "name": "감기",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "‘환절기 불청객’ 감기의 탈을 쓴 폐렴 주의!",
-     "link": "https://www.khan.co.kr/article/202610310900015",
-     "t": "2026-10-31T09:00:00+09:00",
-     "by": "khan.co.kr"
-    },
-    {
-     "title": "\"아이 콧물, 감기 인 줄 알았는데\"…환절기 알레르기 비염 주의보",
-     "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88541",
-     "t": "2026-10-30T08:52:00+09:00",
-     "by": "industrynews.co.kr"
-    },
-    {
-     "title": "기침·가래에 열까지…감기 아닌 '폐렴' 의심해야",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=101909",
-     "t": "2026-10-29T14:10:00+09:00",
-     "by": "k-health.com"
-    },
-    {
-     "title": "\"감기와 독감 , 같은 병?\"…알고보면 전혀 다르다",
-     "link": "https://www.newsis.com/view/NISX20261029_0003846010",
-     "t": "2026-10-29T09:58:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "독감 유행 주의보 발령…감기와 다른 독감, 호흡기 건강 지키려면?",
-     "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=35705",
-     "t": "2026-10-29T09:44:00+09:00",
-     "by": "biotimes.co.kr"
-    }
-   ]
-  },
-  {
    "name": "단백질",
    "kind": "영양제",
    "count": 5,
@@ -428,6 +388,34 @@
      "link": "https://www.khan.co.kr/article/202610310900015",
      "t": "2026-10-31T09:00:00+09:00",
      "by": "khan.co.kr"
+    },
+    {
+     "title": "기침·가래에 열까지…감기 아닌 '폐렴' 의심해야",
+     "link": "https://www.k-health.com/news/articleView.html?idxno=101909",
+     "t": "2026-10-29T14:10:00+09:00",
+     "by": "k-health.com"
+    }
+   ]
+  },
+  {
+   "name": "감기",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "‘환절기 불청객’ 감기의 탈을 쓴 폐렴 주의!",
+     "link": "https://www.khan.co.kr/article/202610310900015",
+     "t": "2026-10-31T09:00:00+09:00",
+     "by": "khan.co.kr"
+    },
+    {
+     "title": "\"아이 콧물, 감기 인 줄 알았는데\"…환절기 알레르기 비염 주의보",
+     "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88541",
+     "t": "2026-10-30T08:52:00+09:00",
+     "by": "industrynews.co.kr"
     },
     {
      "title": "기침·가래에 열까지…감기 아닌 '폐렴' 의심해야",

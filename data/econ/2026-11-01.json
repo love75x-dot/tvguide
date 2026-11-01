@@ -1,7 +1,954 @@
 {
  "date": "2026-11-01",
- "updated": "2026-11-01T09:08:38.748411+09:00",
+ "updated": "2026-11-01T10:11:01.343975+09:00",
  "articles": [
+  {
+   "title": "전남광주 동부권 7개 시군, 공동현안 대응 '상생협의회' 구축",
+   "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261101010000047",
+   "t": "2026-11-01T10:10:00+09:00",
+   "by": "asiatoday.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "올리고 API 사업 무게중심 상업화로 이동…에스티팜 성장 구조 바뀌나",
+   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500290",
+   "t": "2026-11-01T10:08:00+09:00",
+   "by": "pinpointnews.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "[배종찬의 보안 빅데이터] 북한 지뢰도발보다 더 경악할 북한 사이버 해...",
+   "link": "https://www.boannews.com/news/articleView.html?idxno=146886",
+   "t": "2026-11-01T10:08:00+09:00",
+   "by": "boannews.com",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "삼성전자·SK하이닉스 거래대금 188조원…9월보다 16조원 감소",
+   "link": "http://www.kjdaily.com/article.php?aid=1793495110690756276",
+   "t": "2026-11-01T10:06:00+09:00",
+   "by": "kjdaily.com",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "[궁금해집] 쾌적한 국제도시 한가운데 '청라 아크원 푸르지오'",
+   "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078135",
+   "t": "2026-11-01T10:06:00+09:00",
+   "by": "shinailbo.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "LGU+-교육부-티오리한국, AI·정보보호 영재교육원 교육과정 고도화 나선...",
+   "link": "https://www.boannews.com/news/articleView.html?idxno=146910",
+   "t": "2026-11-01T10:06:00+09:00",
+   "by": "boannews.com",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "[뉴스ON] 대법원장 국정조사 추진, 여론은 글쎄?! ···후보지 평가 기...",
+   "link": "https://dgmbc.com/NewsArticle/870632",
+   "t": "2026-11-01T10:04:00+09:00",
+   "by": "dgmbc.com",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "국산 AI 반도체, 우주에서 검증한다…국회서 우주데이터센터 토론회",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=01318566645641456&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "t": "2026-11-01T10:04:00+09:00",
+   "by": "edaily.co.kr",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "서울 아파트 월세 '고공행진'…노원 12.9% 올라 1위",
+   "link": "http://www.newstomato.com/ReadNews.aspx?no=1318767&inflow=N",
+   "t": "2026-11-01T10:02:00+09:00",
+   "by": "newstomato.com",
+   "tags": [
+    "금리·물가",
+    "부동산"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "금시세(금값) 주간 전망",
+   "link": "http://www.kjdaily.com/article.php?aid=1793494861690763227",
+   "t": "2026-11-01T10:02:00+09:00",
+   "by": "kjdaily.com",
+   "tags": [
+    "금리·물가",
+    "주식·환율"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "ISC, 4분기 영업이익 52% 증가 전망…생산 병목 풀리고 실적 뛴다",
+   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500288",
+   "t": "2026-11-01T10:02:00+09:00",
+   "by": "pinpointnews.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "삼전닉스 역대급 실적에도 주가 희비…주말에 몰아보는 주간 뉴스[윅퀵...",
+   "link": "https://www.nocutnews.co.kr/news/6600023?utm_source=naver&utm_medium=article&utm_campaign=20261101100057",
+   "t": "2026-11-01T10:01:00+09:00",
+   "by": "nocutnews.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "김동욱 도봉구청장 “개관 앞둔 서울아레나···‘공연장 밖 도봉’ 준...",
+   "link": "https://www.khan.co.kr/article/202611011001001",
+   "t": "2026-11-01T10:01:00+09:00",
+   "by": "khan.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "강남3구 집값 열기 식는데…강북·경기 남부는 뜨겁다",
+   "link": "https://www.ddaily.co.kr/page/view/2026103018224374305",
+   "t": "2026-11-01T10:00:00+09:00",
+   "by": "ddaily.co.kr",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "0%대 시중은행 vs 1%대 지방은행… 지방發 '건전성 경고등'",
+   "link": "https://www.m-i.kr/news/articleView.html?idxno=2012326",
+   "t": "2026-11-01T10:00:00+09:00",
+   "by": "m-i.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "카드사 순익 10% 늘었지만…연말 대손·조달비용 증가에 '경계감'",
+   "link": "https://www.bloter.net/news/articleView.html?idxno=677324",
+   "t": "2026-11-01T10:00:00+09:00",
+   "by": "bloter.net",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "70년간 월세 안 올리고 살았다?... 스페인 덮친 주거난 시위 딜레마[숨은...",
+   "link": "https://www.hankookilbo.com/news/article/A2026103013540004022?did=NA",
+   "t": "2026-11-01T10:00:00+09:00",
+   "by": "hankookilbo.com",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "5대 은행 연체율 9년 반 만에 최고… 대출 부실 경고등 ‘번쩍’",
+   "link": "https://www.dt.co.kr/article/12092368?ref=naver",
+   "t": "2026-11-01T10:00:00+09:00",
+   "by": "dt.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "3분기 나란히 웃은 조선 3사…노사 리스크 털고 중장기 성장 시동",
+   "link": "https://www.mydaily.co.kr/page/view/2026103009384428123",
+   "t": "2026-11-01T10:00:00+09:00",
+   "by": "mydaily.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "개인정보 유출됐는데…은행 '뱅킹 시스템' 안전한가[내 계좌를 노리는 ...",
+   "link": "https://www.newsis.com/view/NISX20261030_0003848788",
+   "t": "2026-11-01T10:00:00+09:00",
+   "by": "newsis.com",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "국내주식에서 채권으로…조정장에 채권형 ETF 비중 30% 늘어",
+   "link": "https://biz.sbs.co.kr/article_hub/20000343456?division=NAVER",
+   "t": "2026-11-01T09:59:00+09:00",
+   "by": "biz.sbs.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "대구광역시, 하반기 적극행정 시정혁신 우수사례 선정...스마트 하천 관...",
+   "link": "https://www.mhns.co.kr/news/articleView.html?idxno=766945",
+   "t": "2026-11-01T09:58:00+09:00",
+   "by": "mhns.co.kr",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "5대은행 중기 대출 연체율 0.6%…2017년 이후 최고",
+   "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=82131",
+   "t": "2026-11-01T09:58:00+09:00",
+   "by": "newsfc.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "청약도 미달인데 3만7000가구 더…김포, 서울 수요 받을까",
+   "link": "http://www.metroseoul.co.kr/article/20261101500035",
+   "t": "2026-11-01T09:58:00+09:00",
+   "by": "metroseoul.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "KB국민은행, 국내 첫 GPU 파이낸싱 금융주선…AI 인프라 확대",
+   "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=172802",
+   "t": "2026-11-01T09:58:00+09:00",
+   "by": "choicenews.co.kr",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "11월 1일 비트버니 상식 퀴즈 정답…자원 수출과 제조업 경쟁력",
+   "link": "https://www.vegannews.co.kr/news/article.html?no=398920",
+   "t": "2026-11-01T09:56:00+09:00",
+   "by": "vegannews.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "은행권 가계 대출 한 달 만에 다시 증가… 여력은 1조원 이상 남아",
+   "link": "https://biz.chosun.com/stock/finance/2026/11/01/KFJQTR6LJ5BGDONTSZPEHC6UJQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "t": "2026-11-01T09:54:00+09:00",
+   "by": "biz.chosun.com",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "코스피 6000 회복 성공할까…다음주 증시 향방은[선데이머니카페]",
+   "link": "https://www.sedaily.com/article/20108653?ref=naver",
+   "t": "2026-11-01T09:54:00+09:00",
+   "by": "sedaily.com",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "엔비디아, 네이버 신주 인수대금 6일 납입",
+   "link": "https://www.vegannews.co.kr/news/article.html?no=398921",
+   "t": "2026-11-01T09:54:00+09:00",
+   "by": "vegannews.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "용인시, 미래 교통체계 논의 '정책 포럼' 개최",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3738699",
+   "t": "2026-11-01T09:54:00+09:00",
+   "by": "gukjenews.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "李대통령 “자산시장 정상화, 지금은 견디는 중…주말에도 ‘폭풍 SNS’",
+   "link": "https://www.sedaily.com/article/20108652?ref=naver",
+   "t": "2026-11-01T09:52:00+09:00",
+   "by": "sedaily.com",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "서울 아파트 월세 대폭 상승, 노원·성북 구역 '핫스팟'으로 주목받다",
+   "link": "https://www.gokorea.kr/news/articleView.html?idxno=883632",
+   "t": "2026-11-01T09:52:00+09:00",
+   "by": "gokorea.kr",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "울산소방본부, 겨울철 화재예방대책 추진…취약시설 안전관리 강화",
+   "link": "https://www.newsis.com/view/NISX20261031_0003849162",
+   "t": "2026-11-01T09:52:00+09:00",
+   "by": "newsis.com",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "프랑스 고교생 시위 3주째...전국 32만 명 집결, 독일·포르투갈로 확산",
+   "link": "https://www.ikbc.co.kr/article/view/kbc202611010012",
+   "t": "2026-11-01T09:51:00+09:00",
+   "by": "ikbc.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "'307억 포기 불사!' MLB 이적 전문 매체, 노시환 포스팅 집중 조명",
+   "link": "https://isplus.com/article/view/isp202611010041",
+   "t": "2026-11-01T09:51:00+09:00",
+   "by": "isplus.com",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "금리 인상 충격, 중소기업 대출 연체율 급등하며 금융 시장 긴장감 고조",
+   "link": "https://www.gokorea.kr/news/articleView.html?idxno=883631",
+   "t": "2026-11-01T09:50:00+09:00",
+   "by": "gokorea.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "[김이코의 시장분석]또다시 제기되는 AI 과열론…빅테크 주가 어디로 가...",
+   "link": "https://www.mediapen.com/news/view/1134132",
+   "t": "2026-11-01T09:50:00+09:00",
+   "by": "mediapen.com",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "오세훈, 항소심 무죄에 “서울시가 살았다”… 녹취록이 결정적 역할",
+   "link": "https://www.munhwa.com/article/11627800?ref=naver",
+   "t": "2026-11-01T09:49:00+09:00",
+   "by": "munhwa.com",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "서초구, 세무설명회에 구민 2600명 참여… 만족도 97%",
+   "link": "https://www.munhwa.com/article/11627801?ref=naver",
+   "t": "2026-11-01T09:49:00+09:00",
+   "by": "munhwa.com",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "고 금리 에 은행 부실채권 1조3000억원↑…8년반만에 ‘최대’",
+   "link": "https://www.dt.co.kr/article/12092366?ref=naver",
+   "t": "2026-11-01T09:48:00+09:00",
+   "by": "dt.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "신제품 출하 흐름은 안정적…하나증권, LG이노텍 목표가 53만원 유지",
+   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500286",
+   "t": "2026-11-01T09:48:00+09:00",
+   "by": "pinpointnews.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "고령화 시대, 국민연금 수급자 800만 돌파…월 60만 원 미만 수급자의 현...",
+   "link": "https://www.gokorea.kr/news/articleView.html?idxno=883621",
+   "t": "2026-11-01T09:48:00+09:00",
+   "by": "gokorea.kr",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "국민연금 수급자 800만명 돌파…66%는 월 60만원도 못 받아",
+   "link": "https://www.newsis.com/view/NISX20261101_0003849600",
+   "t": "2026-11-01T09:46:00+09:00",
+   "by": "newsis.com",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "美 \"트럼프, 김정은과 만날 준비 됐다\"...이재명 언급은 없었다",
+   "link": "https://www.pennmike.com/news/articleView.html?idxno=130697",
+   "t": "2026-11-01T09:46:00+09:00",
+   "by": "pennmike.com",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "대전시의회, 용수골~남간정사 도로개설 사업 재개 방안 모색",
+   "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917970",
+   "t": "2026-11-01T09:44:00+09:00",
+   "by": "chungnamilbo.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "금감원, 불법 공매도 칼 뽑았다…‘NSDS 적출’ 5개 종목 전격 조사",
+   "link": "https://www.dt.co.kr/article/12092364?ref=naver",
+   "t": "2026-11-01T09:44:00+09:00",
+   "by": "dt.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "“보우소나루가 이긴다” 몰빵한 브라질 펀드들…룰라 승리에 하루 32% ...",
+   "link": "https://www.chosun.com/economy/int_economy/2026/11/01/DVZU7ZUARRELJLYIBSMEODOLNA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "t": "2026-11-01T09:42:00+09:00",
+   "by": "chosun.com",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "주주환원으로 반등 불씨 살리려는 코스피…인텔 29% 급락에 AI 투자 우려...",
+   "link": "https://www.ekn.kr/web/view.php?key=20261101028103791",
+   "t": "2026-11-01T09:42:00+09:00",
+   "by": "ekn.kr",
+   "tags": [
+    "금리·물가",
+    "주식·환율"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "고 금리 에 짓눌린 차주들… 5대 은행 부실채권 7.6조원 육박",
+   "link": "https://www.dailian.co.kr/news/view/1709096/?sc=Naver",
+   "t": "2026-11-01T09:41:00+09:00",
+   "by": "dailian.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "경북도, 22개 시·군과 재정위기 대응 공동협력 강화",
+   "link": "https://www.hankyung.com/article/202611018052h",
+   "t": "2026-11-01T09:40:00+09:00",
+   "by": "hankyung.com",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "올해도 무너진 ‘업토버’ 공식…고 금리 에 해킹까지 덮쳤다",
+   "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610301713172390977",
+   "t": "2026-11-01T09:40:00+09:00",
+   "by": "dnews.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "국민연금 수급자 800만명 돌파…11년새 2배",
+   "link": "https://biz.sbs.co.kr/article_hub/20000343453?division=NAVER",
+   "t": "2026-11-01T09:32:00+09:00",
+   "by": "biz.sbs.co.kr",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "안철수 “182조 날린 국민연금 투자, 누구 지시길래…검증 막나”",
+   "link": "https://www.joongang.co.kr/article/25474697",
+   "t": "2026-11-01T09:32:00+09:00",
+   "by": "joongang.co.kr",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "김해시, 108개 공약 연차별 이행 로드맵 구체화",
+   "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1554031",
+   "t": "2026-11-01T09:32:00+09:00",
+   "by": "knnews.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "금시세·금값 1일",
+   "link": "https://www.bntnews.co.kr/article/view/bnt202610310147",
+   "t": "2026-11-01T09:30:00+09:00",
+   "by": "bntnews.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "코인 과세, 네 번째 유예로 가나…청와대도 검토, 6년간 무엇을 준비했...",
+   "link": "https://news.ifm.kr/news/articleView.html?idxno=483039",
+   "t": "2026-11-01T09:30:00+09:00",
+   "by": "ifm.kr",
+   "tags": [
+    "경제 이슈",
+    "주식·환율"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "[도시탐험, 홍대 앞 발전사]⑨ 상수동, 젠트리피케이션이 낳은 아날로그...",
+   "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=146392",
+   "t": "2026-11-01T09:30:00+09:00",
+   "by": "opinionnews.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "\"나도 명태균 건으로 2년 시달려\"…오세훈이 李대통령에 건넨 충고",
+   "link": "https://www.imaeil.com/page/view/2026110108410968968",
+   "t": "2026-11-01T09:29:00+09:00",
+   "by": "imaeil.com",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "용인시, 첨단 모빌리티 기반 미래 교통체계 구축 방향 모색",
+   "link": "https://www.ppss.kr/news/articleView.html?idxno=318383",
+   "t": "2026-11-01T09:29:00+09:00",
+   "by": "ppss.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "APEC 정상회의 1주년, 경주엑스포공원 APEC기념 공원으로",
+   "link": "https://www.hankyung.com/article/202611018041h",
+   "t": "2026-11-01T09:29:00+09:00",
+   "by": "hankyung.com",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "30년 만에 깨어난 日 경제…구조적 반등인가 반짝 불꽃놀이인가",
+   "link": "https://www.newsis.com/view/NISX20261101_0003849539",
+   "t": "2026-11-01T09:28:00+09:00",
+   "by": "newsis.com",
+   "tags": [
+    "금리·물가",
+    "주식·환율"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "나주, 배달노동자 27명 안전용품 지원…1인 최대 20만원 지원",
+   "link": "https://www.aitimes.com/news/articleView.html?idxno=216659",
+   "t": "2026-11-01T09:26:00+09:00",
+   "by": "aitimes.com",
+   "tags": [
+    "지원금·복지"
+   ],
+   "end": "2026-11-04"
+  },
+  {
+   "title": "증시 변동성 다시 폭발…올해 사이드카 역대 최다 ‘55회’",
+   "link": "https://www.dt.co.kr/article/12092360?ref=naver",
+   "t": "2026-11-01T09:25:00+09:00",
+   "by": "dt.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "[뉴스락 팩트오픈] 공사비 검증 미이행 138곳... '신청'은 집계 밖, '완료...",
+   "link": "http://www.newslock.co.kr/news/articleView.html?idxno=138984",
+   "t": "2026-11-01T09:24:00+09:00",
+   "by": "newslock.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "올해 자사주 취득·처분 5배 이상 늘어… 삼전·닉스가 80% 차지",
+   "link": "https://biz.chosun.com/stock/stock_general/2026/11/01/ZUH6EMLIDBHBBCEHMLCLREFW2M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "t": "2026-11-01T09:24:00+09:00",
+   "by": "biz.chosun.com",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "한화자산운용, 'PLUS 200커버드콜액티브' 10월 분배금 주당 114원 확정",
+   "link": "http://www.newslock.co.kr/news/articleView.html?idxno=139037",
+   "t": "2026-11-01T09:24:00+09:00",
+   "by": "newslock.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "국민연금 수급자 800만 돌파…열 중 일곱은 '월 60만 원 미만'",
+   "link": "https://magazine.hankyung.com/business/article/202611018038b",
+   "t": "2026-11-01T09:24:00+09:00",
+   "by": "magazine.hankyung.com",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "[글로벌 줍줍] \"짝꿍 로봇, 단돈 8천만원...구독료는 별도\"",
+   "link": "https://zdnet.co.kr/view/?no=20261031231910",
+   "t": "2026-11-01T09:23:00+09:00",
+   "by": "zdnet.co.kr",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "AI 시대, 전문가는 지고 고수가 뜬다 [김현아의 IT세상읽기]",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=01223446645641456&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "t": "2026-11-01T09:22:00+09:00",
+   "by": "edaily.co.kr",
+   "tags": [
+    "지원금·복지"
+   ],
+   "end": null
+  },
+  {
+   "title": "[프리즘] 장기 공급 중요하지만…\"실수요자 단기 대책도 필요\"",
+   "link": "http://www.yonhapnewstv.co.kr/news/MYH202611010921498xh",
+   "t": "2026-11-01T09:22:00+09:00",
+   "by": "yonhapnewstv.co.kr",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "2027 연말정산 , 자녀 카드공제 한도 최대 100만원 확대",
+   "link": "https://www.vegannews.co.kr/news/article.html?no=398918",
+   "t": "2026-11-01T09:22:00+09:00",
+   "by": "vegannews.co.kr",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "이주희 더불어민주당 의원, 우주데이터센터 글로벌 시장 진출 모색",
+   "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115986",
+   "t": "2026-11-01T09:22:00+09:00",
+   "by": "bbsi.co.kr",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "“내 국민연금 은 얼마?”…3명 중 2명은 月60만원도 못 받는다",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=01220166645641456&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "t": "2026-11-01T09:20:00+09:00",
+   "by": "edaily.co.kr",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "안철수 “ 국민연금 182조 증발, 리밸런싱 유예 누구 지시인가”",
+   "link": "https://www.munhwa.com/article/11627788?ref=naver",
+   "t": "2026-11-01T09:19:00+09:00",
+   "by": "munhwa.com",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "수급자는 800만명 넘었는데…66%는 월 60만원 미만",
+   "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000078432",
+   "t": "2026-11-01T09:19:00+09:00",
+   "by": "jnilbo.com",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "5대 금융, 3Q 누적 순익 19.6조 ‘역대 최대’…4분기 NIM 회복이 관건",
+   "link": "https://www.viva100.com/article/20261031500283",
+   "t": "2026-11-01T09:18:00+09:00",
+   "by": "viva100.com",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "국민연금 수급자 800만명 넘었지만…10명 중 7명 월 60만원도 못 받아",
+   "link": "https://www.kado.net/news/articleView.html?idxno=2081719",
+   "t": "2026-11-01T09:18:00+09:00",
+   "by": "kado.net",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "'경주 APEC'의 영광을 다시 한번…기념관 문 열고 보문호반 축제 열기",
+   "link": "https://www.wikitree.co.kr/articles/1170815",
+   "t": "2026-11-01T09:18:00+09:00",
+   "by": "wikitree.co.kr",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "김동현, 압구정 신현대 100억에 매입… 매매 대금 절반은 집주인에게 빌려",
+   "link": "https://economist.co.kr/article/view/ecn202611010002",
+   "t": "2026-11-01T09:17:00+09:00",
+   "by": "economist.co.kr",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "2027 부모급여·아동수당, 출생일 따라 신청 달라진다",
+   "link": "https://www.vegannews.co.kr/news/article.html?no=398917",
+   "t": "2026-11-01T09:16:00+09:00",
+   "by": "vegannews.co.kr",
+   "tags": [
+    "지원금·복지"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "“그린벨트 왕창 풀어 집짓는다는데”…실수요자 반기는데, 왜 시끄럽지...",
+   "link": "https://www.mk.co.kr/article/12192560",
+   "t": "2026-11-01T09:16:00+09:00",
+   "by": "mk.co.kr",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "[르포] ‘반값’ 기대 속 꼼꼼한 자금 계산…첫 지분적립형 ‘광교 자연...",
+   "link": "https://www.viva100.com/article/20261030500966",
+   "t": "2026-11-01T09:16:00+09:00",
+   "by": "viva100.com",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "국민연금 받는 사람 800만명 넘었지만…10명 중 7명 월 60만원 못 받는다",
+   "link": "https://biz.heraldcorp.com/article/10921521?ref=naver",
+   "t": "2026-11-01T09:16:00+09:00",
+   "by": "biz.heraldcorp.com",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "안보 위협 커지는데…사관학교 통폐합이 급한가 [박병훈의 시선과 대안...",
+   "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367016",
+   "t": "2026-11-01T09:16:00+09:00",
+   "by": "sisafocus.co.kr",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "[ 이슈 ] 김민석 '100% 변화' 약속했지만…당 장악력 흔들·지지율 하락",
+   "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367030",
+   "t": "2026-11-01T09:16:00+09:00",
+   "by": "sisafocus.co.kr",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "중국 견제 위해 뭉치는 美와 동맹국들… 한국은 서해 문제에도 침묵",
+   "link": "https://www.chosun.com/international/us/2026/11/01/3QRCUQ3NFZBA7NFVE4BCZJTX7Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "t": "2026-11-01T09:16:00+09:00",
+   "by": "chosun.com",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "국민연금 수급자 800만명 넘어…10명 중 7명 월 60만원 못 받아",
+   "link": "https://www.econovill.com/news/articleView.html?idxno=755603",
+   "t": "2026-11-01T09:14:00+09:00",
+   "by": "econovill.com",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "서대문구의회, 서부선 경전철 조속 착공 촉구…6개 자치구 한목소리",
+   "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1307010",
+   "t": "2026-11-01T09:14:00+09:00",
+   "by": "jeonmae.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "삼성카드 순이익 13.5% 감소… 금리 상승에 조달·대손비용 동반 급증",
+   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500279",
+   "t": "2026-11-01T09:12:00+09:00",
+   "by": "pinpointnews.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "국민연금 받는 사람 800만명 넘었다...10명 중 7명은 월 60만원 미만",
+   "link": "https://www.fnnews.com/news/202611010905285311",
+   "t": "2026-11-01T09:11:00+09:00",
+   "by": "fnnews.com",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "기업회생 신청 트리콜, 경영난 확산…본사 건물 입주기관과 소송전",
+   "link": "https://news.tf.co.kr/read/national/2383301.htm",
+   "t": "2026-11-01T09:10:00+09:00",
+   "by": "tf.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "연금 받는 노인 800만명 넘었지만…노후 빈곤의 그늘은 여전",
+   "link": "https://www.kbmaeil.com/article/20261101500079",
+   "t": "2026-11-01T09:10:00+09:00",
+   "by": "kbmaeil.com",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
   {
    "title": "조병옥 음성군수 \"도민체전.장애인체전 성공 개최, 음성의 달라진 위상...",
    "link": "https://www.bzeronews.com/news/articleView.html?idxno=824609",
@@ -10,7 +957,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "장부 속 숫자의 비밀…계리가정 관리 강화에 보험사 '촉각'",
@@ -20,7 +968,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "6000선 찍고 다시 밀린 코스피 …이번 주 개미들의 시선은 ‘AI 실적’[투...",
@@ -30,7 +979,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "증시 급락 틈탄 불법 공매도 잡는다…금감원, 5개 안팎 종목 긴급조사",
@@ -40,7 +990,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "국민연금 수급자 800만명…3명 중 2명은 ‘月 60만원 미만’ 수령",
@@ -50,7 +1001,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "만기친람-독선 고집하면 정권이 위태롭다",
@@ -70,7 +1022,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[오늘의 딜 PICK] [영상] 종부세 강화, 집값 잡을까 월세 올릴까…세제...",
@@ -79,6 +1032,17 @@
    "by": "dealsite.co.kr",
    "tags": [
     "세금·연금"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "싸늘한 ‘중도·수도권·청년’ 민심…만기친람·독선 고집하면 정권 위...",
+   "link": "https://www.hani.co.kr/arti/politics/politics_general/1285154.html",
+   "t": "2026-11-01T09:02:00+09:00",
+   "by": "hani.co.kr",
+   "tags": [
+    "부동산"
    ],
    "end": null
   },
@@ -90,7 +1054,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "美 중간선거 끝나면 주가 올랐다…연말 노려볼 종목은[송현주의 재.밌....",
@@ -100,7 +1065,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "AWS 매출 급증에도 잉여현금흐름 -424억달러…아마존 AI 투자 부담↑",
@@ -110,7 +1076,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "토스, 일본 모바일 증권사 치어증권 인수 추진…일본 금융시장 진출 확...",
@@ -120,7 +1087,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "광주 반도체 산단 연결 '사통팔달' 도로 교통망 구축",
@@ -152,7 +1120,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "\"민도복, 모아타운…어떤 재개발이 가장 빠를까요?\" [사이다 부동산 ]",
@@ -162,7 +1131,8 @@
    "tags": [
     "부동산"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "세제개편 후폭풍에 울상…비거주 1주택자 ‘3중 청구서’ 날아온다",
@@ -206,7 +1176,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[이번주 환율] 1320원대 연중 최저 찍고 반등…美 고용지표에 방향성 탐...",
@@ -240,7 +1211,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[이번주 증시] 변동성 장세 불가피할 듯...美 중간선거 주목",
@@ -250,7 +1222,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "화려했던 테마주의 퇴장…시총 미달로 장외시장 자리 옮긴 원풍물산[급...",
@@ -272,7 +1245,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "조선 3사, 연간 영업익 10조 보인다",
@@ -282,7 +1256,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "뮤지컬 관객은 줄어드는데…티켓값 20만원 시대[이혜진의 온스테이]",
@@ -292,7 +1267,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[부동산 청약 일정] 토지임대부 분양주택 '고덕강일3단지' 1순위 청약…...",
@@ -313,7 +1289,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "삼전·하닉, 3분기 실적 신기록… \"메모리 부족 2028년까지\"",
@@ -322,6 +1299,39 @@
    "by": "zdnet.co.kr",
    "tags": [
     "경제 이슈"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "충남 서산시 출신 독립유공자 미전수 훈장 전시회 개최",
+   "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787410&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-01&endDate=2026-11-01&srchWord=&period=",
+   "t": "2026-11-01T09:00:00+09:00",
+   "by": "정책브리핑",
+   "tags": [
+    "정부 정책"
+   ],
+   "gov": true,
+   "end": null
+  },
+  {
+   "title": "데이터로 읽는 우리 교육 제17호 발간",
+   "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787409&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-01&endDate=2026-11-01&srchWord=&period=",
+   "t": "2026-11-01T09:00:00+09:00",
+   "by": "정책브리핑",
+   "tags": [
+    "정부 정책"
+   ],
+   "gov": true,
+   "end": null
+  },
+  {
+   "title": "‘오세훈 삼행시’ 눈도장 뒤…국힘 거리두던 이준석, 달라졌다",
+   "link": "https://www.joongang.co.kr/article/25474694",
+   "t": "2026-11-01T09:00:00+09:00",
+   "by": "joongang.co.kr",
+   "tags": [
+    "부동산"
    ],
    "end": null
   },
@@ -356,7 +1366,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "IBK기업은행, 기술보증기금과 함께 청년 창업기업에 2000억원 금융지원",
@@ -366,7 +1377,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[증시전망] '10월 악몽' 코스피 ...美 중간선거 반등 분수령",
@@ -376,7 +1388,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "현대차, 투자 줄이고 판매 목표 낮췄다… 환율 이 떠받친 3분기 이익",
@@ -386,7 +1399,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "DS투자 \"한화오션 3분기 영업익 4857억원…실적 회복 열쇠는 해양·특수...",
@@ -396,7 +1410,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "하종대 국민의힘 서울시당 수석대변인 \"서남권 철도 망, 정부가 속도로 ...",
@@ -417,7 +1432,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "삼전닉스, 올해 주가 동조화 80%…3분기 실적 발표 때 이탈",
@@ -449,7 +1465,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[주간분양] 이주 '화성 향남 롯데캐슬 시그니처' 등 7곳 청약",
@@ -459,7 +1476,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[황윤주의 외식 비즈니스 컨설팅] 베트남 외식사업 진출 아이템보다 운...",
@@ -492,7 +1510,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "‘2025 APEC 정상회의’…“기억을 넘어 기록으로, 가치를 넘어 미래로”",
@@ -502,7 +1521,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "국민연금 수급자 800만명 시대…3명 중 2명은 월 60만원도 못 받는다",
@@ -512,7 +1532,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "\"선반영 끝났다? 천만에\"…GTX가 가져올 수도권 부동산 입지 역전",
@@ -533,7 +1554,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "서울 아파트 월세 9월까지 7.7% 상승…노원구 12.9%로 최고",
@@ -566,7 +1588,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "최기찬 금천구청장 “데이터센터 건립, 구민 설득이 먼저” [민선 9기 기...",
@@ -576,7 +1599,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "용인시, UAM·자율주행으로 미래 교통 청사진 모색",
@@ -586,7 +1610,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "이자마진은 하락했지만 대손비용 안정…신한금융지주 실적 방어력 주목",
@@ -596,7 +1621,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[온체인 주식선물] 삼성전자, 정규장 종가보다 2.70% 할인",
@@ -606,7 +1632,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "“매출은 줄어드는데 이자는 계속 불어나고”…은행 부실채권 8년 반 만...",
@@ -627,7 +1654,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "역대급 실적 낸 5대 금융도 못 피한 '증시 한파' … 비이자이익 40% '싹뚝...",
@@ -637,7 +1665,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "상장사 자사주 신고액 102조원…삼성·SK하이닉스가 판 키웠다",
@@ -647,7 +1676,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "영업이익 컨센서스 7% 하회했지만…HD현대일렉트릭 중장기 전망 밝은 이...",
@@ -657,7 +1687,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "'역 전세 ' 여파...서울 중하위권 아파트 매매 ·전월세 동반 폭등",
@@ -679,7 +1710,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[삼전닉스] 삼성전자·SK하이닉스, 10월 마지막장 동반 약세… 코스피 57...",
@@ -689,7 +1721,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "코인거래대금 45% 급감, 리스크 21% 상승…리플XRP·비트코인 11월 반등할...",
@@ -699,7 +1732,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "중기·유통업에도 번진 반도체 온기…가계 지갑까진 아직 멀었다",
@@ -853,7 +1887,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "\"중저신용자엔 단비라지만\"…카드사엔 부담스러운 '사잇돌 대출'",
@@ -1107,7 +2142,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "삼성전자우 주가 3.69% 상승…막판 이틀간 8.42% 하락",

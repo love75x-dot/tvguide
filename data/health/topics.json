@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T22:10:59.117030+09:00",
+ "updated": "2026-11-01T23:10:53.998498+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -46,7 +46,7 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 15,
+   "count": 14,
    "angles": [
     "에 좋은",
     "부작용"
@@ -87,10 +87,8 @@
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 10,
-   "angles": [
-    "먹는 법"
-   ],
+   "count": 9,
+   "angles": [],
    "items": [
     {
      "title": "'알토란' 2AM 이창민 표 배추찜 레시피는? \"다이어트 잡은 혈당 관리 집...",
@@ -166,46 +164,6 @@
    ]
   },
   {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 9,
-   "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "코로나 백신 맞으면 암 걸린다?…3600만명 분석했더니 '뜻밖의 결과'",
-     "link": "https://www.insight.co.kr/news/580075",
-     "t": "2026-11-01T09:04:00+09:00",
-     "by": "insight.co.kr"
-    },
-    {
-     "title": "\"코로나 백신 맞으면 암 걸린다?\"…3600만명 분석한 결과 '깜짝'",
-     "link": "https://view.asiae.co.kr/article/2026103118024312696",
-     "t": "2026-10-31T18:31:00+09:00",
-     "by": "view.asiae.co.kr"
-    },
-    {
-     "title": "코로나19 백신이 암 발병 늘렸다?…3600만 분석 결과 “아니요”",
-     "link": "https://www.kmib.co.kr/article/20261031500166",
-     "t": "2026-10-31T16:30:00+09:00",
-     "by": "kmib.co.kr"
-    },
-    {
-     "title": "장기 코로나에 저용량 프레드니솔론, 증상 개선 효과 작고 일시적",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622154",
-     "t": "2026-10-31T14:54:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "코로나 백신 맞으면 암 걸린다? 확인해 봤더니 [자막뉴스]",
-     "link": "https://www.ytn.co.kr/_ln/0134_202610311333243101",
-     "t": "2026-10-31T13:33:00+09:00",
-     "by": "ytn.co.kr"
-    }
-   ]
-  },
-  {
    "name": "단백질",
    "kind": "영양제",
    "count": 8,
@@ -242,6 +200,46 @@
      "link": "https://www.g-enews.com/view.php?ud=2026103119025651499a1f309431_1",
      "t": "2026-11-01T04:00:00+09:00",
      "by": "g-enews.com"
+    }
+   ]
+  },
+  {
+   "name": "코로나",
+   "kind": "질환·증상",
+   "count": 8,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "코로나 백신 맞으면 암 걸린다?…3600만명 분석했더니 '뜻밖의 결과'",
+     "link": "https://www.insight.co.kr/news/580075",
+     "t": "2026-11-01T09:04:00+09:00",
+     "by": "insight.co.kr"
+    },
+    {
+     "title": "\"코로나 백신 맞으면 암 걸린다?\"…3600만명 분석한 결과 '깜짝'",
+     "link": "https://view.asiae.co.kr/article/2026103118024312696",
+     "t": "2026-10-31T18:31:00+09:00",
+     "by": "view.asiae.co.kr"
+    },
+    {
+     "title": "코로나19 백신이 암 발병 늘렸다?…3600만 분석 결과 “아니요”",
+     "link": "https://www.kmib.co.kr/article/20261031500166",
+     "t": "2026-10-31T16:30:00+09:00",
+     "by": "kmib.co.kr"
+    },
+    {
+     "title": "장기 코로나에 저용량 프레드니솔론, 증상 개선 효과 작고 일시적",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622154",
+     "t": "2026-10-31T14:54:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "코로나 백신 맞으면 암 걸린다? 확인해 봤더니 [자막뉴스]",
+     "link": "https://www.ytn.co.kr/_ln/0134_202610311333243101",
+     "t": "2026-10-31T13:33:00+09:00",
+     "by": "ytn.co.kr"
     }
    ]
   },
@@ -474,6 +472,38 @@
    ]
   },
   {
+   "name": "면역력",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [],
+   "items": [
+    {
+     "title": "사우나 30분 만에 백혈구 증가…면역력도 좋아졌을까?",
+     "link": "http://weekly.chosun.com/news/articleView.html?idxno=56740",
+     "t": "2026-11-01T23:10:00+09:00",
+     "by": "weekly.chosun.com"
+    },
+    {
+     "title": "가을 환절기 아이 면역력 관리 , 한약 복용 전 확인해야 할 사항은?",
+     "link": "http://www.ikoreanspirit.com/news/articleView.html?idxno=87992",
+     "t": "2026-10-30T17:40:00+09:00",
+     "by": "ikoreanspirit.com"
+    },
+    {
+     "title": "[ 건강 프라임_칼럼] 짧아진 가을철 환절기, 아이 면역력을 기르기 위한 ...",
+     "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=248835",
+     "t": "2026-10-30T15:40:00+09:00",
+     "by": "sisunnews.co.kr"
+    },
+    {
+     "title": "[메디톡] 짧아진 가을 환절기, 아이 면역력 관리 중요… 한약 복용 시 살...",
+     "link": "https://www.kyosu.net/news/articleView.html?idxno=211864",
+     "t": "2026-10-30T15:20:00+09:00",
+     "by": "kyosu.net"
+    }
+   ]
+  },
+  {
    "name": "콜레스테롤",
    "kind": "질환·증상",
    "count": 4,
@@ -504,32 +534,6 @@
      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=68982",
      "t": "2026-10-31T06:00:00+09:00",
      "by": "hidoc.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "면역력",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [],
-   "items": [
-    {
-     "title": "가을 환절기 아이 면역력 관리 , 한약 복용 전 확인해야 할 사항은?",
-     "link": "http://www.ikoreanspirit.com/news/articleView.html?idxno=87992",
-     "t": "2026-10-30T17:40:00+09:00",
-     "by": "ikoreanspirit.com"
-    },
-    {
-     "title": "[ 건강 프라임_칼럼] 짧아진 가을철 환절기, 아이 면역력을 기르기 위한 ...",
-     "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=248835",
-     "t": "2026-10-30T15:40:00+09:00",
-     "by": "sisunnews.co.kr"
-    },
-    {
-     "title": "[메디톡] 짧아진 가을 환절기, 아이 면역력 관리 중요… 한약 복용 시 살...",
-     "link": "https://www.kyosu.net/news/articleView.html?idxno=211864",
-     "t": "2026-10-30T15:20:00+09:00",
-     "by": "kyosu.net"
     }
    ]
   },
@@ -622,6 +626,26 @@
      "link": "https://www.insight.co.kr/news/579931",
      "t": "2026-10-30T17:42:00+09:00",
      "by": "insight.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "사우나",
+   "kind": "운동·생활",
+   "count": 2,
+   "angles": [],
+   "items": [
+    {
+     "title": "사우나 30분 만에 백혈구 증가…면역력도 좋아졌을까?",
+     "link": "http://weekly.chosun.com/news/articleView.html?idxno=56740",
+     "t": "2026-11-01T23:10:00+09:00",
+     "by": "weekly.chosun.com"
+    },
+    {
+     "title": "“으슬으슬한데 사우나 갈까”…‘이 질환’ 있는 사람은 조심해야",
+     "link": "https://kormedi.com/?p=2895085",
+     "t": "2026-10-31T22:06:00+09:00",
+     "by": "kormedi.com"
     }
    ]
   },
@@ -811,20 +835,6 @@
      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88541",
      "t": "2026-10-30T08:52:00+09:00",
      "by": "industrynews.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "비타민C",
-   "kind": "영양제",
-   "count": 1,
-   "angles": [],
-   "items": [
-    {
-     "title": "비타민C 먹어도 피로 안 풀리는 이유 '이것' 빠졌기 때문",
-     "link": "https://www.insight.co.kr/news/579865",
-     "t": "2026-10-30T10:28:00+09:00",
-     "by": "insight.co.kr"
     }
    ]
   }

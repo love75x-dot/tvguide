@@ -144,7 +144,7 @@
     }
    ],
    "first": "00:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 1,
    "hours": [
     "00:08",
@@ -171,7 +171,8 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
@@ -434,7 +435,7 @@
     }
    ],
    "first": "00:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 4,
    "hours": [
     "00:08",
@@ -460,15 +461,15 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 19
+    "nate_int": 40
    },
    "count": 4,
    "inrank": true
@@ -525,7 +526,7 @@
     }
    ],
    "first": "00:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 2,
    "hours": [
     "00:08",
@@ -552,7 +553,8 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
@@ -560,7 +562,7 @@
    ],
    "now": {
     "nate_pop": 20,
-    "nate_int": 12
+    "nate_int": 11
    },
    "count": 6,
    "inrank": true
@@ -923,7 +925,7 @@
     }
    ],
    "first": "00:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 1,
    "hours": [
     "00:08",
@@ -950,15 +952,16 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 26,
-    "nate_int": 11
+    "nate_pop": 19,
+    "nate_int": 10
    },
    "count": 27,
    "inrank": true
@@ -1229,7 +1232,7 @@
     }
    ],
    "first": "00:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 1,
    "hours": [
     "00:08",
@@ -1249,15 +1252,16 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 17
+    "nate_pop": 16,
+    "nate_int": 19
    },
    "count": 2,
    "inrank": true
@@ -2214,8 +2218,8 @@
     }
    ],
    "first": "02:08",
-   "last": "22:10",
-   "best": 11,
+   "last": "23:10",
+   "best": 10,
    "hours": [
     "02:08",
     "03:08",
@@ -2230,15 +2234,16 @@
     "10:10",
     "11:06",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 15
+    "nate_pop": 10,
+    "nate_int": 13
    },
    "count": 2,
    "inrank": true
@@ -2517,7 +2522,7 @@
     }
    ],
    "first": "04:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 10,
    "hours": [
     "04:08",
@@ -2530,15 +2535,16 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 18
+    "nate_pop": 11,
+    "nate_int": 17
    },
    "count": 4,
    "inrank": true
@@ -2715,7 +2721,7 @@
     }
    ],
    "first": "08:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 2,
    "hours": [
     "08:08",
@@ -2731,15 +2737,16 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 7
+    "nate_pop": 6,
+    "nate_int": 9
    },
    "count": 3,
    "inrank": true
@@ -2839,7 +2846,7 @@
     }
    ],
    "first": "09:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 8,
    "hours": [
     "09:08",
@@ -2855,14 +2862,15 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 36
+    "nate_int": 41
    },
    "count": 2,
    "inrank": true
@@ -2905,7 +2913,7 @@
     }
    ],
    "first": "10:10",
-   "last": "22:10",
+   "last": "23:10",
    "best": 3,
    "hours": [
     "10:10",
@@ -2920,14 +2928,15 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 28
+    "nate_int": 27
    },
    "count": 4,
    "inrank": true
@@ -3033,21 +3042,22 @@
     }
    ],
    "first": "10:10",
-   "last": "22:10",
-   "best": 13,
+   "last": "23:10",
+   "best": 12,
    "hours": [
     "10:10",
     "12:11",
     "13:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 20
+    "nate_pop": 12,
+    "nate_int": 14
    },
    "count": 2,
    "inrank": true
@@ -3059,13 +3069,15 @@
     "로빈, 걸그룹 출신 미모의 아내 공개 \"아들 임신…태명은 깐느\" (동치미)[...",
     "'티아라 출신' 소연♥조유민, 2세 임신 \"가장 힘들 때 소중한 생명 찾아와\"",
     "'조유민♥' 티아라 소연, 깜짝 임신 발표…\"계획 못 한 날 기적 찾아와...",
-    "[전문] '조유민♥' 소연, 아들맘 된다…\"배 뚠뚠이 생활 중\" 4년만 임신 발..."
+    "[전문] '조유민♥' 소연, 아들맘 된다…\"배 뚠뚠이 생활 중\" 4년만 임신 발...",
+    "티아라 출신 소연, 조유민과 결혼 4주년 겹경사…\"아기 곧 태어난다\""
    ],
    "links": [
     "https://news.nate.com/view/20261101n01180",
     "https://news.nate.com/view/20261101n16673",
     "https://news.nate.com/view/20261101n16558",
-    "https://news.nate.com/view/20261101n17202"
+    "https://news.nate.com/view/20261101n17202",
+    "https://news.nate.com/view/20261101n17050"
    ],
    "articles": [
     {
@@ -3087,10 +3099,15 @@
      "title": "[전문] '조유민♥' 소연, 아들맘 된다…\"배 뚠뚠이 생활 중\" 4년만 임신 발...",
      "link": "https://news.nate.com/view/20261101n17202",
      "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "티아라 출신 소연, 조유민과 결혼 4주년 겹경사…\"아기 곧 태어난다\"",
+     "link": "https://news.nate.com/view/20261101n17050",
+     "media": "티브이데일리"
     }
    ],
    "first": "11:06",
-   "last": "22:10",
+   "last": "23:10",
    "best": 3,
    "hours": [
     "11:06",
@@ -3099,7 +3116,8 @@
     "14:08",
     "15:12",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
@@ -3107,9 +3125,9 @@
    ],
    "now": {
     "nate_pop": 4,
-    "nate_int": 3
+    "nate_int": 4
    },
-   "count": 4,
+   "count": 5,
    "inrank": true
   },
   {
@@ -3466,7 +3484,7 @@
     }
    ],
    "first": "13:10",
-   "last": "22:10",
+   "last": "23:10",
    "best": 5,
    "hours": [
     "13:10",
@@ -3478,14 +3496,15 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 35
+    "nate_int": 46
    },
    "count": 2,
    "inrank": true
@@ -3514,7 +3533,7 @@
     }
    ],
    "first": "13:10",
-   "last": "22:10",
+   "last": "23:10",
    "best": 12,
    "hours": [
     "13:10",
@@ -3526,14 +3545,15 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 43
+    "nate_int": 44
    },
    "count": 2,
    "inrank": true
@@ -3646,7 +3666,7 @@
     }
    ],
    "first": "14:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 1,
    "hours": [
     "14:08",
@@ -3657,14 +3677,16 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 23
+    "nate_pop": 29,
+    "nate_int": 24
    },
    "count": 1,
    "inrank": true
@@ -3686,7 +3708,7 @@
     }
    ],
    "first": "14:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 8,
    "hours": [
     "14:08",
@@ -3697,14 +3719,16 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 34
+    "nate_pop": 26,
+    "nate_int": 33
    },
    "count": 1,
    "inrank": true
@@ -3726,7 +3750,7 @@
     }
    ],
    "first": "14:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 5,
    "hours": [
     "14:08",
@@ -3737,7 +3761,8 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
@@ -3745,7 +3770,7 @@
    ],
    "now": {
     "nate_pop": 25,
-    "nate_int": 22
+    "nate_int": 32
    },
    "count": 1,
    "inrank": true
@@ -3919,7 +3944,7 @@
     }
    ],
    "first": "16:10",
-   "last": "22:10",
+   "last": "23:10",
    "best": 1,
    "hours": [
     "16:10",
@@ -3928,15 +3953,16 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 4
+    "nate_pop": 7,
+    "nate_int": 7
    },
    "count": 3,
    "inrank": true
@@ -3972,11 +3998,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 40
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c86",
@@ -4029,7 +4053,7 @@
     }
    ],
    "first": "17:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 15,
    "hours": [
     "17:08",
@@ -4037,7 +4061,8 @@
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
@@ -4073,14 +4098,15 @@
     }
    ],
    "first": "18:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 11,
    "hours": [
     "18:08",
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
@@ -4171,21 +4197,22 @@
     }
    ],
    "first": "19:08",
-   "last": "22:10",
+   "last": "23:10",
    "best": 3,
    "hours": [
     "19:08",
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 24
+    "nate_pop": 27,
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -4219,11 +4246,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 41
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c93",
@@ -4298,35 +4323,43 @@
    "id": "c95",
    "title": "\"한국어만 쓰라니\" 블랙핑크 리사, 연습생 시절 '하드코어' 한국어 수업에 ...",
    "titles": [
-    "\"한국어만 쓰라니\" 블랙핑크 리사, 연습생 시절 '하드코어' 한국어 수업에 ..."
+    "\"한국어만 쓰라니\" 블랙핑크 리사, 연습생 시절 '하드코어' 한국어 수업에 ...",
+    "최강창민 \"연습생 시절 김희철 가장 얄미워, 나랑 수저 세팅해야 하는데…\"..."
    ],
    "links": [
-    "https://news.nate.com/view/20261101n14857"
+    "https://news.nate.com/view/20261101n14857",
+    "https://news.nate.com/view/20261101n17571"
    ],
    "articles": [
     {
      "title": "\"한국어만 쓰라니\" 블랙핑크 리사, 연습생 시절 '하드코어' 한국어 수업에 ...",
      "link": "https://news.nate.com/view/20261101n14857",
      "media": "스포츠경향"
+    },
+    {
+     "title": "최강창민 \"연습생 시절 김희철 가장 얄미워, 나랑 수저 세팅해야 하는데…\"...",
+     "link": "https://news.nate.com/view/20261101n17571",
+     "media": "뉴스엔"
     }
    ],
    "first": "20:10",
-   "last": "22:10",
+   "last": "23:10",
    "best": 6,
    "hours": [
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 10
+    "nate_pop": 22,
+    "nate_int": 16
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -4346,20 +4379,21 @@
     }
    ],
    "first": "20:10",
-   "last": "22:10",
+   "last": "23:10",
    "best": 12,
    "hours": [
     "20:10",
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 29
+    "nate_pop": 23,
+    "nate_int": 30
    },
    "count": 1,
    "inrank": true
@@ -4422,11 +4456,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 49
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c99",
@@ -4445,11 +4477,12 @@
     }
    ],
    "first": "21:10",
-   "last": "22:10",
+   "last": "23:10",
    "best": 1,
    "hours": [
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
@@ -4479,19 +4512,20 @@
     }
    ],
    "first": "21:10",
-   "last": "22:10",
+   "last": "23:10",
    "best": 3,
    "hours": [
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 9
+    "nate_pop": 14,
+    "nate_int": 20
    },
    "count": 1,
    "inrank": true
@@ -4513,19 +4547,19 @@
     }
    ],
    "first": "21:10",
-   "last": "22:10",
+   "last": "23:10",
    "best": 13,
    "hours": [
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 21
+    "nate_int": 37
    },
    "count": 1,
    "inrank": true
@@ -4547,19 +4581,20 @@
     }
    ],
    "first": "21:10",
-   "last": "22:10",
-   "best": 21,
+   "last": "23:10",
+   "best": 17,
    "hours": [
     "21:10",
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 31
+    "nate_pop": 17,
+    "nate_int": 21
    },
    "count": 1,
    "inrank": true
@@ -4597,33 +4632,41 @@
    "id": "c104",
    "title": "최강창민, 5살 아들과 얼마나 '붕어빵'이길래…\"회사 직원이 알아봐\" (...",
    "titles": [
-    "최강창민, 5살 아들과 얼마나 '붕어빵'이길래…\"회사 직원이 알아봐\" (..."
+    "최강창민, 5살 아들과 얼마나 '붕어빵'이길래…\"회사 직원이 알아봐\" (...",
+    "최강창민 \"아들 대변 손으로 받아, 기저귀 접었는데 아뿔싸…\" (미우새)"
    ],
    "links": [
-    "https://news.nate.com/view/20261101n17495"
+    "https://news.nate.com/view/20261101n17495",
+    "https://news.nate.com/view/20261101n17729"
    ],
    "articles": [
     {
      "title": "최강창민, 5살 아들과 얼마나 '붕어빵'이길래…\"회사 직원이 알아봐\" (...",
      "link": "https://news.nate.com/view/20261101n17495",
      "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "최강창민 \"아들 대변 손으로 받아, 기저귀 접었는데 아뿔싸…\" (미우새)",
+     "link": "https://news.nate.com/view/20261101n17729",
+     "media": "뉴스엔"
     }
    ],
    "first": "22:10",
-   "last": "22:10",
+   "last": "23:10",
    "best": 2,
    "hours": [
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
+    "nate_pop": 3,
     "nate_int": 2
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -4643,18 +4686,19 @@
     }
    ],
    "first": "22:10",
-   "last": "22:10",
-   "best": 3,
+   "last": "23:10",
+   "best": 2,
    "hours": [
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 37
+    "nate_pop": 2,
+    "nate_int": 3
    },
    "count": 1,
    "inrank": true
@@ -4676,10 +4720,11 @@
     }
    ],
    "first": "22:10",
-   "last": "22:10",
+   "last": "23:10",
    "best": 5,
    "hours": [
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
@@ -4687,7 +4732,7 @@
    ],
    "now": {
     "nate_pop": 9,
-    "nate_int": 5
+    "nate_int": 12
    },
    "count": 1,
    "inrank": true
@@ -4709,16 +4754,19 @@
     }
    ],
    "first": "22:10",
-   "last": "22:10",
-   "best": 18,
+   "last": "23:10",
+   "best": 5,
    "hours": [
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
-    "nate_pop"
+    "nate_pop",
+    "nate_int"
    ],
    "now": {
-    "nate_pop": 18
+    "nate_pop": 5,
+    "nate_int": 5
    },
    "count": 1,
    "inrank": true
@@ -4740,18 +4788,19 @@
     }
    ],
    "first": "22:10",
-   "last": "22:10",
-   "best": 29,
+   "last": "23:10",
+   "best": 18,
    "hours": [
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 44
+    "nate_pop": 18,
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -4773,16 +4822,17 @@
     }
    ],
    "first": "22:10",
-   "last": "22:10",
+   "last": "23:10",
    "best": 45,
    "hours": [
-    "22:10"
+    "22:10",
+    "23:10"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 45
+    "nate_int": 50
    },
    "count": 1,
    "inrank": true
@@ -4812,8 +4862,141 @@
    "srcs": [
     "nate_int"
    ],
+   "now": {},
+   "count": 1,
+   "inrank": false
+  },
+  {
+   "id": "c111",
+   "title": "김승수, '♥맞선' 박혜연에 '로봇 딸' 들켰다…\"딸이 있으셨구나\" 문화 충...",
+   "titles": [
+    "김승수, '♥맞선' 박혜연에 '로봇 딸' 들켰다…\"딸이 있으셨구나\" 문화 충...",
+    "김승수♥박혜연, 첫 데이트부터 손잡았다…서장훈 \"명분있는 스킨십\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261101n17787",
+    "https://news.nate.com/view/20261101n17773"
+   ],
+   "articles": [
+    {
+     "title": "김승수, '♥맞선' 박혜연에 '로봇 딸' 들켰다…\"딸이 있으셨구나\" 문화 충...",
+     "link": "https://news.nate.com/view/20261101n17787",
+     "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "김승수♥박혜연, 첫 데이트부터 손잡았다…서장훈 \"명분있는 스킨십\"",
+     "link": "https://news.nate.com/view/20261101n17773",
+     "media": "뉴스1"
+    }
+   ],
+   "first": "23:10",
+   "last": "23:10",
+   "best": 24,
+   "hours": [
+    "23:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
    "now": {
-    "nate_int": 50
+    "nate_pop": 24,
+    "nate_int": 31
+   },
+   "count": 2,
+   "inrank": true
+  },
+  {
+   "id": "c112",
+   "title": "윤남노, 여친 공주 대접해줘도 매번 이별 \"크리스마스에 헤어져\"(냉부)",
+   "titles": [
+    "윤남노, 여친 공주 대접해줘도 매번 이별 \"크리스마스에 헤어져\"(냉부)"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261101n17752"
+   ],
+   "articles": [
+    {
+     "title": "윤남노, 여친 공주 대접해줘도 매번 이별 \"크리스마스에 헤어져\"(냉부)",
+     "link": "https://news.nate.com/view/20261101n17752",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "23:10",
+   "last": "23:10",
+   "best": 28,
+   "hours": [
+    "23:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 28,
+    "nate_int": 34
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c113",
+   "title": "김지원 '꾸안꾸 매력 돋보이는 공항패션'[포토엔HD]",
+   "titles": [
+    "김지원 '꾸안꾸 매력 돋보이는 공항패션'[포토엔HD]"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261101n17554"
+   ],
+   "articles": [
+    {
+     "title": "김지원 '꾸안꾸 매력 돋보이는 공항패션'[포토엔HD]",
+     "link": "https://news.nate.com/view/20261101n17554",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "23:10",
+   "last": "23:10",
+   "best": 45,
+   "hours": [
+    "23:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 45
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c114",
+   "title": "김승수母 \"요즘 여자들 기 세다\" 소신발언→♥박혜연 아나 \"남편 존중할 것...",
+   "titles": [
+    "김승수母 \"요즘 여자들 기 세다\" 소신발언→♥박혜연 아나 \"남편 존중할 것..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261101n17782"
+   ],
+   "articles": [
+    {
+     "title": "김승수母 \"요즘 여자들 기 세다\" 소신발언→♥박혜연 아나 \"남편 존중할 것...",
+     "link": "https://news.nate.com/view/20261101n17782",
+     "media": "MHN스포츠"
+    }
+   ],
+   "first": "23:10",
+   "last": "23:10",
+   "best": 49,
+   "hours": [
+    "23:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 49
    },
    "count": 1,
    "inrank": true
@@ -5019,9 +5202,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "23:10",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-01T22:10:46.118300+09:00",
+ "updated": "2026-11-01T23:10:43.298763+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

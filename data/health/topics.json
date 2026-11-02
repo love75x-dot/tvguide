@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T07:10:50.324220+09:00",
+ "updated": "2026-11-03T08:10:59.062333+09:00",
  "topics": [
   {
    "name": "유산균",
@@ -42,12 +42,18 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 27,
+   "count": 26,
    "angles": [
     "효능",
     "부작용"
    ],
    "items": [
+    {
+     "title": "질환 맞춤형 식사 제공, 당뇨·고혈압 환자 혈당 ·혈압 개선",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622475",
+     "t": "2026-11-03T07:56:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
     {
      "title": "혈당 모니터링·상담까지… 고혈압·당뇨병 맞춤 관리 , 집 앞 동네의원...",
      "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/03/20261103018002?wlog_tag3=naver",
@@ -71,12 +77,6 @@
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/02/2026110202025.html",
      "t": "2026-11-02T16:01:00+09:00",
      "by": "health.chosun.com"
-    },
-    {
-     "title": "혈당 잡는 줄 알았더니…낮에 무심코한 이 행동, 치매 불렀다",
-     "link": "https://www.joongang.co.kr/article/25475016",
-     "t": "2026-11-02T15:56:00+09:00",
-     "by": "joongang.co.kr"
     }
    ]
   },
@@ -124,12 +124,18 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 12,
+   "count": 13,
    "angles": [
     "부작용",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "질환 맞춤형 식사 제공, 당뇨·고혈압 환자 혈당 ·혈압 개선",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622475",
+     "t": "2026-11-03T07:56:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
     {
      "title": "“혈압 낮추고 혈관 건강 까지?”…지금 제철 ‘이 음식 ’, 중년 밥상에...",
      "link": "https://kormedi.com/?p=2896647",
@@ -153,12 +159,6 @@
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622412",
      "t": "2026-11-02T15:48:00+09:00",
      "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "[의학칼럼]고 혈압 , 콩팥 기능 위협한다… 두 질환 함께 관리해야",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/02/2026110201744.html",
-     "t": "2026-11-02T14:29:00+09:00",
-     "by": "health.chosun.com"
     }
    ]
   },
@@ -404,6 +404,86 @@
    ]
   },
   {
+   "name": "당뇨",
+   "kind": "질환·증상",
+   "count": 6,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "질환 맞춤형 식사 제공, 당뇨·고혈압 환자 혈당 ·혈압 개선",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622475",
+     "t": "2026-11-03T07:56:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "‘비누 향’에 호불호 갈리는 이 채소…당뇨 특효 소문에 美전문가 ‘경...",
+     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/02/20261102500066?wlog_tag3=naver",
+     "t": "2026-11-02T23:02:00+09:00",
+     "by": "seoul.co.kr"
+    },
+    {
+     "title": "당뇨 전단계서 쓴 GLP-1 비만치료제 통했다",
+     "link": "https://www.dongascience.com/news/view/80660",
+     "t": "2026-11-02T19:00:00+09:00",
+     "by": "dongascience.com"
+    },
+    {
+     "title": "\"당뇨 아니라 안심했는데\"…공복 혈당 '이 숫자' 넘으면 위험 신호",
+     "link": "https://view.asiae.co.kr/article/2026110118050319604",
+     "t": "2026-11-01T18:06:00+09:00",
+     "by": "view.asiae.co.kr"
+    },
+    {
+     "title": "\"당뇨에 좋대서 챙겨 먹었는데\"… 혈당 올리는 의외의 함정",
+     "link": "https://view.asiae.co.kr/article/2026110118050319604",
+     "t": "2026-11-01T18:06:00+09:00",
+     "by": "view.asiae.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "수면",
+   "kind": "운동·생활",
+   "count": 6,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "폭염, 수면 방해·감정 조절 저하 통해 자살 위험 높여",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622527",
+     "t": "2026-11-03T08:04:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "교통 소음 노출, 수면 양호해도 심혈관질환 위험 높일 수 있어",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622473",
+     "t": "2026-11-03T07:52:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "수면과다...당뇨성 신질환 악화시켜...",
+     "link": "http://www.whosaeng.com/174979",
+     "t": "2026-11-02T16:42:00+09:00",
+     "by": "whosaeng.com"
+    },
+    {
+     "title": "“수면 컨설팅에 할인까지”…가누다·까르마, 판교 현대백화점서 팝업",
+     "link": "http://www.segyebiz.com/newsView/20261102512922?OutUrl=naver",
+     "t": "2026-11-02T15:22:00+09:00",
+     "by": "segyebiz.com"
+    },
+    {
+     "title": "불면증·강박증·불안장애 증상 증가세…수면과 불안 조절 기능 함께 치...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622310",
+     "t": "2026-11-02T11:58:00+09:00",
+     "by": "mdtoday.co.kr"
+    }
+   ]
+  },
+  {
    "name": "유방암",
    "kind": "질환·증상",
    "count": 6,
@@ -565,46 +645,6 @@
    ]
   },
   {
-   "name": "당뇨",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "‘비누 향’에 호불호 갈리는 이 채소…당뇨 특효 소문에 美전문가 ‘경...",
-     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/02/20261102500066?wlog_tag3=naver",
-     "t": "2026-11-02T23:02:00+09:00",
-     "by": "seoul.co.kr"
-    },
-    {
-     "title": "당뇨 전단계서 쓴 GLP-1 비만치료제 통했다",
-     "link": "https://www.dongascience.com/news/view/80660",
-     "t": "2026-11-02T19:00:00+09:00",
-     "by": "dongascience.com"
-    },
-    {
-     "title": "\"당뇨 아니라 안심했는데\"…공복 혈당 '이 숫자' 넘으면 위험 신호",
-     "link": "https://view.asiae.co.kr/article/2026110118050319604",
-     "t": "2026-11-01T18:06:00+09:00",
-     "by": "view.asiae.co.kr"
-    },
-    {
-     "title": "\"당뇨에 좋대서 챙겨 먹었는데\"… 혈당 올리는 의외의 함정",
-     "link": "https://view.asiae.co.kr/article/2026110118050319604",
-     "t": "2026-11-01T18:06:00+09:00",
-     "by": "view.asiae.co.kr"
-    },
-    {
-     "title": "공복 혈당 105, 정상인 줄 알았는데…30세 이상 10명 중 4명 ‘당뇨 전단...",
-     "link": "https://www.segye.com/newsView/20261101500848?OutUrl=naver",
-     "t": "2026-11-01T04:43:00+09:00",
-     "by": "segye.com"
-    }
-   ]
-  },
-  {
    "name": "러닝",
    "kind": "운동·생활",
    "count": 5,
@@ -645,38 +685,6 @@
    ]
   },
   {
-   "name": "수면",
-   "kind": "운동·생활",
-   "count": 4,
-   "angles": [],
-   "items": [
-    {
-     "title": "수면과다...당뇨성 신질환 악화시켜...",
-     "link": "http://www.whosaeng.com/174979",
-     "t": "2026-11-02T16:42:00+09:00",
-     "by": "whosaeng.com"
-    },
-    {
-     "title": "“수면 컨설팅에 할인까지”…가누다·까르마, 판교 현대백화점서 팝업",
-     "link": "http://www.segyebiz.com/newsView/20261102512922?OutUrl=naver",
-     "t": "2026-11-02T15:22:00+09:00",
-     "by": "segyebiz.com"
-    },
-    {
-     "title": "불면증·강박증·불안장애 증상 증가세…수면과 불안 조절 기능 함께 치...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622310",
-     "t": "2026-11-02T11:58:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "수면 호르몬 멜라토닌의 뜻밖의 발견… ‘배고픔 호르몬’도 억제했다",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/02/2026110200893.html",
-     "t": "2026-11-02T10:12:00+09:00",
-     "by": "health.chosun.com"
-    }
-   ]
-  },
-  {
    "name": "폐렴",
    "kind": "질환·증상",
    "count": 4,
@@ -708,6 +716,34 @@
      "link": "https://www.khan.co.kr/article/202610310900015",
      "t": "2026-10-31T09:00:00+09:00",
      "by": "khan.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "고혈압",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "질환 맞춤형 식사 제공, 당뇨·고혈압 환자 혈당 ·혈압 개선",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622475",
+     "t": "2026-11-03T07:56:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "혈당 모니터링·상담까지… 고혈압·당뇨병 맞춤 관리 , 집 앞 동네의원...",
+     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/03/20261103018002?wlog_tag3=naver",
+     "t": "2026-11-03T05:04:00+09:00",
+     "by": "seoul.co.kr"
+    },
+    {
+     "title": "고혈압 치료 기준 강화… 고위험군 목표 혈압 10mmHg 낮춰",
+     "link": "https://monthly.chosun.com/news/articleView.html?idxno=71861",
+     "t": "2026-11-02T10:00:00+09:00",
+     "by": "monthly.chosun.com"
     }
    ]
   },
@@ -810,28 +846,6 @@
      "link": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=68876",
      "t": "2026-11-02T17:12:00+09:00",
      "by": "akomnews.com"
-    }
-   ]
-  },
-  {
-   "name": "고혈압",
-   "kind": "질환·증상",
-   "count": 2,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "혈당 모니터링·상담까지… 고혈압·당뇨병 맞춤 관리 , 집 앞 동네의원...",
-     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/03/20261103018002?wlog_tag3=naver",
-     "t": "2026-11-03T05:04:00+09:00",
-     "by": "seoul.co.kr"
-    },
-    {
-     "title": "고혈압 치료 기준 강화… 고위험군 목표 혈압 10mmHg 낮춰",
-     "link": "https://monthly.chosun.com/news/articleView.html?idxno=71861",
-     "t": "2026-11-02T10:00:00+09:00",
-     "by": "monthly.chosun.com"
     }
    ]
   },

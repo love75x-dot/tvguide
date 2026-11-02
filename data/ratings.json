@@ -1409,83 +1409,365 @@
     "program": "뉴스오늘3부",
     "rating": 1.318
    }
+  ],
+  "2026-11-02": [
+   {
+    "rank": 1,
+    "kind": "지상파",
+    "channel": "KBS1",
+    "program": "KBS1일일드라마(엄마가미쳤어요)",
+    "rating": 10.4
+   },
+   {
+    "rank": 2,
+    "kind": "지상파",
+    "channel": "KBS2",
+    "program": "KBS2일일드라마(욕망의덫)",
+    "rating": 7.7
+   },
+   {
+    "rank": 3,
+    "kind": "지상파",
+    "channel": "KBS1",
+    "program": "인간극장",
+    "rating": 7.1
+   },
+   {
+    "rank": 4,
+    "kind": "지상파",
+    "channel": "KBS1",
+    "program": "KBS9시뉴스",
+    "rating": 6.8
+   },
+   {
+    "rank": 5,
+    "kind": "지상파",
+    "channel": "KBS1",
+    "program": "6시내고향",
+    "rating": 5.6
+   },
+   {
+    "rank": 6,
+    "kind": "지상파",
+    "channel": "MBC",
+    "program": "MBC일일드라마(가족관계증명서)",
+    "rating": 5.5
+   },
+   {
+    "rank": 6,
+    "kind": "지상파",
+    "channel": "MBC",
+    "program": "MBC뉴스데스크",
+    "rating": 5.5
+   },
+   {
+    "rank": 8,
+    "kind": "지상파",
+    "channel": "SBS",
+    "program": "우리들의발라드2-2부",
+    "rating": 5.2
+   },
+   {
+    "rank": 9,
+    "kind": "지상파",
+    "channel": "KBS1",
+    "program": "가요무대",
+    "rating": 4.7
+   },
+   {
+    "rank": 10,
+    "kind": "지상파",
+    "channel": "KBS1",
+    "program": "KBS뉴스광장2부",
+    "rating": 4.5
+   },
+   {
+    "rank": 11,
+    "kind": "지상파",
+    "channel": "KBS1",
+    "program": "아침마당",
+    "rating": 4.3
+   },
+   {
+    "rank": 12,
+    "kind": "지상파",
+    "channel": "KBS1",
+    "program": "우리말겨루기",
+    "rating": 4.2
+   },
+   {
+    "rank": 13,
+    "kind": "지상파",
+    "channel": "SBS",
+    "program": "우리들의발라드2-1부",
+    "rating": 3.9
+   },
+   {
+    "rank": 14,
+    "kind": "지상파",
+    "channel": "KBS2",
+    "program": "2TV생생정보",
+    "rating": 3.8
+   },
+   {
+    "rank": 15,
+    "kind": "지상파",
+    "channel": "SBS",
+    "program": "SBS8뉴스",
+    "rating": 3.3
+   },
+   {
+    "rank": 15,
+    "kind": "지상파",
+    "channel": "KBS1",
+    "program": "KBS뉴스7",
+    "rating": 3.3
+   },
+   {
+    "rank": 17,
+    "kind": "지상파",
+    "channel": "MBC",
+    "program": "오은영리포트결혼지옥",
+    "rating": 3.1
+   },
+   {
+    "rank": 18,
+    "kind": "지상파",
+    "channel": "KBS2",
+    "program": "말자쇼",
+    "rating": 3.0
+   },
+   {
+    "rank": 19,
+    "kind": "지상파",
+    "channel": "KBS1",
+    "program": "KBS뉴스930",
+    "rating": 2.9
+   },
+   {
+    "rank": 19,
+    "kind": "지상파",
+    "channel": "SBS",
+    "program": "생활의달인",
+    "rating": 2.9
+   },
+   {
+    "rank": 1,
+    "kind": "종편",
+    "channel": "JTBC",
+    "program": "JTBC뉴스룸",
+    "rating": 3.316
+   },
+   {
+    "rank": 2,
+    "kind": "종편",
+    "channel": "TV CHOSUN",
+    "program": "TV조선뉴스9",
+    "rating": 2.121
+   },
+   {
+    "rank": 3,
+    "kind": "종편",
+    "channel": "채널A",
+    "program": "탐정들의영업비밀",
+    "rating": 2.059
+   },
+   {
+    "rank": 4,
+    "kind": "종편",
+    "channel": "채널A",
+    "program": "뉴스A",
+    "rating": 2.009
+   },
+   {
+    "rank": 5,
+    "kind": "종편",
+    "channel": "채널A",
+    "program": "뉴스TOP10",
+    "rating": 1.895
+   },
+   {
+    "rank": 6,
+    "kind": "종편",
+    "channel": "MBN",
+    "program": "나는자연인이다",
+    "rating": 1.785
+   },
+   {
+    "rank": 7,
+    "kind": "종편",
+    "channel": "JTBC",
+    "program": "사건반장",
+    "rating": 1.771
+   },
+   {
+    "rank": 8,
+    "kind": "종편",
+    "channel": "MBN",
+    "program": "MBN뉴스7",
+    "rating": 1.635
+   },
+   {
+    "rank": 9,
+    "kind": "종편",
+    "channel": "MBN",
+    "program": "THE펀치더펀하고더치열하게",
+    "rating": 1.569
+   },
+   {
+    "rank": 10,
+    "kind": "종편",
+    "channel": "채널A",
+    "program": "김진의돌직구쇼",
+    "rating": 1.424
+   },
+   {
+    "rank": 1,
+    "kind": "케이블",
+    "channel": "tvN",
+    "program": "TVN월화드라마(나의유죄인간 )",
+    "rating": 5.029
+   },
+   {
+    "rank": 2,
+    "kind": "케이블",
+    "channel": "ENA",
+    "program": "연애박사",
+    "rating": 2.809
+   },
+   {
+    "rank": 3,
+    "kind": "케이블",
+    "channel": "tvN",
+    "program": "벌거벗은세계사",
+    "rating": 1.835
+   },
+   {
+    "rank": 4,
+    "kind": "케이블",
+    "channel": "YTN",
+    "program": "뉴스UP",
+    "rating": 1.54
+   },
+   {
+    "rank": 5,
+    "kind": "케이블",
+    "channel": "tvN",
+    "program": "TVN특별기획100일의거짓말",
+    "rating": 1.413
+   },
+   {
+    "rank": 6,
+    "kind": "케이블",
+    "channel": "YTN",
+    "program": "뉴스퀘어2PM",
+    "rating": 1.291
+   },
+   {
+    "rank": 7,
+    "kind": "케이블",
+    "channel": "YTN",
+    "program": "뉴스START3부",
+    "rating": 1.154
+   },
+   {
+    "rank": 8,
+    "kind": "케이블",
+    "channel": "연합뉴스TV",
+    "program": "라이브투데이1부",
+    "rating": 1.069
+   },
+   {
+    "rank": 9,
+    "kind": "케이블",
+    "channel": "MBC every1",
+    "program": "히든아이",
+    "rating": 1.053
+   },
+   {
+    "rank": 10,
+    "kind": "케이블",
+    "channel": "YTN",
+    "program": "뉴스PLUS",
+    "rating": 1.034
+   }
   ]
  },
  "enc": 2,
  "latest": {
   "엄마가미쳤어요": {
-   "rating": 9.9,
-   "date": "2026-10-30",
+   "rating": 10.4,
+   "date": "2026-11-02",
    "channel": "KBS1",
    "program": "KBS1일일드라마(엄마가미쳤어요)",
    "kind": "지상파"
   },
   "인간극장": {
-   "rating": 8.1,
-   "date": "2026-10-30",
+   "rating": 7.1,
+   "date": "2026-11-02",
    "channel": "KBS1",
    "program": "인간극장",
    "kind": "지상파"
   },
   "욕망의덫": {
-   "rating": 6.6,
-   "date": "2026-10-30",
+   "rating": 7.7,
+   "date": "2026-11-02",
    "channel": "KBS2",
    "program": "KBS2일일드라마(욕망의덫)",
    "kind": "지상파"
   },
   "kbs9시뉴스": {
-   "rating": 4.8,
-   "date": "2026-11-01",
+   "rating": 6.8,
+   "date": "2026-11-02",
    "channel": "KBS1",
    "program": "KBS9시뉴스",
    "kind": "지상파"
   },
   "아침마당": {
-   "rating": 5.8,
-   "date": "2026-10-30",
+   "rating": 4.3,
+   "date": "2026-11-02",
    "channel": "KBS1",
    "program": "아침마당",
    "kind": "지상파"
   },
   "6시내고향": {
-   "rating": 5.3,
-   "date": "2026-10-30",
+   "rating": 5.6,
+   "date": "2026-11-02",
    "channel": "KBS1",
    "program": "6시내고향",
    "kind": "지상파"
   },
   "mbc뉴스데스크": {
-   "rating": 3.9,
-   "date": "2026-11-01",
+   "rating": 5.5,
+   "date": "2026-11-02",
    "channel": "MBC",
    "program": "MBC뉴스데스크",
    "kind": "지상파"
   },
   "가족관계증명서": {
-   "rating": 4.6,
-   "date": "2026-10-30",
+   "rating": 5.5,
+   "date": "2026-11-02",
    "channel": "MBC",
    "program": "MBC일일드라마(가족관계증명서)",
    "kind": "지상파"
   },
   "kbs뉴스광장2부": {
-   "rating": 3.6,
-   "date": "2026-10-31",
+   "rating": 4.5,
+   "date": "2026-11-02",
    "channel": "KBS1",
    "program": "KBS뉴스광장2부",
    "kind": "지상파"
   },
   "kbs뉴스930": {
-   "rating": 3.8,
-   "date": "2026-10-30",
+   "rating": 2.9,
+   "date": "2026-11-02",
    "channel": "KBS1",
    "program": "KBS뉴스930",
    "kind": "지상파"
   },
   "kbs뉴스7": {
-   "rating": 3.6,
-   "date": "2026-10-30",
+   "rating": 3.3,
+   "date": "2026-11-02",
    "channel": "KBS1",
    "program": "KBS뉴스7",
    "kind": "지상파"
@@ -1506,14 +1788,14 @@
   },
   "sbs8뉴스": {
    "rating": 3.3,
-   "date": "2026-11-01",
+   "date": "2026-11-02",
    "channel": "SBS",
    "program": "SBS8뉴스",
    "kind": "지상파"
   },
   "2tv생생정보": {
-   "rating": 2.6,
-   "date": "2026-10-30",
+   "rating": 3.8,
+   "date": "2026-11-02",
    "channel": "KBS2",
    "program": "2TV생생정보",
    "kind": "지상파"
@@ -1575,36 +1857,36 @@
    "kind": "종편"
   },
   "jtbc뉴스룸": {
-   "rating": 1.344,
-   "date": "2026-11-01",
+   "rating": 3.316,
+   "date": "2026-11-02",
    "channel": "JTBC",
    "program": "JTBC뉴스룸",
    "kind": "종편"
   },
   "tv조선뉴스9": {
-   "rating": 2.18,
-   "date": "2026-10-30",
+   "rating": 2.121,
+   "date": "2026-11-02",
    "channel": "TV CHOSUN",
    "program": "TV조선뉴스9",
    "kind": "종편"
   },
   "사건반장": {
-   "rating": 1.563,
-   "date": "2026-10-30",
+   "rating": 1.771,
+   "date": "2026-11-02",
    "channel": "JTBC",
    "program": "사건반장",
    "kind": "종편"
   },
   "뉴스a": {
-   "rating": 1.781,
-   "date": "2026-11-01",
+   "rating": 2.009,
+   "date": "2026-11-02",
    "channel": "채널A",
    "program": "뉴스A",
    "kind": "종편"
   },
   "mbn뉴스7": {
-   "rating": 1.877,
-   "date": "2026-10-28",
+   "rating": 1.635,
+   "date": "2026-11-02",
    "channel": "MBN",
    "program": "MBN뉴스7",
    "kind": "종편"
@@ -1617,8 +1899,8 @@
    "kind": "종편"
   },
   "the펀치더펀하고더치열하게": {
-   "rating": 1.547,
-   "date": "2026-10-30",
+   "rating": 1.569,
+   "date": "2026-11-02",
    "channel": "MBN",
    "program": "THE펀치더펀하고더치열하게",
    "kind": "종편"
@@ -1638,22 +1920,22 @@
    "kind": "케이블"
   },
   "뉴스start3부": {
-   "rating": 1.328,
-   "date": "2026-10-28",
+   "rating": 1.154,
+   "date": "2026-11-02",
    "channel": "YTN",
    "program": "뉴스START3부",
    "kind": "케이블"
   },
   "뉴스up": {
-   "rating": 1.305,
-   "date": "2026-10-30",
+   "rating": 1.54,
+   "date": "2026-11-02",
    "channel": "YTN",
    "program": "뉴스UP",
    "kind": "케이블"
   },
   "라이브투데이1부": {
-   "rating": 1.182,
-   "date": "2026-10-30",
+   "rating": 1.069,
+   "date": "2026-11-02",
    "channel": "연합뉴스TV",
    "program": "라이브투데이1부",
    "kind": "케이블"
@@ -1673,10 +1955,10 @@
    "kind": "케이블"
   },
   "나의유죄인간": {
-   "rating": 0.975,
-   "date": "2026-10-28",
+   "rating": 5.029,
+   "date": "2026-11-02",
    "channel": "tvN",
-   "program": "TVN월화드라마(나의유죄인간)",
+   "program": "TVN월화드라마(나의유죄인간 )",
    "kind": "케이블"
   },
   "뉴스start2부": {
@@ -1757,15 +2039,15 @@
    "kind": "종편"
   },
   "뉴스top10": {
-   "rating": 1.459,
-   "date": "2026-11-01",
+   "rating": 1.895,
+   "date": "2026-11-02",
    "channel": "채널A",
    "program": "뉴스TOP10",
    "kind": "종편"
   },
   "김진의돌직구쇼": {
-   "rating": 1.561,
-   "date": "2026-10-29",
+   "rating": 1.424,
+   "date": "2026-11-02",
    "channel": "채널A",
    "program": "김진의돌직구쇼",
    "kind": "종편"
@@ -2037,8 +2319,8 @@
    "kind": "종편"
   },
   "tvn특별기획100일의거짓말": {
-   "rating": 1.519,
-   "date": "2026-11-01",
+   "rating": 1.413,
+   "date": "2026-11-02",
    "channel": "tvN",
    "program": "TVN특별기획100일의거짓말",
    "kind": "케이블"
@@ -2245,7 +2527,105 @@
    "channel": "연합뉴스TV",
    "program": "뉴스오늘3부",
    "kind": "케이블"
+  },
+  "우리들의발라드22부": {
+   "rating": 5.2,
+   "date": "2026-11-02",
+   "channel": "SBS",
+   "program": "우리들의발라드2-2부",
+   "kind": "지상파"
+  },
+  "가요무대": {
+   "rating": 4.7,
+   "date": "2026-11-02",
+   "channel": "KBS1",
+   "program": "가요무대",
+   "kind": "지상파"
+  },
+  "우리말겨루기": {
+   "rating": 4.2,
+   "date": "2026-11-02",
+   "channel": "KBS1",
+   "program": "우리말겨루기",
+   "kind": "지상파"
+  },
+  "우리들의발라드21부": {
+   "rating": 3.9,
+   "date": "2026-11-02",
+   "channel": "SBS",
+   "program": "우리들의발라드2-1부",
+   "kind": "지상파"
+  },
+  "오은영리포트결혼지옥": {
+   "rating": 3.1,
+   "date": "2026-11-02",
+   "channel": "MBC",
+   "program": "오은영리포트결혼지옥",
+   "kind": "지상파"
+  },
+  "말자쇼": {
+   "rating": 3.0,
+   "date": "2026-11-02",
+   "channel": "KBS2",
+   "program": "말자쇼",
+   "kind": "지상파"
+  },
+  "생활의달인": {
+   "rating": 2.9,
+   "date": "2026-11-02",
+   "channel": "SBS",
+   "program": "생활의달인",
+   "kind": "지상파"
+  },
+  "탐정들의영업비밀": {
+   "rating": 2.059,
+   "date": "2026-11-02",
+   "channel": "채널A",
+   "program": "탐정들의영업비밀",
+   "kind": "종편"
+  },
+  "나는자연인이다": {
+   "rating": 1.785,
+   "date": "2026-11-02",
+   "channel": "MBN",
+   "program": "나는자연인이다",
+   "kind": "종편"
+  },
+  "연애박사": {
+   "rating": 2.809,
+   "date": "2026-11-02",
+   "channel": "ENA",
+   "program": "연애박사",
+   "kind": "케이블"
+  },
+  "벌거벗은세계사": {
+   "rating": 1.835,
+   "date": "2026-11-02",
+   "channel": "tvN",
+   "program": "벌거벗은세계사",
+   "kind": "케이블"
+  },
+  "뉴스퀘어2pm": {
+   "rating": 1.291,
+   "date": "2026-11-02",
+   "channel": "YTN",
+   "program": "뉴스퀘어2PM",
+   "kind": "케이블"
+  },
+  "히든아이": {
+   "rating": 1.053,
+   "date": "2026-11-02",
+   "channel": "MBC every1",
+   "program": "히든아이",
+   "kind": "케이블"
+  },
+  "뉴스plus": {
+   "rating": 1.034,
+   "date": "2026-11-02",
+   "channel": "YTN",
+   "program": "뉴스PLUS",
+   "kind": "케이블"
   }
  },
- "updated": "2026-11-03T07:10:40.347499+09:00"
+ "updated": "2026-11-03T08:10:45.896643+09:00"
 }

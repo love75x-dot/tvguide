@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T04:11:03.365972+09:00",
+ "updated": "2026-11-03T05:08:44.733236+09:00",
  "topics": [
   {
    "name": "유산균",
@@ -42,12 +42,18 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 27,
+   "count": 28,
    "angles": [
     "효능",
     "부작용"
    ],
    "items": [
+    {
+     "title": "혈당 모니터링·상담까지… 고혈압·당뇨병 맞춤 관리 , 집 앞 동네의원...",
+     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/03/20261103018002?wlog_tag3=naver",
+     "t": "2026-11-03T05:04:00+09:00",
+     "by": "seoul.co.kr"
+    },
     {
      "title": "48세 이지아 “이래서 살 안찌나?”… 꼭 먹는 ‘이 음식’, 혈당 안정 ...",
      "link": "https://kormedi.com/?p=2892522",
@@ -71,19 +77,13 @@
      "link": "https://www.joongang.co.kr/article/25475016",
      "t": "2026-11-02T15:56:00+09:00",
      "by": "joongang.co.kr"
-    },
-    {
-     "title": "찬 바람 부는 늦가을, 건강검진으로 혈압· 혈당 ·콜레스테롤 점검해야",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622412",
-     "t": "2026-11-02T15:48:00+09:00",
-     "by": "mdtoday.co.kr"
     }
    ]
   },
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 19,
+   "count": 18,
    "angles": [
     "에 좋은",
     "부작용"
@@ -364,7 +364,7 @@
   {
    "name": "코로나",
    "kind": "질환·증상",
-   "count": 8,
+   "count": 7,
    "angles": [
     "효능"
    ],
@@ -814,6 +814,28 @@
    ]
   },
   {
+   "name": "고혈압",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "혈당 모니터링·상담까지… 고혈압·당뇨병 맞춤 관리 , 집 앞 동네의원...",
+     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/03/20261103018002?wlog_tag3=naver",
+     "t": "2026-11-03T05:04:00+09:00",
+     "by": "seoul.co.kr"
+    },
+    {
+     "title": "고혈압 치료 기준 강화… 고위험군 목표 혈압 10mmHg 낮춰",
+     "link": "https://monthly.chosun.com/news/articleView.html?idxno=71861",
+     "t": "2026-11-02T10:00:00+09:00",
+     "by": "monthly.chosun.com"
+    }
+   ]
+  },
+  {
    "name": "생체",
    "kind": "기타",
    "count": 2,
@@ -890,22 +912,6 @@
      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69384",
      "t": "2026-11-01T09:00:00+09:00",
      "by": "hidoc.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "고혈압",
-   "kind": "질환·증상",
-   "count": 1,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "고혈압 치료 기준 강화… 고위험군 목표 혈압 10mmHg 낮춰",
-     "link": "https://monthly.chosun.com/news/articleView.html?idxno=71861",
-     "t": "2026-11-02T10:00:00+09:00",
-     "by": "monthly.chosun.com"
     }
    ]
   },

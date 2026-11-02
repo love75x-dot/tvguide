@@ -704,8 +704,8 @@
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 13
+    "nate_pop": 18,
+    "nate_int": 16
    },
    "count": 1,
    "inrank": true
@@ -822,7 +822,7 @@
     "nate_int": 50
    },
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c20",
@@ -857,7 +857,7 @@
     "nate_int": 40
    },
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c21",
@@ -893,7 +893,7 @@
     "nate_int": 24
    },
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c22",
@@ -964,7 +964,7 @@
     "nate_int": 43
    },
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c24",
@@ -1049,7 +1049,7 @@
     "nate_int": 47
    },
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c26",
@@ -1309,7 +1309,8 @@
     "03:10"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
     "nate_int": 27
@@ -1459,7 +1460,7 @@
     "nate_int": 34
    },
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c38",
@@ -1532,7 +1533,7 @@
     "nate_int": 36
    },
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c40",
@@ -1558,7 +1559,8 @@
     "03:10"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
     "nate_int": 38
@@ -1689,7 +1691,7 @@
     "nate_int": 49
    },
    "count": 1,
-   "inrank": true
+   "inrank": false
   }
  ],
  "snapshots": [

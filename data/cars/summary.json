@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T16:41:06.301328+09:00",
+ "updated": "2026-11-02T17:10:58.262212+09:00",
  "hot": [
   {
    "name": "쏘렌토",
@@ -20,7 +20,19 @@
    "moto": false,
    "why": [
     "가격 인하",
-    "중고차 시세"
+    "출시"
+   ]
+  },
+  {
+   "name": "아반떼",
+   "count": 10,
+   "prev": 18,
+   "rise": -3,
+   "moto": false,
+   "why": [
+    "가격 인하",
+    "중고차 시세",
+    "출시"
    ]
   },
   {
@@ -34,14 +46,14 @@
    ]
   },
   {
-   "name": "아반떼",
-   "count": 9,
-   "prev": 18,
-   "rise": -3,
+   "name": "그랜저",
+   "count": 8,
+   "prev": 1,
+   "rise": -6,
    "moto": false,
    "why": [
     "가격 인하",
-    "중고차 시세"
+    "출시"
    ]
   },
   {
@@ -51,16 +63,6 @@
    "rise": -6,
    "moto": false,
    "why": []
-  },
-  {
-   "name": "그랜저",
-   "count": 7,
-   "prev": 0,
-   "rise": -6,
-   "moto": false,
-   "why": [
-    "가격 인하"
-   ]
   },
   {
    "name": "GV80",
@@ -79,18 +81,20 @@
    "why": []
   },
   {
+   "name": "스포티지",
+   "count": 2,
+   "prev": 0,
+   "rise": -13,
+   "moto": false,
+   "why": [
+    "판매 1위"
+   ]
+  },
+  {
    "name": "투싼",
    "count": 2,
    "prev": 2,
    "rise": -40,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "G90",
-   "count": 2,
-   "prev": 0,
-   "rise": 10,
    "moto": false,
    "why": []
   }
@@ -105,19 +109,19 @@
    "moto": false
   },
   {
+   "name": "아반떼",
+   "status": "out",
+   "date": "2026-11-02",
+   "title": "출시 3개월 만에 아반떼 '가격 백기' 든 현대차, 그랜저·싼타페 옵션 무...",
+   "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=303975",
+   "moto": false
+  },
+  {
    "name": "필랑트",
    "status": "out",
    "date": "2026-11-02",
    "title": "[Car & Now] 르노코리아, 1000대 한정 '필랑트 누아르 에디션' 출시 ·첫차...",
    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1730150",
-   "moto": false
-  },
-  {
-   "name": "아반떼",
-   "status": "tbd",
-   "date": null,
-   "title": "[컨콜] 현대차 “내년 아반떼 HEV·투싼·GV90 등 신차 대거 출시 ”",
-   "link": "https://www.etoday.co.kr/news/view/2641818",
    "moto": false
   }
  ]

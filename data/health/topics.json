@@ -1,15 +1,21 @@
 {
- "updated": "2026-11-02T16:41:06.301328+09:00",
+ "updated": "2026-11-02T17:10:58.262212+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 26,
+   "count": 27,
    "angles": [
     "효능",
     "부작용"
    ],
    "items": [
+    {
+     "title": "영남이공대, 혈압· 혈당 측정부터 구강 관리 까지 주민 봉사",
+     "link": "https://www.joongang.co.kr/article/25475044",
+     "t": "2026-11-02T16:45:00+09:00",
+     "by": "joongang.co.kr"
+    },
     {
      "title": "“이틀 연속 사 먹었다” 일본인 사이 난리라는 초코 츄러스… 혈당 주...",
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/02/2026110202025.html",
@@ -33,12 +39,6 @@
      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081024",
      "t": "2026-11-02T14:04:00+09:00",
      "by": "newsclaim.co.kr"
-    },
-    {
-     "title": "“식후 혈당 줄어드는 효과 ” 앉아서 남몰래 하는 ‘가자미근 운동 ’",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/02/2026110201449.html",
-     "t": "2026-11-02T13:08:00+09:00",
-     "by": "health.chosun.com"
     }
    ]
   },
@@ -162,6 +162,47 @@
    ]
   },
   {
+   "name": "혈압",
+   "kind": "질환·증상",
+   "count": 11,
+   "angles": [
+    "부작용",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "영남이공대, 혈압· 혈당 측정부터 구강 관리 까지 주민 봉사",
+     "link": "https://www.joongang.co.kr/article/25475044",
+     "t": "2026-11-02T16:45:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "찬 바람 부는 늦가을, 건강검진으로 혈압· 혈당 ·콜레스테롤 점검해야",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622412",
+     "t": "2026-11-02T15:48:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "[의학칼럼]고 혈압 , 콩팥 기능 위협한다… 두 질환 함께 관리해야",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/02/2026110201744.html",
+     "t": "2026-11-02T14:29:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "스마트폰으로 달라진 '혈압· 혈당 관리 '... \"고령 부모님도 쓸 수 있을까...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69537",
+     "t": "2026-11-02T13:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "추위에 혈관 수축‧ 혈압 상승… 무리한 달리기, 심혈관질환 위험 높여",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59739",
+     "t": "2026-11-02T11:26:00+09:00",
+     "by": "koreahealthlog.com"
+    }
+   ]
+  },
+  {
    "name": "감기",
    "kind": "질환·증상",
    "count": 10,
@@ -279,47 +320,6 @@
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622147",
      "t": "2026-10-31T14:38:00+09:00",
      "by": "mdtoday.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "혈압",
-   "kind": "질환·증상",
-   "count": 10,
-   "angles": [
-    "부작용",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "찬 바람 부는 늦가을, 건강검진으로 혈압· 혈당 ·콜레스테롤 점검해야",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622412",
-     "t": "2026-11-02T15:48:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "[의학칼럼]고 혈압 , 콩팥 기능 위협한다… 두 질환 함께 관리해야",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/02/2026110201744.html",
-     "t": "2026-11-02T14:29:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "스마트폰으로 달라진 '혈압· 혈당 관리 '... \"고령 부모님도 쓸 수 있을까...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69537",
-     "t": "2026-11-02T13:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "추위에 혈관 수축‧ 혈압 상승… 무리한 달리기, 심혈관질환 위험 높여",
-     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59739",
-     "t": "2026-11-02T11:26:00+09:00",
-     "by": "koreahealthlog.com"
-    },
-    {
-     "title": "충북보건과학대 간호학과, 내수읍서 건강상담 봉사… 혈압· 혈당 측정 ...",
-     "link": "https://news.unn.net/news/articleView.html?idxno=599730",
-     "t": "2026-11-02T11:18:00+09:00",
-     "by": "unn.net"
     }
    ]
   },
@@ -489,11 +489,17 @@
   {
    "name": "결핵",
    "kind": "질환·증상",
-   "count": 5,
+   "count": 6,
    "angles": [
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "부산대병원, 결핵 8회·만성폐쇄성폐 질환 11회 연속 '진료 1등급'",
+     "link": "https://www.news1.kr/local/busan-gyeongnam/6340302",
+     "t": "2026-11-02T16:57:00+09:00",
+     "by": "news1.kr"
+    },
     {
      "title": "인제대 해운대백병원, 결핵·만성폐쇄성폐 질환 평가 모두 1등급",
      "link": "https://kormedi.com/?p=2896726",
@@ -517,12 +523,6 @@
      "link": "http://www.gndomin.com/news/articleView.html?idxno=494933",
      "t": "2026-11-01T16:48:00+09:00",
      "by": "gndomin.com"
-    },
-    {
-     "title": "결핵·만성폐질환 평가 8·9회 연속 1등급… 포항세명기독병원, 호흡기...",
-     "link": "https://www.eroun.net/news/articleView.html?idxno=93930",
-     "t": "2026-10-30T18:20:00+09:00",
-     "by": "eroun.net"
     }
    ]
   },
@@ -641,6 +641,38 @@
    ]
   },
   {
+   "name": "수면",
+   "kind": "운동·생활",
+   "count": 4,
+   "angles": [],
+   "items": [
+    {
+     "title": "수면과다...당뇨성 신질환 악화시켜...",
+     "link": "http://www.whosaeng.com/174979",
+     "t": "2026-11-02T16:42:00+09:00",
+     "by": "whosaeng.com"
+    },
+    {
+     "title": "“수면 컨설팅에 할인까지”…가누다·까르마, 판교 현대백화점서 팝업",
+     "link": "http://www.segyebiz.com/newsView/20261102512922?OutUrl=naver",
+     "t": "2026-11-02T15:22:00+09:00",
+     "by": "segyebiz.com"
+    },
+    {
+     "title": "불면증·강박증·불안장애 증상 증가세…수면과 불안 조절 기능 함께 치...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622310",
+     "t": "2026-11-02T11:58:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "수면 호르몬 멜라토닌의 뜻밖의 발견… ‘배고픔 호르몬’도 억제했다",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/02/2026110200893.html",
+     "t": "2026-11-02T10:12:00+09:00",
+     "by": "health.chosun.com"
+    }
+   ]
+  },
+  {
    "name": "폐렴",
    "kind": "질환·증상",
    "count": 4,
@@ -754,32 +786,6 @@
      "link": "https://kormedi.com/?p=2895085",
      "t": "2026-10-31T22:06:00+09:00",
      "by": "kormedi.com"
-    }
-   ]
-  },
-  {
-   "name": "수면",
-   "kind": "운동·생활",
-   "count": 3,
-   "angles": [],
-   "items": [
-    {
-     "title": "“수면 컨설팅에 할인까지”…가누다·까르마, 판교 현대백화점서 팝업",
-     "link": "http://www.segyebiz.com/newsView/20261102512922?OutUrl=naver",
-     "t": "2026-11-02T15:22:00+09:00",
-     "by": "segyebiz.com"
-    },
-    {
-     "title": "불면증·강박증·불안장애 증상 증가세…수면과 불안 조절 기능 함께 치...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622310",
-     "t": "2026-11-02T11:58:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "수면 호르몬 멜라토닌의 뜻밖의 발견… ‘배고픔 호르몬’도 억제했다",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/02/2026110200893.html",
-     "t": "2026-11-02T10:12:00+09:00",
-     "by": "health.chosun.com"
     }
    ]
   },

@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T22:10:57.170006+09:00",
+ "updated": "2026-11-03T23:08:46.844287+09:00",
  "car": [
   {
    "name": "현대차",
-   "count": 71,
+   "count": 70,
    "items": [
     {
      "title": "현대차 제네시스, 생산 라인 재가동…노동 투입량 협의",
@@ -38,8 +38,44 @@
    ]
   },
   {
+   "name": "자율주행",
+   "count": 32,
+   "items": [
+    {
+     "title": "대구 동성로 자율주행 셔틀 7일부터 무료 운행…최대 8명 탑승",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=06858486645642112&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-03T22:31:00+09:00",
+     "by": "edaily.co.kr"
+    },
+    {
+     "title": "日, 운전대·페달 없는 자율주행 차 양산 길 연다… 12월 안전기준 개정",
+     "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000177",
+     "t": "2026-11-03T22:26:00+09:00",
+     "by": "it.chosun.com"
+    },
+    {
+     "title": "전국 고교생·대학생 370명 ‘한판 대결’…한라대 자율주행 경진대회",
+     "link": "https://www.kukinews.com/article/view/kuk202611030219",
+     "t": "2026-11-03T21:52:00+09:00",
+     "by": "kukinews.com"
+    },
+    {
+     "title": "추경호 시장 ' 자율주행 셔틀' 시승",
+     "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=564330",
+     "t": "2026-11-03T21:44:00+09:00",
+     "by": "idaegu.co.kr"
+    },
+    {
+     "title": "대구시, 7일부터 내달 말까지 동성로 자율주행 셔틀 무료 운행",
+     "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=564300",
+     "t": "2026-11-03T21:34:00+09:00",
+     "by": "idaegu.co.kr"
+    }
+   ]
+  },
+  {
    "name": "전기차",
-   "count": 39,
+   "count": 36,
    "items": [
     {
      "title": "\"농업용 전기차 전환, LPG 트럭 '징검다리'로\"",
@@ -70,42 +106,6 @@
      "link": "https://www.fnnews.com/news/202611031812555317",
      "t": "2026-11-03T18:14:00+09:00",
      "by": "fnnews.com"
-    }
-   ]
-  },
-  {
-   "name": "자율주행",
-   "count": 30,
-   "items": [
-    {
-     "title": "전국 고교생·대학생 370명 ‘한판 대결’…한라대 자율주행 경진대회",
-     "link": "https://www.kukinews.com/article/view/kuk202611030219",
-     "t": "2026-11-03T21:52:00+09:00",
-     "by": "kukinews.com"
-    },
-    {
-     "title": "추경호 시장 ' 자율주행 셔틀' 시승",
-     "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=564330",
-     "t": "2026-11-03T21:44:00+09:00",
-     "by": "idaegu.co.kr"
-    },
-    {
-     "title": "대구시, 7일부터 내달 말까지 동성로 자율주행 셔틀 무료 운행",
-     "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=564300",
-     "t": "2026-11-03T21:34:00+09:00",
-     "by": "idaegu.co.kr"
-    },
-    {
-     "title": "현대차 “당분간 외부 AI 사용마라”…해킹 우려에 '자율주행·로봇' 핵...",
-     "link": "https://www.etnews.com/20261103000455",
-     "t": "2026-11-03T21:15:00+09:00",
-     "by": "etnews.com"
-    },
-    {
-     "title": "대구시, 동성로 자율주행 셔틀 운행…도심 5개 정류장 무료 순환",
-     "link": "https://www.bzeronews.com/news/articleView.html?idxno=824771",
-     "t": "2026-11-03T20:48:00+09:00",
-     "by": "bzeronews.com"
     }
    ]
   },
@@ -147,8 +147,20 @@
   },
   {
    "name": "로봇",
-   "count": 22,
+   "count": 23,
    "items": [
+    {
+     "title": "[인터뷰] 김동진 제이엠로보틱스 대표 \"경기도 화성에 휴머노이드 로봇...",
+     "link": "https://www.irobotnews.com/news/articleView.html?idxno=49369",
+     "t": "2026-11-03T22:32:00+09:00",
+     "by": "irobotnews.com"
+    },
+    {
+     "title": "'로봇 연계 활성화' 화성市...\"제조업의 AI 전환 주도\"",
+     "link": "https://www.irobotnews.com/news/articleView.html?idxno=49368",
+     "t": "2026-11-03T22:20:00+09:00",
+     "by": "irobotnews.com"
+    },
     {
      "title": "현대차 “당분간 외부 AI 사용마라”…해킹 우려에 '자율주행·로봇' 핵...",
      "link": "https://www.etnews.com/20261103000455",
@@ -166,54 +178,42 @@
      "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/03/2026110380204.html",
      "t": "2026-11-03T20:20:00+09:00",
      "by": "digitalchosun.dizzo.com"
-    },
-    {
-     "title": "신성델타테크 ‘AI 홈 로봇’ 시장 공략",
-     "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1554296",
-     "t": "2026-11-03T19:00:00+09:00",
-     "by": "knnews.co.kr"
-    },
-    {
-     "title": "로봇의 눈, 최대 5배 빨라졌다…펜실베이니아대, 초당 440회 시각 정보 ...",
-     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42568",
-     "t": "2026-11-03T18:40:00+09:00",
-     "by": "aitimes.kr"
     }
    ]
   },
   {
-   "name": "LG에너지솔루션",
-   "count": 17,
+   "name": "MARS",
+   "count": 16,
    "items": [
     {
-     "title": "‘ESS 대박’ LG에너지솔루션, 3분기 9조6천억 ‘매출 신기록’",
-     "link": "https://www.khan.co.kr/article/202611032045015",
-     "t": "2026-11-03T20:45:00+09:00",
-     "by": "khan.co.kr"
+     "title": "화성특례시, MARS 얼라이언스서 AI 실증·사업화 협력 선언",
+     "link": "http://www.newstown.co.kr/news/articleView.html?idxno=720660",
+     "t": "2026-11-03T22:40:00+09:00",
+     "by": "newstown.co.kr"
     },
     {
-     "title": "LG에너지솔루션, 3Q 매출 9조6434억원···ESS·EV 성장에 전년比 59%↑",
-     "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=408016",
-     "t": "2026-11-03T19:26:00+09:00",
-     "by": "todaykorea.co.kr"
+     "title": "화성시, AI 비전 '실행' 선언…'MARS 2026' 개막",
+     "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=67004",
+     "t": "2026-11-03T21:56:00+09:00",
+     "by": "newsroad.co.kr"
     },
     {
-     "title": "LG에너지솔루션 3분기 매출 9조6천434억 원·영업이익 7천560억 원 달성",
-     "link": "https://www.inews365.com/news/article.html?no=942050",
-     "t": "2026-11-03T17:42:00+09:00",
-     "by": "inews365.com"
+     "title": "[경기] 로봇과 AI가 바꿀 미래는?...화성 'MARS 2026' 개막",
+     "link": "https://www.ytn.co.kr/_ln/0115_202611032109040932",
+     "t": "2026-11-03T21:09:00+09:00",
+     "by": "ytn.co.kr"
     },
     {
-     "title": "LG에너지솔루션, 3분기 영업이익 7560억원…전년비 25.7% 증가",
-     "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324680",
-     "t": "2026-11-03T17:32:00+09:00",
-     "by": "pointdaily.co.kr"
+     "title": "‘현실이 된 AI시티 화성’…글로벌 AI 엑스포 「MARS 2026」 개막",
+     "link": "https://www.suwonilbo.kr/view.html?id=L2611032028233337",
+     "t": "2026-11-03T20:42:00+09:00",
+     "by": "suwonilbo.kr"
     },
     {
-     "title": "LG에너지솔루션, ESS 앞세워 3Q 매출 9.6조… 영업이익 7560억 기록",
-     "link": "https://www.mediawatch.kr/news/article.html?no=261600",
-     "t": "2026-11-03T17:24:00+09:00",
-     "by": "mediawatch.kr"
+     "title": "코엑스, 미래도시가 되다...화성시 주최 AI 엑스포 'MARS 2026' 개막",
+     "link": "https://www.ppss.kr/news/articleView.html?idxno=318824",
+     "t": "2026-11-03T19:59:00+09:00",
+     "by": "ppss.kr"
     }
    ]
   }

@@ -18,20 +18,21 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 1,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
+    "nate_pop": 9,
     "nate_int": 6
    },
    "count": 1,
@@ -54,21 +55,22 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 2,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 5
+    "nate_pop": 4,
+    "nate_int": 4
    },
    "count": 1,
    "inrank": true
@@ -90,13 +92,14 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 1,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
@@ -147,20 +150,21 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 4,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
+    "nate_pop": 25,
     "nate_int": 15
    },
    "count": 4,
@@ -197,21 +201,22 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 3,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 3
+    "nate_pop": 6,
+    "nate_int": 5
    },
    "count": 3,
    "inrank": true
@@ -233,21 +238,22 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 6,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 10
+    "nate_pop": 11,
+    "nate_int": 11
    },
    "count": 1,
    "inrank": true
@@ -283,21 +289,22 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 8,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 36
+    "nate_pop": 29,
+    "nate_int": 27
    },
    "count": 3,
    "inrank": true
@@ -319,21 +326,22 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 7,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 16
+    "nate_pop": 16,
+    "nate_int": 19
    },
    "count": 1,
    "inrank": true
@@ -367,11 +375,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 38
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c10",
@@ -390,21 +396,22 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 11,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 22
+    "nate_pop": 27,
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -426,13 +433,14 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 6,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
@@ -440,7 +448,7 @@
    ],
    "now": {
     "nate_pop": 7,
-    "nate_int": 8
+    "nate_int": 7
    },
    "count": 1,
    "inrank": true
@@ -462,21 +470,21 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 13,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 30
+    "nate_pop": 20
    },
    "count": 1,
    "inrank": true
@@ -505,21 +513,22 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 10,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 12
+    "nate_pop": 15,
+    "nate_int": 13
    },
    "count": 2,
    "inrank": true
@@ -541,21 +550,22 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 17,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 19
+    "nate_pop": 26,
+    "nate_int": 24
    },
    "count": 1,
    "inrank": true
@@ -584,13 +594,14 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 14,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
@@ -598,7 +609,7 @@
    ],
    "now": {
     "nate_pop": 17,
-    "nate_int": 17
+    "nate_int": 16
    },
    "count": 2,
    "inrank": true
@@ -620,20 +631,21 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 6,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
+    "nate_pop": 8,
     "nate_int": 9
    },
    "count": 1,
@@ -656,20 +668,21 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 18,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
+    "nate_pop": 19,
     "nate_int": 18
    },
    "count": 1,
@@ -704,11 +717,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 26
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c19",
@@ -727,13 +738,14 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 12,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
@@ -741,7 +753,7 @@
    ],
    "now": {
     "nate_pop": 12,
-    "nate_int": 14
+    "nate_int": 12
    },
    "count": 1,
    "inrank": true
@@ -826,21 +838,22 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
-   "best": 22,
+   "last": "03:08",
+   "best": 18,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 23
+    "nate_pop": 18,
+    "nate_int": 21
    },
    "count": 1,
    "inrank": true
@@ -862,21 +875,22 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
-   "best": 21,
+   "last": "03:08",
+   "best": 17,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 26,
-    "nate_int": 21
+    "nate_pop": 23,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -984,11 +998,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 39
-   },
+   "now": {},
    "count": 3,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c27",
@@ -1019,11 +1031,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 31
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c28",
@@ -1042,21 +1052,22 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
-   "best": 4,
+   "last": "03:08",
+   "best": 3,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 7
+    "nate_pop": 3,
+    "nate_int": 3
    },
    "count": 1,
    "inrank": true
@@ -1078,13 +1089,14 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 13,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_int",
@@ -1092,7 +1104,7 @@
    ],
    "now": {
     "nate_pop": 13,
-    "nate_int": 20
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -1121,21 +1133,22 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 22,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 28
+    "nate_pop": 30,
+    "nate_int": 25
    },
    "count": 2,
    "inrank": true
@@ -1285,11 +1298,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 46
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c36",
@@ -1319,11 +1330,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 41
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c37",
@@ -1400,21 +1409,22 @@
     }
    ],
    "first": "00:10",
-   "last": "02:42",
-   "best": 25,
+   "last": "03:08",
+   "best": 24,
    "hours": [
     "00:10",
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 25
+    "nate_pop": 24,
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -1447,11 +1457,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 40
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c41",
@@ -1481,11 +1489,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 35
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c42",
@@ -1504,12 +1510,13 @@
     }
    ],
    "first": "01:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 1,
    "hours": [
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
@@ -1539,20 +1546,21 @@
     }
    ],
    "first": "01:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 4,
    "hours": [
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 4
+    "nate_pop": 5,
+    "nate_int": 8
    },
    "count": 1,
    "inrank": true
@@ -1574,12 +1582,13 @@
     }
    ],
    "first": "01:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 10,
    "hours": [
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
@@ -1587,7 +1596,7 @@
    ],
    "now": {
     "nate_pop": 10,
-    "nate_int": 11
+    "nate_int": 10
    },
    "count": 1,
    "inrank": true
@@ -1609,20 +1618,21 @@
     }
    ],
    "first": "01:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 13,
    "hours": [
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 13
+    "nate_pop": 14,
+    "nate_int": 20
    },
    "count": 1,
    "inrank": true
@@ -1654,11 +1664,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 32
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c47",
@@ -1684,12 +1692,13 @@
     }
    ],
    "first": "01:10",
-   "last": "02:42",
+   "last": "03:08",
    "best": 22,
    "hours": [
     "01:10",
     "02:10",
-    "02:42"
+    "02:42",
+    "03:08"
    ],
    "srcs": [
     "nate_int",
@@ -1697,7 +1706,7 @@
    ],
    "now": {
     "nate_pop": 22,
-    "nate_int": 24
+    "nate_int": 22
    },
    "count": 2,
    "inrank": true
@@ -1729,11 +1738,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 48
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c49",
@@ -1790,11 +1797,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 47
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c51",
@@ -1851,11 +1856,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 45
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c53",
@@ -1882,11 +1885,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 50
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   }
  ],
  "snapshots": [
@@ -1921,9 +1922,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "03:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 60
   }
  ],
- "updated": "2026-11-04T02:42:54.821719+09:00",
+ "updated": "2026-11-04T03:08:39.317997+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

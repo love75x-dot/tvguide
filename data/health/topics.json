@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T18:28:32.462986+09:00",
+ "updated": "2026-11-03T19:08:35.659707+09:00",
  "topics": [
   {
    "name": "유산균",
@@ -127,11 +127,17 @@
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 22,
+   "count": 23,
    "angles": [
     "부작용"
    ],
    "items": [
+    {
+     "title": "뱃살 속 내장지방, 왜 몸에 해로울까?…딱딱하게 만드는 단백질 찾았다",
+     "link": "https://www.sportschosun.com/life/2026-11-03/202611030100022210002247",
+     "t": "2026-11-03T18:40:00+09:00",
+     "by": "sportschosun.com"
+    },
     {
      "title": "설거지 귀찮은 2030…물만 붓는 단백질에 지갑 연다",
      "link": "https://www.hankyung.com/article/202611033577g",
@@ -155,12 +161,6 @@
      "link": "https://www.lawissue.co.kr/view.php?ud=202611031435115976f4ab64559d_12",
      "t": "2026-11-03T14:38:00+09:00",
      "by": "lawissue.co.kr"
-    },
-    {
-     "title": "분당서울대병원, 내장지방 염증·섬유화 관여 단백질 ‘THBS1’ 규명",
-     "link": "https://www.medigatenews.com/news/2005505719",
-     "t": "2026-11-03T14:14:00+09:00",
-     "by": "medigatenews.com"
     }
    ]
   },
@@ -770,46 +770,6 @@
    ]
   },
   {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "독감 ·코로나·백일해까지⋯한 번 검사로 호흡기 병원체 19종 확인",
-     "link": "https://kormedi.com/?p=2897406",
-     "t": "2026-11-03T11:34:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "독감 ·코로나·감기 바이러스까지, 환절기 몸살 감기주의보 / 원인은 하...",
-     "link": "http://topclass.chosun.com/news/articleView.html?idxno=37024",
-     "t": "2026-11-03T10:06:00+09:00",
-     "by": "topclass.chosun.com"
-    },
-    {
-     "title": "'콜록콜록' 지하철 타기 두렵다...' 독감 ·코로나19' 동시 유행",
-     "link": "https://www.newstree.kr/newsView/ntr202611020005",
-     "t": "2026-11-02T10:40:00+09:00",
-     "by": "newstree.kr"
-    },
-    {
-     "title": "코로나 백신 맞으면 암 걸린다?…3600만명 분석했더니 '뜻밖의 결과'",
-     "link": "https://www.insight.co.kr/news/580075",
-     "t": "2026-11-01T09:04:00+09:00",
-     "by": "insight.co.kr"
-    },
-    {
-     "title": "\"코로나 백신 맞으면 암 걸린다?\"…3600만명 분석한 결과 '깜짝'",
-     "link": "https://view.asiae.co.kr/article/2026103118024312696",
-     "t": "2026-10-31T18:31:00+09:00",
-     "by": "view.asiae.co.kr"
-    }
-   ]
-  },
-  {
    "name": "대장암",
    "kind": "질환·증상",
    "count": 4,
@@ -875,6 +835,40 @@
      "link": "https://www.newsis.com/view/NISX20261031_0003849331",
      "t": "2026-10-31T21:11:00+09:00",
      "by": "newsis.com"
+    }
+   ]
+  },
+  {
+   "name": "코로나",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "독감 ·코로나·백일해까지⋯한 번 검사로 호흡기 병원체 19종 확인",
+     "link": "https://kormedi.com/?p=2897406",
+     "t": "2026-11-03T11:34:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "독감 ·코로나·감기 바이러스까지, 환절기 몸살 감기주의보 / 원인은 하...",
+     "link": "http://topclass.chosun.com/news/articleView.html?idxno=37024",
+     "t": "2026-11-03T10:06:00+09:00",
+     "by": "topclass.chosun.com"
+    },
+    {
+     "title": "'콜록콜록' 지하철 타기 두렵다...' 독감 ·코로나19' 동시 유행",
+     "link": "https://www.newstree.kr/newsView/ntr202611020005",
+     "t": "2026-11-02T10:40:00+09:00",
+     "by": "newstree.kr"
+    },
+    {
+     "title": "코로나 백신 맞으면 암 걸린다?…3600만명 분석했더니 '뜻밖의 결과'",
+     "link": "https://www.insight.co.kr/news/580075",
+     "t": "2026-11-01T09:04:00+09:00",
+     "by": "insight.co.kr"
     }
    ]
   },

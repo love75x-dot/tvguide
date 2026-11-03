@@ -86,11 +86,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 42
-   },
+   "now": {},
    "count": 7,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c2",
@@ -137,7 +135,7 @@
     }
    ],
    "first": "00:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 2,
    "hours": [
     "00:08",
@@ -157,15 +155,15 @@
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 32
+    "nate_int": 41
    },
    "count": 5,
    "inrank": true
@@ -218,14 +216,18 @@
     "탑♥나나, 이제 숨기지도 않는다…열애 인정 한 달 만에 데이트 포착",
     "탑, 사과 하루만에…팬들 앞에서 나나와 공개 데이트 [스타이슈]",
     "탑, 20년 팬덤 손절 사과 하루 만에…열애 ♥나나와 팬들이 선물한 '생일카...",
-    "탑♥나나, 열애 인정 한 달 만에 '생일 카페 데이트' 포착"
+    "탑♥나나, 열애 인정 한 달 만에 '생일 카페 데이트' 포착",
+    "배나라·한재아, 열애 인정 10개월 만에 14일 결혼…\"평생 함께\"",
+    "[단독] 배나라♥한재아, 11월 14일 결혼…옥수동 성당서 혼배미사"
    ],
    "links": [
     "https://news.nate.com/view/20261102n35945",
     "https://news.nate.com/view/20261102n37183",
     "https://news.nate.com/view/20261103n02302",
     "https://news.nate.com/view/20261103n02404",
-    "https://news.nate.com/view/20261103n12968"
+    "https://news.nate.com/view/20261103n12968",
+    "https://news.nate.com/view/20261103n27803",
+    "https://news.nate.com/view/20261103n16652"
    ],
    "articles": [
     {
@@ -252,10 +254,20 @@
      "title": "탑♥나나, 열애 인정 한 달 만에 '생일 카페 데이트' 포착",
      "link": "https://news.nate.com/view/20261103n12968",
      "media": "뉴스1"
+    },
+    {
+     "title": "배나라·한재아, 열애 인정 10개월 만에 14일 결혼…\"평생 함께\"",
+     "link": "https://news.nate.com/view/20261103n27803",
+     "media": "스포츠동아"
+    },
+    {
+     "title": "[단독] 배나라♥한재아, 11월 14일 결혼…옥수동 성당서 혼배미사",
+     "link": "https://news.nate.com/view/20261103n16652",
+     "media": "YTN"
     }
    ],
    "first": "00:08",
-   "last": "14:10",
+   "last": "17:08",
    "best": 3,
    "hours": [
     "00:08",
@@ -273,15 +285,19 @@
     "11:08",
     "12:08",
     "13:10",
-    "14:10"
+    "14:10",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 5,
-   "inrank": false
+   "now": {
+    "nate_pop": 3,
+    "nate_int": 8
+   },
+   "count": 7,
+   "inrank": true
   },
   {
    "id": "c5",
@@ -578,7 +594,7 @@
     }
    ],
    "first": "00:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -598,15 +614,16 @@
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 6
+    "nate_pop": 12,
+    "nate_int": 7
    },
    "count": 13,
    "inrank": true
@@ -787,7 +804,7 @@
     }
    ],
    "first": "00:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 7,
    "hours": [
     "00:08",
@@ -807,14 +824,14 @@
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
     "nate_int": 20
    },
    "count": 2,
@@ -901,11 +918,13 @@
    "title": "박세리, 40세 골프선수 은퇴 후 \"월급 주고 세금 내느라 힘들어\" (남겨서 ...",
    "titles": [
     "박세리, 40세 골프선수 은퇴 후 \"월급 주고 세금 내느라 힘들어\" (남겨서 ...",
-    "박세리, 은퇴 후 현실 고충…\"직원 월급·세금에 아쉬운 소리까지\" [남겨서..."
+    "박세리, 은퇴 후 현실 고충…\"직원 월급·세금에 아쉬운 소리까지\" [남겨서...",
+    "'청룡 핸드프린팅' 손예진, ♥현빈과 현실 부부 케미 \"'하얼빈' 고충 알지..."
    ],
    "links": [
     "https://news.nate.com/view/20261102n36737",
-    "https://news.nate.com/view/20261102n36487"
+    "https://news.nate.com/view/20261102n36487",
+    "https://news.nate.com/view/20261103n22258"
    ],
    "articles": [
     {
@@ -917,10 +936,15 @@
      "title": "박세리, 은퇴 후 현실 고충…\"직원 월급·세금에 아쉬운 소리까지\" [남겨서...",
      "link": "https://news.nate.com/view/20261102n36487",
      "media": "스타뉴스"
+    },
+    {
+     "title": "'청룡 핸드프린팅' 손예진, ♥현빈과 현실 부부 케미 \"'하얼빈' 고충 알지...",
+     "link": "https://news.nate.com/view/20261103n22258",
+     "media": "헤럴드뮤즈"
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "17:08",
    "best": 11,
    "hours": [
     "00:08",
@@ -931,15 +955,18 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:10"
+    "08:10",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 2,
-   "inrank": false
+   "now": {
+    "nate_int": 47
+   },
+   "count": 3,
+   "inrank": true
   },
   {
    "id": "c16",
@@ -1012,7 +1039,7 @@
     }
    ],
    "first": "00:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 3,
    "hours": [
     "00:08",
@@ -1021,15 +1048,16 @@
     "03:10",
     "06:10",
     "07:10",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 3
+    "nate_pop": 5,
+    "nate_int": 4
    },
    "count": 3,
    "inrank": true
@@ -1090,7 +1118,8 @@
     "차예련 학폭 폭로글 돌연 사라졌다…'사실무근' 부인 이후 무슨 일?",
     "차예련 이어 또 학폭 논란…인천 출신 발라더, \"중학교 때부터 담배→...",
     "[뮤즈이슈]차예련 학폭 부인 갑론을박 속 최초 폭로글 사라졌다…임시 조치...",
-    "'학폭 부인' 차예련, \"사람 따라 태도 돌변\" 골프장 폭로글까지 등장 [엑'..."
+    "'학폭 부인' 차예련, \"사람 따라 태도 돌변\" 골프장 폭로글까지 등장 [엑'...",
+    "\"주상욱, 차예련 성격 모르나? 기괴, 소름\"…학폭 이어 골프장 캐디 발..."
    ],
    "links": [
     "https://news.nate.com/view/20261102n01596",
@@ -1100,7 +1129,8 @@
     "https://news.nate.com/view/20261103n02553",
     "https://news.nate.com/view/20261103n13610",
     "https://news.nate.com/view/20261103n11513",
-    "https://news.nate.com/view/20261103n20008"
+    "https://news.nate.com/view/20261103n20008",
+    "https://news.nate.com/view/20261103n27929"
    ],
    "articles": [
     {
@@ -1142,10 +1172,15 @@
      "title": "'학폭 부인' 차예련, \"사람 따라 태도 돌변\" 골프장 폭로글까지 등장 [엑'...",
      "link": "https://news.nate.com/view/20261103n20008",
      "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "\"주상욱, 차예련 성격 모르나? 기괴, 소름\"…학폭 이어 골프장 캐디 발...",
+     "link": "https://news.nate.com/view/20261103n27929",
+     "media": "스타뉴스"
     }
    ],
    "first": "00:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -1158,17 +1193,18 @@
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 5
+    "nate_pop": 2,
+    "nate_int": 2
    },
-   "count": 8,
+   "count": 9,
    "inrank": true
   },
   {
@@ -1312,7 +1348,7 @@
     }
    ],
    "first": "00:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 2,
    "hours": [
     "00:08",
@@ -1322,15 +1358,15 @@
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 27
+    "nate_int": 31
    },
    "count": 2,
    "inrank": true
@@ -1449,7 +1485,7 @@
     }
    ],
    "first": "00:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 21,
    "hours": [
     "00:08",
@@ -1457,15 +1493,16 @@
     "02:08",
     "03:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 30
+    "nate_pop": 24,
+    "nate_int": 36
    },
    "count": 3,
    "inrank": true
@@ -1853,11 +1890,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 38
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c36",
@@ -2658,7 +2693,7 @@
     }
    ],
    "first": "08:10",
-   "last": "16:08",
+   "last": "17:08",
    "best": 4,
    "hours": [
     "08:10",
@@ -2670,14 +2705,15 @@
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 26
+    "nate_int": 30
    },
    "count": 1,
    "inrank": true
@@ -3014,7 +3050,7 @@
     }
    ],
    "first": "09:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 21,
    "hours": [
     "09:08",
@@ -3025,14 +3061,15 @@
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 35
+    "nate_int": 40
    },
    "count": 2,
    "inrank": true
@@ -3061,7 +3098,7 @@
     }
    ],
    "first": "10:10",
-   "last": "16:08",
+   "last": "17:08",
    "best": 3,
    "hours": [
     "10:10",
@@ -3071,15 +3108,16 @@
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 19
+    "nate_pop": 30,
+    "nate_int": 18
    },
    "count": 2,
    "inrank": true
@@ -3101,7 +3139,7 @@
     }
    ],
    "first": "10:10",
-   "last": "16:08",
+   "last": "17:08",
    "best": 15,
    "hours": [
     "10:10",
@@ -3111,15 +3149,16 @@
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 18
+    "nate_pop": 25,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -3141,7 +3180,7 @@
     }
    ],
    "first": "10:10",
-   "last": "16:08",
+   "last": "17:08",
    "best": 1,
    "hours": [
     "10:10",
@@ -3151,15 +3190,16 @@
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 13
+    "nate_pop": 23,
+    "nate_int": 15
    },
    "count": 1,
    "inrank": true
@@ -3547,11 +3587,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 34
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c84",
@@ -3584,22 +3622,22 @@
     }
    ],
    "first": "12:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 3,
    "hours": [
     "12:08",
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 16
+    "nate_int": 19
    },
    "count": 3,
    "inrank": true
@@ -3621,22 +3659,23 @@
     }
    ],
    "first": "12:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 7,
    "hours": [
     "12:08",
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 9
+    "nate_pop": 20,
+    "nate_int": 13
    },
    "count": 1,
    "inrank": true
@@ -3689,22 +3728,23 @@
     }
    ],
    "first": "12:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 9,
    "hours": [
     "12:08",
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 15
+    "nate_pop": 15,
+    "nate_int": 16
    },
    "count": 1,
    "inrank": true
@@ -3769,12 +3809,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 12,
-    "nate_int": 14
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c90",
@@ -3805,11 +3842,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 39
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c91",
@@ -3847,35 +3882,44 @@
    "id": "c92",
    "title": "'마약 실형' 돈 스파이크, 9만 9000원 스테이크 논란에 \"무한리필 바비큐 ...",
    "titles": [
-    "'마약 실형' 돈 스파이크, 9만 9000원 스테이크 논란에 \"무한리필 바비큐 ..."
+    "'마약 실형' 돈 스파이크, 9만 9000원 스테이크 논란에 \"무한리필 바비큐 ...",
+    "'1인 99000원' 돈스파이크 식당 가격 시끌…\"코스 형식 무한리필\" 해명 [..."
    ],
    "links": [
-    "https://news.nate.com/view/20261103n15697"
+    "https://news.nate.com/view/20261103n15697",
+    "https://news.nate.com/view/20261103n29511"
    ],
    "articles": [
     {
      "title": "'마약 실형' 돈 스파이크, 9만 9000원 스테이크 논란에 \"무한리필 바비큐 ...",
      "link": "https://news.nate.com/view/20261103n15697",
      "media": "MK스포츠"
+    },
+    {
+     "title": "'1인 99000원' 돈스파이크 식당 가격 시끌…\"코스 형식 무한리필\" 해명 [...",
+     "link": "https://news.nate.com/view/20261103n29511",
+     "media": "iMBC연예"
     }
    ],
    "first": "13:10",
-   "last": "16:08",
+   "last": "17:08",
    "best": 10,
    "hours": [
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 49
+    "nate_pop": 21,
+    "nate_int": 26
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -3895,21 +3939,21 @@
     }
    ],
    "first": "13:10",
-   "last": "16:08",
+   "last": "17:08",
    "best": 12,
    "hours": [
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 22
+    "nate_int": 32
    },
    "count": 1,
    "inrank": true
@@ -4050,19 +4094,22 @@
     }
    ],
    "first": "13:10",
-   "last": "16:08",
-   "best": 32,
+   "last": "17:08",
+   "best": 29,
    "hours": [
     "13:10",
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 37
+    "nate_pop": 29,
+    "nate_int": 39
    },
    "count": 1,
    "inrank": true
@@ -4084,20 +4131,21 @@
     }
    ],
    "first": "14:10",
-   "last": "16:08",
+   "last": "17:08",
    "best": 1,
    "hours": [
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 1
+    "nate_pop": 4,
+    "nate_int": 3
    },
    "count": 1,
    "inrank": true
@@ -4161,11 +4209,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 33
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c102",
@@ -4184,20 +4230,21 @@
     }
    ],
    "first": "14:10",
-   "last": "16:08",
+   "last": "17:08",
    "best": 20,
    "hours": [
     "14:10",
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 25
+    "nate_pop": 26,
+    "nate_int": 28
    },
    "count": 1,
    "inrank": true
@@ -4219,19 +4266,20 @@
     }
    ],
    "first": "15:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 2,
    "hours": [
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 4
+    "nate_pop": 8,
+    "nate_int": 6
    },
    "count": 1,
    "inrank": true
@@ -4240,24 +4288,46 @@
    "id": "c104",
    "title": "45살 '슈퍼모델' 김자연, 70살 삼성전자 전 사장 손영권과 스위스서 ...",
    "titles": [
-    "45살 '슈퍼모델' 김자연, 70살 삼성전자 전 사장 손영권과 스위스서 ..."
+    "45살 '슈퍼모델' 김자연, 70살 삼성전자 전 사장 손영권과 스위스서 ...",
+    "25살 차 극복…'45세' 슈퍼모델 김자연, '70세' 전 삼성전자 사장과 결혼",
+    "김자연, 45세에 유부녀 됐다…남편=70세 삼성전자 전 사장 \"혼자 살 줄 알...",
+    "'MIT 선후배' 슈퍼모델 김자연·전 삼성전자 사장 손영권 결혼…25살 나..."
    ],
    "links": [
-    "https://news.nate.com/view/20261103n23042"
+    "https://news.nate.com/view/20261103n23042",
+    "https://news.nate.com/view/20261103n28024",
+    "https://news.nate.com/view/20261103n27358",
+    "https://news.nate.com/view/20261103n26964"
    ],
    "articles": [
     {
      "title": "45살 '슈퍼모델' 김자연, 70살 삼성전자 전 사장 손영권과 스위스서 ...",
      "link": "https://news.nate.com/view/20261103n23042",
      "media": "마이데일리"
+    },
+    {
+     "title": "25살 차 극복…'45세' 슈퍼모델 김자연, '70세' 전 삼성전자 사장과 결혼",
+     "link": "https://news.nate.com/view/20261103n28024",
+     "media": "스타투데이"
+    },
+    {
+     "title": "김자연, 45세에 유부녀 됐다…남편=70세 삼성전자 전 사장 \"혼자 살 줄 알...",
+     "link": "https://news.nate.com/view/20261103n27358",
+     "media": "뉴스엔"
+    },
+    {
+     "title": "'MIT 선후배' 슈퍼모델 김자연·전 삼성전자 사장 손영권 결혼…25살 나...",
+     "link": "https://news.nate.com/view/20261103n26964",
+     "media": "스포츠월드"
     }
    ],
    "first": "15:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 1,
    "hours": [
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
@@ -4265,9 +4335,9 @@
    ],
    "now": {
     "nate_pop": 1,
-    "nate_int": 2
+    "nate_int": 1
    },
-   "count": 1,
+   "count": 4,
    "inrank": true
   },
   {
@@ -4279,7 +4349,8 @@
     "'하얼빈' 살 빠진 현빈 본 손예진 반응 \"출산 직후, 내가 더 힘들었다\" 너...",
     "손하트가 이리 설레다니…현빈♥손예진, 청룡 동반 수상 1년만에 동반 핸드...",
     "[포토] 손예진-현빈, 청룡영화상 핸드프린팅 다정하게",
-    "[청룡영화상]손예진, ♥현빈 '하얼빈' 고충에 \"출산한 내가 더 힘들어\""
+    "[청룡영화상]손예진, ♥현빈 '하얼빈' 고충에 \"출산한 내가 더 힘들어\"",
+    "\"부부 싸움 리얼하게\"…현빈♥손예진, 세번째 연기 호흡 기다려지는 이유 [..."
    ],
    "links": [
     "https://news.nate.com/view/20261103n21426",
@@ -4287,7 +4358,8 @@
     "https://news.nate.com/view/20261103n21832",
     "https://news.nate.com/view/20261103n21722",
     "https://news.nate.com/view/20261103n19249",
-    "https://news.nate.com/view/20261103n21645"
+    "https://news.nate.com/view/20261103n21645",
+    "https://news.nate.com/view/20261103n27757"
    ],
    "articles": [
     {
@@ -4319,24 +4391,30 @@
      "title": "[청룡영화상]손예진, ♥현빈 '하얼빈' 고충에 \"출산한 내가 더 힘들어\"",
      "link": "https://news.nate.com/view/20261103n21645",
      "media": "스포츠조선"
+    },
+    {
+     "title": "\"부부 싸움 리얼하게\"…현빈♥손예진, 세번째 연기 호흡 기다려지는 이유 [...",
+     "link": "https://news.nate.com/view/20261103n27757",
+     "media": "스타뉴스"
     }
    ],
    "first": "15:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 5,
    "hours": [
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 12
+    "nate_pop": 7,
+    "nate_int": 14
    },
-   "count": 6,
+   "count": 7,
    "inrank": true
   },
   {
@@ -4356,19 +4434,20 @@
     }
    ],
    "first": "15:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 5,
    "hours": [
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 8
+    "nate_pop": 13,
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -4400,12 +4479,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 25,
-    "nate_int": 31
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c108",
@@ -4434,11 +4510,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 41
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c109",
@@ -4457,19 +4531,20 @@
     }
    ],
    "first": "15:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 7,
    "hours": [
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 10
+    "nate_pop": 19,
+    "nate_int": 25
    },
    "count": 1,
    "inrank": true
@@ -4501,11 +4576,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 36
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c111",
@@ -4524,19 +4597,19 @@
     }
    ],
    "first": "15:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 22,
    "hours": [
     "15:08",
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 28
+    "nate_int": 33
    },
    "count": 1,
    "inrank": true
@@ -4558,10 +4631,11 @@
     }
    ],
    "first": "16:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 6,
    "hours": [
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
@@ -4569,7 +4643,7 @@
    ],
    "now": {
     "nate_pop": 6,
-    "nate_int": 11
+    "nate_int": 12
    },
    "count": 1,
    "inrank": true
@@ -4591,18 +4665,18 @@
     }
    ],
    "first": "16:08",
-   "last": "16:08",
+   "last": "17:08",
    "best": 9,
    "hours": [
-    "16:08"
+    "16:08",
+    "17:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 17
+    "nate_int": 38
    },
    "count": 1,
    "inrank": true
@@ -4632,11 +4706,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 45
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c115",
@@ -4663,8 +4735,207 @@
    "srcs": [
     "nate_int"
    ],
+   "now": {},
+   "count": 1,
+   "inrank": false
+  },
+  {
+   "id": "c116",
+   "title": "'암 투병' 이성미 \"예쁜 모습 남기고 싶어\"…영정 사진 공개 ('바디인사이...",
+   "titles": [
+    "'암 투병' 이성미 \"예쁜 모습 남기고 싶어\"…영정 사진 공개 ('바디인사이..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261103n24669"
+   ],
+   "articles": [
+    {
+     "title": "'암 투병' 이성미 \"예쁜 모습 남기고 싶어\"…영정 사진 공개 ('바디인사이...",
+     "link": "https://news.nate.com/view/20261103n24669",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "17:08",
+   "last": "17:08",
+   "best": 10,
+   "hours": [
+    "17:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
    "now": {
+    "nate_pop": 10,
+    "nate_int": 24
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c117",
+   "title": "김민, 아나콘다 맨손으로 잡았다?…알고보니 '사람 키만 한 미역'",
+   "titles": [
+    "김민, 아나콘다 맨손으로 잡았다?…알고보니 '사람 키만 한 미역'"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261103n29837"
+   ],
+   "articles": [
+    {
+     "title": "김민, 아나콘다 맨손으로 잡았다?…알고보니 '사람 키만 한 미역'",
+     "link": "https://news.nate.com/view/20261103n29837",
+     "media": "뉴스1"
+    }
+   ],
+   "first": "17:08",
+   "last": "17:08",
+   "best": 11,
+   "hours": [
+    "17:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 11,
     "nate_int": 46
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c118",
+   "title": "'노동착취 논란' 헤이지니, 직접 입 열었다 \"좋은사람으로 기억되지 못할 ...",
+   "titles": [
+    "'노동착취 논란' 헤이지니, 직접 입 열었다 \"좋은사람으로 기억되지 못할 ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261103n27274"
+   ],
+   "articles": [
+    {
+     "title": "'노동착취 논란' 헤이지니, 직접 입 열었다 \"좋은사람으로 기억되지 못할 ...",
+     "link": "https://news.nate.com/view/20261103n27274",
+     "media": "스포티비뉴스"
+    }
+   ],
+   "first": "17:08",
+   "last": "17:08",
+   "best": 11,
+   "hours": [
+    "17:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 17,
+    "nate_int": 11
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c119",
+   "title": "'배성재♥' 김다영, 임신 후 얼굴 확 달라졌다…주근깨 가득한 민낯 '깜짝'",
+   "titles": [
+    "'배성재♥' 김다영, 임신 후 얼굴 확 달라졌다…주근깨 가득한 민낯 '깜짝'",
+    "'배성재♥' 김다영, 임신 후 피부 변화…적나라한 민낯 공개 \"시골 느낌\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261103n29032",
+    "https://news.nate.com/view/20261103n24427"
+   ],
+   "articles": [
+    {
+     "title": "'배성재♥' 김다영, 임신 후 얼굴 확 달라졌다…주근깨 가득한 민낯 '깜짝'",
+     "link": "https://news.nate.com/view/20261103n29032",
+     "media": "스포츠조선"
+    },
+    {
+     "title": "'배성재♥' 김다영, 임신 후 피부 변화…적나라한 민낯 공개 \"시골 느낌\"",
+     "link": "https://news.nate.com/view/20261103n24427",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "17:08",
+   "last": "17:08",
+   "best": 18,
+   "hours": [
+    "17:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 18,
+    "nate_int": 45
+   },
+   "count": 2,
+   "inrank": true
+  },
+  {
+   "id": "c120",
+   "title": "'나혼산' 출신 두 배우, 같은 날 장가간다…'무지개' 하객들은 어디로? [...",
+   "titles": [
+    "'나혼산' 출신 두 배우, 같은 날 장가간다…'무지개' 하객들은 어디로? [..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261103n28518"
+   ],
+   "articles": [
+    {
+     "title": "'나혼산' 출신 두 배우, 같은 날 장가간다…'무지개' 하객들은 어디로? [...",
+     "link": "https://news.nate.com/view/20261103n28518",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "17:08",
+   "last": "17:08",
+   "best": 43,
+   "hours": [
+    "17:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 43
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c121",
+   "title": "문가영, 진짜 허리가 한줌이네? 밤엔 올블랙 튜브톱…아침엔 슬렌더 레깅스...",
+   "titles": [
+    "문가영, 진짜 허리가 한줌이네? 밤엔 올블랙 튜브톱…아침엔 슬렌더 레깅스..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261103n26341"
+   ],
+   "articles": [
+    {
+     "title": "문가영, 진짜 허리가 한줌이네? 밤엔 올블랙 튜브톱…아침엔 슬렌더 레깅스...",
+     "link": "https://news.nate.com/view/20261103n26341",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "17:08",
+   "last": "17:08",
+   "best": 50,
+   "hours": [
+    "17:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 50
    },
    "count": 1,
    "inrank": true
@@ -4814,9 +5085,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "17:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-03T16:08:31.670535+09:00",
+ "updated": "2026-11-03T17:08:33.730779+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

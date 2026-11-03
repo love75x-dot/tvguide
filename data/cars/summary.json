@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:08:42.156282+09:00",
+ "updated": "2026-11-03T17:08:48.417379+09:00",
  "hot": [
   {
    "name": "쏘렌토",
@@ -14,6 +14,16 @@
    ]
   },
   {
+   "name": "G80",
+   "count": 10,
+   "prev": 0,
+   "rise": -2,
+   "moto": false,
+   "why": [
+    "출시"
+   ]
+  },
+  {
    "name": "싼타페",
    "count": 10,
    "prev": 1,
@@ -25,13 +35,14 @@
    ]
   },
   {
-   "name": "G80",
+   "name": "필랑트",
    "count": 8,
    "prev": 0,
-   "rise": -2,
+   "rise": -7,
    "moto": false,
    "why": [
-    "출시"
+    "출시",
+    "가격 인하"
    ]
   },
   {
@@ -54,19 +65,8 @@
    "why": []
   },
   {
-   "name": "필랑트",
-   "count": 6,
-   "prev": 0,
-   "rise": -7,
-   "moto": false,
-   "why": [
-    "출시",
-    "가격 인하"
-   ]
-  },
-  {
    "name": "GV80",
-   "count": 6,
+   "count": 7,
    "prev": 2,
    "rise": -5,
    "moto": false,
@@ -84,20 +84,18 @@
    ]
   },
   {
-   "name": "투싼",
-   "count": 4,
-   "prev": 2,
-   "rise": -30,
-   "moto": false,
-   "why": [
-    "판매 1위"
-   ]
-  },
-  {
-   "name": "스포티지",
+   "name": "그랑 콜레오스",
    "count": 3,
    "prev": 0,
-   "rise": -8,
+   "rise": -11,
+   "moto": false,
+   "why": []
+  },
+  {
+   "name": "투싼",
+   "count": 3,
+   "prev": 2,
+   "rise": -30,
    "moto": false,
    "why": [
     "판매 1위"

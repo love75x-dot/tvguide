@@ -207,6 +207,9 @@ def safe(fn, *a, **k):
 
 
 # ---------------- 텔레그램 ----------------
+ALERT_ON = False          # 마트·다이소 텔레그램 알림 (잠시 꺼둠, 다시 켜려면 True)
+
+
 def telegram(text):
     token, chat = os.getenv("TELEGRAM_BOT_TOKEN"), os.getenv("TELEGRAM_CHAT_ID")
     if not (token and chat):
@@ -339,7 +342,7 @@ def collect(force=False):
         lines.append(f"\n📅 <b>{html.escape(hol['title'] or '트레이더스 휴점일')}</b>")
         for r in hol["rows"]:
             lines.append(f"• {html.escape(r['dates'])}: {html.escape(r['stores'])}")
-    if lines:
+    if lines and ALERT_ON:
         site = os.getenv("SITE_URL")
         telegram("🏬 <b>마트·다이소 새 소식</b>\n\n" + "\n".join(lines) + (f"\n\n🔗 {site}/#shop" if site else ""))
         print(f"  텔레그램 알림 보냄 ({len(lines)}줄)")

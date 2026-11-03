@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T17:08:48.417379+09:00",
+ "updated": "2026-11-03T18:11:03.097096+09:00",
  "hot": [
   {
    "name": "쏘렌토",
@@ -35,17 +35,6 @@
    ]
   },
   {
-   "name": "필랑트",
-   "count": 8,
-   "prev": 0,
-   "rise": -7,
-   "moto": false,
-   "why": [
-    "출시",
-    "가격 인하"
-   ]
-  },
-  {
    "name": "그랜저",
    "count": 8,
    "prev": 3,
@@ -57,18 +46,28 @@
    ]
   },
   {
-   "name": "PV5",
+   "name": "필랑트",
    "count": 7,
    "prev": 0,
-   "rise": -14,
+   "rise": -7,
    "moto": false,
-   "why": []
+   "why": [
+    "출시"
+   ]
   },
   {
    "name": "GV80",
    "count": 7,
    "prev": 2,
    "rise": -5,
+   "moto": false,
+   "why": []
+  },
+  {
+   "name": "PV5",
+   "count": 6,
+   "prev": 0,
+   "rise": -14,
    "moto": false,
    "why": []
   },
@@ -84,22 +83,23 @@
    ]
   },
   {
+   "name": "팰리세이드",
+   "count": 4,
+   "prev": 0,
+   "rise": 15,
+   "moto": false,
+   "why": [
+    "가격 공개",
+    "중고차 시세"
+   ]
+  },
+  {
    "name": "그랑 콜레오스",
    "count": 3,
    "prev": 0,
    "rise": -11,
    "moto": false,
    "why": []
-  },
-  {
-   "name": "투싼",
-   "count": 3,
-   "prev": 2,
-   "rise": -30,
-   "moto": false,
-   "why": [
-    "판매 1위"
-   ]
   }
  ],
  "calendar": [
@@ -129,10 +129,10 @@
   },
   {
    "name": "G80",
-   "status": "tbd",
-   "date": null,
-   "title": "제네시스 G80 HEV, 이틀째 생산 중단…연내 출시 '빨간불'(종합)",
-   "link": "https://www.news1.kr/industry/auto-industry/6341532",
+   "status": "out",
+   "date": "2026-11-03",
+   "title": "현대차 또 노사 갈등…G80 하이브리드 출시 ·인도 차질 빚나",
+   "link": "https://www.greened.kr/news/articleView.html?idxno=353742",
    "moto": false
   }
  ]

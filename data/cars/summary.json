@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T15:08:49.438528+09:00",
+ "updated": "2026-11-03T16:08:42.156282+09:00",
  "hot": [
   {
    "name": "쏘렌토",
@@ -14,14 +14,6 @@
    ]
   },
   {
-   "name": "PV5",
-   "count": 10,
-   "prev": 0,
-   "rise": -14,
-   "moto": false,
-   "why": []
-  },
-  {
    "name": "싼타페",
    "count": 10,
    "prev": 1,
@@ -29,6 +21,16 @@
    "moto": false,
    "why": [
     "가격 인하",
+    "출시"
+   ]
+  },
+  {
+   "name": "G80",
+   "count": 8,
+   "prev": 0,
+   "rise": -2,
+   "moto": false,
+   "why": [
     "출시"
    ]
   },
@@ -44,10 +46,10 @@
    ]
   },
   {
-   "name": "GV80",
+   "name": "PV5",
    "count": 7,
-   "prev": 2,
-   "rise": -5,
+   "prev": 0,
+   "rise": -14,
    "moto": false,
    "why": []
   },
@@ -63,20 +65,10 @@
    ]
   },
   {
-   "name": "투싼",
-   "count": 5,
+   "name": "GV80",
+   "count": 6,
    "prev": 2,
-   "rise": -30,
-   "moto": false,
-   "why": [
-    "판매 1위"
-   ]
-  },
-  {
-   "name": "G80",
-   "count": 5,
-   "prev": 0,
-   "rise": -2,
+   "rise": -5,
    "moto": false,
    "why": []
   },
@@ -89,6 +81,16 @@
    "why": [
     "가격 인하",
     "출시"
+   ]
+  },
+  {
+   "name": "투싼",
+   "count": 4,
+   "prev": 2,
+   "rise": -30,
+   "moto": false,
+   "why": [
+    "판매 1위"
    ]
   },
   {
@@ -125,6 +127,14 @@
    "date": "2026-11-02",
    "title": "[ 신차 공개] 르노 필랑트 누아르·MINI 쿠퍼 옥스포드 에디션 출시",
    "link": "https://it.donga.com/109822/",
+   "moto": false
+  },
+  {
+   "name": "G80",
+   "status": "tbd",
+   "date": null,
+   "title": "제네시스 G80 HEV, 이틀째 생산 중단…연내 출시 '빨간불'(종합)",
+   "link": "https://www.news1.kr/industry/auto-industry/6341532",
    "moto": false
   }
  ]

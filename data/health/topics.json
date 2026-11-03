@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T14:10:50.809601+09:00",
+ "updated": "2026-11-03T15:08:49.438528+09:00",
  "topics": [
   {
    "name": "유산균",
@@ -124,12 +124,29 @@
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 18,
+   "count": 20,
    "angles": [
-    "부작용",
-    "먹는 법"
+    "부작용"
    ],
    "items": [
+    {
+     "title": "뱃살, 그냥 쌓이는 게 아니었다…당뇨 키우는 악성 단백질 발견",
+     "link": "https://www.news1.kr/bio/welfare-medical/6341450",
+     "t": "2026-11-03T14:49:00+09:00",
+     "by": "news1.kr"
+    },
+    {
+     "title": "분당서울대병원, 내장지방 염증·섬유화 관여 단백질 규명",
+     "link": "https://www.lawissue.co.kr/view.php?ud=202611031435115976f4ab64559d_12",
+     "t": "2026-11-03T14:38:00+09:00",
+     "by": "lawissue.co.kr"
+    },
+    {
+     "title": "분당서울대병원, 내장지방 염증·섬유화 관여 단백질 ‘THBS1’ 규명",
+     "link": "https://www.medigatenews.com/news/2005505719",
+     "t": "2026-11-03T14:14:00+09:00",
+     "by": "medigatenews.com"
+    },
     {
      "title": "베르티스·지씨셀, AI 단백질 분석 기술로 차세대 세포치료제 공동 개발",
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622674",
@@ -141,24 +158,6 @@
      "link": "https://www.segye.com/newsView/20261103504742?OutUrl=naver",
      "t": "2026-11-03T12:02:00+09:00",
      "by": "segye.com"
-    },
-    {
-     "title": "뱃살 속 지방이 병드는 이유…염증·섬유화 촉진 단백질 찾았다",
-     "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/03/2026110380066.html",
-     "t": "2026-11-03T11:52:00+09:00",
-     "by": "digitalchosun.dizzo.com"
-    },
-    {
-     "title": "뱃살 속 내장지방, 왜 몸에 해로울까···원인 단백질 'THBS1' 규명",
-     "link": "http://www.doctorstimes.com/news/articleView.html?idxno=240834",
-     "t": "2026-11-03T11:04:00+09:00",
-     "by": "doctorstimes.com"
-    },
-    {
-     "title": "뱃살 속 내장지방서 악화 단백질 'THBS1' 발견",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=420770",
-     "t": "2026-11-03T09:46:00+09:00",
-     "by": "medipana.com"
     }
    ]
   },
@@ -204,11 +203,57 @@
    ]
   },
   {
+   "name": "염증",
+   "kind": "질환·증상",
+   "count": 12,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "분당서울대병원, 내장지방 염증·섬유화 관여 단백질 규명",
+     "link": "https://www.lawissue.co.kr/view.php?ud=202611031435115976f4ab64559d_12",
+     "t": "2026-11-03T14:38:00+09:00",
+     "by": "lawissue.co.kr"
+    },
+    {
+     "title": "분당서울대병원, 내장지방 염증·섬유화 관여 단백질 ‘THBS1’ 규명",
+     "link": "https://www.medigatenews.com/news/2005505719",
+     "t": "2026-11-03T14:14:00+09:00",
+     "by": "medigatenews.com"
+    },
+    {
+     "title": "비만이 당뇨병 부르는 이유…지방 속 '염증 스위치' 찾았다",
+     "link": "https://www.kbsm.net/news/view.php?idx=540167",
+     "t": "2026-11-03T13:22:00+09:00",
+     "by": "kbsm.net"
+    },
+    {
+     "title": "‘뱃속 지방’ 유독 해로운 이유…‘이것’ 조직 염증·섬유화 일으킨다",
+     "link": "https://www.nongmin.com/article/20261103500159",
+     "t": "2026-11-03T12:19:00+09:00",
+     "by": "nongmin.com"
+    },
+    {
+     "title": "뱃살 속 지방이 병드는 이유…염증·섬유화 촉진 단백질 찾았다",
+     "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/03/2026110380066.html",
+     "t": "2026-11-03T11:52:00+09:00",
+     "by": "digitalchosun.dizzo.com"
+    }
+   ]
+  },
+  {
    "name": "다이어트",
    "kind": "운동·생활",
    "count": 11,
    "angles": [],
    "items": [
+    {
+     "title": "[김민석 건강칼럼] 다이어트 정체기, 몸속 보일러가 꺼지고 있다",
+     "link": "https://www.kbsm.net/news/view.php?idx=540258",
+     "t": "2026-11-03T14:28:00+09:00",
+     "by": "kbsm.net"
+    },
     {
      "title": "“다이어트 따로 해 본 적 없다”… 81세 선우용여가 밝힌 '식사 챙기는...",
      "link": "https://www.wikitree.co.kr/articles/1171334",
@@ -232,52 +277,88 @@
      "link": "http://www.weeklytoday.com/news/articleView.html?idxno=800615",
      "t": "2026-11-02T13:48:00+09:00",
      "by": "weeklytoday.com"
-    },
-    {
-     "title": "“건강하려고 먹었는데 오히려 독?”…의사가 권한 '영양제 다이어트'",
-     "link": "https://economist.co.kr/article/view/ecn202610280071",
-     "t": "2026-11-02T13:00:00+09:00",
-     "by": "economist.co.kr"
     }
    ]
   },
   {
-   "name": "염증",
+   "name": "치매",
    "kind": "질환·증상",
    "count": 11,
    "angles": [
-    "부작용"
+    "부작용",
+    "에 좋은"
    ],
    "items": [
     {
-     "title": "비만이 당뇨병 부르는 이유…지방 속 '염증 스위치' 찾았다",
-     "link": "https://www.kbsm.net/news/view.php?idx=540167",
-     "t": "2026-11-03T13:22:00+09:00",
-     "by": "kbsm.net"
+     "title": "[현장] \"난청 환자 97%는 방치…사회적 단절에 우울증, 치매 위험까지\"",
+     "link": "https://www.dailian.co.kr/news/view/1710122/?sc=Naver",
+     "t": "2026-11-03T15:03:00+09:00",
+     "by": "dailian.co.kr"
     },
     {
-     "title": "‘뱃속 지방’ 유독 해로운 이유…‘이것’ 조직 염증·섬유화 일으킨다",
-     "link": "https://www.nongmin.com/article/20261103500159",
-     "t": "2026-11-03T12:19:00+09:00",
-     "by": "nongmin.com"
+     "title": "\"에어컨 없으면 치매 위험 높아진다?\"… 폭염이 치매 위험 23% 높여",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69576",
+     "t": "2026-11-03T15:00:00+09:00",
+     "by": "hidoc.co.kr"
     },
     {
-     "title": "뱃살 속 지방이 병드는 이유…염증·섬유화 촉진 단백질 찾았다",
-     "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/03/2026110380066.html",
-     "t": "2026-11-03T11:52:00+09:00",
-     "by": "digitalchosun.dizzo.com"
+     "title": "손가락으로 하나둘, 하나둘…치매 예방 '운동이 된다'",
+     "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2239497",
+     "t": "2026-11-02T19:30:00+09:00",
+     "by": "cctoday.co.kr"
     },
     {
-     "title": "뱃살 속 내장지방, 섬유화·염증 유발 ‘THBS1’ 단백질 규명",
-     "link": "http://www.whosaeng.com/174989",
-     "t": "2026-11-03T09:14:00+09:00",
-     "by": "whosaeng.com"
+     "title": "혈당 잡는 줄 알았더니…낮에 무심코한 이 행동, 치매 불렀다",
+     "link": "https://www.joongang.co.kr/article/25475016",
+     "t": "2026-11-02T15:56:00+09:00",
+     "by": "joongang.co.kr"
     },
     {
-     "title": "내장지방 염증 · 섬유화 유발 단백질 THBS1 발견",
-     "link": "http://www.medical-tribune.co.kr/news/articleView.html?idxno=215722",
-     "t": "2026-11-03T09:04:00+09:00",
-     "by": "medical-tribune.co.kr"
+     "title": "“치매 치료의 새로운 가능성, 유전자 조절에서 찾다”…조찬희 에피큐...",
+     "link": "https://www.venturesquare.net/1124785/",
+     "t": "2026-11-02T13:07:00+09:00",
+     "by": "venturesquare.net"
+    }
+   ]
+  },
+  {
+   "name": "감기",
+   "kind": "질환·증상",
+   "count": 10,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "켄뷰, 겨울철 감기 시즌 맞아 '타이레놀 콜드' 캠페인 전개",
+     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=143915",
+     "t": "2026-11-03T14:44:00+09:00",
+     "by": "medisobizanews.com"
+    },
+    {
+     "title": "한국켄뷰, 겨울 감기 시즌 맞춤 '타이레놀 콜드' 캠페인 전개",
+     "link": "http://www.bokuennews.com/news/article.html?no=286581",
+     "t": "2026-11-03T14:06:00+09:00",
+     "by": "bokuennews.com"
+    },
+    {
+     "title": "환절기 감기 환자 속출하는데 손 씻기와 소금물 가글만 강조?",
+     "link": "https://www.dailynk.com/20261103-3",
+     "t": "2026-11-03T13:28:00+09:00",
+     "by": "dailynk.com"
+    },
+    {
+     "title": "독감 ·코로나·감기 바이러스까지, 환절기 몸살 감기주의보 / 원인은 하...",
+     "link": "http://topclass.chosun.com/news/articleView.html?idxno=37024",
+     "t": "2026-11-03T10:06:00+09:00",
+     "by": "topclass.chosun.com"
+    },
+    {
+     "title": "감기와 다른 독감 , 갑작스러운 고열·근육통 나타나면 의심해야",
+     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51781",
+     "t": "2026-11-03T09:08:00+09:00",
+     "by": "ikunkang.com"
     }
    ]
   },
@@ -363,84 +444,42 @@
    ]
   },
   {
-   "name": "감기",
+   "name": "당뇨",
    "kind": "질환·증상",
-   "count": 9,
+   "count": 7,
    "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "한국켄뷰, 겨울 감기 시즌 맞춤 '타이레놀 콜드' 캠페인 전개",
-     "link": "http://www.bokuennews.com/news/article.html?no=286581",
-     "t": "2026-11-03T14:06:00+09:00",
-     "by": "bokuennews.com"
-    },
-    {
-     "title": "환절기 감기 환자 속출하는데 손 씻기와 소금물 가글만 강조?",
-     "link": "https://www.dailynk.com/20261103-3",
-     "t": "2026-11-03T13:28:00+09:00",
-     "by": "dailynk.com"
-    },
-    {
-     "title": "독감 ·코로나·감기 바이러스까지, 환절기 몸살 감기주의보 / 원인은 하...",
-     "link": "http://topclass.chosun.com/news/articleView.html?idxno=37024",
-     "t": "2026-11-03T10:06:00+09:00",
-     "by": "topclass.chosun.com"
-    },
-    {
-     "title": "감기와 다른 독감 , 갑작스러운 고열·근육통 나타나면 의심해야",
-     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51781",
-     "t": "2026-11-03T09:08:00+09:00",
-     "by": "ikunkang.com"
-    },
-    {
-     "title": "[신의한수] 환절기 감기 예방",
-     "link": "https://www.siminsori.com/news/articleView.html?idxno=402237",
-     "t": "2026-11-02T11:34:00+09:00",
-     "by": "siminsori.com"
-    }
-   ]
-  },
-  {
-   "name": "치매",
-   "kind": "질환·증상",
-   "count": 9,
-   "angles": [
-    "에 좋은",
     "부작용"
    ],
    "items": [
     {
-     "title": "손가락으로 하나둘, 하나둘…치매 예방 '운동이 된다'",
-     "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2239497",
-     "t": "2026-11-02T19:30:00+09:00",
-     "by": "cctoday.co.kr"
+     "title": "뱃살, 그냥 쌓이는 게 아니었다…당뇨 키우는 악성 단백질 발견",
+     "link": "https://www.news1.kr/bio/welfare-medical/6341450",
+     "t": "2026-11-03T14:49:00+09:00",
+     "by": "news1.kr"
     },
     {
-     "title": "혈당 잡는 줄 알았더니…낮에 무심코한 이 행동, 치매 불렀다",
-     "link": "https://www.joongang.co.kr/article/25475016",
-     "t": "2026-11-02T15:56:00+09:00",
-     "by": "joongang.co.kr"
+     "title": "질환 맞춤형 식사 제공, 당뇨·고혈압 환자 혈당 ·혈압 개선",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622475",
+     "t": "2026-11-03T07:56:00+09:00",
+     "by": "mdtoday.co.kr"
     },
     {
-     "title": "“치매 치료의 새로운 가능성, 유전자 조절에서 찾다”…조찬희 에피큐...",
-     "link": "https://www.venturesquare.net/1124785/",
-     "t": "2026-11-02T13:07:00+09:00",
-     "by": "venturesquare.net"
+     "title": "‘비누 향’에 호불호 갈리는 이 채소…당뇨 특효 소문에 美전문가 ‘경...",
+     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/02/20261102500066?wlog_tag3=naver",
+     "t": "2026-11-02T23:02:00+09:00",
+     "by": "seoul.co.kr"
     },
     {
-     "title": "“자꾸 하다 보니 훈련이 된다”… 88세 김영옥이 치매 예방 위해 '꾸준...",
-     "link": "https://www.wikitree.co.kr/articles/1170979",
-     "t": "2026-11-02T10:20:00+09:00",
-     "by": "wikitree.co.kr"
+     "title": "당뇨 전단계서 쓴 GLP-1 비만치료제 통했다",
+     "link": "https://www.dongascience.com/news/view/80660",
+     "t": "2026-11-02T19:00:00+09:00",
+     "by": "dongascience.com"
     },
     {
-     "title": "석정웰파크병원, 치매 관련 공동 연구 결과 공유",
-     "link": "https://sjbnews.com/news/news.php?number=891376",
-     "t": "2026-11-01T18:19:00+09:00",
-     "by": "sjbnews.com"
+     "title": "\"당뇨 아니라 안심했는데\"…공복 혈당 '이 숫자' 넘으면 위험 신호",
+     "link": "https://view.asiae.co.kr/article/2026110118050319604",
+     "t": "2026-11-01T18:06:00+09:00",
+     "by": "view.asiae.co.kr"
     }
    ]
   },
@@ -486,47 +525,6 @@
    ]
   },
   {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 7,
-   "angles": [
-    "부작용",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "독감 ·코로나·백일해까지⋯한 번 검사로 호흡기 병원체 19종 확인",
-     "link": "https://kormedi.com/?p=2897406",
-     "t": "2026-11-03T11:34:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "독감 ·코로나·감기 바이러스까지, 환절기 몸살 감기주의보 / 원인은 하...",
-     "link": "http://topclass.chosun.com/news/articleView.html?idxno=37024",
-     "t": "2026-11-03T10:06:00+09:00",
-     "by": "topclass.chosun.com"
-    },
-    {
-     "title": "'콜록콜록' 지하철 타기 두렵다...' 독감 ·코로나19' 동시 유행",
-     "link": "https://www.newstree.kr/newsView/ntr202611020005",
-     "t": "2026-11-02T10:40:00+09:00",
-     "by": "newstree.kr"
-    },
-    {
-     "title": "코로나 백신 맞으면 암 걸린다?…3600만명 분석했더니 '뜻밖의 결과'",
-     "link": "https://www.insight.co.kr/news/580075",
-     "t": "2026-11-01T09:04:00+09:00",
-     "by": "insight.co.kr"
-    },
-    {
-     "title": "\"코로나 백신 맞으면 암 걸린다?\"…3600만명 분석한 결과 '깜짝'",
-     "link": "https://view.asiae.co.kr/article/2026103118024312696",
-     "t": "2026-10-31T18:31:00+09:00",
-     "by": "view.asiae.co.kr"
-    }
-   ]
-  },
-  {
    "name": "콜레스테롤",
    "kind": "질환·증상",
    "count": 7,
@@ -563,6 +561,44 @@
      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=35808",
      "t": "2026-11-02T10:48:00+09:00",
      "by": "biotimes.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "걷기",
+   "kind": "운동·생활",
+   "count": 6,
+   "angles": [],
+   "items": [
+    {
+     "title": "제주올레 18코스서 건강 걷기…도민 35명 선착순 모집",
+     "link": "https://www.jejumaeil.net/news/articleView.html?idxno=406303",
+     "t": "2026-11-03T14:38:00+09:00",
+     "by": "jejumaeil.net"
+    },
+    {
+     "title": "\"앱으로 혼자 걷던 5000명, 이제 함께 걷는다\"…보성군, 3.4㎞ 건강 걷기...",
+     "link": "https://www.polinews.co.kr/news/articleView.html?idxno=747574",
+     "t": "2026-11-03T14:33:00+09:00",
+     "by": "polinews.co.kr"
+    },
+    {
+     "title": "충주시, 건강마을 걷기 환경 개선 '쑥쑥'",
+     "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=361664",
+     "t": "2026-11-03T13:42:00+09:00",
+     "by": "ccreview.co.kr"
+    },
+    {
+     "title": "제주도체육회, 올레길 건강 걷기 참가자 모집",
+     "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=401917",
+     "t": "2026-11-03T11:40:00+09:00",
+     "by": "jejudomin.co.kr"
+    },
+    {
+     "title": "충주시, 주민 의견 반영한 건강마을 걷기 환경 개선 '쑥쑥'",
+     "link": "https://www.ggilbo.com/news/articleView.html?idxno=1190712",
+     "t": "2026-11-03T11:30:00+09:00",
+     "by": "ggilbo.com"
     }
    ]
   },
@@ -605,46 +641,6 @@
      "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/03/20261103018002?wlog_tag3=naver",
      "t": "2026-11-03T05:04:00+09:00",
      "by": "seoul.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "당뇨",
-   "kind": "질환·증상",
-   "count": 6,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "질환 맞춤형 식사 제공, 당뇨·고혈압 환자 혈당 ·혈압 개선",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622475",
-     "t": "2026-11-03T07:56:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "‘비누 향’에 호불호 갈리는 이 채소…당뇨 특효 소문에 美전문가 ‘경...",
-     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/02/20261102500066?wlog_tag3=naver",
-     "t": "2026-11-02T23:02:00+09:00",
-     "by": "seoul.co.kr"
-    },
-    {
-     "title": "당뇨 전단계서 쓴 GLP-1 비만치료제 통했다",
-     "link": "https://www.dongascience.com/news/view/80660",
-     "t": "2026-11-02T19:00:00+09:00",
-     "by": "dongascience.com"
-    },
-    {
-     "title": "\"당뇨 아니라 안심했는데\"…공복 혈당 '이 숫자' 넘으면 위험 신호",
-     "link": "https://view.asiae.co.kr/article/2026110118050319604",
-     "t": "2026-11-01T18:06:00+09:00",
-     "by": "view.asiae.co.kr"
-    },
-    {
-     "title": "\"당뇨에 좋대서 챙겨 먹었는데\"… 혈당 올리는 의외의 함정",
-     "link": "https://view.asiae.co.kr/article/2026110118050319604",
-     "t": "2026-11-01T18:06:00+09:00",
-     "by": "view.asiae.co.kr"
     }
    ]
   },
@@ -730,6 +726,46 @@
    ]
   },
   {
+   "name": "코로나",
+   "kind": "질환·증상",
+   "count": 6,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "독감 ·코로나·백일해까지⋯한 번 검사로 호흡기 병원체 19종 확인",
+     "link": "https://kormedi.com/?p=2897406",
+     "t": "2026-11-03T11:34:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "독감 ·코로나·감기 바이러스까지, 환절기 몸살 감기주의보 / 원인은 하...",
+     "link": "http://topclass.chosun.com/news/articleView.html?idxno=37024",
+     "t": "2026-11-03T10:06:00+09:00",
+     "by": "topclass.chosun.com"
+    },
+    {
+     "title": "'콜록콜록' 지하철 타기 두렵다...' 독감 ·코로나19' 동시 유행",
+     "link": "https://www.newstree.kr/newsView/ntr202611020005",
+     "t": "2026-11-02T10:40:00+09:00",
+     "by": "newstree.kr"
+    },
+    {
+     "title": "코로나 백신 맞으면 암 걸린다?…3600만명 분석했더니 '뜻밖의 결과'",
+     "link": "https://www.insight.co.kr/news/580075",
+     "t": "2026-11-01T09:04:00+09:00",
+     "by": "insight.co.kr"
+    },
+    {
+     "title": "\"코로나 백신 맞으면 암 걸린다?\"…3600만명 분석한 결과 '깜짝'",
+     "link": "https://view.asiae.co.kr/article/2026103118024312696",
+     "t": "2026-10-31T18:31:00+09:00",
+     "by": "view.asiae.co.kr"
+    }
+   ]
+  },
+  {
    "name": "결핵",
    "kind": "질환·증상",
    "count": 5,
@@ -770,34 +806,36 @@
    ]
   },
   {
-   "name": "걷기",
-   "kind": "운동·생활",
+   "name": "대장암",
+   "kind": "질환·증상",
    "count": 4,
-   "angles": [],
+   "angles": [
+    "부작용"
+   ],
    "items": [
     {
-     "title": "충주시, 건강마을 걷기 환경 개선 '쑥쑥'",
-     "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=361664",
-     "t": "2026-11-03T13:42:00+09:00",
-     "by": "ccreview.co.kr"
+     "title": "대장암 씨앗 '용종', 떼어냈다고 끝?…크기·개수 확인하고 추적검사 받...",
+     "link": "https://www.k-health.com/news/articleView.html?idxno=101994",
+     "t": "2026-11-03T14:46:00+09:00",
+     "by": "k-health.com"
     },
     {
-     "title": "제주도체육회, 올레길 건강 걷기 참가자 모집",
-     "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=401917",
-     "t": "2026-11-03T11:40:00+09:00",
-     "by": "jejudomin.co.kr"
+     "title": "인트론바이오, ESMO서 대장암 치료 후보물질 전임상 성과 발표",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=04162326645642112&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-03T14:25:00+09:00",
+     "by": "edaily.co.kr"
     },
     {
-     "title": "충주시, 주민 의견 반영한 건강마을 걷기 환경 개선 '쑥쑥'",
-     "link": "https://www.ggilbo.com/news/articleView.html?idxno=1190712",
-     "t": "2026-11-03T11:30:00+09:00",
-     "by": "ggilbo.com"
+     "title": "1cm 미만 선종 5~10개 발견 시 대장암 위험 5.2배",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=420778",
+     "t": "2026-11-03T10:18:00+09:00",
+     "by": "medipana.com"
     },
     {
-     "title": "‘걷기만 해도 12만원’ 정책…건강불평등 키우는 4가지 모순 [왜냐면]",
-     "link": "https://www.hani.co.kr/arti/opinion/because/1285445.html",
-     "t": "2026-11-03T05:02:00+09:00",
-     "by": "hani.co.kr"
+     "title": "시력 보호, 적혈구 생성, 대장암 감소까지…비타민 A부터 D까지 건강 효...",
+     "link": "https://kormedi.com/?p=2897120",
+     "t": "2026-11-03T09:15:00+09:00",
+     "by": "kormedi.com"
     }
    ]
   },
@@ -806,10 +844,16 @@
    "kind": "질환·증상",
    "count": 4,
    "angles": [
-    "효능",
-    "부작용"
+    "부작용",
+    "효능"
    ],
    "items": [
+    {
+     "title": "[현장] \"난청 환자 97%는 방치…사회적 단절에 우울증, 치매 위험까지\"",
+     "link": "https://www.dailian.co.kr/news/view/1710122/?sc=Naver",
+     "t": "2026-11-03T15:03:00+09:00",
+     "by": "dailian.co.kr"
+    },
     {
      "title": "우울증 개선에 효과 적인 운동",
      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2449341",
@@ -827,12 +871,6 @@
      "link": "https://www.newsis.com/view/NISX20261031_0003849331",
      "t": "2026-10-31T21:11:00+09:00",
      "by": "newsis.com"
-    },
-    {
-     "title": "크레아틴, 우울증 치료 가능성",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622153",
-     "t": "2026-10-31T14:56:00+09:00",
-     "by": "mdtoday.co.kr"
     }
    ]
   },
@@ -919,6 +957,34 @@
      "link": "https://www.k-health.com/news/articleView.html?idxno=101936",
      "t": "2026-11-01T09:04:00+09:00",
      "by": "k-health.com"
+    }
+   ]
+  },
+  {
+   "name": "폐암",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "초기 폐암, 수술이 정밀 방사선치료보다 생존율 높아…80세 이상은 차이...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622660",
+     "t": "2026-11-03T15:08:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "[비바100] 폐암 치료 받았는데 또 방사선치료?⋯효과 예측할 단서 찾았...",
+     "link": "https://www.viva100.com/article/20261101500622",
+     "t": "2026-11-03T07:02:00+09:00",
+     "by": "viva100.com"
+    },
+    {
+     "title": "폐암 항암치료 중 식사관리, 치료성적에 영향…체중·근육량 유지 중요",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59656",
+     "t": "2026-11-02T09:22:00+09:00",
+     "by": "koreahealthlog.com"
     }
    ]
   },
@@ -1013,50 +1079,6 @@
      "link": "https://www.dongponews.net/news/articleView.html?idxno=61396",
      "t": "2026-11-01T16:12:00+09:00",
      "by": "dongponews.net"
-    }
-   ]
-  },
-  {
-   "name": "대장암",
-   "kind": "질환·증상",
-   "count": 2,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "1cm 미만 선종 5~10개 발견 시 대장암 위험 5.2배",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=420778",
-     "t": "2026-11-03T10:18:00+09:00",
-     "by": "medipana.com"
-    },
-    {
-     "title": "시력 보호, 적혈구 생성, 대장암 감소까지…비타민 A부터 D까지 건강 효...",
-     "link": "https://kormedi.com/?p=2897120",
-     "t": "2026-11-03T09:15:00+09:00",
-     "by": "kormedi.com"
-    }
-   ]
-  },
-  {
-   "name": "생체",
-   "kind": "기타",
-   "count": 2,
-   "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "엘렉스랩, 예쁜꼬마선충 기반 생체 효능 평가 장비 양산 추진",
-     "link": "https://www.hankyung.com/article/202611020563O",
-     "t": "2026-11-02T15:24:00+09:00",
-     "by": "hankyung.com"
-    },
-    {
-     "title": "엘렉스랩, 예쁜꼬마선충 기반 AI 생체 효능 평가 장비 양산 추진",
-     "link": "https://www.dailian.co.kr/news/view/1709545/?sc=Naver",
-     "t": "2026-11-02T14:30:00+09:00",
-     "by": "dailian.co.kr"
     }
    ]
   }

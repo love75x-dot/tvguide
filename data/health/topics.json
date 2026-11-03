@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T05:08:55.432349+09:00",
+ "updated": "2026-11-04T06:08:48.830352+09:00",
  "topics": [
   {
    "name": "유산균",
@@ -43,6 +43,47 @@
    ]
   },
   {
+   "name": "혈당",
+   "kind": "질환·증상",
+   "count": 30,
+   "angles": [
+    "효능",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "김숙 “하루 만에 살크업” 고백… ‘떡볶이’ 혈당 스파이크가 문제",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/03/2026110302994.html",
+     "t": "2026-11-04T06:03:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "\"연속 혈당 측정기, 기기 부착 넘어 '맞춤 교육 ·EMR 통합'이 성패 가른다...",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3015536",
+     "t": "2026-11-04T05:50:00+09:00",
+     "by": "bosa.co.kr"
+    },
+    {
+     "title": "\"혈압· 혈당 직접 관리 해요\"…남원시, 공직자 건강 실증사업 시작",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3741348",
+     "t": "2026-11-03T20:18:00+09:00",
+     "by": "gukjenews.com"
+    },
+    {
+     "title": "혈당 측정부터 전기항공기까지…강원 벤처, 세계시장 노크",
+     "link": "https://www.hankyung.com/article/202611033782h",
+     "t": "2026-11-03T17:51:00+09:00",
+     "by": "hankyung.com"
+    },
+    {
+     "title": "“ 혈당 스파이크 막는다” 채정안이 식사 전 ‘깻잎’ 먼저 먹는 이유",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/03/2026110302219.html",
+     "t": "2026-11-03T17:01:00+09:00",
+     "by": "health.chosun.com"
+    }
+   ]
+  },
+  {
    "name": "독감",
    "kind": "질환·증상",
    "count": 29,
@@ -80,47 +121,6 @@
      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1308067",
      "t": "2026-11-03T13:52:00+09:00",
      "by": "jeonmae.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "혈당",
-   "kind": "질환·증상",
-   "count": 28,
-   "angles": [
-    "효능",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "\"혈압· 혈당 직접 관리 해요\"…남원시, 공직자 건강 실증사업 시작",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3741348",
-     "t": "2026-11-03T20:18:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "혈당 측정부터 전기항공기까지…강원 벤처, 세계시장 노크",
-     "link": "https://www.hankyung.com/article/202611033782h",
-     "t": "2026-11-03T17:51:00+09:00",
-     "by": "hankyung.com"
-    },
-    {
-     "title": "“ 혈당 스파이크 막는다” 채정안이 식사 전 ‘깻잎’ 먼저 먹는 이유",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/03/2026110302219.html",
-     "t": "2026-11-03T17:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "아이쿱, 씨어스 입원환자 모니터링 솔루션에 연속 혈당 솔루션 적용",
-     "link": "https://www.medigatenews.com/news/479166605",
-     "t": "2026-11-03T13:32:00+09:00",
-     "by": "medigatenews.com"
-    },
-    {
-     "title": "“밥 먹고 마시는 차 한 잔으로 혈당 관리”… 식후·공복혈당 잡는 차...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/03/2026110301155.html",
-     "t": "2026-11-03T12:01:00+09:00",
-     "by": "health.chosun.com"
     }
    ]
   },
@@ -167,12 +167,18 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 16,
+   "count": 17,
    "angles": [
     "부작용",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "고 혈압 이 시력까지 위협한다?… \"망막 퇴행성 변화 빠르게 진행\"",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69601",
+     "t": "2026-11-04T06:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
     {
      "title": "“짠 음식 줄여도 그대로인 혈압”… 나트륨 씻어내는 ‘칼륨’ 먹어라",
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/03/2026110303171.html",
@@ -196,19 +202,54 @@
      "link": "https://www.newsis.com/view/NISX20261103_0003852567",
      "t": "2026-11-03T11:23:00+09:00",
      "by": "newsis.com"
+    }
+   ]
+  },
+  {
+   "name": "감기",
+   "kind": "질환·증상",
+   "count": 13,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "감기 처럼 옮을 수 있는 디프테리아…심근염 등 심각한 합병증 주의",
+     "link": "https://www.dt.co.kr/article/12092984?ref=naver",
+     "t": "2026-11-04T06:00:00+09:00",
+     "by": "dt.co.kr"
     },
     {
-     "title": "질환 맞춤형 식사 제공, 당뇨·고혈압 환자 혈당 ·혈압 개선",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622475",
-     "t": "2026-11-03T07:56:00+09:00",
-     "by": "mdtoday.co.kr"
+     "title": "\"감기 아닙니다\" 겨울철 실내 건조 방치하면 몸에 생기는 일 (영상)",
+     "link": "https://www.insight.co.kr/news/580452",
+     "t": "2026-11-03T20:36:00+09:00",
+     "by": "insight.co.kr"
+    },
+    {
+     "title": "겨울철 성형수술, 계절보다 중요한 것은 회복 관리…음주·난방·감기 주...",
+     "link": "https://www.rapportian.com/news/articleView.html?idxno=241995",
+     "t": "2026-11-03T16:30:00+09:00",
+     "by": "rapportian.com"
+    },
+    {
+     "title": "켄뷰, 겨울철 감기 시즌 맞아 '타이레놀 콜드' 캠페인 전개",
+     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=143915",
+     "t": "2026-11-03T14:44:00+09:00",
+     "by": "medisobizanews.com"
+    },
+    {
+     "title": "한국켄뷰, 겨울 감기 시즌 맞춤 '타이레놀 콜드' 캠페인 전개",
+     "link": "http://www.bokuennews.com/news/article.html?no=286581",
+     "t": "2026-11-03T14:06:00+09:00",
+     "by": "bokuennews.com"
     }
    ]
   },
   {
    "name": "염증",
    "kind": "질환·증상",
-   "count": 14,
+   "count": 13,
    "angles": [
     "부작용"
    ],
@@ -368,47 +409,6 @@
    ]
   },
   {
-   "name": "감기",
-   "kind": "질환·증상",
-   "count": 12,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "\"감기 아닙니다\" 겨울철 실내 건조 방치하면 몸에 생기는 일 (영상)",
-     "link": "https://www.insight.co.kr/news/580452",
-     "t": "2026-11-03T20:36:00+09:00",
-     "by": "insight.co.kr"
-    },
-    {
-     "title": "겨울철 성형수술, 계절보다 중요한 것은 회복 관리…음주·난방·감기 주...",
-     "link": "https://www.rapportian.com/news/articleView.html?idxno=241995",
-     "t": "2026-11-03T16:30:00+09:00",
-     "by": "rapportian.com"
-    },
-    {
-     "title": "켄뷰, 겨울철 감기 시즌 맞아 '타이레놀 콜드' 캠페인 전개",
-     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=143915",
-     "t": "2026-11-03T14:44:00+09:00",
-     "by": "medisobizanews.com"
-    },
-    {
-     "title": "한국켄뷰, 겨울 감기 시즌 맞춤 '타이레놀 콜드' 캠페인 전개",
-     "link": "http://www.bokuennews.com/news/article.html?no=286581",
-     "t": "2026-11-03T14:06:00+09:00",
-     "by": "bokuennews.com"
-    },
-    {
-     "title": "환절기 감기 환자 속출하는데 손 씻기와 소금물 가글만 강조?",
-     "link": "https://www.dailynk.com/20261103-3",
-     "t": "2026-11-03T13:28:00+09:00",
-     "by": "dailynk.com"
-    }
-   ]
-  },
-  {
    "name": "다이어트",
    "kind": "운동·생활",
    "count": 12,
@@ -526,6 +526,46 @@
    ]
   },
   {
+   "name": "당뇨",
+   "kind": "질환·증상",
+   "count": 8,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "다국적제약사 잇단 인슐린 공급 중단…국내 당뇨 수급 불안 커지나",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3015396",
+     "t": "2026-11-04T06:00:00+09:00",
+     "by": "bosa.co.kr"
+    },
+    {
+     "title": "비만이 당뇨 부르는 이유 찾았다…지방 속 '염증 스위치 ON'",
+     "link": "https://www.hankyung.com/article/2026110337147",
+     "t": "2026-11-03T17:50:00+09:00",
+     "by": "hankyung.com"
+    },
+    {
+     "title": "뱃살, 그냥 쌓이는 게 아니었다…당뇨 키우는 악성 단백질 발견",
+     "link": "https://www.news1.kr/bio/welfare-medical/6341450",
+     "t": "2026-11-03T14:49:00+09:00",
+     "by": "news1.kr"
+    },
+    {
+     "title": "질환 맞춤형 식사 제공, 당뇨·고혈압 환자 혈당 ·혈압 개선",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622475",
+     "t": "2026-11-03T07:56:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "‘비누 향’에 호불호 갈리는 이 채소…당뇨 특효 소문에 美전문가 ‘경...",
+     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/02/20261102500066?wlog_tag3=naver",
+     "t": "2026-11-02T23:02:00+09:00",
+     "by": "seoul.co.kr"
+    }
+   ]
+  },
+  {
    "name": "콜레스테롤",
    "kind": "질환·증상",
    "count": 8,
@@ -604,46 +644,6 @@
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622475",
      "t": "2026-11-03T07:56:00+09:00",
      "by": "mdtoday.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "당뇨",
-   "kind": "질환·증상",
-   "count": 7,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "비만이 당뇨 부르는 이유 찾았다…지방 속 '염증 스위치 ON'",
-     "link": "https://www.hankyung.com/article/2026110337147",
-     "t": "2026-11-03T17:50:00+09:00",
-     "by": "hankyung.com"
-    },
-    {
-     "title": "뱃살, 그냥 쌓이는 게 아니었다…당뇨 키우는 악성 단백질 발견",
-     "link": "https://www.news1.kr/bio/welfare-medical/6341450",
-     "t": "2026-11-03T14:49:00+09:00",
-     "by": "news1.kr"
-    },
-    {
-     "title": "질환 맞춤형 식사 제공, 당뇨·고혈압 환자 혈당 ·혈압 개선",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622475",
-     "t": "2026-11-03T07:56:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "‘비누 향’에 호불호 갈리는 이 채소…당뇨 특효 소문에 美전문가 ‘경...",
-     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/02/20261102500066?wlog_tag3=naver",
-     "t": "2026-11-02T23:02:00+09:00",
-     "by": "seoul.co.kr"
-    },
-    {
-     "title": "당뇨 전단계서 쓴 GLP-1 비만치료제 통했다",
-     "link": "https://www.dongascience.com/news/view/80660",
-     "t": "2026-11-02T19:00:00+09:00",
-     "by": "dongascience.com"
     }
    ]
   },

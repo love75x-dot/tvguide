@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T15:10:54.931333+09:00",
+ "updated": "2026-11-04T16:11:05.007707+09:00",
  "hot": [
   {
    "name": "G80",
@@ -23,7 +23,7 @@
   },
   {
    "name": "PV5",
-   "count": 6,
+   "count": 5,
    "prev": 0,
    "rise": -7,
    "moto": false,
@@ -40,32 +40,12 @@
    ]
   },
   {
-   "name": "그랜저",
-   "count": 4,
-   "prev": 6,
-   "rise": 1,
-   "moto": false,
-   "why": [
-    "출시"
-   ]
-  },
-  {
    "name": "GV80",
    "count": 4,
    "prev": 5,
    "rise": -4,
    "moto": false,
    "why": []
-  },
-  {
-   "name": "싼타페",
-   "count": 4,
-   "prev": 7,
-   "rise": 44,
-   "moto": false,
-   "why": [
-    "출시"
-   ]
   },
   {
    "name": "스포티지",
@@ -75,6 +55,26 @@
    "moto": false,
    "why": [
     "판매 1위"
+   ]
+  },
+  {
+   "name": "그랜저",
+   "count": 3,
+   "prev": 6,
+   "rise": 1,
+   "moto": false,
+   "why": [
+    "출시"
+   ]
+  },
+  {
+   "name": "싼타페",
+   "count": 3,
+   "prev": 8,
+   "rise": 44,
+   "moto": false,
+   "why": [
+    "출시"
    ]
   },
   {
@@ -90,10 +90,10 @@
    ]
   },
   {
-   "name": "모델 Y",
+   "name": "쏘나타",
    "count": 2,
-   "prev": 2,
-   "rise": -8,
+   "prev": 0,
+   "rise": 2,
    "moto": false,
    "why": []
   }

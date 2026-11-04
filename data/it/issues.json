@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-05T05:08:46.720032+09:00",
+ "updated": "2026-11-05T06:08:43.731689+09:00",
  "all": [
   {
    "name": "해킹",
-   "count": 32,
+   "count": 29,
    "items": [
+    {
+     "title": "금융권 연쇄 해킹…\"빈틈은 은행 앱 바깥에\"",
+     "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=226362",
+     "t": "2026-11-05T06:00:00+09:00",
+     "by": "kbanker.co.kr"
+    },
+    {
+     "title": "[인터뷰] 체이널리시스 총괄 \"북한, 해킹 한번에 수십년치 무역대금\"",
+     "link": "https://www.yna.co.kr/view/AKR20261104139800002?input=1195m",
+     "t": "2026-11-05T05:55:00+09:00",
+     "by": "yna.co.kr"
+    },
     {
      "title": "금융당국, 해킹 에 '3중 대응'…접근통제·2차 피해 차단·AI 방어",
      "link": "https://www.nocutnews.co.kr/news/6602338?utm_source=naver&utm_medium=article&utm_campaign=20261105050043",
@@ -22,54 +34,42 @@
      "link": "https://www.ddaily.co.kr/page/view/2026110418371229018",
      "t": "2026-11-04T23:59:00+09:00",
      "by": "ddaily.co.kr"
-    },
-    {
-     "title": "[사설]냉장고 해킹 유럽서 확산… 韓도 ‘IoT 공격’ 일상화 대비를",
-     "link": "https://www.donga.com/news/Opinion/article/all/20261104/134968328/2",
-     "t": "2026-11-04T23:25:00+09:00",
-     "by": "donga.com"
-    },
-    {
-     "title": "금감원장 \" 해킹 책임 CEO에 물을 것\"...증권사, 거래시간 연장·T+1 '삼중...",
-     "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501354",
-     "t": "2026-11-04T21:46:00+09:00",
-     "by": "pinpointnews.co.kr"
     }
    ]
   },
   {
    "name": "반도체",
-   "count": 22,
+   "count": 24,
    "items": [
+    {
+     "title": "이현 싸이닉솔루션 대표 \"설계 넘어 센서 반도체 로…내년 상반기 매출 ...",
+     "link": "https://news.mtn.co.kr/article/2026110416555520346",
+     "t": "2026-11-05T06:02:00+09:00",
+     "by": "mtn.co.kr"
+    },
+    {
+     "title": "반도체 ·플랜트 호조, 주택 부진…건설사 3분기 성적표 '희비'",
+     "link": "https://www.newsis.com/view/NISX20261103_0003852424",
+     "t": "2026-11-05T06:00:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "\"AI 반도체 없어서 못 판다더니\"…삼전닉스 발목 잡은 '빅테크 현금흐름...",
+     "link": "https://www.newsis.com/view/NISX20261104_0003854928",
+     "t": "2026-11-05T06:00:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "AMD, 2027년 매출 80% 성장 승부수…AI 반도체 시장에서 엔비디아 추격 ...",
+     "link": "https://www.jemin.com/news/articleView.html?idxno=846206",
+     "t": "2026-11-05T05:52:00+09:00",
+     "by": "jemin.com"
+    },
     {
      "title": "\"데이터센터 투자 영향 받나?\"…美 '블루쓰나미'에 韓 반도체 업계 긴장",
      "link": "https://www.newsis.com/view/NISX20261104_0003854927",
      "t": "2026-11-05T05:00:00+09:00",
      "by": "newsis.com"
-    },
-    {
-     "title": "韓 반도체 '35% 공제' 연장 기대감..전기차 보조금 부활은 안갯속[美중간...",
-     "link": "https://www.fnnews.com/news/202611050142343035",
-     "t": "2026-11-05T05:00:00+09:00",
-     "by": "fnnews.com"
-    },
-    {
-     "title": "반도체 '긴장' 대미투자 '불확실'…우리 경제는",
-     "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831184&plink=ORI&cooper=NAVER",
-     "t": "2026-11-05T00:40:00+09:00",
-     "by": "sbs.co.kr"
-    },
-    {
-     "title": "'회색지대 전략', 한국의 중국 반도체 대응법 [아침을 열며]",
-     "link": "https://www.hankookilbo.com/news/article/A2026110409540001506?did=NA",
-     "t": "2026-11-05T00:00:00+09:00",
-     "by": "hankookilbo.com"
-    },
-    {
-     "title": "[美 중간선거] 의회 권력 교체에 K- 반도체 ·배터리 셈법 복잡",
-     "link": "https://www.ddaily.co.kr/page/view/2026110420121899667",
-     "t": "2026-11-04T21:48:00+09:00",
-     "by": "ddaily.co.kr"
     }
    ]
   },
@@ -111,7 +111,7 @@
   },
   {
    "name": "보안",
-   "count": 20,
+   "count": 19,
    "items": [
     {
      "title": "\"AI 시대 보안 전략 공유\"...AIS 2026, 보안담당자 700여 명 참석 성황리...",

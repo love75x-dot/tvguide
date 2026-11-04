@@ -459,10 +459,10 @@
     "SubCategoryID": "4",
     "IsPreview": "N",
     "IsVod": "N",
-    "percentTime": 85,
-    "IsOnAirNow": "Y",
+    "percentTime": 0,
+    "IsOnAirNow": "N",
     "Photo": "https://img.imbc.com/adams/Program/20187/131761812807503501.jpg",
-    "OnAirImage": "https://img.imbc.com/thumbnail/mbc_img.jpg"
+    "OnAirImage": ""
   },
   {
     "IsToday": "Y",
@@ -490,10 +490,10 @@
     "SubCategoryID": "3",
     "IsPreview": "N",
     "IsVod": "N",
-    "percentTime": 0,
-    "IsOnAirNow": "N",
+    "percentTime": 97,
+    "IsOnAirNow": "Y",
     "Photo": "https://img.imbc.com/adams/Program/20257/133960897455417804.jpg",
-    "OnAirImage": ""
+    "OnAirImage": "https://img.imbc.com/thumbnail/mbc_img.jpg"
   },
   {
     "IsToday": "Y",
@@ -508,7 +508,7 @@
     "Caption": "Y",
     "HD": "N",
     "UHD": "Y",
-    "Live": "N",
+    "Live": "Y",
     "Local": "R",
     "Hand": "0",
     "Data": "N",

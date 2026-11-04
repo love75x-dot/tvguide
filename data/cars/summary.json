@@ -1,16 +1,6 @@
 {
- "updated": "2026-11-04T10:08:35.134578+09:00",
+ "updated": "2026-11-04T11:08:42.807731+09:00",
  "hot": [
-  {
-   "name": "쏘렌토",
-   "count": 14,
-   "prev": 5,
-   "rise": 15,
-   "moto": false,
-   "why": [
-    "가격 인하"
-   ]
-  },
   {
    "name": "G80",
    "count": 11,
@@ -22,15 +12,12 @@
    ]
   },
   {
-   "name": "싼타페",
-   "count": 9,
-   "prev": 2,
-   "rise": 44,
+   "name": "PV5",
+   "count": 7,
+   "prev": 0,
+   "rise": -7,
    "moto": false,
-   "why": [
-    "가격 인하",
-    "출시"
-   ]
+   "why": []
   },
   {
    "name": "필랑트",
@@ -40,6 +27,16 @@
    "moto": false,
    "why": [
     "출시"
+   ]
+  },
+  {
+   "name": "쏘렌토",
+   "count": 7,
+   "prev": 12,
+   "rise": 15,
+   "moto": false,
+   "why": [
+    "가격 인하"
    ]
   },
   {
@@ -54,20 +51,23 @@
    ]
   },
   {
-   "name": "PV5",
-   "count": 6,
-   "prev": 0,
-   "rise": -7,
-   "moto": false,
-   "why": []
-  },
-  {
    "name": "GV80",
    "count": 6,
    "prev": 3,
    "rise": -4,
    "moto": false,
    "why": []
+  },
+  {
+   "name": "싼타페",
+   "count": 6,
+   "prev": 5,
+   "rise": 44,
+   "moto": false,
+   "why": [
+    "출시",
+    "가격 인하"
+   ]
   },
   {
    "name": "스포티지",
@@ -80,23 +80,22 @@
    ]
   },
   {
-   "name": "아반떼",
-   "count": 4,
-   "prev": 21,
-   "rise": 15,
-   "moto": false,
-   "why": [
-    "출시",
-    "가격 인하"
-   ]
-  },
-  {
    "name": "모델 Y",
    "count": 3,
    "prev": 2,
    "rise": -8,
    "moto": false,
    "why": []
+  },
+  {
+   "name": "아반떼",
+   "count": 3,
+   "prev": 22,
+   "rise": 15,
+   "moto": false,
+   "why": [
+    "출시"
+   ]
   }
  ],
  "calendar": [

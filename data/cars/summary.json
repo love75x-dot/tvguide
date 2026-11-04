@@ -1,22 +1,21 @@
 {
- "updated": "2026-11-04T09:08:48.154423+09:00",
+ "updated": "2026-11-04T10:08:35.134578+09:00",
  "hot": [
   {
    "name": "쏘렌토",
-   "count": 19,
-   "prev": 0,
-   "rise": -23,
+   "count": 14,
+   "prev": 5,
+   "rise": 15,
    "moto": false,
    "why": [
-    "가격 인하",
-    "중고차 시세"
+    "가격 인하"
    ]
   },
   {
    "name": "G80",
    "count": 11,
    "prev": 0,
-   "rise": -34,
+   "rise": 1,
    "moto": false,
    "why": [
     "출시"
@@ -24,9 +23,9 @@
   },
   {
    "name": "싼타페",
-   "count": 10,
-   "prev": 1,
-   "rise": -2,
+   "count": 9,
+   "prev": 2,
+   "rise": 44,
    "moto": false,
    "why": [
     "가격 인하",
@@ -37,9 +36,20 @@
    "name": "필랑트",
    "count": 7,
    "prev": 0,
-   "rise": -30,
+   "rise": 12,
    "moto": false,
    "why": [
+    "출시"
+   ]
+  },
+  {
+   "name": "그랜저",
+   "count": 6,
+   "prev": 4,
+   "rise": 1,
+   "moto": false,
+   "why": [
+    "가격 인하",
     "출시"
    ]
   },
@@ -47,7 +57,7 @@
    "name": "PV5",
    "count": 6,
    "prev": 0,
-   "rise": -40,
+   "rise": -7,
    "moto": false,
    "why": []
   },
@@ -55,52 +65,38 @@
    "name": "GV80",
    "count": 6,
    "prev": 3,
-   "rise": -37,
+   "rise": -4,
    "moto": false,
    "why": []
   },
   {
-   "name": "그랜저",
-   "count": 6,
-   "prev": 3,
-   "rise": -33,
-   "moto": false,
-   "why": [
-    "가격 인하",
-    "출시"
-   ]
-  },
-  {
-   "name": "아반떼",
-   "count": 5,
-   "prev": 20,
-   "rise": -25,
-   "moto": false,
-   "why": [
-    "가격 인하",
-    "출시"
-   ]
-  },
-  {
-   "name": "팰리세이드",
+   "name": "스포티지",
    "count": 4,
    "prev": 0,
-   "rise": -15,
-   "moto": false,
-   "why": [
-    "가격 공개",
-    "중고차 시세"
-   ]
-  },
-  {
-   "name": "스포티지",
-   "count": 3,
-   "prev": 0,
-   "rise": -37,
+   "rise": -3,
    "moto": false,
    "why": [
     "판매 1위"
    ]
+  },
+  {
+   "name": "아반떼",
+   "count": 4,
+   "prev": 21,
+   "rise": 15,
+   "moto": false,
+   "why": [
+    "출시",
+    "가격 인하"
+   ]
+  },
+  {
+   "name": "모델 Y",
+   "count": 3,
+   "prev": 2,
+   "rise": -8,
+   "moto": false,
+   "why": []
   }
  ],
  "calendar": [

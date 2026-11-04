@@ -25,7 +25,7 @@
     }
    ],
    "first": "00:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "00:10",
@@ -40,15 +40,16 @@
     "08:10",
     "09:08",
     "10:08",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 27
+    "nate_pop": 21,
+    "nate_int": 39
    },
    "count": 2,
    "inrank": true
@@ -248,7 +249,7 @@
     }
    ],
    "first": "00:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "00:10",
@@ -271,7 +272,8 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
@@ -279,7 +281,7 @@
    ],
    "now": {
     "nate_pop": 4,
-    "nate_int": 2
+    "nate_int": 3
    },
    "count": 12,
    "inrank": true
@@ -336,7 +338,7 @@
     }
    ],
    "first": "00:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 3,
    "hours": [
     "00:10",
@@ -359,14 +361,15 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 37
+    "nate_int": 36
    },
    "count": 6,
    "inrank": true
@@ -426,14 +429,18 @@
     "'45세' 김자연, 스위스 결혼식 깜짝공개…남편은 '70세' 삼성전자 前사장[...",
     "'25세 차이, 결국 돈과 조건?'…45세 김자연은 '사회적 성취보다 다른걸' ...",
     "\"인연에도 각자의 때가\"…김자연, '70세' 전 삼성전자 사장과 결혼 소감",
-    "'25세 연상' 삼성 전사장과 결혼, 김자연 누구?…MIT 석사·CEO 화려한 ..."
+    "'25세 연상' 삼성 전사장과 결혼, 김자연 누구?…MIT 석사·CEO 화려한 ...",
+    "[단독]포미닛 전지윤, 4살 연상 회사원과 11월 결혼 \"긍정적이고 따뜻해서 ...",
+    "전지윤, 현아 이어 포미닛 2번째 유부녀 된다…비연예인과 결혼"
    ],
    "links": [
     "https://news.nate.com/view/20261103n23042",
     "https://news.nate.com/view/20261103n35071",
     "https://news.nate.com/view/20261103n35956",
     "https://news.nate.com/view/20261104n06312",
-    "https://news.nate.com/view/20261104n13621"
+    "https://news.nate.com/view/20261104n13621",
+    "https://news.nate.com/view/20261104n32035",
+    "https://news.nate.com/view/20261104n21498"
    ],
    "articles": [
     {
@@ -460,11 +467,21 @@
      "title": "'25세 연상' 삼성 전사장과 결혼, 김자연 누구?…MIT 석사·CEO 화려한 ...",
      "link": "https://news.nate.com/view/20261104n13621",
      "media": "스포츠조선"
+    },
+    {
+     "title": "[단독]포미닛 전지윤, 4살 연상 회사원과 11월 결혼 \"긍정적이고 따뜻해서 ...",
+     "link": "https://news.nate.com/view/20261104n32035",
+     "media": "스타뉴스"
+    },
+    {
+     "title": "전지윤, 현아 이어 포미닛 2번째 유부녀 된다…비연예인과 결혼",
+     "link": "https://news.nate.com/view/20261104n21498",
+     "media": "뉴스엔"
     }
    ],
    "first": "00:10",
-   "last": "13:11",
-   "best": 8,
+   "last": "19:10",
+   "best": 6,
    "hours": [
     "00:10",
     "01:10",
@@ -475,15 +492,19 @@
     "05:08",
     "10:08",
     "12:10",
-    "13:11"
+    "13:11",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 5,
-   "inrank": false
+   "now": {
+    "nate_pop": 6,
+    "nate_int": 10
+   },
+   "count": 7,
+   "inrank": true
   },
   {
    "id": "c8",
@@ -922,7 +943,7 @@
     }
    ],
    "first": "00:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 8,
    "hours": [
     "00:10",
@@ -937,14 +958,15 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 38
+    "nate_int": 35
    },
    "count": 2,
    "inrank": true
@@ -1020,7 +1042,7 @@
     }
    ],
    "first": "00:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "00:10",
@@ -1038,14 +1060,15 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 35
+    "nate_int": 37
    },
    "count": 3,
    "inrank": true
@@ -1095,22 +1118,23 @@
     }
    ],
    "first": "00:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 2,
    "hours": [
     "00:10",
     "01:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 4
+    "nate_pop": 8,
+    "nate_int": 5
    },
    "count": 5,
    "inrank": true
@@ -1414,7 +1438,7 @@
     }
    ],
    "first": "00:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 2,
    "hours": [
     "00:10",
@@ -1437,15 +1461,16 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 15
+    "nate_pop": 19,
+    "nate_int": 12
    },
    "count": 2,
    "inrank": true
@@ -2414,7 +2439,7 @@
     }
    ],
    "first": "02:42",
-   "last": "18:10",
+   "last": "19:10",
    "best": 2,
    "hours": [
     "02:42",
@@ -2432,15 +2457,16 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 17
+    "nate_pop": 9,
+    "nate_int": 7
    },
    "count": 10,
    "inrank": true
@@ -2519,7 +2545,7 @@
     }
    ],
    "first": "07:08",
-   "last": "18:10",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "07:08",
@@ -2534,15 +2560,16 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 22
+    "nate_pop": 27,
+    "nate_int": 19
    },
    "count": 5,
    "inrank": true
@@ -2990,11 +3017,13 @@
    "title": "손잡고 허리 감싸고…이동국, 딸 재아 연애에 \"못 보겠다\" [내 새끼의 ...",
    "titles": [
     "손잡고 허리 감싸고…이동국, 딸 재아 연애에 \"못 보겠다\" [내 새끼의 ...",
-    "이찬혁, 공개 연애는 아닌데…'열애설' 하지수와 손잡고 스윙댄스 박..."
+    "이찬혁, 공개 연애는 아닌데…'열애설' 하지수와 손잡고 스윙댄스 박...",
+    "이찬혁, '열애설' ♥하지수와 손잡고 댄스…'전참시'서 당당히 공개"
    ],
    "links": [
     "https://news.nate.com/view/20261104n05766",
-    "https://news.nate.com/view/20261104n30066"
+    "https://news.nate.com/view/20261104n30066",
+    "https://news.nate.com/view/20261104n26440"
    ],
    "articles": [
     {
@@ -3006,28 +3035,34 @@
      "title": "이찬혁, 공개 연애는 아닌데…'열애설' 하지수와 손잡고 스윙댄스 박...",
      "link": "https://news.nate.com/view/20261104n30066",
      "media": "OSEN"
+    },
+    {
+     "title": "이찬혁, '열애설' ♥하지수와 손잡고 댄스…'전참시'서 당당히 공개",
+     "link": "https://news.nate.com/view/20261104n26440",
+     "media": "스포츠경향"
     }
    ],
    "first": "09:08",
-   "last": "18:10",
-   "best": 2,
+   "last": "19:10",
+   "best": 1,
    "hours": [
     "09:08",
     "10:08",
     "11:08",
     "12:10",
     "13:11",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 6
+    "nate_pop": 1,
+    "nate_int": 1
    },
-   "count": 2,
+   "count": 3,
    "inrank": true
   },
   {
@@ -3173,7 +3208,7 @@
     }
    ],
    "first": "09:08",
-   "last": "18:10",
+   "last": "19:10",
    "best": 5,
    "hours": [
     "09:08",
@@ -3186,15 +3221,16 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 13
+    "nate_pop": 30,
+    "nate_int": 25
    },
    "count": 2,
    "inrank": true
@@ -3256,7 +3292,7 @@
     }
    ],
    "first": "10:08",
-   "last": "18:10",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "10:08",
@@ -3268,14 +3304,15 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 16
+    "nate_int": 13
    },
    "count": 2,
    "inrank": true
@@ -3297,7 +3334,7 @@
     }
    ],
    "first": "10:08",
-   "last": "18:10",
+   "last": "19:10",
    "best": 7,
    "hours": [
     "10:08",
@@ -3309,14 +3346,15 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 33
+    "nate_int": 32
    },
    "count": 1,
    "inrank": true
@@ -3442,7 +3480,7 @@
     }
    ],
    "first": "11:08",
-   "last": "18:10",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "11:08",
@@ -3453,15 +3491,16 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 25
+    "nate_pop": 29,
+    "nate_int": 26
    },
    "count": 2,
    "inrank": true
@@ -3549,7 +3588,7 @@
     }
    ],
    "first": "12:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 2,
    "hours": [
     "12:10",
@@ -3557,14 +3596,14 @@
     "14:08",
     "15:00",
     "15:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
     "nate_int": 45
    },
    "count": 2,
@@ -3587,7 +3626,7 @@
     }
    ],
    "first": "12:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 3,
    "hours": [
     "12:10",
@@ -3597,15 +3636,16 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 7
+    "nate_pop": 14,
+    "nate_int": 9
    },
    "count": 1,
    "inrank": true
@@ -3634,7 +3674,7 @@
     }
    ],
    "first": "12:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 10,
    "hours": [
     "12:10",
@@ -3643,14 +3683,15 @@
     "15:00",
     "15:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 49
+    "nate_int": 46
    },
    "count": 2,
    "inrank": true
@@ -3707,7 +3748,7 @@
     }
    ],
    "first": "12:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 9,
    "hours": [
     "12:10",
@@ -3717,15 +3758,16 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 21
+    "nate_pop": 16,
+    "nate_int": 16
    },
    "count": 1,
    "inrank": true
@@ -3747,7 +3789,7 @@
     }
    ],
    "first": "12:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 25,
    "hours": [
     "12:10",
@@ -3757,14 +3799,15 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 32
+    "nate_int": 31
    },
    "count": 1,
    "inrank": true
@@ -3820,7 +3863,7 @@
     }
    ],
    "first": "13:11",
-   "last": "18:10",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "13:11",
@@ -3829,15 +3872,16 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 12
+    "nate_pop": 28,
+    "nate_int": 18
    },
    "count": 1,
    "inrank": true
@@ -3892,7 +3936,7 @@
     }
    ],
    "first": "13:11",
-   "last": "18:10",
+   "last": "19:10",
    "best": 8,
    "hours": [
     "13:11",
@@ -3901,7 +3945,8 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
@@ -3909,7 +3954,7 @@
    ],
    "now": {
     "nate_pop": 26,
-    "nate_int": 23
+    "nate_int": 21
    },
    "count": 1,
    "inrank": true
@@ -4084,7 +4129,7 @@
     }
    ],
    "first": "14:08",
-   "last": "18:10",
+   "last": "19:10",
    "best": 4,
    "hours": [
     "14:08",
@@ -4092,15 +4137,15 @@
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 14
+    "nate_int": 20
    },
    "count": 1,
    "inrank": true
@@ -4258,22 +4303,22 @@
     }
    ],
    "first": "15:00",
-   "last": "18:10",
+   "last": "19:10",
    "best": 2,
    "hours": [
     "15:00",
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 24
+    "nate_int": 42
    },
    "count": 7,
    "inrank": true
@@ -4308,11 +4353,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 47
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c104",
@@ -4363,14 +4406,15 @@
     }
    ],
    "first": "15:00",
-   "last": "18:10",
+   "last": "19:10",
    "best": 17,
    "hours": [
     "15:00",
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
@@ -4400,22 +4444,23 @@
     }
    ],
    "first": "15:00",
-   "last": "18:10",
+   "last": "19:10",
    "best": 16,
    "hours": [
     "15:00",
     "15:10",
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 19
+    "nate_pop": 23,
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -4505,20 +4550,21 @@
     }
    ],
    "first": "16:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 3,
    "hours": [
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 11
+    "nate_pop": 24,
+    "nate_int": 22
    },
    "count": 2,
    "inrank": true
@@ -4540,20 +4586,21 @@
     }
    ],
    "first": "16:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 6,
    "hours": [
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 10
+    "nate_pop": 15,
+    "nate_int": 15
    },
    "count": 1,
    "inrank": true
@@ -4575,19 +4622,20 @@
     }
    ],
    "first": "16:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 10,
    "hours": [
     "16:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 30
+    "nate_int": 47
    },
    "count": 1,
    "inrank": true
@@ -4638,19 +4686,20 @@
     }
    ],
    "first": "17:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 5
+    "nate_pop": 10,
+    "nate_int": 8
    },
    "count": 1,
    "inrank": true
@@ -4672,19 +4721,20 @@
     }
    ],
    "first": "17:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 3,
    "hours": [
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 3
+    "nate_pop": 7,
+    "nate_int": 4
    },
    "count": 1,
    "inrank": true
@@ -4706,19 +4756,20 @@
     }
    ],
    "first": "17:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 1,
    "hours": [
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 1
+    "nate_pop": 3,
+    "nate_int": 2
    },
    "count": 1,
    "inrank": true
@@ -4740,19 +4791,20 @@
     }
    ],
    "first": "17:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 6,
    "hours": [
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 8
+    "nate_pop": 13,
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -4774,19 +4826,20 @@
     }
    ],
    "first": "17:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 7,
    "hours": [
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 9
+    "nate_pop": 11,
+    "nate_int": 11
    },
    "count": 1,
    "inrank": true
@@ -4808,18 +4861,20 @@
     }
    ],
    "first": "17:10",
-   "last": "18:10",
-   "best": 22,
+   "last": "19:10",
+   "best": 18,
    "hours": [
     "17:10",
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 44
+    "nate_pop": 18,
+    "nate_int": 41
    },
    "count": 1,
    "inrank": true
@@ -4851,11 +4906,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 31
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c120",
@@ -4874,18 +4927,208 @@
     }
    ],
    "first": "18:10",
-   "last": "18:10",
+   "last": "19:10",
    "best": 30,
    "hours": [
-    "18:10"
+    "18:10",
+    "19:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 30,
     "nate_int": 40
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c121",
+   "title": "\"옆 테이블서 밥 먹어\" 하지원 성시경, 단 둘이 식당서 포착",
+   "titles": [
+    "\"옆 테이블서 밥 먹어\" 하지원 성시경, 단 둘이 식당서 포착"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261104n30222"
+   ],
+   "articles": [
+    {
+     "title": "\"옆 테이블서 밥 먹어\" 하지원 성시경, 단 둘이 식당서 포착",
+     "link": "https://news.nate.com/view/20261104n30222",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 2,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 2,
+    "nate_int": 6
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c122",
+   "title": "'시청률 18.8%' 日 인기 드라마, 中 발칵 뒤집은 고문 장면…역사 왜곡...",
+   "titles": [
+    "'시청률 18.8%' 日 인기 드라마, 中 발칵 뒤집은 고문 장면…역사 왜곡..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261104n34776"
+   ],
+   "articles": [
+    {
+     "title": "'시청률 18.8%' 日 인기 드라마, 中 발칵 뒤집은 고문 장면…역사 왜곡...",
+     "link": "https://news.nate.com/view/20261104n34776",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 5,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 5
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c123",
+   "title": "나나 모녀 위협한 강도, 알고 보니 마트서 와인도 털었다…절도 혐의 기소",
+   "titles": [
+    "나나 모녀 위협한 강도, 알고 보니 마트서 와인도 털었다…절도 혐의 기소"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261104n33644"
+   ],
+   "articles": [
+    {
+     "title": "나나 모녀 위협한 강도, 알고 보니 마트서 와인도 털었다…절도 혐의 기소",
+     "link": "https://news.nate.com/view/20261104n33644",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 12,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 12,
+    "nate_int": 27
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c124",
+   "title": "바비킴 \"생후 5개월 딸 분유값 벌기 위해 유튜브 시작…\" [RE:뷰]",
+   "titles": [
+    "바비킴 \"생후 5개월 딸 분유값 벌기 위해 유튜브 시작…\" [RE:뷰]"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261104n34459"
+   ],
+   "articles": [
+    {
+     "title": "바비킴 \"생후 5개월 딸 분유값 벌기 위해 유튜브 시작…\" [RE:뷰]",
+     "link": "https://news.nate.com/view/20261104n34459",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 22,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 22
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c125",
+   "title": "현빈 '잔뜩 벌크업 된 슈트핏'[엑's HD포토]",
+   "titles": [
+    "현빈 '잔뜩 벌크업 된 슈트핏'[엑's HD포토]"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261104n32628"
+   ],
+   "articles": [
+    {
+     "title": "현빈 '잔뜩 벌크업 된 슈트핏'[엑's HD포토]",
+     "link": "https://news.nate.com/view/20261104n32628",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 44,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 44
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c126",
+   "title": "제이블랙, 에투라 아이찡 발차기 디렉팅 비화 \"이수만 소름 돋았다\"(유퀴즈...",
+   "titles": [
+    "제이블랙, 에투라 아이찡 발차기 디렉팅 비화 \"이수만 소름 돋았다\"(유퀴즈..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261104n31578"
+   ],
+   "articles": [
+    {
+     "title": "제이블랙, 에투라 아이찡 발차기 디렉팅 비화 \"이수만 소름 돋았다\"(유퀴즈...",
+     "link": "https://news.nate.com/view/20261104n31578",
+     "media": "스포츠경향"
+    }
+   ],
+   "first": "19:10",
+   "last": "19:10",
+   "best": 49,
+   "hours": [
+    "19:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 49
    },
    "count": 1,
    "inrank": true
@@ -5059,9 +5302,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "19:10",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-04T18:10:40.574283+09:00",
+ "updated": "2026-11-04T19:10:39.379463+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

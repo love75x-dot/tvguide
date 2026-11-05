@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-05T10:07:52.752871+09:00",
+ "generated": "2026-11-05T11:07:53.023202+09:00",
  "channels": [
   {
    "id": "kbs1",
    "name": "KBS1",
    "ok": true,
-   "updated": "2026-11-05T10:07:52.752871+09:00",
+   "updated": "2026-11-05T11:07:53.023202+09:00",
    "programs": [
     {
      "start": "2026-11-05T05:00:00+09:00",
@@ -241,8 +241,8 @@
     {
      "start": "2026-11-06T11:10:00+09:00",
      "end": "2026-11-06T12:00:00+09:00",
-     "title": "황신혜의 같이 삽시다",
-     "genre": "422",
+     "title": "시사기획 창",
+     "genre": "521",
      "type": "재"
     },
     {
@@ -535,7 +535,7 @@
     {
      "start": "2026-11-07T15:10:00+09:00",
      "end": "2026-11-07T16:00:00+09:00",
-     "title": "역사스페셜 시간여행자",
+     "title": "시사기획 창",
      "genre": "521",
      "type": "재"
     },
@@ -944,7 +944,7 @@
    "id": "kbs2",
    "name": "KBS2",
    "ok": true,
-   "updated": "2026-11-05T10:07:52.752871+09:00",
+   "updated": "2026-11-05T11:07:53.023202+09:00",
    "programs": [
     {
      "start": "2026-11-05T05:00:00+09:00",
@@ -1519,7 +1519,7 @@
    "id": "mbc",
    "name": "MBC",
    "ok": true,
-   "updated": "2026-11-05T10:07:52.752871+09:00",
+   "updated": "2026-11-05T11:07:53.023202+09:00",
    "programs": [
     {
      "start": "2026-11-05T05:00:00+09:00",
@@ -2157,7 +2157,7 @@
    "id": "sbs",
    "name": "SBS",
    "ok": true,
-   "updated": "2026-11-05T10:07:52.752871+09:00",
+   "updated": "2026-11-05T11:07:53.023202+09:00",
    "programs": [
     {
      "start": "2026-11-05T05:00:00+09:00",
@@ -2767,7 +2767,7 @@
    "id": "jtbc",
    "name": "JTBC",
    "ok": true,
-   "updated": "2026-11-05T10:07:52.752871+09:00",
+   "updated": "2026-11-05T11:07:53.023202+09:00",
    "programs": [
     {
      "start": "2026-11-05T00:30:00+09:00",
@@ -3356,7 +3356,7 @@
    "id": "tvchosun",
    "name": "TV조선",
    "ok": true,
-   "updated": "2026-11-05T10:07:52.752871+09:00",
+   "updated": "2026-11-05T11:07:53.023202+09:00",
    "programs": [
     {
      "start": "2026-11-05T00:10:00+09:00",
@@ -4007,9 +4007,8 @@
   {
    "id": "channela",
    "name": "채널A",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='ichannela.com', port=443): Max retries exceeded with url: /com/cmm/schedule.do?selectedDate=20261105 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ichannela.com', port=443) at 0x704ee1d6cda0>, 'Connection to ichannela.com timed out. (connect timeout=20)'))",
-   "updated": "2026-11-05T09:07:53.273682+09:00",
+   "ok": true,
+   "updated": "2026-11-05T11:07:53.023202+09:00",
    "programs": [
     {
      "start": "2026-11-05T00:00:00+09:00",
@@ -5193,7 +5192,7 @@
    "id": "mbn",
    "name": "MBN",
    "ok": true,
-   "updated": "2026-11-05T10:07:52.752871+09:00",
+   "updated": "2026-11-05T11:07:53.023202+09:00",
    "programs": [
     {
      "start": "2026-11-05T02:00:00+09:00",
@@ -5838,7 +5837,7 @@
    "id": "tvn",
    "name": "tvN",
    "ok": true,
-   "updated": "2026-11-05T10:07:52.752871+09:00",
+   "updated": "2026-11-05T11:07:53.023202+09:00",
    "programs": [
     {
      "start": "2026-11-02T05:55:00+09:00",
@@ -6672,7 +6671,7 @@
    "id": "ena",
    "name": "ENA",
    "ok": true,
-   "updated": "2026-11-05T10:07:52.752871+09:00",
+   "updated": "2026-11-05T11:07:53.023202+09:00",
    "programs": [
     {
      "start": "2026-11-05T00:36:00+09:00",

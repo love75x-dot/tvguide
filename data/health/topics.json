@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:10:46.561423+09:00",
+ "updated": "2026-11-05T19:43:07.954915+09:00",
  "topics": [
   {
    "name": "독감",
@@ -497,13 +497,19 @@
   {
    "name": "유방암",
    "kind": "질환·증상",
-   "count": 11,
+   "count": 12,
    "angles": [
     "부작용",
     "에 좋은",
     "효능"
    ],
    "items": [
+    {
+     "title": "단맛 좋아하는 여성, 유방암 위험 28%↑…과일은 괜찮나?",
+     "link": "https://www.hankyung.com/article/2026110593007",
+     "t": "2026-11-05T19:20:00+09:00",
+     "by": "hankyung.com"
+    },
     {
      "title": "\"밥 먹고 꼭 찾았는데\"…여성 유방암 위험 높인 달콤한 '이 음식'",
      "link": "https://view.asiae.co.kr/article/2026110515040815942",
@@ -527,12 +533,6 @@
      "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=334756",
      "t": "2026-11-04T18:22:00+09:00",
      "by": "yakup.com"
-    },
-    {
-     "title": "국립암센터, '유방암 대국민 건강강좌' 개최",
-     "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044298",
-     "t": "2026-11-04T18:02:00+09:00",
-     "by": "docdocdoc.co.kr"
     }
    ]
   },
@@ -818,47 +818,6 @@
    ]
   },
   {
-   "name": "치매",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "의정부성모병원, 지역주민 대상 치매 예방 건강강좌 성료…변선정 교수...",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3741217",
-     "t": "2026-11-03T17:52:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "낮잠 자주 자는 노인, 치매 위험 48% 더 높다…'이런 신호' 주의",
-     "link": "https://zdnet.co.kr/view/?no=20261103155308",
-     "t": "2026-11-03T16:57:00+09:00",
-     "by": "zdnet.co.kr"
-    },
-    {
-     "title": "[현장] \"난청 환자 97%는 방치…사회적 단절에 우울증, 치매 위험까지\"",
-     "link": "https://www.dailian.co.kr/news/view/1710122/?sc=Naver",
-     "t": "2026-11-03T15:03:00+09:00",
-     "by": "dailian.co.kr"
-    },
-    {
-     "title": "\"에어컨 없으면 치매 위험 높아진다?\"… 폭염이 치매 위험 23% 높여",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69576",
-     "t": "2026-11-03T15:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "손가락으로 하나둘, 하나둘…치매 예방 '운동이 된다'",
-     "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2239497",
-     "t": "2026-11-02T19:30:00+09:00",
-     "by": "cctoday.co.kr"
-    }
-   ]
-  },
-  {
    "name": "대장암",
    "kind": "질환·증상",
    "count": 4,
@@ -889,6 +848,41 @@
      "link": "https://kormedi.com/?p=2897120",
      "t": "2026-11-03T09:15:00+09:00",
      "by": "kormedi.com"
+    }
+   ]
+  },
+  {
+   "name": "치매",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "의정부성모병원, 지역주민 대상 치매 예방 건강강좌 성료…변선정 교수...",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3741217",
+     "t": "2026-11-03T17:52:00+09:00",
+     "by": "gukjenews.com"
+    },
+    {
+     "title": "낮잠 자주 자는 노인, 치매 위험 48% 더 높다…'이런 신호' 주의",
+     "link": "https://zdnet.co.kr/view/?no=20261103155308",
+     "t": "2026-11-03T16:57:00+09:00",
+     "by": "zdnet.co.kr"
+    },
+    {
+     "title": "[현장] \"난청 환자 97%는 방치…사회적 단절에 우울증, 치매 위험까지\"",
+     "link": "https://www.dailian.co.kr/news/view/1710122/?sc=Naver",
+     "t": "2026-11-03T15:03:00+09:00",
+     "by": "dailian.co.kr"
+    },
+    {
+     "title": "\"에어컨 없으면 치매 위험 높아진다?\"… 폭염이 치매 위험 23% 높여",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69576",
+     "t": "2026-11-03T15:00:00+09:00",
+     "by": "hidoc.co.kr"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T01:16:08.816053+09:00",
+ "updated": "2026-11-06T02:13:47.666544+09:00",
  "topics": [
   {
    "name": "독감",
@@ -127,13 +127,19 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 29,
+   "count": 30,
    "angles": [
     "에 좋은",
     "부작용",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "“ 혈당 솟구친다”… 당뇨 전 단계 손지창이 ‘오연수 몰래 먹은’ 간식",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110502704.html",
+     "t": "2026-11-06T02:01:00+09:00",
+     "by": "health.chosun.com"
+    },
     {
      "title": "홍삼으로 혈당 관리? 정관장 GLPro 코어, 6개 지표 개선 연구로 기술대상...",
      "link": "https://www.insight.co.kr/news/580804",
@@ -157,12 +163,6 @@
      "link": "http://www.joseilbo.com/news/news_read.php?uid=578993&class=17&grp=",
      "t": "2026-11-05T11:45:00+09:00",
      "by": "joseilbo.com"
-    },
-    {
-     "title": "정관장 'GLPro 코어', 혈당 조절 연구성과 인정… 식품 기술대상 장관상 수...",
-     "link": "https://www.e-science.co.kr/news/articleView.html?idxno=138996",
-     "t": "2026-11-05T10:04:00+09:00",
-     "by": "e-science.co.kr"
     }
    ]
   },
@@ -334,13 +334,19 @@
   {
    "name": "염증",
    "kind": "질환·증상",
-   "count": 16,
+   "count": 17,
    "angles": [
     "에 좋은",
     "먹는 법",
     "부작용"
    ],
    "items": [
+    {
+     "title": "“장내 유익균 죽이고 염증 유발”… 의사가 ‘최악의 간식’으로 꼽은...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110502823.html",
+     "t": "2026-11-06T01:31:00+09:00",
+     "by": "health.chosun.com"
+    },
     {
      "title": "붉고 노란 과일·채소, COPD 염증과 악화 줄이는 데 도움 가능",
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623233",
@@ -364,12 +370,6 @@
      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065601122986903",
      "t": "2026-11-04T17:22:00+09:00",
      "by": "megaeconomy.co.kr"
-    },
-    {
-     "title": "분당서울대병원, 내장지방 염증·섬유화 유발 단백질 'THBS1' 규명",
-     "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1308590",
-     "t": "2026-11-04T15:58:00+09:00",
-     "by": "jeonmae.co.kr"
     }
    ]
   },
@@ -538,6 +538,46 @@
    ]
   },
   {
+   "name": "당뇨",
+   "kind": "질환·증상",
+   "count": 10,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "“ 혈당 솟구친다”… 당뇨 전 단계 손지창이 ‘오연수 몰래 먹은’ 간식",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110502704.html",
+     "t": "2026-11-06T02:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "고혈압·당뇨 등록교육센터 '통합관리센터'로 개편... 전국 확대",
+     "link": "https://www.hg-times.com/news/articleView.html?idxno=306788",
+     "t": "2026-11-05T18:00:00+09:00",
+     "by": "hg-times.com"
+    },
+    {
+     "title": "고혈압·당뇨 관리 전 연령으로 확대…새 통합센터 내년 7월 가동",
+     "link": "https://www.news1.kr/bio/welfare-medical/6344660",
+     "t": "2026-11-05T18:00:00+09:00",
+     "by": "news1.kr"
+    },
+    {
+     "title": "고혈압·당뇨 관리 전 연령으로 확대…건강관리하면 연 8만원 포인트",
+     "link": "https://biz.sbs.co.kr/article_hub/20000344569?division=NAVER",
+     "t": "2026-11-05T17:41:00+09:00",
+     "by": "biz.sbs.co.kr"
+    },
+    {
+     "title": "당뇨 전단계 환자, GLP-1 복용했더니 메트포르민보다 당뇨 진행 위험 31...",
+     "link": "https://www.g-enews.com/view.php?ud=202611051144297527fda4f5ab74_1",
+     "t": "2026-11-05T17:20:00+09:00",
+     "by": "g-enews.com"
+    }
+   ]
+  },
+  {
    "name": "걷기",
    "kind": "운동·생활",
    "count": 9,
@@ -612,46 +652,6 @@
      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601592",
      "t": "2026-11-04T15:02:00+09:00",
      "by": "headlinejeju.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "당뇨",
-   "kind": "질환·증상",
-   "count": 9,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "고혈압·당뇨 등록교육센터 '통합관리센터'로 개편... 전국 확대",
-     "link": "https://www.hg-times.com/news/articleView.html?idxno=306788",
-     "t": "2026-11-05T18:00:00+09:00",
-     "by": "hg-times.com"
-    },
-    {
-     "title": "고혈압·당뇨 관리 전 연령으로 확대…새 통합센터 내년 7월 가동",
-     "link": "https://www.news1.kr/bio/welfare-medical/6344660",
-     "t": "2026-11-05T18:00:00+09:00",
-     "by": "news1.kr"
-    },
-    {
-     "title": "고혈압·당뇨 관리 전 연령으로 확대…건강관리하면 연 8만원 포인트",
-     "link": "https://biz.sbs.co.kr/article_hub/20000344569?division=NAVER",
-     "t": "2026-11-05T17:41:00+09:00",
-     "by": "biz.sbs.co.kr"
-    },
-    {
-     "title": "당뇨 전단계 환자, GLP-1 복용했더니 메트포르민보다 당뇨 진행 위험 31...",
-     "link": "https://www.g-enews.com/view.php?ud=202611051144297527fda4f5ab74_1",
-     "t": "2026-11-05T17:20:00+09:00",
-     "by": "g-enews.com"
-    },
-    {
-     "title": "당뇨 환자 발 붓고 뜨거워지며 모양까지 변한다면…'샤르코 족부병증'",
-     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59810",
-     "t": "2026-11-05T14:16:00+09:00",
-     "by": "koreahealthlog.com"
     }
    ]
   },

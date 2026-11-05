@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-06T01:08:00.072096+09:00",
+ "generated": "2026-11-06T02:07:54.397492+09:00",
  "channels": [
   {
    "id": "kbs1",
    "name": "KBS1",
    "ok": true,
-   "updated": "2026-11-06T01:08:00.072096+09:00",
+   "updated": "2026-11-06T02:07:54.397492+09:00",
    "programs": [
     {
      "start": "2026-11-06T05:00:00+09:00",
@@ -713,7 +713,7 @@
    "id": "kbs2",
    "name": "KBS2",
    "ok": true,
-   "updated": "2026-11-06T01:08:00.072096+09:00",
+   "updated": "2026-11-06T02:07:54.397492+09:00",
    "programs": [
     {
      "start": "2026-11-06T05:00:00+09:00",
@@ -1113,7 +1113,7 @@
    "id": "mbc",
    "name": "MBC",
    "ok": true,
-   "updated": "2026-11-06T01:08:00.072096+09:00",
+   "updated": "2026-11-06T02:07:54.397492+09:00",
    "programs": [
     {
      "start": "2026-11-06T05:00:00+09:00",
@@ -1562,7 +1562,7 @@
    "id": "sbs",
    "name": "SBS",
    "ok": true,
-   "updated": "2026-11-06T01:08:00.072096+09:00",
+   "updated": "2026-11-06T02:07:54.397492+09:00",
    "programs": [
     {
      "start": "2026-11-06T05:00:00+09:00",
@@ -2724,164 +2724,9 @@
   {
    "id": "jtbc",
    "name": "JTBC",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='jtbc.co.kr', port=443): Max retries exceeded with url: /schedule/jtbc/20261106 (Caused by ConnectTimeoutError(<HTTPSConnection(host='jtbc.co.kr', port=443) at 0x7ff97ed97a40>, 'Connection to jtbc.co.kr timed out. (connect timeout=20)'))",
-   "updated": "2026-11-05T23:07:53.477833+09:00",
+   "ok": true,
+   "updated": "2026-11-06T02:07:54.397492+09:00",
    "programs": [
-    {
-     "start": "2026-11-05T00:30:00+09:00",
-     "end": "2026-11-05T01:30:00+09:00",
-     "title": "다큐플러스Q 특별판 10회",
-     "genre": null,
-     "type": "본"
-    },
-    {
-     "start": "2026-11-05T01:30:00+09:00",
-     "end": "2026-11-05T02:50:00+09:00",
-     "title": "냉장고를 부탁해 since 2014 95회",
-     "genre": null,
-     "type": "재"
-    },
-    {
-     "start": "2026-11-05T02:50:00+09:00",
-     "end": "2026-11-05T03:50:00+09:00",
-     "title": "JTBC 스페셜 다큐멘터리 야생 개의 세계: 가족을 만나다 3부",
-     "genre": null,
-     "type": "재"
-    },
-    {
-     "start": "2026-11-05T03:50:00+09:00",
-     "end": "2026-11-05T05:00:00+09:00",
-     "title": "JTBC 스페셜 다큐멘터리 샌드링엄: 왕실의 저택 1부",
-     "genre": null,
-     "type": "재"
-    },
-    {
-     "start": "2026-11-05T05:00:00+09:00",
-     "end": "2026-11-05T06:00:00+09:00",
-     "title": "내 몸을 부탁해 53회",
-     "genre": null,
-     "type": "재"
-    },
-    {
-     "start": "2026-11-05T06:00:00+09:00",
-     "end": "2026-11-05T07:00:00+09:00",
-     "title": "중독자들 137회",
-     "genre": null,
-     "type": "재"
-    },
-    {
-     "start": "2026-11-05T07:00:00+09:00",
-     "end": "2026-11-05T07:30:00+09:00",
-     "title": "코코몽 3 6회",
-     "genre": null,
-     "type": "재"
-    },
-    {
-     "start": "2026-11-05T07:30:00+09:00",
-     "end": "2026-11-05T08:00:00+09:00",
-     "title": "아침&",
-     "genre": null,
-     "type": "생"
-    },
-    {
-     "start": "2026-11-05T08:00:00+09:00",
-     "end": "2026-11-05T09:00:00+09:00",
-     "title": "중독자들 어벤져스 95회",
-     "genre": null,
-     "type": "재"
-    },
-    {
-     "start": "2026-11-05T09:00:00+09:00",
-     "end": "2026-11-05T10:00:00+09:00",
-     "title": "내 몸을 부탁해 54회",
-     "genre": null,
-     "type": "본"
-    },
-    {
-     "start": "2026-11-05T10:00:00+09:00",
-     "end": "2026-11-05T10:50:00+09:00",
-     "title": "중독자들 187회",
-     "genre": null,
-     "type": "재"
-    },
-    {
-     "start": "2026-11-05T10:50:00+09:00",
-     "end": "2026-11-05T11:20:00+09:00",
-     "title": "연애전쟁 핫 클립 10회",
-     "genre": null,
-     "type": "본"
-    },
-    {
-     "start": "2026-11-05T11:20:00+09:00",
-     "end": "2026-11-05T12:20:00+09:00",
-     "title": "건강 1120 26회",
-     "genre": null,
-     "type": "본"
-    },
-    {
-     "start": "2026-11-05T12:20:00+09:00",
-     "end": "2026-11-05T14:10:00+09:00",
-     "title": "톡파원 25시 231회",
-     "genre": null,
-     "type": "재"
-    },
-    {
-     "start": "2026-11-05T14:10:00+09:00",
-     "end": "2026-11-05T16:00:00+09:00",
-     "title": "한블리 (한문철의 블랙박스 리뷰) 193회",
-     "genre": null,
-     "type": "재"
-    },
-    {
-     "start": "2026-11-05T16:00:00+09:00",
-     "end": "2026-11-05T17:00:00+09:00",
-     "title": "이토록 위대한 몸 15회",
-     "genre": null,
-     "type": "재"
-    },
-    {
-     "start": "2026-11-05T17:00:00+09:00",
-     "end": "2026-11-05T18:30:00+09:00",
-     "title": "이가혁 라이브",
-     "genre": null,
-     "type": "생"
-    },
-    {
-     "start": "2026-11-05T18:30:00+09:00",
-     "end": "2026-11-05T20:00:00+09:00",
-     "title": "JTBC 뉴스룸",
-     "genre": null,
-     "type": "생"
-    },
-    {
-     "start": "2026-11-05T20:00:00+09:00",
-     "end": "2026-11-05T20:50:00+09:00",
-     "title": "트렌드 픽 65회",
-     "genre": null,
-     "type": "본"
-    },
-    {
-     "start": "2026-11-05T20:50:00+09:00",
-     "end": "2026-11-05T21:50:00+09:00",
-     "title": "사건반장",
-     "genre": null,
-     "type": "생"
-    },
-    {
-     "start": "2026-11-05T21:50:00+09:00",
-     "end": "2026-11-05T23:50:00+09:00",
-     "title": "이혼숙려캠프 107회",
-     "genre": null,
-     "type": "본"
-    },
-    {
-     "start": "2026-11-05T23:50:00+09:00",
-     "end": "2026-11-06T01:10:00+09:00",
-     "title": "파이널 테이블 3회",
-     "genre": null,
-     "type": "생"
-    },
     {
      "start": "2026-11-06T01:10:00+09:00",
      "end": "2026-11-06T02:30:00+09:00",
@@ -3020,7 +2865,7 @@
      "end": "2026-11-07T00:40:00+09:00",
      "title": "이혼숙려캠프 107회",
      "genre": null,
-     "type": "생"
+     "type": "재"
     },
     {
      "start": "2026-11-07T00:40:00+09:00",
@@ -3315,7 +3160,7 @@
    "id": "tvchosun",
    "name": "TV조선",
    "ok": true,
-   "updated": "2026-11-06T01:08:00.072096+09:00",
+   "updated": "2026-11-06T02:07:54.397492+09:00",
    "programs": [
     {
      "start": "2026-11-06T00:30:00+09:00",
@@ -3799,7 +3644,7 @@
    "id": "channela",
    "name": "채널A",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='ichannela.com', port=443): Max retries exceeded with url: /com/cmm/schedule.do?selectedDate=20261106 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ichannela.com', port=443) at 0x7ff97ed97170>, 'Connection to ichannela.com timed out. (connect timeout=20)'))",
+   "error": "HTTPSConnectionPool(host='ichannela.com', port=443): Max retries exceeded with url: /com/cmm/schedule.do?selectedDate=20261106 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ichannela.com', port=443) at 0x75a5a4fd4f50>, 'Connection to ichannela.com timed out. (connect timeout=20)'))",
    "updated": "2026-11-05T23:07:53.477833+09:00",
    "programs": [
     {
@@ -4984,7 +4829,7 @@
    "id": "mbn",
    "name": "MBN",
    "ok": true,
-   "updated": "2026-11-06T01:08:00.072096+09:00",
+   "updated": "2026-11-06T02:07:54.397492+09:00",
    "programs": [
     {
      "start": "2026-11-06T03:30:00+09:00",
@@ -5468,7 +5313,7 @@
    "id": "tvn",
    "name": "tvN",
    "ok": true,
-   "updated": "2026-11-06T01:08:00.072096+09:00",
+   "updated": "2026-11-06T02:07:54.397492+09:00",
    "programs": [
     {
      "start": "2026-11-03T05:55:00+09:00",
@@ -6295,7 +6140,7 @@
    "id": "ena",
    "name": "ENA",
    "ok": true,
-   "updated": "2026-11-06T01:08:00.072096+09:00",
+   "updated": "2026-11-06T02:07:54.397492+09:00",
    "programs": [
     {
      "start": "2026-11-06T01:20:00+09:00",

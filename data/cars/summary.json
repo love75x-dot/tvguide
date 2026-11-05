@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-05T15:11:00.346025+09:00",
+ "updated": "2026-11-05T16:08:40.514380+09:00",
  "hot": [
   {
    "name": "G80",
-   "count": 11,
-   "prev": 0,
+   "count": 9,
+   "prev": 2,
    "rise": 6,
    "moto": false,
    "why": [
@@ -30,14 +30,14 @@
    "why": []
   },
   {
-   "name": "아반떼",
+   "name": "모델 Y",
    "count": 4,
-   "prev": 5,
-   "rise": 16,
+   "prev": 1,
+   "rise": -1,
    "moto": false,
    "why": [
-    "가격 인하",
-    "출시"
+    "중고차 시세",
+    "판매 1위"
    ]
   },
   {
@@ -49,13 +49,13 @@
    "why": []
   },
   {
-   "name": "모델 Y",
+   "name": "아반떼",
    "count": 3,
-   "prev": 1,
-   "rise": -1,
+   "prev": 6,
+   "rise": 16,
    "moto": false,
    "why": [
-    "중고차 시세"
+    "출시"
    ]
   },
   {
@@ -69,34 +69,29 @@
    ]
   },
   {
+   "name": "쏘나타",
+   "count": 2,
+   "prev": 0,
+   "rise": 4,
+   "moto": false,
+   "why": []
+  },
+  {
+   "name": "그랑 콜레오스",
+   "count": 2,
+   "prev": 0,
+   "rise": -1,
+   "moto": false,
+   "why": []
+  },
+  {
    "name": "그랜저",
-   "count": 3,
-   "prev": 6,
+   "count": 2,
+   "prev": 7,
    "rise": 0,
    "moto": false,
    "why": [
     "출시"
-   ]
-  },
-  {
-   "name": "싼타페",
-   "count": 3,
-   "prev": 7,
-   "rise": 35,
-   "moto": false,
-   "why": [
-    "출시"
-   ]
-  },
-  {
-   "name": "팰리세이드",
-   "count": 2,
-   "prev": 3,
-   "rise": 21,
-   "moto": false,
-   "why": [
-    "가격 공개",
-    "중고차 시세"
    ]
   }
  ],

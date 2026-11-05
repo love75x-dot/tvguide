@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:14:32.418296+09:00",
+ "updated": "2026-11-05T12:10:57.459083+09:00",
  "hot": [
   {
    "name": "G80",
@@ -22,6 +22,16 @@
    ]
   },
   {
+   "name": "모델 Y",
+   "count": 5,
+   "prev": 1,
+   "rise": -1,
+   "moto": false,
+   "why": [
+    "중고차 시세"
+   ]
+  },
+  {
    "name": "아반떼",
    "count": 5,
    "prev": 5,
@@ -41,16 +51,6 @@
    "why": []
   },
   {
-   "name": "모델 Y",
-   "count": 4,
-   "prev": 1,
-   "rise": -1,
-   "moto": false,
-   "why": [
-    "중고차 시세"
-   ]
-  },
-  {
    "name": "스포티지",
    "count": 4,
    "prev": 0,
@@ -62,32 +62,12 @@
    ]
   },
   {
-   "name": "싼타페",
-   "count": 4,
-   "prev": 7,
-   "rise": 35,
-   "moto": false,
-   "why": [
-    "출시"
-   ]
-  },
-  {
    "name": "GV80",
    "count": 4,
    "prev": 4,
    "rise": -5,
    "moto": false,
    "why": []
-  },
-  {
-   "name": "쏘렌토",
-   "count": 3,
-   "prev": 18,
-   "rise": 10,
-   "moto": false,
-   "why": [
-    "중고차 시세"
-   ]
   },
   {
    "name": "투싼",
@@ -97,6 +77,26 @@
    "moto": false,
    "why": [
     "가격 공개"
+   ]
+  },
+  {
+   "name": "그랜저",
+   "count": 3,
+   "prev": 6,
+   "rise": 0,
+   "moto": false,
+   "why": [
+    "출시"
+   ]
+  },
+  {
+   "name": "싼타페",
+   "count": 3,
+   "prev": 7,
+   "rise": 35,
+   "moto": false,
+   "why": [
+    "출시"
    ]
   }
  ],

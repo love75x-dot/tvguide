@@ -1,15 +1,21 @@
 {
- "updated": "2026-11-06T07:08:38.268085+09:00",
+ "updated": "2026-11-06T08:10:48.352769+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 38,
+   "count": 39,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "시중 유통 독감 진단키트 9개 제품 모두 적합 판정",
+     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144027",
+     "t": "2026-11-06T08:12:00+09:00",
+     "by": "medisobizanews.com"
+    },
     {
      "title": "독감에 코로나까지 ‘트윈데믹’… “고령층, 코로나 아직 무섭다”",
      "link": "https://www.chosun.com/economy/science/2026/11/06/SJDVZYR3J5G25JVHCSNVIO6TPU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -33,12 +39,6 @@
      "link": "https://www.gqkorea.co.kr/2026/11/05/%ec%9d%98%ec%82%ac%ea%b0%80-%ea%b2%bd%ea%b3%a0-%eb%8f%85%ea%b0%90%ec%97%90-%eb%8d%94-%ec%9e%98-%ea%b1%b8%eb%a6%ac%eb%8a%94-%ec%82%ac%eb%9e%8c-6/?utm_source=naver&utm_medium=partnership",
      "t": "2026-11-05T22:50:00+09:00",
      "by": "gqkorea.co.kr"
-    },
-    {
-     "title": "아동 독감 유행…7~12세 발생률 최고",
-     "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109379",
-     "t": "2026-11-05T18:42:00+09:00",
-     "by": "ccdn.co.kr"
     }
    ]
   },
@@ -127,7 +127,7 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 30,
+   "count": 29,
    "angles": [
     "에 좋은",
     "부작용",
@@ -292,7 +292,7 @@
   {
    "name": "고혈압",
    "kind": "질환·증상",
-   "count": 18,
+   "count": 17,
    "angles": [
     "부작용",
     "효능",
@@ -538,46 +538,6 @@
    ]
   },
   {
-   "name": "당뇨",
-   "kind": "질환·증상",
-   "count": 10,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "“ 혈당 솟구친다”… 당뇨 전 단계 손지창이 ‘오연수 몰래 먹은’ 간식",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110502704.html",
-     "t": "2026-11-06T02:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "고혈압·당뇨 등록교육센터 '통합관리센터'로 개편... 전국 확대",
-     "link": "https://www.hg-times.com/news/articleView.html?idxno=306788",
-     "t": "2026-11-05T18:00:00+09:00",
-     "by": "hg-times.com"
-    },
-    {
-     "title": "고혈압·당뇨 관리 전 연령으로 확대…새 통합센터 내년 7월 가동",
-     "link": "https://www.news1.kr/bio/welfare-medical/6344660",
-     "t": "2026-11-05T18:00:00+09:00",
-     "by": "news1.kr"
-    },
-    {
-     "title": "고혈압·당뇨 관리 전 연령으로 확대…건강관리하면 연 8만원 포인트",
-     "link": "https://biz.sbs.co.kr/article_hub/20000344569?division=NAVER",
-     "t": "2026-11-05T17:41:00+09:00",
-     "by": "biz.sbs.co.kr"
-    },
-    {
-     "title": "당뇨 전단계 환자, GLP-1 복용했더니 메트포르민보다 당뇨 진행 위험 31...",
-     "link": "https://www.g-enews.com/view.php?ud=202611051144297527fda4f5ab74_1",
-     "t": "2026-11-05T17:20:00+09:00",
-     "by": "g-enews.com"
-    }
-   ]
-  },
-  {
    "name": "걷기",
    "kind": "운동·생활",
    "count": 9,
@@ -656,9 +616,49 @@
    ]
   },
   {
+   "name": "당뇨",
+   "kind": "질환·증상",
+   "count": 9,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "“ 혈당 솟구친다”… 당뇨 전 단계 손지창이 ‘오연수 몰래 먹은’ 간식",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110502704.html",
+     "t": "2026-11-06T02:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "고혈압·당뇨 등록교육센터 '통합관리센터'로 개편... 전국 확대",
+     "link": "https://www.hg-times.com/news/articleView.html?idxno=306788",
+     "t": "2026-11-05T18:00:00+09:00",
+     "by": "hg-times.com"
+    },
+    {
+     "title": "고혈압·당뇨 관리 전 연령으로 확대…새 통합센터 내년 7월 가동",
+     "link": "https://www.news1.kr/bio/welfare-medical/6344660",
+     "t": "2026-11-05T18:00:00+09:00",
+     "by": "news1.kr"
+    },
+    {
+     "title": "고혈압·당뇨 관리 전 연령으로 확대…건강관리하면 연 8만원 포인트",
+     "link": "https://biz.sbs.co.kr/article_hub/20000344569?division=NAVER",
+     "t": "2026-11-05T17:41:00+09:00",
+     "by": "biz.sbs.co.kr"
+    },
+    {
+     "title": "당뇨 전단계 환자, GLP-1 복용했더니 메트포르민보다 당뇨 진행 위험 31...",
+     "link": "https://www.g-enews.com/view.php?ud=202611051144297527fda4f5ab74_1",
+     "t": "2026-11-05T17:20:00+09:00",
+     "by": "g-enews.com"
+    }
+   ]
+  },
+  {
    "name": "수면",
    "kind": "운동·생활",
-   "count": 9,
+   "count": 7,
    "angles": [
     "효능",
     "부작용"
@@ -830,6 +830,12 @@
    ],
    "items": [
     {
+     "title": "‘시금치’ 뽀빠이 힘이 나지 않지만 “ 혈압 은 내려줍니다”",
+     "link": "https://lady.khan.co.kr/khlady.html?mode=view&artid=202611060800001&code=9",
+     "t": "2026-11-06T08:01:00+09:00",
+     "by": "lady.khan.co.kr"
+    },
+    {
      "title": "이경실, “‘이것’ 먹고 10kg 쪘다”… 혈당·혈압·콜레스테롤까지 망...",
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/04/2026110401940.html",
      "t": "2026-11-04T17:01:00+09:00",
@@ -852,12 +858,6 @@
      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3741348",
      "t": "2026-11-03T20:18:00+09:00",
      "by": "gukjenews.com"
-    },
-    {
-     "title": "\"아침최저 0도\" 초겨울 날씨…혈압 건강 도 '비상'",
-     "link": "https://www.newsis.com/view/NISX20261103_0003852567",
-     "t": "2026-11-03T11:23:00+09:00",
-     "by": "newsis.com"
     }
    ]
   },

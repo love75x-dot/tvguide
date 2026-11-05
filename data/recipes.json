@@ -1,12 +1,37 @@
 {
- "updated": "2026-11-05T20:10:51.372610+09:00",
+ "updated": "2026-11-05T21:08:38.715712+09:00",
  "ended": [
-  "6시 내고향",
-  "생방송 투데이",
-  "생생정보",
-  "오늘N"
+  "생생정보"
  ],
  "articles": [
+  {
+   "title": "오윤아 \"콩물로 만든 들기름콩국수\"…'관리 퀸' 레시피",
+   "link": "https://www.news1.kr/entertain/broadcast-tv/6344819",
+   "t": "2026-11-05T21:07:00+09:00",
+   "show": null,
+   "by": "news1.kr"
+  },
+  {
+   "title": "‘편스토랑’ 오윤아 콩물단팥죽·들기름콩국수 레시피",
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611040237",
+   "t": "2026-11-05T20:42:00+09:00",
+   "show": "편스토랑",
+   "by": "bntnews.co.kr"
+  },
+  {
+   "title": "'편스토랑' 이유리 아삭우엉잡채·호떡 레시피",
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611050229",
+   "t": "2026-11-05T20:38:00+09:00",
+   "show": "편스토랑",
+   "by": "bntnews.co.kr"
+  },
+  {
+   "title": "'편스토랑' 오윤아 들기름 콩국수·콩물 단팥죽 완성",
+   "link": "https://enter.etoday.co.kr/news/view/304808",
+   "t": "2026-11-05T20:26:00+09:00",
+   "show": "편스토랑",
+   "by": "enter.etoday.co.kr"
+  },
   {
    "title": "'6시내고향' 식재료 원정대, 장준감 순무 요리 3종 레시피 공개",
    "link": "https://www.joongangenews.com/news/articleView.html?idxno=561611",
@@ -36,13 +61,6 @@
    "by": "yna.co.kr"
   },
   {
-   "title": "안동의 맛과 멋, 만화으로 만난다…경북문화재단, '안동 선비의 레시피 ...",
-   "link": "https://www.imaeil.com/page/view/2026110511351988404",
-   "t": "2026-11-05T15:25:00+09:00",
-   "show": null,
-   "by": "imaeil.com"
-  },
-  {
    "title": "“닭가슴살·샐러드 질려”…소유가 공개 한 ‘이 레시피 ’, 살 빼는 데...",
    "link": "https://kormedi.com/?p=2898069",
    "t": "2026-11-05T15:06:00+09:00",
@@ -62,42 +80,58 @@
    "t": "2026-11-03T00:00:00+09:00",
    "show": null,
    "by": "newsis.com"
-  },
-  {
-   "title": "' 생방송 투데이 ' 맛집 어디…페퍼로니 갑오징어볶음·뇨끼·화분샐러드...",
-   "link": "https://www.wikitree.co.kr/articles/1171186",
-   "t": "2026-11-02T22:00:00+09:00",
-   "show": "생방송 투데이",
-   "by": "wikitree.co.kr"
-  },
-  {
-   "title": "거미, 신동엽 7년째 극찬한 레시피 없는 장어 양념장 “다시하면 못해”",
-   "link": "https://www.mk.co.kr/article/12193911",
-   "t": "2026-11-02T20:49:00+09:00",
-   "show": null,
-   "by": "mk.co.kr"
   }
  ],
  "dishes": [
   {
-   "name": "갑오징어볶음",
-   "count": 1,
+   "name": "들기름콩국수",
+   "count": 2,
    "shows": [
-    "생방송 투데이"
+    "편스토랑"
    ],
-   "link": "https://www.wikitree.co.kr/articles/1171186",
-   "title": "' 생방송 투데이 ' 맛집 어디…페퍼로니 갑오징어볶음·뇨끼·화분샐러드...",
-   "t": "2026-11-02T22:00:00+09:00"
+   "link": "https://www.news1.kr/entertain/broadcast-tv/6344819",
+   "title": "오윤아 \"콩물로 만든 들기름콩국수\"…'관리 퀸' 레시피",
+   "t": "2026-11-05T21:07:00+09:00"
   },
   {
-   "name": "화분샐러드",
+   "name": "콩국수",
    "count": 1,
    "shows": [
-    "생방송 투데이"
+    "편스토랑"
    ],
-   "link": "https://www.wikitree.co.kr/articles/1171186",
-   "title": "' 생방송 투데이 ' 맛집 어디…페퍼로니 갑오징어볶음·뇨끼·화분샐러드...",
-   "t": "2026-11-02T22:00:00+09:00"
+   "link": "https://enter.etoday.co.kr/news/view/304808",
+   "title": "'편스토랑' 오윤아 들기름 콩국수·콩물 단팥죽 완성",
+   "t": "2026-11-05T20:26:00+09:00"
+  },
+  {
+   "name": "단팥죽",
+   "count": 1,
+   "shows": [
+    "편스토랑"
+   ],
+   "link": "https://enter.etoday.co.kr/news/view/304808",
+   "title": "'편스토랑' 오윤아 들기름 콩국수·콩물 단팥죽 완성",
+   "t": "2026-11-05T20:26:00+09:00"
+  },
+  {
+   "name": "아삭우엉잡채",
+   "count": 1,
+   "shows": [
+    "편스토랑"
+   ],
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611050229",
+   "title": "'편스토랑' 이유리 아삭우엉잡채·호떡 레시피",
+   "t": "2026-11-05T20:38:00+09:00"
+  },
+  {
+   "name": "콩물단팥죽",
+   "count": 1,
+   "shows": [
+    "편스토랑"
+   ],
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611040237",
+   "title": "‘편스토랑’ 오윤아 콩물단팥죽·들기름콩국수 레시피",
+   "t": "2026-11-05T20:42:00+09:00"
   }
  ]
 }

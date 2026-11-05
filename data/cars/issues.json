@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-05T20:10:51.372610+09:00",
+ "updated": "2026-11-05T21:08:38.715712+09:00",
  "car": [
   {
    "name": "관세",
-   "count": 34,
+   "count": 33,
    "items": [
+    {
+     "title": "미 의회 뒤집혀도 ‘ 관세 ’ 계속…K 자동차 막는 ‘장벽’ 더 있다",
+     "link": "https://www.khan.co.kr/article/202611052043015",
+     "t": "2026-11-05T20:43:00+09:00",
+     "by": "khan.co.kr"
+    },
     {
      "title": "급락장 속 자동차주 상승‥복잡해진 관세·대미투자 셈법",
      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863506_37004.html",
@@ -28,12 +34,6 @@
      "link": "https://www.edaily.co.kr/News/Read?newsId=06537046645642768&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
      "t": "2026-11-05T17:22:00+09:00",
      "by": "edaily.co.kr"
-    },
-    {
-     "title": "인도, 전자·배터리 핵심 부품 관세 면제… 무엇이 달라지나",
-     "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=102067",
-     "t": "2026-11-05T17:20:00+09:00",
-     "by": "weeklytrade.co.kr"
     }
    ]
   },
@@ -110,8 +110,44 @@
    ]
   },
   {
+   "name": "일자리 생태계",
+   "count": 12,
+   "items": [
+    {
+     "title": "경북·대구 손잡고 일자리 생태계 구축한다",
+     "link": "https://www.yeongnam.com/web/view.php?key=20261105024019040",
+     "t": "2026-11-05T20:30:00+09:00",
+     "by": "yeongnam.com"
+    },
+    {
+     "title": "대구경북 미래모빌리티 중심 초광역 일자리 생태계 조성 나선다",
+     "link": "https://www.kbmaeil.com/article/20261105500692",
+     "t": "2026-11-05T18:06:00+09:00",
+     "by": "kbmaeil.com"
+    },
+    {
+     "title": "TK, 100억 투입해 ‘초광역 일자리 생태계’ 만든다…미래모빌리티가 중...",
+     "link": "https://www.sedaily.com/article/20110786?ref=naver",
+     "t": "2026-11-05T17:04:00+09:00",
+     "by": "sedaily.com"
+    },
+    {
+     "title": "경북·대구, 4년간 100억원 투입…미래모빌리티 초광역 일자리 생태계 ...",
+     "link": "https://www.imaeil.com/page/view/2026110516320179560",
+     "t": "2026-11-05T16:44:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "경북·대구, 4년간 100억 원 들여 초광역 일자리 생태계 구축한다",
+     "link": "https://www.hankyung.com/article/202611058845h",
+     "t": "2026-11-05T16:26:00+09:00",
+     "by": "hankyung.com"
+    }
+   ]
+  },
+  {
    "name": "로봇",
-   "count": 24,
+   "count": 23,
    "items": [
     {
      "title": "ETRI, 로봇 ‘두뇌’ 개발에 집중…피지컬 AI 연구성과 공개",
@@ -146,74 +182,38 @@
    ]
   },
   {
-   "name": "전기차",
-   "count": 23,
+   "name": "자율주행",
+   "count": 19,
    "items": [
     {
-     "title": "전기차 배터리 제조사 숨긴 벤츠… 차주 1인당 400만원 배상 결정",
-     "link": "http://fpn119.co.kr/258998",
-     "t": "2026-11-05T19:48:00+09:00",
-     "by": "fpn119.co.kr"
+     "title": "용인시, 동백서 자율주행 신호-위치정보 통합 첫 실증",
+     "link": "https://www.cnbnews.com/news/articleView.html?idxno=1022548",
+     "t": "2026-11-05T20:52:00+09:00",
+     "by": "cnbnews.com"
     },
     {
-     "title": "BMW , 8세대 신형 3시리즈 본격 생산…내연기관·전기차 '투트랙'",
-     "link": "https://www.gpkorea.com/news/articleView.html?idxno=148336",
-     "t": "2026-11-05T19:00:00+09:00",
-     "by": "gpkorea.com"
+     "title": "강릉에서 '전국 최초' 24시간 자율주행 에 벽지노선까지",
+     "link": "https://www.mbceg.co.kr/post/141709",
+     "t": "2026-11-05T20:38:00+09:00",
+     "by": "mbceg.co.kr"
     },
     {
-     "title": "2t 전기차 주차 가능 기계식 주차장, 전국 507곳 불과",
-     "link": "https://www.kmib.co.kr/article/20261105501699",
-     "t": "2026-11-05T18:04:00+09:00",
-     "by": "kmib.co.kr"
+     "title": "TYM, 레벨3 자율주행 트랙터 공개",
+     "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489042",
+     "t": "2026-11-05T19:25:00+09:00",
+     "by": "enewstoday.co.kr"
     },
     {
-     "title": "\"고장나도 못 고쳐\" 충청권 전기차 10만대 넘었는데…수리는 '막막'",
-     "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2311828",
-     "t": "2026-11-05T17:18:00+09:00",
-     "by": "daejonilbo.com"
+     "title": "기아차, 광주서 만들고 광주 도심 달리며 ‘ 자율주행 실증’",
+     "link": "http://www.kwangju.co.kr/article.php?aid=1793873400805069277",
+     "t": "2026-11-05T19:14:00+09:00",
+     "by": "kwangju.co.kr"
     },
     {
-     "title": "전기차 시장 살아나는데…中배터리 점유율만 늘었다",
-     "link": "https://www.dt.co.kr/article/12093470?ref=naver",
-     "t": "2026-11-05T16:58:00+09:00",
-     "by": "dt.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "중간선거",
-   "count": 18,
-   "items": [
-    {
-     "title": "美 중간선거에 산 업계 희비…반도체 규제 우려",
-     "link": "http://www.yonhapnewstv.co.kr/news/MYH20261105184242jAy",
-     "t": "2026-11-05T18:43:00+09:00",
-     "by": "yonhapnewstv.co.kr"
-    },
-    {
-     "title": "'검은 목요일'에도 '친환경·車'는 웃었다··· 美 중간선거 수혜주 어...",
-     "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307956",
-     "t": "2026-11-05T17:30:00+09:00",
-     "by": "greenpostkorea.co.kr"
-    },
-    {
-     "title": "[퇴근길머니] 가상자산 과세 또 유예…중간선거 최대 패배자는?",
-     "link": "http://www.yonhapnewstv.co.kr/news/MYH20261105172539VRC",
-     "t": "2026-11-05T17:26:00+09:00",
-     "by": "yonhapnewstv.co.kr"
-    },
-    {
-     "title": "美 중간선거發 AI 규제 우려에 코스피 5.28%↓…5400선 붕괴",
-     "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324946",
-     "t": "2026-11-05T17:20:00+09:00",
-     "by": "pointdaily.co.kr"
-    },
-    {
-     "title": "코스피, 美 중간선거 후폭풍에 5% 하락...업종별 전망은?",
-     "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=314728",
-     "t": "2026-11-05T16:40:00+09:00",
-     "by": "straightnews.co.kr"
+     "title": "\" 자율주행 안전성 구현\"···볼보, 엔비디아와 손잡았다",
+     "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489044",
+     "t": "2026-11-05T18:16:00+09:00",
+     "by": "enewstoday.co.kr"
     }
    ]
   }

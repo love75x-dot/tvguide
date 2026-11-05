@@ -1,6 +1,10 @@
 {
- "updated": "2026-11-05T18:08:38.338774+09:00",
- "ended": [],
+ "updated": "2026-11-05T19:10:46.561423+09:00",
+ "ended": [
+  "6시 내고향",
+  "생방송 투데이",
+  "오늘N"
+ ],
  "articles": [
   {
    "title": "'6시내고향' 식재료 원정대, 장준감 순무 요리 3종 레시피 공개",
@@ -10,18 +14,18 @@
    "by": "joongangenews.com"
   },
   {
-   "title": "'안동 선비의 레시피 3' 카카오페이지 공개 …음식에 담은 로맨스",
-   "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089771",
-   "t": "2026-11-05T16:12:00+09:00",
-   "show": null,
-   "by": "kyongbuk.co.kr"
-  },
-  {
    "title": "안동 음식·관광명소 담은 웹툰 '안동 선비의 레시피 3' 공개",
    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080298",
    "t": "2026-11-05T16:12:00+09:00",
    "show": null,
    "by": "shinailbo.co.kr"
+  },
+  {
+   "title": "'안동 선비의 레시피 3' 카카오페이지 공개 …음식에 담은 로맨스",
+   "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089771",
+   "t": "2026-11-05T16:12:00+09:00",
+   "show": null,
+   "by": "kyongbuk.co.kr"
   },
   {
    "title": "'탁' 하는 소리 적고 맛도 변하고…켈로그 레시피 변경에 불만",
@@ -59,6 +63,13 @@
    "by": "newsis.com"
   },
   {
+   "title": "' 생방송 투데이 ' 맛집 어디…페퍼로니 갑오징어볶음·뇨끼·화분샐러드...",
+   "link": "https://www.wikitree.co.kr/articles/1171186",
+   "t": "2026-11-02T22:00:00+09:00",
+   "show": "생방송 투데이",
+   "by": "wikitree.co.kr"
+  },
+  {
    "title": "거미, 신동엽 7년째 극찬한 레시피 없는 장어 양념장 “다시하면 못해”",
    "link": "https://www.mk.co.kr/article/12193911",
    "t": "2026-11-02T20:49:00+09:00",
@@ -73,5 +84,26 @@
    "by": "news1.kr"
   }
  ],
- "dishes": []
+ "dishes": [
+  {
+   "name": "갑오징어볶음",
+   "count": 1,
+   "shows": [
+    "생방송 투데이"
+   ],
+   "link": "https://www.wikitree.co.kr/articles/1171186",
+   "title": "' 생방송 투데이 ' 맛집 어디…페퍼로니 갑오징어볶음·뇨끼·화분샐러드...",
+   "t": "2026-11-02T22:00:00+09:00"
+  },
+  {
+   "name": "화분샐러드",
+   "count": 1,
+   "shows": [
+    "생방송 투데이"
+   ],
+   "link": "https://www.wikitree.co.kr/articles/1171186",
+   "title": "' 생방송 투데이 ' 맛집 어디…페퍼로니 갑오징어볶음·뇨끼·화분샐러드...",
+   "t": "2026-11-02T22:00:00+09:00"
+  }
+ ]
 }

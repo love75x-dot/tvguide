@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-05T09:08:41.300498+09:00",
+ "updated": "2026-11-05T10:10:47.223693+09:00",
  "hot": [
   {
    "name": "G80",
    "count": 11,
    "prev": 0,
-   "rise": -29,
+   "rise": 6,
    "moto": false,
    "why": [
     "출시"
@@ -15,36 +15,17 @@
    "name": "필랑트",
    "count": 7,
    "prev": 0,
-   "rise": -10,
+   "rise": 29,
    "moto": false,
    "why": [
     "출시"
    ]
   },
   {
-   "name": "PV5",
-   "count": 5,
-   "prev": 0,
-   "rise": -33,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "스포티지",
-   "count": 4,
-   "prev": 0,
-   "rise": -32,
-   "moto": false,
-   "why": [
-    "판매 1위",
-    "가격 공개"
-   ]
-  },
-  {
    "name": "아반떼",
-   "count": 4,
+   "count": 5,
    "prev": 5,
-   "rise": -22,
+   "rise": 16,
    "moto": false,
    "why": [
     "가격 인하",
@@ -52,18 +33,57 @@
    ]
   },
   {
-   "name": "GV80",
-   "count": 4,
-   "prev": 4,
-   "rise": -35,
+   "name": "PV5",
+   "count": 5,
+   "prev": 0,
+   "rise": 5,
    "moto": false,
    "why": []
   },
   {
    "name": "모델 Y",
-   "count": 3,
+   "count": 4,
    "prev": 1,
    "rise": -1,
+   "moto": false,
+   "why": [
+    "중고차 시세"
+   ]
+  },
+  {
+   "name": "스포티지",
+   "count": 4,
+   "prev": 0,
+   "rise": 3,
+   "moto": false,
+   "why": [
+    "판매 1위",
+    "가격 공개"
+   ]
+  },
+  {
+   "name": "싼타페",
+   "count": 4,
+   "prev": 7,
+   "rise": 35,
+   "moto": false,
+   "why": [
+    "출시"
+   ]
+  },
+  {
+   "name": "GV80",
+   "count": 4,
+   "prev": 4,
+   "rise": -5,
+   "moto": false,
+   "why": []
+  },
+  {
+   "name": "쏘렌토",
+   "count": 3,
+   "prev": 18,
+   "rise": 10,
    "moto": false,
    "why": [
     "중고차 시세"
@@ -73,30 +93,10 @@
    "name": "투싼",
    "count": 3,
    "prev": 0,
-   "rise": -46,
+   "rise": -22,
    "moto": false,
    "why": [
     "가격 공개"
-   ]
-  },
-  {
-   "name": "그랜저",
-   "count": 3,
-   "prev": 6,
-   "rise": -32,
-   "moto": false,
-   "why": [
-    "출시"
-   ]
-  },
-  {
-   "name": "싼타페",
-   "count": 3,
-   "prev": 7,
-   "rise": -5,
-   "moto": false,
-   "why": [
-    "출시"
    ]
   }
  ],

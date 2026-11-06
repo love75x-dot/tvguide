@@ -1,15 +1,33 @@
 {
- "updated": "2026-11-06T12:10:42.977911+09:00",
+ "updated": "2026-11-06T13:10:57.897935+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 56,
+   "count": 60,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "독감 환자 다시 증가…7~12세 발생률 최고·고령층 입원 급증",
+     "link": "https://www.newswhoplus.com/news/articleView.html?idxno=73670",
+     "t": "2026-11-06T13:08:00+09:00",
+     "by": "newswhoplus.com"
+    },
+    {
+     "title": "식약처, 독감 진단키트 9개 제품 검사…A·B형 모두 '적합'",
+     "link": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45516",
+     "t": "2026-11-06T12:46:00+09:00",
+     "by": "hemophilia.co.kr"
+    },
+    {
+     "title": "병·의원 사용 독감 키트 9종 품질검사 \"모두 적합\"",
+     "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=167165",
+     "t": "2026-11-06T12:44:00+09:00",
+     "by": "doctorsnews.co.kr"
+    },
     {
      "title": "주춤하던 독감 2주 연속 증가, 입원도 ↑…“아동·노인 예방접종 서둘...",
      "link": "https://www.joongang.co.kr/article/25476328",
@@ -21,24 +39,6 @@
      "link": "https://www.sedaily.com/article/20111089?ref=naver",
      "t": "2026-11-06T11:15:00+09:00",
      "by": "sedaily.com"
-    },
-    {
-     "title": "주춤하던 독감 다시 확산···의심환자 2주 새 28.8% 증가",
-     "link": "https://www.datasom.co.kr/news/articleView.html?idxno=210689",
-     "t": "2026-11-06T11:14:00+09:00",
-     "by": "datasom.co.kr"
-    },
-    {
-     "title": "\" 독감 (인플루엔자), 주로 A형·B형 바이러스에 발생\"",
-     "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194294",
-     "t": "2026-11-06T11:12:00+09:00",
-     "by": "wikileaks-kr.org"
-    },
-    {
-     "title": "“ 독감 다시 번진다”…초등학생 중심 확산, 입원환자도 급증",
-     "link": "https://www.nongmin.com/article/20261106500077",
-     "t": "2026-11-06T11:01:00+09:00",
-     "by": "nongmin.com"
     }
    ]
   },
@@ -167,6 +167,47 @@
    ]
   },
   {
+   "name": "코로나",
+   "kind": "질환·증상",
+   "count": 21,
+   "angles": [
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "코로나19 팬데믹 스트레스, 청소년 생물학적 노화 가속과 연관",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623486",
+     "t": "2026-11-06T12:42:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "11월 11일부터 고위험군 소아·영유아 코로나19 백신 접종 시작",
+     "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978301",
+     "t": "2026-11-06T09:40:00+09:00",
+     "by": "medicalworldnews.co.kr"
+    },
+    {
+     "title": "독감에 코로나까지 ‘트윈데믹’… “고령층, 코로나 아직 무섭다”",
+     "link": "https://www.chosun.com/economy/science/2026/11/06/SJDVZYR3J5G25JVHCSNVIO6TPU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "t": "2026-11-06T07:01:00+09:00",
+     "by": "chosun.com"
+    },
+    {
+     "title": "고위험군 소아·영유아 코로나19 예방 접종 11일 시작…모더나 백신 도입",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3015770",
+     "t": "2026-11-05T20:34:00+09:00",
+     "by": "bosa.co.kr"
+    },
+    {
+     "title": "면역 약한 아이 코로나 백신 접종 11일 시작⋯생후 6개월~11세 대상",
+     "link": "https://kormedi.com/?p=2899696",
+     "t": "2026-11-05T17:22:00+09:00",
+     "by": "kormedi.com"
+    }
+   ]
+  },
+  {
    "name": "유산균",
    "kind": "영양제",
    "count": 20,
@@ -209,43 +250,44 @@
    ]
   },
   {
-   "name": "코로나",
+   "name": "감기",
    "kind": "질환·증상",
-   "count": 20,
+   "count": 19,
    "angles": [
     "에 좋은",
+    "먹는 법",
     "부작용"
    ],
    "items": [
     {
-     "title": "11월 11일부터 고위험군 소아·영유아 코로나19 백신 접종 시작",
-     "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978301",
-     "t": "2026-11-06T09:40:00+09:00",
-     "by": "medicalworldnews.co.kr"
+     "title": "\" 감기 약도 잘못 먹으면 중독\"…청소년 오남용 예방 교육",
+     "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044346",
+     "t": "2026-11-06T12:22:00+09:00",
+     "by": "docdocdoc.co.kr"
     },
     {
-     "title": "독감에 코로나까지 ‘트윈데믹’… “고령층, 코로나 아직 무섭다”",
-     "link": "https://www.chosun.com/economy/science/2026/11/06/SJDVZYR3J5G25JVHCSNVIO6TPU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-     "t": "2026-11-06T07:01:00+09:00",
-     "by": "chosun.com"
+     "title": "\" 감기 약·수면유도제 1통씩만\"…창고형약국 부랴부랴 빗장",
+     "link": "https://www.dailypharm.com/user/news/344251?REFERER=NP",
+     "t": "2026-11-06T12:02:00+09:00",
+     "by": "dailypharm.com"
     },
     {
-     "title": "고위험군 소아·영유아 코로나19 예방 접종 11일 시작…모더나 백신 도입",
-     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3015770",
-     "t": "2026-11-05T20:34:00+09:00",
-     "by": "bosa.co.kr"
+     "title": "이기찬, 약국 ' 감기 ' 버스킹 대박 났나? 한파 예방 홍보대사 발탁 (고막...",
+     "link": "http://www.atstar1.com/news/articleView.html?idxno=6040417",
+     "t": "2026-11-06T11:55:00+09:00",
+     "by": "atstar1.com"
     },
     {
-     "title": "면역 약한 아이 코로나 백신 접종 11일 시작⋯생후 6개월~11세 대상",
-     "link": "https://kormedi.com/?p=2899696",
-     "t": "2026-11-05T17:22:00+09:00",
-     "by": "kormedi.com"
+     "title": "이기찬, ‘ 감기 ’ 버스킹 화제에 “다음은 ‘춤추는 나무’로 전통시장...",
+     "link": "https://sports.khan.co.kr/article/202611061150023?pt=nv",
+     "t": "2026-11-06T11:51:00+09:00",
+     "by": "sports.khan.co.kr"
     },
     {
-     "title": "음성군 보건소 코로나19 무료 예방 접종 당부",
-     "link": "https://www.dynews.co.kr/news/articleView.html?idxno=872662",
-     "t": "2026-11-05T17:21:00+09:00",
-     "by": "dynews.co.kr"
+     "title": "이기찬 약국 버스킹 비화, ' 감기 '로 한파 예방 홍보대사까지",
+     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16269773",
+     "t": "2026-11-06T10:46:00+09:00",
+     "by": "topstarnews.net"
     }
    ]
   },
@@ -292,47 +334,6 @@
    ]
   },
   {
-   "name": "감기",
-   "kind": "질환·증상",
-   "count": 18,
-   "angles": [
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "\" 감기 약·수면유도제 1통씩만\"…창고형약국 부랴부랴 빗장",
-     "link": "https://www.dailypharm.com/user/news/344251?REFERER=NP",
-     "t": "2026-11-06T12:02:00+09:00",
-     "by": "dailypharm.com"
-    },
-    {
-     "title": "이기찬, 약국 ' 감기 ' 버스킹 대박 났나? 한파 예방 홍보대사 발탁 (고막...",
-     "link": "http://www.atstar1.com/news/articleView.html?idxno=6040417",
-     "t": "2026-11-06T11:55:00+09:00",
-     "by": "atstar1.com"
-    },
-    {
-     "title": "이기찬, ‘ 감기 ’ 버스킹 화제에 “다음은 ‘춤추는 나무’로 전통시장...",
-     "link": "https://sports.khan.co.kr/article/202611061150023?pt=nv",
-     "t": "2026-11-06T11:51:00+09:00",
-     "by": "sports.khan.co.kr"
-    },
-    {
-     "title": "이기찬 약국 버스킹 비화, ' 감기 '로 한파 예방 홍보대사까지",
-     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16269773",
-     "t": "2026-11-06T10:46:00+09:00",
-     "by": "topstarnews.net"
-    },
-    {
-     "title": "찬바람 부니 곳곳서 \"콜록콜록\"…감기 아닌 이 질환?",
-     "link": "https://www.newsis.com/view/NISX20261106_0003857600",
-     "t": "2026-11-06T10:34:00+09:00",
-     "by": "newsis.com"
-    }
-   ]
-  },
-  {
    "name": "고혈압",
    "kind": "질환·증상",
    "count": 18,
@@ -375,48 +376,6 @@
    ]
   },
   {
-   "name": "염증",
-   "kind": "질환·증상",
-   "count": 15,
-   "angles": [
-    "에 좋은",
-    "먹는 법",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "임플란트 흔들림과 잇몸 염증, 치과 검진 시 재수술 여부 판단하는 기준...",
-     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=143978",
-     "t": "2026-11-06T10:00:00+09:00",
-     "by": "medisobizanews.com"
-    },
-    {
-     "title": "예지원 “코에서 시작된 염증, 전신 건강 까지 위협” (이토록 위대한 몸...",
-     "link": "https://www.bntnews.co.kr/article/view/bnt202611060161",
-     "t": "2026-11-06T09:58:00+09:00",
-     "by": "bntnews.co.kr"
-    },
-    {
-     "title": "“장내 유익균 죽이고 염증 유발”… 의사가 ‘최악의 간식’으로 꼽은...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110502823.html",
-     "t": "2026-11-06T01:31:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "붉고 노란 과일·채소, COPD 염증과 악화 줄이는 데 도움 가능",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623233",
-     "t": "2026-11-05T15:56:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "“염증 싹 사라진다”… 과메기 ‘이 조합’으로 먹으면 영양 폭발",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110501467.html",
-     "t": "2026-11-05T13:01:00+09:00",
-     "by": "health.chosun.com"
-    }
-   ]
-  },
-  {
    "name": "탈모",
    "kind": "질환·증상",
    "count": 15,
@@ -453,6 +412,47 @@
      "link": "http://www.ttlnews.com/news/articleView.html?idxno=3159131",
      "t": "2026-11-05T15:56:00+09:00",
      "by": "ttlnews.com"
+    }
+   ]
+  },
+  {
+   "name": "염증",
+   "kind": "질환·증상",
+   "count": 14,
+   "angles": [
+    "에 좋은",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "임플란트 흔들림과 잇몸 염증, 치과 검진 시 재수술 여부 판단하는 기준...",
+     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=143978",
+     "t": "2026-11-06T10:00:00+09:00",
+     "by": "medisobizanews.com"
+    },
+    {
+     "title": "예지원 “코에서 시작된 염증, 전신 건강 까지 위협” (이토록 위대한 몸...",
+     "link": "https://www.bntnews.co.kr/article/view/bnt202611060161",
+     "t": "2026-11-06T09:58:00+09:00",
+     "by": "bntnews.co.kr"
+    },
+    {
+     "title": "“장내 유익균 죽이고 염증 유발”… 의사가 ‘최악의 간식’으로 꼽은...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110502823.html",
+     "t": "2026-11-06T01:31:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "붉고 노란 과일·채소, COPD 염증과 악화 줄이는 데 도움 가능",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623233",
+     "t": "2026-11-05T15:56:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "“염증 싹 사라진다”… 과메기 ‘이 조합’으로 먹으면 영양 폭발",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110501467.html",
+     "t": "2026-11-05T13:01:00+09:00",
+     "by": "health.chosun.com"
     }
    ]
   },
@@ -540,46 +540,6 @@
    ]
   },
   {
-   "name": "위암",
-   "kind": "질환·증상",
-   "count": 10,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "위암 재발 위험 낮춘 '임핀지', 급여 확대는 과제",
-     "link": "https://www.dailypharm.com/user/news/344255?REFERER=NP",
-     "t": "2026-11-06T06:02:00+09:00",
-     "by": "dailypharm.com"
-    },
-    {
-     "title": "건강칼럼-위암 조기 진단 위한 위내시경 검사",
-     "link": "http://www.gndomin.com/news/articleView.html?idxno=495529",
-     "t": "2026-11-04T17:50:00+09:00",
-     "by": "gndomin.com"
-    },
-    {
-     "title": "지방간에 술까지 더해지면 간암·식도암·위암 위험 커졌다",
-     "link": "https://www.edaily.co.kr/News/Read?newsId=04201686645642440&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-     "t": "2026-11-04T13:09:00+09:00",
-     "by": "edaily.co.kr"
-    },
-    {
-     "title": "지방간에 음주까지…간암 위험 최대 12배↑, 식도암 위암도 '위험'",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=102002",
-     "t": "2026-11-03T17:08:00+09:00",
-     "by": "k-health.com"
-    },
-    {
-     "title": "지방간에 음주 겹치면 간암 위험 12배…식도암·위암도 증가",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=420828",
-     "t": "2026-11-03T17:04:00+09:00",
-     "by": "medipana.com"
-    }
-   ]
-  },
-  {
    "name": "치매",
    "kind": "질환·증상",
    "count": 10,
@@ -660,6 +620,46 @@
    ]
   },
   {
+   "name": "위암",
+   "kind": "질환·증상",
+   "count": 8,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "위암 재발 위험 낮춘 '임핀지', 급여 확대는 과제",
+     "link": "https://www.dailypharm.com/user/news/344255?REFERER=NP",
+     "t": "2026-11-06T06:02:00+09:00",
+     "by": "dailypharm.com"
+    },
+    {
+     "title": "건강칼럼-위암 조기 진단 위한 위내시경 검사",
+     "link": "http://www.gndomin.com/news/articleView.html?idxno=495529",
+     "t": "2026-11-04T17:50:00+09:00",
+     "by": "gndomin.com"
+    },
+    {
+     "title": "지방간에 술까지 더해지면 간암·식도암·위암 위험 커졌다",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=04201686645642440&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-04T13:09:00+09:00",
+     "by": "edaily.co.kr"
+    },
+    {
+     "title": "지방간에 음주까지…간암 위험 최대 12배↑, 식도암 위암도 '위험'",
+     "link": "https://www.k-health.com/news/articleView.html?idxno=102002",
+     "t": "2026-11-03T17:08:00+09:00",
+     "by": "k-health.com"
+    },
+    {
+     "title": "지방간에 음주 겹치면 간암 위험 12배…식도암·위암도 증가",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=420828",
+     "t": "2026-11-03T17:04:00+09:00",
+     "by": "medipana.com"
+    }
+   ]
+  },
+  {
    "name": "걷기",
    "kind": "운동·생활",
    "count": 7,
@@ -696,48 +696,6 @@
      "link": "https://www.jejumaeil.net/news/articleView.html?idxno=406303",
      "t": "2026-11-03T14:38:00+09:00",
      "by": "jejumaeil.net"
-    }
-   ]
-  },
-  {
-   "name": "러닝",
-   "kind": "운동·생활",
-   "count": 7,
-   "angles": [
-    "에 좋은",
-    "효능",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "추위 속 무리한 러닝, 심장 부담 키운다…준비운동·강도 조절 필요",
-     "link": "https://www.edaily.co.kr/News/Read?newsId=03280006645643096&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-     "t": "2026-11-06T08:20:00+09:00",
-     "by": "edaily.co.kr"
-    },
-    {
-     "title": "\"달리면 무릎이 닳는다?\"…관절 건강 지키는 러닝 습관 '3가지'",
-     "link": "https://www.sportschosun.com/life/2026-11-05/202611050100039450003941",
-     "t": "2026-11-05T16:40:00+09:00",
-     "by": "sportschosun.com"
-    },
-    {
-     "title": "러닝·일상 경계 허무는 프로-스펙스···'배색 효과 '로 차별화",
-     "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488445",
-     "t": "2026-11-04T15:50:00+09:00",
-     "by": "enewstoday.co.kr"
-    },
-    {
-     "title": "마라톤 풀코스 완주한 정형외과 의사가 알려주는 ‘러닝 부상 예방 법’",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/03/2026110303373.html",
-     "t": "2026-11-03T18:28:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "마라톤 풀코스 완주한 정형외과 전문의의 러닝 부상 예방 법?. “운동량...",
-     "link": "https://www.lawissue.co.kr/view.php?ud=202611031724134189f4ab64559d_12",
-     "t": "2026-11-03T17:26:00+09:00",
-     "by": "lawissue.co.kr"
     }
    ]
   },
@@ -779,6 +737,47 @@
      "link": "https://www.newsis.com/view/NISX20261105_0003855955",
      "t": "2026-11-05T18:00:00+09:00",
      "by": "newsis.com"
+    }
+   ]
+  },
+  {
+   "name": "러닝",
+   "kind": "운동·생활",
+   "count": 6,
+   "angles": [
+    "에 좋은",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "추위 속 무리한 러닝, 심장 부담 키운다…준비운동·강도 조절 필요",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=03280006645643096&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-06T08:20:00+09:00",
+     "by": "edaily.co.kr"
+    },
+    {
+     "title": "\"달리면 무릎이 닳는다?\"…관절 건강 지키는 러닝 습관 '3가지'",
+     "link": "https://www.sportschosun.com/life/2026-11-05/202611050100039450003941",
+     "t": "2026-11-05T16:40:00+09:00",
+     "by": "sportschosun.com"
+    },
+    {
+     "title": "러닝·일상 경계 허무는 프로-스펙스···'배색 효과 '로 차별화",
+     "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488445",
+     "t": "2026-11-04T15:50:00+09:00",
+     "by": "enewstoday.co.kr"
+    },
+    {
+     "title": "마라톤 풀코스 완주한 정형외과 의사가 알려주는 ‘러닝 부상 예방 법’",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/03/2026110303373.html",
+     "t": "2026-11-03T18:28:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "마라톤 풀코스 완주한 정형외과 전문의의 러닝 부상 예방 법?. “운동량...",
+     "link": "https://www.lawissue.co.kr/view.php?ud=202611031724134189f4ab64559d_12",
+     "t": "2026-11-03T17:26:00+09:00",
+     "by": "lawissue.co.kr"
     }
    ]
   },

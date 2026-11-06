@@ -263,7 +263,7 @@
     }
    ],
    "first": "00:12",
-   "last": "23:10",
+   "last": "23:56",
    "best": 3,
    "hours": [
     "00:12",
@@ -290,14 +290,15 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
+    "nate_pop": 9,
     "nate_int": 7
    },
    "count": 13,
@@ -327,7 +328,7 @@
     }
    ],
    "first": "00:12",
-   "last": "23:10",
+   "last": "23:56",
    "best": 2,
    "hours": [
     "00:12",
@@ -354,14 +355,15 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 16
+    "nate_int": 15
    },
    "count": 2,
    "inrank": true
@@ -438,7 +440,7 @@
     }
    ],
    "first": "00:12",
-   "last": "23:10",
+   "last": "23:56",
    "best": 6,
    "hours": [
     "00:12",
@@ -447,15 +449,16 @@
     "05:08",
     "06:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 25
+    "nate_pop": 28,
+    "nate_int": 36
    },
    "count": 3,
    "inrank": true
@@ -656,7 +659,7 @@
     }
    ],
    "first": "00:12",
-   "last": "23:10",
+   "last": "23:56",
    "best": 1,
    "hours": [
     "00:12",
@@ -677,15 +680,16 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 15
+    "nate_pop": 26,
+    "nate_int": 14
    },
    "count": 5,
    "inrank": true
@@ -1014,7 +1018,7 @@
     }
    ],
    "first": "00:12",
-   "last": "23:10",
+   "last": "23:56",
    "best": 2,
    "hours": [
     "00:12",
@@ -1041,14 +1045,15 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 29
+    "nate_int": 18
    },
    "count": 13,
    "inrank": true
@@ -1176,7 +1181,7 @@
     }
    ],
    "first": "00:12",
-   "last": "23:10",
+   "last": "23:56",
    "best": 8,
    "hours": [
     "00:12",
@@ -1191,7 +1196,8 @@
     "09:10",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
@@ -1537,7 +1543,7 @@
     }
    ],
    "first": "00:12",
-   "last": "23:10",
+   "last": "23:56",
    "best": 2,
    "hours": [
     "00:12",
@@ -1559,15 +1565,16 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 5
+    "nate_pop": 3,
+    "nate_int": 3
    },
    "count": 10,
    "inrank": true
@@ -1779,7 +1786,7 @@
     }
    ],
    "first": "00:12",
-   "last": "23:10",
+   "last": "23:56",
    "best": 11,
    "hours": [
     "00:12",
@@ -1794,14 +1801,15 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 47
+    "nate_int": 42
    },
    "count": 2,
    "inrank": true
@@ -2106,7 +2114,7 @@
     }
    ],
    "first": "03:10",
-   "last": "23:10",
+   "last": "23:56",
    "best": 1,
    "hours": [
     "03:10",
@@ -2132,14 +2140,15 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 20
+    "nate_int": 17
    },
    "count": 3,
    "inrank": true
@@ -2290,7 +2299,7 @@
     }
    ],
    "first": "03:10",
-   "last": "23:10",
+   "last": "23:56",
    "best": 4,
    "hours": [
     "03:10",
@@ -2308,14 +2317,15 @@
     "14:08",
     "15:08",
     "15:26",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 50
+    "nate_int": 44
    },
    "count": 7,
    "inrank": true
@@ -2355,20 +2365,27 @@
    "id": "c45",
    "title": "최강희, 49세 맞아? 긴 머리 하니 더 어려졌네…\"잘 어울린다고\" [★해시태...",
    "titles": [
-    "최강희, 49세 맞아? 긴 머리 하니 더 어려졌네…\"잘 어울린다고\" [★해시태..."
+    "최강희, 49세 맞아? 긴 머리 하니 더 어려졌네…\"잘 어울린다고\" [★해시태...",
+    "49세 최강희, MZ라 해도 믿겠어…세월 혼자 피해간 비주얼"
    ],
    "links": [
-    "https://news.nate.com/view/20261105n37418"
+    "https://news.nate.com/view/20261105n37418",
+    "https://news.nate.com/view/20261106n31061"
    ],
    "articles": [
     {
      "title": "최강희, 49세 맞아? 긴 머리 하니 더 어려졌네…\"잘 어울린다고\" [★해시태...",
      "link": "https://news.nate.com/view/20261105n37418",
      "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "49세 최강희, MZ라 해도 믿겠어…세월 혼자 피해간 비주얼",
+     "link": "https://news.nate.com/view/20261106n31061",
+     "media": "스타뉴스"
     }
    ],
    "first": "03:10",
-   "last": "09:05",
+   "last": "23:56",
    "best": 22,
    "hours": [
     "03:10",
@@ -2377,15 +2394,18 @@
     "06:10",
     "07:08",
     "08:10",
-    "09:05"
+    "09:05",
+    "23:56"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_int": 48
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c46",
@@ -2571,7 +2591,7 @@
     }
    ],
    "first": "07:08",
-   "last": "23:10",
+   "last": "23:56",
    "best": 3,
    "hours": [
     "07:08",
@@ -2592,15 +2612,15 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 32
+    "nate_int": 30
    },
    "count": 2,
    "inrank": true
@@ -2771,7 +2791,7 @@
     }
    ],
    "first": "08:10",
-   "last": "23:10",
+   "last": "23:56",
    "best": 1,
    "hours": [
     "08:10",
@@ -2791,14 +2811,15 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 31
+    "nate_int": 27
    },
    "count": 1,
    "inrank": true
@@ -3095,7 +3116,7 @@
     }
    ],
    "first": "09:05",
-   "last": "23:10",
+   "last": "23:56",
    "best": 5,
    "hours": [
     "09:05",
@@ -3109,15 +3130,16 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 18
+    "nate_pop": 13,
+    "nate_int": 16
    },
    "count": 2,
    "inrank": true
@@ -3478,7 +3500,7 @@
     }
    ],
    "first": "11:08",
-   "last": "23:10",
+   "last": "23:56",
    "best": 13,
    "hours": [
     "11:08",
@@ -3494,15 +3516,16 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 26
+    "nate_pop": 27,
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -3655,11 +3678,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c79",
@@ -3759,11 +3780,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c82",
@@ -4009,7 +4028,7 @@
     }
    ],
    "first": "14:08",
-   "last": "23:10",
+   "last": "23:56",
    "best": 2,
    "hours": [
     "14:08",
@@ -4022,14 +4041,15 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 21
+    "nate_int": 26
    },
    "count": 4,
    "inrank": true
@@ -4099,7 +4119,7 @@
     }
    ],
    "first": "14:08",
-   "last": "23:10",
+   "last": "23:56",
    "best": 1,
    "hours": [
     "14:08",
@@ -4112,7 +4132,8 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
@@ -4120,7 +4141,7 @@
    ],
    "now": {
     "nate_pop": 8,
-    "nate_int": 4
+    "nate_int": 5
    },
    "count": 3,
    "inrank": true
@@ -4303,7 +4324,7 @@
     }
    ],
    "first": "15:08",
-   "last": "23:10",
+   "last": "23:56",
    "best": 1,
    "hours": [
     "15:08",
@@ -4315,15 +4336,16 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 2
+    "nate_pop": 4,
+    "nate_int": 1
    },
    "count": 1,
    "inrank": true
@@ -4345,7 +4367,7 @@
     }
    ],
    "first": "15:08",
-   "last": "23:10",
+   "last": "23:56",
    "best": 6,
    "hours": [
     "15:08",
@@ -4357,14 +4379,15 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 41
+    "nate_int": 35
    },
    "count": 1,
    "inrank": true
@@ -4968,7 +4991,7 @@
     }
    ],
    "first": "18:10",
-   "last": "23:10",
+   "last": "23:56",
    "best": 1,
    "hours": [
     "18:10",
@@ -4976,7 +4999,8 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
@@ -5053,11 +5077,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 46
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c117",
@@ -5108,7 +5130,7 @@
     }
    ],
    "first": "18:10",
-   "last": "23:10",
+   "last": "23:56",
    "best": 15,
    "hours": [
     "18:10",
@@ -5116,15 +5138,16 @@
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 24
+    "nate_pop": 23,
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -5183,22 +5206,23 @@
     }
    ],
    "first": "19:08",
-   "last": "23:10",
+   "last": "23:56",
    "best": 1,
    "hours": [
     "19:08",
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 3
+    "nate_pop": 7,
+    "nate_int": 9
    },
    "count": 2,
    "inrank": true
@@ -5220,22 +5244,23 @@
     }
    ],
    "first": "19:08",
-   "last": "23:10",
+   "last": "23:56",
    "best": 10,
    "hours": [
     "19:08",
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 19
+    "nate_pop": 14,
+    "nate_int": 21
    },
    "count": 1,
    "inrank": true
@@ -5320,20 +5345,21 @@
     }
    ],
    "first": "19:08",
-   "last": "23:10",
+   "last": "23:56",
    "best": 45,
    "hours": [
     "19:08",
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 45
+    "nate_int": 46
    },
    "count": 1,
    "inrank": true
@@ -5385,21 +5411,22 @@
     }
    ],
    "first": "20:08",
-   "last": "23:10",
+   "last": "23:56",
    "best": 3,
    "hours": [
     "20:08",
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 17
+    "nate_pop": 15,
+    "nate_int": 24
    },
    "count": 1,
    "inrank": true
@@ -5545,20 +5572,21 @@
     }
    ],
    "first": "21:10",
-   "last": "23:10",
+   "last": "23:56",
    "best": 4,
    "hours": [
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 23
+    "nate_pop": 24,
+    "nate_int": 33
    },
    "count": 1,
    "inrank": true
@@ -5587,20 +5615,21 @@
     }
    ],
    "first": "21:10",
-   "last": "23:10",
+   "last": "23:56",
    "best": 10,
    "hours": [
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 22
+    "nate_pop": 21,
+    "nate_int": 25
    },
    "count": 2,
    "inrank": true
@@ -5609,32 +5638,42 @@
    "id": "c133",
    "title": "샤이니 민호, 마라톤 논란 속 '철인 3종 경기' 나갔는데…\"NO 핑계! NO ...",
    "titles": [
-    "샤이니 민호, 마라톤 논란 속 '철인 3종 경기' 나갔는데…\"NO 핑계! NO ..."
+    "샤이니 민호, 마라톤 논란 속 '철인 3종 경기' 나갔는데…\"NO 핑계! NO ...",
+    "마라톤 밀어주기 논란 사과 민호, 철인3종대회 앞두고 장비 검사 \"모터 달..."
    ],
    "links": [
-    "https://news.nate.com/view/20261106n30639"
+    "https://news.nate.com/view/20261106n30639",
+    "https://news.nate.com/view/20261106n34787"
    ],
    "articles": [
     {
      "title": "샤이니 민호, 마라톤 논란 속 '철인 3종 경기' 나갔는데…\"NO 핑계! NO ...",
      "link": "https://news.nate.com/view/20261106n30639",
      "media": "뉴스엔"
+    },
+    {
+     "title": "마라톤 밀어주기 논란 사과 민호, 철인3종대회 앞두고 장비 검사 \"모터 달...",
+     "link": "https://news.nate.com/view/20261106n34787",
+     "media": "뉴스엔"
     }
    ],
    "first": "21:10",
-   "last": "22:10",
+   "last": "23:56",
    "best": 15,
    "hours": [
     "21:10",
-    "22:10"
+    "22:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 17
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c134",
@@ -5684,20 +5723,21 @@
     }
    ],
    "first": "21:10",
-   "last": "23:10",
+   "last": "23:56",
    "best": 16,
    "hours": [
     "21:10",
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 28
+    "nate_pop": 30,
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -5790,11 +5830,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 49
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c139",
@@ -5813,11 +5851,12 @@
     }
    ],
    "first": "22:10",
-   "last": "23:10",
+   "last": "23:56",
    "best": 1,
    "hours": [
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
@@ -5825,7 +5864,7 @@
    ],
    "now": {
     "nate_pop": 1,
-    "nate_int": 1
+    "nate_int": 4
    },
    "count": 1,
    "inrank": true
@@ -5847,19 +5886,20 @@
     }
    ],
    "first": "22:10",
-   "last": "23:10",
-   "best": 9,
+   "last": "23:56",
+   "best": 6,
    "hours": [
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 13
+    "nate_pop": 6,
+    "nate_int": 12
    },
    "count": 1,
    "inrank": true
@@ -5881,19 +5921,20 @@
     }
    ],
    "first": "22:10",
-   "last": "23:10",
+   "last": "23:56",
    "best": 11,
    "hours": [
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 14
+    "nate_pop": 18,
+    "nate_int": 19
    },
    "count": 1,
    "inrank": true
@@ -5915,18 +5956,19 @@
     }
    ],
    "first": "22:10",
-   "last": "23:10",
+   "last": "23:56",
    "best": 20,
    "hours": [
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 38
+    "nate_int": 43
    },
    "count": 1,
    "inrank": true
@@ -5936,11 +5978,15 @@
    "title": "류효영, '돌싱' 이태성에 공개 고백 \"호감 있어서 용기 냈다\" (신랑수업2)",
    "titles": [
     "류효영, '돌싱' 이태성에 공개 고백 \"호감 있어서 용기 냈다\" (신랑수업2)",
-    "류효영, ♥이태성 향한 짝사랑 고백…\"기회 놓칠까 봐 용기 냈다\" ('신..."
+    "류효영, ♥이태성 향한 짝사랑 고백…\"기회 놓칠까 봐 용기 냈다\" ('신...",
+    "\"안 미안해?\"…이태성, 11살 연하♥와 '현커' 김요한에 돌직구 (신랑수업2)",
+    "류효영, 이태성 손잡고 플러팅 대방출…\"예쁜데요?\" 직진 [신랑수업2]"
    ],
    "links": [
     "https://news.nate.com/view/20261106n32911",
-    "https://news.nate.com/view/20261106n34331"
+    "https://news.nate.com/view/20261106n34331",
+    "https://news.nate.com/view/20261106n34342",
+    "https://news.nate.com/view/20261106n34314"
    ],
    "articles": [
     {
@@ -5952,24 +5998,35 @@
      "title": "류효영, ♥이태성 향한 짝사랑 고백…\"기회 놓칠까 봐 용기 냈다\" ('신...",
      "link": "https://news.nate.com/view/20261106n34331",
      "media": "TV리포트"
+    },
+    {
+     "title": "\"안 미안해?\"…이태성, 11살 연하♥와 '현커' 김요한에 돌직구 (신랑수업2)",
+     "link": "https://news.nate.com/view/20261106n34342",
+     "media": "MHN스포츠"
+    },
+    {
+     "title": "류효영, 이태성 손잡고 플러팅 대방출…\"예쁜데요?\" 직진 [신랑수업2]",
+     "link": "https://news.nate.com/view/20261106n34314",
+     "media": "마이데일리"
     }
    ],
    "first": "22:10",
-   "last": "23:10",
-   "best": 3,
+   "last": "23:56",
+   "best": 2,
    "hours": [
     "22:10",
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 8
+    "nate_pop": 2,
+    "nate_int": 2
    },
-   "count": 2,
+   "count": 4,
    "inrank": true
   },
   {
@@ -6018,18 +6075,19 @@
     }
    ],
    "first": "23:10",
-   "last": "23:10",
+   "last": "23:56",
    "best": 7,
    "hours": [
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 11
+    "nate_pop": 10,
+    "nate_int": 10
    },
    "count": 1,
    "inrank": true
@@ -6051,18 +6109,19 @@
     }
    ],
    "first": "23:10",
-   "last": "23:10",
-   "best": 21,
+   "last": "23:56",
+   "best": 19,
    "hours": [
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 34
+    "nate_pop": 19,
+    "nate_int": 20
    },
    "count": 1,
    "inrank": true
@@ -6084,18 +6143,176 @@
     }
    ],
    "first": "23:10",
-   "last": "23:10",
+   "last": "23:56",
    "best": 24,
    "hours": [
-    "23:10"
+    "23:10",
+    "23:56"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 35
+    "nate_pop": 29,
+    "nate_int": 34
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c148",
+   "title": "'닥터X' 이정은, '신의 손' 김지원 스승이었다…\"외과의 장희숙\" [종합]",
+   "titles": [
+    "'닥터X' 이정은, '신의 손' 김지원 스승이었다…\"외과의 장희숙\" [종합]"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n34662"
+   ],
+   "articles": [
+    {
+     "title": "'닥터X' 이정은, '신의 손' 김지원 스승이었다…\"외과의 장희숙\" [종합]",
+     "link": "https://news.nate.com/view/20261106n34662",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "23:56",
+   "last": "23:56",
+   "best": 12,
+   "hours": [
+    "23:56"
+   ],
+   "srcs": [
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 12
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c149",
+   "title": "송해나, 6살 연하 고대 경영학과 출신 변호사와 소개팅 ('신랑수업2')",
+   "titles": [
+    "송해나, 6살 연하 고대 경영학과 출신 변호사와 소개팅 ('신랑수업2')"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n34304"
+   ],
+   "articles": [
+    {
+     "title": "송해나, 6살 연하 고대 경영학과 출신 변호사와 소개팅 ('신랑수업2')",
+     "link": "https://news.nate.com/view/20261106n34304",
+     "media": "MHN스포츠"
+    }
+   ],
+   "first": "23:56",
+   "last": "23:56",
+   "best": 16,
+   "hours": [
+    "23:56"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 16,
+    "nate_int": 32
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c150",
+   "title": "'라이어' 유연석, 서현진 성폭행 혐의 불송치 후…옥자연에 \"한잔할래요?\" ...",
+   "titles": [
+    "'라이어' 유연석, 서현진 성폭행 혐의 불송치 후…옥자연에 \"한잔할래요?\" ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n34692"
+   ],
+   "articles": [
+    {
+     "title": "'라이어' 유연석, 서현진 성폭행 혐의 불송치 후…옥자연에 \"한잔할래요?\" ...",
+     "link": "https://news.nate.com/view/20261106n34692",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "23:56",
+   "last": "23:56",
+   "best": 22,
+   "hours": [
+    "23:56"
+   ],
+   "srcs": [
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 22
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c151",
+   "title": "김신영, 장관표창 받고 수상푸드는 족발…故 전유성 하늘서 뿌듯하겠네(나...",
+   "titles": [
+    "김신영, 장관표창 받고 수상푸드는 족발…故 전유성 하늘서 뿌듯하겠네(나..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n34695"
+   ],
+   "articles": [
+    {
+     "title": "김신영, 장관표창 받고 수상푸드는 족발…故 전유성 하늘서 뿌듯하겠네(나...",
+     "link": "https://news.nate.com/view/20261106n34695",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "23:56",
+   "last": "23:56",
+   "best": 25,
+   "hours": [
+    "23:56"
+   ],
+   "srcs": [
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 25
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c152",
+   "title": "안유진, 추운 날씨 속 살짝 드러낸 허리…가만히 서 있어도 '화보'네",
+   "titles": [
+    "안유진, 추운 날씨 속 살짝 드러낸 허리…가만히 서 있어도 '화보'네"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n30549"
+   ],
+   "articles": [
+    {
+     "title": "안유진, 추운 날씨 속 살짝 드러낸 허리…가만히 서 있어도 '화보'네",
+     "link": "https://news.nate.com/view/20261106n30549",
+     "media": "OSEN"
+    }
+   ],
+   "first": "23:56",
+   "last": "23:56",
+   "best": 47,
+   "hours": [
+    "23:56"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 47
    },
    "count": 1,
    "inrank": true
@@ -6301,9 +6518,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "23:56",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-06T23:10:49.489289+09:00",
+ "updated": "2026-11-06T23:56:58.991088+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

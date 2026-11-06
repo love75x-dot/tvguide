@@ -32,7 +32,7 @@
     }
    ],
    "first": "00:12",
-   "last": "14:08",
+   "last": "15:08",
    "best": 1,
    "hours": [
     "00:12",
@@ -49,14 +49,15 @@
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 28
+    "nate_int": 32
    },
    "count": 3,
    "inrank": true
@@ -120,7 +121,7 @@
     }
    ],
    "first": "00:12",
-   "last": "14:08",
+   "last": "15:08",
    "best": 1,
    "hours": [
     "00:12",
@@ -137,14 +138,15 @@
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 27
+    "nate_int": 43
    },
    "count": 7,
    "inrank": true
@@ -215,7 +217,7 @@
     }
    ],
    "first": "00:12",
-   "last": "14:08",
+   "last": "15:08",
    "best": 3,
    "hours": [
     "00:12",
@@ -232,14 +234,15 @@
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 22
+    "nate_int": 28
    },
    "count": 8,
    "inrank": true
@@ -268,7 +271,7 @@
     }
    ],
    "first": "00:12",
-   "last": "14:08",
+   "last": "15:08",
    "best": 2,
    "hours": [
     "00:12",
@@ -285,15 +288,16 @@
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 8
+    "nate_pop": 19,
+    "nate_int": 7
    },
    "count": 2,
    "inrank": true
@@ -465,11 +469,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 40
-   },
+   "now": {},
    "count": 3,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c9",
@@ -521,12 +523,16 @@
    "titles": [
     "이규한, '오만추'서 솔비 최종 선택 안 한 이유…\"진지하게 알아가고 싶었...",
     "\"진지해서\"…이규한, ♥솔비 '오만추' 최종 선택 안 한 이유",
-    "이규한, ♥솔비에 푹 빠졌다 \"지시·명령해도 불편하지 않았다\"[이즈백]"
+    "이규한, ♥솔비에 푹 빠졌다 \"지시·명령해도 불편하지 않았다\"[이즈백]",
+    "이규한, ♥솔비와 결혼 결심한 이유…\"숨 쉬듯 명령해도 기분 안 나빠\"",
+    "솔비, 이래서 결혼하네…\"♥이규한, 내 손은 그림 그릴 때만 쓰라고\" 애정 ..."
    ],
    "links": [
     "https://news.nate.com/view/20261105n35828",
     "https://news.nate.com/view/20261106n05616",
-    "https://news.nate.com/view/20261106n02832"
+    "https://news.nate.com/view/20261106n02832",
+    "https://news.nate.com/view/20261106n18406",
+    "https://news.nate.com/view/20261106n15360"
    ],
    "articles": [
     {
@@ -543,11 +549,21 @@
      "title": "이규한, ♥솔비에 푹 빠졌다 \"지시·명령해도 불편하지 않았다\"[이즈백]",
      "link": "https://news.nate.com/view/20261106n02832",
      "media": "스타뉴스"
+    },
+    {
+     "title": "이규한, ♥솔비와 결혼 결심한 이유…\"숨 쉬듯 명령해도 기분 안 나빠\"",
+     "link": "https://news.nate.com/view/20261106n18406",
+     "media": "스포츠경향"
+    },
+    {
+     "title": "솔비, 이래서 결혼하네…\"♥이규한, 내 손은 그림 그릴 때만 쓰라고\" 애정 ...",
+     "link": "https://news.nate.com/view/20261106n15360",
+     "media": "스포티비뉴스"
     }
    ],
    "first": "00:12",
-   "last": "10:08",
-   "best": 11,
+   "last": "15:08",
+   "best": 1,
    "hours": [
     "00:12",
     "03:10",
@@ -557,15 +573,19 @@
     "06:10",
     "07:08",
     "08:10",
-    "10:08"
+    "10:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 3,
-   "inrank": false
+   "now": {
+    "nate_pop": 1,
+    "nate_int": 1
+   },
+   "count": 5,
+   "inrank": true
   },
   {
    "id": "c11",
@@ -602,11 +622,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c12",
@@ -682,11 +700,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 45
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c14",
@@ -712,7 +728,7 @@
     }
    ],
    "first": "00:12",
-   "last": "14:08",
+   "last": "15:08",
    "best": 3,
    "hours": [
     "00:12",
@@ -729,15 +745,16 @@
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 31
+    "nate_pop": 21,
+    "nate_int": 34
    },
    "count": 2,
    "inrank": true
@@ -892,7 +909,7 @@
     }
    ],
    "first": "00:12",
-   "last": "14:08",
+   "last": "15:08",
    "best": 2,
    "hours": [
     "00:12",
@@ -909,14 +926,14 @@
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
     "nate_int": 19
    },
    "count": 13,
@@ -1138,7 +1155,7 @@
     }
    ],
    "first": "00:12",
-   "last": "14:08",
+   "last": "15:08",
    "best": 3,
    "hours": [
     "00:12",
@@ -1148,15 +1165,16 @@
     "09:10",
     "10:08",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 5
+    "nate_pop": 16,
+    "nate_int": 11
    },
    "count": 4,
    "inrank": true
@@ -1192,7 +1210,7 @@
     }
    ],
    "first": "00:12",
-   "last": "14:08",
+   "last": "15:08",
    "best": 4,
    "hours": [
     "00:12",
@@ -1204,15 +1222,15 @@
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 20
+    "nate_int": 29
    },
    "count": 3,
    "inrank": true
@@ -1288,22 +1306,22 @@
     }
    ],
    "first": "00:12",
-   "last": "14:08",
+   "last": "15:08",
    "best": 3,
    "hours": [
     "00:12",
     "03:10",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 16
+    "nate_int": 31
    },
    "count": 3,
    "inrank": true
@@ -1318,7 +1336,8 @@
     "故 진쓰레블 친형 \"가족들 볼리비아로…귀국 후 국내 장례 준비\"[Oh!쎈 이...",
     "미소만 남기고…'뺑소니 사망' 故 진쓰레블 유족, 볼리비아 출국 '애도' [...",
     "[전문] '뺑소니 사망' 진쓰레블 친형 \"이미 편집 된 영상 발견, 마지막 선...",
-    "유튜버 진쓰레블, 볼리비아서 사망…7일 마지막 영상 공개"
+    "유튜버 진쓰레블, 볼리비아서 사망…7일 마지막 영상 공개",
+    "'볼리비아 뺑소니 사망' 故 진쓰레블, 7일 마지막 영상 공개된다"
    ],
    "links": [
     "https://news.nate.com/view/20261105n18045",
@@ -1327,7 +1346,8 @@
     "https://news.nate.com/view/20261106n04196",
     "https://news.nate.com/view/20261106n04016",
     "https://news.nate.com/view/20261106n12961",
-    "https://news.nate.com/view/20261106n14813"
+    "https://news.nate.com/view/20261106n14813",
+    "https://news.nate.com/view/20261106n16861"
    ],
    "articles": [
     {
@@ -1364,10 +1384,15 @@
      "title": "유튜버 진쓰레블, 볼리비아서 사망…7일 마지막 영상 공개",
      "link": "https://news.nate.com/view/20261106n14813",
      "media": "스포츠동아"
+    },
+    {
+     "title": "'볼리비아 뺑소니 사망' 故 진쓰레블, 7일 마지막 영상 공개된다",
+     "link": "https://news.nate.com/view/20261106n16861",
+     "media": "MK스포츠"
     }
    ],
    "first": "00:12",
-   "last": "14:08",
+   "last": "15:08",
    "best": 2,
    "hours": [
     "00:12",
@@ -1379,17 +1404,18 @@
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 4
+    "nate_pop": 15,
+    "nate_int": 10
    },
-   "count": 7,
+   "count": 8,
    "inrank": true
   },
   {
@@ -1818,30 +1844,40 @@
    "id": "c38",
    "title": "\"자식농사 망쳤다\"…'김지선 래퍼 子' 시바, 결국 폭발 \"못 잡아먹어 안달,...",
    "titles": [
-    "\"자식농사 망쳤다\"…'김지선 래퍼 子' 시바, 결국 폭발 \"못 잡아먹어 안달,..."
+    "\"자식농사 망쳤다\"…'김지선 래퍼 子' 시바, 결국 폭발 \"못 잡아먹어 안달,...",
+    "'김지선 아들' 시바, 악플 시달리더니 정면 돌파 \"손 벌리기 싫어, 떳떳한 ..."
    ],
    "links": [
-    "https://news.nate.com/view/20261105n02318"
+    "https://news.nate.com/view/20261105n02318",
+    "https://news.nate.com/view/20261106n18178"
    ],
    "articles": [
     {
      "title": "\"자식농사 망쳤다\"…'김지선 래퍼 子' 시바, 결국 폭발 \"못 잡아먹어 안달,...",
      "link": "https://news.nate.com/view/20261105n02318",
      "media": "스포츠조선"
+    },
+    {
+     "title": "'김지선 아들' 시바, 악플 시달리더니 정면 돌파 \"손 벌리기 싫어, 떳떳한 ...",
+     "link": "https://news.nate.com/view/20261106n18178",
+     "media": "엑스포츠뉴스"
     }
    ],
    "first": "00:12",
-   "last": "00:12",
-   "best": 48,
+   "last": "15:08",
+   "best": 37,
    "hours": [
-    "00:12"
+    "00:12",
+    "15:08"
    ],
    "srcs": [
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_int": 37
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c39",
@@ -1903,7 +1939,7 @@
     }
    ],
    "first": "03:10",
-   "last": "14:08",
+   "last": "15:08",
    "best": 1,
    "hours": [
     "03:10",
@@ -1919,14 +1955,15 @@
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
+    "nate_pop": 27,
     "nate_int": 12
    },
    "count": 3,
@@ -2071,7 +2108,7 @@
     }
    ],
    "first": "03:10",
-   "last": "14:08",
+   "last": "15:08",
    "best": 4,
    "hours": [
     "03:10",
@@ -2086,15 +2123,15 @@
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 15
+    "nate_int": 45
    },
    "count": 6,
    "inrank": true
@@ -2343,7 +2380,7 @@
     }
    ],
    "first": "07:08",
-   "last": "14:08",
+   "last": "15:08",
    "best": 3,
    "hours": [
     "07:08",
@@ -2354,15 +2391,15 @@
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 23
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -2437,11 +2474,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 46
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c54",
@@ -2467,7 +2502,7 @@
     }
    ],
    "first": "08:10",
-   "last": "14:08",
+   "last": "15:08",
    "best": 2,
    "hours": [
     "08:10",
@@ -2477,15 +2512,16 @@
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 21
+    "nate_pop": 23,
+    "nate_int": 20
    },
    "count": 2,
    "inrank": true
@@ -2507,7 +2543,7 @@
     }
    ],
    "first": "08:10",
-   "last": "14:08",
+   "last": "15:08",
    "best": 1,
    "hours": [
     "08:10",
@@ -2517,15 +2553,16 @@
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 14
+    "nate_pop": 22,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -2599,11 +2636,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 29
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c58",
@@ -2696,11 +2731,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 48
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c61",
@@ -2806,31 +2839,43 @@
    "id": "c64",
    "title": "신민아, 로판 드레스도 찰떡인 황후 나비에의 품격…♥김우빈 예쁘단 말 절...",
    "titles": [
-    "신민아, 로판 드레스도 찰떡인 황후 나비에의 품격…♥김우빈 예쁘단 말 절..."
+    "신민아, 로판 드레스도 찰떡인 황후 나비에의 품격…♥김우빈 예쁘단 말 절...",
+    "신민아 10부작 나오자 '30초 수애'가 소환됐다…\"이게 황후 톤\""
    ],
    "links": [
-    "https://news.nate.com/view/20261106n01671"
+    "https://news.nate.com/view/20261106n01671",
+    "https://news.nate.com/view/20261106n18642"
    ],
    "articles": [
     {
      "title": "신민아, 로판 드레스도 찰떡인 황후 나비에의 품격…♥김우빈 예쁘단 말 절...",
      "link": "https://news.nate.com/view/20261106n01671",
      "media": "헤럴드뮤즈"
+    },
+    {
+     "title": "신민아 10부작 나오자 '30초 수애'가 소환됐다…\"이게 황후 톤\"",
+     "link": "https://news.nate.com/view/20261106n18642",
+     "media": "스포츠서울"
     }
    ],
    "first": "09:05",
-   "last": "09:10",
-   "best": 44,
+   "last": "15:08",
+   "best": 13,
    "hours": [
     "09:05",
-    "09:10"
+    "09:10",
+    "15:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 13,
+    "nate_int": 26
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c65",
@@ -2995,11 +3040,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 26
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c69",
@@ -3018,21 +3061,22 @@
     }
    ],
    "first": "10:08",
-   "last": "14:08",
+   "last": "15:08",
    "best": 16,
    "hours": [
     "10:08",
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 37
+    "nate_int": 48
    },
    "count": 1,
    "inrank": true
@@ -3054,21 +3098,21 @@
     }
    ],
    "first": "11:08",
-   "last": "14:08",
+   "last": "15:08",
    "best": 6,
    "hours": [
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 18
+    "nate_int": 21
    },
    "count": 1,
    "inrank": true
@@ -3102,12 +3146,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 26,
-    "nate_int": 32
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c72",
@@ -3169,11 +3210,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 47
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c74",
@@ -3192,21 +3231,22 @@
     }
    ],
    "first": "11:08",
-   "last": "14:08",
+   "last": "15:08",
    "best": 13,
    "hours": [
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 13
+    "nate_pop": 18,
+    "nate_int": 16
    },
    "count": 1,
    "inrank": true
@@ -3215,30 +3255,40 @@
    "id": "c75",
    "title": "\"헬멧 챙긴 남편\" 백종원, 소유진도 감동한 배달원 변신…회사 살리려 고군...",
    "titles": [
-    "\"헬멧 챙긴 남편\" 백종원, 소유진도 감동한 배달원 변신…회사 살리려 고군..."
+    "\"헬멧 챙긴 남편\" 백종원, 소유진도 감동한 배달원 변신…회사 살리려 고군...",
+    "'소유진♥'도 깜짝…백종원, 위기 속 배달 라이더 됐다→\"나인 줄 모르겠..."
    ],
    "links": [
-    "https://news.nate.com/view/20261106n09446"
+    "https://news.nate.com/view/20261106n09446",
+    "https://news.nate.com/view/20261106n15494"
    ],
    "articles": [
     {
      "title": "\"헬멧 챙긴 남편\" 백종원, 소유진도 감동한 배달원 변신…회사 살리려 고군...",
      "link": "https://news.nate.com/view/20261106n09446",
      "media": "스포츠서울"
+    },
+    {
+     "title": "'소유진♥'도 깜짝…백종원, 위기 속 배달 라이더 됐다→\"나인 줄 모르겠...",
+     "link": "https://news.nate.com/view/20261106n15494",
+     "media": "MHN스포츠"
     }
    ],
    "first": "11:08",
-   "last": "11:08",
+   "last": "15:08",
    "best": 28,
    "hours": [
-    "11:08"
+    "11:08",
+    "15:08"
    ],
    "srcs": [
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_int": 44
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c76",
@@ -3257,21 +3307,21 @@
     }
    ],
    "first": "11:08",
-   "last": "14:08",
+   "last": "15:08",
    "best": 25,
    "hours": [
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 33
+    "nate_int": 46
    },
    "count": 1,
    "inrank": true
@@ -3293,21 +3343,22 @@
     }
    ],
    "first": "11:08",
-   "last": "14:08",
+   "last": "15:08",
    "best": 21,
    "hours": [
     "11:08",
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 25
+    "nate_pop": 30,
+    "nate_int": 27
    },
    "count": 1,
    "inrank": true
@@ -3329,20 +3380,21 @@
     }
    ],
    "first": "12:10",
-   "last": "14:08",
+   "last": "15:08",
    "best": 1,
    "hours": [
     "12:10",
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 2
+    "nate_pop": 9,
+    "nate_int": 5
    },
    "count": 1,
    "inrank": true
@@ -3375,11 +3427,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 41
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c80",
@@ -3427,19 +3477,20 @@
     }
    ],
    "first": "13:10",
-   "last": "14:08",
+   "last": "15:08",
    "best": 2,
    "hours": [
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 7
+    "nate_pop": 17,
+    "nate_int": 15
    },
    "count": 1,
    "inrank": true
@@ -3471,12 +3522,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 28,
-    "nate_int": 34
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c83",
@@ -3495,19 +3543,20 @@
     }
    ],
    "first": "13:10",
-   "last": "14:08",
+   "last": "15:08",
    "best": 1,
    "hours": [
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 1
+    "nate_pop": 5,
+    "nate_int": 4
    },
    "count": 1,
    "inrank": true
@@ -3529,19 +3578,19 @@
     }
    ],
    "first": "13:10",
-   "last": "14:08",
+   "last": "15:08",
    "best": 11,
    "hours": [
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 17
+    "nate_int": 30
    },
    "count": 1,
    "inrank": true
@@ -3563,19 +3612,20 @@
     }
    ],
    "first": "13:10",
-   "last": "14:08",
-   "best": 29,
+   "last": "15:08",
+   "best": 28,
    "hours": [
     "13:10",
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 35
+    "nate_pop": 28,
+    "nate_int": 38
    },
    "count": 1,
    "inrank": true
@@ -3635,11 +3685,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c88",
@@ -3658,18 +3706,19 @@
     }
    ],
    "first": "14:08",
-   "last": "14:08",
+   "last": "15:08",
    "best": 2,
    "hours": [
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 3
+    "nate_pop": 8,
+    "nate_int": 6
    },
    "count": 1,
    "inrank": true
@@ -3691,18 +3740,19 @@
     }
    ],
    "first": "14:08",
-   "last": "14:08",
+   "last": "15:08",
    "best": 5,
    "hours": [
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 6
+    "nate_pop": 11,
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -3711,33 +3761,41 @@
    "id": "c90",
    "title": "조진웅 '두번째 시그널', 12월 편성 확정 \"창작자 노력 봐주길\" [전문]",
    "titles": [
-    "조진웅 '두번째 시그널', 12월 편성 확정 \"창작자 노력 봐주길\" [전문]"
+    "조진웅 '두번째 시그널', 12월 편성 확정 \"창작자 노력 봐주길\" [전문]",
+    "[공식] \"'소년범' 조진웅 옹호 아닙니다\"…'시그널2', 12월 7일 첫방 ..."
    ],
    "links": [
-    "https://news.nate.com/view/20261106n17219"
+    "https://news.nate.com/view/20261106n17219",
+    "https://news.nate.com/view/20261106n17615"
    ],
    "articles": [
     {
      "title": "조진웅 '두번째 시그널', 12월 편성 확정 \"창작자 노력 봐주길\" [전문]",
      "link": "https://news.nate.com/view/20261106n17219",
      "media": "스포츠투데이"
+    },
+    {
+     "title": "[공식] \"'소년범' 조진웅 옹호 아닙니다\"…'시그널2', 12월 7일 첫방 ...",
+     "link": "https://news.nate.com/view/20261106n17615",
+     "media": "스타뉴스"
     }
    ],
    "first": "14:08",
-   "last": "14:08",
-   "best": 7,
+   "last": "15:08",
+   "best": 2,
    "hours": [
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 10
+    "nate_pop": 4,
+    "nate_int": 2
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -3757,18 +3815,18 @@
     }
    ],
    "first": "14:08",
-   "last": "14:08",
+   "last": "15:08",
    "best": 9,
    "hours": [
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 9
+    "nate_int": 39
    },
    "count": 1,
    "inrank": true
@@ -3790,18 +3848,19 @@
     }
    ],
    "first": "14:08",
-   "last": "14:08",
+   "last": "15:08",
    "best": 10,
    "hours": [
-    "14:08"
+    "14:08",
+    "15:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 24
+    "nate_pop": 20,
+    "nate_int": 35
    },
    "count": 1,
    "inrank": true
@@ -3831,11 +3890,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 42
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c94",
@@ -3862,8 +3919,367 @@
    "srcs": [
     "nate_int"
    ],
+   "now": {},
+   "count": 1,
+   "inrank": false
+  },
+  {
+   "id": "c95",
+   "title": "'직원폭행 논란' 장우혁, 1억6천 사이버트럭 몰다 뜻밖의 만남 '포착'",
+   "titles": [
+    "'직원폭행 논란' 장우혁, 1억6천 사이버트럭 몰다 뜻밖의 만남 '포착'"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n18279"
+   ],
+   "articles": [
+    {
+     "title": "'직원폭행 논란' 장우혁, 1억6천 사이버트럭 몰다 뜻밖의 만남 '포착'",
+     "link": "https://news.nate.com/view/20261106n18279",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "15:08",
+   "last": "15:08",
+   "best": 2,
+   "hours": [
+    "15:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
    "now": {
-    "nate_int": 49
+    "nate_pop": 2,
+    "nate_int": 3
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c96",
+   "title": "\"완전히 미친 나라\"…'일타강사' 정승제, '3~4세 의대반'에 분노→\"...",
+   "titles": [
+    "\"완전히 미친 나라\"…'일타강사' 정승제, '3~4세 의대반'에 분노→\"..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n17882"
+   ],
+   "articles": [
+    {
+     "title": "\"완전히 미친 나라\"…'일타강사' 정승제, '3~4세 의대반'에 분노→\"...",
+     "link": "https://news.nate.com/view/20261106n17882",
+     "media": "MHN스포츠"
+    }
+   ],
+   "first": "15:08",
+   "last": "15:08",
+   "best": 3,
+   "hours": [
+    "15:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 3,
+    "nate_int": 40
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c97",
+   "title": "​'프사 삭제' 차예련, 논란 속 은근슬쩍 SNS 정리?",
+   "titles": [
+    "​'프사 삭제' 차예련, 논란 속 은근슬쩍 SNS 정리?"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n14860"
+   ],
+   "articles": [
+    {
+     "title": "​'프사 삭제' 차예련, 논란 속 은근슬쩍 SNS 정리?",
+     "link": "https://news.nate.com/view/20261106n14860",
+     "media": "스포츠서울"
+    }
+   ],
+   "first": "15:08",
+   "last": "15:08",
+   "best": 6,
+   "hours": [
+    "15:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 6,
+    "nate_int": 9
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c98",
+   "title": "'팬 기만 논란' 허영생, 무편집으로 공개된 사건 전말…\"안타깝고 속상\" [...",
+   "titles": [
+    "'팬 기만 논란' 허영생, 무편집으로 공개된 사건 전말…\"안타깝고 속상\" [..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n19595"
+   ],
+   "articles": [
+    {
+     "title": "'팬 기만 논란' 허영생, 무편집으로 공개된 사건 전말…\"안타깝고 속상\" [...",
+     "link": "https://news.nate.com/view/20261106n19595",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "15:08",
+   "last": "15:08",
+   "best": 7,
+   "hours": [
+    "15:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 7,
+    "nate_int": 24
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c99",
+   "title": "전현무, 공개 열애 2번 끝…\"연애세포 완전 죽어, 심폐소생 불가\" [전현무...",
+   "titles": [
+    "전현무, 공개 열애 2번 끝…\"연애세포 완전 죽어, 심폐소생 불가\" [전현무..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n19772"
+   ],
+   "articles": [
+    {
+     "title": "전현무, 공개 열애 2번 끝…\"연애세포 완전 죽어, 심폐소생 불가\" [전현무...",
+     "link": "https://news.nate.com/view/20261106n19772",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "15:08",
+   "last": "15:08",
+   "best": 10,
+   "hours": [
+    "15:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 10,
+    "nate_int": 33
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c100",
+   "title": "'유튜브 개설' 조세호, 하루만 '10만 구독자' 돌파…고개 숙인 첫 영상 보...",
+   "titles": [
+    "'유튜브 개설' 조세호, 하루만 '10만 구독자' 돌파…고개 숙인 첫 영상 보..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n18468"
+   ],
+   "articles": [
+    {
+     "title": "'유튜브 개설' 조세호, 하루만 '10만 구독자' 돌파…고개 숙인 첫 영상 보...",
+     "link": "https://news.nate.com/view/20261106n18468",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "15:08",
+   "last": "15:08",
+   "best": 8,
+   "hours": [
+    "15:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 12,
+    "nate_int": 8
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c101",
+   "title": "[공식] 김장훈·이소라 열애설 전말 드러난다…'64세' 최고령 '미우새' 합...",
+   "titles": [
+    "[공식] 김장훈·이소라 열애설 전말 드러난다…'64세' 최고령 '미우새' 합..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n18291"
+   ],
+   "articles": [
+    {
+     "title": "[공식] 김장훈·이소라 열애설 전말 드러난다…'64세' 최고령 '미우새' 합...",
+     "link": "https://news.nate.com/view/20261106n18291",
+     "media": "OSEN"
+    }
+   ],
+   "first": "15:08",
+   "last": "15:08",
+   "best": 14,
+   "hours": [
+    "15:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 14,
+    "nate_int": 25
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c102",
+   "title": "'47세' 이효리, \"핑클 40주년은 어렵다, 살아있다면…\" 의미심장 [순간포착...",
+   "titles": [
+    "'47세' 이효리, \"핑클 40주년은 어렵다, 살아있다면…\" 의미심장 [순간포착..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n18038"
+   ],
+   "articles": [
+    {
+     "title": "'47세' 이효리, \"핑클 40주년은 어렵다, 살아있다면…\" 의미심장 [순간포착...",
+     "link": "https://news.nate.com/view/20261106n18038",
+     "media": "OSEN"
+    }
+   ],
+   "first": "15:08",
+   "last": "15:08",
+   "best": 23,
+   "hours": [
+    "15:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 24,
+    "nate_int": 23
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c103",
+   "title": "고우림, ♥김연아 취향 저격한 개인기 \"최홍만 성대모사에 박장대소\"",
+   "titles": [
+    "고우림, ♥김연아 취향 저격한 개인기 \"최홍만 성대모사에 박장대소\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n19293"
+   ],
+   "articles": [
+    {
+     "title": "고우림, ♥김연아 취향 저격한 개인기 \"최홍만 성대모사에 박장대소\"",
+     "link": "https://news.nate.com/view/20261106n19293",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "15:08",
+   "last": "15:08",
+   "best": 26,
+   "hours": [
+    "15:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 26,
+    "nate_int": 36
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c104",
+   "title": "아나운서인데 애교 말투 썼다가 악플…'오상진♥' 김소영 \"'귀척' 한다고, ...",
+   "titles": [
+    "아나운서인데 애교 말투 썼다가 악플…'오상진♥' 김소영 \"'귀척' 한다고, ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n18437"
+   ],
+   "articles": [
+    {
+     "title": "아나운서인데 애교 말투 썼다가 악플…'오상진♥' 김소영 \"'귀척' 한다고, ...",
+     "link": "https://news.nate.com/view/20261106n18437",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "15:08",
+   "last": "15:08",
+   "best": 29,
+   "hours": [
+    "15:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 29,
+    "nate_int": 42
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c105",
+   "title": "[단독] 서예지·이미숙·데니안·하준, '금월도' 캐스팅⋯한국형 오컬...",
+   "titles": [
+    "[단독] 서예지·이미숙·데니안·하준, '금월도' 캐스팅⋯한국형 오컬..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261106n19491"
+   ],
+   "articles": [
+    {
+     "title": "[단독] 서예지·이미숙·데니안·하준, '금월도' 캐스팅⋯한국형 오컬...",
+     "link": "https://news.nate.com/view/20261106n19491",
+     "media": "조이뉴스24"
+    }
+   ],
+   "first": "15:08",
+   "last": "15:08",
+   "best": 50,
+   "hours": [
+    "15:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 50
    },
    "count": 1,
    "inrank": true
@@ -3989,9 +4405,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "15:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-06T14:08:30.899443+09:00",
+ "updated": "2026-11-06T15:08:36.770183+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

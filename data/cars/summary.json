@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:10:44.286595+09:00",
+ "updated": "2026-11-06T19:08:33.589074+09:00",
  "hot": [
   {
    "name": "PV5",
@@ -10,16 +10,6 @@
    "why": []
   },
   {
-   "name": "GLC",
-   "count": 4,
-   "prev": 0,
-   "rise": 2,
-   "moto": false,
-   "why": [
-    "사전계약"
-   ]
-  },
-  {
    "name": "모델 Y",
    "count": 4,
    "prev": 1,
@@ -28,6 +18,16 @@
    "why": [
     "중고차 시세",
     "판매 1위"
+   ]
+  },
+  {
+   "name": "GLC",
+   "count": 3,
+   "prev": 0,
+   "rise": 2,
+   "moto": false,
+   "why": [
+    "사전계약"
    ]
   },
   {
@@ -78,6 +78,14 @@
    ]
   },
   {
+   "name": "스포티지",
+   "count": 1,
+   "prev": 3,
+   "rise": 6,
+   "moto": false,
+   "why": []
+  },
+  {
    "name": "코나",
    "count": 1,
    "prev": 0,
@@ -86,14 +94,6 @@
    "why": [
     "리콜"
    ]
-  },
-  {
-   "name": "사이버트럭",
-   "count": 1,
-   "prev": 0,
-   "rise": -11,
-   "moto": false,
-   "why": []
   }
  ],
  "calendar": [

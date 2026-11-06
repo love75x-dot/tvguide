@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-06T20:08:36.515605+09:00",
+ "updated": "2026-11-06T21:11:07.638018+09:00",
  "car": [
   {
    "name": "한국타이어",
-   "count": 67,
+   "count": 68,
    "items": [
+    {
+     "title": "한국타이어, 3분기 타이어 매출 역대 최대…한온시스템 수익성 개선",
+     "link": "https://www.gpkorea.com/news/articleView.html?idxno=148376",
+     "t": "2026-11-06T21:10:00+09:00",
+     "by": "gpkorea.com"
+    },
     {
      "title": "한국타이어 고부가 전략 通했다...타이어 매출 '역대 최대'",
      "link": "http://www.00news.co.kr/news/articleView.html?idxno=107817",
@@ -28,19 +34,25 @@
      "link": "https://www.econovill.com/news/articleView.html?idxno=756354",
      "t": "2026-11-06T18:08:00+09:00",
      "by": "econovill.com"
-    },
-    {
-     "title": "한국타이어, 3분기 매출 5조4650억원·영업이익 5988억원",
-     "link": "http://www.finomy.com/news/articleView.html?idxno=265962",
-     "t": "2026-11-06T17:36:00+09:00",
-     "by": "finomy.com"
     }
    ]
   },
   {
    "name": "투자",
-   "count": 43,
+   "count": 41,
    "items": [
+    {
+     "title": "“美 조지아 공장에 9조원대 투자”…아우디 발표에 독일서 ‘역외 투자...",
+     "link": "https://www.mk.co.kr/article/12200917",
+     "t": "2026-11-06T21:11:00+09:00",
+     "by": "mk.co.kr"
+    },
+    {
+     "title": "기아차 3조원 투자..광주공장을 미래차 전진기지로",
+     "link": "https://kjmbc.co.kr/NewsArticle/1544572",
+     "t": "2026-11-06T20:40:00+09:00",
+     "by": "kjmbc.co.kr"
+    },
     {
      "title": "기아 3조 투자…\"광주공장 미래차 전환\"",
      "link": "https://www.hankyung.com/article/2026110617211",
@@ -58,24 +70,12 @@
      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282576&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
      "t": "2026-11-06T19:01:00+09:00",
      "by": "ohmynews.com"
-    },
-    {
-     "title": "화성특례시, AI 엑스포서 1조1228억 원 규모 투자 의향·상담 실적",
-     "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880809",
-     "t": "2026-11-06T18:42:00+09:00",
-     "by": "hansbiz.co.kr"
-    },
-    {
-     "title": "기아, 광주 미래차 전환에 3조원 투자…PBV 기술 실증 확대",
-     "link": "https://www.m-i.kr/news/articleView.html?idxno=2015637",
-     "t": "2026-11-06T17:40:00+09:00",
-     "by": "m-i.kr"
     }
    ]
   },
   {
    "name": "자율주행",
-   "count": 26,
+   "count": 25,
    "items": [
     {
      "title": "강릉시, 오늘 밤 10시부터 심야 자율주행 차 운행",
@@ -110,44 +110,8 @@
    ]
   },
   {
-   "name": "광주",
-   "count": 30,
-   "items": [
-    {
-     "title": "기아, 광주 미래차 전환에 ‘3조 원’ 투자",
-     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706237&ref=A",
-     "t": "2026-11-06T19:41:00+09:00",
-     "by": "kbs.co.kr"
-    },
-    {
-     "title": "제네시스 , 브랜드 최대 규모 전시관 ' 제네시스 광주' 오픈",
-     "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005957020",
-     "t": "2026-11-06T17:58:00+09:00",
-     "by": "mbnmoney.mbn.co.kr"
-    },
-    {
-     "title": "기아, 광주 미래차 전환에 3조원 투자…PBV 기술 실증 확대",
-     "link": "https://www.m-i.kr/news/articleView.html?idxno=2015637",
-     "t": "2026-11-06T17:40:00+09:00",
-     "by": "m-i.kr"
-    },
-    {
-     "title": "제네시스 , 호남 첫 전시관 ' 제네시스 광주' 개관…브랜드 최대 규모",
-     "link": "https://www.gpkorea.com/news/articleView.html?idxno=148360",
-     "t": "2026-11-06T17:16:00+09:00",
-     "by": "gpkorea.com"
-    },
-    {
-     "title": "제네시스 , 광주에 국내 최대 규모 전시관 개관…호남 첫 거점",
-     "link": "https://www.m-i.kr/news/articleView.html?idxno=2015629",
-     "t": "2026-11-06T17:16:00+09:00",
-     "by": "m-i.kr"
-    }
-   ]
-  },
-  {
    "name": "PBV",
-   "count": 30,
+   "count": 29,
    "items": [
     {
      "title": "기아, 광주서 자율주행 ·원격운전 PBV 실증 추진… 미래차 산업 협력",
@@ -216,37 +180,61 @@
      "by": "paxetv.com"
     }
    ]
+  },
+  {
+   "name": "제네시스 광주",
+   "count": 9,
+   "items": [
+    {
+     "title": "제네시스 , 브랜드 최대 규모 전시관 ' 제네시스 광주' 오픈",
+     "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005957020",
+     "t": "2026-11-06T17:58:00+09:00",
+     "by": "mbnmoney.mbn.co.kr"
+    },
+    {
+     "title": "제네시스 , 호남 첫 전시관 ' 제네시스 광주' 개관…브랜드 최대 규모",
+     "link": "https://www.gpkorea.com/news/articleView.html?idxno=148360",
+     "t": "2026-11-06T17:16:00+09:00",
+     "by": "gpkorea.com"
+    },
+    {
+     "title": "제네시스 , 광주에 국내 최대 규모 전시관 개관…호남 첫 거점",
+     "link": "https://www.m-i.kr/news/articleView.html?idxno=2015629",
+     "t": "2026-11-06T17:16:00+09:00",
+     "by": "m-i.kr"
+    },
+    {
+     "title": "제네시스 , 광주에 국내 최대 전시관 개관…20대 차량 전시·GV90 공개",
+     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065600517649257",
+     "t": "2026-11-06T17:14:00+09:00",
+     "by": "megaeconomy.co.kr"
+    },
+    {
+     "title": "제네시스 , 브랜드 최대 규모 전시관 ` 제네시스 광주' 오픈...호남 고객 ...",
+     "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=91594",
+     "t": "2026-11-06T16:38:00+09:00",
+     "by": "worktoday.co.kr"
+    }
+   ]
   }
  ],
  "moto": [
   {
-   "name": "화물차 충돌",
-   "count": 3,
+   "name": "오토바",
+   "count": 13,
    "items": [
     {
-     "title": "진천 교차로서 오토바이 ·화물차 충돌… 40대 1명 숨져",
-     "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2311965",
-     "t": "2026-11-06T16:56:00+09:00",
-     "by": "daejonilbo.com"
+     "title": "포항서 오토바이 도로 경계석 충돌..1명 사망",
+     "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=205337&mode=view",
+     "t": "2026-11-06T20:42:00+09:00",
+     "by": "phmbc.co.kr"
     },
     {
-     "title": "진천서 오토바이 ·화물차 충돌...40대 외국인 숨져",
-     "link": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026110600044&story_seq=0&soCode=114&socttSn=NS2026110600044&socttSeq=0",
-     "t": "2026-11-06T16:40:00+09:00",
-     "by": "ccn.hcn.co.kr"
+     "title": "백종원 “나만 믿어유”…사장님들 떠나가자 오토바이 타고 홍보 나섰다",
+     "link": "https://www.sedaily.com/article/20111365?ref=naver",
+     "t": "2026-11-06T20:22:00+09:00",
+     "by": "sedaily.com"
     },
-    {
-     "title": "좌회전하던 오토바이 화물차와 충돌.. 40대 숨져",
-     "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261106&SEQUENCE=0111",
-     "t": "2026-11-06T15:50:00+09:00",
-     "by": "mbccb.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "피자 배달",
-   "count": 3,
-   "items": [
     {
      "title": "'소유진♥' 백종원 깜짝 근황… 오토바이 타고 피자 배달 \"못 알아보네\" ...",
      "link": "https://www.xportsnews.com/article/2216334",
@@ -254,16 +242,40 @@
      "by": "xportsnews.com"
     },
     {
-     "title": "\"피자 배달 왔습니다\"… 오토바이 타고 나타난 백종원에 '깜짝'",
-     "link": "https://www.hankyung.com/article/2026110613827",
-     "t": "2026-11-06T16:56:00+09:00",
-     "by": "hankyung.com"
+     "title": "'훔친 오토바이 타고 가다 주인에게 덜미'…10대 2명 입건",
+     "link": "https://www.tjb.co.kr/news05/bodo/view/id/105784",
+     "t": "2026-11-06T17:10:00+09:00",
+     "by": "tjb.co.kr"
     },
     {
-     "title": "백종원 더본코리아 대표, 피자 배달 라이더로 변신…가맹점 홍보 지원",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=212878",
-     "t": "2026-11-06T15:54:00+09:00",
-     "by": "thefirstmedia.net"
+     "title": "진천 교차로서 오토바이 ·화물차 충돌… 40대 1명 숨져",
+     "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2311965",
+     "t": "2026-11-06T16:56:00+09:00",
+     "by": "daejonilbo.com"
+    }
+   ]
+  },
+  {
+   "name": "백종원 빽보이피자",
+   "count": 3,
+   "items": [
+    {
+     "title": "백종원, 빽보이피자 가맹점서 '일일 라이더'…신메뉴 직접 배달하며 홍...",
+     "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=902285",
+     "t": "2026-11-06T20:10:00+09:00",
+     "by": "newsworks.co.kr"
+    },
+    {
+     "title": "더본코리아 백종원, 빽보이피자 '일일 라이더'로 나섰다…직접 배달하고...",
+     "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325100",
+     "t": "2026-11-06T16:20:00+09:00",
+     "by": "pointdaily.co.kr"
+    },
+    {
+     "title": "백종원, 빽보이피자 신메뉴 홍보 위해 '일일 배달 라이더' 변신",
+     "link": "https://www.cstimes.com/news/articleView.html?idxno=726959",
+     "t": "2026-11-06T14:36:00+09:00",
+     "by": "cstimes.com"
     }
    ]
   }

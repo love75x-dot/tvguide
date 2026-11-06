@@ -1,15 +1,21 @@
 {
- "updated": "2026-11-07T05:51:37.242113+09:00",
+ "updated": "2026-11-07T06:08:35.986082+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 64,
+   "count": 65,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "독감 재확산에 약국 인후질병치료제 판매 18.1%↑",
+     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=548340",
+     "t": "2026-11-07T06:04:00+09:00",
+     "by": "kpanews.co.kr"
+    },
     {
      "title": "초등학교 곳곳서 ‘콜록콜록’… 독감 다시 확산세",
      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706178&ref=A",
@@ -33,12 +39,6 @@
      "link": "https://www.wikitree.co.kr/articles/1172500",
      "t": "2026-11-06T17:16:00+09:00",
      "by": "wikitree.co.kr"
-    },
-    {
-     "title": "독감 다시 확산세…소아청소년 중심 증가, 입원환자 65%는 고령층",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=102068",
-     "t": "2026-11-06T16:36:00+09:00",
-     "by": "k-health.com"
     }
    ]
   },
@@ -415,6 +415,46 @@
    ]
   },
   {
+   "name": "당뇨",
+   "kind": "질환·증상",
+   "count": 11,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "\"잘 자는 사람, 뇌 건강 도 좋아\"… 당뇨·심장질환자서 연관성 더 뚜렷",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69759",
+     "t": "2026-11-07T06:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "당뇨 환자 단백질 1위는 '콩'…햄·소시지는 최하위",
+     "link": "https://www.newsis.com/view/NISX20261106_0003857576",
+     "t": "2026-11-06T18:00:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "당뇨 복합제 '엠파가드', 혈당 강하에 인슐린 분비능 개선까지",
+     "link": "https://www.dailypharm.com/user/news/344273?REFERER=NP",
+     "t": "2026-11-06T12:02:00+09:00",
+     "by": "dailypharm.com"
+    },
+    {
+     "title": "제주 고혈압·당뇨 의료비 지원 개편… 정액 감면서 포인트로",
+     "link": "https://www.fnnews.com/news/202611060858454985",
+     "t": "2026-11-06T09:07:00+09:00",
+     "by": "fnnews.com"
+    },
+    {
+     "title": "당뇨 환자 발 붓고 뜨거운데 통증 없다면? '샤르코 족부병증' 의심",
+     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51801",
+     "t": "2026-11-06T08:44:00+09:00",
+     "by": "ikunkang.com"
+    }
+   ]
+  },
+  {
    "name": "유산균",
    "kind": "영양제",
    "count": 11,
@@ -452,46 +492,6 @@
      "link": "https://www.donga.com/news/Economy/article/all/20261105/134971544/1",
      "t": "2026-11-05T15:18:00+09:00",
      "by": "donga.com"
-    }
-   ]
-  },
-  {
-   "name": "당뇨",
-   "kind": "질환·증상",
-   "count": 10,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "당뇨 환자 단백질 1위는 '콩'…햄·소시지는 최하위",
-     "link": "https://www.newsis.com/view/NISX20261106_0003857576",
-     "t": "2026-11-06T18:00:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "당뇨 복합제 '엠파가드', 혈당 강하에 인슐린 분비능 개선까지",
-     "link": "https://www.dailypharm.com/user/news/344273?REFERER=NP",
-     "t": "2026-11-06T12:02:00+09:00",
-     "by": "dailypharm.com"
-    },
-    {
-     "title": "제주 고혈압·당뇨 의료비 지원 개편… 정액 감면서 포인트로",
-     "link": "https://www.fnnews.com/news/202611060858454985",
-     "t": "2026-11-06T09:07:00+09:00",
-     "by": "fnnews.com"
-    },
-    {
-     "title": "당뇨 환자 발 붓고 뜨거운데 통증 없다면? '샤르코 족부병증' 의심",
-     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51801",
-     "t": "2026-11-06T08:44:00+09:00",
-     "by": "ikunkang.com"
-    },
-    {
-     "title": "고혈압·당뇨 등록교육센터 '통합관리센터'로 개편... 전국 확대",
-     "link": "https://www.hg-times.com/news/articleView.html?idxno=306788",
-     "t": "2026-11-05T18:00:00+09:00",
-     "by": "hg-times.com"
     }
    ]
   },
@@ -577,12 +577,18 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 7,
+   "count": 8,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "임신부 고 혈압 적극 치료 지침에도…약제·허가·관리 제자리",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=421201",
+     "t": "2026-11-07T06:06:00+09:00",
+     "by": "medipana.com"
+    },
     {
      "title": "‘이 때’ 자면 혈압 낮아진다?… 혈압 에 가장 좋은 취침 시간",
      "link": "https://kormedi.com/?p=2898572",
@@ -606,25 +612,25 @@
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110601339.html",
      "t": "2026-11-06T13:31:00+09:00",
      "by": "health.chosun.com"
-    },
-    {
-     "title": "‘시금치’ 뽀빠이 힘이 나지 않지만 “ 혈압 은 내려줍니다”",
-     "link": "https://lady.khan.co.kr/khlady.html?mode=view&artid=202611060800001&code=9",
-     "t": "2026-11-06T08:01:00+09:00",
-     "by": "lady.khan.co.kr"
     }
    ]
   },
   {
    "name": "콜레스테롤",
    "kind": "질환·증상",
-   "count": 5,
+   "count": 6,
    "angles": [
     "에 좋은",
     "먹는 법",
     "효능"
    ],
    "items": [
+    {
+     "title": "콜레스테롤 주범이라더니…50년 만에 누명 벗은 ‘계란 노른자’",
+     "link": "https://www.joongang.co.kr/article/25476549",
+     "t": "2026-11-07T06:00:00+09:00",
+     "by": "joongang.co.kr"
+    },
     {
      "title": "‘계란=콜레스테롤 주범’ 50년 오명…하루 1~2개 적정량",
      "link": "https://www.joongang.co.kr/article/25476529",
@@ -648,12 +654,6 @@
      "link": "https://www.sedaily.com/article/20110109?ref=naver",
      "t": "2026-11-04T13:53:00+09:00",
      "by": "sedaily.com"
-    },
-    {
-     "title": "콜레스테롤 수치 낮추는 데 효과적… 심장내과 전문의가 추천한 '이 곡...",
-     "link": "https://www.wikitree.co.kr/articles/1171648",
-     "t": "2026-11-04T09:56:00+09:00",
-     "by": "wikitree.co.kr"
     }
    ]
   },
@@ -826,6 +826,28 @@
    ]
   },
   {
+   "name": "계란",
+   "kind": "식품·제철",
+   "count": 2,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "콜레스테롤 주범이라더니…50년 만에 누명 벗은 ‘계란 노른자’",
+     "link": "https://www.joongang.co.kr/article/25476549",
+     "t": "2026-11-07T06:00:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "‘계란=콜레스테롤 주범’ 50년 오명…하루 1~2개 적정량",
+     "link": "https://www.joongang.co.kr/article/25476529",
+     "t": "2026-11-07T01:32:00+09:00",
+     "by": "joongang.co.kr"
+    }
+   ]
+  },
+  {
    "name": "골다공증",
    "kind": "질환·증상",
    "count": 2,
@@ -992,26 +1014,6 @@
      "link": "https://www.pharmnews.com/news/articleView.html?idxno=307611",
      "t": "2026-11-04T13:58:00+09:00",
      "by": "pharmnews.com"
-    }
-   ]
-  },
-  {
-   "name": "홍삼",
-   "kind": "영양제",
-   "count": 2,
-   "angles": [],
-   "items": [
-    {
-     "title": "\"홍삼의 기능 적 가치 발굴\".. KGC, ' 식품 기술대상' 과기부 장관상 수상",
-     "link": "https://www.fnnews.com/news/202611051346257608",
-     "t": "2026-11-05T13:52:00+09:00",
-     "by": "fnnews.com"
-    },
-    {
-     "title": "정관장 'GLPro 코어', 홍삼 혈당 연구로 과기정통부 장관상",
-     "link": "http://www.kdfnews.com/news/articleView.html?idxno=190471",
-     "t": "2026-11-05T09:58:00+09:00",
-     "by": "kdfnews.com"
     }
    ]
   }

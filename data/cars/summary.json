@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-06T16:08:44.550975+09:00",
+ "updated": "2026-11-06T17:08:36.971519+09:00",
  "hot": [
   {
    "name": "GLC",
-   "count": 10,
+   "count": 7,
    "prev": 0,
    "rise": 2,
    "moto": false,
@@ -13,8 +13,8 @@
   },
   {
    "name": "PV5",
-   "count": 7,
-   "prev": 2,
+   "count": 6,
+   "prev": 3,
    "rise": 7,
    "moto": false,
    "why": []
@@ -31,16 +31,6 @@
    ]
   },
   {
-   "name": "G80",
-   "count": 5,
-   "prev": 8,
-   "rise": 3,
-   "moto": false,
-   "why": [
-    "출시"
-   ]
-  },
-  {
    "name": "아반떼",
    "count": 4,
    "prev": 6,
@@ -51,12 +41,14 @@
    ]
   },
   {
-   "name": "필랑트",
+   "name": "G80",
    "count": 4,
-   "prev": 4,
-   "rise": 22,
+   "prev": 9,
+   "rise": 3,
    "moto": false,
-   "why": []
+   "why": [
+    "출시"
+   ]
   },
   {
    "name": "쏘렌토",
@@ -68,14 +60,6 @@
     "중고차 시세",
     "판매 1위"
    ]
-  },
-  {
-   "name": "GV80",
-   "count": 2,
-   "prev": 6,
-   "rise": -7,
-   "moto": false,
-   "why": []
   },
   {
    "name": "3시리즈",
@@ -94,6 +78,22 @@
    "why": [
     "가격 공개"
    ]
+  },
+  {
+   "name": "필랑트",
+   "count": 2,
+   "prev": 6,
+   "rise": 22,
+   "moto": false,
+   "why": []
+  },
+  {
+   "name": "쏘나타",
+   "count": 2,
+   "prev": 0,
+   "rise": 1,
+   "moto": false,
+   "why": []
   }
  ],
  "calendar": [

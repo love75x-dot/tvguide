@@ -1,15 +1,21 @@
 {
- "updated": "2026-11-06T15:08:48.397149+09:00",
+ "updated": "2026-11-06T15:27:02.810842+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 60,
+   "count": 61,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "독감 의심환자 2주 연속 증가…7~12세 60.9명",
+     "link": "https://www.vegannews.co.kr/news/article.html?no=401313",
+     "t": "2026-11-06T15:14:00+09:00",
+     "by": "vegannews.co.kr"
+    },
     {
      "title": "독감 입원환자 2배 이상 늘어…예방접종·신속 진료 당부",
      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148975199&call_from=naver_news",
@@ -33,12 +39,6 @@
      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=73670",
      "t": "2026-11-06T13:08:00+09:00",
      "by": "newswhoplus.com"
-    },
-    {
-     "title": "식약처, 독감 진단키트 9개 제품 검사…A·B형 모두 '적합'",
-     "link": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45516",
-     "t": "2026-11-06T12:46:00+09:00",
-     "by": "hemophilia.co.kr"
     }
    ]
   },
@@ -127,46 +127,6 @@
    ]
   },
   {
-   "name": "지방간",
-   "kind": "질환·증상",
-   "count": 22,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "술 마시는 지방간 환자, 사망 위험 2배… 담배 피우면 17배 ↑",
-     "link": "https://www.chosun.com/national/welfare-medical/2026/11/05/HGP2ZR2HDBDARC5LMO3AYFLWHA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-     "t": "2026-11-05T14:32:00+09:00",
-     "by": "chosun.com"
-    },
-    {
-     "title": "음주 동반 지방간, 간암·소화기암 위험↑…4만4000명 추적 결과 발표",
-     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065610421214507",
-     "t": "2026-11-04T19:58:00+09:00",
-     "by": "megaeconomy.co.kr"
-    },
-    {
-     "title": "지방간 있는 사람이 술·담배까지 하면… 사망 위험 17배 오른다",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/04/2026110403243.html",
-     "t": "2026-11-04T18:25:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "술 마시는 지방간 환자, 흡연하면 사망 위험 17배 높아",
-     "link": "http://www.bokuennews.com/news/article.html?no=286659",
-     "t": "2026-11-04T17:26:00+09:00",
-     "by": "bokuennews.com"
-    },
-    {
-     "title": "\"지방간 있는데 술까지 마신다면?\"…'이것' 위험 최대 12배 높아",
-     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80767",
-     "t": "2026-11-04T17:00:00+09:00",
-     "by": "mkhealth.co.kr"
-    }
-   ]
-  },
-  {
    "name": "코로나",
    "kind": "질환·증상",
    "count": 22,
@@ -247,6 +207,46 @@
      "link": "https://kormedi.com/?p=2898043",
      "t": "2026-11-05T16:01:00+09:00",
      "by": "kormedi.com"
+    }
+   ]
+  },
+  {
+   "name": "지방간",
+   "kind": "질환·증상",
+   "count": 21,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "술 마시는 지방간 환자, 사망 위험 2배… 담배 피우면 17배 ↑",
+     "link": "https://www.chosun.com/national/welfare-medical/2026/11/05/HGP2ZR2HDBDARC5LMO3AYFLWHA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "t": "2026-11-05T14:32:00+09:00",
+     "by": "chosun.com"
+    },
+    {
+     "title": "음주 동반 지방간, 간암·소화기암 위험↑…4만4000명 추적 결과 발표",
+     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065610421214507",
+     "t": "2026-11-04T19:58:00+09:00",
+     "by": "megaeconomy.co.kr"
+    },
+    {
+     "title": "지방간 있는 사람이 술·담배까지 하면… 사망 위험 17배 오른다",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/04/2026110403243.html",
+     "t": "2026-11-04T18:25:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "술 마시는 지방간 환자, 흡연하면 사망 위험 17배 높아",
+     "link": "http://www.bokuennews.com/news/article.html?no=286659",
+     "t": "2026-11-04T17:26:00+09:00",
+     "by": "bokuennews.com"
+    },
+    {
+     "title": "\"지방간 있는데 술까지 마신다면?\"…'이것' 위험 최대 12배 높아",
+     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80767",
+     "t": "2026-11-04T17:00:00+09:00",
+     "by": "mkhealth.co.kr"
     }
    ]
   },
@@ -619,46 +619,6 @@
    ]
   },
   {
-   "name": "위암",
-   "kind": "질환·증상",
-   "count": 7,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "위암 재발 위험 낮춘 '임핀지', 급여 확대는 과제",
-     "link": "https://www.dailypharm.com/user/news/344255?REFERER=NP",
-     "t": "2026-11-06T06:02:00+09:00",
-     "by": "dailypharm.com"
-    },
-    {
-     "title": "건강칼럼-위암 조기 진단 위한 위내시경 검사",
-     "link": "http://www.gndomin.com/news/articleView.html?idxno=495529",
-     "t": "2026-11-04T17:50:00+09:00",
-     "by": "gndomin.com"
-    },
-    {
-     "title": "지방간에 술까지 더해지면 간암·식도암·위암 위험 커졌다",
-     "link": "https://www.edaily.co.kr/News/Read?newsId=04201686645642440&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-     "t": "2026-11-04T13:09:00+09:00",
-     "by": "edaily.co.kr"
-    },
-    {
-     "title": "지방간에 음주까지…간암 위험 최대 12배↑, 식도암 위암도 '위험'",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=102002",
-     "t": "2026-11-03T17:08:00+09:00",
-     "by": "k-health.com"
-    },
-    {
-     "title": "지방간에 음주 겹치면 간암 위험 12배…식도암·위암도 증가",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=420828",
-     "t": "2026-11-03T17:04:00+09:00",
-     "by": "medipana.com"
-    }
-   ]
-  },
-  {
    "name": "러닝",
    "kind": "운동·생활",
    "count": 6,
@@ -737,6 +697,46 @@
      "link": "https://www.hankyung.com/article/2026110463067",
      "t": "2026-11-04T17:42:00+09:00",
      "by": "hankyung.com"
+    }
+   ]
+  },
+  {
+   "name": "위암",
+   "kind": "질환·증상",
+   "count": 6,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "위암 재발 위험 낮춘 '임핀지', 급여 확대는 과제",
+     "link": "https://www.dailypharm.com/user/news/344255?REFERER=NP",
+     "t": "2026-11-06T06:02:00+09:00",
+     "by": "dailypharm.com"
+    },
+    {
+     "title": "건강칼럼-위암 조기 진단 위한 위내시경 검사",
+     "link": "http://www.gndomin.com/news/articleView.html?idxno=495529",
+     "t": "2026-11-04T17:50:00+09:00",
+     "by": "gndomin.com"
+    },
+    {
+     "title": "지방간에 술까지 더해지면 간암·식도암·위암 위험 커졌다",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=04201686645642440&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-04T13:09:00+09:00",
+     "by": "edaily.co.kr"
+    },
+    {
+     "title": "지방간에 음주까지…간암 위험 최대 12배↑, 식도암 위암도 '위험'",
+     "link": "https://www.k-health.com/news/articleView.html?idxno=102002",
+     "t": "2026-11-03T17:08:00+09:00",
+     "by": "k-health.com"
+    },
+    {
+     "title": "지방간에 음주 겹치면 간암 위험 12배…식도암·위암도 증가",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=420828",
+     "t": "2026-11-03T17:04:00+09:00",
+     "by": "medipana.com"
     }
    ]
   },

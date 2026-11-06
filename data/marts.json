@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T18:10:44.286595+09:00",
- "slot": "2026-11-06 18",
+ "updated": "2026-11-07T08:08:46.954311+09:00",
+ "slot": "2026-11-07 8",
  "costco": {
   "sale": [
    {
@@ -16,7 +16,7 @@
     "img": "https://www.costco.co.kr/medias/sys_master/images/h09/hb9/492569215959070.jpg",
     "rating": 2.5,
     "reviews": 2,
-    "soldout": false,
+    "soldout": true,
     "first": "2026-11-02"
    },
    {
@@ -270,8 +270,8 @@
     "start": "2026-10-26",
     "end": "2026-11-08",
     "img": "https://www.costco.co.kr/medias/sys_master/images/h84/hf9/506483285393438.jpg",
-    "rating": 0.0,
-    "reviews": null,
+    "rating": 5.0,
+    "reviews": 1,
     "soldout": false,
     "first": "2026-10-26"
    },
@@ -418,22 +418,6 @@
     "reviews": 77,
     "soldout": false,
     "first": "2026-10-26"
-   },
-   {
-    "id": "682334",
-    "name": "Nusspo 두바이 초콜릿 크림 스프레드 1kg",
-    "url": "https://www.costco.co.kr/Foods/SaucesCondiments/HoneySyrupsJam/Nusspo-Dubai-Chocolate-Cream-Spread-1kg/p/682334",
-    "cat": "식품",
-    "price": 12990.0,
-    "base": 17990.0,
-    "discount": 5000.0,
-    "start": "2026-10-27",
-    "end": "2026-11-08",
-    "img": "https://www.costco.co.kr/medias/sys_master/images/hf8/hbe/417405770498078.jpg",
-    "rating": 4.7,
-    "reviews": 28,
-    "soldout": false,
-    "first": "2026-10-22"
    },
    {
     "id": "692563",
@@ -1140,6 +1124,22 @@
     "first": "2026-10-26"
    },
    {
+    "id": "695726",
+    "name": "꼬박꼬밥 프로틴 쉐이크 플러스 - 50g x 14",
+    "url": "https://www.costco.co.kr/HealthSupplement/Health/Kkobak-Kkobob-Protein-Shake-50g-x-14/p/695726",
+    "cat": "건강",
+    "price": 23990.0,
+    "base": 29990.0,
+    "discount": 6000.0,
+    "start": "2026-10-26",
+    "end": "2026-11-22",
+    "img": "https://www.costco.co.kr/medias/sys_master/images/h00/h73/490926566637598.jpg",
+    "rating": 0.0,
+    "reviews": null,
+    "soldout": false,
+    "first": "2026-10-26"
+   },
+   {
     "id": "659543",
     "name": "액츠 퍼펙트 액체 세탁세제 3.5L x 2 + 2.2L x 4",
     "url": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Laundry-Detergent/Actz-Perfect-Laundry-Detergent-35L-x-2-22L-x-4/p/659543",
@@ -1692,7 +1692,7 @@
     "base": 151990.0,
     "discount": 40000.0,
     "start": "2026-10-26",
-    "end": "2026-11-08",
+    "end": "2026-11-29",
     "img": "https://www.costco.co.kr/medias/sys_master/images/hdb/hdd/508957672833054.jpg",
     "rating": 0.0,
     "reviews": null,
@@ -2132,22 +2132,6 @@
     "first": "2026-10-26"
    },
    {
-    "id": "676107",
-    "name": "볼빅 파크골프 세트",
-    "url": "https://www.costco.co.kr/SportsFitnessCamping/Golf/Golf-Clubs/Volvik-Park-Golf-Set/p/676107",
-    "cat": "스포츠·캠핑",
-    "price": 269990.0,
-    "base": 299990.0,
-    "discount": 30000.0,
-    "start": "2026-11-02",
-    "end": "2026-11-10",
-    "img": "https://www.costco.co.kr/medias/sys_master/images/hae/hb7/450181937725470.jpg",
-    "rating": 4.8,
-    "reviews": 88,
-    "soldout": false,
-    "first": "2026-11-02"
-   },
-   {
     "id": "654518",
     "name": "루템 THE 산양유 단백질 7000 252g x 2",
     "url": "https://www.costco.co.kr/HealthSupplement/Health/Rootem-THE-Goat-Milk-Protein-Powder-7000-252g-x-2/p/654518",
@@ -2160,22 +2144,6 @@
     "img": "https://www.costco.co.kr/medias/sys_master/images/h87/he1/102419680231454.jpg",
     "rating": 4.4,
     "reviews": 97,
-    "soldout": false,
-    "first": "2026-11-02"
-   },
-   {
-    "id": "692226",
-    "name": "게스 여성 숏 덕다운 재킷",
-    "url": "https://www.costco.co.kr/ClothingBagsAccessories/Clothing-for-Women/Outerwear-for-Women/Guess-Womens-Down-Puffer-Jacket/p/692226",
-    "cat": "의류·잡화",
-    "price": 79900.0,
-    "base": 91900.0,
-    "discount": 12000.0,
-    "start": "2026-11-02",
-    "end": "2026-11-08",
-    "img": "https://www.costco.co.kr/medias/sys_master/images/h70/h9a/491181744029726.jpg",
-    "rating": 0.0,
-    "reviews": null,
     "soldout": false,
     "first": "2026-11-02"
    },
@@ -2236,7 +2204,7 @@
     "base": 16990.0,
     "discount": 3400.0,
     "start": "2026-10-26",
-    "end": "2026-11-08",
+    "end": "2026-11-15",
     "img": "https://www.costco.co.kr/medias/sys_master/images/ha5/h52/503714564833310.jpg",
     "rating": 0.0,
     "reviews": null,
@@ -2856,11 +2824,11 @@
     "name": "밸롭 바운스코어 벨크로",
     "url": "https://www.costco.co.kr/ClothingBagsAccessories/Womens-Shoes/Casual-Shoes-For-Women/Ballop-Bounce-Core-Velcro/p/697954",
     "cat": "의류·잡화",
-    "price": 29990.0,
+    "price": 41990.0,
     "base": 41990.0,
-    "discount": 12000.0,
-    "start": "2026-11-02",
-    "end": "2026-11-15",
+    "discount": 0,
+    "start": null,
+    "end": null,
     "img": "https://www.costco.co.kr/medias/sys_master/images/hbc/h45/505293900840990.jpg",
     "rating": 0.0,
     "reviews": null,
@@ -3316,6 +3284,22 @@
     "first": "2026-10-22"
    },
    {
+    "id": "634366",
+    "name": "듀얼 바이탈 이뮨 30ct",
+    "url": "https://www.costco.co.kr/HealthSupplement/VitaminMineral/Multi-Vitamin/Dual-Vital-Immune-30ct/p/634366",
+    "cat": "건강",
+    "price": 36990.0,
+    "base": 45990.0,
+    "discount": 9000.0,
+    "start": "2026-10-26",
+    "end": "2026-11-08",
+    "img": "https://www.costco.co.kr/medias/sys_master/images/hd8/h78/137050459471902.jpg",
+    "rating": 4.6,
+    "reviews": 24,
+    "soldout": false,
+    "first": "2026-10-26"
+   },
+   {
     "id": "1806537",
     "name": "양키캔들 차량용 방향제 5개",
     "url": "https://www.costco.co.kr/HardwareAutomotive/Automotive/Auto-Accessories/Yankee-Candle-Car-Jar-Freshener-5p/p/1806537",
@@ -3390,26 +3374,10 @@
     "start": "2026-11-04",
     "end": "2026-11-29",
     "img": "https://www.costco.co.kr/medias/sys_master/images/ha8/hb6/490127307079710.jpg",
-    "rating": 0.0,
-    "reviews": null,
+    "rating": 4.3,
+    "reviews": 3,
     "soldout": false,
     "first": "2026-11-04"
-   },
-   {
-    "id": "697470",
-    "name": "카밀 핸드크림 레인보우 세트",
-    "url": "https://www.costco.co.kr/Gift-Set-Special/Nonfood-Gifts/Kamill-Hand-Cream-Rainbow-Set/p/697470",
-    "cat": "선물세트",
-    "price": 13990.0,
-    "base": 16990.0,
-    "discount": 3000.0,
-    "start": "2026-10-26",
-    "end": "2026-11-08",
-    "img": "https://www.costco.co.kr/medias/sys_master/images/ha6/h00/492234854268958.jpg",
-    "rating": 0.0,
-    "reviews": null,
-    "soldout": false,
-    "first": "2026-10-26"
    },
    {
     "id": "696089",
@@ -3604,22 +3572,6 @@
     "first": "2026-10-22"
    },
    {
-    "id": "691134",
-    "name": "타요 자동차 구조 센터",
-    "url": "https://www.costco.co.kr/BabyKidsToysPets/Toys/Activity-Toys/Tayo-Car-Rescue-Center/p/691134",
-    "cat": "유아·완구·반려",
-    "price": 41900.0,
-    "base": 52900.0,
-    "discount": 11000.0,
-    "start": "2026-10-26",
-    "end": "2026-11-08",
-    "img": "https://www.costco.co.kr/medias/sys_master/images/h69/h35/431256502698014.jpg",
-    "rating": 0.0,
-    "reviews": null,
-    "soldout": false,
-    "first": "2026-10-26"
-   },
-   {
     "id": "627620",
     "name": "불스원 3 in 1 워셔액 1.8L 3개",
     "url": "https://www.costco.co.kr/HardwareAutomotive/Automotive/Auto-Accessories/Bullsone-3-in-1-Windshield-Fluid-18L-3-count/p/627620",
@@ -3778,22 +3730,6 @@
     "reviews": 1,
     "soldout": false,
     "first": "2026-10-22"
-   },
-   {
-    "id": "1929729",
-    "name": "LED 펭귄 또는 북극곰 장식 61cm",
-    "url": "https://www.costco.co.kr/BabyKidsToysPets/Christmas/Christmas-Ornament/LED-Penguin-or-Polar-Bear-Greeter-61cm/p/1929729",
-    "cat": "유아·완구·반려",
-    "price": 61990.0,
-    "base": 77990.0,
-    "discount": 16000.0,
-    "start": "2026-10-26",
-    "end": "2026-11-08",
-    "img": "https://www.costco.co.kr/medias/sys_master/images/h41/hf8/502444249612318.jpg",
-    "rating": 0.0,
-    "reviews": null,
-    "soldout": false,
-    "first": "2026-10-26"
    },
    {
     "id": "1785046",
@@ -4396,7 +4332,7 @@
     "base": 42990.0,
     "discount": 6500.0,
     "start": "2026-10-12",
-    "end": "2026-11-08",
+    "end": "2026-11-22",
     "img": "https://www.costco.co.kr/medias/sys_master/images/hbf/h34/168280060035102.jpg",
     "rating": 4.7,
     "reviews": 13,
@@ -4974,8 +4910,8 @@
     "start": "2026-11-02",
     "end": "2026-11-15",
     "img": "https://www.costco.co.kr/medias/sys_master/images/h24/hdd/505960176779294.jpg",
-    "rating": 0.0,
-    "reviews": null,
+    "rating": 5.0,
+    "reviews": 1,
     "soldout": false,
     "first": "2026-11-05"
    },
@@ -5352,11 +5288,11 @@
     "name": "밸롭 바운스코어 모던 운동화",
     "url": "https://www.costco.co.kr/ClothingBagsAccessories/Shoes-for-Men/Casual-Shoes-for-Men/Ballop-Bounce-Core-Modern/p/697953",
     "cat": "의류·잡화",
-    "price": 41990.0,
+    "price": 29990.0,
     "base": 41990.0,
-    "discount": 0,
-    "start": null,
-    "end": null,
+    "discount": 12000.0,
+    "start": "2026-10-26",
+    "end": "2026-11-08",
     "img": "https://www.costco.co.kr/medias/sys_master/images/he8/h4e/505294066384926.jpg",
     "rating": 0.0,
     "reviews": null,
@@ -5390,8 +5326,8 @@
     "start": null,
     "end": null,
     "img": "https://www.costco.co.kr/medias/sys_master/images/h32/ha7/504733328146462.jpg",
-    "rating": 0.0,
-    "reviews": null,
+    "rating": 5.0,
+    "reviews": 1,
     "soldout": false,
     "first": "2026-10-26"
    },
@@ -5406,26 +5342,10 @@
     "start": "2026-10-26",
     "end": "2026-11-08",
     "img": "https://www.costco.co.kr/medias/sys_master/images/h18/hfd/502230396436510.jpg",
-    "rating": 0.0,
-    "reviews": null,
+    "rating": 4.0,
+    "reviews": 1,
     "soldout": false,
     "first": "2026-10-26"
-   },
-   {
-    "id": "692325",
-    "name": "요이츠 여성 돌먼 모크넥 티",
-    "url": "https://www.costco.co.kr/ClothingBagsAccessories/Clothing-for-Women/ShirtsBlouseTop-for-Women/Yoicheu-Womens-Dolman-Mockneck-Tee/p/692325",
-    "cat": "의류·잡화",
-    "price": 23990.0,
-    "base": 29990.0,
-    "discount": 6000.0,
-    "start": "2026-10-15",
-    "end": "2026-11-08",
-    "img": "https://www.costco.co.kr/medias/sys_master/images/h0e/hf9/503715347136542.jpg",
-    "rating": 4.5,
-    "reviews": 2,
-    "soldout": false,
-    "first": "2026-10-22"
    },
    {
     "id": "672880",
@@ -12282,9 +12202,9 @@
     "cat": "전자·컴퓨터",
     "price": null,
     "base": null,
-    "discount": 200000.0,
-    "start": "2026-11-02",
-    "end": "2026-11-15",
+    "discount": 0,
+    "start": null,
+    "end": null,
     "img": "https://www.costco.co.kr/medias/sys_master/images/h1f/hf3/386237568647198.jpg",
     "rating": 4.0,
     "reviews": 2,
@@ -15892,6 +15812,22 @@
     "first": "2026-10-26"
    },
    {
+    "id": "682334",
+    "name": "Nusspo 두바이 초콜릿 크림 스프레드 1kg",
+    "url": "https://www.costco.co.kr/Foods/SaucesCondiments/HoneySyrupsJam/Nusspo-Dubai-Chocolate-Cream-Spread-1kg/p/682334",
+    "cat": "식품",
+    "price": 12990.0,
+    "base": 17990.0,
+    "discount": 5000.0,
+    "start": "2026-10-27",
+    "end": "2026-11-08",
+    "img": "https://www.costco.co.kr/medias/sys_master/images/hf8/hbe/417405770498078.jpg",
+    "rating": 4.7,
+    "reviews": 28,
+    "soldout": true,
+    "first": "2026-10-22"
+   },
+   {
     "id": "630583",
     "name": "블랙모어스 rTG 피쉬오일 미니 캡슐 / 510mg x 250",
     "url": "https://www.costco.co.kr/HealthSupplement/Omega-3Krill-Oil/Blackmores-rTG-Fish-Oil-mini-510mg-x-250/p/630583",
@@ -15956,6 +15892,38 @@
     "first": "2026-10-30"
    },
    {
+    "id": "676107",
+    "name": "볼빅 파크골프 세트",
+    "url": "https://www.costco.co.kr/SportsFitnessCamping/Golf/Golf-Clubs/Volvik-Park-Golf-Set/p/676107",
+    "cat": "스포츠·캠핑",
+    "price": 269990.0,
+    "base": 299990.0,
+    "discount": 30000.0,
+    "start": "2026-11-02",
+    "end": "2026-11-10",
+    "img": "https://www.costco.co.kr/medias/sys_master/images/hae/hb7/450181937725470.jpg",
+    "rating": 4.8,
+    "reviews": 88,
+    "soldout": true,
+    "first": "2026-11-02"
+   },
+   {
+    "id": "692226",
+    "name": "게스 여성 숏 덕다운 재킷",
+    "url": "https://www.costco.co.kr/ClothingBagsAccessories/Clothing-for-Women/Outerwear-for-Women/Guess-Womens-Down-Puffer-Jacket/p/692226",
+    "cat": "의류·잡화",
+    "price": 79900.0,
+    "base": 91900.0,
+    "discount": 12000.0,
+    "start": "2026-11-02",
+    "end": "2026-11-08",
+    "img": "https://www.costco.co.kr/medias/sys_master/images/h70/h9a/491181744029726.jpg",
+    "rating": 0.0,
+    "reviews": null,
+    "soldout": true,
+    "first": "2026-11-02"
+   },
+   {
     "id": "681718",
     "name": "컬럼비아 남성 파이크 래이크II 패딩 베스트",
     "url": "https://www.costco.co.kr/ClothingBagsAccessories/Clothing-for-Men/Outerwear-for-Men/Columbia-Mens-Pike-Lake-II-Padding-Vest/p/681718",
@@ -15988,18 +15956,50 @@
     "first": "2026-10-26"
    },
    {
-    "id": "634366",
-    "name": "듀얼 바이탈 이뮨 30ct",
-    "url": "https://www.costco.co.kr/HealthSupplement/VitaminMineral/Multi-Vitamin/Dual-Vital-Immune-30ct/p/634366",
-    "cat": "건강",
-    "price": 36990.0,
-    "base": 45990.0,
-    "discount": 9000.0,
+    "id": "697470",
+    "name": "카밀 핸드크림 레인보우 세트",
+    "url": "https://www.costco.co.kr/Gift-Set-Special/Nonfood-Gifts/Kamill-Hand-Cream-Rainbow-Set/p/697470",
+    "cat": "선물세트",
+    "price": 13990.0,
+    "base": 16990.0,
+    "discount": 3000.0,
     "start": "2026-10-26",
     "end": "2026-11-08",
-    "img": "https://www.costco.co.kr/medias/sys_master/images/hd8/h78/137050459471902.jpg",
-    "rating": 4.6,
-    "reviews": 24,
+    "img": "https://www.costco.co.kr/medias/sys_master/images/ha6/h00/492234854268958.jpg",
+    "rating": 0.0,
+    "reviews": null,
+    "soldout": true,
+    "first": "2026-10-26"
+   },
+   {
+    "id": "691134",
+    "name": "타요 자동차 구조 센터",
+    "url": "https://www.costco.co.kr/BabyKidsToysPets/Toys/Activity-Toys/Tayo-Car-Rescue-Center/p/691134",
+    "cat": "유아·완구·반려",
+    "price": 41900.0,
+    "base": 52900.0,
+    "discount": 11000.0,
+    "start": "2026-10-26",
+    "end": "2026-11-08",
+    "img": "https://www.costco.co.kr/medias/sys_master/images/h69/h35/431256502698014.jpg",
+    "rating": 0.0,
+    "reviews": null,
+    "soldout": true,
+    "first": "2026-10-26"
+   },
+   {
+    "id": "1929729",
+    "name": "LED 펭귄 또는 북극곰 장식 61cm",
+    "url": "https://www.costco.co.kr/BabyKidsToysPets/Christmas/Christmas-Ornament/LED-Penguin-or-Polar-Bear-Greeter-61cm/p/1929729",
+    "cat": "유아·완구·반려",
+    "price": 61990.0,
+    "base": 77990.0,
+    "discount": 16000.0,
+    "start": "2026-10-26",
+    "end": "2026-11-08",
+    "img": "https://www.costco.co.kr/medias/sys_master/images/h41/hf8/502444249612318.jpg",
+    "rating": 0.0,
+    "reviews": null,
     "soldout": true,
     "first": "2026-10-26"
    },
@@ -16064,6 +16064,22 @@
     "img": "https://www.costco.co.kr/medias/sys_master/images/heb/h2f/505960174649374.jpg",
     "rating": 0.0,
     "reviews": null,
+    "soldout": true,
+    "first": "2026-10-22"
+   },
+   {
+    "id": "692325",
+    "name": "요이츠 여성 돌먼 모크넥 티",
+    "url": "https://www.costco.co.kr/ClothingBagsAccessories/Clothing-for-Women/ShirtsBlouseTop-for-Women/Yoicheu-Womens-Dolman-Mockneck-Tee/p/692325",
+    "cat": "의류·잡화",
+    "price": 23990.0,
+    "base": 29990.0,
+    "discount": 6000.0,
+    "start": "2026-10-15",
+    "end": "2026-11-08",
+    "img": "https://www.costco.co.kr/medias/sys_master/images/h0e/hf9/503715347136542.jpg",
+    "rating": 4.5,
+    "reviews": 2,
     "soldout": true,
     "first": "2026-10-22"
    },
@@ -17496,168 +17512,168 @@
   ],
   "blog": [
    {
-    "title": "[구취제거 치약 추천 ] 올리브영 1위! 레드씰 프로폴리스 민트 치약 ....",
-    "link": "https://blog.naver.com/judady-/224467471330",
-    "date": "2026-11-06",
-    "by": "왈가닥 하우스"
+    "title": "[광명] 코스트코 추천템 푸드코트 신메뉴 소금우유 아이스크림 내돈....",
+    "link": "https://blog.naver.com/ad0re_u/224467998308",
+    "date": "2026-11-07",
+    "by": "With lots of love"
    },
    {
-    "title": "써봐야만 아나요? 코스트코 쇼핑리스트 고수들도 이건 모르면 손해....",
-    "link": "https://blog.naver.com/somsom264/224466311109",
-    "date": "2026-11-06",
+    "title": "코스트코추천템 탈모샴푸 ‘블랙포레 루트파워 쿨앤딥클린 샴푸’",
+    "link": "https://blog.naver.com/dkssudgktpdy245/224467998564",
+    "date": "2026-11-07",
+    "by": "잰치국수"
+   },
+   {
+    "title": "[11월 6일 코스트코 세일] TWI 미니스 & 주말 마감",
+    "link": "https://blog.naver.com/trend_info_lab/224467996182",
+    "date": "2026-11-07",
+    "by": "."
+   },
+   {
+    "title": "코스트코 '그게 이렇게 크다고?' 보자마자 꽉 쟁인 간식 3가지",
+    "link": "https://blog.naver.com/ruppuhy/224467581667",
+    "date": "2026-11-07",
+    "by": "별별영양사"
+   },
+   {
+    "title": "\"진열대가 텅 비었더라고요\" 코스트코 추천템 5가지, 탕종식빵부터 ....",
+    "link": "https://blog.naver.com/rabbitsong2/224467703198",
+    "date": "2026-11-07",
+    "by": "살림하는 워킹맘 헤이쏭의 기록들"
+   },
+   {
+    "title": "생존가방 뭐부터 챙길까? 자취방 비상용품 3일분, 물만 9L예요",
+    "link": "https://blog.naver.com/ez2k/224465485237",
+    "date": "2026-11-07",
+    "by": "취향의 여유"
+   },
+   {
+    "title": "이게 진짜 찐이에요! 코스트코 1만 원대 겨울 필수템을 득템할 기회....",
+    "link": "https://blog.naver.com/somsom264/224466896351",
+    "date": "2026-11-07",
     "by": "솜솜이네 살림템"
    },
    {
-    "title": "코스트코 가기 전 꼭 봐야 할 11월 2주차 할인 꿀템과 쇼핑 전략",
-    "link": "https://blog.naver.com/michael-824/224467470363",
-    "date": "2026-11-06",
-    "by": "12랑"
+    "title": "코스트코 에서 잘 나가는 온 가족 내의 세트",
+    "link": "https://blog.naver.com/summer_tv/224467386865",
+    "date": "2026-11-07",
+    "by": "썸머"
    },
    {
-    "title": "코스트코 N번구매 화장품 추천 수분충전 속건조 해결사 웰라쥬 리얼....",
-    "link": "https://blog.naver.com/attojin_log/224467465145",
-    "date": "2026-11-06",
-    "by": "아또진의 하루살이"
+    "title": "코스트코 쇼핑리스트 직접 구입한 제품 후기",
+    "link": "https://blog.naver.com/hyll0820/224467756856",
+    "date": "2026-11-07",
+    "by": "얌미의 일상 한 조각 ✨"
    },
    {
-    "title": "코스트코 '탈퇴 막으려고' 아예 작정하고 낸 필살기 이거 3종",
-    "link": "https://blog.naver.com/jinji5658/224467458742",
-    "date": "2026-11-06",
+    "title": "거실에 트리 놓을 자리도 없는데… 코스트코 에서 발견한 크리스마....",
+    "link": "https://blog.naver.com/pasm123/224467993425",
+    "date": "2026-11-07",
+    "by": "혈압라이프"
+   },
+   {
+    "title": "[ 코스트코 ] 세제 할인, 쟁이러가요! 프로쉬/다우니/파워브라이트까....",
+    "link": "https://blog.naver.com/yozm_ourdays/224467986985",
+    "date": "2026-11-07",
+    "by": "요즘, 우리집"
+   },
+   {
+    "title": "코스트코 가 '기어이' 또 일냈어요! 이번 쇼핑 1순위 추천템",
+    "link": "https://blog.naver.com/jinji5658/224467981935",
+    "date": "2026-11-07",
     "by": "설수맘 살림하우스"
-   },
-   {
-    "title": "코스트코 “ 제 지갑 좀 살려주세요! ” 567g에 14,990원… 가격표 앞에....",
-    "link": "https://blog.naver.com/gongganondo/224465324345",
-    "date": "2026-11-06",
-    "by": "공간의 온도를 더하다"
-   },
-   {
-    "title": "코스트코 “5천원 싼데 더 비싸요?” 아몬드 견과류 가격표의 반전",
-    "link": "https://blog.naver.com/heeezi/224462495020",
-    "date": "2026-11-06",
-    "by": "유깐깐의 깐깐한 리빙 기록"
-   },
-   {
-    "title": "미리 사면 할인받는! 코스트코 11월 첫째주 할인 크리스마스 추천 상....",
-    "link": "https://blog.naver.com/chibimoo/224467449474",
-    "date": "2026-11-06",
-    "by": "K래빗 포슬린아뜰리에 with Tea"
-   },
-   {
-    "title": "코스트코 김장 준비 미리 하세요! 김치 양념부터 수육까지 한 번에 ....",
-    "link": "https://blog.naver.com/snow_12/224467284928",
-    "date": "2026-11-06",
-    "by": "snow_12님의 블로그"
-   },
-   {
-    "title": "[단독] 집팔아 ‘삼전닉스’ 들어간 야수들…생각보다 훨씬 더 많았....",
-    "link": "https://blog.naver.com/zzalforyou/224467443944",
-    "date": "2026-11-06",
-    "by": "짤뽀의 ForYou"
-   },
-   {
-    "title": "\"집팔아 주식, 이게 생산적 금융\"",
-    "link": "https://blog.naver.com/zzalforyou/224467442260",
-    "date": "2026-11-06",
-    "by": "짤뽀의 ForYou"
-   },
-   {
-    "title": "코스트코 \"이런 게 있었어요?\" 오래 다닌 사람도 모를 알짜템 3",
-    "link": "https://blog.naver.com/jieun_3088/224457129417",
-    "date": "2026-11-06",
-    "by": "라이프 캐비닛"
    }
   ],
   "pick": [
    {
-    "title": "11월 첫째주 코스트코 할인상품 울산 코스트코 이그제큐티브 할인",
-    "link": "https://blog.naver.com/mokkk1316/224467477547",
-    "date": "2026-11-06",
-    "by": "소소한 일상이야기"
+    "title": "[11월 6일 코스트코 세일] TWI 미니스 & 주말 마감",
+    "link": "https://blog.naver.com/trend_info_lab/224467996182",
+    "date": "2026-11-07",
+    "by": "."
    },
    {
-    "title": "써봐야만 아나요? 코스트코 쇼핑리스트 고수들도 이건 모르면 손해....",
-    "link": "https://blog.naver.com/somsom264/224466311109",
-    "date": "2026-11-06",
+    "title": "이게 진짜 찐이에요! 코스트코 1만 원대 겨울 필수템을 득템할 기회....",
+    "link": "https://blog.naver.com/somsom264/224466896351",
+    "date": "2026-11-07",
     "by": "솜솜이네 살림템"
    },
    {
-    "title": "코스트코 가기 전 꼭 봐야 할 11월 2주차 할인 꿀템과 쇼핑 전략",
-    "link": "https://blog.naver.com/michael-824/224467470363",
-    "date": "2026-11-06",
-    "by": "12랑"
+    "title": "[ 코스트코 ] 세제 할인, 쟁이러가요! 프로쉬/다우니/파워브라이트까....",
+    "link": "https://blog.naver.com/yozm_ourdays/224467986985",
+    "date": "2026-11-07",
+    "by": "요즘, 우리집"
    },
    {
-    "title": "미리 사면 할인받는! 코스트코 11월 첫째주 할인 크리스마스 추천 상....",
-    "link": "https://blog.naver.com/chibimoo/224467449474",
-    "date": "2026-11-06",
-    "by": "K래빗 포슬린아뜰리에 with Tea"
-   },
-   {
-    "title": "[단독] 집팔아 ‘삼전닉스’ 들어간 야수들…생각보다 훨씬 더 많았....",
-    "link": "https://blog.naver.com/zzalforyou/224467443944",
-    "date": "2026-11-06",
-    "by": "짤뽀의 ForYou"
-   },
-   {
-    "title": "\"집팔아 주식, 이게 생산적 금융\"",
-    "link": "https://blog.naver.com/zzalforyou/224467442260",
-    "date": "2026-11-06",
-    "by": "짤뽀의 ForYou"
-   },
-   {
-    "title": "2인 가구 코스트코 추천템 ! 트레이더스와 비교한 솔직후기 푸드코트....",
-    "link": "https://blog.naver.com/basketchild/224467401528",
-    "date": "2026-11-06",
-    "by": "말많은 여행쟁이의 일상"
-   },
-   {
-    "title": "코스트코 11월 첫째주 할인 및 겨울 준비 그리고 이그제큐티브 스페....",
-    "link": "https://blog.naver.com/rnlfks96/224467399530",
-    "date": "2026-11-06",
-    "by": "희란이의 일상이야기"
-   },
-   {
-    "title": "[내돈내산] 코스트코 냉장냉동 할인 추천템 BEST 7 가격 및 장보기 꿀....",
-    "link": "https://blog.naver.com/peace5517/224467367331",
-    "date": "2026-11-06",
-    "by": "웅냥로그"
-   },
-   {
-    "title": "11월 코스트코 뭐 사지? : 11월 첫째 주 할인 제품 및 코스트코 쇼핑 ....",
-    "link": "https://blog.naver.com/sg0824/224467342942",
-    "date": "2026-11-06",
-    "by": "지츄랜드"
-   },
-   {
-    "title": "코스트코 11월 첫째 주 주말 할인 총정리｜추가 할인상품·가격·행....",
-    "link": "https://blog.naver.com/yellowmatcha/224467325788",
-    "date": "2026-11-06",
-    "by": "이것저것 사는 블로그"
-   },
-   {
-    "title": "코스트코 \"강주은 님이 통닭을 '막' 으깨요!\" 근데 멋진 브런치가 되....",
-    "link": "https://blog.naver.com/enocham/224467314153",
-    "date": "2026-11-06",
+    "title": "코스트코 \"막 와우! 이거는 아니야\" 강주은 님이 솔직하게 짚어준 추....",
+    "link": "https://blog.naver.com/enocham/224467879457",
+    "date": "2026-11-07",
     "by": "장바구니가 행복해지는 이곳 :)"
    },
    {
-    "title": "코스트코 와인 추천 리스트 2만원 이하 가성비 레드와인 완벽 정리",
-    "link": "https://blog.naver.com/jangjang8815/224467303425",
-    "date": "2026-11-06",
-    "by": "여행❤️푸드❤️맛집"
+    "title": "2026년 11월 첫째 주 코스트코 할인",
+    "link": "https://blog.naver.com/todayhello3/224467850190",
+    "date": "2026-11-07",
+    "by": "꼬마와 함께하는 방울토마토 이야기"
    },
    {
-    "title": "코스트코 11월 첫째주 할인 '내돈내산' 시크릿 추천템",
-    "link": "https://blog.naver.com/chlgmldi/224467301966",
-    "date": "2026-11-06",
-    "by": "리빙 리뷰 그리고 리얼"
+    "title": "\" 이번 주 는 뭐가 싸지?\" 코스트코 11월 첫째주 할인상품, 장보기 전 ....",
+    "link": "https://blog.naver.com/liveliving365/224467848298",
+    "date": "2026-11-07",
+    "by": "오늘도 리빙 | 매일 더 나은 생활을 위한 리빙 가이드"
    },
    {
-    "title": "2026.10월 일상",
-    "link": "https://blog.naver.com/archivemmt/224467290660",
+    "title": "코스트코 크리스마스 신상 파헤치기｜회전목마 오르골·트리 가격 ....",
+    "link": "https://blog.naver.com/rayong_home/224467846230",
+    "date": "2026-11-07",
+    "by": "알록달록 엘맘의 육아홈♥️"
+   },
+   {
+    "title": "[부산점] 코스트코 장보기 리스트 물가 후덜덜",
+    "link": "https://blog.naver.com/ttm7257/224467832185",
+    "date": "2026-11-07",
+    "by": "LOVE THIS MOMENT ˚ෆ*₊"
+   },
+   {
+    "title": "코스트코 광명점 11월 둘째주 장보기",
+    "link": "https://blog.naver.com/lovely_jjung_/224467760048",
+    "date": "2026-11-07",
+    "by": "꼬미의 하루"
+   },
+   {
+    "title": "26년 11월 첫째주 - 송도 코스트코 과일·패딩·가전·푸드코트 할인 ....",
+    "link": "https://blog.naver.com/skate032/224467805939",
+    "date": "2026-11-07",
+    "by": "오늘의 코맛쿠체.!"
+   },
+   {
+    "title": "코스트코 11월 할인상품 장보기 이그제큐티브 회원 할인부터 추천 ....",
+    "link": "https://blog.naver.com/apple407/224467788815",
     "date": "2026-11-06",
-    "by": "일상 차곡차곡 쌓기"
+    "by": "부산아줌마의 좌충우돌살림"
+   },
+   {
+    "title": "“아니 코스트코 다녀왔더니 지인이 ‘내 것도 사다 주지!’ 난리 ....",
+    "link": "https://blog.naver.com/chidamam/224467782686",
+    "date": "2026-11-06",
+    "by": "워킹맘의 건강한 한끼"
+   },
+   {
+    "title": "31주 ~ 33주 차 임신 후기 증상(갈비뼈 통증, 체력) / 아기 옷 빨래 공....",
+    "link": "https://blog.naver.com/sylvie015_/224467752492",
+    "date": "2026-11-06",
+    "by": "예비말띠맘 뜌땨의 맛따라멋따라"
+   },
+   {
+    "title": "코스트코 11월 할인 정보 총정리 | 11월 8일 종료 특가 & 11월 22일까지 ....",
+    "link": "https://blog.naver.com/sugieblog/224467726112",
+    "date": "2026-11-06",
+    "by": "슈기의 만물상회"
+   },
+   {
+    "title": "코스트코추천템 앙방 대용량샴푸 1500ml 약산성 퍼퓸샴푸 메리미 달....",
+    "link": "https://blog.naver.com/retjkpr/224467721594",
+    "date": "2026-11-06",
+    "by": "밈밈의일상"
    }
   ],
   "items": []
@@ -17685,6 +17701,18 @@
    ]
   },
   "news": [
+   {
+    "title": "11/7~ 11/8 이마트·홈플러스·롯데마트·코스트코, 휴무일·영업시간......",
+    "link": "http://www.newskr.kr/news/articleView.html?idxno=107784",
+    "date": "2026-11-07",
+    "by": ""
+   },
+   {
+    "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘ 할인 특가전...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202611060194",
+    "date": "2026-11-07",
+    "by": ""
+   },
    {
     "title": "‘쓱데이’·‘메가통큰’ 맞붙은 연말 할인 대전, 홈플러스 반사이익은...",
     "link": "https://biz.chosun.com/distribution/channel/2026/11/06/XC2PRETO3RGOFJ43XOMUMKSNJU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -17744,106 +17772,124 @@
     "link": "https://www.joongangenews.com/news/articleView.html?idxno=560738",
     "date": "2026-11-03",
     "by": ""
-   },
-   {
-    "title": "빼빼로데이부터 크리스마스까지…유통가, 연말 성수기 경쟁 '후끈'",
-    "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205747",
-    "date": "2026-11-03",
-    "by": ""
-   },
-   {
-    "title": "신세계그룹, 최대 92% 할인 '쓱데이 클리어런스' 진행",
-    "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268385",
-    "date": "2026-11-03",
-    "by": ""
    }
   ],
   "blog": [
    {
-    "title": "트레이더스 겨울옷 추천 5가지, 캘빈클라인 패딩부터 퍼 재킷까지 ....",
-    "link": "https://blog.naver.com/angelchanmi1/224458090410",
-    "date": "2026-11-06",
-    "by": "꿀팁 모으는 벌꽃부부"
+    "title": "[광명] 코스트코 추천템 푸드코트 신메뉴 소금우유 아이스크림 내돈....",
+    "link": "https://blog.naver.com/ad0re_u/224467998308",
+    "date": "2026-11-07",
+    "by": "With lots of love"
    },
    {
-    "title": "[단독] 집팔아 ‘삼전닉스’ 들어간 야수들…생각보다 훨씬 더 많았....",
-    "link": "https://blog.naver.com/zzalforyou/224467443944",
-    "date": "2026-11-06",
-    "by": "짤뽀의 ForYou"
+    "title": "108. 나도 언젠가는 마음껏",
+    "link": "https://blog.naver.com/evverye/224467997238",
+    "date": "2026-11-07",
+    "by": "Saunter •"
    },
    {
-    "title": "\"집팔아 주식, 이게 생산적 금융\"",
-    "link": "https://blog.naver.com/zzalforyou/224467442260",
-    "date": "2026-11-06",
-    "by": "짤뽀의 ForYou"
-   },
-   {
-    "title": "홈플러스 세일 할인 전단지 “삼겹살 1,980원에 한우 반값까지?” 이....",
-    "link": "https://blog.naver.com/yujnel/224467434552",
-    "date": "2026-11-06",
-    "by": "유즈넬 하우스"
-   },
-   {
-    "title": "이마트 트레이더스 포트메리온 딥볼 접시 세트 쓱데이 세일 할인 가....",
-    "link": "https://blog.naver.com/reviewsumerjjb/224467425489",
-    "date": "2026-11-06",
-    "by": "꼼꼼한 정주부"
-   },
-   {
-    "title": "구월동 트레이더스 홀세일 클럽 쓱데이 쇼핑목록 꿀템 추천",
-    "link": "https://blog.naver.com/maeng_d/224467422707",
-    "date": "2026-11-06",
-    "by": "Charming diary✨"
-   },
-   {
-    "title": "키 성장과 영양을 모두 잡은 초등 6학년 아들의 일주일 밥상 메뉴 안....",
-    "link": "https://blog.naver.com/shinpudding/224467413463",
-    "date": "2026-11-06",
-    "by": "혼밥하는 엄마의 한끼"
-   },
-   {
-    "title": "2인 가구 코스트코 추천템 ! 트레이더스 와 비교한 솔직후기 푸드코트....",
-    "link": "https://blog.naver.com/basketchild/224467401528",
-    "date": "2026-11-06",
-    "by": "말많은 여행쟁이의 일상"
-   },
-   {
-    "title": "80개에 12,780원! 트레이더스 단독 백설 1분링 코인육수 추천템",
-    "link": "https://blog.naver.com/slowdownandenjoylife/224467382401",
-    "date": "2026-11-06",
-    "by": "어느하루, 머무는 집"
-   },
-   {
-    "title": "[이마트 트레이더스 쿠쿠 파워클론 하이퍼 무선 진공청소기] 초슬림....",
-    "link": "https://blog.naver.com/howto03/224467362140",
-    "date": "2026-11-06",
-    "by": "뻬르마리의 노트"
-   },
-   {
-    "title": "'무신사'에서 비싸게 살뻔... 이거 트레이더스 에 풀렸어요!",
-    "link": "https://blog.naver.com/mcw891029/224465556983",
-    "date": "2026-11-06",
+    "title": "'쿠팡'에서 사면 안돼요... 트레이더스 '크리스마스' 꾸미기템!",
+    "link": "https://blog.naver.com/mcw891029/224466924795",
+    "date": "2026-11-07",
     "by": "리뷰정보 쟨틀"
    },
    {
-    "title": "이마트 트레이더스 추천템 CJ 고메 카레우동 가격 및 솔직 후기",
-    "link": "https://blog.naver.com/little_lotte/224467325713",
-    "date": "2026-11-06",
-    "by": "오늘도 잘 먹고 잘 사는 중 :)"
+    "title": "코스트코 쇼핑리스트 직접 구입한 제품 후기",
+    "link": "https://blog.naver.com/hyll0820/224467756856",
+    "date": "2026-11-07",
+    "by": "얌미의 일상 한 조각 ✨"
+   },
+   {
+    "title": "쓱데이득템 이마트 트레이더스 추천템 차량용방향제 불스원 그라스 ....",
+    "link": "https://blog.naver.com/gjduswn128/224466360511",
+    "date": "2026-11-07",
+    "by": "❤️ 연두의 웨딩일기 ❤️"
+   },
+   {
+    "title": "갈 때마다 품절이었던 '이거' 겨우 샀는데.. 이마트 트레이더스 연세....",
+    "link": "https://blog.naver.com/pullina/224467992472",
+    "date": "2026-11-07",
+    "by": "풀리나"
+   },
+   {
+    "title": "이마트 트레이더스 보아르 2in1 보풀제거기 40% 할인 가격은? 쓱데이 ....",
+    "link": "https://blog.naver.com/reviewsumerjjb/224467984936",
+    "date": "2026-11-07",
+    "by": "꼼꼼한 정주부"
+   },
+   {
+    "title": "코스트코 VS 트레이더스 , 상위 회원권 본전 금액이 2배 가까이 달랐....",
+    "link": "https://blog.naver.com/lunatoday_/224467863510",
+    "date": "2026-11-07",
+    "by": "루나의하루"
+   },
+   {
+    "title": "5등급 샤또의 '동생' 와인이 트레이더스 에 있어서 가격표 봤더니..",
+    "link": "https://blog.naver.com/angelchanmi1/224458119338",
+    "date": "2026-11-07",
+    "by": "꿀팁 모으는 벌꽃부부"
+   },
+   {
+    "title": "\"생각보다 훨씬 많습니다\" 건축사가 하는 일, 어디까지일까?",
+    "link": "https://blog.naver.com/2016ars/224464159609",
+    "date": "2026-11-07",
+    "by": "공간 / 기획 / 시공 맛집"
+   },
+   {
+    "title": "무인양품이 1년에 두 번 일 낸다는 무지위크, 장바구니 후보",
+    "link": "https://blog.naver.com/angelchanmi1/224466845872",
+    "date": "2026-11-07",
+    "by": "꿀팁 모으는 벌꽃부부"
+   },
+   {
+    "title": "이마트 트레이더스 쓱데이 떴다 댕냥이 사료 간식 쟁여템 추천",
+    "link": "https://blog.naver.com/jaurimawsy/224467934898",
+    "date": "2026-11-07",
+    "by": "\"연니찌\"의 리빙 스마트 북"
    }
   ],
   "pick": [
    {
-    "title": "[단독] 집팔아 ‘삼전닉스’ 들어간 야수들…생각보다 훨씬 더 많았....",
-    "link": "https://blog.naver.com/zzalforyou/224467443944",
-    "date": "2026-11-06",
-    "by": "짤뽀의 ForYou"
+    "title": "갈 때마다 품절이었던 '이거' 겨우 샀는데.. 이마트 트레이더스 연세....",
+    "link": "https://blog.naver.com/pullina/224467992472",
+    "date": "2026-11-07",
+    "by": "풀리나"
    },
    {
-    "title": "\"집팔아 주식, 이게 생산적 금융\"",
-    "link": "https://blog.naver.com/zzalforyou/224467442260",
+    "title": "코스트코 \"막 와우! 이거는 아니야\" 강주은 님이 솔직하게 짚어준 추....",
+    "link": "https://blog.naver.com/enocham/224467879457",
+    "date": "2026-11-07",
+    "by": "장바구니가 행복해지는 이곳 :)"
+   },
+   {
+    "title": "트레이더스 반려동물 간식 세일 10종 | 소가죽껌 6,980원, 고구마말이,....",
+    "link": "https://blog.naver.com/cartpick/224467834061",
+    "date": "2026-11-07",
+    "by": "주간 장바구니 픽 | 마트·다이소·올영"
+   },
+   {
+    "title": "[내돈내산] 트레이더스 신상꿀템 오아\"버블풋 접이식 족욕기\"",
+    "link": "https://blog.naver.com/qhdk6162/224467699549",
     "date": "2026-11-06",
-    "by": "짤뽀의 ForYou"
+    "by": "소소한 일상 이야기"
+   },
+   {
+    "title": "롯데마트 메가통큰 2주차 전단 (11/5~11/11) 메가통큰세일 2주차 삼겹살....",
+    "link": "https://blog.naver.com/j7m7y/224467632911",
+    "date": "2026-11-06",
+    "by": "우리집 생활비 연구소"
+   },
+   {
+    "title": "11월 1주차 트레이더스 추천템 과 쓱데이 행사, 동탄점 주말 장보기 ....",
+    "link": "https://blog.naver.com/hamssi_/224467617890",
+    "date": "2026-11-06",
+    "by": "_ssi"
+   },
+   {
+    "title": "벌써 일시품절이라고? 다이소 크리스마스 인형옷 5종, 1천원·2천원 ....",
+    "link": "https://blog.naver.com/sypline/224467547265",
+    "date": "2026-11-06",
+    "by": "패션미용레시피"
    },
    {
     "title": "홈플러스 세일 할인 전단지 “삼겹살 1,980원에 한우 반값까지?” 이....",
@@ -17892,43 +17938,28 @@
     "link": "https://blog.naver.com/winor2658/224467054778",
     "date": "2026-11-06",
     "by": "슬기로운 리뷰생활"
-   },
-   {
-    "title": "이마트 트레이더스 11월 첫째주 할인 상품 쓱데이 행사 품목",
-    "link": "https://blog.naver.com/gndhs/224467025238",
-    "date": "2026-11-06",
-    "by": "살림비법 실험연구소"
-   },
-   {
-    "title": "이마트 전단 행사 할인 전단지 | 마지막 쓱데이 이번주 주말 추천 상....",
-    "link": "https://blog.naver.com/k-cart/224466977944",
-    "date": "2026-11-06",
-    "by": "장보러 다니는 케이카트"
-   },
-   {
-    "title": "이마트 트레이더스 11월 둘째주 | 쓱데이 추천템 총정리",
-    "link": "https://blog.naver.com/bling202/224466913071",
-    "date": "2026-11-06",
-    "by": "Like Life Live"
-   },
-   {
-    "title": "11월 1주차 트레이더스 전용상품 16가지, 장보기 전에 확인할 추천템",
-    "link": "https://blog.naver.com/martgomi/224466041985",
-    "date": "2026-11-06",
-    "by": "마트요정고미 | 마트 신상 할인 추천"
-   },
-   {
-    "title": "트레이더스 11월 첫째 주 할인상품 추천 ★ 이번 주 장보기 놓치면 ....",
-    "link": "https://blog.naver.com/winor2658/224466794845",
-    "date": "2026-11-06",
-    "by": "슬기로운 리뷰생활"
    }
   ],
   "items": [
    {
     "name": "홈플러스",
+    "count": 4,
+    "link": "http://www.newskr.kr/news/articleView.html?idxno=107784"
+   },
+   {
+    "name": "크리스마스",
     "count": 2,
-    "link": "https://biz.chosun.com/distribution/channel/2026/11/06/XC2PRETO3RGOFJ43XOMUMKSNJU/?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    "link": "https://blog.naver.com/mcw891029/224466924795"
+   },
+   {
+    "name": "장바구니",
+    "count": 2,
+    "link": "https://blog.naver.com/angelchanmi1/224466845872"
+   },
+   {
+    "name": "메가통큰",
+    "count": 2,
+    "link": "https://blog.naver.com/j7m7y/224467632911"
    }
   ]
  },
@@ -17955,6 +17986,17 @@
     "upcoming": true,
     "new": false,
     "first": "2026-11-03"
+   },
+   {
+    "id": "2216",
+    "name": "아로셀 펩타콜라겐 스킨케어 출시",
+    "theme": "",
+    "start": "2026-11-11",
+    "end": "",
+    "url": "https://www.daisomall.co.kr/ds/spexhbt/C211?exbtNo=2216",
+    "upcoming": true,
+    "new": false,
+    "first": "2026-11-07"
    },
    {
     "id": "2215",
@@ -18078,17 +18120,6 @@
     "first": "2026-10-31"
    },
    {
-    "id": "2167",
-    "name": "VT 립 세럼 2종 출시",
-    "theme": "",
-    "start": "2026-11-02",
-    "end": "",
-    "url": "https://www.daisomall.co.kr/ds/spexhbt/C211?exbtNo=2167",
-    "upcoming": false,
-    "new": false,
-    "first": "2026-10-29"
-   },
-   {
     "id": "2165",
     "name": "데일리콤마 아로마모이스처 출시",
     "theme": "",
@@ -18100,23 +18131,23 @@
     "first": "2026-10-29"
    },
    {
+    "id": "2167",
+    "name": "VT 립 세럼 2종 출시",
+    "theme": "",
+    "start": "2026-11-02",
+    "end": "",
+    "url": "https://www.daisomall.co.kr/ds/spexhbt/C211?exbtNo=2167",
+    "upcoming": false,
+    "new": false,
+    "first": "2026-10-29"
+   },
+   {
     "id": "2187",
     "name": "투에딧 메이크업 신제품 출시",
     "theme": "",
     "start": "2026-11-02",
     "end": "",
     "url": "https://www.daisomall.co.kr/ds/spexhbt/C211?exbtNo=2187",
-    "upcoming": false,
-    "new": false,
-    "first": "2026-10-30"
-   },
-   {
-    "id": "2180",
-    "name": "비비랩 맛있는 탱글 포켓 젤리",
-    "theme": "",
-    "start": "2026-11-02",
-    "end": "",
-    "url": "https://www.daisomall.co.kr/ds/spexhbt/C211?exbtNo=2180",
     "upcoming": false,
     "new": false,
     "first": "2026-10-30"
@@ -18144,12 +18175,12 @@
     "first": "2026-10-30"
    },
    {
-    "id": "2158",
-    "name": "겨울도 따뜻하게 윈터투게더",
+    "id": "2180",
+    "name": "비비랩 맛있는 탱글 포켓 젤리",
     "theme": "",
     "start": "2026-11-02",
     "end": "",
-    "url": "https://www.daisomall.co.kr/ds/spexhbt/C211?exbtNo=2158",
+    "url": "https://www.daisomall.co.kr/ds/spexhbt/C211?exbtNo=2180",
     "upcoming": false,
     "new": false,
     "first": "2026-10-30"
@@ -18164,6 +18195,17 @@
     "upcoming": false,
     "new": true,
     "first": "2026-10-29"
+   },
+   {
+    "id": "2158",
+    "name": "겨울도 따뜻하게 윈터투게더",
+    "theme": "",
+    "start": "2026-11-02",
+    "end": "",
+    "url": "https://www.daisomall.co.kr/ds/spexhbt/C211?exbtNo=2158",
+    "upcoming": false,
+    "new": false,
+    "first": "2026-10-30"
    },
    {
     "id": "545",
@@ -18256,183 +18298,183 @@
   ],
   "blog": [
    {
-    "title": "다이소 화장품 추천｜메디필 멜라논엑스 기미 잡티 홈케어 5종 총정....",
-    "link": "https://blog.naver.com/bhy_bjoo_h/224467476930",
-    "date": "2026-11-06",
-    "by": "가비_소꿉놀이❤️"
+    "title": "다이소 전동 그라인더 5000원? 내돈내산 그라인더 2가지 차이점 비교 ....",
+    "link": "https://blog.naver.com/dear-jian/224467998501",
+    "date": "2026-11-07",
+    "by": "서서히 선명해지는 지안"
    },
    {
-    "title": "다이소 천원 펜 케이스, 필통 추천, 다이어리에 밴드로 고정하는 실....",
-    "link": "https://blog.naver.com/salad_diary/224467473108",
-    "date": "2026-11-06",
-    "by": "다꾸하는 샐러드의 감사일기장"
+    "title": "[ 다이소 비레디 올인원 바디워시] 5000원 아모레퍼시픽 5 in 1 내돈내....",
+    "link": "https://blog.naver.com/lch0110/224467996950",
+    "date": "2026-11-07",
+    "by": "루이스 리포트 Car, 솔직리뷰, 스포츠"
    },
    {
-    "title": "폭설 예매 오픈! 11월 18일 개봉일 무대인사 일정 총정리",
-    "link": "https://blog.naver.com/dlgmlrbs/224467080233",
-    "date": "2026-11-06",
-    "by": "moneyinsight님의 블로그"
+    "title": "다이소 겨울 테마 신상 스티커 윈터홈 스티커 세트, 마스킹테이프 ....",
+    "link": "https://blog.naver.com/toyouruniverse-/224467253945",
+    "date": "2026-11-07",
+    "by": "너의 우주에게"
    },
    {
-    "title": "다이소 키르시 신상 , 머리핀 말고 집에서 쓸 만한 건 뭘까?",
-    "link": "https://blog.naver.com/ksm0243/224467469863",
-    "date": "2026-11-06",
-    "by": "숨의 살림기획"
+    "title": "마운자로 24주~25주차 : 먹다가 끝난 마운자로 정체기, 아닌가?",
+    "link": "https://blog.naver.com/yun__dodo/224467995207",
+    "date": "2026-11-07",
+    "by": "Crown Sseon World"
    },
    {
-    "title": "마몽드 민트 포어 클리어 클렌징 밤 내용과 다이소 앰플엔 앰플 4종",
-    "link": "https://blog.naver.com/h8352153/224467467944",
-    "date": "2026-11-06",
-    "by": "아리따움 울산성남시계탑점"
+    "title": "다이소 키르시 콜라보 신상 파우치 양말 품번 재고조회 총정리",
+    "link": "https://blog.naver.com/mot8497/224467987705",
+    "date": "2026-11-07",
+    "by": "키다리 인테리어"
    },
    {
-    "title": "도쿄리벤저스 팝업 마이키마트 홍대 11월 23일 오픈, 네이버 사전예....",
-    "link": "https://blog.naver.com/dears_91/224467195842",
-    "date": "2026-11-06",
-    "by": "똑순이의 꿀팁 캘린더"
+    "title": "다이소 '이것' 대체 무슨 일이에요? 이번에 제대로 작정했네요..",
+    "link": "https://blog.naver.com/milrang_/224467790266",
+    "date": "2026-11-07",
+    "by": "또이지 하우스"
    },
    {
-    "title": "금요일엔 블로그가 쓰고싶어서",
-    "link": "https://blog.naver.com/tangomaru/224467457377",
-    "date": "2026-11-06",
-    "by": "얼렁뚱땅 쩝쩝박사"
+    "title": "빽다방 시그니처 딥크림라떼 가격 3,800원, 스몰·칼로리·카페인 총....",
+    "link": "https://blog.naver.com/applelove3423/224467985735",
+    "date": "2026-11-07",
+    "by": "공기방울의 핫딜 & 세일 정보"
    },
    {
-    "title": "다이소 신상 햄토리, 폼폼푸린, 겨울 마테 리뷰◝✩",
-    "link": "https://blog.naver.com/ray694704/224467453340",
-    "date": "2026-11-06",
-    "by": "용이 블로그"
+    "title": "다이소 아씨 한복세트 인형옷 후기｜우사기 인형 옷 입히기",
+    "link": "https://blog.naver.com/woo_sining/224467981983",
+    "date": "2026-11-07",
+    "by": "Memory Storage"
    },
    {
-    "title": "이렇게 귀여우면 어쩌자는 건가, 다이소 신상 겨울소품 5가지",
-    "link": "https://blog.naver.com/ararar0625/224467451452",
-    "date": "2026-11-06",
-    "by": "뉴니의 스윗홈"
+    "title": "버거킹 쯔란로제 크리스퍼 가격 6,200원, 딥치즈 세트·칼로리·판매....",
+    "link": "https://blog.naver.com/applelove3423/224467975135",
+    "date": "2026-11-07",
+    "by": "공기방울의 핫딜 & 세일 정보"
    },
    {
-    "title": "브라이언이 800만 원 가방을 300만 원대에 산 사연, 절대 못 파는 이유....",
-    "link": "https://blog.naver.com/dalbong-co-kr/224467450677",
-    "date": "2026-11-06",
-    "by": "달봉이의 생활연구소"
+    "title": "다이소 솔직히 너무 반칙이라 할 말도 없다...말이 안 나옴",
+    "link": "https://blog.naver.com/bside_zip/224466857430",
+    "date": "2026-11-07",
+    "by": "차곡차곡 살림기록"
    },
    {
-    "title": "다이소 펫 파티룩 추천 3가지｜강아지·고양이를 위한 드레스와 하....",
-    "link": "https://blog.naver.com/vocal1119/224467450089",
-    "date": "2026-11-06",
-    "by": "건강한 부자"
+    "title": "다이소 제대로 선 넘었네..? 이거 딴 데서는 이2만 원이 넘는데.. 2천....",
+    "link": "https://blog.naver.com/wlehddl0328/224467972532",
+    "date": "2026-11-07",
+    "by": "카라의 하우스"
    },
    {
-    "title": "빵에 바르는 그 버터 브랜드가 립밤을? 아떼×이즈니, 무슨 색일까?",
-    "link": "https://blog.naver.com/sun_nnn/224467441737",
-    "date": "2026-11-06",
-    "by": "뷰티여울"
+    "title": "수능 선물 뭐가 좋을까? 초콜릿부터 찹쌀떡까지 센스 있는 수능선물....",
+    "link": "https://blog.naver.com/ggultempick/224467868485",
+    "date": "2026-11-07",
+    "by": "꿀템스파이더 | 생활·쇼핑 가이드"
    }
   ],
   "groups": {
    "핫템": [
     {
-     "title": "시즈오카는 못 참치~ (후지산 함유)",
-     "link": "https://blog.naver.com/rryeong9/224467435208",
-     "date": "2026-11-06",
-     "by": "하루전야",
+     "title": "2026 부산불꽃축제 당일치기 관람 가이드: 시간대별 추천 도착 시점....",
+     "link": "https://blog.naver.com/brantarot/224467824205",
+     "date": "2026-11-07",
+     "by": "득템하쇼",
      "kind": "blog"
     },
     {
-     "title": "\"마시면 다다음 날 깬다더니\" 11년 만에 부활한 캪틴큐와 코미디언 ....",
-     "link": "https://blog.naver.com/master_aroma/224466986201",
-     "date": "2026-11-06",
-     "by": "오늘의 연예이슈",
+     "title": "빽다방 시그니처 딥크림라떼 가격 3,800원, 스몰·칼로리·카페인 총....",
+     "link": "https://blog.naver.com/applelove3423/224467985735",
+     "date": "2026-11-07",
+     "by": "공기방울의 핫딜 & 세일 정보",
      "kind": "blog"
     },
     {
-     "title": "다이소 여행용품 추천 BEST 10! 해외여행 준비할 때 꼭 챙기면 좋은 가....",
-     "link": "https://blog.naver.com/cjhsp/224467183976",
-     "date": "2026-11-06",
-     "by": "오늘의 핫클립(Choi's Pick)",
+     "title": "[❤️ 엄마랑 후쿠오카 - 2일차] 몽벨 gu 돈키호테까지",
+     "link": "https://blog.naver.com/keep_being/224467981244",
+     "date": "2026-11-07",
+     "by": "비잉이네",
      "kind": "blog"
     },
     {
-     "title": "다이소 가기 전 필수! 유튜브 핫템 다이소 뷰티 내돈내산 (눈썹탈색,....",
-     "link": "https://blog.naver.com/sol___31/224467110321",
-     "date": "2026-11-06",
-     "by": "모락모락 솔깃솔깃",
+     "title": "버거킹 쯔란로제 크리스퍼 가격 6,200원, 딥치즈 세트·칼로리·판매....",
+     "link": "https://blog.naver.com/applelove3423/224467975135",
+     "date": "2026-11-07",
+     "by": "공기방울의 핫딜 & 세일 정보",
      "kind": "blog"
     },
     {
-     "title": "[26년5월]",
-     "link": "https://blog.naver.com/the0084/224467083725",
-     "date": "2026-11-06",
-     "by": "Good piece of days",
+     "title": "무인양품 문구 코너 문구 덕후의 무지 추천템",
+     "link": "https://blog.naver.com/ari_books/224467872691",
+     "date": "2026-11-07",
+     "by": "아리의도서관",
      "kind": "blog"
     },
     {
-     "title": "G마켓 빅스마일데이 쿠폰 5종 조건, 카드결제 7% 할인과 13일까지 혜....",
-     "link": "https://blog.naver.com/applelove3423/224467073710",
+     "title": "\"이번 주는 뭐가 싸지?\" 코스트코 11월 첫째주 할인상품, 장보기 전 ....",
+     "link": "https://blog.naver.com/liveliving365/224467848298",
+     "date": "2026-11-07",
+     "by": "오늘도 리빙 | 매일 더 나은 생활을 위한 리빙 가이드",
+     "kind": "blog"
+    },
+    {
+     "title": "70",
+     "link": "https://blog.naver.com/yuchookim/224467730488",
+     "date": "2026-11-06",
+     "by": "happy together",
+     "kind": "blog"
+    },
+    {
+     "title": "청량리 롯데몰 다이소 신상 겨울잇템 방한용품 꼭 사오세요!",
+     "link": "https://blog.naver.com/woojini0314/224467708418",
+     "date": "2026-11-06",
+     "by": "냥이의 추억놀이 ♬",
+     "kind": "blog"
+    },
+    {
+     "title": "[GS25 빼빼로데이 신상] 뜨개인 필수템! 품절 대란 '호빵맨 줄자 키링 ....",
+     "link": "https://blog.naver.com/9kaewon/224467644768",
+     "date": "2026-11-06",
+     "by": "Old & New",
+     "kind": "blog"
+    },
+    {
+     "title": "노원에 200평 다이소 ? 200평이면 다를 줄 알았지...",
+     "link": "https://blog.naver.com/miso_bonny/224467643878",
+     "date": "2026-11-06",
+     "by": "miso_bonny",
+     "kind": "blog"
+    },
+    {
+     "title": "bhc 알싹킹·양념킹 쿠폰 18일까지, 앱 300만 돌파 웰컴쿠폰팩 조건",
+     "link": "https://blog.naver.com/applelove3423/224467615439",
      "date": "2026-11-06",
      "by": "공기방울의 핫딜 & 세일 정보",
      "kind": "blog"
     },
     {
-     "title": "스타벅스 e-프리퀀시 스티커 2배 적립 12일까지, 증정품 예약 규칙",
-     "link": "https://blog.naver.com/applelove3423/224466993193",
+     "title": "벌써 일시품절이라고? 다이소 크리스마스 인형옷 5종, 1천원·2천원 ....",
+     "link": "https://blog.naver.com/sypline/224467547265",
+     "date": "2026-11-06",
+     "by": "패션미용레시피",
+     "kind": "blog"
+    },
+    {
+     "title": "맘스터치 주술회전 굿즈 세트 가격 16,100원부터, 11월 29일까지",
+     "link": "https://blog.naver.com/applelove3423/224467590199",
      "date": "2026-11-06",
      "by": "공기방울의 핫딜 & 세일 정보",
      "kind": "blog"
     },
     {
-     "title": "40. [건강·의학] 찬 바람 불면 급증하는 혈관 침묵의 살인자! 겨울철....",
-     "link": "https://blog.naver.com/yongee1017/224466985655",
-     "date": "2026-11-06",
-     "by": "가성비 아이템 연구소",
-     "kind": "blog"
-    },
-    {
-     "title": "김장 준비물 체크리스트, 살림 고수들이 배추보다 먼저 챙기는 것은....",
-     "link": "https://blog.naver.com/review-matjip/224466926041",
-     "date": "2026-11-06",
-     "by": "너구리빙",
-     "kind": "blog"
-    },
-    {
-     "title": "CU 맛피아 감자스틱 가격 1,900원, 하루 매출 1억 돌파 이유",
-     "link": "https://blog.naver.com/applelove3423/224466952697",
+     "title": "유니클로 세실리에 반센 11월 20일 출시, 후리스 재킷·스커트·장갑",
+     "link": "https://blog.naver.com/applelove3423/224467564642",
      "date": "2026-11-06",
      "by": "공기방울의 핫딜 & 세일 정보",
      "kind": "blog"
     },
     {
-     "title": "CU 칸쵸우유 가격 1,700원, 악당 칸쵸 이벤트 11월 9일 경품 정리",
-     "link": "https://blog.naver.com/applelove3423/224466914292",
+     "title": "주방용품 가성비 이만한게 없죠! 다이소 어떤거 잘 사용하고 계신가....",
+     "link": "https://blog.naver.com/jung_pro_/224467434938",
      "date": "2026-11-06",
-     "by": "공기방울의 핫딜 & 세일 정보",
-     "kind": "blog"
-    },
-    {
-     "title": "다이소 추천템 화잘먹 바다포도 스킨팩｜건성 피부 필수템",
-     "link": "https://blog.naver.com/coxoxz/224466899614",
-     "date": "2026-11-06",
-     "by": "예쁨의 발견",
-     "kind": "blog"
-    },
-    {
-     "title": "\"절임배추 언제 주문해야 할까?\" 11월 김장 준비하는 집들이 알아둘 ....",
-     "link": "https://blog.naver.com/review-matjip/224466896949",
-     "date": "2026-11-06",
-     "by": "너구리빙",
-     "kind": "blog"
-    },
-    {
-     "title": "시흥 장곡동 이자카야 마루, 맛있는데 왜 눈물이",
-     "link": "https://blog.naver.com/hoonyjuny-/224466882860",
-     "date": "2026-11-06",
-     "by": "우당탕 초딩 형제 일상",
-     "kind": "blog"
-    },
-    {
-     "title": "GS25 짱구 굿즈 가격, 필름카메라 37,000원·장바구니 9,500원",
-     "link": "https://blog.naver.com/applelove3423/224466880096",
-     "date": "2026-11-06",
-     "by": "공기방울의 핫딜 & 세일 정보",
+     "by": "적당한 사람 일상기록",
      "kind": "blog"
     },
     {
@@ -18473,108 +18515,108 @@
    ],
    "인기템": [
     {
-     "title": "부피 차지없이 센스있게!해외 나갈 때 챙겨야 할 알짜배기 PX(군마트....",
-     "link": "https://blog.naver.com/maryinkyung/224467477247",
-     "date": "2026-11-06",
-     "by": "food_log : 맛있는 살림 기록",
+     "title": "'쿠팡'에서 사면 안돼요... 트레이더스 '크리스마스' 꾸미기템!",
+     "link": "https://blog.naver.com/mcw891029/224466924795",
+     "date": "2026-11-07",
+     "by": "리뷰정보 쟨틀",
      "kind": "blog"
     },
     {
-     "title": "\" 다이소 겨울용품 760종 풀렸다...\" 오늘 할인 끝난다 그런데 온라인....",
-     "link": "https://blog.naver.com/dlwpauctkf/224467025358",
-     "date": "2026-11-06",
-     "by": "세상만사 핫이슈",
+     "title": "무지에서 뭐 사지? 30대의 흔하지 않은 추천템",
+     "link": "https://blog.naver.com/natecom_/224454653902",
+     "date": "2026-11-07",
+     "by": "게으른 INFJ의 여행 일기",
      "kind": "blog"
     },
     {
-     "title": "다이소 2,000원 별 저금통 품절 이유｜매출 400% 증가, 치이카와 굿즈 ....",
-     "link": "https://blog.naver.com/leehu10/224467451626",
-     "date": "2026-11-06",
-     "by": "영어중국어날개만들기",
+     "title": "일본 태교여행일기 ep.1 :: 쇼핑쇼핑쇼핑천국 도쿄의 하루(니혼바시 ....",
+     "link": "https://blog.naver.com/happeelife-/224467994816",
+     "date": "2026-11-07",
+     "by": "Life, Simply Traveled",
      "kind": "blog"
     },
     {
-     "title": "[단독] 집팔아 ‘삼전닉스’ 들어간 야수들…생각보다 훨씬 더 많았....",
-     "link": "https://blog.naver.com/zzalforyou/224467443944",
-     "date": "2026-11-06",
-     "by": "짤뽀의 ForYou",
+     "title": "다이소 '이것' 대체 무슨 일이에요? 이번에 제대로 작정했네요..",
+     "link": "https://blog.naver.com/milrang_/224467790266",
+     "date": "2026-11-07",
+     "by": "또이지 하우스",
      "kind": "blog"
     },
     {
-     "title": "내돈내산 다이소 샤넬 저렴이 립&블러셔 솔직 후기 (바이플라워·손....",
-     "link": "https://blog.naver.com/ifush/224467444131",
-     "date": "2026-11-06",
-     "by": "디테일이 만드는 스타일",
+     "title": "다이소 품절템 드디어 찾았다! 보이면 무조건 담으라는 이유",
+     "link": "https://blog.naver.com/awesomejjjj/224467843271",
+     "date": "2026-11-07",
+     "by": "다정한 육아리빙",
      "kind": "blog"
     },
     {
-     "title": "\"집팔아 주식, 이게 생산적 금융\"",
-     "link": "https://blog.naver.com/zzalforyou/224467442260",
-     "date": "2026-11-06",
-     "by": "짤뽀의 ForYou",
+     "title": "원룸 크리스마스트리 추천 3종, 작은 공간도 예쁘게 꾸밀 수 있을까?",
+     "link": "https://blog.naver.com/po98043/224467719830",
+     "date": "2026-11-07",
+     "by": "세상ON",
      "kind": "blog"
     },
     {
-     "title": "다이소 \"이게 1천원이라고?\" 옷장 정리할 때 은근히 유용한 정템",
-     "link": "https://blog.naver.com/rape24/224466322714",
-     "date": "2026-11-06",
-     "by": "살림이지요 : easy한 살림라이프",
+     "title": "일본 도쿄 3박 4일 자유여행 코스 일정표 경비 옷차림 OOTD 엑셀 공유",
+     "link": "https://blog.naver.com/yoojing_a/224464770539",
+     "date": "2026-11-07",
+     "by": "메몽 일상✨",
      "kind": "blog"
     },
     {
-     "title": "시즈오카는 못 참치~ (후지산 함유)",
-     "link": "https://blog.naver.com/rryeong9/224467435208",
-     "date": "2026-11-06",
-     "by": "하루전야",
+     "title": "[ 다이소 꿀템] 단돈 1천원부터! 열탕소독+전자레인지 완벽 지원 '다이....",
+     "link": "https://blog.naver.com/ckzksdnfl/224462757527",
+     "date": "2026-11-07",
+     "by": "Just like a Star",
      "kind": "blog"
     },
     {
-     "title": "일본 도쿄 쇼핑 리스트 추천템｜돈키호테, 빅카메라, 주류, 스탠다....",
-     "link": "https://blog.naver.com/jiyoung_110/224467433331",
-     "date": "2026-11-06",
-     "by": "맛집, 여행 그리고 일상",
+     "title": "[ 다이소 알바] 다이소 역대급 콜라보! 재고 1개였던 키르시 양말 (품....",
+     "link": "https://blog.naver.com/johok6/224467831204",
+     "date": "2026-11-07",
+     "by": "쓰리잡 무한반복",
      "kind": "blog"
     },
     {
-     "title": "하와이 2주여행 <72번 국도 라니카이, 카일루아 비치>",
-     "link": "https://blog.naver.com/jamie_ssong/224467415176",
-     "date": "2026-11-06",
-     "by": "재이미 있는 여행",
+     "title": "\"이 편한 걸 왜 이제 샀을까\" 다이소 풋케어 욕실 꿀템 사용법",
+     "link": "https://blog.naver.com/hello273681/224467875900",
+     "date": "2026-11-07",
+     "by": "행복나누기",
      "kind": "blog"
     },
     {
-     "title": "다이소 에서 이건 단종되기 전에 꼭 잡아야 해요! 지나치면 후회해요....",
-     "link": "https://blog.naver.com/bside_zip/224466879984",
-     "date": "2026-11-06",
-     "by": "차곡차곡 살림기록",
+     "title": "2026 알리 광군제 & 블프 직구 총정리: 관부가세 150달러 면제 기준, 가....",
+     "link": "https://blog.naver.com/sumiq7208/224466753321",
+     "date": "2026-11-07",
+     "by": "파송송의 블로그",
      "kind": "blog"
     },
     {
-     "title": "옆에서 다들 만지작거리길래 슬쩍 봤거든요.. 아니 다이소 가격 진....",
-     "link": "https://blog.naver.com/dbsk7600/224466970985",
-     "date": "2026-11-06",
-     "by": "스마일 데일리 로그",
+     "title": "다이소 인기 상품 TOP10, 1위는 뭘까?",
+     "link": "https://blog.naver.com/ekduddl00002/224462786602",
+     "date": "2026-11-07",
+     "by": "인사이트 꿀팁 랩 (Lab)",
      "kind": "blog"
     },
     {
-     "title": "11월 1주차, 일본에서 맨날 뭘 사고 먹는 일상",
-     "link": "https://blog.naver.com/suin__m/224467390420",
-     "date": "2026-11-06",
-     "by": "ＹＥＳ",
+     "title": "유명 브랜드 공장에서 만드는 다이소 추천템",
+     "link": "https://blog.naver.com/secretmakeup-/224467498947",
+     "date": "2026-11-07",
+     "by": "이진희 시크릿 메이크업",
      "kind": "blog"
     },
     {
-     "title": "[ 다이소 품절 대란] 팔자주름 개기름 삭제템 뷰티 뽀용메이크업 꿀....",
-     "link": "https://blog.naver.com/syoon_yoon/224467381916",
-     "date": "2026-11-06",
-     "by": "담주의 븨로그",
+     "title": "일본 다이소 미니 매셔, 감자 조금 으깨는데 큰 도구가 필요할까?",
+     "link": "https://blog.naver.com/yoonsrise/224466871571",
+     "date": "2026-11-07",
+     "by": "잇츠'추천템",
      "kind": "blog"
     },
     {
-     "title": "다이소 크리스마스 2026 신상 공개 임박! 1천원부터 연말 집꾸미기 꿀....",
-     "link": "https://blog.naver.com/tubmh123/224467357990",
-     "date": "2026-11-06",
-     "by": "키티박사의 생활비연구소",
+     "title": "[나이키만 20년] 에어맥스 모토 2k 남성, 여성 사이즈는 '이렇게' (키....",
+     "link": "https://blog.naver.com/johok6/224467956884",
+     "date": "2026-11-07",
+     "by": "쓰리잡 무한반복",
      "kind": "blog"
     },
     {
@@ -18615,108 +18657,108 @@
    ],
    "품절템": [
     {
-     "title": "\" 다이소 겨울용품 760종 풀렸다...\" 오늘 할인 끝난다 그런데 온라인....",
-     "link": "https://blog.naver.com/dlwpauctkf/224467025358",
-     "date": "2026-11-06",
-     "by": "세상만사 핫이슈",
+     "title": "'쿠팡'에서 사면 안돼요... 트레이더스 '크리스마스' 꾸미기템!",
+     "link": "https://blog.naver.com/mcw891029/224466924795",
+     "date": "2026-11-07",
+     "by": "리뷰정보 쟨틀",
      "kind": "blog"
     },
     {
-     "title": "카우룽카우룽 〰️",
-     "link": "https://blog.naver.com/d_0eee/224467455980",
-     "date": "2026-11-06",
-     "by": "ㅤㅤ",
+     "title": "일본 태교여행일기 ep.1 :: 쇼핑쇼핑쇼핑천국 도쿄의 하루(니혼바시 ....",
+     "link": "https://blog.naver.com/happeelife-/224467994816",
+     "date": "2026-11-07",
+     "by": "Life, Simply Traveled",
      "kind": "blog"
     },
     {
-     "title": "다이소 신상 햄토리, 폼폼푸린, 겨울 마테 리뷰◝✩",
-     "link": "https://blog.naver.com/ray694704/224467453340",
-     "date": "2026-11-06",
-     "by": "용이 블로그",
+     "title": "유럽여행 준비물 체크리스트｜장거리 비행 기내부터 호텔까지 직접....",
+     "link": "https://blog.naver.com/simonaeday/224467990380",
+     "date": "2026-11-07",
+     "by": "놀러와요 시모네!",
      "kind": "blog"
     },
     {
-     "title": "다이소 2,000원 별 저금통 품절 이유｜매출 400% 증가, 치이카와 굿즈 ....",
-     "link": "https://blog.naver.com/leehu10/224467451626",
-     "date": "2026-11-06",
-     "by": "영어중국어날개만들기",
+     "title": "다이소 아씨 한복세트 인형옷 후기｜우사기 인형 옷 입히기",
+     "link": "https://blog.naver.com/woo_sining/224467981983",
+     "date": "2026-11-07",
+     "by": "Memory Storage",
      "kind": "blog"
     },
     {
-     "title": "\"1,000원부터 있네?\" 다이소 크리스마스 장식 추천 20가지 가격 비교",
-     "link": "https://blog.naver.com/zzzu_mom/224467292028",
-     "date": "2026-11-06",
-     "by": "집사용설명서",
+     "title": "다이소 품절템 드디어 찾았다! 보이면 무조건 담으라는 이유",
+     "link": "https://blog.naver.com/awesomejjjj/224467843271",
+     "date": "2026-11-07",
+     "by": "다정한 육아리빙",
      "kind": "blog"
     },
     {
-     "title": "내돈내산 다이소 샤넬 저렴이 립&블러셔 솔직 후기 (바이플라워·손....",
-     "link": "https://blog.naver.com/ifush/224467444131",
-     "date": "2026-11-06",
-     "by": "디테일이 만드는 스타일",
+     "title": "역시 이거도 다이소 에 있었어? 나만 '또' 비싸게 안사서 다행이에요.....",
+     "link": "https://blog.naver.com/sadnessmj/224467216305",
+     "date": "2026-11-07",
+     "by": "마론하우스",
      "kind": "blog"
     },
     {
-     "title": "일본 안 가도 됨..♥ 용산 후암동 도기야 방문 후기 (호빵맨 식판 직....",
-     "link": "https://blog.naver.com/sola6366/224467440829",
-     "date": "2026-11-06",
-     "by": "솔버덕의 하루",
+     "title": "유명 브랜드 공장에서 만드는 다이소 추천템",
+     "link": "https://blog.naver.com/secretmakeup-/224467498947",
+     "date": "2026-11-07",
+     "by": "이진희 시크릿 메이크업",
      "kind": "blog"
     },
     {
-     "title": "일본 도쿄 쇼핑 리스트 추천템｜돈키호테, 빅카메라, 주류, 스탠다....",
-     "link": "https://blog.naver.com/jiyoung_110/224467433331",
-     "date": "2026-11-06",
-     "by": "맛집, 여행 그리고 일상",
+     "title": "다이소 인기상품 TOP10, 1위는 뭘까?",
+     "link": "https://blog.naver.com/ekduddl00002/224462786602",
+     "date": "2026-11-07",
+     "by": "인사이트 꿀팁 랩 (Lab)",
      "kind": "blog"
     },
     {
-     "title": "후쿠오카 트립트랩 예약 방법 가격 포장 총정리",
-     "link": "https://blog.naver.com/hrhr1117/224467428337",
-     "date": "2026-11-06",
-     "by": "먹고 놀고 육아하기",
+     "title": "다이소 “대체 이게 얼마나 좋길래 맨날 품절 이래요?\"",
+     "link": "https://blog.naver.com/hello_list/224467919999",
+     "date": "2026-11-07",
+     "by": "유니의 어썸리스트",
      "kind": "blog"
     },
     {
-     "title": "9월 | 하다하다 치이카와에 빠져버린 그녀... 마블, F1에 이젠 치이까....",
-     "link": "https://blog.naver.com/skysky_1004/224467417849",
-     "date": "2026-11-06",
-     "by": "Sky INDUSTRIES",
-     "kind": "blog"
-    },
-    {
-     "title": "결혼 1주년 여행➂ | 먹짱 부부의 후쿠오카 먹방 기록 | 히키니쿠토....",
-     "link": "https://blog.naver.com/hyeonzu_/224467412729",
-     "date": "2026-11-06",
-     "by": "햅삐한 일상_ღ",
-     "kind": "blog"
-    },
-    {
-     "title": "옆에서 다들 만지작거리길래 슬쩍 봤거든요.. 아니 다이소 가격 진....",
-     "link": "https://blog.naver.com/dbsk7600/224466970985",
-     "date": "2026-11-06",
-     "by": "스마일 데일리 로그",
-     "kind": "blog"
-    },
-    {
-     "title": "[ 다이소 품절 대란] 팔자주름 개기름 삭제템 뷰티 뽀용메이크업 꿀....",
-     "link": "https://blog.naver.com/syoon_yoon/224467381916",
-     "date": "2026-11-06",
-     "by": "담주의 븨로그",
-     "kind": "blog"
-    },
-    {
-     "title": "다이소 2000원 저금통이 품절 된 이유? 요즘 난리 난 DIY 굿즈 열풍과 ....",
-     "link": "https://blog.naver.com/jhmbsy_/224467378043",
-     "date": "2026-11-06",
-     "by": "도움되는블로그님의 블로그",
-     "kind": "blog"
-    },
-    {
-     "title": "품절 대란 미닉스 음식물처리기 단점 1년 써보고 알게 된 필터 유지....",
-     "link": "https://blog.naver.com/mot8497/224467060514",
-     "date": "2026-11-06",
+     "title": "수백만원 그림 렌탈 견적에 포기 선언! 남준(RM)도 반한 서울시립미....",
+     "link": "https://blog.naver.com/mot8497/224467103852",
+     "date": "2026-11-07",
      "by": "키다리 인테리어",
+     "kind": "blog"
+    },
+    {
+     "title": "우리 집 댕냥이 견생/묘생샷 완성! 다이소 펫 파티룩 신상 출시",
+     "link": "https://blog.naver.com/dark_blu/224467927282",
+     "date": "2026-11-07",
+     "by": "꼼댕",
+     "kind": "blog"
+    },
+    {
+     "title": "'하...있을 때 2개 담을걸' 다이소 가는 곳마다 품절 이네요.",
+     "link": "https://blog.naver.com/choyujin0801/224467828486",
+     "date": "2026-11-07",
+     "by": "우리집리빙노트",
+     "kind": "blog"
+    },
+    {
+     "title": "26_10월☘️",
+     "link": "https://blog.naver.com/mandy1016/224467922806",
+     "date": "2026-11-07",
+     "by": "⋅˚₊୨୧‧₊˚⋅ 혜진의 기록˚₊·⋆˚꩜｡",
+     "kind": "blog"
+    },
+    {
+     "title": "2026.10",
+     "link": "https://blog.naver.com/wellmadepizza/224467918059",
+     "date": "2026-11-07",
+     "by": "피자나라",
+     "kind": "blog"
+    },
+    {
+     "title": "면세점 쇼핑 추천 템 라우쉬 Rausch 하루종일 산뜻한 지성두피 씨위드....",
+     "link": "https://blog.naver.com/yahoshoe/224467910804",
+     "date": "2026-11-07",
+     "by": "푸디야호",
      "kind": "blog"
     },
     {
@@ -18757,6 +18799,118 @@
    ],
    "신상": [
     {
+     "title": "메이크업은 도구·조립형으로 진화, 헤어는 향과 캐릭터 입었다 [최기자...",
+     "link": "https://www.meconomynews.com/news/articleView.html?idxno=203393",
+     "date": "2026-11-07",
+     "by": "",
+     "kind": "news"
+    },
+    {
+     "title": "다이소 전동 그라인더 5000원? 내돈내산 그라인더 2가지 차이점 비교 ....",
+     "link": "https://blog.naver.com/dear-jian/224467998501",
+     "date": "2026-11-07",
+     "by": "서서히 선명해지는 지안",
+     "kind": "blog"
+    },
+    {
+     "title": "[ 다이소 비레디 올인원 바디워시] 5000원 아모레퍼시픽 5 in 1 내돈내....",
+     "link": "https://blog.naver.com/lch0110/224467996950",
+     "date": "2026-11-07",
+     "by": "루이스 리포트 Car, 솔직리뷰, 스포츠",
+     "kind": "blog"
+    },
+    {
+     "title": "다이소 겨울 테마 신상 스티커 윈터홈 스티커 세트, 마스킹테이프 ....",
+     "link": "https://blog.naver.com/toyouruniverse-/224467253945",
+     "date": "2026-11-07",
+     "by": "너의 우주에게",
+     "kind": "blog"
+    },
+    {
+     "title": "마운자로 24주~25주차 : 먹다가 끝난 마운자로 정체기, 아닌가?",
+     "link": "https://blog.naver.com/yun__dodo/224467995207",
+     "date": "2026-11-07",
+     "by": "Crown Sseon World",
+     "kind": "blog"
+    },
+    {
+     "title": "다이소 키르시 콜라보 신상 파우치 양말 품번 재고조회 총정리",
+     "link": "https://blog.naver.com/mot8497/224467987705",
+     "date": "2026-11-07",
+     "by": "키다리 인테리어",
+     "kind": "blog"
+    },
+    {
+     "title": "다이소 '이것' 대체 무슨 일이에요? 이번에 제대로 작정했네요..",
+     "link": "https://blog.naver.com/milrang_/224467790266",
+     "date": "2026-11-07",
+     "by": "또이지 하우스",
+     "kind": "blog"
+    },
+    {
+     "title": "빽다방 시그니처 딥크림라떼 가격 3,800원, 스몰·칼로리·카페인 총....",
+     "link": "https://blog.naver.com/applelove3423/224467985735",
+     "date": "2026-11-07",
+     "by": "공기방울의 핫딜 & 세일 정보",
+     "kind": "blog"
+    },
+    {
+     "title": "다이소 아씨 한복세트 인형옷 후기｜우사기 인형 옷 입히기",
+     "link": "https://blog.naver.com/woo_sining/224467981983",
+     "date": "2026-11-07",
+     "by": "Memory Storage",
+     "kind": "blog"
+    },
+    {
+     "title": "버거킹 쯔란로제 크리스퍼 가격 6,200원, 딥치즈 세트·칼로리·판매....",
+     "link": "https://blog.naver.com/applelove3423/224467975135",
+     "date": "2026-11-07",
+     "by": "공기방울의 핫딜 & 세일 정보",
+     "kind": "blog"
+    },
+    {
+     "title": "다이소 솔직히 너무 반칙이라 할 말도 없다...말이 안 나옴",
+     "link": "https://blog.naver.com/bside_zip/224466857430",
+     "date": "2026-11-07",
+     "by": "차곡차곡 살림기록",
+     "kind": "blog"
+    },
+    {
+     "title": "다이소 제대로 선 넘었네..? 이거 딴 데서는 이2만 원이 넘는데.. 2천....",
+     "link": "https://blog.naver.com/wlehddl0328/224467972532",
+     "date": "2026-11-07",
+     "by": "카라의 하우스",
+     "kind": "blog"
+    },
+    {
+     "title": "[ 다이소 알바] 다이소 역대급 콜라보! 재고 1개였던 키르시 양말 (품....",
+     "link": "https://blog.naver.com/johok6/224467831204",
+     "date": "2026-11-07",
+     "by": "쓰리잡 무한반복",
+     "kind": "blog"
+    },
+    {
+     "title": "수능 선물 뭐가 좋을까? 초콜릿부터 찹쌀떡까지 센스 있는 수능선물....",
+     "link": "https://blog.naver.com/ggultempick/224467868485",
+     "date": "2026-11-07",
+     "by": "꿀템스파이더 | 생활·쇼핑 가이드",
+     "kind": "blog"
+    },
+    {
+     "title": "다이소 크림 추천, 마데카·세라베이스·PDRN 6가지 피부 타입별 차이 ....",
+     "link": "https://blog.naver.com/goodtem_/224467827398",
+     "date": "2026-11-07",
+     "by": "goodtem_님의 블로그",
+     "kind": "blog"
+    },
+    {
+     "title": "다이소 간식 추천 휴대성 좋은 예쁜 틴케이스 무설탕 펄몰 레몬맛 ....",
+     "link": "https://blog.naver.com/craftbush/224467958537",
+     "date": "2026-11-07",
+     "by": "피콜로의 맛집 여행",
+     "kind": "blog"
+    },
+    {
      "title": "[유통 신상 ] 커피앳웍스·삼립·롯데GRS·서울우유·아워홈",
      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6943046",
      "date": "2026-11-06",
@@ -18778,120 +18932,8 @@
      "kind": "news"
     },
     {
-     "title": "다이소 화장품 추천｜메디필 멜라논엑스 기미 잡티 홈케어 5종 총정....",
-     "link": "https://blog.naver.com/bhy_bjoo_h/224467476930",
-     "date": "2026-11-06",
-     "by": "가비_소꿉놀이❤️",
-     "kind": "blog"
-    },
-    {
-     "title": "다이소 천원 펜 케이스, 필통 추천, 다이어리에 밴드로 고정하는 실....",
-     "link": "https://blog.naver.com/salad_diary/224467473108",
-     "date": "2026-11-06",
-     "by": "다꾸하는 샐러드의 감사일기장",
-     "kind": "blog"
-    },
-    {
-     "title": "폭설 예매 오픈! 11월 18일 개봉일 무대인사 일정 총정리",
-     "link": "https://blog.naver.com/dlgmlrbs/224467080233",
-     "date": "2026-11-06",
-     "by": "moneyinsight님의 블로그",
-     "kind": "blog"
-    },
-    {
-     "title": "다이소 키르시 신상 , 머리핀 말고 집에서 쓸 만한 건 뭘까?",
-     "link": "https://blog.naver.com/ksm0243/224467469863",
-     "date": "2026-11-06",
-     "by": "숨의 살림기획",
-     "kind": "blog"
-    },
-    {
-     "title": "마몽드 민트 포어 클리어 클렌징 밤 내용과 다이소 앰플엔 앰플 4종",
-     "link": "https://blog.naver.com/h8352153/224467467944",
-     "date": "2026-11-06",
-     "by": "아리따움 울산성남시계탑점",
-     "kind": "blog"
-    },
-    {
-     "title": "도쿄리벤저스 팝업 마이키마트 홍대 11월 23일 오픈, 네이버 사전예....",
-     "link": "https://blog.naver.com/dears_91/224467195842",
-     "date": "2026-11-06",
-     "by": "똑순이의 꿀팁 캘린더",
-     "kind": "blog"
-    },
-    {
-     "title": "금요일엔 블로그가 쓰고싶어서",
-     "link": "https://blog.naver.com/tangomaru/224467457377",
-     "date": "2026-11-06",
-     "by": "얼렁뚱땅 쩝쩝박사",
-     "kind": "blog"
-    },
-    {
-     "title": "다이소 신상 햄토리, 폼폼푸린, 겨울 마테 리뷰◝✩",
-     "link": "https://blog.naver.com/ray694704/224467453340",
-     "date": "2026-11-06",
-     "by": "용이 블로그",
-     "kind": "blog"
-    },
-    {
-     "title": "이렇게 귀여우면 어쩌자는 건가, 다이소 신상 겨울소품 5가지",
-     "link": "https://blog.naver.com/ararar0625/224467451452",
-     "date": "2026-11-06",
-     "by": "뉴니의 스윗홈",
-     "kind": "blog"
-    },
-    {
-     "title": "다이소 펫 파티룩 추천 3가지｜강아지·고양이를 위한 드레스와 하....",
-     "link": "https://blog.naver.com/vocal1119/224467450089",
-     "date": "2026-11-06",
-     "by": "건강한 부자",
-     "kind": "blog"
-    },
-    {
-     "title": "브라이언이 800만 원 가방을 300만 원대에 산 사연, 절대 못 파는 이유....",
-     "link": "https://blog.naver.com/dalbong-co-kr/224467450677",
-     "date": "2026-11-06",
-     "by": "달봉이의 생활연구소",
-     "kind": "blog"
-    },
-    {
-     "title": "전기매트 하루 종일 켜두면? 전기요금 계산할 때 놓치는 숫자",
-     "link": "https://blog.naver.com/0si-ri/224467442091",
-     "date": "2026-11-06",
-     "by": "엄마의 딴짓 | 템집 쇼핑정보",
-     "kind": "blog"
-    },
-    {
-     "title": "빵에 바르는 그 버터 브랜드가 립밤을? 아떼×이즈니, 무슨 색일까?",
-     "link": "https://blog.naver.com/sun_nnn/224467441737",
-     "date": "2026-11-06",
-     "by": "뷰티여울",
-     "kind": "blog"
-    },
-    {
-     "title": "성심당 신상 케이크 2종 등장 사과요거케익 vs 홍시홍시, 뭘 먹을까....",
-     "link": "https://blog.naver.com/thsnlove/224467201590",
-     "date": "2026-11-06",
-     "by": "오늘도 내일도 놀러가자",
-     "kind": "blog"
-    },
-    {
-     "title": "코스트코 “빵집 먼저 갔으면 후회할 뻔…” 2만원대 신상 케이크, ....",
-     "link": "https://blog.naver.com/ssandy723/224467428227",
-     "date": "2026-11-06",
-     "by": "아이 있는집, 리빙로그",
-     "kind": "blog"
-    },
-    {
      "title": "다이소 11월 신상 '기초 케어' 화장품 6",
      "link": "https://www.esquirekorea.co.kr/article/1912494",
-     "date": "2026-11-04",
-     "by": "",
-     "kind": "news"
-    },
-    {
-     "title": "\"1만원도 안 하는데 불티\"…10대가 쓸어담자 매출 폭발한 제품 [장서우의...",
-     "link": "https://www.hankyung.com/article/202611033834i",
      "date": "2026-11-04",
      "by": "",
      "kind": "news"
@@ -18900,9 +18942,9 @@
   },
   "items": [
    {
-    "name": "후쿠오카",
+    "name": "크리스마스",
     "count": 2,
-    "link": "https://blog.naver.com/hrhr1117/224467428337"
+    "link": "https://blog.naver.com/mcw891029/224466924795"
    },
    {
     "name": "서울우유",
@@ -18915,33 +18957,33 @@
   "events": [
    {
     "name": "쓱데이",
-    "count": 30,
+    "count": 29,
     "end": "2026-11-08",
-    "latest": "2026-11-06T15:54:00+09:00"
+    "latest": "2026-11-07T07:52:00+09:00"
    },
    {
     "name": "십일절",
     "count": 30,
     "end": "2026-11-11",
-    "latest": "2026-11-06T17:38:00+09:00"
+    "latest": "2026-11-07T06:00:00+09:00"
    },
    {
     "name": "빅스마일",
     "count": 30,
     "end": "2026-11-13",
-    "latest": "2026-11-06T12:32:00+09:00"
-   },
-   {
-    "name": "넾다세일",
-    "count": 25,
-    "end": null,
-    "latest": "2026-11-06T14:36:00+09:00"
+    "latest": "2026-11-07T00:06:00+09:00"
    },
    {
     "name": "블프",
     "count": 16,
+    "end": "2026-12-06",
+    "latest": "2026-11-07T08:02:00+09:00"
+   },
+   {
+    "name": "넾다세일",
+    "count": 24,
     "end": null,
-    "latest": "2026-11-06T17:46:00+09:00"
+    "latest": "2026-11-06T14:36:00+09:00"
    },
    {
     "name": "코세페",
@@ -18951,6 +18993,161 @@
    }
   ],
   "articles": [
+   {
+    "title": "메이크업은 도구·조립형으로 진화, 헤어는 향과 캐릭터 입었다 [최기자...",
+    "link": "https://www.meconomynews.com/news/articleView.html?idxno=203393",
+    "t": "2026-11-07T08:02:00+09:00",
+    "by": "meconomynews.com",
+    "tags": [
+     "블프"
+    ]
+   },
+   {
+    "title": "가을밤 ‘홈술’도 취향 따라…위스키 1700병 한정판부터 막걸리·와인...",
+    "link": "https://www.segye.com/newsView/20261107501719?OutUrl=naver",
+    "t": "2026-11-07T07:52:00+09:00",
+    "by": "segye.com",
+    "tags": [
+     "쓱데이"
+    ]
+   },
+   {
+    "title": "백화점은 브랜드 전시·팝업…마트·e커머스는 할인전 [주말쇼핑포인트...",
+    "link": "https://www.news1.kr/industry/distribution/6345328",
+    "t": "2026-11-07T07:30:00+09:00",
+    "by": "news1.kr",
+    "tags": [
+     "쓱데이",
+     "대형마트"
+    ]
+   },
+   {
+    "title": "패션 플랫폼도 '블프' 경쟁…최대 92% 할인 에 페이백까지",
+    "link": "https://biz.sbs.co.kr/article_hub/20000344690?division=NAVER",
+    "t": "2026-11-07T07:00:00+09:00",
+    "by": "biz.sbs.co.kr",
+    "tags": [
+     "블프"
+    ]
+   },
+   {
+    "title": "[이번주뭘살까] 유통가 캐시미어·외투 할인…김장용 '생굴' 판매",
+    "link": "https://www.yna.co.kr/view/AKR20261106092900030?input=1195m",
+    "t": "2026-11-07T07:00:00+09:00",
+    "by": "yna.co.kr",
+    "tags": [
+     "쓱데이",
+     "대형마트",
+     "온라인몰"
+    ]
+   },
+   {
+    "title": "\"90년 가방 역사부터 겨울 패션까지\"…주말 쇼핑 행사 풍성[위클리 쇼핑...",
+    "link": "https://www.newsis.com/view/NISX20261106_0003857934",
+    "t": "2026-11-07T07:00:00+09:00",
+    "by": "newsis.com",
+    "tags": [
+     "대형마트"
+    ]
+   },
+   {
+    "title": "신라호텔 최대 28%·조선호텔 최대 77% 할인 …호텔가 연말 특가 경쟁",
+    "link": "https://www.segye.com/newsView/20261107501686?OutUrl=naver",
+    "t": "2026-11-07T06:32:00+09:00",
+    "by": "segye.com",
+    "tags": [
+     "블프",
+     "쓱데이",
+     "온라인몰"
+    ]
+   },
+   {
+    "title": "\"화장품 1+1에 키즈 방한용품 특가\"…온라인 할인 전 풍성[주말e커머스]",
+    "link": "https://www.newsis.com/view/NISX20261106_0003857915",
+    "t": "2026-11-07T06:00:00+09:00",
+    "by": "newsis.com",
+    "tags": [
+     "십일절",
+     "온라인몰"
+    ]
+   },
+   {
+    "title": "11/7~ 11/8 이마트·홈플러스·롯데마트·코스트코, 휴무일·영업시간......",
+    "link": "http://www.newskr.kr/news/articleView.html?idxno=107784",
+    "t": "2026-11-07T00:06:00+09:00",
+    "by": "newskr.kr",
+    "tags": [
+     "쓱데이",
+     "십일절",
+     "빅스마일"
+    ]
+   },
+   {
+    "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘할인 특가전...",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202611060194",
+    "t": "2026-11-07T00:02:00+09:00",
+    "by": "bntnews.co.kr",
+    "tags": [
+     "쓱데이",
+     "대형마트",
+     "온라인몰"
+    ]
+   },
+   {
+    "title": "롯데마트 이마트 홈플러스 대형마트 휴뮤일 장보기 전 확인 필수",
+    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081771",
+    "t": "2026-11-07T00:00:00+09:00",
+    "by": "newsclaim.co.kr",
+    "tags": [
+     "쓱데이"
+    ]
+   },
+   {
+    "title": "롯데하이마트, 블랙프라이데이 할인 전 돌입…연말 가전 수요 잡는다",
+    "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065619897273599",
+    "t": "2026-11-06T22:36:00+09:00",
+    "by": "megaeconomy.co.kr",
+    "tags": [
+     "블프",
+     "온라인몰"
+    ]
+   },
+   {
+    "title": "[알려줘요 GGC!⑭] 일상에서 문화예술을 만나는 '지뮤지엄숍'과 '안양공...",
+    "link": "https://news.ifm.kr/news/articleView.html?idxno=483364",
+    "t": "2026-11-06T20:54:00+09:00",
+    "by": "ifm.kr",
+    "tags": [
+     "블프"
+    ]
+   },
+   {
+    "title": "[현장]\"창립자가 꿈꾼 산(山) 포도\"... 쉐이퍼, 한국서만 맛보는 '파운더...",
+    "link": "https://www.getnews.co.kr/news/articleView.html?idxno=886343",
+    "t": "2026-11-06T20:40:00+09:00",
+    "by": "getnews.co.kr",
+    "tags": [
+     "쓱데이"
+    ]
+   },
+   {
+    "title": "또봉이통닭, 11월 배달앱 할인 … 전 메뉴 3천원 할인",
+    "link": "https://www.mt.co.kr/industry/2026/11/06/2026110514262922337",
+    "t": "2026-11-06T19:40:00+09:00",
+    "by": "mt.co.kr",
+    "tags": [
+     "온라인몰"
+    ]
+   },
+   {
+    "title": "[현장] “한국서만 맛보는 美 나파밸리 와인”…쉐이퍼 ‘파운더스 패스...",
+    "link": "https://www.ekn.kr/web/view.php?key=20261106027425895",
+    "t": "2026-11-06T18:42:00+09:00",
+    "by": "ekn.kr",
+    "tags": [
+     "쓱데이"
+    ]
+   },
    {
     "title": "배민, 코리아 그랜드 페스티벌 참여…장보기 최대 60% 할인",
     "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080497",
@@ -19171,15 +19368,6 @@
     ]
    },
    {
-    "title": "마리오아울렛, 영하권 추위 맞춤 '입동 맞이 빅 프로모션' 개최",
-    "link": "https://www.cstimes.com/news/articleView.html?idxno=726952",
-    "t": "2026-11-06T14:30:00+09:00",
-    "by": "cstimes.com",
-    "tags": [
-     "블프"
-    ]
-   },
-   {
     "title": "유한양행, 공식몰 '버들장터' 신제품 기획전…최대 63% 할인",
     "link": "https://www.news1.kr/bio/pharmaceutical-bio/6345635",
     "t": "2026-11-06T14:18:00+09:00",
@@ -19189,40 +19377,12 @@
     ]
    },
    {
-    "title": "\"내년 상반기 여행 지금 잡아라\"... 신라호텔, 블랙프라이데이 특가 쏟...",
-    "link": "https://www.insight.co.kr/news/580952",
-    "t": "2026-11-06T14:16:00+09:00",
-    "by": "insight.co.kr",
-    "tags": [
-     "블프"
-    ]
-   },
-   {
     "title": "롯데하이마트, ‘블프’ 최대 600만원 할인 …9천원대 가전도",
     "link": "https://www.news2day.co.kr/article/20261106500146",
     "t": "2026-11-06T14:06:00+09:00",
     "by": "news2day.co.kr",
     "tags": [
-     "블프",
      "온라인몰"
-    ]
-   },
-   {
-    "title": "신라호텔앤리조트, 첫 ‘블프 프로모션’…객실 최대 28% 할인",
-    "link": "https://www.news2day.co.kr/article/20261106500150",
-    "t": "2026-11-06T14:04:00+09:00",
-    "by": "news2day.co.kr",
-    "tags": [
-     "블프"
-    ]
-   },
-   {
-    "title": "[창간22주년 특집: 삼성물산 패션, 자체 브랜드로 여는 성장의 미래]②...",
-    "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=101032",
-    "t": "2026-11-06T14:04:00+09:00",
-    "by": "upkoreanews.kr",
-    "tags": [
-     "블프"
     ]
    },
    {
@@ -19261,15 +19421,6 @@
     "by": "bizwnews.com",
     "tags": [
      "빅스마일"
-    ]
-   },
-   {
-    "title": "농수산식품유통공사, '농부가바로팜'... 김장철 맞춤 최대 20% 할인",
-    "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=512705",
-    "t": "2026-11-06T11:36:00+09:00",
-    "by": "newsworker.co.kr",
-    "tags": [
-     "온라인몰"
     ]
    },
    {
@@ -19327,24 +19478,6 @@
     ]
    },
    {
-    "title": "롯데하이마트, 11월 30일까지 가전 할인 행사 '하이마트 블프' 진행",
-    "link": "http://www.kdfnews.com/news/articleView.html?idxno=190522",
-    "t": "2026-11-06T10:52:00+09:00",
-    "by": "kdfnews.com",
-    "tags": [
-     "온라인몰"
-    ]
-   },
-   {
-    "title": "29CM, 9일부터 '겨울 이구위크'…3000개 브랜드 최대 86% 할인",
-    "link": "http://www.inews24.com/view/2023371",
-    "t": "2026-11-06T10:52:00+09:00",
-    "by": "inews24.com",
-    "tags": [
-     "온라인몰"
-    ]
-   },
-   {
     "title": "이마트 쓱데이 마지막 주말…사과 6990원·와규 최대 40% 할인",
     "link": "https://www.kizmom.com/news/articleView.html?idxno=113803",
     "t": "2026-11-06T10:50:00+09:00",
@@ -19352,24 +19485,6 @@
     "tags": [
      "쓱데이",
      "대형마트"
-    ]
-   },
-   {
-    "title": "무신사 29CM, 9일부터 겨울 이구위크 최대 86% 할인",
-    "link": "https://www.gokorea.kr/news/articleView.html?idxno=884419",
-    "t": "2026-11-06T10:48:00+09:00",
-    "by": "gokorea.kr",
-    "tags": [
-     "온라인몰"
-    ]
-   },
-   {
-    "title": "롯데하이마트, 11월 블랙프라이데이 행사 …이사·혼수 가전 할인 확대",
-    "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=212835",
-    "t": "2026-11-06T10:46:00+09:00",
-    "by": "thefirstmedia.net",
-    "tags": [
-     "온라인몰"
     ]
    },
    {
@@ -19658,8 +19773,7 @@
     "by": "metroseoul.co.kr",
     "tags": [
      "십일절",
-     "빅스마일",
-     "온라인몰"
+     "빅스마일"
     ]
    },
    {
@@ -19686,18 +19800,7 @@
     "t": "2026-11-05T15:46:00+09:00",
     "by": "niceeconomy.co.kr",
     "tags": [
-     "쓱데이",
      "십일절"
-    ]
-   },
-   {
-    "title": "[뉴스워커_이마트] 쓱데이 마지막 주말…와규 최대 40%·사과 50% 할인",
-    "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=512512",
-    "t": "2026-11-05T15:46:00+09:00",
-    "by": "newsworker.co.kr",
-    "tags": [
-     "쓱데이",
-     "대형마트"
     ]
    },
    {
@@ -19706,72 +19809,25 @@
     "t": "2026-11-05T15:46:00+09:00",
     "by": "sisaon.co.kr",
     "tags": [
-     "빅스마일",
-     "온라인몰"
+     "빅스마일"
     ]
    },
    {
-    "title": "광주신세계, 입동 채비 분주 방한용품 선봬",
-    "link": "http://www.jndn.com/article.php?aid=1793860498442503100",
-    "t": "2026-11-05T15:38:00+09:00",
-    "by": "jndn.com",
+    "title": "[뉴스워커_ 이마트 ] 쓱데이 마지막 주말…와규 최대 40%·사과 50% 할인",
+    "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=512512",
+    "t": "2026-11-05T15:46:00+09:00",
+    "by": "newsworker.co.kr",
     "tags": [
-     "쓱데이"
-    ]
-   },
-   {
-    "title": "스타벅스, 쓱데이 맞아 한정 굿즈·구매 혜택 선봬",
-    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5079941",
-    "t": "2026-11-05T15:10:00+09:00",
-    "by": "shinailbo.co.kr",
-    "tags": [
-     "쓱데이"
-    ]
-   },
-   {
-    "title": "빗썸, 11번가 쇼핑 행사 맞아 최대 100만 포인트 지급",
-    "link": "https://sateconomy.co.kr/news/view/1065591139967681",
-    "t": "2026-11-05T15:00:00+09:00",
-    "by": "sateconomy.co.kr",
-    "tags": [
-     "쓱데이"
-    ]
-   },
-   {
-    "title": "이마트, 쓱데이 마지막 주말…와규·가전·레고 할인 총공세",
-    "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=304329",
-    "t": "2026-11-05T14:58:00+09:00",
-    "by": "newsquest.co.kr",
-    "tags": [
-     "쓱데이",
      "대형마트"
     ]
    },
    {
-    "title": "이마트, 쓱데이 마지막 주말 총공세",
-    "link": "https://www.news1.kr/photos/8199038",
-    "t": "2026-11-05T14:52:00+09:00",
-    "by": "news1.kr",
+    "title": "이마트 , 쓱데이 마지막 주말…와규·가전·레고 할인 총공세",
+    "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=304329",
+    "t": "2026-11-05T14:58:00+09:00",
+    "by": "newsquest.co.kr",
     "tags": [
-     "쓱데이"
-    ]
-   },
-   {
-    "title": "먹거리·가전·완구 최대 50% 할인 ' 쓱데이 ' 놓치지 마세요",
-    "link": "https://www.news1.kr/photos/8199039",
-    "t": "2026-11-05T14:52:00+09:00",
-    "by": "news1.kr",
-    "tags": [
-     "쓱데이"
-    ]
-   },
-   {
-    "title": "이마트, 쓱데이 마지막 주말 할인",
-    "link": "https://www.news1.kr/photos/8199037",
-    "t": "2026-11-05T14:52:00+09:00",
-    "by": "news1.kr",
-    "tags": [
-     "쓱데이"
+     "대형마트"
     ]
    },
    {
@@ -19779,24 +19835,6 @@
     "link": "https://www.lawissue.co.kr/view.php?ud=202611051449445073204ead0791_12",
     "t": "2026-11-05T14:52:00+09:00",
     "by": "lawissue.co.kr",
-    "tags": [
-     "대형마트"
-    ]
-   },
-   {
-    "title": "'최대 반값' 이마트, 쓱데이 마지막 주말 행사",
-    "link": "https://www.news1.kr/photos/8199040",
-    "t": "2026-11-05T14:51:00+09:00",
-    "by": "news1.kr",
-    "tags": [
-     "쓱데이"
-    ]
-   },
-   {
-    "title": "\"주말 쇼핑 혜택 총집결\"… 이마트 , '쓱데이' 대규모 할인 행사 돌입",
-    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=93204",
-    "t": "2026-11-05T14:48:00+09:00",
-    "by": "thefairnews.co.kr",
     "tags": [
      "대형마트"
     ]
@@ -19875,57 +19913,12 @@
     ]
    },
    {
-    "title": "\"AI 쇼핑 특가에 지갑 연다\"… 11번가, 그랜드 십일절 흥행",
-    "link": "http://www.newswell.co.kr/news/articleView.html?idxno=23389",
-    "t": "2026-11-05T10:38:00+09:00",
-    "by": "newswell.co.kr",
-    "tags": [
-     "십일절"
-    ]
-   },
-   {
-    "title": "11번가 ‘그랜드 십일절 ’, AI쇼핑·특가에 판매 호조…초개인화 추천 거...",
-    "link": "https://www.inthenews.co.kr/news/article.html?no=94066",
-    "t": "2026-11-05T10:28:00+09:00",
-    "by": "inthenews.co.kr",
-    "tags": [
-     "십일절"
-    ]
-   },
-   {
     "title": "쏟아지는 이커머스 할인전 승부는 '재구매'",
     "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=365724",
     "t": "2026-11-05T10:22:00+09:00",
     "by": "smedaily.co.kr",
     "tags": [
      "빅스마일"
-    ]
-   },
-   {
-    "title": "굴값 급등 속 롯데마트 , '햇굴 물량' 사전 확보…최대 35% 할인 판매",
-    "link": "http://www.srtimes.kr/news/articleView.html?idxno=216787",
-    "t": "2026-11-05T10:14:00+09:00",
-    "by": "srtimes.kr",
-    "tags": [
-     "대형마트"
-    ]
-   },
-   {
-    "title": "[유통갤러리] 롯데마트 , 햇굴 물량 1.5배 확보…최대 35% 할인 판매 外",
-    "link": "https://theviewers.co.kr/View.aspx?No=4298510",
-    "t": "2026-11-05T10:10:00+09:00",
-    "by": "theviewers.co.kr",
-    "tags": [
-     "대형마트"
-    ]
-   },
-   {
-    "title": "최대 35% 할인 … 롯데마트 가 11일까지 역대급 할인 하는 '제철 식재료'",
-    "link": "https://www.wikitree.co.kr/articles/1171981",
-    "t": "2026-11-05T10:08:00+09:00",
-    "by": "wikitree.co.kr",
-    "tags": [
-     "대형마트"
     ]
    },
    {
@@ -19947,30 +19940,12 @@
     ]
    },
    {
-    "title": "롯데마트 , 햇굴 물량 1.5배 확대…최대 35% 할인",
-    "link": "https://www.m-i.kr/news/articleView.html?idxno=2014700",
-    "t": "2026-11-05T10:00:00+09:00",
-    "by": "m-i.kr",
-    "tags": [
-     "대형마트"
-    ]
-   },
-   {
     "title": "서린씨앤아이 지마켓 빅스마일데이 에서 할인에 할인을 더한 PC 구매 이벤...",
     "link": "https://gamefocus.co.kr/detail.php?number=180279",
     "t": "2026-11-05T09:32:00+09:00",
     "by": "gamefocus.co.kr",
     "tags": [
      "빅스마일"
-    ]
-   },
-   {
-    "title": "굴값 30% 뛰자 롯데마트 승부수… 햇굴 최대 35% 할인",
-    "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=4823",
-    "t": "2026-11-05T09:18:00+09:00",
-    "by": "newsmap.co.kr",
-    "tags": [
-     "대형마트"
     ]
    },
    {
@@ -20056,15 +20031,6 @@
     ]
    },
    {
-    "title": "홈플러스 , 5~11일 신선식품·생필품 할인 행사",
-    "link": "http://www.breaknews.com/1248424",
-    "t": "2026-11-04T17:48:00+09:00",
-    "by": "breaknews.com",
-    "tags": [
-     "대형마트"
-    ]
-   },
-   {
     "title": "[오늘의 언박싱] G마켓 ‘오뚜기 얼큰 북엇국라면’·이마트24 ‘QWER 샌...",
     "link": "https://www.mediapen.com/news/view/1135219",
     "t": "2026-11-04T17:46:00+09:00",
@@ -20116,15 +20082,6 @@
     "by": "ziksir.com",
     "tags": [
      "빅스마일"
-    ]
-   },
-   {
-    "title": "지금 쟁여야 한다… 홈플러스 가 내일부터 '최대 50%' 할인 하는 '고급 식재...",
-    "link": "https://www.wikitree.co.kr/articles/1171811",
-    "t": "2026-11-04T15:36:00+09:00",
-    "by": "wikitree.co.kr",
-    "tags": [
-     "대형마트"
     ]
    },
    {
@@ -20264,15 +20221,6 @@
     ]
    },
    {
-    "title": "[유통딜리버리] 신세계百ㆍ이마트ㆍ롯데마트ㆍSSG닷컴ㆍ롯데온ㆍGS25ㆍ...",
-    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611041129398700571",
-    "t": "2026-11-04T11:40:00+09:00",
-    "by": "dnews.co.kr",
-    "tags": [
-     "빅스마일"
-    ]
-   },
-   {
     "title": "모헤세, '몰렌 3인 모션 소파' 출시 및 네이버 ' 넾다세일 ·블랙프라이데...",
     "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249047",
     "t": "2026-11-04T11:24:00+09:00",
@@ -20322,6 +20270,33 @@
     "link": "https://www.bntnews.co.kr/article/view/bnt202611040053",
     "t": "2026-11-04T10:02:00+09:00",
     "by": "bntnews.co.kr",
+    "tags": [
+     "넾다세일"
+    ]
+   },
+   {
+    "title": "[캐시워크 종합] 11월 4일 수요일 오전 10시 현재 출제되고 있는 모든 문...",
+    "link": "http://www.bizwnews.com/news/articleView.html?idxno=150866",
+    "t": "2026-11-04T10:00:00+09:00",
+    "by": "bizwnews.com",
+    "tags": [
+     "넾다세일"
+    ]
+   },
+   {
+    "title": "린클, 요리 유튜버 '토깽이 아줌마'와 4일 쇼핑라이브 진행",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3740512",
+    "t": "2026-11-04T10:00:00+09:00",
+    "by": "gukjenews.com",
+    "tags": [
+     "넾다세일"
+    ]
+   },
+   {
+    "title": "린클, 11월 4일 네이버 ' 넾다세일 ' 쇼핑라이브 진행…토깽이 아줌마 참...",
+    "link": "http://www.e2news.com/news/articleView.html?idxno=335715",
+    "t": "2026-11-04T09:30:00+09:00",
+    "by": "e2news.com",
     "tags": [
      "넾다세일"
     ]

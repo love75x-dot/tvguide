@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T16:06:10.456328+09:00",
+ "updated": "2026-11-07T17:08:41.077015+09:00",
  "topics": [
   {
    "name": "독감",
@@ -10,6 +10,12 @@
     "부작용"
    ],
    "items": [
+    {
+     "title": "장흥 고병원성 조류 독감 '확진'에 이어 여주서도 항원 검출",
+     "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=408297",
+     "t": "2026-11-07T16:48:00+09:00",
+     "by": "todaykorea.co.kr"
+    },
     {
      "title": "독감 빠른 유행, 백신 늦었다? \"그래도 접종 권고\"",
      "link": "https://www.edaily.co.kr/News/Read?newsId=02660086645643424&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
@@ -33,19 +39,13 @@
      "link": "https://www.youthdaily.co.kr/news/article.html?no=229493",
      "t": "2026-11-07T10:00:00+09:00",
      "by": "youthdaily.co.kr"
-    },
-    {
-     "title": "[건강 100세를 위하여] 감기와 다른 독감 , 매년 맞는 예방접종이 중요해",
-     "link": "http://www.ggmedinews.com/news/articleView.html?idxno=7003",
-     "t": "2026-11-07T09:22:00+09:00",
-     "by": "ggmedinews.com"
     }
    ]
   },
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 28,
+   "count": 27,
    "angles": [
     "에 좋은",
     "부작용",
@@ -169,7 +169,7 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 17,
+   "count": 16,
    "angles": [
     "에 좋은",
     "먹는 법"
@@ -210,7 +210,7 @@
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 17,
+   "count": 16,
    "angles": [
     "부작용",
     "효능"
@@ -330,14 +330,56 @@
    ]
   },
   {
-   "name": "유방암",
+   "name": "염증",
    "kind": "질환·증상",
-   "count": 12,
+   "count": 10,
    "angles": [
     "부작용",
     "에 좋은",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "\"11월이면 더 위험하다\"… 전신 질환 의 불씨 '만성 염증' 경고",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745082",
+     "t": "2026-11-07T16:42:00+09:00",
+     "by": "gukjenews.com"
+    },
+    {
+     "title": "[헬스토크] 내장지방, 해로운 이유…염증·섬유화 부르는 단백질 규명",
+     "link": "https://www.dongascience.com/news/view/80681",
+     "t": "2026-11-07T08:01:00+09:00",
+     "by": "dongascience.com"
+    },
+    {
+     "title": "“빵에 버터 대신 아보카도 바르세요”… 혈관 염증 막는 ‘똑똑한 지방...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602256.html",
+     "t": "2026-11-07T07:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "“맹장 수술했는데 폐에 염증이?”⋯21세男, 뒤늦게 겪은 증상은",
+     "link": "https://kormedi.com/?p=2900168",
+     "t": "2026-11-06T18:02:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "임플란트 흔들림과 잇몸 염증, 치과 검진 시 재수술 여부 판단하는 기준...",
+     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=143978",
+     "t": "2026-11-06T10:00:00+09:00",
+     "by": "medisobizanews.com"
+    }
+   ]
+  },
+  {
+   "name": "유방암",
+   "kind": "질환·증상",
+   "count": 10,
+   "angles": [
+    "부작용",
     "먹는 법",
-    "효능"
+    "효능",
+    "에 좋은"
    ],
    "items": [
     {
@@ -375,7 +417,7 @@
   {
    "name": "탈모",
    "kind": "질환·증상",
-   "count": 11,
+   "count": 10,
    "angles": [
     "부작용"
    ],
@@ -415,7 +457,7 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 10,
+   "count": 9,
    "angles": [
     "부작용",
     "에 좋은"
@@ -450,48 +492,6 @@
      "link": "https://kormedi.com/?p=2898572",
      "t": "2026-11-06T22:05:00+09:00",
      "by": "kormedi.com"
-    }
-   ]
-  },
-  {
-   "name": "염증",
-   "kind": "질환·증상",
-   "count": 9,
-   "angles": [
-    "부작용",
-    "에 좋은",
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "[헬스토크] 내장지방, 해로운 이유…염증·섬유화 부르는 단백질 규명",
-     "link": "https://www.dongascience.com/news/view/80681",
-     "t": "2026-11-07T08:01:00+09:00",
-     "by": "dongascience.com"
-    },
-    {
-     "title": "“빵에 버터 대신 아보카도 바르세요”… 혈관 염증 막는 ‘똑똑한 지방...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602256.html",
-     "t": "2026-11-07T07:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "“맹장 수술했는데 폐에 염증이?”⋯21세男, 뒤늦게 겪은 증상은",
-     "link": "https://kormedi.com/?p=2900168",
-     "t": "2026-11-06T18:02:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "임플란트 흔들림과 잇몸 염증, 치과 검진 시 재수술 여부 판단하는 기준...",
-     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=143978",
-     "t": "2026-11-06T10:00:00+09:00",
-     "by": "medisobizanews.com"
-    },
-    {
-     "title": "예지원 “코에서 시작된 염증, 전신 건강 까지 위협” (이토록 위대한 몸...",
-     "link": "https://www.bntnews.co.kr/article/view/bnt202611060161",
-     "t": "2026-11-06T09:58:00+09:00",
-     "by": "bntnews.co.kr"
     }
    ]
   },
@@ -539,7 +539,7 @@
   {
    "name": "지방간",
    "kind": "질환·증상",
-   "count": 6,
+   "count": 5,
    "angles": [
     "부작용"
    ],
@@ -838,6 +838,34 @@
      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=548215",
      "t": "2026-11-05T12:10:00+09:00",
      "by": "kpanews.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "폐렴",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "특정 유전자 변이 보유자, 폐렴 발생 위험 12% 높아",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623641",
+     "t": "2026-11-07T17:00:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "\"감기인 줄 알았는데 폐렴?\"…즉시 병원가야 할 신호 3가지",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69779",
+     "t": "2026-11-07T14:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "[더 건강한 나] 열도 기침도 없는데, 폐렴?…추위 속 고령층 주의",
+     "link": "http://www.yonhapnewstv.co.kr/news/MYH20261107104011a1B",
+     "t": "2026-11-07T10:41:00+09:00",
+     "by": "yonhapnewstv.co.kr"
     }
    ]
   },

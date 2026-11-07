@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T12:10:49.207235+09:00",
+ "updated": "2026-11-07T13:10:51.358328+09:00",
  "car": [
   {
    "name": "한국타이어",
@@ -39,8 +39,26 @@
   },
   {
    "name": "사이버트럭",
-   "count": 50,
+   "count": 53,
    "items": [
+    {
+     "title": "사이버트럭 줄이고 로보택시 늘린다… 테슬라, 생산 재편",
+     "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000482",
+     "t": "2026-11-07T12:48:00+09:00",
+     "by": "it.chosun.com"
+    },
+    {
+     "title": "GD도 탔던 테슬라 사이버트럭...사실상 단종 수순",
+     "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=261107502&PRO_CODE=99",
+     "t": "2026-11-07T12:43:00+09:00",
+     "by": "cjb.co.kr"
+    },
+    {
+     "title": "GD도 탔던 '사이버트럭' 내년부터 못 본다?",
+     "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835122&plink=ORI&cooper=NAVER",
+     "t": "2026-11-07T12:13:00+09:00",
+     "by": "sbs.co.kr"
+    },
     {
      "title": "테슬라 '사이버트럭 단종' 수순…머스크 \"내년 생산 단계적 축소\"",
      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3744994",
@@ -52,30 +70,12 @@
      "link": "https://www.g-enews.com/view.php?ud=20261107112207961224debea800_1",
      "t": "2026-11-07T11:40:00+09:00",
      "by": "g-enews.com"
-    },
-    {
-     "title": "테슬라, 사이버트럭 포기한다...머스크, 생산 중단 선언",
-     "link": "https://www.insight.co.kr/news/581039",
-     "t": "2026-11-07T11:30:00+09:00",
-     "by": "insight.co.kr"
-    },
-    {
-     "title": "테슬라, 사이버트럭 생산 중단…머스크 \"한 시대의 끝\"",
-     "link": "https://www.kado.net/news/articleView.html?idxno=2083181",
-     "t": "2026-11-07T11:26:00+09:00",
-     "by": "kado.net"
-    },
-    {
-     "title": "테슬라, 사이버트럭 단계적 생산 종료…\"사이버캡 생산 공간 확보\"",
-     "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=369151",
-     "t": "2026-11-07T11:10:00+09:00",
-     "by": "ftoday.co.kr"
     }
    ]
   },
   {
    "name": "투자",
-   "count": 33,
+   "count": 31,
    "items": [
     {
      "title": "[대미투자 재점검 ⑦] 관세 피하려 美로 향한 철강···수조원 투자 회...",
@@ -146,8 +146,44 @@
    ]
   },
   {
+   "name": "광주",
+   "count": 24,
+   "items": [
+    {
+     "title": "제네시스 광주, 최대 전시관 문 연다…\"車 넘어 브랜드와 교감\"",
+     "link": "https://www.apnews.kr/news/articleView.html?idxno=3052886",
+     "t": "2026-11-06T22:06:00+09:00",
+     "by": "apnews.kr"
+    },
+    {
+     "title": "기아, 광주 미래차 전환에 ‘3조 원’ 투자",
+     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706237&ref=A",
+     "t": "2026-11-06T19:41:00+09:00",
+     "by": "kbs.co.kr"
+    },
+    {
+     "title": "제네시스 , 브랜드 최대 규모 전시관 ' 제네시스 광주' 오픈",
+     "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005957020",
+     "t": "2026-11-06T17:58:00+09:00",
+     "by": "mbnmoney.mbn.co.kr"
+    },
+    {
+     "title": "기아, 광주 미래차 전환에 3조원 투자…PBV 기술 실증 확대",
+     "link": "https://www.m-i.kr/news/articleView.html?idxno=2015637",
+     "t": "2026-11-06T17:40:00+09:00",
+     "by": "m-i.kr"
+    },
+    {
+     "title": "제네시스 , 호남 첫 전시관 ' 제네시스 광주' 개관…브랜드 최대 규모",
+     "link": "https://www.gpkorea.com/news/articleView.html?idxno=148360",
+     "t": "2026-11-06T17:16:00+09:00",
+     "by": "gpkorea.com"
+    }
+   ]
+  },
+  {
    "name": "PBV",
-   "count": 27,
+   "count": 24,
    "items": [
     {
      "title": "기아, 전남광주에 3조 투자… PBV 미래차 생태계 조성",
@@ -180,78 +216,42 @@
      "by": "m-i.kr"
     }
    ]
-  },
-  {
-   "name": "광주",
-   "count": 25,
-   "items": [
-    {
-     "title": "제네시스 광주, 최대 전시관 문 연다…\"車 넘어 브랜드와 교감\"",
-     "link": "https://www.apnews.kr/news/articleView.html?idxno=3052886",
-     "t": "2026-11-06T22:06:00+09:00",
-     "by": "apnews.kr"
-    },
-    {
-     "title": "기아, 광주 미래차 전환에 ‘3조 원’ 투자",
-     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706237&ref=A",
-     "t": "2026-11-06T19:41:00+09:00",
-     "by": "kbs.co.kr"
-    },
-    {
-     "title": "제네시스 , 브랜드 최대 규모 전시관 ' 제네시스 광주' 오픈",
-     "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005957020",
-     "t": "2026-11-06T17:58:00+09:00",
-     "by": "mbnmoney.mbn.co.kr"
-    },
-    {
-     "title": "기아, 광주 미래차 전환에 3조원 투자…PBV 기술 실증 확대",
-     "link": "https://www.m-i.kr/news/articleView.html?idxno=2015637",
-     "t": "2026-11-06T17:40:00+09:00",
-     "by": "m-i.kr"
-    },
-    {
-     "title": "제네시스 , 광주에 국내 최대 규모 전시관 개관…호남 첫 거점",
-     "link": "https://www.m-i.kr/news/articleView.html?idxno=2015629",
-     "t": "2026-11-06T17:16:00+09:00",
-     "by": "m-i.kr"
-    }
-   ]
   }
  ],
  "moto": [
   {
    "name": "오토바",
-   "count": 21,
+   "count": 25,
    "items": [
+    {
+     "title": "새벽시간 오토바이 ·승용차 충돌…2명 부상",
+     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706664&ref=A",
+     "t": "2026-11-07T13:06:00+09:00",
+     "by": "kbs.co.kr"
+    },
+    {
+     "title": "교차로에서 오토바이 와 승용차 충돌...2명 다쳐",
+     "link": "https://www.ytn.co.kr/_ln/0115_202611071301545916",
+     "t": "2026-11-07T13:01:00+09:00",
+     "by": "ytn.co.kr"
+    },
+    {
+     "title": "부산 용호동 교차로서 오토바이 ·승용차 충돌…2명 부상",
+     "link": "https://www.news1.kr/local/busan-gyeongnam/6346365",
+     "t": "2026-11-07T12:31:00+09:00",
+     "by": "news1.kr"
+    },
+    {
+     "title": "부산 남구서 오토바이 ·승용차 ‘쾅’… 오토바이 운전자 골절상",
+     "link": "https://www.busan.com/view/busan/view.php?code=2026110712180044273",
+     "t": "2026-11-07T12:23:00+09:00",
+     "by": "busan.com"
+    },
     {
      "title": "부산 남구 도로서 오토바이 , 좌회전하던 승용차 충돌…1명 부상",
      "link": "https://www.nocutnews.co.kr/news/6603556?utm_source=naver&utm_medium=article&utm_campaign=20261107115909",
      "t": "2026-11-07T12:00:00+09:00",
      "by": "nocutnews.co.kr"
-    },
-    {
-     "title": "인도 주행 찍은 초등생에…\"대학 못 가게 하겠다\" 협박한 오토바이 男 [...",
-     "link": "https://www.fnnews.com/news/202611061637167029",
-     "t": "2026-11-07T12:00:00+09:00",
-     "by": "fnnews.com"
-    },
-    {
-     "title": "부산서 직진 오토바이 와 좌회선 승용차 충돌…운전자 다리 다쳐 병원으...",
-     "link": "https://www.dt.co.kr/article/12093647?ref=naver",
-     "t": "2026-11-07T11:56:00+09:00",
-     "by": "dt.co.kr"
-    },
-    {
-     "title": "부산 남구 교차로서 오토바이 ·승용차 쾅, 충돌…1명 부상",
-     "link": "https://www.newsis.com/view/NISX20261107_0003858853",
-     "t": "2026-11-07T11:47:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "부산 남구 용호동 교차로서 승용차· 오토바이 충돌…30대 라이더 중상",
-     "link": "https://www.betanews.net/article/view/beta202611070002",
-     "t": "2026-11-07T11:36:00+09:00",
-     "by": "betanews.net"
     }
    ]
   },

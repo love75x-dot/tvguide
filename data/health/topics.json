@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T06:08:40.932903+09:00",
+ "updated": "2026-11-08T07:08:38.555553+09:00",
  "topics": [
   {
    "name": "독감",
@@ -45,12 +45,18 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 24,
+   "count": 25,
    "angles": [
-    "부작용",
-    "에 좋은"
+    "에 좋은",
+    "부작용"
    ],
    "items": [
+    {
+     "title": "혈당 관리 에 좋은 산책 시간은 따로 있다?",
+     "link": "https://lady.khan.co.kr/khlady.html?mode=view&artid=202611080700001&code=14",
+     "t": "2026-11-08T07:00:00+09:00",
+     "by": "lady.khan.co.kr"
+    },
     {
      "title": "서울우유, 혈당 관리 고려한 '한끼식사 당밸런스' 출시…A2 우유·단백질...",
      "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=71652",
@@ -74,12 +80,6 @@
      "link": "https://kormedi.com/?p=2899446",
      "t": "2026-11-07T12:04:00+09:00",
      "by": "kormedi.com"
-    },
-    {
-     "title": "\" 혈당 관리 , 다짐만 백 번째라면?\" 호르몬 권위자가 만든 '혈당 루틴' 3주...",
-     "link": "https://www.nocutnews.co.kr/news/6603026?utm_source=naver&utm_medium=article&utm_campaign=20261107050109",
-     "t": "2026-11-07T05:02:00+09:00",
-     "by": "nocutnews.co.kr"
     }
    ]
   },
@@ -289,6 +289,47 @@
    ]
   },
   {
+   "name": "혈압",
+   "kind": "질환·증상",
+   "count": 14,
+   "angles": [
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "커피 끊으면 혈압도 내려갈까… 카페인 줄이기 전 알아둘 것",
+     "link": "https://www.khan.co.kr/article/202611080700011",
+     "t": "2026-11-08T07:00:00+09:00",
+     "by": "khan.co.kr"
+    },
+    {
+     "title": "눈 뜨자마자 '쿵'… 초겨울 아침 혈압 스파이크, '모닝 서지' 막으려면...",
+     "link": "https://www.fnnews.com/news/202611021439272025",
+     "t": "2026-11-08T05:00:00+09:00",
+     "by": "fnnews.com"
+    },
+    {
+     "title": "“혈압·콜레스테롤 낮추는 데 최고”… 이영자가 기름장 찍어 먹은 ‘...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602289.html",
+     "t": "2026-11-08T04:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "“아침마다 혈압 널뛴다”…추위 시작되는 환절기, 심뇌혈관 ‘빨간불...",
+     "link": "https://www.mk.co.kr/article/12201501",
+     "t": "2026-11-07T18:45:00+09:00",
+     "by": "mk.co.kr"
+    },
+    {
+     "title": "\"추워지니 혈압 오르네\"…환절기엔 '이렇게' 관리",
+     "link": "https://www.newsis.com/view/NISX20261105_0003856628",
+     "t": "2026-11-07T18:01:00+09:00",
+     "by": "newsis.com"
+    }
+   ]
+  },
+  {
    "name": "당뇨",
    "kind": "질환·증상",
    "count": 13,
@@ -325,47 +366,6 @@
      "link": "https://www.dailypharm.com/user/news/344273?REFERER=NP",
      "t": "2026-11-06T12:02:00+09:00",
      "by": "dailypharm.com"
-    }
-   ]
-  },
-  {
-   "name": "혈압",
-   "kind": "질환·증상",
-   "count": 13,
-   "angles": [
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "눈 뜨자마자 '쿵'… 초겨울 아침 혈압 스파이크, '모닝 서지' 막으려면...",
-     "link": "https://www.fnnews.com/news/202611021439272025",
-     "t": "2026-11-08T05:00:00+09:00",
-     "by": "fnnews.com"
-    },
-    {
-     "title": "“혈압·콜레스테롤 낮추는 데 최고”… 이영자가 기름장 찍어 먹은 ‘...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602289.html",
-     "t": "2026-11-08T04:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "“아침마다 혈압 널뛴다”…추위 시작되는 환절기, 심뇌혈관 ‘빨간불...",
-     "link": "https://www.mk.co.kr/article/12201501",
-     "t": "2026-11-07T18:45:00+09:00",
-     "by": "mk.co.kr"
-    },
-    {
-     "title": "\"추워지니 혈압 오르네\"…환절기엔 '이렇게' 관리",
-     "link": "https://www.newsis.com/view/NISX20261105_0003856628",
-     "t": "2026-11-07T18:01:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "기온 뚝 떨어지면 혈압 상승…고혈압인 사람이 주의해야 할 5가지 습관",
-     "link": "https://kormedi.com/?p=2900782",
-     "t": "2026-11-07T10:06:00+09:00",
-     "by": "kormedi.com"
     }
    ]
   },

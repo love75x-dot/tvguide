@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T09:10:42.197580+09:00",
+ "updated": "2026-11-07T09:55:19.830982+09:00",
  "topics": [
   {
    "name": "독감",
@@ -10,6 +10,12 @@
     "부작용"
    ],
    "items": [
+    {
+     "title": "[건강 100세를 위하여] 감기와 다른 독감 , 매년 맞는 예방접종이 중요해",
+     "link": "http://www.ggmedinews.com/news/articleView.html?idxno=7003",
+     "t": "2026-11-07T09:22:00+09:00",
+     "by": "ggmedinews.com"
+    },
     {
      "title": "입동 추위에 건강관리 주의보…\"독감 다시 확산세\"",
      "link": "http://www.yonhapnewstv.co.kr/news/MYH202611070900119fc",
@@ -33,19 +39,13 @@
      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=548340",
      "t": "2026-11-07T06:04:00+09:00",
      "by": "kpanews.co.kr"
-    },
-    {
-     "title": "초등학교 곳곳서 ‘콜록콜록’… 독감 다시 확산세",
-     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706178&ref=A",
-     "t": "2026-11-06T19:15:00+09:00",
-     "by": "kbs.co.kr"
     }
    ]
   },
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 33,
+   "count": 31,
    "angles": [
     "에 좋은",
     "부작용",
@@ -81,48 +81,6 @@
      "link": "https://www.donga.com/news/Health/article/all/20261106/134979266/2",
      "t": "2026-11-06T16:04:00+09:00",
      "by": "donga.com"
-    }
-   ]
-  },
-  {
-   "name": "단백질",
-   "kind": "영양제",
-   "count": 22,
-   "angles": [
-    "부작용",
-    "효능",
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "[헬스토크] 내장지방, 해로운 이유…염증·섬유화 부르는 단백질 규명",
-     "link": "https://www.dongascience.com/news/view/80681",
-     "t": "2026-11-07T08:01:00+09:00",
-     "by": "dongascience.com"
-    },
-    {
-     "title": "\"배양육·단백질 식품 양대 날개 달았다\"… 의성군, 바이오푸드밸리에 ...",
-     "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489484",
-     "t": "2026-11-06T19:10:00+09:00",
-     "by": "enewstoday.co.kr"
-    },
-    {
-     "title": "당뇨 환자 단백질 1위는 '콩'…햄·소시지는 최하위",
-     "link": "https://www.newsis.com/view/NISX20261106_0003857576",
-     "t": "2026-11-06T18:00:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "식물성 버거·템페, 가열 뒤 모의소화에서 단백질 분해 증가",
-     "link": "https://www.vegannews.co.kr/news/article.html?no=401289",
-     "t": "2026-11-06T14:10:00+09:00",
-     "by": "vegannews.co.kr"
-    },
-    {
-     "title": "“아침에 꼭 마신다”… ‘25인치 허리’ 오윤아, 공복에 먹는 ‘단백질...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110601140.html",
-     "t": "2026-11-06T10:34:00+09:00",
-     "by": "health.chosun.com"
     }
    ]
   },
@@ -169,6 +127,90 @@
    ]
   },
   {
+   "name": "단백질",
+   "kind": "영양제",
+   "count": 20,
+   "angles": [
+    "부작용",
+    "효능",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "[헬스토크] 내장지방, 해로운 이유…염증·섬유화 부르는 단백질 규명",
+     "link": "https://www.dongascience.com/news/view/80681",
+     "t": "2026-11-07T08:01:00+09:00",
+     "by": "dongascience.com"
+    },
+    {
+     "title": "\"배양육·단백질 식품 양대 날개 달았다\"… 의성군, 바이오푸드밸리에 ...",
+     "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489484",
+     "t": "2026-11-06T19:10:00+09:00",
+     "by": "enewstoday.co.kr"
+    },
+    {
+     "title": "당뇨 환자 단백질 1위는 '콩'…햄·소시지는 최하위",
+     "link": "https://www.newsis.com/view/NISX20261106_0003857576",
+     "t": "2026-11-06T18:00:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "식물성 버거·템페, 가열 뒤 모의소화에서 단백질 분해 증가",
+     "link": "https://www.vegannews.co.kr/news/article.html?no=401289",
+     "t": "2026-11-06T14:10:00+09:00",
+     "by": "vegannews.co.kr"
+    },
+    {
+     "title": "“아침에 꼭 마신다”… ‘25인치 허리’ 오윤아, 공복에 먹는 ‘단백질...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110601140.html",
+     "t": "2026-11-06T10:34:00+09:00",
+     "by": "health.chosun.com"
+    }
+   ]
+  },
+  {
+   "name": "감기",
+   "kind": "질환·증상",
+   "count": 19,
+   "angles": [
+    "에 좋은",
+    "먹는 법",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "[건강 100세를 위하여] 감기와 다른 독감 , 매년 맞는 예방접종이 중요해",
+     "link": "http://www.ggmedinews.com/news/articleView.html?idxno=7003",
+     "t": "2026-11-07T09:22:00+09:00",
+     "by": "ggmedinews.com"
+    },
+    {
+     "title": "감기 인 줄 알았는데 알레르기 비염?…증상 비슷해도 원인·치료 달라 [e...",
+     "link": "https://www.etoday.co.kr/news/view/2645025",
+     "t": "2026-11-07T09:00:00+09:00",
+     "by": "etoday.co.kr"
+    },
+    {
+     "title": "검은콩·쌀뜨물·식초…미국 패션지가 주목한 ‘한국식 머리 감기 ’",
+     "link": "https://www.khan.co.kr/article/202611070800011",
+     "t": "2026-11-07T08:00:00+09:00",
+     "by": "khan.co.kr"
+    },
+    {
+     "title": "헷갈리는 감기· 독감 … '이 증상 ' 나타나면 단순 감기 아닐 수도",
+     "link": "https://www.wikitree.co.kr/articles/1172500",
+     "t": "2026-11-06T17:16:00+09:00",
+     "by": "wikitree.co.kr"
+    },
+    {
+     "title": "감기 나았는데 “콜록”…환절기마다 기침 나면 ‘천식’일 수도 [건강...",
+     "link": "https://www.hani.co.kr/arti/hanihealth/medical/1286166.html",
+     "t": "2026-11-06T17:16:00+09:00",
+     "by": "hani.co.kr"
+    }
+   ]
+  },
+  {
    "name": "고혈압",
    "kind": "질환·증상",
    "count": 19,
@@ -205,88 +247,6 @@
      "link": "https://www.fnnews.com/news/202611060858454985",
      "t": "2026-11-06T09:07:00+09:00",
      "by": "fnnews.com"
-    }
-   ]
-  },
-  {
-   "name": "지방간",
-   "kind": "질환·증상",
-   "count": 19,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "“통념을 흔드는 결과” 지방간에 비타민E, 4분의 1만 먹어도…간 수치...",
-     "link": "https://biz.heraldcorp.com/article/10928876?ref=naver",
-     "t": "2026-11-06T22:11:00+09:00",
-     "by": "biz.heraldcorp.com"
-    },
-    {
-     "title": "술 마시는 지방간 환자, 사망 위험 2배… 담배 피우면 17배 ↑",
-     "link": "https://www.chosun.com/national/welfare-medical/2026/11/05/HGP2ZR2HDBDARC5LMO3AYFLWHA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-     "t": "2026-11-05T14:32:00+09:00",
-     "by": "chosun.com"
-    },
-    {
-     "title": "음주 동반 지방간, 간암·소화기암 위험↑…4만4000명 추적 결과 발표",
-     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065610421214507",
-     "t": "2026-11-04T19:58:00+09:00",
-     "by": "megaeconomy.co.kr"
-    },
-    {
-     "title": "지방간 있는 사람이 술·담배까지 하면… 사망 위험 17배 오른다",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/04/2026110403243.html",
-     "t": "2026-11-04T18:25:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "술 마시는 지방간 환자, 흡연하면 사망 위험 17배 높아",
-     "link": "http://www.bokuennews.com/news/article.html?no=286659",
-     "t": "2026-11-04T17:26:00+09:00",
-     "by": "bokuennews.com"
-    }
-   ]
-  },
-  {
-   "name": "감기",
-   "kind": "질환·증상",
-   "count": 18,
-   "angles": [
-    "에 좋은",
-    "먹는 법",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "감기 인 줄 알았는데 알레르기 비염?…증상 비슷해도 원인·치료 달라 [e...",
-     "link": "https://www.etoday.co.kr/news/view/2645025",
-     "t": "2026-11-07T09:00:00+09:00",
-     "by": "etoday.co.kr"
-    },
-    {
-     "title": "검은콩·쌀뜨물·식초…미국 패션지가 주목한 ‘한국식 머리 감기 ’",
-     "link": "https://www.khan.co.kr/article/202611070800011",
-     "t": "2026-11-07T08:00:00+09:00",
-     "by": "khan.co.kr"
-    },
-    {
-     "title": "헷갈리는 감기· 독감 … '이 증상 ' 나타나면 단순 감기 아닐 수도",
-     "link": "https://www.wikitree.co.kr/articles/1172500",
-     "t": "2026-11-06T17:16:00+09:00",
-     "by": "wikitree.co.kr"
-    },
-    {
-     "title": "감기 나았는데 “콜록”…환절기마다 기침 나면 ‘천식’일 수도 [건강...",
-     "link": "https://www.hani.co.kr/arti/hanihealth/medical/1286166.html",
-     "t": "2026-11-06T17:16:00+09:00",
-     "by": "hani.co.kr"
-    },
-    {
-     "title": "야외활동 후 발열·몸살… 감기와 다른 감염병일 수도",
-     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214277",
-     "t": "2026-11-06T17:00:00+09:00",
-     "by": "100ssd.co.kr"
     }
    ]
   },
@@ -332,6 +292,46 @@
    ]
   },
   {
+   "name": "지방간",
+   "kind": "질환·증상",
+   "count": 15,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "“통념을 흔드는 결과” 지방간에 비타민E, 4분의 1만 먹어도…간 수치...",
+     "link": "https://biz.heraldcorp.com/article/10928876?ref=naver",
+     "t": "2026-11-06T22:11:00+09:00",
+     "by": "biz.heraldcorp.com"
+    },
+    {
+     "title": "술 마시는 지방간 환자, 사망 위험 2배… 담배 피우면 17배 ↑",
+     "link": "https://www.chosun.com/national/welfare-medical/2026/11/05/HGP2ZR2HDBDARC5LMO3AYFLWHA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "t": "2026-11-05T14:32:00+09:00",
+     "by": "chosun.com"
+    },
+    {
+     "title": "음주 동반 지방간, 간암·소화기암 위험↑…4만4000명 추적 결과 발표",
+     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065610421214507",
+     "t": "2026-11-04T19:58:00+09:00",
+     "by": "megaeconomy.co.kr"
+    },
+    {
+     "title": "지방간 있는 사람이 술·담배까지 하면… 사망 위험 17배 오른다",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/04/2026110403243.html",
+     "t": "2026-11-04T18:25:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "술 마시는 지방간 환자, 흡연하면 사망 위험 17배 높아",
+     "link": "http://www.bokuennews.com/news/article.html?no=286659",
+     "t": "2026-11-04T17:26:00+09:00",
+     "by": "bokuennews.com"
+    }
+   ]
+  },
+  {
    "name": "탈모",
    "kind": "질환·증상",
    "count": 15,
@@ -368,49 +368,6 @@
      "link": "http://www.ttlnews.com/news/articleView.html?idxno=3159131",
      "t": "2026-11-05T15:56:00+09:00",
      "by": "ttlnews.com"
-    }
-   ]
-  },
-  {
-   "name": "유방암",
-   "kind": "질환·증상",
-   "count": 12,
-   "angles": [
-    "부작용",
-    "에 좋은",
-    "먹는 법",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "위고비, 마운자로와 유방암 / 세브란스병원 외과 천종호",
-     "link": "http://aftertherain.kr/sub/contents/view.php?seq=98308",
-     "t": "2026-11-06T13:18:00+09:00",
-     "by": "aftertherain.kr"
-    },
-    {
-     "title": "\"당 떨어져\" 아이스크림 자주 먹으면 '유방암 위험'",
-     "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229309",
-     "t": "2026-11-05T19:51:00+09:00",
-     "by": "mbn.co.kr"
-    },
-    {
-     "title": "단맛 좋아하는 여성, 유방암 위험 28%↑…과일은 괜찮나?",
-     "link": "https://www.hankyung.com/article/2026110593007",
-     "t": "2026-11-05T19:20:00+09:00",
-     "by": "hankyung.com"
-    },
-    {
-     "title": "\"밥 먹고 꼭 찾았는데\"…여성 유방암 위험 높인 달콤한 '이 음식'",
-     "link": "https://view.asiae.co.kr/article/2026110515040815942",
-     "t": "2026-11-05T15:09:00+09:00",
-     "by": "view.asiae.co.kr"
-    },
-    {
-     "title": "“어릴 때 많이 먹으니, 유방암 위험 낮아졌다”… 세계암 연구 기금이 주...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110501478.html",
-     "t": "2026-11-05T12:01:00+09:00",
-     "by": "health.chosun.com"
     }
    ]
   },
@@ -497,6 +454,49 @@
    ]
   },
   {
+   "name": "유방암",
+   "kind": "질환·증상",
+   "count": 11,
+   "angles": [
+    "부작용",
+    "에 좋은",
+    "먹는 법",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "위고비, 마운자로와 유방암 / 세브란스병원 외과 천종호",
+     "link": "http://aftertherain.kr/sub/contents/view.php?seq=98308",
+     "t": "2026-11-06T13:18:00+09:00",
+     "by": "aftertherain.kr"
+    },
+    {
+     "title": "\"당 떨어져\" 아이스크림 자주 먹으면 '유방암 위험'",
+     "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229309",
+     "t": "2026-11-05T19:51:00+09:00",
+     "by": "mbn.co.kr"
+    },
+    {
+     "title": "단맛 좋아하는 여성, 유방암 위험 28%↑…과일은 괜찮나?",
+     "link": "https://www.hankyung.com/article/2026110593007",
+     "t": "2026-11-05T19:20:00+09:00",
+     "by": "hankyung.com"
+    },
+    {
+     "title": "\"밥 먹고 꼭 찾았는데\"…여성 유방암 위험 높인 달콤한 '이 음식'",
+     "link": "https://view.asiae.co.kr/article/2026110515040815942",
+     "t": "2026-11-05T15:09:00+09:00",
+     "by": "view.asiae.co.kr"
+    },
+    {
+     "title": "“어릴 때 많이 먹으니, 유방암 위험 낮아졌다”… 세계암 연구 기금이 주...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110501478.html",
+     "t": "2026-11-05T12:01:00+09:00",
+     "by": "health.chosun.com"
+    }
+   ]
+  },
+  {
    "name": "혈압",
    "kind": "질환·증상",
    "count": 10,
@@ -578,7 +578,7 @@
   {
    "name": "유산균",
    "kind": "영양제",
-   "count": 8,
+   "count": 7,
    "angles": [
     "효능",
     "먹는 법"
@@ -965,6 +965,26 @@
    ]
   },
   {
+   "name": "비타민C",
+   "kind": "영양제",
+   "count": 2,
+   "angles": [],
+   "items": [
+    {
+     "title": "7일 캐시워크 돈버는퀴즈 정답은? 푸드루트 비타민C·소휘 비움 구미",
+     "link": "https://www.cbci.co.kr/news/articleView.html?idxno=624043",
+     "t": "2026-11-07T09:16:00+09:00",
+     "by": "cbci.co.kr"
+    },
+    {
+     "title": "11월 4일 캐시워크 푸드루트 비타민C 퀴즈 정답",
+     "link": "https://www.vegannews.co.kr/news/article.html?no=400491",
+     "t": "2026-11-04T18:16:00+09:00",
+     "by": "vegannews.co.kr"
+    }
+   ]
+  },
+  {
    "name": "스트레칭",
    "kind": "운동·생활",
    "count": 2,
@@ -1003,28 +1023,6 @@
      "link": "https://biz.heraldcorp.com/article/10926017?ref=naver",
      "t": "2026-11-04T22:11:00+09:00",
      "by": "biz.heraldcorp.com"
-    }
-   ]
-  },
-  {
-   "name": "위암",
-   "kind": "질환·증상",
-   "count": 2,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "건강칼럼-위암 조기 진단 위한 위내시경 검사",
-     "link": "http://www.gndomin.com/news/articleView.html?idxno=495529",
-     "t": "2026-11-04T17:50:00+09:00",
-     "by": "gndomin.com"
-    },
-    {
-     "title": "지방간에 술까지 더해지면 간암·식도암·위암 위험 커졌다",
-     "link": "https://www.edaily.co.kr/News/Read?newsId=04201686645642440&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-     "t": "2026-11-04T13:09:00+09:00",
-     "by": "edaily.co.kr"
     }
    ]
   }

@@ -1,15 +1,21 @@
 {
- "updated": "2026-11-07T09:55:19.830982+09:00",
+ "updated": "2026-11-07T10:10:56.706840+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 68,
+   "count": 69,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "[청년발언대] 일찍 찾아온 독감 , 백신은 어떻게 우리 몸을 지킬까",
+     "link": "https://www.youthdaily.co.kr/news/article.html?no=229493",
+     "t": "2026-11-07T10:00:00+09:00",
+     "by": "youthdaily.co.kr"
+    },
     {
      "title": "[건강 100세를 위하여] 감기와 다른 독감 , 매년 맞는 예방접종이 중요해",
      "link": "http://www.ggmedinews.com/news/articleView.html?idxno=7003",
@@ -33,19 +39,13 @@
      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706555&ref=A",
      "t": "2026-11-07T06:18:00+09:00",
      "by": "kbs.co.kr"
-    },
-    {
-     "title": "독감 재확산에 약국 인후질병치료제 판매 18.1%↑",
-     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=548340",
-     "t": "2026-11-07T06:04:00+09:00",
-     "by": "kpanews.co.kr"
     }
    ]
   },
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 31,
+   "count": 30,
    "angles": [
     "에 좋은",
     "부작용",
@@ -292,46 +292,6 @@
    ]
   },
   {
-   "name": "지방간",
-   "kind": "질환·증상",
-   "count": 15,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "“통념을 흔드는 결과” 지방간에 비타민E, 4분의 1만 먹어도…간 수치...",
-     "link": "https://biz.heraldcorp.com/article/10928876?ref=naver",
-     "t": "2026-11-06T22:11:00+09:00",
-     "by": "biz.heraldcorp.com"
-    },
-    {
-     "title": "술 마시는 지방간 환자, 사망 위험 2배… 담배 피우면 17배 ↑",
-     "link": "https://www.chosun.com/national/welfare-medical/2026/11/05/HGP2ZR2HDBDARC5LMO3AYFLWHA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-     "t": "2026-11-05T14:32:00+09:00",
-     "by": "chosun.com"
-    },
-    {
-     "title": "음주 동반 지방간, 간암·소화기암 위험↑…4만4000명 추적 결과 발표",
-     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065610421214507",
-     "t": "2026-11-04T19:58:00+09:00",
-     "by": "megaeconomy.co.kr"
-    },
-    {
-     "title": "지방간 있는 사람이 술·담배까지 하면… 사망 위험 17배 오른다",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/04/2026110403243.html",
-     "t": "2026-11-04T18:25:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "술 마시는 지방간 환자, 흡연하면 사망 위험 17배 높아",
-     "link": "http://www.bokuennews.com/news/article.html?no=286659",
-     "t": "2026-11-04T17:26:00+09:00",
-     "by": "bokuennews.com"
-    }
-   ]
-  },
-  {
    "name": "탈모",
    "kind": "질환·증상",
    "count": 15,
@@ -368,6 +328,46 @@
      "link": "http://www.ttlnews.com/news/articleView.html?idxno=3159131",
      "t": "2026-11-05T15:56:00+09:00",
      "by": "ttlnews.com"
+    }
+   ]
+  },
+  {
+   "name": "지방간",
+   "kind": "질환·증상",
+   "count": 12,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "“통념을 흔드는 결과” 지방간에 비타민E, 4분의 1만 먹어도…간 수치...",
+     "link": "https://biz.heraldcorp.com/article/10928876?ref=naver",
+     "t": "2026-11-06T22:11:00+09:00",
+     "by": "biz.heraldcorp.com"
+    },
+    {
+     "title": "술 마시는 지방간 환자, 사망 위험 2배… 담배 피우면 17배 ↑",
+     "link": "https://www.chosun.com/national/welfare-medical/2026/11/05/HGP2ZR2HDBDARC5LMO3AYFLWHA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "t": "2026-11-05T14:32:00+09:00",
+     "by": "chosun.com"
+    },
+    {
+     "title": "음주 동반 지방간, 간암·소화기암 위험↑…4만4000명 추적 결과 발표",
+     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065610421214507",
+     "t": "2026-11-04T19:58:00+09:00",
+     "by": "megaeconomy.co.kr"
+    },
+    {
+     "title": "지방간 있는 사람이 술·담배까지 하면… 사망 위험 17배 오른다",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/04/2026110403243.html",
+     "t": "2026-11-04T18:25:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "술 마시는 지방간 환자, 흡연하면 사망 위험 17배 높아",
+     "link": "http://www.bokuennews.com/news/article.html?no=286659",
+     "t": "2026-11-04T17:26:00+09:00",
+     "by": "bokuennews.com"
     }
    ]
   },
@@ -499,12 +499,18 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 10,
+   "count": 11,
    "angles": [
     "부작용",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "기온 뚝 떨어지면 혈압 상승…고혈압인 사람이 주의해야 할 5가지 습관",
+     "link": "https://kormedi.com/?p=2900782",
+     "t": "2026-11-07T10:06:00+09:00",
+     "by": "kormedi.com"
+    },
     {
      "title": "[위클리 건강] 고 혈압 관리 좋아졌다지만…정작 고위험군은 '빨간불'",
      "link": "https://www.yna.co.kr/view/AKR20261106115700530?input=1195m",
@@ -527,12 +533,6 @@
      "title": "‘이 때’ 자면 혈압 낮아진다?… 혈압 에 가장 좋은 취침 시간",
      "link": "https://kormedi.com/?p=2898572",
      "t": "2026-11-06T22:05:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "중년들이 ‘고 혈압 대란 시대’ 사는 법…최악의 생활 습관은?",
-     "link": "https://kormedi.com/?p=2900210",
-     "t": "2026-11-06T19:03:00+09:00",
      "by": "kormedi.com"
     }
    ]
@@ -617,48 +617,6 @@
    ]
   },
   {
-   "name": "콜레스테롤",
-   "kind": "질환·증상",
-   "count": 6,
-   "angles": [
-    "에 좋은",
-    "먹는 법",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "콜레스테롤 주범이라더니…50년 만에 누명 벗은 ‘계란 노른자’",
-     "link": "https://www.joongang.co.kr/article/25476549",
-     "t": "2026-11-07T06:00:00+09:00",
-     "by": "joongang.co.kr"
-    },
-    {
-     "title": "‘계란=콜레스테롤 주범’ 50년 오명…하루 1~2개 적정량",
-     "link": "https://www.joongang.co.kr/article/25476529",
-     "t": "2026-11-07T01:32:00+09:00",
-     "by": "joongang.co.kr"
-    },
-    {
-     "title": "뇌경색 후 LDL 콜레스테롤, 얼마나 낮춰야 할까? / 용인세브란스병원 신...",
-     "link": "http://aftertherain.kr/sub/contents/view.php?seq=98288",
-     "t": "2026-11-05T14:04:00+09:00",
-     "by": "aftertherain.kr"
-    },
-    {
-     "title": "아침 공복에 먹어도 좋은 음식 …혈당, 콜레스테롤의 변화가?",
-     "link": "https://kormedi.com/?p=2898447",
-     "t": "2026-11-04T19:02:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "“매일 먹는 밥에 조금 섞었을 뿐인데”…콜레스테롤 싹 청소해 준다는...",
-     "link": "https://www.sedaily.com/article/20110109?ref=naver",
-     "t": "2026-11-04T13:53:00+09:00",
-     "by": "sedaily.com"
-    }
-   ]
-  },
-  {
    "name": "수면",
    "kind": "운동·생활",
    "count": 5,
@@ -696,6 +654,47 @@
      "link": "https://www.segye.com/newsView/20261104514468?OutUrl=naver",
      "t": "2026-11-04T15:37:00+09:00",
      "by": "segye.com"
+    }
+   ]
+  },
+  {
+   "name": "콜레스테롤",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [
+    "먹는 법",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "콜레스테롤 주범이라더니…50년 만에 누명 벗은 ‘계란 노른자’",
+     "link": "https://www.joongang.co.kr/article/25476549",
+     "t": "2026-11-07T06:00:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "‘계란=콜레스테롤 주범’ 50년 오명…하루 1~2개 적정량",
+     "link": "https://www.joongang.co.kr/article/25476529",
+     "t": "2026-11-07T01:32:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "뇌경색 후 LDL 콜레스테롤, 얼마나 낮춰야 할까? / 용인세브란스병원 신...",
+     "link": "http://aftertherain.kr/sub/contents/view.php?seq=98288",
+     "t": "2026-11-05T14:04:00+09:00",
+     "by": "aftertherain.kr"
+    },
+    {
+     "title": "아침 공복에 먹어도 좋은 음식 …혈당, 콜레스테롤의 변화가?",
+     "link": "https://kormedi.com/?p=2898447",
+     "t": "2026-11-04T19:02:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "“매일 먹는 밥에 조금 섞었을 뿐인데”…콜레스테롤 싹 청소해 준다는...",
+     "link": "https://www.sedaily.com/article/20110109?ref=naver",
+     "t": "2026-11-04T13:53:00+09:00",
+     "by": "sedaily.com"
     }
    ]
   },
@@ -859,6 +858,34 @@
    ]
   },
   {
+   "name": "불면증",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "“잠 못 드는 밤, 멜라토닌 찾지만”…불면증 개선 효과 는 [권지예의 약...",
+     "link": "https://economist.co.kr/article/view/ecn202611050006",
+     "t": "2026-11-07T10:01:00+09:00",
+     "by": "economist.co.kr"
+    },
+    {
+     "title": "“앱 6주 쓰니 불면증 개선” 2년 후에도 효과 지속될까 보니",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110502862.html",
+     "t": "2026-11-05T18:05:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "불면증 신약 렘보렉산트, 일부 사용자 수면마비·악몽으로 복용 중단",
+     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=548215",
+     "t": "2026-11-05T12:10:00+09:00",
+     "by": "kpanews.co.kr"
+    }
+   ]
+  },
+  {
    "name": "계란",
    "kind": "식품·제철",
    "count": 2,
@@ -897,50 +924,6 @@
      "link": "https://kormedi.com/?p=2898956",
      "t": "2026-11-05T10:16:00+09:00",
      "by": "kormedi.com"
-    }
-   ]
-  },
-  {
-   "name": "두통",
-   "kind": "질환·증상",
-   "count": 2,
-   "angles": [
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "편두통 표적 치료...\"두통 없는 상태를 목표로\"",
-     "link": "https://www.ytn.co.kr/_ln/0103_202611070530525315",
-     "t": "2026-11-07T05:30:00+09:00",
-     "by": "ytn.co.kr"
-    },
-    {
-     "title": "[메디 인 칼럼] 갑자기 찾아온 극심한 두통, 뇌출혈의 원인과 예방",
-     "link": "http://www.incheonnews.com/news/articleView.html?idxno=442602",
-     "t": "2026-11-04T10:04:00+09:00",
-     "by": "incheonnews.com"
-    }
-   ]
-  },
-  {
-   "name": "불면증",
-   "kind": "질환·증상",
-   "count": 2,
-   "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "“앱 6주 쓰니 불면증 개선” 2년 후에도 효과 지속될까 보니",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110502862.html",
-     "t": "2026-11-05T18:05:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "불면증 신약 렘보렉산트, 일부 사용자 수면마비·악몽으로 복용 중단",
-     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=548215",
-     "t": "2026-11-05T12:10:00+09:00",
-     "by": "kpanews.co.kr"
     }
    ]
   },
@@ -1023,6 +1006,28 @@
      "link": "https://biz.heraldcorp.com/article/10926017?ref=naver",
      "t": "2026-11-04T22:11:00+09:00",
      "by": "biz.heraldcorp.com"
+    }
+   ]
+  },
+  {
+   "name": "위암",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "건강칼럼-위암 조기 진단 위한 위내시경 검사",
+     "link": "http://www.gndomin.com/news/articleView.html?idxno=495529",
+     "t": "2026-11-04T17:50:00+09:00",
+     "by": "gndomin.com"
+    },
+    {
+     "title": "지방간에 술까지 더해지면 간암·식도암·위암 위험 커졌다",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=04201686645642440&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-04T13:09:00+09:00",
+     "by": "edaily.co.kr"
     }
    ]
   }

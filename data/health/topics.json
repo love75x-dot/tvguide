@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T11:08:29.374145+09:00",
+ "updated": "2026-11-07T12:10:49.207235+09:00",
  "topics": [
   {
    "name": "독감",
@@ -53,6 +53,12 @@
    ],
    "items": [
     {
+     "title": "“당뇨 있다면 귤·고구마 얼마나?”… 혈당 좌우하는 제철 간식의 함정",
+     "link": "https://kormedi.com/?p=2899446",
+     "t": "2026-11-07T12:04:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
      "title": "\" 혈당 관리 , 다짐만 백 번째라면?\" 호르몬 권위자가 만든 '혈당 루틴' 3주...",
      "link": "https://www.nocutnews.co.kr/news/6603026?utm_source=naver&utm_medium=article&utm_campaign=20261107050109",
      "t": "2026-11-07T05:02:00+09:00",
@@ -75,12 +81,6 @@
      "link": "https://www.newsis.com/view/NISX20261106_0003857902",
      "t": "2026-11-06T17:00:00+09:00",
      "by": "newsis.com"
-    },
-    {
-     "title": "신민아 “밥 먹기 전 과일·채소부터”… 혈당 ·다이어트에 정말 좋을까...",
-     "link": "https://www.donga.com/news/Health/article/all/20261106/134979266/2",
-     "t": "2026-11-06T16:04:00+09:00",
-     "by": "donga.com"
     }
    ]
   },
@@ -250,47 +250,6 @@
    ]
   },
   {
-   "name": "다이어트",
-   "kind": "운동·생활",
-   "count": 15,
-   "angles": [
-    "효능",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "신민아 “밥 먹기 전 과일·채소부터”… 혈당 ·다이어트에 정말 좋을까...",
-     "link": "https://www.donga.com/news/Health/article/all/20261106/134979266/2",
-     "t": "2026-11-06T16:04:00+09:00",
-     "by": "donga.com"
-    },
-    {
-     "title": "뉴트라코어, 2026 푸드위크 코리아서 '와사비 다이어트&혈당케어' 공개...",
-     "link": "https://kr.aving.net/news/articleView.html?idxno=1816705",
-     "t": "2026-11-06T13:26:00+09:00",
-     "by": "kr.aving.net"
-    },
-    {
-     "title": "무조건 줄인다고 다이어트 성공?…살 빼는 데 오히려 득 되는 탄수화물...",
-     "link": "https://kormedi.com/?p=2899848",
-     "t": "2026-11-06T10:14:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "[TD포토] 김민하 '엄청난 다이어트 효과 '",
-     "link": "http://www.tvdaily.co.kr/read.php3?aid=17939245021808618017",
-     "t": "2026-11-06T09:22:00+09:00",
-     "by": "tvdaily.co.kr"
-    },
-    {
-     "title": "“매일 5분 하면 살 빠진다” 16kg 감량 홍현희의 ‘ 다이어트 비결’",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110502656.html",
-     "t": "2026-11-05T19:01:00+09:00",
-     "by": "health.chosun.com"
-    }
-   ]
-  },
-  {
    "name": "탈모",
    "kind": "질환·증상",
    "count": 15,
@@ -331,13 +290,60 @@
    ]
   },
   {
+   "name": "다이어트",
+   "kind": "운동·생활",
+   "count": 14,
+   "angles": [
+    "효능",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "신민아 “밥 먹기 전 과일·채소부터”… 혈당 ·다이어트에 정말 좋을까...",
+     "link": "https://www.donga.com/news/Health/article/all/20261106/134979266/2",
+     "t": "2026-11-06T16:04:00+09:00",
+     "by": "donga.com"
+    },
+    {
+     "title": "뉴트라코어, 2026 푸드위크 코리아서 '와사비 다이어트&혈당케어' 공개...",
+     "link": "https://kr.aving.net/news/articleView.html?idxno=1816705",
+     "t": "2026-11-06T13:26:00+09:00",
+     "by": "kr.aving.net"
+    },
+    {
+     "title": "무조건 줄인다고 다이어트 성공?…살 빼는 데 오히려 득 되는 탄수화물...",
+     "link": "https://kormedi.com/?p=2899848",
+     "t": "2026-11-06T10:14:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "[TD포토] 김민하 '엄청난 다이어트 효과 '",
+     "link": "http://www.tvdaily.co.kr/read.php3?aid=17939245021808618017",
+     "t": "2026-11-06T09:22:00+09:00",
+     "by": "tvdaily.co.kr"
+    },
+    {
+     "title": "“매일 5분 하면 살 빠진다” 16kg 감량 홍현희의 ‘ 다이어트 비결’",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110502656.html",
+     "t": "2026-11-05T19:01:00+09:00",
+     "by": "health.chosun.com"
+    }
+   ]
+  },
+  {
    "name": "당뇨",
    "kind": "질환·증상",
-   "count": 11,
+   "count": 12,
    "angles": [
     "부작용"
    ],
    "items": [
+    {
+     "title": "“당뇨 있다면 귤·고구마 얼마나?”… 혈당 좌우하는 제철 간식의 함정",
+     "link": "https://kormedi.com/?p=2899446",
+     "t": "2026-11-07T12:04:00+09:00",
+     "by": "kormedi.com"
+    },
     {
      "title": "\"잘 자는 사람, 뇌 건강 도 좋아\"… 당뇨·심장질환자서 연관성 더 뚜렷",
      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69759",
@@ -361,12 +367,6 @@
      "link": "https://www.fnnews.com/news/202611060858454985",
      "t": "2026-11-06T09:07:00+09:00",
      "by": "fnnews.com"
-    },
-    {
-     "title": "당뇨 환자 발 붓고 뜨거운데 통증 없다면? '샤르코 족부병증' 의심",
-     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51801",
-     "t": "2026-11-06T08:44:00+09:00",
-     "by": "ikunkang.com"
     }
    ]
   },
@@ -774,6 +774,35 @@
    ]
   },
   {
+   "name": "계란",
+   "kind": "식품·제철",
+   "count": 3,
+   "angles": [
+    "부작용",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "“매일 계란·콩 챙겨 먹었더니”… 노인 인지장애 위험 20% 뚝 떨어졌다",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602823.html",
+     "t": "2026-11-07T12:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "콜레스테롤 주범이라더니…50년 만에 누명 벗은 ‘계란 노른자’",
+     "link": "https://www.joongang.co.kr/article/25476549",
+     "t": "2026-11-07T06:00:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "‘계란=콜레스테롤 주범’ 50년 오명…하루 1~2개 적정량",
+     "link": "https://www.joongang.co.kr/article/25476529",
+     "t": "2026-11-07T01:32:00+09:00",
+     "by": "joongang.co.kr"
+    }
+   ]
+  },
+  {
    "name": "러닝",
    "kind": "운동·생활",
    "count": 3,
@@ -913,28 +942,6 @@
    ]
   },
   {
-   "name": "계란",
-   "kind": "식품·제철",
-   "count": 2,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "콜레스테롤 주범이라더니…50년 만에 누명 벗은 ‘계란 노른자’",
-     "link": "https://www.joongang.co.kr/article/25476549",
-     "t": "2026-11-07T06:00:00+09:00",
-     "by": "joongang.co.kr"
-    },
-    {
-     "title": "‘계란=콜레스테롤 주범’ 50년 오명…하루 1~2개 적정량",
-     "link": "https://www.joongang.co.kr/article/25476529",
-     "t": "2026-11-07T01:32:00+09:00",
-     "by": "joongang.co.kr"
-    }
-   ]
-  },
-  {
    "name": "골다공증",
    "kind": "질환·증상",
    "count": 2,
@@ -955,26 +962,6 @@
    ]
   },
   {
-   "name": "비염",
-   "kind": "질환·증상",
-   "count": 2,
-   "angles": [],
-   "items": [
-    {
-     "title": "감기 인 줄 알았는데 알레르기 비염?…증상 비슷해도 원인·치료 달라 [e...",
-     "link": "https://www.etoday.co.kr/news/view/2645025",
-     "t": "2026-11-07T09:00:00+09:00",
-     "by": "etoday.co.kr"
-    },
-    {
-     "title": "\"환절기 비염 방치하면 만성질환\"…온병원, 조기 진단 강조",
-     "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88867",
-     "t": "2026-11-04T11:16:00+09:00",
-     "by": "industrynews.co.kr"
-    }
-   ]
-  },
-  {
    "name": "비타민C",
    "kind": "영양제",
    "count": 2,
@@ -991,6 +978,28 @@
      "link": "https://www.vegannews.co.kr/news/article.html?no=400491",
      "t": "2026-11-04T18:16:00+09:00",
      "by": "vegannews.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "사우나",
+   "kind": "운동·생활",
+   "count": 2,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "사우나로 건강관리 가능? 전문의 3명에게 물어보니…[건강팩트체크]",
+     "link": "https://www.donga.com/news/Health/article/all/20261106/134965642/2",
+     "t": "2026-11-07T11:31:00+09:00",
+     "by": "donga.com"
+    },
+    {
+     "title": "몸과 피부를 깨우는 사우나의 효능 3가지 / 요즘 사우나가 다시 뜨는 이...",
+     "link": "http://topclass.chosun.com/news/articleView.html?idxno=37037",
+     "t": "2026-11-06T11:46:00+09:00",
+     "by": "topclass.chosun.com"
     }
    ]
   },

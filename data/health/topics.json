@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T03:40:28.353559+09:00",
+ "updated": "2026-11-08T04:08:37.622950+09:00",
  "topics": [
   {
    "name": "독감",
@@ -331,12 +331,18 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 11,
+   "count": 12,
    "angles": [
-    "부작용",
-    "에 좋은"
+    "에 좋은",
+    "부작용"
    ],
    "items": [
+    {
+     "title": "“혈압·콜레스테롤 낮추는 데 최고”… 이영자가 기름장 찍어 먹은 ‘...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602289.html",
+     "t": "2026-11-08T04:01:00+09:00",
+     "by": "health.chosun.com"
+    },
     {
      "title": "“아침마다 혈압 널뛴다”…추위 시작되는 환절기, 심뇌혈관 ‘빨간불...",
      "link": "https://www.mk.co.kr/article/12201501",
@@ -360,12 +366,6 @@
      "link": "https://www.yna.co.kr/view/AKR20261106115700530?input=1195m",
      "t": "2026-11-07T07:01:00+09:00",
      "by": "yna.co.kr"
-    },
-    {
-     "title": "뜨끈~한 국물 한 그릇이 혈압을?…입동 한파에 건강관리 비상",
-     "link": "https://www.news1.kr/bio/general/6345971",
-     "t": "2026-11-07T07:00:00+09:00",
-     "by": "news1.kr"
     }
    ]
   },
@@ -617,6 +617,41 @@
    ]
   },
   {
+   "name": "콜레스테롤",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "에 좋은",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "“혈압·콜레스테롤 낮추는 데 최고”… 이영자가 기름장 찍어 먹은 ‘...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602289.html",
+     "t": "2026-11-08T04:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "콜레스테롤 주범이라더니…50년 만에 누명 벗은 ‘계란 노른자’",
+     "link": "https://www.joongang.co.kr/article/25476549",
+     "t": "2026-11-07T06:00:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "‘계란=콜레스테롤 주범’ 50년 오명…하루 1~2개 적정량",
+     "link": "https://www.joongang.co.kr/article/25476529",
+     "t": "2026-11-07T01:32:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "뇌경색 후 LDL 콜레스테롤, 얼마나 낮춰야 할까? / 용인세브란스병원 신...",
+     "link": "http://aftertherain.kr/sub/contents/view.php?seq=98288",
+     "t": "2026-11-05T14:04:00+09:00",
+     "by": "aftertherain.kr"
+    }
+   ]
+  },
+  {
    "name": "계란",
    "kind": "식품·제철",
    "count": 3,
@@ -753,34 +788,6 @@
      "link": "http://topclass.chosun.com/news/articleView.html?idxno=37037",
      "t": "2026-11-06T11:46:00+09:00",
      "by": "topclass.chosun.com"
-    }
-   ]
-  },
-  {
-   "name": "콜레스테롤",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "콜레스테롤 주범이라더니…50년 만에 누명 벗은 ‘계란 노른자’",
-     "link": "https://www.joongang.co.kr/article/25476549",
-     "t": "2026-11-07T06:00:00+09:00",
-     "by": "joongang.co.kr"
-    },
-    {
-     "title": "‘계란=콜레스테롤 주범’ 50년 오명…하루 1~2개 적정량",
-     "link": "https://www.joongang.co.kr/article/25476529",
-     "t": "2026-11-07T01:32:00+09:00",
-     "by": "joongang.co.kr"
-    },
-    {
-     "title": "뇌경색 후 LDL 콜레스테롤, 얼마나 낮춰야 할까? / 용인세브란스병원 신...",
-     "link": "http://aftertherain.kr/sub/contents/view.php?seq=98288",
-     "t": "2026-11-05T14:04:00+09:00",
-     "by": "aftertherain.kr"
     }
    ]
   },

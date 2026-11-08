@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T09:10:54.012416+09:00",
+ "updated": "2026-11-08T10:08:26.687427+09:00",
  "topics": [
   {
    "name": "독감",
@@ -45,7 +45,7 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 25,
+   "count": 22,
    "angles": [
     "에 좋은",
     "부작용"
@@ -124,48 +124,6 @@
    ]
   },
   {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 19,
-   "angles": [
-    "에 좋은",
-    "부작용",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "메트포르민, 코로나19 감염 초기 투여 시 롱코비드·사망 위험 53% 감소",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623600",
-     "t": "2026-11-07T15:06:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "\"독감·코로나 주사 한 방에 끝낸다\" 캐나다서 첫 승인",
-     "link": "https://www.koreadaily.com/article/20261106193733274",
-     "t": "2026-11-07T12:38:00+09:00",
-     "by": "koreadaily.com"
-    },
-    {
-     "title": "코로나19 백신, 투자비 대비 최대 810배 경제적 효과…전 세계 수십조 달...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623430",
-     "t": "2026-11-06T15:06:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "코로나19 팬데믹 스트레스, 청소년 생물학적 노화 가속과 연관",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623486",
-     "t": "2026-11-06T12:42:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "11월 11일부터 고위험군 소아·영유아 코로나19 백신 접종 시작",
-     "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978301",
-     "t": "2026-11-06T09:40:00+09:00",
-     "by": "medicalworldnews.co.kr"
-    }
-   ]
-  },
-  {
    "name": "단백질",
    "kind": "영양제",
    "count": 18,
@@ -208,43 +166,44 @@
    ]
   },
   {
-   "name": "감기",
+   "name": "코로나",
    "kind": "질환·증상",
-   "count": 16,
+   "count": 17,
    "angles": [
     "에 좋은",
-    "먹는 법"
+    "부작용",
+    "효능"
    ],
    "items": [
     {
-     "title": "아침 최저 -1도·'5㎜ 안팎' 중부 지방 한때 비…감기에 좋은 유자차, '...",
-     "link": "https://www.dailian.co.kr/news/view/1712111/?sc=Naver",
-     "t": "2026-11-08T09:02:00+09:00",
-     "by": "dailian.co.kr"
+     "title": "메트포르민, 코로나19 감염 초기 투여 시 롱코비드·사망 위험 53% 감소",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623600",
+     "t": "2026-11-07T15:06:00+09:00",
+     "by": "mdtoday.co.kr"
     },
     {
-     "title": "[건강 100세를 위하여] 감기와 다른 독감 , 매년 맞는 예방접종이 중요해",
-     "link": "http://www.ggmedinews.com/news/articleView.html?idxno=7003",
-     "t": "2026-11-07T09:22:00+09:00",
-     "by": "ggmedinews.com"
+     "title": "\"독감·코로나 주사 한 방에 끝낸다\" 캐나다서 첫 승인",
+     "link": "https://www.koreadaily.com/article/20261106193733274",
+     "t": "2026-11-07T12:38:00+09:00",
+     "by": "koreadaily.com"
     },
     {
-     "title": "감기 인 줄 알았는데 알레르기 비염?…증상 비슷해도 원인·치료 달라 [e...",
-     "link": "https://www.etoday.co.kr/news/view/2645025",
-     "t": "2026-11-07T09:00:00+09:00",
-     "by": "etoday.co.kr"
+     "title": "코로나19 백신, 투자비 대비 최대 810배 경제적 효과…전 세계 수십조 달...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623430",
+     "t": "2026-11-06T15:06:00+09:00",
+     "by": "mdtoday.co.kr"
     },
     {
-     "title": "검은콩·쌀뜨물·식초…미국 패션지가 주목한 ‘한국식 머리 감기 ’",
-     "link": "https://www.khan.co.kr/article/202611070800011",
-     "t": "2026-11-07T08:00:00+09:00",
-     "by": "khan.co.kr"
+     "title": "코로나19 팬데믹 스트레스, 청소년 생물학적 노화 가속과 연관",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623486",
+     "t": "2026-11-06T12:42:00+09:00",
+     "by": "mdtoday.co.kr"
     },
     {
-     "title": "헷갈리는 감기· 독감 … '이 증상 ' 나타나면 단순 감기 아닐 수도",
-     "link": "https://www.wikitree.co.kr/articles/1172500",
-     "t": "2026-11-06T17:16:00+09:00",
-     "by": "wikitree.co.kr"
+     "title": "11월 11일부터 고위험군 소아·영유아 코로나19 백신 접종 시작",
+     "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978301",
+     "t": "2026-11-06T09:40:00+09:00",
+     "by": "medicalworldnews.co.kr"
     }
    ]
   },
@@ -287,6 +246,47 @@
      "link": "https://kr.aving.net/news/articleView.html?idxno=1816705",
      "t": "2026-11-06T13:26:00+09:00",
      "by": "kr.aving.net"
+    }
+   ]
+  },
+  {
+   "name": "감기",
+   "kind": "질환·증상",
+   "count": 15,
+   "angles": [
+    "에 좋은",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "아침 최저 -1도·'5㎜ 안팎' 중부 지방 한때 비…감기에 좋은 유자차, '...",
+     "link": "https://www.dailian.co.kr/news/view/1712111/?sc=Naver",
+     "t": "2026-11-08T09:02:00+09:00",
+     "by": "dailian.co.kr"
+    },
+    {
+     "title": "[건강 100세를 위하여] 감기와 다른 독감 , 매년 맞는 예방접종이 중요해",
+     "link": "http://www.ggmedinews.com/news/articleView.html?idxno=7003",
+     "t": "2026-11-07T09:22:00+09:00",
+     "by": "ggmedinews.com"
+    },
+    {
+     "title": "감기 인 줄 알았는데 알레르기 비염?…증상 비슷해도 원인·치료 달라 [e...",
+     "link": "https://www.etoday.co.kr/news/view/2645025",
+     "t": "2026-11-07T09:00:00+09:00",
+     "by": "etoday.co.kr"
+    },
+    {
+     "title": "검은콩·쌀뜨물·식초…미국 패션지가 주목한 ‘한국식 머리 감기 ’",
+     "link": "https://www.khan.co.kr/article/202611070800011",
+     "t": "2026-11-07T08:00:00+09:00",
+     "by": "khan.co.kr"
+    },
+    {
+     "title": "헷갈리는 감기· 독감 … '이 증상 ' 나타나면 단순 감기 아닐 수도",
+     "link": "https://www.wikitree.co.kr/articles/1172500",
+     "t": "2026-11-06T17:16:00+09:00",
+     "by": "wikitree.co.kr"
     }
    ]
   },
@@ -578,6 +578,44 @@
    ]
   },
   {
+   "name": "마그네슘",
+   "kind": "영양제",
+   "count": 5,
+   "angles": [],
+   "items": [
+    {
+     "title": "닥터루템, 마그네슘 영양제 누적 500만 병 판매… 건강기능식품 사업 확...",
+     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51791",
+     "t": "2026-11-08T10:02:00+09:00",
+     "by": "ikunkang.com"
+    },
+    {
+     "title": "닥터루템, '이시형 박사의 인생 마그네슘 영양제' 판매 500만 병…유통 ...",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3742123",
+     "t": "2026-11-08T09:00:00+09:00",
+     "by": "gukjenews.com"
+    },
+    {
+     "title": "닥터루템, 하루 한 병 액상형 마그네슘 영양제 누적 판매 500만 병 달성",
+     "link": "http://www.e2news.com/news/articleView.html?idxno=335791",
+     "t": "2026-11-07T09:00:00+09:00",
+     "by": "e2news.com"
+    },
+    {
+     "title": "닥터루템, 이시형 박사 성분 배합 참여 마그네슘 영양제 500만병 판매",
+     "link": "https://economist.co.kr/article/view/ecn202611040041",
+     "t": "2026-11-07T09:00:00+09:00",
+     "by": "economist.co.kr"
+    },
+    {
+     "title": "닥터루템, 마그네슘 영양제 홈쇼핑 24회 완판…누적 판매 500만 병",
+     "link": "https://isplus.com/article/view/isp202611040121",
+     "t": "2026-11-06T09:00:00+09:00",
+     "by": "isplus.com"
+    }
+   ]
+  },
+  {
    "name": "콜레스테롤",
    "kind": "질환·증상",
    "count": 5,
@@ -656,38 +694,6 @@
      "link": "https://www.newsis.com/view/NISX20261105_0003855955",
      "t": "2026-11-05T18:00:00+09:00",
      "by": "newsis.com"
-    }
-   ]
-  },
-  {
-   "name": "마그네슘",
-   "kind": "영양제",
-   "count": 4,
-   "angles": [],
-   "items": [
-    {
-     "title": "닥터루템, '이시형 박사의 인생 마그네슘 영양제' 판매 500만 병…유통 ...",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3742123",
-     "t": "2026-11-08T09:00:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "닥터루템, 하루 한 병 액상형 마그네슘 영양제 누적 판매 500만 병 달성",
-     "link": "http://www.e2news.com/news/articleView.html?idxno=335791",
-     "t": "2026-11-07T09:00:00+09:00",
-     "by": "e2news.com"
-    },
-    {
-     "title": "닥터루템, 이시형 박사 성분 배합 참여 마그네슘 영양제 500만병 판매",
-     "link": "https://economist.co.kr/article/view/ecn202611040041",
-     "t": "2026-11-07T09:00:00+09:00",
-     "by": "economist.co.kr"
-    },
-    {
-     "title": "닥터루템, 마그네슘 영양제 홈쇼핑 24회 완판…누적 판매 500만 병",
-     "link": "https://isplus.com/article/view/isp202611040121",
-     "t": "2026-11-06T09:00:00+09:00",
-     "by": "isplus.com"
     }
    ]
   },
@@ -967,26 +973,6 @@
    ]
   },
   {
-   "name": "홍삼",
-   "kind": "영양제",
-   "count": 2,
-   "angles": [],
-   "items": [
-    {
-     "title": "\"홍삼의 기능 적 가치 발굴\".. KGC, ' 식품 기술대상' 과기부 장관상 수상",
-     "link": "https://www.fnnews.com/news/202611051346257608",
-     "t": "2026-11-05T13:52:00+09:00",
-     "by": "fnnews.com"
-    },
-    {
-     "title": "정관장 'GLPro 코어', 홍삼 혈당 연구로 과기정통부 장관상",
-     "link": "http://www.kdfnews.com/news/articleView.html?idxno=190471",
-     "t": "2026-11-05T09:58:00+09:00",
-     "by": "kdfnews.com"
-    }
-   ]
-  },
-  {
    "name": "갱년기",
    "kind": "질환·증상",
    "count": 1,
@@ -997,6 +983,20 @@
      "link": "https://biz.chosun.com/science-chosun/bio/2026/11/07/JZ5YVZ3XXNBTRDYCNKJ4B4BWTM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
      "t": "2026-11-07T13:00:00+09:00",
      "by": "biz.chosun.com"
+    }
+   ]
+  },
+  {
+   "name": "걷기",
+   "kind": "운동·생활",
+   "count": 1,
+   "angles": [],
+   "items": [
+    {
+     "title": "'손목닥터'가 바꾼 걷기 습관…서울시민 건강도 '한걸음 더'",
+     "link": "https://www.yna.co.kr/view/AKR20261107010300004?input=1195m",
+     "t": "2026-11-07T09:00:00+09:00",
+     "by": "yna.co.kr"
     }
    ]
   }

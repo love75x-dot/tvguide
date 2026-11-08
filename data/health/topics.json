@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-08T12:08:37.978227+09:00",
+ "updated": "2026-11-08T13:10:56.544259+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 63,
+   "count": 61,
    "angles": [
     "에 좋은",
     "부작용"
@@ -168,7 +168,7 @@
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 16,
+   "count": 15,
    "angles": [
     "에 좋은",
     "부작용"
@@ -209,12 +209,18 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 14,
+   "count": 15,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "[ 건강 꿀팁] 가정에서 '혈압' 재는 방법, 시간·자세부터 2회 측정 간격까...",
+     "link": "https://www.wikitree.co.kr/articles/1172814",
+     "t": "2026-11-08T12:40:00+09:00",
+     "by": "wikitree.co.kr"
+    },
     {
      "title": "커피 끊으면 혈압도 내려갈까… 카페인 줄이기 전 알아둘 것",
      "link": "https://www.khan.co.kr/article/202611080700011",
@@ -238,12 +244,6 @@
      "link": "https://www.mk.co.kr/article/12201501",
      "t": "2026-11-07T18:45:00+09:00",
      "by": "mk.co.kr"
-    },
-    {
-     "title": "\"추워지니 혈압 오르네\"…환절기엔 '이렇게' 관리",
-     "link": "https://www.newsis.com/view/NISX20261105_0003856628",
-     "t": "2026-11-07T18:01:00+09:00",
-     "by": "newsis.com"
     }
    ]
   },
@@ -289,48 +289,6 @@
    ]
   },
   {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 13,
-   "angles": [
-    "에 좋은",
-    "부작용",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "메트포르민, 코로나19 감염 초기 투여 시 롱코비드·사망 위험 53% 감소",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623600",
-     "t": "2026-11-07T15:06:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "\"독감·코로나 주사 한 방에 끝낸다\" 캐나다서 첫 승인",
-     "link": "https://www.koreadaily.com/article/20261106193733274",
-     "t": "2026-11-07T12:38:00+09:00",
-     "by": "koreadaily.com"
-    },
-    {
-     "title": "코로나19 백신, 투자비 대비 최대 810배 경제적 효과…전 세계 수십조 달...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623430",
-     "t": "2026-11-06T15:06:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "코로나19 팬데믹 스트레스, 청소년 생물학적 노화 가속과 연관",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623486",
-     "t": "2026-11-06T12:42:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "11월 11일부터 고위험군 소아·영유아 코로나19 백신 접종 시작",
-     "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978301",
-     "t": "2026-11-06T09:40:00+09:00",
-     "by": "medicalworldnews.co.kr"
-    }
-   ]
-  },
-  {
    "name": "당뇨",
    "kind": "질환·증상",
    "count": 12,
@@ -367,6 +325,48 @@
      "link": "https://www.dailypharm.com/user/news/344273?REFERER=NP",
      "t": "2026-11-06T12:02:00+09:00",
      "by": "dailypharm.com"
+    }
+   ]
+  },
+  {
+   "name": "코로나",
+   "kind": "질환·증상",
+   "count": 12,
+   "angles": [
+    "에 좋은",
+    "부작용",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "메트포르민, 코로나19 감염 초기 투여 시 롱코비드·사망 위험 53% 감소",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623600",
+     "t": "2026-11-07T15:06:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "\"독감·코로나 주사 한 방에 끝낸다\" 캐나다서 첫 승인",
+     "link": "https://www.koreadaily.com/article/20261106193733274",
+     "t": "2026-11-07T12:38:00+09:00",
+     "by": "koreadaily.com"
+    },
+    {
+     "title": "코로나19 백신, 투자비 대비 최대 810배 경제적 효과…전 세계 수십조 달...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623430",
+     "t": "2026-11-06T15:06:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "코로나19 팬데믹 스트레스, 청소년 생물학적 노화 가속과 연관",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623486",
+     "t": "2026-11-06T12:42:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "11월 11일부터 고위험군 소아·영유아 코로나19 백신 접종 시작",
+     "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978301",
+     "t": "2026-11-06T09:40:00+09:00",
+     "by": "medicalworldnews.co.kr"
     }
    ]
   },
@@ -413,11 +413,10 @@
   {
    "name": "염증",
    "kind": "질환·증상",
-   "count": 8,
+   "count": 7,
    "angles": [
     "부작용",
-    "에 좋은",
-    "먹는 법"
+    "에 좋은"
    ],
    "items": [
     {
@@ -824,34 +823,6 @@
    ]
   },
   {
-   "name": "불면증",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "“잠 못 드는 밤, 멜라토닌 찾지만”…불면증 개선 효과 는 [권지예의 약...",
-     "link": "https://economist.co.kr/article/view/ecn202611050006",
-     "t": "2026-11-07T10:01:00+09:00",
-     "by": "economist.co.kr"
-    },
-    {
-     "title": "“앱 6주 쓰니 불면증 개선” 2년 후에도 효과 지속될까 보니",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110502862.html",
-     "t": "2026-11-05T18:05:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "불면증 신약 렘보렉산트, 일부 사용자 수면마비·악몽으로 복용 중단",
-     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=548215",
-     "t": "2026-11-05T12:10:00+09:00",
-     "by": "kpanews.co.kr"
-    }
-   ]
-  },
-  {
    "name": "사우나",
    "kind": "운동·생활",
    "count": 3,
@@ -896,6 +867,28 @@
      "link": "https://www.sportschosun.com/life/2026-11-05/202611050100039450003941",
      "t": "2026-11-05T16:40:00+09:00",
      "by": "sportschosun.com"
+    }
+   ]
+  },
+  {
+   "name": "불면증",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "“잠 못 드는 밤, 멜라토닌 찾지만”…불면증 개선 효과 는 [권지예의 약...",
+     "link": "https://economist.co.kr/article/view/ecn202611050006",
+     "t": "2026-11-07T10:01:00+09:00",
+     "by": "economist.co.kr"
+    },
+    {
+     "title": "“앱 6주 쓰니 불면증 개선” 2년 후에도 효과 지속될까 보니",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/05/2026110502862.html",
+     "t": "2026-11-05T18:05:00+09:00",
+     "by": "health.chosun.com"
     }
    ]
   },

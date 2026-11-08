@@ -1,7 +1,28 @@
 {
- "updated": "2026-11-08T17:10:43.261897+09:00",
+ "updated": "2026-11-08T18:11:07.916545+09:00",
  "ended": [],
  "articles": [
+  {
+   "title": "'사당귀' 박미희 김치 명인→명장 방어김치 레시피",
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611080079",
+   "t": "2026-11-08T17:56:00+09:00",
+   "show": null,
+   "by": "bntnews.co.kr"
+  },
+  {
+   "title": "'사당귀' 박미희 김치 명인, 명장 비법 더한 방어김치 레시피 공개",
+   "link": "https://enter.etoday.co.kr/news/view/304931",
+   "t": "2026-11-08T17:40:00+09:00",
+   "show": null,
+   "by": "enter.etoday.co.kr"
+  },
+  {
+   "title": "'알토란' 인제 손두부 맛집, 짜박두부 레시피",
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611080075",
+   "t": "2026-11-08T17:16:00+09:00",
+   "show": "알토란",
+   "by": "bntnews.co.kr"
+  },
   {
    "title": "'솔비♥ 결혼' 새신랑 이규한 추억 물국수·이모카세 짜박두부 레시피",
    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745561",
@@ -153,11 +174,21 @@
  "dishes": [
   {
    "name": "방어김치",
-   "count": 4,
+   "count": 6,
    "shows": [],
-   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745548",
-   "title": "박미희 '방어김치' 레시피 방송 최초 공개 …양준혁 \"바로 이 맛이야\"",
-   "t": "2026-11-08T16:50:00+09:00"
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611080079",
+   "title": "'사당귀' 박미희 김치 명인→명장 방어김치 레시피",
+   "t": "2026-11-08T17:56:00+09:00"
+  },
+  {
+   "name": "짜박두부",
+   "count": 4,
+   "shows": [
+    "알토란"
+   ],
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611080075",
+   "title": "'알토란' 인제 손두부 맛집, 짜박두부 레시피",
+   "t": "2026-11-08T17:16:00+09:00"
   },
   {
    "name": "들기름콩국수",
@@ -168,16 +199,6 @@
    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16269677",
    "title": "' 편스토랑 ' 오윤아, 들기름콩국수-콩물단팥죽 레시피 공개",
    "t": "2026-11-06T09:56:00+09:00"
-  },
-  {
-   "name": "짜박두부",
-   "count": 3,
-   "shows": [
-    "알토란"
-   ],
-   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745561",
-   "title": "'솔비♥ 결혼' 새신랑 이규한 추억 물국수·이모카세 짜박두부 레시피",
-   "t": "2026-11-08T17:08:00+09:00"
   },
   {
    "name": "콩물단팥죽",
@@ -210,6 +231,16 @@
    "t": "2026-11-08T17:08:00+09:00"
   },
   {
+   "name": "손두부",
+   "count": 2,
+   "shows": [
+    "알토란"
+   ],
+   "link": "https://www.bntnews.co.kr/article/view/bnt202611080075",
+   "title": "'알토란' 인제 손두부 맛집, 짜박두부 레시피",
+   "t": "2026-11-08T17:16:00+09:00"
+  },
+  {
    "name": "콩국수",
    "count": 1,
    "shows": [
@@ -228,16 +259,6 @@
    "link": "https://enter.etoday.co.kr/news/view/304808",
    "title": "' 편스토랑 ' 오윤아 들기름 콩국수·콩물 단팥죽 완성",
    "t": "2026-11-05T20:26:00+09:00"
-  },
-  {
-   "name": "손두부",
-   "count": 1,
-   "shows": [
-    "알토란"
-   ],
-   "link": "https://enter.etoday.co.kr/news/view/304929",
-   "title": "'알토란' 인제 손두부 맛집→짜박두부 레시피 소개",
-   "t": "2026-11-08T17:02:00+09:00"
   }
  ]
 }

@@ -103,7 +103,7 @@
     }
    ],
    "first": "00:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -123,15 +123,16 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 1
+    "nate_pop": 7,
+    "nate_int": 3
    },
    "count": 7,
    "inrank": true
@@ -360,7 +361,7 @@
     }
    ],
    "first": "00:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 7,
    "hours": [
     "00:08",
@@ -376,14 +377,15 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 43
+    "nate_int": 48
    },
    "count": 2,
    "inrank": true
@@ -477,7 +479,7 @@
     }
    ],
    "first": "00:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 9,
    "hours": [
     "00:08",
@@ -491,14 +493,15 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 41
+    "nate_int": 44
    },
    "count": 4,
    "inrank": true
@@ -550,11 +553,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 46
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c11",
@@ -686,7 +687,7 @@
     }
    ],
    "first": "00:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 4,
    "hours": [
     "00:08",
@@ -703,15 +704,16 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 9
+    "nate_pop": 14,
+    "nate_int": 11
    },
    "count": 10,
    "inrank": true
@@ -754,7 +756,7 @@
     }
    ],
    "first": "00:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 6,
    "hours": [
     "00:08",
@@ -774,15 +776,15 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 31
+    "nate_int": 39
    },
    "count": 4,
    "inrank": true
@@ -811,7 +813,7 @@
     }
    ],
    "first": "00:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 5,
    "hours": [
     "00:08",
@@ -831,14 +833,15 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 30
+    "nate_int": 41
    },
    "count": 2,
    "inrank": true
@@ -1249,21 +1252,22 @@
     }
    ],
    "first": "00:08",
-   "last": "15:08",
-   "best": 5,
+   "last": "16:08",
+   "best": 4,
    "hours": [
     "00:08",
     "01:10",
     "02:12",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 5
+    "nate_pop": 4,
+    "nate_int": 4
    },
    "count": 3,
    "inrank": true
@@ -1433,11 +1437,12 @@
     }
    ],
    "first": "00:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 20,
    "hours": [
     "00:08",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_int"
@@ -2272,22 +2277,22 @@
     }
    ],
    "first": "04:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 13,
    "hours": [
     "04:08",
     "05:08",
     "06:08",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 19
+    "nate_int": 32
    },
    "count": 2,
    "inrank": true
@@ -2482,7 +2487,7 @@
     }
    ],
    "first": "07:41",
-   "last": "15:08",
+   "last": "16:08",
    "best": 1,
    "hours": [
     "07:41",
@@ -2494,14 +2499,16 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 21
+    "nate_pop": 30,
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -2523,7 +2530,7 @@
     }
    ],
    "first": "07:41",
-   "last": "15:08",
+   "last": "16:08",
    "best": 2,
    "hours": [
     "07:41",
@@ -2535,14 +2542,15 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29,
+    "nate_pop": 23,
     "nate_int": 20
    },
    "count": 1,
@@ -2572,7 +2580,7 @@
     }
    ],
    "first": "07:41",
-   "last": "15:08",
+   "last": "16:08",
    "best": 2,
    "hours": [
     "07:41",
@@ -2584,14 +2592,15 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 36
+    "nate_int": 35
    },
    "count": 2,
    "inrank": true
@@ -2613,7 +2622,7 @@
     }
    ],
    "first": "07:41",
-   "last": "15:08",
+   "last": "16:08",
    "best": 5,
    "hours": [
     "07:41",
@@ -2625,14 +2634,15 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 35
+    "nate_int": 36
    },
    "count": 1,
    "inrank": true
@@ -2641,20 +2651,27 @@
    "id": "c60",
    "title": "44세 송혜교, 18세로 오해받아 와인 못 샀다…교복 입어도 될 판 (핑계고)",
    "titles": [
-    "44세 송혜교, 18세로 오해받아 와인 못 샀다…교복 입어도 될 판 (핑계고)"
+    "44세 송혜교, 18세로 오해받아 와인 못 샀다…교복 입어도 될 판 (핑계고)",
+    "44세 송혜교, 직각 어깨에 베이겠어…남다른 오프숄더 드레스 자태"
    ],
    "links": [
-    "https://news.nate.com/view/20261108n01552"
+    "https://news.nate.com/view/20261108n01552",
+    "https://news.nate.com/view/20261108n09503"
    ],
    "articles": [
     {
      "title": "44세 송혜교, 18세로 오해받아 와인 못 샀다…교복 입어도 될 판 (핑계고)",
      "link": "https://news.nate.com/view/20261108n01552",
      "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "44세 송혜교, 직각 어깨에 베이겠어…남다른 오프숄더 드레스 자태",
+     "link": "https://news.nate.com/view/20261108n09503",
+     "media": "뉴스엔"
     }
    ],
    "first": "07:41",
-   "last": "15:08",
+   "last": "16:08",
    "best": 8,
    "hours": [
     "07:41",
@@ -2666,7 +2683,8 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
@@ -2675,7 +2693,7 @@
    "now": {
     "nate_int": 34
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -2702,7 +2720,7 @@
     }
    ],
    "first": "07:41",
-   "last": "15:08",
+   "last": "16:08",
    "best": 10,
    "hours": [
     "07:41",
@@ -2711,15 +2729,16 @@
     "10:08",
     "11:10",
     "11:21",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 40
+    "nate_pop": 20,
+    "nate_int": 19
    },
    "count": 2,
    "inrank": true
@@ -2989,7 +3008,7 @@
     }
    ],
    "first": "09:10",
-   "last": "15:08",
+   "last": "16:08",
    "best": 1,
    "hours": [
     "09:10",
@@ -2999,7 +3018,8 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
@@ -3007,7 +3027,7 @@
    ],
    "now": {
     "nate_pop": 11,
-    "nate_int": 6
+    "nate_int": 7
    },
    "count": 1,
    "inrank": true
@@ -3016,20 +3036,27 @@
    "id": "c70",
    "title": "'사생활 논란→복귀' 황정민, 눈에 띄게 야윈 근황…\"살 더 빠졌다\"",
    "titles": [
-    "'사생활 논란→복귀' 황정민, 눈에 띄게 야윈 근황…\"살 더 빠졌다\""
+    "'사생활 논란→복귀' 황정민, 눈에 띄게 야윈 근황…\"살 더 빠졌다\"",
+    "\"더 빠졌다\"…황정민, 스토킹 논란 후 한층 야윈 근황"
    ],
    "links": [
-    "https://news.nate.com/view/20261107n13865"
+    "https://news.nate.com/view/20261107n13865",
+    "https://news.nate.com/view/20261108n06226"
    ],
    "articles": [
     {
      "title": "'사생활 논란→복귀' 황정민, 눈에 띄게 야윈 근황…\"살 더 빠졌다\"",
      "link": "https://news.nate.com/view/20261107n13865",
      "media": "스포츠조선"
+    },
+    {
+     "title": "\"더 빠졌다\"…황정민, 스토킹 논란 후 한층 야윈 근황",
+     "link": "https://news.nate.com/view/20261108n06226",
+     "media": "헤럴드경제"
     }
    ],
    "first": "09:10",
-   "last": "15:08",
+   "last": "16:08",
    "best": 4,
    "hours": [
     "09:10",
@@ -3039,16 +3066,17 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 42
+    "nate_int": 45
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -3068,7 +3096,7 @@
     }
    ],
    "first": "09:10",
-   "last": "15:08",
+   "last": "16:08",
    "best": 5,
    "hours": [
     "09:10",
@@ -3078,15 +3106,16 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 17
+    "nate_pop": 13,
+    "nate_int": 13
    },
    "count": 1,
    "inrank": true
@@ -3108,7 +3137,7 @@
     }
    ],
    "first": "09:10",
-   "last": "15:08",
+   "last": "16:08",
    "best": 16,
    "hours": [
     "09:10",
@@ -3118,14 +3147,15 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 26,
+    "nate_pop": 27,
     "nate_int": 28
    },
    "count": 1,
@@ -3200,14 +3230,16 @@
     "'차정원♥' 하정우, 결혼 앞두고 달라진 비주얼 공개",
     "'차정원♥' 하정우, 결혼 앞두고 확 젊어진 예비신랑…삭발머리 많이 자랐...",
     "\"시술의 힘?\" 하정우, 두 달 만에 대변신…결혼 앞두고 '홀쭉'",
-    "하정우♥차정원, 결혼 앞두고 나란히 파리行…벌써 신혼여행?"
+    "하정우♥차정원, 결혼 앞두고 나란히 파리行…벌써 신혼여행?",
+    "하정우·차정원, 결혼식 한 달 남기고 프랑스 파리서 포착 [스타엿보기]"
    ],
    "links": [
     "https://news.nate.com/view/20261108n03304",
     "https://news.nate.com/view/20261108n00122",
     "https://news.nate.com/view/20261107n07378",
     "https://news.nate.com/view/20261108n04114",
-    "https://news.nate.com/view/20261108n04525"
+    "https://news.nate.com/view/20261108n04525",
+    "https://news.nate.com/view/20261108n07345"
    ],
    "articles": [
     {
@@ -3234,10 +3266,15 @@
      "title": "하정우♥차정원, 결혼 앞두고 나란히 파리行…벌써 신혼여행?",
      "link": "https://news.nate.com/view/20261108n04525",
      "media": "스타투데이"
+    },
+    {
+     "title": "하정우·차정원, 결혼식 한 달 남기고 프랑스 파리서 포착 [스타엿보기]",
+     "link": "https://news.nate.com/view/20261108n07345",
+     "media": "스포츠투데이"
     }
    ],
    "first": "10:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 1,
    "hours": [
     "10:08",
@@ -3246,17 +3283,18 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 25
+    "nate_pop": 24,
+    "nate_int": 29
    },
-   "count": 5,
+   "count": 6,
    "inrank": true
   },
   {
@@ -3276,7 +3314,7 @@
     }
    ],
    "first": "10:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 2,
    "hours": [
     "10:08",
@@ -3285,14 +3323,15 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 33
+    "nate_int": 50
    },
    "count": 1,
    "inrank": true
@@ -3347,7 +3386,7 @@
     }
    ],
    "first": "10:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 4,
    "hours": [
     "10:08",
@@ -3356,15 +3395,16 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 24
+    "nate_pop": 21,
+    "nate_int": 27
    },
    "count": 1,
    "inrank": true
@@ -3451,7 +3491,7 @@
     }
    ],
    "first": "11:10",
-   "last": "15:08",
+   "last": "16:08",
    "best": 5,
    "hours": [
     "11:10",
@@ -3459,15 +3499,16 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 11
+    "nate_pop": 12,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -3489,7 +3530,7 @@
     }
    ],
    "first": "11:10",
-   "last": "15:08",
+   "last": "16:08",
    "best": 21,
    "hours": [
     "11:10",
@@ -3497,13 +3538,14 @@
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 23
+    "nate_int": 24
    },
    "count": 1,
    "inrank": true
@@ -3525,22 +3567,23 @@
     }
    ],
    "first": "11:10",
-   "last": "15:08",
+   "last": "16:08",
    "best": 16,
    "hours": [
     "11:10",
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 18
+    "nate_pop": 19,
+    "nate_int": 25
    },
    "count": 1,
    "inrank": true
@@ -3633,22 +3676,23 @@
     }
    ],
    "first": "11:21",
-   "last": "15:08",
-   "best": 8,
+   "last": "16:08",
+   "best": 5,
    "hours": [
     "11:21",
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 44
+    "nate_pop": 5,
+    "nate_int": 8
    },
    "count": 2,
    "inrank": true
@@ -3670,21 +3714,22 @@
     }
    ],
    "first": "12:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 1,
    "hours": [
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 2
+    "nate_pop": 8,
+    "nate_int": 6
    },
    "count": 1,
    "inrank": true
@@ -3693,36 +3738,44 @@
    "id": "c88",
    "title": "박진영, '사이비 의혹' 해명하더니…\"우리 교회 알려지고 있어, 한 번만 ...",
    "titles": [
-    "박진영, '사이비 의혹' 해명하더니…\"우리 교회 알려지고 있어, 한 번만 ..."
+    "박진영, '사이비 의혹' 해명하더니…\"우리 교회 알려지고 있어, 한 번만 ...",
+    "박진영, '사이비 의혹'에도 종교 활동은 ing…\"들어보셨음 좋겠는데\""
    ],
    "links": [
-    "https://news.nate.com/view/20261108n03176"
+    "https://news.nate.com/view/20261108n03176",
+    "https://news.nate.com/view/20261108n06978"
    ],
    "articles": [
     {
      "title": "박진영, '사이비 의혹' 해명하더니…\"우리 교회 알려지고 있어, 한 번만 ...",
      "link": "https://news.nate.com/view/20261108n03176",
      "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "박진영, '사이비 의혹'에도 종교 활동은 ing…\"들어보셨음 좋겠는데\"",
+     "link": "https://news.nate.com/view/20261108n06978",
+     "media": "스포츠조선"
     }
    ],
    "first": "12:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 8,
    "hours": [
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 14
+    "nate_pop": 28,
+    "nate_int": 21
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -3774,21 +3827,22 @@
     }
    ],
    "first": "12:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 12,
    "hours": [
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 12
+    "nate_pop": 17,
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -3817,20 +3871,22 @@
     }
    ],
    "first": "12:08",
-   "last": "15:08",
-   "best": 19,
+   "last": "16:08",
+   "best": 16,
    "hours": [
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19
+    "nate_pop": 16,
+    "nate_int": 26
    },
    "count": 2,
    "inrank": true
@@ -3852,20 +3908,21 @@
     }
    ],
    "first": "12:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 25,
    "hours": [
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 39
+    "nate_int": 40
    },
    "count": 1,
    "inrank": true
@@ -3894,21 +3951,22 @@
     }
    ],
    "first": "12:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 7,
    "hours": [
     "12:08",
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 13
+    "nate_pop": 18,
+    "nate_int": 18
    },
    "count": 2,
    "inrank": true
@@ -3930,20 +3988,21 @@
     }
    ],
    "first": "13:10",
-   "last": "15:08",
+   "last": "16:08",
    "best": 3,
    "hours": [
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 8
+    "nate_pop": 10,
+    "nate_int": 10
    },
    "count": 1,
    "inrank": true
@@ -4053,20 +4112,21 @@
     }
    ],
    "first": "13:10",
-   "last": "15:08",
-   "best": 30,
+   "last": "16:08",
+   "best": 29,
    "hours": [
     "13:10",
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 32
+    "nate_pop": 29,
+    "nate_int": 33
    },
    "count": 1,
    "inrank": true
@@ -4098,11 +4158,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 29
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c100",
@@ -4121,19 +4179,20 @@
     }
    ],
    "first": "14:10",
-   "last": "15:08",
+   "last": "16:08",
    "best": 15,
    "hours": [
     "14:10",
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 15
+    "nate_pop": 25,
+    "nate_int": 31
    },
    "count": 1,
    "inrank": true
@@ -4184,18 +4243,19 @@
     }
    ],
    "first": "15:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 1,
    "hours": [
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 3
+    "nate_pop": 2,
+    "nate_int": 2
    },
    "count": 1,
    "inrank": true
@@ -4217,18 +4277,19 @@
     }
    ],
    "first": "15:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 2,
    "hours": [
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 4
+    "nate_pop": 3,
+    "nate_int": 5
    },
    "count": 1,
    "inrank": true
@@ -4250,18 +4311,19 @@
     }
    ],
    "first": "15:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 5,
    "hours": [
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 7
+    "nate_pop": 6,
+    "nate_int": 9
    },
    "count": 1,
    "inrank": true
@@ -4283,17 +4345,18 @@
     }
    ],
    "first": "15:08",
-   "last": "15:08",
+   "last": "16:08",
    "best": 13,
    "hours": [
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
+    "nate_pop": 15,
     "nate_int": 16
    },
    "count": 1,
@@ -4316,18 +4379,19 @@
     }
    ],
    "first": "15:08",
-   "last": "15:08",
-   "best": 17,
+   "last": "16:08",
+   "best": 9,
    "hours": [
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 26
+    "nate_pop": 9,
+    "nate_int": 15
    },
    "count": 1,
    "inrank": true
@@ -4349,16 +4413,50 @@
     }
    ],
    "first": "15:08",
-   "last": "15:08",
-   "best": 47,
+   "last": "16:08",
+   "best": 43,
    "hours": [
-    "15:08"
+    "15:08",
+    "16:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 47
+    "nate_int": 43
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c108",
+   "title": "양홍원, '불륜 의혹' 16일만에 기습 근황…담배 물고 '의미심장 글'",
+   "titles": [
+    "양홍원, '불륜 의혹' 16일만에 기습 근황…담배 물고 '의미심장 글'"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261108n09260"
+   ],
+   "articles": [
+    {
+     "title": "양홍원, '불륜 의혹' 16일만에 기습 근황…담배 물고 '의미심장 글'",
+     "link": "https://news.nate.com/view/20261108n09260",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "16:08",
+   "last": "16:08",
+   "best": 1,
+   "hours": [
+    "16:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 1,
+    "nate_int": 1
    },
    "count": 1,
    "inrank": true
@@ -4508,9 +4606,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "16:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-08T15:08:32.529074+09:00",
+ "updated": "2026-11-08T16:08:30.627065+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

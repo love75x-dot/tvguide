@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10T07:10:46.587270+09:00",
+ "updated": "2026-11-10T08:10:43.205426+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 30,
+   "count": 29,
    "angles": [
     "에 좋은",
     "부작용",
@@ -171,12 +171,31 @@
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 15,
+   "count": 17,
    "angles": [
     "부작용",
+    "먹는 법",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "\"오리고기보다 단백질 많다고?\"… 의외의 고단백 식품 4가지",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69782",
+     "t": "2026-11-10T08:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "만성콩팥병 환자, 단백질 지나치게 줄이면 사망 위험 117%↑",
+     "link": "https://view.asiae.co.kr/article/2026111007475002674",
+     "t": "2026-11-10T07:47:00+09:00",
+     "by": "view.asiae.co.kr"
+    },
+    {
+     "title": "만성 콩팥병 환자, 단백질 섭취 줄이면 사망 위험 상승 연구 결과 발표",
+     "link": "https://www.gokorea.kr/news/articleView.html?idxno=884861",
+     "t": "2026-11-10T07:28:00+09:00",
+     "by": "gokorea.kr"
+    },
     {
      "title": "만성콩팥병, 단백질 과도하게 줄이면 사망 위험↑",
      "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044426",
@@ -188,24 +207,6 @@
      "link": "https://www.dailian.co.kr/news/view/1712822/?sc=Naver",
      "t": "2026-11-10T06:01:00+09:00",
      "by": "dailian.co.kr"
-    },
-    {
-     "title": "만성콩팥병 환자, 단백질 과도하게 줄이면 투석·사망 위험 높아져",
-     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3015985",
-     "t": "2026-11-10T06:00:00+09:00",
-     "by": "bosa.co.kr"
-    },
-    {
-     "title": "만성 콩팥병 환자, 단백질 무조건 줄이면 '독'…투석·사망 위험",
-     "link": "https://www.yna.co.kr/view/AKR20261109131700530?input=1195m",
-     "t": "2026-11-10T06:00:00+09:00",
-     "by": "yna.co.kr"
-    },
-    {
-     "title": "콩팥 지키려 단백질 끊었다가 '독'…투석·사망 위험 되레 커져",
-     "link": "https://www.news1.kr/bio/welfare-medical/6348106",
-     "t": "2026-11-10T06:00:00+09:00",
-     "by": "news1.kr"
     }
    ]
   },
@@ -255,7 +256,7 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 10,
+   "count": 9,
    "angles": [
     "에 좋은",
     "부작용"
@@ -632,36 +633,6 @@
    ]
   },
   {
-   "name": "염증",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "부작용",
-    "효능",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "염증 수치 낮춰도 심근경색·뇌졸중 예방 효과 없어…심혈관 신약 임상...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623692",
-     "t": "2026-11-08T13:28:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "\"11월이면 더 위험하다\"… 전신 질환 의 불씨 '만성 염증' 경고",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745082",
-     "t": "2026-11-07T16:42:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "[헬스토크] 내장지방, 해로운 이유…염증·섬유화 부르는 단백질 규명",
-     "link": "https://www.dongascience.com/news/view/80681",
-     "t": "2026-11-07T08:01:00+09:00",
-     "by": "dongascience.com"
-    }
-   ]
-  },
-  {
    "name": "우유",
    "kind": "식품·제철",
    "count": 3,
@@ -831,6 +802,30 @@
      "link": "https://www.donga.com/news/Health/article/all/20261106/134965642/2",
      "t": "2026-11-07T11:31:00+09:00",
      "by": "donga.com"
+    }
+   ]
+  },
+  {
+   "name": "염증",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [
+    "효능",
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "염증 수치 낮춰도 심근경색·뇌졸중 예방 효과 없어…심혈관 신약 임상...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623692",
+     "t": "2026-11-08T13:28:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "\"11월이면 더 위험하다\"… 전신 질환 의 불씨 '만성 염증' 경고",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745082",
+     "t": "2026-11-07T16:42:00+09:00",
+     "by": "gukjenews.com"
     }
    ]
   },

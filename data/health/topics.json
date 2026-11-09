@@ -1,15 +1,21 @@
 {
- "updated": "2026-11-09T09:47:54.860374+09:00",
+ "updated": "2026-11-09T10:08:36.348706+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 48,
+   "count": 44,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "춘천시, 독감 유행 지속에 예방접종·개인위생 관리 당부",
+     "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081067",
+     "t": "2026-11-09T10:04:00+09:00",
+     "by": "shinailbo.co.kr"
+    },
     {
      "title": "독감 환자 다시 증가…원주시, 어린이·고령층 예방접종 당부",
      "link": "https://www.sentv.co.kr/article/view/sentv202611090013",
@@ -33,19 +39,13 @@
      "link": "http://www.gndomin.com/news/articleView.html?idxno=495961",
      "t": "2026-11-08T18:10:00+09:00",
      "by": "gndomin.com"
-    },
-    {
-     "title": "독감 다시 확산…어린이 환자 급증·고령층 입원 주의",
-     "link": "https://www.hidomin.com/news/articleView.html?idxno=728396",
-     "t": "2026-11-08T15:58:00+09:00",
-     "by": "hidomin.com"
     }
    ]
   },
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 22,
+   "count": 20,
    "angles": [
     "에 좋은"
    ],
@@ -85,13 +85,19 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 19,
+   "count": 20,
    "angles": [
     "에 좋은",
     "부작용",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "심호흡만 잘해도… 혈압 낮게 유지하는 데 도움 되는 방법",
+     "link": "https://kormedi.com/?p=2901060",
+     "t": "2026-11-09T10:04:00+09:00",
+     "by": "kormedi.com"
+    },
     {
      "title": "“혈압·LDL 함께 낮추고 혈당 영향까지 고려”…심혈관질환 예방 위한...",
      "link": "https://www.medigatenews.com/news/2898980759",
@@ -115,12 +121,6 @@
      "link": "https://sjbnews.com/news/news.php?number=891940",
      "t": "2026-11-08T18:22:00+09:00",
      "by": "sjbnews.com"
-    },
-    {
-     "title": "\"커피 마시면 더 두근거리네\"…커피 끊으면 혈압도 내려갈까",
-     "link": "https://view.asiae.co.kr/article/2026110812275185324",
-     "t": "2026-11-08T12:46:00+09:00",
-     "by": "view.asiae.co.kr"
     }
    ]
   },
@@ -327,48 +327,6 @@
    ]
   },
   {
-   "name": "염증",
-   "kind": "질환·증상",
-   "count": 7,
-   "angles": [
-    "부작용",
-    "효능",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "염증 수치 낮춰도 심근경색·뇌졸중 예방 효과 없어…심혈관 신약 임상...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623692",
-     "t": "2026-11-08T13:28:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "\"11월이면 더 위험하다\"… 전신 질환 의 불씨 '만성 염증' 경고",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745082",
-     "t": "2026-11-07T16:42:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "[헬스토크] 내장지방, 해로운 이유…염증·섬유화 부르는 단백질 규명",
-     "link": "https://www.dongascience.com/news/view/80681",
-     "t": "2026-11-07T08:01:00+09:00",
-     "by": "dongascience.com"
-    },
-    {
-     "title": "“빵에 버터 대신 아보카도 바르세요”… 혈관 염증 막는 ‘똑똑한 지방...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602256.html",
-     "t": "2026-11-07T07:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "“맹장 수술했는데 폐에 염증이?”⋯21세男, 뒤늦게 겪은 증상은",
-     "link": "https://kormedi.com/?p=2900168",
-     "t": "2026-11-06T18:02:00+09:00",
-     "by": "kormedi.com"
-    }
-   ]
-  },
-  {
    "name": "마그네슘",
    "kind": "영양제",
    "count": 6,
@@ -443,6 +401,47 @@
      "link": "https://www.imaeil.com/page/view/2026110812024590733",
      "t": "2026-11-08T12:04:00+09:00",
      "by": "imaeil.com"
+    }
+   ]
+  },
+  {
+   "name": "유방암",
+   "kind": "질환·증상",
+   "count": 6,
+   "angles": [
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "온병원, 유방암 수술 표준진료지침 가동…진단부터 퇴원까지 체계화",
+     "link": "https://www.etoday.co.kr/news/view/2645669",
+     "t": "2026-11-09T10:10:00+09:00",
+     "by": "etoday.co.kr"
+    },
+    {
+     "title": "“수술 건수보다 환자 안전”… 온병원 ‘유방암 표준진료지침’ 가동",
+     "link": "https://sports.donga.com/region/article/all/20261109/134989590/1",
+     "t": "2026-11-09T09:39:00+09:00",
+     "by": "sports.donga.com"
+    },
+    {
+     "title": "“유방암 예방하려면 ‘이 음식 ’ 자주 드세요”…예방에 좋은 습관 6가...",
+     "link": "https://kormedi.com/?p=2900167",
+     "t": "2026-11-08T22:06:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "매주 아이스크림 먹으니 벌어진 일… “유방암 위험 26% 뛰었다”",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602585.html",
+     "t": "2026-11-08T20:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "“일주일에 두 번쯤이야” 했는데…‘이것’ 즐겨 먹은 여성들 유방암 ...",
+     "link": "https://www.sedaily.com/article/20111438?ref=naver",
+     "t": "2026-11-07T12:23:00+09:00",
+     "by": "sedaily.com"
     }
    ]
   },
@@ -529,43 +528,44 @@
    ]
   },
   {
-   "name": "유방암",
+   "name": "염증",
    "kind": "질환·증상",
    "count": 5,
    "angles": [
-    "에 좋은",
-    "부작용"
+    "부작용",
+    "효능",
+    "에 좋은"
    ],
    "items": [
     {
-     "title": "“수술 건수보다 환자 안전”… 온병원 ‘유방암 표준진료지침’ 가동",
-     "link": "https://sports.donga.com/region/article/all/20261109/134989590/1",
-     "t": "2026-11-09T09:39:00+09:00",
-     "by": "sports.donga.com"
+     "title": "염증 수치 낮춰도 심근경색·뇌졸중 예방 효과 없어…심혈관 신약 임상...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623692",
+     "t": "2026-11-08T13:28:00+09:00",
+     "by": "mdtoday.co.kr"
     },
     {
-     "title": "“유방암 예방하려면 ‘이 음식 ’ 자주 드세요”…예방에 좋은 습관 6가...",
-     "link": "https://kormedi.com/?p=2900167",
-     "t": "2026-11-08T22:06:00+09:00",
-     "by": "kormedi.com"
+     "title": "\"11월이면 더 위험하다\"… 전신 질환 의 불씨 '만성 염증' 경고",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745082",
+     "t": "2026-11-07T16:42:00+09:00",
+     "by": "gukjenews.com"
     },
     {
-     "title": "매주 아이스크림 먹으니 벌어진 일… “유방암 위험 26% 뛰었다”",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602585.html",
-     "t": "2026-11-08T20:01:00+09:00",
+     "title": "[헬스토크] 내장지방, 해로운 이유…염증·섬유화 부르는 단백질 규명",
+     "link": "https://www.dongascience.com/news/view/80681",
+     "t": "2026-11-07T08:01:00+09:00",
+     "by": "dongascience.com"
+    },
+    {
+     "title": "“빵에 버터 대신 아보카도 바르세요”… 혈관 염증 막는 ‘똑똑한 지방...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602256.html",
+     "t": "2026-11-07T07:01:00+09:00",
      "by": "health.chosun.com"
     },
     {
-     "title": "“일주일에 두 번쯤이야” 했는데…‘이것’ 즐겨 먹은 여성들 유방암 ...",
-     "link": "https://www.sedaily.com/article/20111438?ref=naver",
-     "t": "2026-11-07T12:23:00+09:00",
-     "by": "sedaily.com"
-    },
-    {
-     "title": "위고비, 마운자로와 유방암 / 세브란스병원 외과 천종호",
-     "link": "http://aftertherain.kr/sub/contents/view.php?seq=98308",
-     "t": "2026-11-06T13:18:00+09:00",
-     "by": "aftertherain.kr"
+     "title": "“맹장 수술했는데 폐에 염증이?”⋯21세男, 뒤늦게 겪은 증상은",
+     "link": "https://kormedi.com/?p=2900168",
+     "t": "2026-11-06T18:02:00+09:00",
+     "by": "kormedi.com"
     }
    ]
   },
@@ -744,32 +744,6 @@
    ]
   },
   {
-   "name": "면역력",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [],
-   "items": [
-    {
-     "title": "[Health&] 면역력만 챙기던 건기식은 옛말, 건강 고민 따라 기능성 세분...",
-     "link": "https://www.joongang.co.kr/article/25476849",
-     "t": "2026-11-09T05:30:00+09:00",
-     "by": "joongang.co.kr"
-    },
-    {
-     "title": "\"추울 때는 체온이 곧 면역력…겨울철 야외 운동 30분 넘기지 마세요\"",
-     "link": "https://www.newsis.com/view/NISX20261105_0003855893",
-     "t": "2026-11-08T18:00:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "“알로에가 면역력에도?”⋯환절기에 주목받는 ‘이유’ 있었다",
-     "link": "https://kormedi.com/?p=2898764",
-     "t": "2026-11-06T10:06:00+09:00",
-     "by": "kormedi.com"
-    }
-   ]
-  },
-  {
    "name": "사우나",
    "kind": "운동·생활",
    "count": 3,
@@ -873,6 +847,46 @@
    ]
   },
   {
+   "name": "러닝",
+   "kind": "운동·생활",
+   "count": 2,
+   "angles": [],
+   "items": [
+    {
+     "title": "액사이브, 러닝·헬스 등 운동 환경 고려한 '호흡확장밴드' 출시",
+     "link": "https://www.kbsm.net/news/view.php?idx=540658",
+     "t": "2026-11-09T10:02:00+09:00",
+     "by": "kbsm.net"
+    },
+    {
+     "title": "추위 속 러닝, 기록보다 심장부터 챙겨야 [ 건강 +]",
+     "link": "https://www.segye.com/newsView/20261108508912?OutUrl=naver",
+     "t": "2026-11-09T06:04:00+09:00",
+     "by": "segye.com"
+    }
+   ]
+  },
+  {
+   "name": "면역력",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [],
+   "items": [
+    {
+     "title": "[Health&] 면역력만 챙기던 건기식은 옛말, 건강 고민 따라 기능성 세분...",
+     "link": "https://www.joongang.co.kr/article/25476849",
+     "t": "2026-11-09T05:30:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "\"추울 때는 체온이 곧 면역력…겨울철 야외 운동 30분 넘기지 마세요\"",
+     "link": "https://www.newsis.com/view/NISX20261105_0003855893",
+     "t": "2026-11-08T18:00:00+09:00",
+     "by": "newsis.com"
+    }
+   ]
+  },
+  {
    "name": "연근",
    "kind": "식품·제철",
    "count": 2,
@@ -915,6 +929,26 @@
    ]
   },
   {
+   "name": "폐암",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [],
+   "items": [
+    {
+     "title": "J&J, 폐암 '블록버스터 목전'..유한양행 \"토탈 3억弗 수령\"",
+     "link": "https://www.biospectator.com/view/news_view.php?varAtcId=30335",
+     "t": "2026-11-09T09:50:00+09:00",
+     "by": "biospectator.com"
+    },
+    {
+     "title": "\"암 사망률 1위 '폐암', 이제는 장기 치료로 패러다임 변화\"",
+     "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80537",
+     "t": "2026-11-06T12:10:00+09:00",
+     "by": "hitnews.co.kr"
+    }
+   ]
+  },
+  {
    "name": "갱년기",
    "kind": "질환·증상",
    "count": 1,
@@ -939,34 +973,6 @@
      "link": "https://www.yna.co.kr/view/AKR20261107010300004?input=1195m",
      "t": "2026-11-07T09:00:00+09:00",
      "by": "yna.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "고구마",
-   "kind": "식품·제철",
-   "count": 1,
-   "angles": [],
-   "items": [
-    {
-     "title": "“당뇨 있다면 귤·고구마 얼마나?”… 혈당 좌우하는 제철 간식의 함정",
-     "link": "https://kormedi.com/?p=2899446",
-     "t": "2026-11-07T12:04:00+09:00",
-     "by": "kormedi.com"
-    }
-   ]
-  },
-  {
-   "name": "관절염",
-   "kind": "질환·증상",
-   "count": 1,
-   "angles": [],
-   "items": [
-    {
-     "title": "하루 한 알로 건선성 관절염 잡은 J&J… 글로벌 면역치료제 시장 판도 뒤...",
-     "link": "https://www.g-enews.com/view.php?ud=20261108072521187fda4f5ab74_1",
-     "t": "2026-11-08T07:34:00+09:00",
-     "by": "g-enews.com"
     }
    ]
   }

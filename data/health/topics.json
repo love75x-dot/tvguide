@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:10:49.956990+09:00",
+ "updated": "2026-11-09T16:08:45.208554+09:00",
  "topics": [
   {
    "name": "독감",
@@ -10,6 +10,18 @@
     "부작용"
    ],
    "items": [
+    {
+     "title": "독감 다시 확산…전북 초등학생 의심환자 급증",
+     "link": "https://news.skbroadband.com/news/articleView.html?idxno=242709",
+     "t": "2026-11-09T15:56:00+09:00",
+     "by": "skbroadband.com"
+    },
+    {
+     "title": "독감 다시 확산세…어린이 등 감염 취약계층 예방접종 서둘러야",
+     "link": "http://news.lghellovision.net/news/articleView.html?idxno=561560",
+     "t": "2026-11-09T15:54:00+09:00",
+     "by": "lghellovision.net"
+    },
     {
      "title": "겨울철 유방암 항암치료 환자, 독감 주의",
      "link": "https://dhnews.co.kr/news/view/1065592910304224",
@@ -27,18 +39,6 @@
      "link": "http://www.bokuennews.com/news/article.html?no=286832",
      "t": "2026-11-09T14:52:00+09:00",
      "by": "bokuennews.com"
-    },
-    {
-     "title": "원주시 \" 독감 다시 확산…어린이·어르신 등 접종 서둘러야\"",
-     "link": "https://www.yna.co.kr/view/AKR20261109095500062?input=1195m",
-     "t": "2026-11-09T14:10:00+09:00",
-     "by": "yna.co.kr"
-    },
-    {
-     "title": "독감 환자 다시 증가…질병청 \"겨울철 시작 전 예방접종 당부\"",
-     "link": "https://www.news1.kr/bio/pharmaceutical-bio/6347652",
-     "t": "2026-11-09T13:36:00+09:00",
-     "by": "news1.kr"
     }
    ]
   },
@@ -88,7 +88,7 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 21,
+   "count": 20,
    "angles": [
     "에 좋은"
    ],
@@ -168,12 +168,18 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 11,
+   "count": 12,
    "angles": [
     "부작용",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "감기 나았는데 기침만 3주째…병원 언제 가야 할까 [건강을 부탁해]",
+     "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20261109601013&wlog_tag3=naver",
+     "t": "2026-11-09T15:31:00+09:00",
+     "by": "nownews.seoul.co.kr"
+    },
     {
      "title": "\" 감기 약 먹고 두통약 또 먹었다면?\"…청소년 약물 중독 주의",
      "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80833",
@@ -197,19 +203,13 @@
      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1022767",
      "t": "2026-11-08T13:18:00+09:00",
      "by": "cnbnews.com"
-    },
-    {
-     "title": "아침 최저 -1도·'5㎜ 안팎' 중부 지방 한때 비…감기에 좋은 유자차, '...",
-     "link": "https://www.dailian.co.kr/news/view/1712111/?sc=Naver",
-     "t": "2026-11-08T09:02:00+09:00",
-     "by": "dailian.co.kr"
     }
    ]
   },
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 11,
+   "count": 10,
    "angles": [
     "부작용",
     "에 좋은"
@@ -250,13 +250,19 @@
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 9,
+   "count": 10,
    "angles": [
     "에 좋은",
     "부작용",
     "효능"
    ],
    "items": [
+    {
+     "title": "치매 위험 조기진단 길 열리나…발병 전에도 ‘뇌 활동’ 분석해 예측",
+     "link": "https://www.donga.com/news/Health/article/all/20261109/134990660/1",
+     "t": "2026-11-09T15:51:00+09:00",
+     "by": "donga.com"
+    },
     {
      "title": "[특집] 군립병원부터 치매 예방 까지…양평군, 생애주기 의료안전망 구축...",
      "link": "https://www.g-enews.com/view.php?ud=202611091118205357e99a18c428_1",
@@ -280,50 +286,6 @@
      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36006",
      "t": "2026-11-09T10:42:00+09:00",
      "by": "biotimes.co.kr"
-    },
-    {
-     "title": "치매 위험 줄여주는 \"커피\"",
-     "link": "http://www.whosaeng.com/175142",
-     "t": "2026-11-09T06:52:00+09:00",
-     "by": "whosaeng.com"
-    }
-   ]
-  },
-  {
-   "name": "고혈압",
-   "kind": "질환·증상",
-   "count": 8,
-   "angles": [],
-   "items": [
-    {
-     "title": "[건강365]-고혈압 어떻게 관리해야 할까요?",
-     "link": "https://news.knn.co.kr/news/article/194203",
-     "t": "2026-11-09T10:46:00+09:00",
-     "by": "knn.co.kr"
-    },
-    {
-     "title": "평생먹던 혈압약 끊었는데 '정상'…고혈압 치료 판도 바꿀 '신약' [매일...",
-     "link": "https://www.imaeil.com/page/view/2026110907472084653",
-     "t": "2026-11-09T08:01:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "고혈압 관리 , 혈압 수치 넘어 동반질환·대사 특성까지 고려해야",
-     "link": "https://www.monews.co.kr/news/articleView.html?idxno=415215",
-     "t": "2026-11-09T05:58:00+09:00",
-     "by": "monews.co.kr"
-    },
-    {
-     "title": "구글 스마트워치 AI, 고혈압 환자 65.8% 포착…진료실 측정 55.3%보다 높...",
-     "link": "https://www.wikitree.co.kr/articles/1172896",
-     "t": "2026-11-08T22:28:00+09:00",
-     "by": "wikitree.co.kr"
-    },
-    {
-     "title": "AI 스마트워치로 고혈압 선별 가능성 확인…병원 혈압검사와 유사한 정...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623601",
-     "t": "2026-11-07T15:46:00+09:00",
-     "by": "mdtoday.co.kr"
     }
    ]
   },
@@ -405,6 +367,44 @@
      "link": "https://www.vegannews.co.kr/news/article.html?no=402248",
      "t": "2026-11-08T22:32:00+09:00",
      "by": "vegannews.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "고혈압",
+   "kind": "질환·증상",
+   "count": 7,
+   "angles": [],
+   "items": [
+    {
+     "title": "[건강365]-고혈압 어떻게 관리해야 할까요?",
+     "link": "https://news.knn.co.kr/news/article/194203",
+     "t": "2026-11-09T10:46:00+09:00",
+     "by": "knn.co.kr"
+    },
+    {
+     "title": "평생먹던 혈압약 끊었는데 '정상'…고혈압 치료 판도 바꿀 '신약' [매일...",
+     "link": "https://www.imaeil.com/page/view/2026110907472084653",
+     "t": "2026-11-09T08:01:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "고혈압 관리 , 혈압 수치 넘어 동반질환·대사 특성까지 고려해야",
+     "link": "https://www.monews.co.kr/news/articleView.html?idxno=415215",
+     "t": "2026-11-09T05:58:00+09:00",
+     "by": "monews.co.kr"
+    },
+    {
+     "title": "구글 스마트워치 AI, 고혈압 환자 65.8% 포착…진료실 측정 55.3%보다 높...",
+     "link": "https://www.wikitree.co.kr/articles/1172896",
+     "t": "2026-11-08T22:28:00+09:00",
+     "by": "wikitree.co.kr"
+    },
+    {
+     "title": "AI 스마트워치로 고혈압 선별 가능성 확인…병원 혈압검사와 유사한 정...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623601",
+     "t": "2026-11-07T15:46:00+09:00",
+     "by": "mdtoday.co.kr"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:10:49.956990+09:00",
+ "updated": "2026-11-09T16:08:45.208554+09:00",
  "hot": [
   {
    "name": "사이버트럭",
@@ -14,14 +14,6 @@
    ]
   },
   {
-   "name": "투싼",
-   "count": 10,
-   "prev": 1,
-   "rise": -19,
-   "moto": false,
-   "why": []
-  },
-  {
    "name": "아반떼",
    "count": 6,
    "prev": 3,
@@ -32,22 +24,30 @@
    ]
   },
   {
-   "name": "EV5",
-   "count": 4,
+   "name": "투싼",
+   "count": 6,
    "prev": 1,
-   "rise": -6,
+   "rise": -19,
    "moto": false,
    "why": []
   },
   {
    "name": "PV5",
    "count": 3,
-   "prev": 7,
+   "prev": 8,
    "rise": -16,
    "moto": false,
    "why": [
     "출시"
    ]
+  },
+  {
+   "name": "EV5",
+   "count": 3,
+   "prev": 1,
+   "rise": -6,
+   "moto": false,
+   "why": []
   },
   {
    "name": "GV90",
@@ -66,26 +66,28 @@
    "why": []
   },
   {
+   "name": "모델 Y",
+   "count": 1,
+   "prev": 5,
+   "rise": -14,
+   "moto": false,
+   "why": [
+    "보조금"
+   ]
+  },
+  {
+   "name": "레이",
+   "count": 1,
+   "prev": 0,
+   "rise": -6,
+   "moto": false,
+   "why": []
+  },
+  {
    "name": "모델 3",
    "count": 1,
    "prev": 0,
    "rise": -10,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "S클래스",
-   "count": 1,
-   "prev": 1,
-   "rise": -25,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "E클래스",
-   "count": 1,
-   "prev": 0,
-   "rise": -6,
    "moto": false,
    "why": []
   }

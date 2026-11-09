@@ -1,15 +1,22 @@
 {
- "updated": "2026-11-09T20:13:51.761071+09:00",
+ "updated": "2026-11-09T21:10:42.901971+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 29,
+   "count": 30,
    "angles": [
     "에 좋은",
-    "부작용"
+    "부작용",
+    "먹는 법"
    ],
    "items": [
+    {
+     "title": "\"감기약 먹으면 낫겠지\"…방심하다 독감 합병증",
+     "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229926",
+     "t": "2026-11-09T20:53:00+09:00",
+     "by": "mbn.co.kr"
+    },
     {
      "title": "“콜록콜록…” 전남광주서도 초겨울 독감 주의보",
      "link": "http://www.kjdaily.com/article.php?aid=1794218553691712005",
@@ -33,19 +40,13 @@
      "link": "http://news.lghellovision.net/news/articleView.html?idxno=561560",
      "t": "2026-11-09T15:54:00+09:00",
      "by": "lghellovision.net"
-    },
-    {
-     "title": "겨울철 유방암 항암치료 환자, 독감 주의",
-     "link": "https://dhnews.co.kr/news/view/1065592910304224",
-     "t": "2026-11-09T15:06:00+09:00",
-     "by": "dhnews.co.kr"
     }
    ]
   },
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 23,
+   "count": 22,
    "angles": [
     "에 좋은",
     "효능"
@@ -80,49 +81,6 @@
      "link": "https://kormedi.com/?p=2901255",
      "t": "2026-11-09T17:04:00+09:00",
      "by": "kormedi.com"
-    }
-   ]
-  },
-  {
-   "name": "혈압",
-   "kind": "질환·증상",
-   "count": 20,
-   "angles": [
-    "에 좋은",
-    "효능",
-    "부작용",
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "새 고 혈압 약 끊었는데도 혈압 낮게 유지⋯최대 2년 이어진 효과",
-     "link": "https://kormedi.com/?p=2901524",
-     "t": "2026-11-09T14:43:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "\"혈압 낮추고 배변도 돕는다?\"… 연구로 알아본 '아마씨' 효능 5가지",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69767",
-     "t": "2026-11-09T11:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "부안군 보건소, 만성질환자 혈압· 혈당 계 무료 대여",
-     "link": "https://www.ibuan.com/news/articleView.html?idxno=56714",
-     "t": "2026-11-09T10:38:00+09:00",
-     "by": "ibuan.com"
-    },
-    {
-     "title": "심호흡만 잘해도… 혈압 낮게 유지하는 데 도움 되는 방법",
-     "link": "https://kormedi.com/?p=2901060",
-     "t": "2026-11-09T10:04:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "“혈압·LDL 함께 낮추고 혈당 영향까지 고려”…심혈관질환 예방 위한...",
-     "link": "https://www.medigatenews.com/news/2898980759",
-     "t": "2026-11-09T08:52:00+09:00",
-     "by": "medigatenews.com"
     }
    ]
   },
@@ -163,6 +121,49 @@
      "link": "http://www.metroseoul.co.kr/article/20261109500179",
      "t": "2026-11-09T13:44:00+09:00",
      "by": "metroseoul.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "혈압",
+   "kind": "질환·증상",
+   "count": 19,
+   "angles": [
+    "에 좋은",
+    "효능",
+    "부작용",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "새 고 혈압 약 끊었는데도 혈압 낮게 유지⋯최대 2년 이어진 효과",
+     "link": "https://kormedi.com/?p=2901524",
+     "t": "2026-11-09T14:43:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "\"혈압 낮추고 배변도 돕는다?\"… 연구로 알아본 '아마씨' 효능 5가지",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69767",
+     "t": "2026-11-09T11:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "부안군 보건소, 만성질환자 혈압· 혈당 계 무료 대여",
+     "link": "https://www.ibuan.com/news/articleView.html?idxno=56714",
+     "t": "2026-11-09T10:38:00+09:00",
+     "by": "ibuan.com"
+    },
+    {
+     "title": "심호흡만 잘해도… 혈압 낮게 유지하는 데 도움 되는 방법",
+     "link": "https://kormedi.com/?p=2901060",
+     "t": "2026-11-09T10:04:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "“혈압·LDL 함께 낮추고 혈당 영향까지 고려”…심혈관질환 예방 위한...",
+     "link": "https://www.medigatenews.com/news/2898980759",
+     "t": "2026-11-09T08:52:00+09:00",
+     "by": "medigatenews.com"
     }
    ]
   },
@@ -414,44 +415,6 @@
    ]
   },
   {
-   "name": "고혈압",
-   "kind": "질환·증상",
-   "count": 6,
-   "angles": [],
-   "items": [
-    {
-     "title": "[건강365]-고혈압 어떻게 관리해야 할까요?",
-     "link": "https://news.knn.co.kr/news/article/194203",
-     "t": "2026-11-09T10:46:00+09:00",
-     "by": "knn.co.kr"
-    },
-    {
-     "title": "평생먹던 혈압약 끊었는데 '정상'…고혈압 치료 판도 바꿀 '신약' [매일...",
-     "link": "https://www.imaeil.com/page/view/2026110907472084653",
-     "t": "2026-11-09T08:01:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "고혈압 관리 , 혈압 수치 넘어 동반질환·대사 특성까지 고려해야",
-     "link": "https://www.monews.co.kr/news/articleView.html?idxno=415215",
-     "t": "2026-11-09T05:58:00+09:00",
-     "by": "monews.co.kr"
-    },
-    {
-     "title": "구글 스마트워치 AI, 고혈압 환자 65.8% 포착…진료실 측정 55.3%보다 높...",
-     "link": "https://www.wikitree.co.kr/articles/1172896",
-     "t": "2026-11-08T22:28:00+09:00",
-     "by": "wikitree.co.kr"
-    },
-    {
-     "title": "AI 스마트워치로 고혈압 선별 가능성 확인…병원 혈압검사와 유사한 정...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623601",
-     "t": "2026-11-07T15:46:00+09:00",
-     "by": "mdtoday.co.kr"
-    }
-   ]
-  },
-  {
    "name": "마그네슘",
    "kind": "영양제",
    "count": 6,
@@ -528,6 +491,44 @@
      "link": "https://www.joongang.co.kr/article/25476549",
      "t": "2026-11-07T06:00:00+09:00",
      "by": "joongang.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "고혈압",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [],
+   "items": [
+    {
+     "title": "[건강365]-고혈압 어떻게 관리해야 할까요?",
+     "link": "https://news.knn.co.kr/news/article/194203",
+     "t": "2026-11-09T10:46:00+09:00",
+     "by": "knn.co.kr"
+    },
+    {
+     "title": "평생먹던 혈압약 끊었는데 '정상'…고혈압 치료 판도 바꿀 '신약' [매일...",
+     "link": "https://www.imaeil.com/page/view/2026110907472084653",
+     "t": "2026-11-09T08:01:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "구글 스마트워치 AI, 고혈압 환자 65.8% 포착…진료실 측정 55.3%보다 높...",
+     "link": "https://www.wikitree.co.kr/articles/1172896",
+     "t": "2026-11-08T22:28:00+09:00",
+     "by": "wikitree.co.kr"
+    },
+    {
+     "title": "AI 스마트워치로 고혈압 선별 가능성 확인…병원 혈압검사와 유사한 정...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623601",
+     "t": "2026-11-07T15:46:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "고혈압·당뇨병 관리체계 전국 확대…2028년부터 통합관리센터로 전환",
+     "link": "https://www.fntimes.com/html/view.php?ud=202611061734421118dd55077bc2_18",
+     "t": "2026-11-06T23:30:00+09:00",
+     "by": "fntimes.com"
     }
    ]
   },

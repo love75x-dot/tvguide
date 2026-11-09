@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10T06:10:44.672142+09:00",
+ "updated": "2026-11-10T07:10:46.587270+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 31,
+   "count": 30,
    "angles": [
     "에 좋은",
     "부작용",
@@ -46,12 +46,19 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 21,
+   "count": 22,
    "angles": [
     "에 좋은",
+    "부작용",
     "효능"
    ],
    "items": [
+    {
+     "title": "[명의칼럼] 혈당 높으면 어깨도 굳는다?⋯당뇨병 환자 ‘오십견’ 주의...",
+     "link": "https://www.viva100.com/article/20261106500756",
+     "t": "2026-11-10T07:02:00+09:00",
+     "by": "viva100.com"
+    },
     {
      "title": "“당뇨병 환자 87%, 이상지질혈증 동반… 콜레스테롤· 혈당 ·혈압 함께 ...",
      "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/10/20261110016003?wlog_tag3=naver",
@@ -75,55 +82,6 @@
      "link": "https://kormedi.com/?p=2901116",
      "t": "2026-11-09T19:02:00+09:00",
      "by": "kormedi.com"
-    },
-    {
-     "title": "“과한 정성에 혈당 스파이크 오면 낭패”…수능 도시락 ‘이렇게’",
-     "link": "https://www.nongmin.com/article/20261109500452",
-     "t": "2026-11-09T18:13:00+09:00",
-     "by": "nongmin.com"
-    }
-   ]
-  },
-  {
-   "name": "혈압",
-   "kind": "질환·증상",
-   "count": 20,
-   "angles": [
-    "에 좋은",
-    "부작용",
-    "효능",
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "아침저녁 찬바람에 혈압 상승…뇌출혈 주의보",
-     "link": "https://www.sisajournal.com/news/articleView.html?idxno=393257",
-     "t": "2026-11-10T06:05:00+09:00",
-     "by": "sisajournal.com"
-    },
-    {
-     "title": "“당뇨병 환자 87%, 이상지질혈증 동반… 콜레스테롤· 혈당 ·혈압 함께 ...",
-     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/10/20261110016003?wlog_tag3=naver",
-     "t": "2026-11-10T05:03:00+09:00",
-     "by": "seoul.co.kr"
-    },
-    {
-     "title": "힘들게 낮춘 혈압 …‘이 운동’ 일주일에 한번만 해도 유지에 도움",
-     "link": "https://www.nongmin.com/article/20261109500172",
-     "t": "2026-11-10T05:01:00+09:00",
-     "by": "nongmin.com"
-    },
-    {
-     "title": "새 고 혈압 약 끊었는데도 혈압 낮게 유지⋯최대 2년 이어진 효과",
-     "link": "https://kormedi.com/?p=2901524",
-     "t": "2026-11-09T14:43:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "\"혈압 낮추고 배변도 돕는다?\"… 연구로 알아본 '아마씨' 효능 5가지",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69767",
-     "t": "2026-11-09T11:00:00+09:00",
-     "by": "hidoc.co.kr"
     }
    ]
   },
@@ -168,14 +126,63 @@
    ]
   },
   {
+   "name": "혈압",
+   "kind": "질환·증상",
+   "count": 18,
+   "angles": [
+    "에 좋은",
+    "부작용",
+    "효능",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "아침저녁 찬바람에 혈압 상승…뇌출혈 주의보",
+     "link": "https://www.sisajournal.com/news/articleView.html?idxno=393257",
+     "t": "2026-11-10T06:05:00+09:00",
+     "by": "sisajournal.com"
+    },
+    {
+     "title": "“당뇨병 환자 87%, 이상지질혈증 동반… 콜레스테롤· 혈당 ·혈압 함께 ...",
+     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/10/20261110016003?wlog_tag3=naver",
+     "t": "2026-11-10T05:03:00+09:00",
+     "by": "seoul.co.kr"
+    },
+    {
+     "title": "힘들게 낮춘 혈압 …‘이 운동’ 일주일에 한번만 해도 유지에 도움",
+     "link": "https://www.nongmin.com/article/20261109500172",
+     "t": "2026-11-10T05:01:00+09:00",
+     "by": "nongmin.com"
+    },
+    {
+     "title": "새 고 혈압 약 끊었는데도 혈압 낮게 유지⋯최대 2년 이어진 효과",
+     "link": "https://kormedi.com/?p=2901524",
+     "t": "2026-11-09T14:43:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "\"혈압 낮추고 배변도 돕는다?\"… 연구로 알아본 '아마씨' 효능 5가지",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69767",
+     "t": "2026-11-09T11:00:00+09:00",
+     "by": "hidoc.co.kr"
+    }
+   ]
+  },
+  {
    "name": "단백질",
    "kind": "영양제",
-   "count": 14,
+   "count": 15,
    "angles": [
     "부작용",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "만성콩팥병, 단백질 과도하게 줄이면 사망 위험↑",
+     "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044426",
+     "t": "2026-11-10T06:38:00+09:00",
+     "by": "docdocdoc.co.kr"
+    },
     {
      "title": "단백질 적게 먹었더니 사망 위험 2배…만성콩팥병 식단의 역설",
      "link": "https://www.dailian.co.kr/news/view/1712822/?sc=Naver",
@@ -199,12 +206,6 @@
      "link": "https://www.news1.kr/bio/welfare-medical/6348106",
      "t": "2026-11-10T06:00:00+09:00",
      "by": "news1.kr"
-    },
-    {
-     "title": "만성콩팥병 환자, 단백질 무조건 줄이면 오히려 ‘독’",
-     "link": "https://www.dt.co.kr/article/12094063?ref=naver",
-     "t": "2026-11-10T06:00:00+09:00",
-     "by": "dt.co.kr"
     }
    ]
   },
@@ -293,46 +294,6 @@
    ]
   },
   {
-   "name": "수면",
-   "kind": "운동·생활",
-   "count": 10,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "자는 시각만큼 깨는 시각도 중요…수면 불규칙하면 심장병 위험 23%↑",
-     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=548446",
-     "t": "2026-11-10T05:52:00+09:00",
-     "by": "kpanews.co.kr"
-    },
-    {
-     "title": "[건강정보] 수능 앞둔 수험생 '뇌 컨디션' 관리 , 수면, 영양, 면역 관리 가...",
-     "link": "http://www.doctorstimes.com/news/articleView.html?idxno=240968",
-     "t": "2026-11-09T16:46:00+09:00",
-     "by": "doctorstimes.com"
-    },
-    {
-     "title": "분당제생병원 \"수험생, 공부시간보다 수면·식사 등 컨디션 관리 중요\"",
-     "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309678",
-     "t": "2026-11-09T14:14:00+09:00",
-     "by": "jeonmae.co.kr"
-    },
-    {
-     "title": "수능 앞둔 수험생 뇌 컨디션 관리 법…수면·영양·면역 관리 중요",
-     "link": "https://www.m-i.kr/news/articleView.html?idxno=2016016",
-     "t": "2026-11-09T12:48:00+09:00",
-     "by": "m-i.kr"
-    },
-    {
-     "title": "\"수능 코앞, 뇌 컨디션이 승패 가른다\"…수면·영양·면역 3대 관리 법",
-     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=33961",
-     "t": "2026-11-09T09:34:00+09:00",
-     "by": "jhealthmedia.joins.com"
-    }
-   ]
-  },
-  {
    "name": "다이어트",
    "kind": "운동·생활",
    "count": 9,
@@ -370,6 +331,46 @@
      "link": "https://www.youthdaily.co.kr/news/article.html?no=229529",
      "t": "2026-11-08T19:00:00+09:00",
      "by": "youthdaily.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "수면",
+   "kind": "운동·생활",
+   "count": 9,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "자는 시각만큼 깨는 시각도 중요…수면 불규칙하면 심장병 위험 23%↑",
+     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=548446",
+     "t": "2026-11-10T05:52:00+09:00",
+     "by": "kpanews.co.kr"
+    },
+    {
+     "title": "[건강정보] 수능 앞둔 수험생 '뇌 컨디션' 관리 , 수면, 영양, 면역 관리 가...",
+     "link": "http://www.doctorstimes.com/news/articleView.html?idxno=240968",
+     "t": "2026-11-09T16:46:00+09:00",
+     "by": "doctorstimes.com"
+    },
+    {
+     "title": "분당제생병원 \"수험생, 공부시간보다 수면·식사 등 컨디션 관리 중요\"",
+     "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309678",
+     "t": "2026-11-09T14:14:00+09:00",
+     "by": "jeonmae.co.kr"
+    },
+    {
+     "title": "수능 앞둔 수험생 뇌 컨디션 관리 법…수면·영양·면역 관리 중요",
+     "link": "https://www.m-i.kr/news/articleView.html?idxno=2016016",
+     "t": "2026-11-09T12:48:00+09:00",
+     "by": "m-i.kr"
+    },
+    {
+     "title": "\"수능 코앞, 뇌 컨디션이 승패 가른다\"…수면·영양·면역 3대 관리 법",
+     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=33961",
+     "t": "2026-11-09T09:34:00+09:00",
+     "by": "jhealthmedia.joins.com"
     }
    ]
   },
@@ -416,6 +417,47 @@
    ]
   },
   {
+   "name": "콜레스테롤",
+   "kind": "질환·증상",
+   "count": 7,
+   "angles": [
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "노른자가 콜레스테롤 주범이라고?…‘달걀’은 억울하다",
+     "link": "https://www.nongmin.com/article/20261109500165",
+     "t": "2026-11-10T06:30:00+09:00",
+     "by": "nongmin.com"
+    },
+    {
+     "title": "“당뇨병 환자 87%, 이상지질혈증 동반… 콜레스테롤· 혈당 ·혈압 함께 ...",
+     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/10/20261110016003?wlog_tag3=naver",
+     "t": "2026-11-10T05:03:00+09:00",
+     "by": "seoul.co.kr"
+    },
+    {
+     "title": "“주스 대신 과일 먹고, 우유는 저지방으로”… 콜레스테롤 낮추는 식사...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/09/2026110903097.html",
+     "t": "2026-11-09T22:31:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "“매일 아침 요거트에 ‘이 가루’ 한 큰술”… 나쁜 콜레스테롤 싹 빠...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/09/2026110901244.html",
+     "t": "2026-11-09T12:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "콜레스테롤 수치 낮췄지만 심혈관 예방 은 실패… 노바티스, 신약 개발 ...",
+     "link": "https://www.jemin.com/news/articleView.html?idxno=846422",
+     "t": "2026-11-08T11:02:00+09:00",
+     "by": "jemin.com"
+    }
+   ]
+  },
+  {
    "name": "마그네슘",
    "kind": "영양제",
    "count": 6,
@@ -450,47 +492,6 @@
      "link": "http://www.e2news.com/news/articleView.html?idxno=335791",
      "t": "2026-11-07T09:00:00+09:00",
      "by": "e2news.com"
-    }
-   ]
-  },
-  {
-   "name": "콜레스테롤",
-   "kind": "질환·증상",
-   "count": 6,
-   "angles": [
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "“당뇨병 환자 87%, 이상지질혈증 동반… 콜레스테롤· 혈당 ·혈압 함께 ...",
-     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/10/20261110016003?wlog_tag3=naver",
-     "t": "2026-11-10T05:03:00+09:00",
-     "by": "seoul.co.kr"
-    },
-    {
-     "title": "“주스 대신 과일 먹고, 우유는 저지방으로”… 콜레스테롤 낮추는 식사...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/09/2026110903097.html",
-     "t": "2026-11-09T22:31:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "“매일 아침 요거트에 ‘이 가루’ 한 큰술”… 나쁜 콜레스테롤 싹 빠...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/09/2026110901244.html",
-     "t": "2026-11-09T12:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "콜레스테롤 수치 낮췄지만 심혈관 예방 은 실패… 노바티스, 신약 개발 ...",
-     "link": "https://www.jemin.com/news/articleView.html?idxno=846422",
-     "t": "2026-11-08T11:02:00+09:00",
-     "by": "jemin.com"
-    },
-    {
-     "title": "“살 빼려다 혈관 막힐 뻔”… 콜레스테롤 수치 치솟게 한 ‘3가지 습관...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602673.html",
-     "t": "2026-11-08T08:01:00+09:00",
-     "by": "health.chosun.com"
     }
    ]
   },
@@ -568,9 +569,43 @@
    ]
   },
   {
+   "name": "유산균",
+   "kind": "영양제",
+   "count": 4,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "[비바100] “감기약 속 항생제, 장내 유익균에 나쁜 영향… 유산균 보충...",
+     "link": "https://www.viva100.com/article/20261108500312",
+     "t": "2026-11-10T07:02:00+09:00",
+     "by": "viva100.com"
+    },
+    {
+     "title": "[르포] 발효탱크서 뿜어낸 10경 마리 한국산 유산균…종주국 덴마크도 ...",
+     "link": "https://biz.heraldcorp.com/article/10930901?ref=naver",
+     "t": "2026-11-10T06:00:00+09:00",
+     "by": "biz.heraldcorp.com"
+    },
+    {
+     "title": "“아침마다 유산균 먹기 귀찮았는데”…그 대신 속옷에 ‘칙칙’ 뿌렸더...",
+     "link": "https://www.sedaily.com/article/20111466?ref=naver",
+     "t": "2026-11-07T17:34:00+09:00",
+     "by": "sedaily.com"
+    },
+    {
+     "title": "휴온스엔, 갱년기 이어 체지방까지… 기능 성 유산균 사업 확대",
+     "link": "https://biz.chosun.com/science-chosun/bio/2026/11/07/JZ5YVZ3XXNBTRDYCNKJ4B4BWTM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "t": "2026-11-07T13:00:00+09:00",
+     "by": "biz.chosun.com"
+    }
+   ]
+  },
+  {
    "name": "대장암",
    "kind": "질환·증상",
-   "count": 4,
+   "count": 3,
    "angles": [
     "효능",
     "에 좋은"
@@ -593,19 +628,13 @@
      "link": "https://www.abcn.kr/news/articleView.html?idxno=94229",
      "t": "2026-11-08T20:08:00+09:00",
      "by": "abcn.kr"
-    },
-    {
-     "title": "[김연수의 식탁이야기(106)] 살찌면 대장 점막부터 달라진다,대장암 발...",
-     "link": "https://www.news2day.co.kr/article/20261106500042",
-     "t": "2026-11-07T06:42:00+09:00",
-     "by": "news2day.co.kr"
     }
    ]
   },
   {
    "name": "염증",
    "kind": "질환·증상",
-   "count": 4,
+   "count": 3,
    "angles": [
     "부작용",
     "효능",
@@ -629,12 +658,6 @@
      "link": "https://www.dongascience.com/news/view/80681",
      "t": "2026-11-07T08:01:00+09:00",
      "by": "dongascience.com"
-    },
-    {
-     "title": "“빵에 버터 대신 아보카도 바르세요”… 혈관 염증 막는 ‘똑똑한 지방...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602256.html",
-     "t": "2026-11-07T07:01:00+09:00",
-     "by": "health.chosun.com"
     }
    ]
   },
@@ -663,32 +686,6 @@
      "link": "https://kormedi.com/?p=2899929",
      "t": "2026-11-07T13:02:00+09:00",
      "by": "kormedi.com"
-    }
-   ]
-  },
-  {
-   "name": "유산균",
-   "kind": "영양제",
-   "count": 3,
-   "angles": [],
-   "items": [
-    {
-     "title": "[르포] 발효탱크서 뿜어낸 10경 마리 한국산 유산균…종주국 덴마크도 ...",
-     "link": "https://biz.heraldcorp.com/article/10930901?ref=naver",
-     "t": "2026-11-10T06:00:00+09:00",
-     "by": "biz.heraldcorp.com"
-    },
-    {
-     "title": "“아침마다 유산균 먹기 귀찮았는데”…그 대신 속옷에 ‘칙칙’ 뿌렸더...",
-     "link": "https://www.sedaily.com/article/20111466?ref=naver",
-     "t": "2026-11-07T17:34:00+09:00",
-     "by": "sedaily.com"
-    },
-    {
-     "title": "휴온스엔, 갱년기 이어 체지방까지… 기능 성 유산균 사업 확대",
-     "link": "https://biz.chosun.com/science-chosun/bio/2026/11/07/JZ5YVZ3XXNBTRDYCNKJ4B4BWTM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "t": "2026-11-07T13:00:00+09:00",
-     "by": "biz.chosun.com"
     }
    ]
   },

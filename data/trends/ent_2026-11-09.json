@@ -100,11 +100,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c3",
@@ -214,7 +212,7 @@
     }
    ],
    "first": "00:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 1,
    "hours": [
     "00:10",
@@ -232,15 +230,16 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 8
+    "nate_pop": 13,
+    "nate_int": 9
    },
    "count": 14,
    "inrank": true
@@ -293,11 +292,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 47
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c5",
@@ -355,7 +352,12 @@
     "감우성 김현주 울린 카스테라, 김유정 미국행 발길 돌렸다 (100일의 거짓말...",
     "\"너 밀정이지?\" 김유정, 박진영 폭탄서 살리고 정체 들통 (100일의 거짓말...",
     "김현주, 독립군 죽음에 분노…박진영 오해 어쩌나 (100일의 거짓말)",
-    "'100일의 거짓말' 박진영, 김유정에 \"너 밀정이지?\""
+    "'100일의 거짓말' 박진영, 김유정에 \"너 밀정이지?\"",
+    "'100일의 거짓말' 친일파 딸 박정연, 박학기 친딸이었어? 시청자 홀린 ...",
+    "'100일의 거짓말' 친일파 사장, 닮았다 했더니…배우 이효정 '친동생'이었...",
+    "\"손가락도, 연기였다\"…김유정, '100일의 거짓말' 열풍의 비밀",
+    "'100일의 거짓말' 역시 김현주, 강렬함 너머의 깊이",
+    "김현주에 반한 이무생, 이토록 짠한 로맨스(100일의 거짓말)"
    ],
    "links": [
     "https://news.nate.com/view/20261108n19299",
@@ -367,7 +369,12 @@
     "https://news.nate.com/view/20261109n02155",
     "https://news.nate.com/view/20261109n02162",
     "https://news.nate.com/view/20261109n02154",
-    "https://news.nate.com/view/20261109n00569"
+    "https://news.nate.com/view/20261109n00569",
+    "https://news.nate.com/view/20261109n08880",
+    "https://news.nate.com/view/20261109n11651",
+    "https://news.nate.com/view/20261109n13026",
+    "https://news.nate.com/view/20261109n11439",
+    "https://news.nate.com/view/20261109n07158"
    ],
    "articles": [
     {
@@ -419,10 +426,35 @@
      "title": "'100일의 거짓말' 박진영, 김유정에 \"너 밀정이지?\"",
      "link": "https://news.nate.com/view/20261109n00569",
      "media": "iMBC연예"
+    },
+    {
+     "title": "'100일의 거짓말' 친일파 딸 박정연, 박학기 친딸이었어? 시청자 홀린 ...",
+     "link": "https://news.nate.com/view/20261109n08880",
+     "media": "뉴스엔"
+    },
+    {
+     "title": "'100일의 거짓말' 친일파 사장, 닮았다 했더니…배우 이효정 '친동생'이었...",
+     "link": "https://news.nate.com/view/20261109n11651",
+     "media": "TV리포트"
+    },
+    {
+     "title": "\"손가락도, 연기였다\"…김유정, '100일의 거짓말' 열풍의 비밀",
+     "link": "https://news.nate.com/view/20261109n13026",
+     "media": "스포츠서울"
+    },
+    {
+     "title": "'100일의 거짓말' 역시 김현주, 강렬함 너머의 깊이",
+     "link": "https://news.nate.com/view/20261109n11439",
+     "media": "조이뉴스24"
+    },
+    {
+     "title": "김현주에 반한 이무생, 이토록 짠한 로맨스(100일의 거짓말)",
+     "link": "https://news.nate.com/view/20261109n07158",
+     "media": "뉴스엔"
     }
    ],
    "first": "00:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 3,
    "hours": [
     "00:10",
@@ -440,16 +472,18 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 30
+    "nate_pop": 4,
+    "nate_int": 4
    },
-   "count": 10,
+   "count": 15,
    "inrank": true
   },
   {
@@ -535,11 +569,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 40
-   },
+   "now": {},
    "count": 7,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c8",
@@ -758,7 +790,7 @@
     }
    ],
    "first": "00:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 3,
    "hours": [
     "00:10",
@@ -774,15 +806,16 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 12
+    "nate_pop": 19,
+    "nate_int": 14
    },
    "count": 5,
    "inrank": true
@@ -832,7 +865,7 @@
     }
    ],
    "first": "00:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 8,
    "hours": [
     "00:10",
@@ -847,15 +880,16 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 26
+    "nate_pop": 26,
+    "nate_int": 24
    },
    "count": 5,
    "inrank": true
@@ -1203,7 +1237,7 @@
     }
    ],
    "first": "00:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 6,
    "hours": [
     "00:10",
@@ -1221,15 +1255,16 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 22
+    "nate_pop": 30,
+    "nate_int": 26
    },
    "count": 2,
    "inrank": true
@@ -1481,7 +1516,7 @@
     }
    ],
    "first": "00:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 1,
    "hours": [
     "00:10",
@@ -1496,15 +1531,16 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 23
+    "nate_pop": 27,
+    "nate_int": 27
    },
    "count": 4,
    "inrank": true
@@ -2111,7 +2147,7 @@
     }
    ],
    "first": "07:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 9,
    "hours": [
     "07:10",
@@ -2121,14 +2157,15 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 31
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -2150,7 +2187,7 @@
     }
    ],
    "first": "07:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 7,
    "hours": [
     "07:10",
@@ -2160,14 +2197,15 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 21
+    "nate_int": 18
    },
    "count": 1,
    "inrank": true
@@ -2255,7 +2293,7 @@
     }
    ],
    "first": "07:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 13,
    "hours": [
     "07:10",
@@ -2265,14 +2303,15 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 38
+    "nate_int": 47
    },
    "count": 1,
    "inrank": true
@@ -2294,7 +2333,7 @@
     }
    ],
    "first": "07:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 18,
    "hours": [
     "07:10",
@@ -2304,7 +2343,8 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_int",
@@ -2312,7 +2352,7 @@
    ],
    "now": {
     "nate_pop": 18,
-    "nate_int": 33
+    "nate_int": 32
    },
    "count": 1,
    "inrank": true
@@ -2322,11 +2362,13 @@
    "title": "빅뱅, 강풍·폭우로 콘서트 도중 취소 \"너무 위험해\" [엑's 이슈]",
    "titles": [
     "빅뱅, 강풍·폭우로 콘서트 도중 취소 \"너무 위험해\" [엑's 이슈]",
-    "폭우 맞으며 노래…빅뱅, 방콕 콘서트 도중에 \"중단\""
+    "폭우 맞으며 노래…빅뱅, 방콕 콘서트 도중에 \"중단\"",
+    "지드래곤도 \"속상하다\" 사과…빅뱅 날벼락, 폭우로 태국 콘서트 도중 중단"
    ],
    "links": [
     "https://news.nate.com/view/20261109n00802",
-    "https://news.nate.com/view/20261109n04573"
+    "https://news.nate.com/view/20261109n04573",
+    "https://news.nate.com/view/20261109n16919"
    ],
    "articles": [
     {
@@ -2338,10 +2380,15 @@
      "title": "폭우 맞으며 노래…빅뱅, 방콕 콘서트 도중에 \"중단\"",
      "link": "https://news.nate.com/view/20261109n04573",
      "media": "머니투데이"
+    },
+    {
+     "title": "지드래곤도 \"속상하다\" 사과…빅뱅 날벼락, 폭우로 태국 콘서트 도중 중단",
+     "link": "https://news.nate.com/view/20261109n16919",
+     "media": "뉴스엔"
     }
    ],
    "first": "08:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 3,
    "hours": [
     "08:10",
@@ -2350,17 +2397,18 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 16
+    "nate_pop": 14,
+    "nate_int": 21
    },
-   "count": 2,
+   "count": 3,
    "inrank": true
   },
   {
@@ -2380,7 +2428,7 @@
     }
    ],
    "first": "08:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 4,
    "hours": [
     "08:10",
@@ -2389,15 +2437,16 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 24
+    "nate_pop": 24,
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -2441,11 +2490,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 28
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c55",
@@ -2617,11 +2664,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 48
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c60",
@@ -2647,7 +2692,7 @@
     }
    ],
    "first": "09:08",
-   "last": "13:08",
+   "last": "14:10",
    "best": 4,
    "hours": [
     "09:08",
@@ -2655,14 +2700,15 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 37
+    "nate_int": 40
    },
    "count": 2,
    "inrank": true
@@ -2738,11 +2784,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 45
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c63",
@@ -2775,11 +2819,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 41
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c64",
@@ -2858,7 +2900,7 @@
     }
    ],
    "first": "09:08",
-   "last": "13:08",
+   "last": "14:10",
    "best": 18,
    "hours": [
     "09:08",
@@ -2866,15 +2908,15 @@
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 34
+    "nate_int": 37
    },
    "count": 1,
    "inrank": true
@@ -2925,22 +2967,23 @@
     }
    ],
    "first": "09:47",
-   "last": "13:08",
+   "last": "14:10",
    "best": 2,
    "hours": [
     "09:47",
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 14
+    "nate_pop": 20,
+    "nate_int": 20
    },
    "count": 1,
    "inrank": true
@@ -2993,13 +3036,14 @@
     }
    ],
    "first": "10:08",
-   "last": "13:08",
+   "last": "14:10",
    "best": 10,
    "hours": [
     "10:08",
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
@@ -3007,7 +3051,7 @@
    ],
    "now": {
     "nate_pop": 23,
-    "nate_int": 17
+    "nate_int": 13
    },
    "count": 1,
    "inrank": true
@@ -3058,20 +3102,21 @@
     }
    ],
    "first": "11:08",
-   "last": "13:08",
+   "last": "14:10",
    "best": 1,
    "hours": [
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 5
+    "nate_pop": 9,
+    "nate_int": 10
    },
    "count": 1,
    "inrank": true
@@ -3093,20 +3138,21 @@
     }
    ],
    "first": "11:08",
-   "last": "13:08",
+   "last": "14:10",
    "best": 2,
    "hours": [
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 4
+    "nate_pop": 8,
+    "nate_int": 7
    },
    "count": 1,
    "inrank": true
@@ -3128,20 +3174,20 @@
     }
    ],
    "first": "11:08",
-   "last": "13:08",
+   "last": "14:10",
    "best": 4,
    "hours": [
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 19
+    "nate_int": 38
    },
    "count": 1,
    "inrank": true
@@ -3174,11 +3220,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 35
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c76",
@@ -3228,20 +3272,20 @@
     }
    ],
    "first": "11:08",
-   "last": "13:08",
+   "last": "14:10",
    "best": 10,
    "hours": [
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 26,
-    "nate_int": 27
+    "nate_int": 34
    },
    "count": 1,
    "inrank": true
@@ -3250,34 +3294,42 @@
    "id": "c78",
    "title": "'사생활 폭로' 황정민, 결국 '반쪽' 됐다…복귀 앞두고 \"살 더 빠져\" [RE:...",
    "titles": [
-    "'사생활 폭로' 황정민, 결국 '반쪽' 됐다…복귀 앞두고 \"살 더 빠져\" [RE:..."
+    "'사생활 폭로' 황정민, 결국 '반쪽' 됐다…복귀 앞두고 \"살 더 빠져\" [RE:...",
+    "조세호, 11개월 만 복귀→현실은 '가혹'…구독자 고작 1000명 늘어 [RE:뷰..."
    ],
    "links": [
-    "https://news.nate.com/view/20261109n07536"
+    "https://news.nate.com/view/20261109n07536",
+    "https://news.nate.com/view/20261109n15354"
    ],
    "articles": [
     {
      "title": "'사생활 폭로' 황정민, 결국 '반쪽' 됐다…복귀 앞두고 \"살 더 빠져\" [RE:...",
      "link": "https://news.nate.com/view/20261109n07536",
      "media": "TV리포트"
+    },
+    {
+     "title": "조세호, 11개월 만 복귀→현실은 '가혹'…구독자 고작 1000명 늘어 [RE:뷰...",
+     "link": "https://news.nate.com/view/20261109n15354",
+     "media": "TV리포트"
     }
    ],
    "first": "11:08",
-   "last": "13:08",
+   "last": "14:10",
    "best": 15,
    "hours": [
     "11:08",
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 25
+    "nate_int": 39
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -3344,11 +3396,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 50
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c81",
@@ -3425,19 +3475,20 @@
     }
    ],
    "first": "12:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 3,
    "hours": [
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 6
+    "nate_pop": 7,
+    "nate_int": 8
    },
    "count": 1,
    "inrank": true
@@ -3459,19 +3510,20 @@
     }
    ],
    "first": "12:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 4,
    "hours": [
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 15
+    "nate_pop": 25,
+    "nate_int": 25
    },
    "count": 1,
    "inrank": true
@@ -3514,11 +3566,12 @@
     }
    ],
    "first": "12:10",
-   "last": "13:08",
+   "last": "14:10",
    "best": 2,
    "hours": [
     "12:10",
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
@@ -3577,10 +3630,11 @@
     }
    ],
    "first": "13:08",
-   "last": "13:08",
+   "last": "14:10",
    "best": 1,
    "hours": [
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
@@ -3610,18 +3664,19 @@
     }
    ],
    "first": "13:08",
-   "last": "13:08",
+   "last": "14:10",
    "best": 3,
    "hours": [
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 3
+    "nate_pop": 5,
+    "nate_int": 5
    },
    "count": 1,
    "inrank": true
@@ -3643,16 +3698,19 @@
     }
    ],
    "first": "13:08",
-   "last": "13:08",
-   "best": 9,
+   "last": "14:10",
+   "best": 6,
    "hours": [
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
-    "nate_pop"
+    "nate_pop",
+    "nate_int"
    ],
    "now": {
-    "nate_pop": 9
+    "nate_pop": 6,
+    "nate_int": 6
    },
    "count": 1,
    "inrank": true
@@ -3674,18 +3732,19 @@
     }
    ],
    "first": "13:08",
-   "last": "13:08",
+   "last": "14:10",
    "best": 10,
    "hours": [
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 11
+    "nate_pop": 21,
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -3707,18 +3766,19 @@
     }
    ],
    "first": "13:08",
-   "last": "13:08",
-   "best": 14,
+   "last": "14:10",
+   "best": 11,
    "hours": [
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 18
+    "nate_pop": 11,
+    "nate_int": 15
    },
    "count": 1,
    "inrank": true
@@ -3740,18 +3800,18 @@
     }
    ],
    "first": "13:08",
-   "last": "13:08",
+   "last": "14:10",
    "best": 28,
    "hours": [
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 43
+    "nate_int": 44
    },
    "count": 1,
    "inrank": true
@@ -3773,18 +3833,19 @@
     }
    ],
    "first": "13:08",
-   "last": "13:08",
-   "best": 29,
+   "last": "14:10",
+   "best": 22,
    "hours": [
-    "13:08"
+    "13:08",
+    "14:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 42
+    "nate_pop": 22,
+    "nate_int": 35
    },
    "count": 1,
    "inrank": true
@@ -3814,8 +3875,198 @@
    "srcs": [
     "nate_int"
    ],
+   "now": {},
+   "count": 1,
+   "inrank": false
+  },
+  {
+   "id": "c95",
+   "title": "\"이세영 공주님 목걸이가 테무산?\"…'재혼황후' 덮친 '中직구템' 논란",
+   "titles": [
+    "\"이세영 공주님 목걸이가 테무산?\"…'재혼황후' 덮친 '中직구템' 논란"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261109n17595"
+   ],
+   "articles": [
+    {
+     "title": "\"이세영 공주님 목걸이가 테무산?\"…'재혼황후' 덮친 '中직구템' 논란",
+     "link": "https://news.nate.com/view/20261109n17595",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "14:10",
+   "last": "14:10",
+   "best": 3,
+   "hours": [
+    "14:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
    "now": {
-    "nate_int": 46
+    "nate_pop": 3,
+    "nate_int": 3
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c96",
+   "title": "'너 말고 다른 연애' 감독, 결말 논쟁에 \"서강준·안은진 이별, 예정돼 있...",
+   "titles": [
+    "'너 말고 다른 연애' 감독, 결말 논쟁에 \"서강준·안은진 이별, 예정돼 있..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261109n13034"
+   ],
+   "articles": [
+    {
+     "title": "'너 말고 다른 연애' 감독, 결말 논쟁에 \"서강준·안은진 이별, 예정돼 있...",
+     "link": "https://news.nate.com/view/20261109n13034",
+     "media": "이투데이"
+    }
+   ],
+   "first": "14:10",
+   "last": "14:10",
+   "best": 17,
+   "hours": [
+    "14:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 17,
+    "nate_int": 33
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c97",
+   "title": "[포토] 혜리 '다이어트 성공'",
+   "titles": [
+    "[포토] 혜리 '다이어트 성공'"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261109n15340"
+   ],
+   "articles": [
+    {
+     "title": "[포토] 혜리 '다이어트 성공'",
+     "link": "https://news.nate.com/view/20261109n15340",
+     "media": "조이뉴스24"
+    }
+   ],
+   "first": "14:10",
+   "last": "14:10",
+   "best": 29,
+   "hours": [
+    "14:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 29,
+    "nate_int": 43
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c98",
+   "title": "BTS 지민, 스페인 작가 신작 소설에 등장…\"당신의 영혼 담았다\"",
+   "titles": [
+    "BTS 지민, 스페인 작가 신작 소설에 등장…\"당신의 영혼 담았다\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261109n04179"
+   ],
+   "articles": [
+    {
+     "title": "BTS 지민, 스페인 작가 신작 소설에 등장…\"당신의 영혼 담았다\"",
+     "link": "https://news.nate.com/view/20261109n04179",
+     "media": "스포츠동아"
+    }
+   ],
+   "first": "14:10",
+   "last": "14:10",
+   "best": 31,
+   "hours": [
+    "14:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 31
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c99",
+   "title": "31기 순자, ♥경수의 든든한 조력자…새 도전 응원 \"대표님과 함께\"",
+   "titles": [
+    "31기 순자, ♥경수의 든든한 조력자…새 도전 응원 \"대표님과 함께\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261108n17987"
+   ],
+   "articles": [
+    {
+     "title": "31기 순자, ♥경수의 든든한 조력자…새 도전 응원 \"대표님과 함께\"",
+     "link": "https://news.nate.com/view/20261108n17987",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "14:10",
+   "last": "14:10",
+   "best": 49,
+   "hours": [
+    "14:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 49
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c100",
+   "title": "'아이돌' 박진영 영원하길…장충체육관 찢은 춤꾼 사토 히데오",
+   "titles": [
+    "'아이돌' 박진영 영원하길…장충체육관 찢은 춤꾼 사토 히데오"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261109n06954"
+   ],
+   "articles": [
+    {
+     "title": "'아이돌' 박진영 영원하길…장충체육관 찢은 춤꾼 사토 히데오",
+     "link": "https://news.nate.com/view/20261109n06954",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "14:10",
+   "last": "14:10",
+   "best": 50,
+   "hours": [
+    "14:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 50
    },
    "count": 1,
    "inrank": true
@@ -3949,9 +4200,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "14:10",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-09T13:08:30.767291+09:00",
+ "updated": "2026-11-09T14:10:45.653831+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

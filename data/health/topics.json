@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-09T12:10:40.727271+09:00",
+ "updated": "2026-11-09T13:08:37.716136+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 34,
+   "count": 31,
    "angles": [
     "에 좋은",
     "부작용"
@@ -88,11 +88,17 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 18,
+   "count": 19,
    "angles": [
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "혈당 변화도 감지하는 서비스견…집중력이 핵심",
+     "link": "https://www.koreadaily.com/article/20261108195037740",
+     "t": "2026-11-09T12:52:00+09:00",
+     "by": "koreadaily.com"
+    },
     {
      "title": "부안군 보건소, 만성질환자 혈압· 혈당 계 무료 대여",
      "link": "https://www.ibuan.com/news/articleView.html?idxno=56714",
@@ -116,12 +122,6 @@
      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=35967",
      "t": "2026-11-09T08:00:00+09:00",
      "by": "biotimes.co.kr"
-    },
-    {
-     "title": "\"당뇨병 치료, 혈당 넘어 인슐린 저항성까지 고려해야\"",
-     "link": "https://www.dailypharm.com/user/news/344304?REFERER=NP",
-     "t": "2026-11-09T06:02:00+09:00",
-     "by": "dailypharm.com"
     }
    ]
   },
@@ -170,11 +170,16 @@
    "kind": "질환·증상",
    "count": 11,
    "angles": [
-    "에 좋은",
     "부작용",
-    "먹는 법"
+    "에 좋은"
    ],
    "items": [
+    {
+     "title": "\" 감기 약 먹고 두통약 또 먹었다면?\"…청소년 약물 중독 주의",
+     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80833",
+     "t": "2026-11-09T13:00:00+09:00",
+     "by": "mkhealth.co.kr"
+    },
     {
      "title": "[메디칼럼] 감기약을 먹어도 감기가 낫지 않는 이유",
      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261109.22022002114",
@@ -198,12 +203,6 @@
      "link": "https://www.dailian.co.kr/news/view/1712111/?sc=Naver",
      "t": "2026-11-08T09:02:00+09:00",
      "by": "dailian.co.kr"
-    },
-    {
-     "title": "[건강 100세를 위하여] 감기와 다른 독감 , 매년 맞는 예방접종이 중요해",
-     "link": "http://www.ggmedinews.com/news/articleView.html?idxno=7003",
-     "t": "2026-11-07T09:22:00+09:00",
-     "by": "ggmedinews.com"
     }
    ]
   },
@@ -287,6 +286,48 @@
    ]
   },
   {
+   "name": "치매",
+   "kind": "질환·증상",
+   "count": 9,
+   "angles": [
+    "에 좋은",
+    "부작용",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "[특집] 군립병원부터 치매 예방 까지…양평군, 생애주기 의료안전망 구축...",
+     "link": "https://www.g-enews.com/view.php?ud=202611091118205357e99a18c428_1",
+     "t": "2026-11-09T12:28:00+09:00",
+     "by": "g-enews.com"
+    },
+    {
+     "title": "당뇨병치료제, 치매 예방 가능성 제시",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59851",
+     "t": "2026-11-09T11:28:00+09:00",
+     "by": "koreahealthlog.com"
+    },
+    {
+     "title": "그 아프리카 부족, 암·치매 없다…근육 10배 쓰는 앉기 자세",
+     "link": "https://www.joongang.co.kr/article/25476908",
+     "t": "2026-11-09T10:55:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "치매 예방 의 또 다른 해법, 문화 활동의 과학적 효과에 주목",
+     "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36006",
+     "t": "2026-11-09T10:42:00+09:00",
+     "by": "biotimes.co.kr"
+    },
+    {
+     "title": "치매 위험 줄여주는 \"커피\"",
+     "link": "http://www.whosaeng.com/175142",
+     "t": "2026-11-09T06:52:00+09:00",
+     "by": "whosaeng.com"
+    }
+   ]
+  },
+  {
    "name": "단백질",
    "kind": "영양제",
    "count": 8,
@@ -328,44 +369,42 @@
    ]
   },
   {
-   "name": "치매",
-   "kind": "질환·증상",
-   "count": 8,
+   "name": "수면",
+   "kind": "운동·생활",
+   "count": 7,
    "angles": [
-    "에 좋은",
-    "부작용",
-    "효능"
+    "부작용"
    ],
    "items": [
     {
-     "title": "당뇨병치료제, 치매 예방 가능성 제시",
-     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59851",
-     "t": "2026-11-09T11:28:00+09:00",
-     "by": "koreahealthlog.com"
+     "title": "수능 앞둔 수험생 뇌 컨디션 관리 법…수면·영양·면역 관리 중요",
+     "link": "https://www.m-i.kr/news/articleView.html?idxno=2016016",
+     "t": "2026-11-09T12:48:00+09:00",
+     "by": "m-i.kr"
     },
     {
-     "title": "그 아프리카 부족, 암·치매 없다…근육 10배 쓰는 앉기 자세",
-     "link": "https://www.joongang.co.kr/article/25476908",
-     "t": "2026-11-09T10:55:00+09:00",
-     "by": "joongang.co.kr"
+     "title": "\"수능 코앞, 뇌 컨디션이 승패 가른다\"…수면·영양·면역 3대 관리 법",
+     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=33961",
+     "t": "2026-11-09T09:34:00+09:00",
+     "by": "jhealthmedia.joins.com"
     },
     {
-     "title": "치매 예방 의 또 다른 해법, 문화 활동의 과학적 효과에 주목",
-     "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36006",
-     "t": "2026-11-09T10:42:00+09:00",
-     "by": "biotimes.co.kr"
+     "title": "수능 앞둔 수험생 '뇌 컨디션' 관리 중요…수면·영양·면역 관리가 핵...",
+     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51809",
+     "t": "2026-11-09T08:42:00+09:00",
+     "by": "ikunkang.com"
     },
     {
-     "title": "치매 위험 줄여주는 \"커피\"",
-     "link": "http://www.whosaeng.com/175142",
-     "t": "2026-11-09T06:52:00+09:00",
-     "by": "whosaeng.com"
+     "title": "겨울밤 잠 설친다면…수면 흐트러뜨리는 습관 5가지",
+     "link": "https://www.vegannews.co.kr/news/article.html?no=402248",
+     "t": "2026-11-08T22:32:00+09:00",
+     "by": "vegannews.co.kr"
     },
     {
-     "title": "부모님이 갑자기 '이 음식' 찾는다면…치매 의심해야 하는 '뜻밖의 식습...",
-     "link": "https://www.wikitree.co.kr/articles/1171774",
-     "t": "2026-11-08T21:00:00+09:00",
-     "by": "wikitree.co.kr"
+     "title": "내 심장을 위협하는 불규칙한 ‘수면’ 습관… 뇌졸중·심근경색 부른다...",
+     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/05/20261105500255?wlog_tag3=naver",
+     "t": "2026-11-08T22:16:00+09:00",
+     "by": "seoul.co.kr"
     }
    ]
   },
@@ -404,46 +443,6 @@
      "link": "http://www.e2news.com/news/articleView.html?idxno=335791",
      "t": "2026-11-07T09:00:00+09:00",
      "by": "e2news.com"
-    }
-   ]
-  },
-  {
-   "name": "수면",
-   "kind": "운동·생활",
-   "count": 6,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "\"수능 코앞, 뇌 컨디션이 승패 가른다\"…수면·영양·면역 3대 관리 법",
-     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=33961",
-     "t": "2026-11-09T09:34:00+09:00",
-     "by": "jhealthmedia.joins.com"
-    },
-    {
-     "title": "수능 앞둔 수험생 '뇌 컨디션' 관리 중요…수면·영양·면역 관리가 핵...",
-     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51809",
-     "t": "2026-11-09T08:42:00+09:00",
-     "by": "ikunkang.com"
-    },
-    {
-     "title": "겨울밤 잠 설친다면…수면 흐트러뜨리는 습관 5가지",
-     "link": "https://www.vegannews.co.kr/news/article.html?no=402248",
-     "t": "2026-11-08T22:32:00+09:00",
-     "by": "vegannews.co.kr"
-    },
-    {
-     "title": "내 심장을 위협하는 불규칙한 ‘수면’ 습관… 뇌졸중·심근경색 부른다...",
-     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/05/20261105500255?wlog_tag3=naver",
-     "t": "2026-11-08T22:16:00+09:00",
-     "by": "seoul.co.kr"
-    },
-    {
-     "title": "李 \"6시간 수면은 부모 덕\"…정주영 8시간·에디슨 4시간·다카이치 2시...",
-     "link": "https://www.imaeil.com/page/view/2026110812024590733",
-     "t": "2026-11-08T12:04:00+09:00",
-     "by": "imaeil.com"
     }
    ]
   },
@@ -683,41 +682,6 @@
    ]
   },
   {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 4,
-   "angles": [
-    "부작용",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "메트포르민, 코로나19 감염 초기 투여 시 롱코비드·사망 위험 53% 감소",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623600",
-     "t": "2026-11-07T15:06:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "\"독감·코로나 주사 한 방에 끝낸다\" 캐나다서 첫 승인",
-     "link": "https://www.koreadaily.com/article/20261106193733274",
-     "t": "2026-11-07T12:38:00+09:00",
-     "by": "koreadaily.com"
-    },
-    {
-     "title": "코로나19 백신, 투자비 대비 최대 810배 경제적 효과…전 세계 수십조 달...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623430",
-     "t": "2026-11-06T15:06:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "코로나19 팬데믹 스트레스, 청소년 생물학적 노화 가속과 연관",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623486",
-     "t": "2026-11-06T12:42:00+09:00",
-     "by": "mdtoday.co.kr"
-    }
-   ]
-  },
-  {
    "name": "탈모",
    "kind": "질환·증상",
    "count": 4,
@@ -781,6 +745,35 @@
    ]
   },
   {
+   "name": "대장암",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "효능",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "아스피린, 대장암 간 전이 치료 후 재발 예방 효과 없어",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623784",
+     "t": "2026-11-09T13:06:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "10대 대장암 환자 80%가 3~4기…몸이 보내는 네 가지 경고",
+     "link": "https://www.abcn.kr/news/articleView.html?idxno=94229",
+     "t": "2026-11-08T20:08:00+09:00",
+     "by": "abcn.kr"
+    },
+    {
+     "title": "[김연수의 식탁이야기(106)] 살찌면 대장 점막부터 달라진다,대장암 발...",
+     "link": "https://www.news2day.co.kr/article/20261106500042",
+     "t": "2026-11-07T06:42:00+09:00",
+     "by": "news2day.co.kr"
+    }
+   ]
+  },
+  {
    "name": "유산균",
    "kind": "영양제",
    "count": 3,
@@ -807,6 +800,35 @@
    ]
   },
   {
+   "name": "코로나",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "부작용",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "메트포르민, 코로나19 감염 초기 투여 시 롱코비드·사망 위험 53% 감소",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623600",
+     "t": "2026-11-07T15:06:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "\"독감·코로나 주사 한 방에 끝낸다\" 캐나다서 첫 승인",
+     "link": "https://www.koreadaily.com/article/20261106193733274",
+     "t": "2026-11-07T12:38:00+09:00",
+     "by": "koreadaily.com"
+    },
+    {
+     "title": "코로나19 백신, 투자비 대비 최대 810배 경제적 효과…전 세계 수십조 달...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623430",
+     "t": "2026-11-06T15:06:00+09:00",
+     "by": "mdtoday.co.kr"
+    }
+   ]
+  },
+  {
    "name": "걷기",
    "kind": "운동·생활",
    "count": 2,
@@ -823,26 +845,6 @@
      "link": "https://www.yna.co.kr/view/AKR20261107010300004?input=1195m",
      "t": "2026-11-07T09:00:00+09:00",
      "by": "yna.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "대장암",
-   "kind": "질환·증상",
-   "count": 2,
-   "angles": [],
-   "items": [
-    {
-     "title": "10대 대장암 환자 80%가 3~4기…몸이 보내는 네 가지 경고",
-     "link": "https://www.abcn.kr/news/articleView.html?idxno=94229",
-     "t": "2026-11-08T20:08:00+09:00",
-     "by": "abcn.kr"
-    },
-    {
-     "title": "[김연수의 식탁이야기(106)] 살찌면 대장 점막부터 달라진다,대장암 발...",
-     "link": "https://www.news2day.co.kr/article/20261106500042",
-     "t": "2026-11-07T06:42:00+09:00",
-     "by": "news2day.co.kr"
     }
    ]
   },

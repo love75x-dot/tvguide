@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T18:08:31.511308+09:00",
+ "updated": "2026-11-09T19:10:49.826224+09:00",
  "hot": [
   {
    "name": "사이버트럭",
@@ -15,7 +15,7 @@
   },
   {
    "name": "아반떼",
-   "count": 8,
+   "count": 7,
    "prev": 3,
    "rise": -15,
    "moto": false,
@@ -26,21 +26,19 @@
   },
   {
    "name": "투싼",
-   "count": 5,
+   "count": 4,
    "prev": 1,
    "rise": -19,
    "moto": false,
    "why": []
   },
   {
-   "name": "스포티지",
+   "name": "GV90",
    "count": 3,
-   "prev": 0,
-   "rise": -1,
+   "prev": 1,
+   "rise": -7,
    "moto": false,
-   "why": [
-    "판매 1위"
-   ]
+   "why": []
   },
   {
    "name": "PV5",
@@ -53,8 +51,18 @@
    ]
   },
   {
+   "name": "스포티지",
+   "count": 2,
+   "prev": 1,
+   "rise": -1,
+   "moto": false,
+   "why": [
+    "판매 1위"
+   ]
+  },
+  {
    "name": "EV5",
-   "count": 3,
+   "count": 2,
    "prev": 1,
    "rise": -6,
    "moto": false,
@@ -62,17 +70,9 @@
   },
   {
    "name": "모델 3",
-   "count": 2,
+   "count": 1,
    "prev": 0,
    "rise": -10,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "GV90",
-   "count": 2,
-   "prev": 1,
-   "rise": -7,
    "moto": false,
    "why": []
   },

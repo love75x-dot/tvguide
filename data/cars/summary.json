@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-11T06:08:40.051917+09:00",
+ "updated": "2026-11-11T07:10:59.812098+09:00",
  "hot": [
   {
    "name": "사이버트럭",
-   "count": 24,
-   "prev": 66,
+   "count": 23,
+   "prev": 67,
    "rise": -29,
    "moto": false,
    "why": [
@@ -14,7 +14,7 @@
   },
   {
    "name": "GV90",
-   "count": 17,
+   "count": 18,
    "prev": 1,
    "rise": -32,
    "moto": false,
@@ -52,6 +52,16 @@
    ]
   },
   {
+   "name": "G80",
+   "count": 1,
+   "prev": 2,
+   "rise": -36,
+   "moto": false,
+   "why": [
+    "출시"
+   ]
+  },
+  {
    "name": "디펜더",
    "count": 1,
    "prev": 0,
@@ -80,14 +90,6 @@
    "count": 1,
    "prev": 0,
    "rise": -32,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "S클래스",
-   "count": 1,
-   "prev": 0,
-   "rise": -48,
    "moto": false,
    "why": []
   }
@@ -120,9 +122,9 @@
   {
    "name": "GV90",
    "status": "out",
-   "date": "2026-11-10",
-   "title": "제네시스, 초대형 전기 SUV ‘GV90’·‘GV90 네오룬’ 출시 ..가격은 1억...",
-   "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63127",
+   "date": "2026-11-11",
+   "title": "[ 신차출시 ] 시동 버튼 없이 탄다니, GV90의 정체는?",
+   "link": "https://www.cbci.co.kr/news/articleView.html?idxno=625242",
    "moto": false
   },
   {
@@ -131,6 +133,14 @@
    "date": null,
    "title": "기아 K5 내년 초 출시 …5000만원 근접 아반떼 따라가나",
    "link": "https://www.dt.co.kr/article/12093429?ref=naver",
+   "moto": false
+  },
+  {
+   "name": "G80",
+   "status": "tbd",
+   "date": null,
+   "title": "[단독] 제네시스 G80 하이브리드 연내 출시 끝내 무산...노사 갈등에 27...",
+   "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=767928",
    "moto": false
   }
  ]

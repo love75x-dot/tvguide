@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:10:48.036295+09:00",
+ "updated": "2026-11-10T18:40:37.363015+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -45,7 +45,7 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 26,
+   "count": 25,
    "angles": [
     "에 좋은",
     "부작용",
@@ -77,17 +77,17 @@
      "by": "job-post.co.kr"
     },
     {
-     "title": "[청송 소식] 군민 8220명 독감·코로나 예방접종 완료",
-     "link": "https://www.sidae.com/article/2026111010160697950",
-     "t": "2026-11-10T10:29:00+09:00",
-     "by": "sidae.com"
+     "title": "김숙, 대구 3대 감기 약 섭렵.. \"독감 예방 주사처럼 곰탕·소시지 먹어\" ...",
+     "link": "https://www.tvreport.co.kr/breaking/article/1089544/",
+     "t": "2026-11-09T21:16:00+09:00",
+     "by": "tvreport.co.kr"
     }
    ]
   },
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 23,
+   "count": 24,
    "angles": [
     "부작용",
     "효능",
@@ -95,6 +95,12 @@
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "만성콩팥병 환자 단백질 줄이면 ‘독’…사망위험 2.2배↑",
+     "link": "http://www.jndn.com/article.php?aid=1794301815442836014",
+     "t": "2026-11-10T18:14:00+09:00",
+     "by": "jndn.com"
+    },
     {
      "title": "단백질 적게 먹을수록 위험?…만성콩팥병 '저단백 식사' 재평가",
      "link": "https://www.medipana.com/news/articleView.html?idxno=421456",
@@ -118,12 +124,6 @@
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/10/2026111002527.html",
      "t": "2026-11-10T16:51:00+09:00",
      "by": "health.chosun.com"
-    },
-    {
-     "title": "만성 콩팥병 환자, 단백질 과도하게 줄이면 '위험'…투석·사망 위험",
-     "link": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45581",
-     "t": "2026-11-10T15:40:00+09:00",
-     "by": "hemophilia.co.kr"
     }
    ]
   },
@@ -256,7 +256,7 @@
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 13,
+   "count": 12,
    "angles": [
     "효능",
     "부작용",
@@ -288,10 +288,10 @@
      "by": "health.chosun.com"
     },
     {
-     "title": "카드론 22건을 한 번에…온투업 중금리 대환 '이자 다이어트 ' 돌풍",
-     "link": "https://www.widedaily.com/news/articleView.html?idxno=303208",
-     "t": "2026-11-10T10:32:00+09:00",
-     "by": "widedaily.com"
+     "title": "다이어트 성공하려면 동물성 대신 식물성 단백질…연구",
+     "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713809",
+     "t": "2026-11-09T14:30:00+09:00",
+     "by": "digitaltoday.co.kr"
     }
    ]
   },
@@ -679,41 +679,6 @@
    ]
   },
   {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 4,
-   "angles": [
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "청송군, 독감·코로나19 예방접종 8천220명 완료",
-     "link": "https://www.imaeil.com/page/view/2026111011114191628",
-     "t": "2026-11-10T15:13:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "청주시, 일반 고위험군·면역저하자 대상 코로나19 예방접종",
-     "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=362257",
-     "t": "2026-11-10T13:16:00+09:00",
-     "by": "ccreview.co.kr"
-    },
-    {
-     "title": "[청송 소식] 군민 8220명 독감·코로나 예방접종 완료",
-     "link": "https://www.sidae.com/article/2026111010160697950",
-     "t": "2026-11-10T10:29:00+09:00",
-     "by": "sidae.com"
-    },
-    {
-     "title": "청송군, 인플루엔자·코로나19 예방접종 8220명 완료",
-     "link": "https://www.kbsm.net/news/view.php?idx=540962",
-     "t": "2026-11-09T13:54:00+09:00",
-     "by": "kbsm.net"
-    }
-   ]
-  },
-  {
    "name": "폐렴",
    "kind": "질환·증상",
    "count": 4,
@@ -831,6 +796,35 @@
      "link": "https://www.khan.co.kr/article/202611080700011",
      "t": "2026-11-08T07:00:00+09:00",
      "by": "khan.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "코로나",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "청송군, 독감·코로나19 예방접종 8천220명 완료",
+     "link": "https://www.imaeil.com/page/view/2026111011114191628",
+     "t": "2026-11-10T15:13:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "청주시, 일반 고위험군·면역저하자 대상 코로나19 예방접종",
+     "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=362257",
+     "t": "2026-11-10T13:16:00+09:00",
+     "by": "ccreview.co.kr"
+    },
+    {
+     "title": "청송군, 인플루엔자·코로나19 예방접종 8220명 완료",
+     "link": "https://www.kbsm.net/news/view.php?idx=540962",
+     "t": "2026-11-09T13:54:00+09:00",
+     "by": "kbsm.net"
     }
    ]
   },

@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10T22:10:58.635984+09:00",
+ "updated": "2026-11-10T23:08:34.888509+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 27,
+   "count": 26,
    "angles": [
     "에 좋은",
     "효능"
@@ -87,7 +87,7 @@
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 23,
+   "count": 22,
    "angles": [
     "부작용",
     "효능",
@@ -210,6 +210,49 @@
    ]
   },
   {
+   "name": "치매",
+   "kind": "질환·증상",
+   "count": 15,
+   "angles": [
+    "부작용",
+    "에 좋은",
+    "먹는 법",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "당장 담배 끊어야 할 이유 또 생겼다… “치매 위험 높아”",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/10/2026111002758.html",
+     "t": "2026-11-10T23:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "흡연자 치매 위험 31% 높아…금연하면 비흡연자 수준에 근접",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624231",
+     "t": "2026-11-10T16:38:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "[의료 특집] 경북도립김천노인전문요양병원, 치매 전문치료· 재활·지역...",
+     "link": "https://www.idaegu.com/news/articleView.html?idxno=666887",
+     "t": "2026-11-10T16:30:00+09:00",
+     "by": "idaegu.com"
+    },
+    {
+     "title": "청뇌한의원, 치매ㆍ알츠하이머 연구성과 공개… SCI급 국제학술지 논문...",
+     "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36055",
+     "t": "2026-11-10T14:28:00+09:00",
+     "by": "biotimes.co.kr"
+    },
+    {
+     "title": "\"하루 15분 걷기의 힘\"… 뇌혈관 질환 자 치매 위험 반으로 줄었다",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69864",
+     "t": "2026-11-10T13:00:00+09:00",
+     "by": "hidoc.co.kr"
+    }
+   ]
+  },
+  {
    "name": "다이어트",
    "kind": "운동·생활",
    "count": 14,
@@ -248,49 +291,6 @@
      "link": "https://www.wikitree.co.kr/articles/1173354",
      "t": "2026-11-10T12:26:00+09:00",
      "by": "wikitree.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "치매",
-   "kind": "질환·증상",
-   "count": 14,
-   "angles": [
-    "부작용",
-    "에 좋은",
-    "먹는 법",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "흡연자 치매 위험 31% 높아…금연하면 비흡연자 수준에 근접",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624231",
-     "t": "2026-11-10T16:38:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "[의료 특집] 경북도립김천노인전문요양병원, 치매 전문치료· 재활·지역...",
-     "link": "https://www.idaegu.com/news/articleView.html?idxno=666887",
-     "t": "2026-11-10T16:30:00+09:00",
-     "by": "idaegu.com"
-    },
-    {
-     "title": "청뇌한의원, 치매ㆍ알츠하이머 연구성과 공개… SCI급 국제학술지 논문...",
-     "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36055",
-     "t": "2026-11-10T14:28:00+09:00",
-     "by": "biotimes.co.kr"
-    },
-    {
-     "title": "\"하루 15분 걷기의 힘\"… 뇌혈관 질환 자 치매 위험 반으로 줄었다",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69864",
-     "t": "2026-11-10T13:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "햇빛 얼마나 쬐세요?…치매 위험과 '하루 42분의 비밀",
-     "link": "https://zdnet.co.kr/view/?no=20261109175809",
-     "t": "2026-11-09T23:01:00+09:00",
-     "by": "zdnet.co.kr"
     }
    ]
   },
@@ -716,40 +716,6 @@
    ]
   },
   {
-   "name": "우유",
-   "kind": "식품·제철",
-   "count": 4,
-   "angles": [
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "\"우유 대신 귀리음료로 주세요\"…건강 챙기려다 부족해지는 '이 영양소...",
-     "link": "https://www.mt.co.kr/thebio/2026/11/10/2026111009331512293",
-     "t": "2026-11-10T14:32:00+09:00",
-     "by": "mt.co.kr"
-    },
-    {
-     "title": "[비즈 인사이트] 흰 우유의 한계를 넘어…서울우유, 프리미엄· 건강 식품 ...",
-     "link": "https://www.moneystorm.kr/news/articleView.html?idxno=8261",
-     "t": "2026-11-10T14:03:00+09:00",
-     "by": "moneystorm.kr"
-    },
-    {
-     "title": "“주스 대신 과일 먹고, 우유는 저지방으로”… 콜레스테롤 낮추는 식사...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/09/2026110903097.html",
-     "t": "2026-11-09T22:31:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "서울우유, 혈당 관리 고려한 '한끼식사 당밸런스' 출시…A2 우유·단백질...",
-     "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=71652",
-     "t": "2026-11-07T22:42:00+09:00",
-     "by": "youngnong.co.kr"
-    }
-   ]
-  },
-  {
    "name": "폐렴",
    "kind": "질환·증상",
    "count": 4,
@@ -813,6 +779,34 @@
      "link": "https://www.biospectator.com/view/news_view.php?varAtcId=30335",
      "t": "2026-11-09T09:50:00+09:00",
      "by": "biospectator.com"
+    }
+   ]
+  },
+  {
+   "name": "우유",
+   "kind": "식품·제철",
+   "count": 3,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "\"우유 대신 귀리음료로 주세요\"…건강 챙기려다 부족해지는 '이 영양소...",
+     "link": "https://www.mt.co.kr/thebio/2026/11/10/2026111009331512293",
+     "t": "2026-11-10T14:32:00+09:00",
+     "by": "mt.co.kr"
+    },
+    {
+     "title": "[비즈 인사이트] 흰 우유의 한계를 넘어…서울우유, 프리미엄· 건강 식품 ...",
+     "link": "https://www.moneystorm.kr/news/articleView.html?idxno=8261",
+     "t": "2026-11-10T14:03:00+09:00",
+     "by": "moneystorm.kr"
+    },
+    {
+     "title": "“주스 대신 과일 먹고, 우유는 저지방으로”… 콜레스테롤 낮추는 식사...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/09/2026110903097.html",
+     "t": "2026-11-09T22:31:00+09:00",
+     "by": "health.chosun.com"
     }
    ]
   },

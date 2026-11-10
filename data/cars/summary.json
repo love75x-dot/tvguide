@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10T12:08:31.094794+09:00",
+ "updated": "2026-11-10T13:10:57.469402+09:00",
  "hot": [
   {
    "name": "사이버트럭",
-   "count": 35,
-   "prev": 54,
+   "count": 32,
+   "prev": 57,
    "rise": 112,
    "moto": false,
    "why": [
@@ -33,15 +33,31 @@
   },
   {
    "name": "아반떼",
-   "count": 6,
+   "count": 4,
    "prev": 6,
    "rise": -18,
    "moto": false,
    "why": [
-    "출시",
-    "가격 인하",
     "리콜"
    ]
+  },
+  {
+   "name": "PV5",
+   "count": 2,
+   "prev": 5,
+   "rise": -15,
+   "moto": false,
+   "why": [
+    "보조금"
+   ]
+  },
+  {
+   "name": "무쏘",
+   "count": 1,
+   "prev": 0,
+   "rise": -5,
+   "moto": false,
+   "why": []
   },
   {
    "name": "S클래스",
@@ -75,24 +91,6 @@
    "moto": false,
    "why": [
     "판매 1위"
-   ]
-  },
-  {
-   "name": "모델 3",
-   "count": 1,
-   "prev": 0,
-   "rise": -4,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "모델 Y",
-   "count": 1,
-   "prev": 4,
-   "rise": -12,
-   "moto": false,
-   "why": [
-    "보조금"
    ]
   }
  ],
@@ -130,19 +128,19 @@
    "moto": false
   },
   {
-   "name": "아반떼",
-   "status": "out",
-   "date": "2026-11-10",
-   "title": "현대차, 신형 아반떼 출시 3개월 만에 100만원 할인·계기판 무상 제공…...",
-   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502379",
-   "moto": false
-  },
-  {
    "name": "GV90",
    "status": "out",
    "date": "2026-11-10",
    "title": "제네시스, 초대형 전기 SUV 'GV90' 출시 …가격 1억3950만원부터",
    "link": "https://www.imaeil.com/page/view/2026111011324587467",
+   "moto": false
+  },
+  {
+   "name": "아반떼",
+   "status": "tbd",
+   "date": null,
+   "title": "기아 K5 내년 초 출시 …5000만원 근접 아반떼 따라가나",
+   "link": "https://www.dt.co.kr/article/12093429?ref=naver",
    "moto": false
   }
  ]

@@ -266,7 +266,7 @@
     }
    ],
    "first": "00:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 2,
    "hours": [
     "00:10",
@@ -289,15 +289,16 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 21
+    "nate_pop": 29,
+    "nate_int": 20
    },
    "count": 4,
    "inrank": true
@@ -580,7 +581,7 @@
     }
    ],
    "first": "00:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 1,
    "hours": [
     "00:10",
@@ -604,7 +605,8 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
@@ -612,7 +614,7 @@
    ],
    "now": {
     "nate_pop": 19,
-    "nate_int": 12
+    "nate_int": 13
    },
    "count": 4,
    "inrank": true
@@ -840,7 +842,7 @@
     }
    ],
    "first": "00:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 5,
    "hours": [
     "00:10",
@@ -853,15 +855,15 @@
     "06:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 18
+    "nate_int": 28
    },
    "count": 3,
    "inrank": true
@@ -873,13 +875,15 @@
     "[포토] 권은비, 아찔한 각선미",
     "레드벨벳 조이 '다이어트로 완성한 명품 각선미'[엑's HD포토]",
     "[포토] 혜리 '다이어트 성공'",
-    "최준희 두번째 계정 또 '삭제'…뼈말라 다이어트·성형 공개 탓? 이유는 '..."
+    "최준희 두번째 계정 또 '삭제'…뼈말라 다이어트·성형 공개 탓? 이유는 '...",
+    "미즈하라 키코 '극세사 각선미'[엑's HD포토]"
    ],
    "links": [
     "https://news.nate.com/view/20261109n27421",
     "https://news.nate.com/view/20261109n19648",
     "https://news.nate.com/view/20261109n15340",
-    "https://news.nate.com/view/20261109n11281"
+    "https://news.nate.com/view/20261109n11281",
+    "https://news.nate.com/view/20261110n34448"
    ],
    "articles": [
     {
@@ -901,10 +905,15 @@
      "title": "최준희 두번째 계정 또 '삭제'…뼈말라 다이어트·성형 공개 탓? 이유는 '...",
      "link": "https://news.nate.com/view/20261109n11281",
      "media": "뉴스엔"
+    },
+    {
+     "title": "미즈하라 키코 '극세사 각선미'[엑's HD포토]",
+     "link": "https://news.nate.com/view/20261110n34448",
+     "media": "엑스포츠뉴스"
     }
    ],
    "first": "00:10",
-   "last": "11:08",
+   "last": "21:08",
    "best": 7,
    "hours": [
     "00:10",
@@ -920,15 +929,18 @@
     "09:08",
     "10:08",
     "11:01",
-    "11:08"
+    "11:08",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 4,
-   "inrank": false
+   "now": {
+    "nate_int": 42
+   },
+   "count": 5,
+   "inrank": true
   },
   {
    "id": "c18",
@@ -1036,7 +1048,7 @@
     }
    ],
    "first": "00:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 4,
    "hours": [
     "00:10",
@@ -1051,15 +1063,16 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 11
+    "nate_pop": 22,
+    "nate_int": 29
    },
    "count": 3,
    "inrank": true
@@ -1475,11 +1488,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 32
-   },
+   "now": {},
    "count": 4,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c30",
@@ -2095,7 +2106,7 @@
     }
    ],
    "first": "02:08",
-   "last": "20:10",
+   "last": "21:08",
    "best": 1,
    "hours": [
     "02:08",
@@ -2119,14 +2130,16 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 28
+    "nate_pop": 30,
+    "nate_int": 25
    },
    "count": 2,
    "inrank": true
@@ -2162,7 +2175,7 @@
     }
    ],
    "first": "02:08",
-   "last": "20:10",
+   "last": "21:08",
    "best": 2,
    "hours": [
     "02:08",
@@ -2186,14 +2199,16 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 27
+    "nate_pop": 28,
+    "nate_int": 24
    },
    "count": 3,
    "inrank": true
@@ -2874,7 +2889,7 @@
     }
    ],
    "first": "08:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 8,
    "hours": [
     "08:10",
@@ -2883,15 +2898,16 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 14
+    "nate_pop": 16,
+    "nate_int": 15
    },
    "count": 2,
    "inrank": true
@@ -2920,7 +2936,7 @@
     }
    ],
    "first": "09:08",
-   "last": "20:10",
+   "last": "21:08",
    "best": 1,
    "hours": [
     "09:08",
@@ -2936,14 +2952,15 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
+    "nate_pop": 26,
     "nate_int": 30
    },
    "count": 2,
@@ -2980,7 +2997,7 @@
     }
    ],
    "first": "09:08",
-   "last": "20:10",
+   "last": "21:08",
    "best": 2,
    "hours": [
     "09:08",
@@ -2993,7 +3010,8 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
@@ -3366,13 +3384,15 @@
     "이지혜, '아동학대 논란' 민속촌 귀신 체험…딸 결국 오열 \"안쓰러워\"[관종...",
     "이지혜, 두 딸 데리고 '아동학대 논란' 귀신 체험…\"트라우마까진\"",
     "이지혜, 아동 학대 논란 '한국민속촌'에 \"트라우마까진 모르겠다\"…딸 엘리...",
-    "\"계속 민원 넣어줄게\"…이지혜, '민속촌 귀신' 아동학대 논란 언급에 ..."
+    "\"계속 민원 넣어줄게\"…이지혜, '민속촌 귀신' 아동학대 논란 언급에 ...",
+    "이지혜 \"너희 한번 맛봐라\"…민속촌 '귀신 참교육' 트라우마 논란에 한마디"
    ],
    "links": [
     "https://news.nate.com/view/20261110n03742",
     "https://news.nate.com/view/20261110n10951",
     "https://news.nate.com/view/20261110n10750",
-    "https://news.nate.com/view/20261110n33403"
+    "https://news.nate.com/view/20261110n33403",
+    "https://news.nate.com/view/20261110n31460"
    ],
    "articles": [
     {
@@ -3394,10 +3414,15 @@
      "title": "\"계속 민원 넣어줄게\"…이지혜, '민속촌 귀신' 아동학대 논란 언급에 ...",
      "link": "https://news.nate.com/view/20261110n33403",
      "media": "스포츠서울"
+    },
+    {
+     "title": "이지혜 \"너희 한번 맛봐라\"…민속촌 '귀신 참교육' 트라우마 논란에 한마디",
+     "link": "https://news.nate.com/view/20261110n31460",
+     "media": "뉴스1"
     }
    ],
    "first": "10:08",
-   "last": "20:10",
+   "last": "21:08",
    "best": 1,
    "hours": [
     "10:08",
@@ -3409,7 +3434,8 @@
     "15:10",
     "16:10",
     "17:08",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_int",
@@ -3419,7 +3445,7 @@
     "nate_pop": 1,
     "nate_int": 1
    },
-   "count": 4,
+   "count": 5,
    "inrank": true
   },
   {
@@ -3505,7 +3531,7 @@
     }
    ],
    "first": "11:01",
-   "last": "20:10",
+   "last": "21:08",
    "best": 13,
    "hours": [
     "11:01",
@@ -3519,13 +3545,14 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 29
+    "nate_int": 27
    },
    "count": 1,
    "inrank": true
@@ -3629,7 +3656,7 @@
     }
    ],
    "first": "12:08",
-   "last": "20:10",
+   "last": "21:08",
    "best": 1,
    "hours": [
     "12:08",
@@ -3641,15 +3668,16 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 6
+    "nate_pop": 14,
+    "nate_int": 8
    },
    "count": 4,
    "inrank": true
@@ -3931,7 +3959,7 @@
     }
    ],
    "first": "13:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 9,
    "hours": [
     "13:10",
@@ -3942,14 +3970,15 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 38
+    "nate_int": 45
    },
    "count": 1,
    "inrank": true
@@ -4256,7 +4285,7 @@
     }
    ],
    "first": "14:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 17,
    "hours": [
     "14:10",
@@ -4266,15 +4295,15 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 36
+    "nate_int": 38
    },
    "count": 1,
    "inrank": true
@@ -4311,11 +4340,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c105",
@@ -4334,7 +4361,7 @@
     }
    ],
    "first": "15:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 3,
    "hours": [
     "15:10",
@@ -4343,15 +4370,15 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 24
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -4388,11 +4415,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 25
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c107",
@@ -4404,7 +4429,8 @@
     "난리 난 젝키 3인…이재진 \"디너쇼 불참\" vs \"고지용·장수원과 무관\" 갈...",
     "젝스키스 이재진 \"행사 참가비 주최 측 대표가 착복…불참 의사도 무시\" 주...",
     "이재진·장수원·고지용 연말 공연, 결국 '취소 엔딩'",
-    "장수원 측 \"젝스키스 재결합 취소…금전 피해 주의하길\" [전문]"
+    "장수원 측 \"젝스키스 재결합 취소…금전 피해 주의하길\" [전문]",
+    "[단독] 무산된 젝키 디너쇼, 결국 경찰서까지…주최측 \"오늘부터 공식 ..."
    ],
    "links": [
     "https://news.nate.com/view/20261110n18247",
@@ -4413,7 +4439,8 @@
     "https://news.nate.com/view/20261110n22384",
     "https://news.nate.com/view/20261110n18644",
     "https://news.nate.com/view/20261110n26026",
-    "https://news.nate.com/view/20261110n25852"
+    "https://news.nate.com/view/20261110n25852",
+    "https://news.nate.com/view/20261110n31908"
    ],
    "articles": [
     {
@@ -4450,10 +4477,15 @@
      "title": "장수원 측 \"젝스키스 재결합 취소…금전 피해 주의하길\" [전문]",
      "link": "https://news.nate.com/view/20261110n25852",
      "media": "스포츠투데이"
+    },
+    {
+     "title": "[단독] 무산된 젝키 디너쇼, 결국 경찰서까지…주최측 \"오늘부터 공식 ...",
+     "link": "https://news.nate.com/view/20261110n31908",
+     "media": "스포츠경향"
     }
    ],
    "first": "15:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 2,
    "hours": [
     "15:10",
@@ -4462,17 +4494,18 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 5
+    "nate_pop": 2,
+    "nate_int": 2
    },
-   "count": 7,
+   "count": 8,
    "inrank": true
   },
   {
@@ -4556,7 +4589,7 @@
     }
    ],
    "first": "15:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 11,
    "hours": [
     "15:10",
@@ -4565,15 +4598,16 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 23
+    "nate_pop": 20,
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -4655,7 +4689,7 @@
     }
    ],
    "first": "16:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 1,
    "hours": [
     "16:10",
@@ -4663,15 +4697,16 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 9
+    "nate_pop": 11,
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -4700,7 +4735,7 @@
     }
    ],
    "first": "16:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 6,
    "hours": [
     "16:10",
@@ -4708,15 +4743,15 @@
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 26,
-    "nate_int": 33
+    "nate_int": 36
    },
    "count": 2,
    "inrank": true
@@ -4766,11 +4801,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 49
-   },
+   "now": {},
    "count": 3,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c116",
@@ -4837,11 +4870,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 46
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c118",
@@ -4976,22 +5007,23 @@
     }
    ],
    "first": "17:08",
-   "last": "20:10",
+   "last": "21:08",
    "best": 2,
    "hours": [
     "17:08",
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 8
+    "nate_pop": 17,
+    "nate_int": 12
    },
    "count": 1,
    "inrank": true
@@ -5042,22 +5074,23 @@
     }
    ],
    "first": "17:08",
-   "last": "20:10",
+   "last": "21:08",
    "best": 1,
    "hours": [
     "17:08",
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 2
+    "nate_pop": 6,
+    "nate_int": 4
    },
    "count": 1,
    "inrank": true
@@ -5124,11 +5157,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 47
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c127",
@@ -5147,20 +5178,21 @@
     }
    ],
    "first": "17:08",
-   "last": "20:10",
+   "last": "21:08",
    "best": 36,
    "hours": [
     "17:08",
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 45
+    "nate_int": 49
    },
    "count": 1,
    "inrank": true
@@ -5240,21 +5272,22 @@
     }
    ],
    "first": "18:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 3,
    "hours": [
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 10
+    "nate_pop": 18,
+    "nate_int": 19
    },
    "count": 1,
    "inrank": true
@@ -5276,21 +5309,22 @@
     }
    ],
    "first": "18:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 4,
    "hours": [
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 15
+    "nate_pop": 24,
+    "nate_int": 31
    },
    "count": 1,
    "inrank": true
@@ -5312,21 +5346,22 @@
     }
    ],
    "first": "18:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 12,
    "hours": [
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 19
+    "nate_pop": 27,
+    "nate_int": 21
    },
    "count": 1,
    "inrank": true
@@ -5348,21 +5383,21 @@
     }
    ],
    "first": "18:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 21,
    "hours": [
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 31
+    "nate_int": 39
    },
    "count": 1,
    "inrank": true
@@ -5384,13 +5419,14 @@
     }
    ],
    "first": "18:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 25,
    "hours": [
     "18:10",
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_int",
@@ -5450,20 +5486,21 @@
     }
    ],
    "first": "18:40",
-   "last": "20:10",
+   "last": "21:08",
    "best": 1,
    "hours": [
     "18:40",
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 3
+    "nate_pop": 5,
+    "nate_int": 5
    },
    "count": 1,
    "inrank": true
@@ -5492,19 +5529,20 @@
     }
    ],
    "first": "19:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 3,
    "hours": [
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 13
+    "nate_pop": 12,
+    "nate_int": 18
    },
    "count": 2,
    "inrank": true
@@ -5526,19 +5564,20 @@
     }
    ],
    "first": "19:10",
-   "last": "20:10",
-   "best": 7,
+   "last": "21:08",
+   "best": 6,
    "hours": [
     "19:10",
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 7
+    "nate_pop": 15,
+    "nate_int": 6
    },
    "count": 1,
    "inrank": true
@@ -5560,18 +5599,19 @@
     }
    ],
    "first": "20:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 2,
    "hours": [
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 34
+    "nate_pop": 3,
+    "nate_int": 3
    },
    "count": 1,
    "inrank": true
@@ -5593,18 +5633,19 @@
     }
    ],
    "first": "20:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 6,
    "hours": [
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 40
+    "nate_pop": 9,
+    "nate_int": 11
    },
    "count": 1,
    "inrank": true
@@ -5613,33 +5654,41 @@
    "id": "c141",
    "title": "확 달라진 신동 \"37㎏ 아닌 25㎏ 감량, 비만치료제 도움 받아\" (살롱드립)",
    "titles": [
-    "확 달라진 신동 \"37㎏ 아닌 25㎏ 감량, 비만치료제 도움 받아\" (살롱드립)"
+    "확 달라진 신동 \"37㎏ 아닌 25㎏ 감량, 비만치료제 도움 받아\" (살롱드립)",
+    "'위고비 실패' 신동, 반쪽 됐다…\"25㎏ 감량 비결? 마운자로\""
    ],
    "links": [
-    "https://news.nate.com/view/20261110n33326"
+    "https://news.nate.com/view/20261110n33326",
+    "https://news.nate.com/view/20261110n33585"
    ],
    "articles": [
     {
      "title": "확 달라진 신동 \"37㎏ 아닌 25㎏ 감량, 비만치료제 도움 받아\" (살롱드립)",
      "link": "https://news.nate.com/view/20261110n33326",
      "media": "뉴스엔"
+    },
+    {
+     "title": "'위고비 실패' 신동, 반쪽 됐다…\"25㎏ 감량 비결? 마운자로\"",
+     "link": "https://news.nate.com/view/20261110n33585",
+     "media": "머니투데이"
     }
    ],
    "first": "20:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 4,
    "hours": [
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 4
+    "nate_pop": 4,
+    "nate_int": 7
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -5659,16 +5708,17 @@
     }
    ],
    "first": "20:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 22,
    "hours": [
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 22
+    "nate_int": 40
    },
    "count": 1,
    "inrank": true
@@ -5697,16 +5747,19 @@
     }
    ],
    "first": "20:10",
-   "last": "20:10",
-   "best": 37,
+   "last": "21:08",
+   "best": 21,
    "hours": [
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 37
+    "nate_pop": 21,
+    "nate_int": 32
    },
    "count": 2,
    "inrank": true
@@ -5728,16 +5781,178 @@
     }
    ],
    "first": "20:10",
-   "last": "20:10",
+   "last": "21:08",
    "best": 42,
    "hours": [
-    "20:10"
+    "20:10",
+    "21:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 42
+    "nate_int": 43
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c145",
+   "title": "전직 걸그룹 멤버, 성형외과 실장 된 근황…\"아이돌 때보다 더 예뻐져\"",
+   "titles": [
+    "전직 걸그룹 멤버, 성형외과 실장 된 근황…\"아이돌 때보다 더 예뻐져\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261110n33092"
+   ],
+   "articles": [
+    {
+     "title": "전직 걸그룹 멤버, 성형외과 실장 된 근황…\"아이돌 때보다 더 예뻐져\"",
+     "link": "https://news.nate.com/view/20261110n33092",
+     "media": "마이데일리"
+    }
+   ],
+   "first": "21:08",
+   "last": "21:08",
+   "best": 7,
+   "hours": [
+    "21:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 7,
+    "nate_int": 10
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c146",
+   "title": "\"오세훈 옆에 오세훈?\"…엑소 세훈, 서울시장 사인 옆에 남긴 재치",
+   "titles": [
+    "\"오세훈 옆에 오세훈?\"…엑소 세훈, 서울시장 사인 옆에 남긴 재치"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261110n34816"
+   ],
+   "articles": [
+    {
+     "title": "\"오세훈 옆에 오세훈?\"…엑소 세훈, 서울시장 사인 옆에 남긴 재치",
+     "link": "https://news.nate.com/view/20261110n34816",
+     "media": "스포츠서울"
+    }
+   ],
+   "first": "21:08",
+   "last": "21:08",
+   "best": 8,
+   "hours": [
+    "21:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 8,
+    "nate_int": 33
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c147",
+   "title": "김유정 '파격 의상에 깜짝'[엑's HD포토]",
+   "titles": [
+    "김유정 '파격 의상에 깜짝'[엑's HD포토]"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261110n34142"
+   ],
+   "articles": [
+    {
+     "title": "김유정 '파격 의상에 깜짝'[엑's HD포토]",
+     "link": "https://news.nate.com/view/20261110n34142",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "21:08",
+   "last": "21:08",
+   "best": 25,
+   "hours": [
+    "21:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 25,
+    "nate_int": 37
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c148",
+   "title": "장동민, ♥아내와 극과 극 성향에 스트레스…\"신혼 초 엄청 힘들었다\" (살...",
+   "titles": [
+    "장동민, ♥아내와 극과 극 성향에 스트레스…\"신혼 초 엄청 힘들었다\" (살..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261110n33083"
+   ],
+   "articles": [
+    {
+     "title": "장동민, ♥아내와 극과 극 성향에 스트레스…\"신혼 초 엄청 힘들었다\" (살...",
+     "link": "https://news.nate.com/view/20261110n33083",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "21:08",
+   "last": "21:08",
+   "best": 34,
+   "hours": [
+    "21:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 34
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c149",
+   "title": "이수혁, 압도적인 아우라 [포토엔HD]",
+   "titles": [
+    "이수혁, 압도적인 아우라 [포토엔HD]"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261110n34420"
+   ],
+   "articles": [
+    {
+     "title": "이수혁, 압도적인 아우라 [포토엔HD]",
+     "link": "https://news.nate.com/view/20261110n34420",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "21:08",
+   "last": "21:08",
+   "best": 46,
+   "hours": [
+    "21:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 46
    },
    "count": 1,
    "inrank": true
@@ -5935,9 +6150,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "21:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-10T20:10:43.365845+09:00",
+ "updated": "2026-11-10T21:08:26.327208+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

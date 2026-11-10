@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-10T19:10:57.233235+09:00",
+ "updated": "2026-11-10T20:10:47.417969+09:00",
  "hot": [
   {
    "name": "사이버트럭",
-   "count": 25,
+   "count": 26,
    "prev": 65,
    "rise": 112,
    "moto": false,
@@ -41,16 +41,6 @@
    "why": []
   },
   {
-   "name": "PV5",
-   "count": 3,
-   "prev": 5,
-   "rise": -15,
-   "moto": false,
-   "why": [
-    "보조금"
-   ]
-  },
-  {
    "name": "모델 Y",
    "count": 2,
    "prev": 4,
@@ -59,6 +49,14 @@
    "why": [
     "보조금"
    ]
+  },
+  {
+   "name": "PV5",
+   "count": 2,
+   "prev": 5,
+   "rise": -15,
+   "moto": false,
+   "why": []
   },
   {
    "name": "아이오닉 5",
@@ -87,12 +85,14 @@
    ]
   },
   {
-   "name": "렉스턴",
+   "name": "스포티지",
    "count": 1,
-   "prev": 0,
-   "rise": -1,
+   "prev": 2,
+   "rise": 0,
    "moto": false,
-   "why": []
+   "why": [
+    "판매 1위"
+   ]
   }
  ],
  "calendar": [

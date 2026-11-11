@@ -1,10 +1,20 @@
 {
- "updated": "2026-11-11T11:08:36.595937+09:00",
+ "updated": "2026-11-11T12:10:52.733575+09:00",
  "hot": [
   {
+   "name": "GV60",
+   "count": 19,
+   "prev": 0,
+   "rise": -1,
+   "moto": false,
+   "why": [
+    "판매 1위"
+   ]
+  },
+  {
    "name": "GV90",
-   "count": 20,
-   "prev": 1,
+   "count": 19,
+   "prev": 2,
    "rise": 173,
    "moto": false,
    "why": [
@@ -15,24 +25,14 @@
   {
    "name": "사이버트럭",
    "count": 18,
-   "prev": 73,
+   "prev": 74,
    "rise": -3,
    "moto": false,
    "why": []
   },
   {
-   "name": "GV60",
-   "count": 15,
-   "prev": 0,
-   "rise": -1,
-   "moto": false,
-   "why": [
-    "판매 1위"
-   ]
-  },
-  {
    "name": "아반떼",
-   "count": 7,
+   "count": 6,
    "prev": 7,
    "rise": -14,
    "moto": false,
@@ -76,24 +76,20 @@
    ]
   },
   {
-   "name": "G80",
+   "name": "PV5",
    "count": 2,
-   "prev": 2,
-   "rise": 2,
+   "prev": 5,
+   "rise": -4,
    "moto": false,
-   "why": [
-    "출시"
-   ]
+   "why": []
   },
   {
-   "name": "랭글러",
-   "count": 1,
+   "name": "레이",
+   "count": 2,
    "prev": 0,
-   "rise": 3,
+   "rise": -8,
    "moto": false,
-   "why": [
-    "출시"
-   ]
+   "why": []
   }
  ],
  "calendar": [
@@ -138,19 +134,19 @@
    "moto": false
   },
   {
+   "name": "카니발",
+   "status": "out",
+   "date": "2026-11-11",
+   "title": "[포토타임] 벤츠 V클래스 국내 첫 출시 …카니발 3배 넘는 1억2400만원",
+   "link": "https://www.joongang.co.kr/article/25477599",
+   "moto": false
+  },
+  {
    "name": "아반떼",
    "status": "tbd",
    "date": null,
    "title": "기아 K5 내년 초 출시 …5000만원 근접 아반떼 따라가나",
    "link": "https://www.dt.co.kr/article/12093429?ref=naver",
-   "moto": false
-  },
-  {
-   "name": "G80",
-   "status": "tbd",
-   "date": null,
-   "title": "[단독] 제네시스 G80 하이브리드 연내 출시 끝내 무산...노사 갈등에 27...",
-   "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=767928",
    "moto": false
   }
  ]

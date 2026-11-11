@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T01:08:33.940241+09:00",
+ "updated": "2026-11-12T02:08:49.218213+09:00",
  "car": [
   {
    "name": "골든 스티어링",
@@ -39,8 +39,14 @@
   },
   {
    "name": "SK하이닉스",
-   "count": 28,
+   "count": 29,
    "items": [
+    {
+     "title": "SK하이닉스, 저전력 D램 국제 안전·보안 인증 획득",
+     "link": "http://www.kjdaily.com/article.php?aid=1794414219691903276",
+     "t": "2026-11-12T01:26:00+09:00",
+     "by": "kjdaily.com"
+    },
     {
      "title": "SK하이닉스, 피지컬 AI 메모리 안전·보안 인증 확보 … 로봇· 자율주행 ...",
      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=91863",
@@ -64,12 +70,6 @@
      "link": "https://www.m-i.kr/news/articleView.html?idxno=2017467",
      "t": "2026-11-11T22:12:00+09:00",
      "by": "m-i.kr"
-    },
-    {
-     "title": "SK하이닉스, 메모리 안전·보안 국제 인증 확보…로봇· 자율주행 시장 ...",
-     "link": "http://www.popcornnews.net/news/articleView.html?idxno=139649",
-     "t": "2026-11-11T21:14:00+09:00",
-     "by": "popcornnews.net"
     }
    ]
   },
@@ -146,42 +146,6 @@
    ]
   },
   {
-   "name": "배터리",
-   "count": 24,
-   "items": [
-    {
-     "title": "포항시, 글로벌 배터리 공급망 재편 대응…국제 산업협력 논의",
-     "link": "http://www.newstown.co.kr/news/articleView.html?idxno=721593",
-     "t": "2026-11-11T23:56:00+09:00",
-     "by": "newstown.co.kr"
-    },
-    {
-     "title": "벤틀리 첫 EV 토르칼, 100만km 극한 검증⋯배터리에 160km/h 충격시험",
-     "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=602006",
-     "t": "2026-11-11T23:26:00+09:00",
-     "by": "autodaily.co.kr"
-    },
-    {
-     "title": "배터리 선도도시 포항, 글로벌 협력 무대 연다",
-     "link": "https://www.ksmnews.co.kr/news/view.php?idx=629388",
-     "t": "2026-11-11T20:52:00+09:00",
-     "by": "ksmnews.co.kr"
-    },
-    {
-     "title": "\" 전기차 에서 로봇까지\"…삼성·현대차 배터리 협력 확장",
-     "link": "https://www.dt.co.kr/article/12094686?ref=naver",
-     "t": "2026-11-11T19:28:00+09:00",
-     "by": "dt.co.kr"
-    },
-    {
-     "title": "'블루웨이브'가 몰고 올 국내 산업 기상도…배터리·전력기기 '맑음'·자...",
-     "link": "http://www.metroseoul.co.kr/article/20261111500543",
-     "t": "2026-11-11T19:04:00+09:00",
-     "by": "metroseoul.co.kr"
-    }
-   ]
-  },
-  {
    "name": "전기차",
    "count": 23,
    "items": [
@@ -214,6 +178,42 @@
      "link": "https://www.dt.co.kr/article/12094686?ref=naver",
      "t": "2026-11-11T19:28:00+09:00",
      "by": "dt.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "배터리",
+   "count": 23,
+   "items": [
+    {
+     "title": "포항시, 글로벌 배터리 공급망 재편 대응…국제 산업협력 논의",
+     "link": "http://www.newstown.co.kr/news/articleView.html?idxno=721593",
+     "t": "2026-11-11T23:56:00+09:00",
+     "by": "newstown.co.kr"
+    },
+    {
+     "title": "벤틀리 첫 EV 토르칼, 100만km 극한 검증⋯배터리에 160km/h 충격시험",
+     "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=602006",
+     "t": "2026-11-11T23:26:00+09:00",
+     "by": "autodaily.co.kr"
+    },
+    {
+     "title": "배터리 선도도시 포항, 글로벌 협력 무대 연다",
+     "link": "https://www.ksmnews.co.kr/news/view.php?idx=629388",
+     "t": "2026-11-11T20:52:00+09:00",
+     "by": "ksmnews.co.kr"
+    },
+    {
+     "title": "\" 전기차 에서 로봇까지\"…삼성·현대차 배터리 협력 확장",
+     "link": "https://www.dt.co.kr/article/12094686?ref=naver",
+     "t": "2026-11-11T19:28:00+09:00",
+     "by": "dt.co.kr"
+    },
+    {
+     "title": "'블루웨이브'가 몰고 올 국내 산업 기상도…배터리·전력기기 '맑음'·자...",
+     "link": "http://www.metroseoul.co.kr/article/20261111500543",
+     "t": "2026-11-11T19:04:00+09:00",
+     "by": "metroseoul.co.kr"
     }
    ]
   }
@@ -320,16 +320,16 @@
      "by": "biz.heraldcorp.com"
     },
     {
-     "title": "노사발전재단, 겨울철 배달노동자 이륜차 무상 안전점검",
-     "link": "https://www.newsis.com/view/NISX20261111_0003863280",
-     "t": "2026-11-11T16:00:00+09:00",
-     "by": "newsis.com"
-    },
-    {
      "title": "노사발전재단, 오토바이 점검부터 마음 안전까지 겨울철 안전 캠페인 추...",
      "link": "https://www.newspim.com/news/view/20261111001076",
      "t": "2026-11-11T16:00:00+09:00",
      "by": "newspim.com"
+    },
+    {
+     "title": "노사발전재단, 겨울철 배달노동자 이륜차 무상 안전점검",
+     "link": "https://www.newsis.com/view/NISX20261111_0003863280",
+     "t": "2026-11-11T16:00:00+09:00",
+     "by": "newsis.com"
     }
    ]
   }

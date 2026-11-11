@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T10:08:37.238471+09:00",
+ "updated": "2026-11-11T11:08:36.595937+09:00",
  "hot": [
   {
    "name": "GV90",
@@ -14,15 +14,15 @@
   },
   {
    "name": "사이버트럭",
-   "count": 19,
-   "prev": 72,
+   "count": 18,
+   "prev": 73,
    "rise": -3,
    "moto": false,
    "why": []
   },
   {
    "name": "GV60",
-   "count": 11,
+   "count": 15,
    "prev": 0,
    "rise": -1,
    "moto": false,
@@ -32,8 +32,8 @@
   },
   {
    "name": "아반떼",
-   "count": 8,
-   "prev": 6,
+   "count": 7,
+   "prev": 7,
    "rise": -14,
    "moto": false,
    "why": [
@@ -49,6 +49,22 @@
    "why": []
   },
   {
+   "name": "EV5",
+   "count": 3,
+   "prev": 0,
+   "rise": 3,
+   "moto": false,
+   "why": []
+  },
+  {
+   "name": "EV2",
+   "count": 3,
+   "prev": 1,
+   "rise": -2,
+   "moto": false,
+   "why": []
+  },
+  {
    "name": "모델 Y",
    "count": 3,
    "prev": 4,
@@ -58,22 +74,6 @@
     "중고차 시세",
     "보조금"
    ]
-  },
-  {
-   "name": "EV5",
-   "count": 2,
-   "prev": 0,
-   "rise": 3,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "EV2",
-   "count": 2,
-   "prev": 1,
-   "rise": -2,
-   "moto": false,
-   "why": []
   },
   {
    "name": "G80",
@@ -86,12 +86,14 @@
    ]
   },
   {
-   "name": "스타리아",
+   "name": "랭글러",
    "count": 1,
    "prev": 0,
-   "rise": -4,
+   "rise": 3,
    "moto": false,
-   "why": []
+   "why": [
+    "출시"
+   ]
   }
  ],
  "calendar": [
@@ -125,6 +127,14 @@
    "date": "2026-11-11",
    "title": "[ 신차출시 ] 시동 버튼 없이 탄다니, GV90의 정체는?",
    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=625242",
+   "moto": false
+  },
+  {
+   "name": "랭글러",
+   "status": "out",
+   "date": "2026-11-11",
+   "title": "[주목! 신차 ] 20대 한정판 지프 '핑크' 랭글러 재 출시 …\"네이버 통해 예약...",
+   "link": "https://www.newsis.com/view/NISX20261111_0003863418",
    "moto": false
   },
   {

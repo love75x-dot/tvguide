@@ -25,7 +25,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -39,15 +39,15 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 31
+    "nate_int": 34
    },
    "count": 2,
    "inrank": true
@@ -83,7 +83,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 2,
    "hours": [
     "00:08",
@@ -97,15 +97,16 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 5
+    "nate_pop": 17,
+    "nate_int": 15
    },
    "count": 3,
    "inrank": true
@@ -225,7 +226,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -239,15 +240,16 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 11
+    "nate_pop": 25,
+    "nate_int": 16
    },
    "count": 15,
    "inrank": true
@@ -303,11 +305,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 48
-   },
+   "now": {},
    "count": 3,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c5",
@@ -346,11 +346,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 47
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c6",
@@ -430,7 +428,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -444,15 +442,16 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 3
+    "nate_pop": 13,
+    "nate_int": 10
    },
    "count": 4,
    "inrank": true
@@ -573,11 +572,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c11",
@@ -596,7 +593,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 9,
    "hours": [
     "00:08",
@@ -610,14 +607,15 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 34
+    "nate_int": 45
    },
    "count": 1,
    "inrank": true
@@ -701,11 +699,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 50
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c14",
@@ -738,7 +734,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 3,
    "hours": [
     "00:08",
@@ -752,15 +748,16 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 19
+    "nate_pop": 21,
+    "nate_int": 22
    },
    "count": 3,
    "inrank": true
@@ -814,7 +811,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 16,
    "hours": [
     "00:08",
@@ -827,14 +824,15 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 37
+    "nate_int": 41
    },
    "count": 1,
    "inrank": true
@@ -903,7 +901,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 15,
    "hours": [
     "00:08",
@@ -917,15 +915,16 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 18
+    "nate_pop": 20,
+    "nate_int": 21
    },
    "count": 2,
    "inrank": true
@@ -934,20 +933,27 @@
    "id": "c19",
    "title": "'닥터X' 외과교수 이성욱, 노홍철 군대 후임이었다…'나혼산'도 함께한 79...",
    "titles": [
-    "'닥터X' 외과교수 이성욱, 노홍철 군대 후임이었다…'나혼산'도 함께한 79..."
+    "'닥터X' 외과교수 이성욱, 노홍철 군대 후임이었다…'나혼산'도 함께한 79...",
+    "이성욱, '닥터X' 종영 인터뷰 취소…작품 논란 여파 [공식입장]"
    ],
    "links": [
-    "https://news.nate.com/view/20261110n35310"
+    "https://news.nate.com/view/20261110n35310",
+    "https://news.nate.com/view/20261111n06224"
    ],
    "articles": [
     {
      "title": "'닥터X' 외과교수 이성욱, 노홍철 군대 후임이었다…'나혼산'도 함께한 79...",
      "link": "https://news.nate.com/view/20261110n35310",
      "media": "스포티비뉴스"
+    },
+    {
+     "title": "이성욱, '닥터X' 종영 인터뷰 취소…작품 논란 여파 [공식입장]",
+     "link": "https://news.nate.com/view/20261111n06224",
+     "media": "iMBC연예"
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "11:08",
    "best": 18,
    "hours": [
     "00:08",
@@ -958,15 +964,19 @@
     "04:10",
     "06:08",
     "07:10",
-    "08:08"
+    "08:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 24,
+    "nate_int": 27
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c20",
@@ -1049,7 +1059,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 4,
    "hours": [
     "00:08",
@@ -1060,7 +1070,8 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
@@ -1068,7 +1079,7 @@
    ],
    "now": {
     "nate_pop": 22,
-    "nate_int": 15
+    "nate_int": 24
    },
    "count": 5,
    "inrank": true
@@ -1112,21 +1123,28 @@
    "id": "c23",
    "title": "\"엠블랙 지오라고?\" 결혼 7년 차 몰라보게 달라졌다…짙어진 수염에 '깜짝'",
    "titles": [
-    "\"엠블랙 지오라고?\" 결혼 7년 차 몰라보게 달라졌다…짙어진 수염에 '깜짝'"
+    "\"엠블랙 지오라고?\" 결혼 7년 차 몰라보게 달라졌다…짙어진 수염에 '깜짝'",
+    "[단독]'환연3' 이종은, 깜짝 결혼…상대는 '언슬전' 이민수 PD"
    ],
    "links": [
-    "https://news.nate.com/view/20261110n25165"
+    "https://news.nate.com/view/20261110n25165",
+    "https://news.nate.com/view/20261111n11726"
    ],
    "articles": [
     {
      "title": "\"엠블랙 지오라고?\" 결혼 7년 차 몰라보게 달라졌다…짙어진 수염에 '깜짝'",
      "link": "https://news.nate.com/view/20261110n25165",
      "media": "스포츠서울"
+    },
+    {
+     "title": "[단독]'환연3' 이종은, 깜짝 결혼…상대는 '언슬전' 이민수 PD",
+     "link": "https://news.nate.com/view/20261111n11726",
+     "media": "마이데일리"
     }
    ],
    "first": "00:08",
-   "last": "06:08",
-   "best": 13,
+   "last": "11:08",
+   "best": 1,
    "hours": [
     "00:08",
     "01:10",
@@ -1135,15 +1153,19 @@
     "03:08",
     "04:10",
     "05:10",
-    "06:08"
+    "06:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 1,
+    "nate_int": 2
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c24",
@@ -1169,7 +1191,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 10,
    "hours": [
     "00:08",
@@ -1180,15 +1202,16 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 20
+    "nate_pop": 29,
+    "nate_int": 31
    },
    "count": 2,
    "inrank": true
@@ -1250,7 +1273,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 6,
    "hours": [
     "00:08",
@@ -1262,15 +1285,15 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 21
+    "nate_int": 32
    },
    "count": 2,
    "inrank": true
@@ -1371,19 +1394,20 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 6,
    "hours": [
     "00:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 6
+    "nate_pop": 10,
+    "nate_int": 11
    },
    "count": 2,
    "inrank": true
@@ -1522,7 +1546,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 12,
    "hours": [
     "00:08",
@@ -1536,14 +1560,15 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 36
+    "nate_int": 37
    },
    "count": 1,
    "inrank": true
@@ -1565,7 +1590,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 12,
    "hours": [
     "00:08",
@@ -1579,15 +1604,15 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 32
+    "nate_int": 43
    },
    "count": 1,
    "inrank": true
@@ -1623,7 +1648,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 5,
    "hours": [
     "00:08",
@@ -1637,15 +1662,16 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 7
+    "nate_pop": 19,
+    "nate_int": 19
    },
    "count": 3,
    "inrank": true
@@ -1704,7 +1730,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 18,
    "hours": [
     "00:08",
@@ -1713,15 +1739,15 @@
     "03:08",
     "06:08",
     "07:10",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 26,
-    "nate_int": 28
+    "nate_int": 25
    },
    "count": 2,
    "inrank": true
@@ -1794,20 +1820,34 @@
    "id": "c41",
    "title": "진기주, 이렇게 과감했나…어깨 훤히 드러낸 화이트 드레스 자태 [★해시태...",
    "titles": [
-    "진기주, 이렇게 과감했나…어깨 훤히 드러낸 화이트 드레스 자태 [★해시태..."
+    "진기주, 이렇게 과감했나…어깨 훤히 드러낸 화이트 드레스 자태 [★해시태...",
+    "'테무 액세서리' 지적에도…신민아, 눈부신 '재혼 황후' 드레스 자태",
+    "이세영 '2천원 목걸이' 황당 루머…'재혼 황후' 측 \"작품 세계관 고려해 선..."
    ],
    "links": [
-    "https://news.nate.com/view/20261110n20221"
+    "https://news.nate.com/view/20261110n20221",
+    "https://news.nate.com/view/20261111n05701",
+    "https://news.nate.com/view/20261110n14145"
    ],
    "articles": [
     {
      "title": "진기주, 이렇게 과감했나…어깨 훤히 드러낸 화이트 드레스 자태 [★해시태...",
      "link": "https://news.nate.com/view/20261110n20221",
      "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "'테무 액세서리' 지적에도…신민아, 눈부신 '재혼 황후' 드레스 자태",
+     "link": "https://news.nate.com/view/20261111n05701",
+     "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "이세영 '2천원 목걸이' 황당 루머…'재혼 황후' 측 \"작품 세계관 고려해 선...",
+     "link": "https://news.nate.com/view/20261110n14145",
+     "media": "iMBC연예"
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 12,
    "hours": [
     "00:08",
@@ -1821,16 +1861,18 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 33
+    "nate_pop": 23,
+    "nate_int": 35
    },
-   "count": 1,
+   "count": 3,
    "inrank": true
   },
   {
@@ -1857,20 +1899,20 @@
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 4,
    "hours": [
     "00:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 22
+    "nate_int": 30
    },
    "count": 2,
    "inrank": true
@@ -1892,7 +1934,7 @@
     }
    ],
    "first": "01:10",
-   "last": "10:08",
+   "last": "11:08",
    "best": 1,
    "hours": [
     "01:10",
@@ -1905,15 +1947,16 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 14
+    "nate_pop": 30,
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -1993,32 +2036,42 @@
    "id": "c46",
    "title": "알고보니 최강창민 집 매입…신동 \"돈 모자라자 깎아줘\" 미담 깜짝 공개 ('...",
    "titles": [
-    "알고보니 최강창민 집 매입…신동 \"돈 모자라자 깎아줘\" 미담 깜짝 공개 ('..."
+    "알고보니 최강창민 집 매입…신동 \"돈 모자라자 깎아줘\" 미담 깜짝 공개 ('...",
+    "신동, 최강창민 살던 집 매입 \"돈 모자랐는데 깎아줘\"[살롱드립]"
    ],
    "links": [
-    "https://news.nate.com/view/20261110n33448"
+    "https://news.nate.com/view/20261110n33448",
+    "https://news.nate.com/view/20261111n05822"
    ],
    "articles": [
     {
      "title": "알고보니 최강창민 집 매입…신동 \"돈 모자라자 깎아줘\" 미담 깜짝 공개 ('...",
      "link": "https://news.nate.com/view/20261110n33448",
      "media": "OSEN"
+    },
+    {
+     "title": "신동, 최강창민 살던 집 매입 \"돈 모자랐는데 깎아줘\"[살롱드립]",
+     "link": "https://news.nate.com/view/20261111n05822",
+     "media": "스타뉴스"
     }
    ],
    "first": "01:10",
-   "last": "06:08",
+   "last": "11:08",
    "best": 46,
    "hours": [
     "01:10",
     "02:10",
-    "06:08"
+    "06:08",
+    "11:08"
    ],
    "srcs": [
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_int": 50
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c47",
@@ -2164,17 +2217,20 @@
     }
    ],
    "first": "03:08",
-   "last": "03:08",
+   "last": "11:08",
    "best": 46,
    "hours": [
-    "03:08"
+    "03:08",
+    "11:08"
    ],
    "srcs": [
     "nate_int"
    ],
-   "now": {},
+   "now": {
+    "nate_int": 46
+   },
    "count": 1,
-   "inrank": false
+   "inrank": true
   },
   {
    "id": "c52",
@@ -2339,21 +2395,22 @@
     }
    ],
    "first": "07:10",
-   "last": "10:08",
+   "last": "11:08",
    "best": 2,
    "hours": [
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 10
+    "nate_pop": 18,
+    "nate_int": 18
    },
    "count": 1,
    "inrank": true
@@ -2375,21 +2432,22 @@
     }
    ],
    "first": "07:10",
-   "last": "10:08",
+   "last": "11:08",
    "best": 3,
    "hours": [
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 16
+    "nate_pop": 27,
+    "nate_int": 28
    },
    "count": 1,
    "inrank": true
@@ -2411,21 +2469,21 @@
     }
    ],
    "first": "07:10",
-   "last": "10:08",
+   "last": "11:08",
    "best": 5,
    "hours": [
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 24
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -2447,20 +2505,21 @@
     }
    ],
    "first": "07:10",
-   "last": "10:08",
+   "last": "11:08",
    "best": 10,
    "hours": [
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
+    "nate_pop": 28,
     "nate_int": 17
    },
    "count": 1,
@@ -2574,20 +2633,21 @@
     }
    ],
    "first": "08:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 7,
    "hours": [
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 8
+    "nate_pop": 12,
+    "nate_int": 13
    },
    "count": 1,
    "inrank": true
@@ -2696,17 +2756,18 @@
     }
    ],
    "first": "09:08",
-   "last": "10:08",
-   "best": 28,
+   "last": "11:08",
+   "best": 26,
    "hours": [
     "09:08",
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 29
+    "nate_int": 26
    },
    "count": 1,
    "inrank": true
@@ -2746,12 +2807,14 @@
    "titles": [
     "신주아, 1년째 안 보이는 ♥태국재벌 남편…궁궐 같은 저택에 반려견뿐...",
     "'태국재벌2세♥' 42살 신주아, 20대 못지않은 동안 외모…궁전 같은 자택",
-    "'태국재벌♥' 신주아, 남편 투샷은 없네…'핫플·궁궐 집'서 여유 일상"
+    "'태국재벌♥' 신주아, 남편 투샷은 없네…'핫플·궁궐 집'서 여유 일상",
+    "'태국 재벌♥' 신주아, 뼈말라 자태에 또 의미심장 글귀 \"꼭 나비가 될 필..."
    ],
    "links": [
     "https://news.nate.com/view/20261111n05737",
     "https://news.nate.com/view/20261111n03179",
-    "https://news.nate.com/view/20261110n31390"
+    "https://news.nate.com/view/20261110n31390",
+    "https://news.nate.com/view/20261110n31254"
    ],
    "articles": [
     {
@@ -2768,23 +2831,29 @@
      "title": "'태국재벌♥' 신주아, 남편 투샷은 없네…'핫플·궁궐 집'서 여유 일상",
      "link": "https://news.nate.com/view/20261110n31390",
      "media": "스포츠조선"
+    },
+    {
+     "title": "'태국 재벌♥' 신주아, 뼈말라 자태에 또 의미심장 글귀 \"꼭 나비가 될 필...",
+     "link": "https://news.nate.com/view/20261110n31254",
+     "media": "뉴스엔"
     }
    ],
    "first": "10:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 1,
    "hours": [
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 1
+    "nate_pop": 5,
+    "nate_int": 4
    },
-   "count": 3,
+   "count": 4,
    "inrank": true
   },
   {
@@ -2804,18 +2873,19 @@
     }
    ],
    "first": "10:08",
-   "last": "10:08",
-   "best": 2,
+   "last": "11:08",
+   "best": 1,
    "hours": [
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 2
+    "nate_pop": 4,
+    "nate_int": 1
    },
    "count": 1,
    "inrank": true
@@ -2837,18 +2907,19 @@
     }
    ],
    "first": "10:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 4,
    "hours": [
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 13
+    "nate_pop": 15,
+    "nate_int": 8
    },
    "count": 1,
    "inrank": true
@@ -2870,18 +2941,19 @@
     }
    ],
    "first": "10:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 4,
    "hours": [
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 4
+    "nate_pop": 14,
+    "nate_int": 12
    },
    "count": 1,
    "inrank": true
@@ -2903,10 +2975,11 @@
     }
    ],
    "first": "10:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 9,
    "hours": [
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
@@ -2936,18 +3009,19 @@
     }
    ],
    "first": "10:08",
-   "last": "10:08",
+   "last": "11:08",
    "best": 11,
    "hours": [
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 12
+    "nate_pop": 16,
+    "nate_int": 20
    },
    "count": 1,
    "inrank": true
@@ -2969,18 +3043,19 @@
     }
    ],
    "first": "10:08",
-   "last": "10:08",
-   "best": 13,
+   "last": "11:08",
+   "best": 5,
    "hours": [
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 23
+    "nate_pop": 6,
+    "nate_int": 5
    },
    "count": 1,
    "inrank": true
@@ -3011,12 +3086,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 20,
-    "nate_int": 30
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c78",
@@ -3035,18 +3107,19 @@
     }
    ],
    "first": "10:08",
-   "last": "10:08",
-   "best": 25,
+   "last": "11:08",
+   "best": 11,
    "hours": [
-    "10:08"
+    "10:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 27
+    "nate_pop": 11,
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -3076,8 +3149,293 @@
    "srcs": [
     "nate_int"
    ],
+   "now": {},
+   "count": 1,
+   "inrank": false
+  },
+  {
+   "id": "c80",
+   "title": "로제 '아파트' 라이브에 \"중학교 장기자랑\" 혹평···해외반응 '시끌'",
+   "titles": [
+    "로제 '아파트' 라이브에 \"중학교 장기자랑\" 혹평···해외반응 '시끌'"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n10358"
+   ],
+   "articles": [
+    {
+     "title": "로제 '아파트' 라이브에 \"중학교 장기자랑\" 혹평···해외반응 '시끌'",
+     "link": "https://news.nate.com/view/20261111n10358",
+     "media": "스포츠경향"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 2,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_pop"
+   ],
    "now": {
-    "nate_int": 46
+    "nate_pop": 2
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c81",
+   "title": "주지훈, 이종석 옆에 서니 안색 차이 극명 \"보정 좀 해줘라\" 시청자들 ...",
+   "titles": [
+    "주지훈, 이종석 옆에 서니 안색 차이 극명 \"보정 좀 해줘라\" 시청자들 ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n10583"
+   ],
+   "articles": [
+    {
+     "title": "주지훈, 이종석 옆에 서니 안색 차이 극명 \"보정 좀 해줘라\" 시청자들 ...",
+     "link": "https://news.nate.com/view/20261111n10583",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 3,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 3,
+    "nate_int": 3
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c82",
+   "title": "이종혁 子 준수, 전희철 딸 보자마자 첫눈에 반했다♥…겹사돈 탄생하나",
+   "titles": [
+    "이종혁 子 준수, 전희철 딸 보자마자 첫눈에 반했다♥…겹사돈 탄생하나"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n09388"
+   ],
+   "articles": [
+    {
+     "title": "이종혁 子 준수, 전희철 딸 보자마자 첫눈에 반했다♥…겹사돈 탄생하나",
+     "link": "https://news.nate.com/view/20261111n09388",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 7,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 7,
+    "nate_int": 7
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c83",
+   "title": "\"밑져야 본전\"…장나라, ♥6살 연하 남편에 대시 후 결혼 직감 \"나 시집 가...",
+   "titles": [
+    "\"밑져야 본전\"…장나라, ♥6살 연하 남편에 대시 후 결혼 직감 \"나 시집 가..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n08764"
+   ],
+   "articles": [
+    {
+     "title": "\"밑져야 본전\"…장나라, ♥6살 연하 남편에 대시 후 결혼 직감 \"나 시집 가...",
+     "link": "https://news.nate.com/view/20261111n08764",
+     "media": "OSEN"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 6,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 8,
+    "nate_int": 6
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c84",
+   "title": "강민경, 1일 1식하면 이렇게 되나…군살제로 납작배 노출",
+   "titles": [
+    "강민경, 1일 1식하면 이렇게 되나…군살제로 납작배 노출"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n08173"
+   ],
+   "articles": [
+    {
+     "title": "강민경, 1일 1식하면 이렇게 되나…군살제로 납작배 노출",
+     "link": "https://news.nate.com/view/20261111n08173",
+     "media": "헤럴드뮤즈"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 26,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 26,
+    "nate_int": 36
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c85",
+   "title": "BTS 지민, 칠레 전통 의상 입었을 뿐인데…현지서 완판 열풍",
+   "titles": [
+    "BTS 지민, 칠레 전통 의상 입었을 뿐인데…현지서 완판 열풍"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n05908"
+   ],
+   "articles": [
+    {
+     "title": "BTS 지민, 칠레 전통 의상 입었을 뿐인데…현지서 완판 열풍",
+     "link": "https://news.nate.com/view/20261111n05908",
+     "media": "스포츠동아"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 33,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 33
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c86",
+   "title": "김혜윤, '스캐' 예서가 로스쿨 갔다는 댓글에 \"어떤 직업이든 잘됐네요\" ('...",
+   "titles": [
+    "김혜윤, '스캐' 예서가 로스쿨 갔다는 댓글에 \"어떤 직업이든 잘됐네요\" ('..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n07003"
+   ],
+   "articles": [
+    {
+     "title": "김혜윤, '스캐' 예서가 로스쿨 갔다는 댓글에 \"어떤 직업이든 잘됐네요\" ('...",
+     "link": "https://news.nate.com/view/20261111n07003",
+     "media": "OSEN"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 39,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 39
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c87",
+   "title": "\"알맹이는 쏙 뺐다\"…이도, 자필 사과에도 싸늘한 수험생들 \"밀린 강의·...",
+   "titles": [
+    "\"알맹이는 쏙 뺐다\"…이도, 자필 사과에도 싸늘한 수험생들 \"밀린 강의·..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n07276"
+   ],
+   "articles": [
+    {
+     "title": "\"알맹이는 쏙 뺐다\"…이도, 자필 사과에도 싸늘한 수험생들 \"밀린 강의·...",
+     "link": "https://news.nate.com/view/20261111n07276",
+     "media": "OSEN"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 44,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 44
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c88",
+   "title": "\"강사일보다 연예 활동 챙겨\" 이도, 이투스 퇴출→비판 속 예능 공개 당일...",
+   "titles": [
+    "\"강사일보다 연예 활동 챙겨\" 이도, 이투스 퇴출→비판 속 예능 공개 당일..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261110n30255"
+   ],
+   "articles": [
+    {
+     "title": "\"강사일보다 연예 활동 챙겨\" 이도, 이투스 퇴출→비판 속 예능 공개 당일...",
+     "link": "https://news.nate.com/view/20261110n30255",
+     "media": "마이데일리"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 49,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 49
    },
    "count": 1,
    "inrank": true
@@ -3179,9 +3537,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "11:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-11T10:08:34.815536+09:00",
+ "updated": "2026-11-11T11:08:33.714097+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

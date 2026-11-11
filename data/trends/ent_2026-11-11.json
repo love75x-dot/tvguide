@@ -25,7 +25,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -38,15 +38,16 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 21
+    "nate_pop": 21,
+    "nate_int": 31
    },
    "count": 2,
    "inrank": true
@@ -82,7 +83,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 2,
    "hours": [
     "00:08",
@@ -95,15 +96,16 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 4
+    "nate_pop": 5,
+    "nate_int": 5
    },
    "count": 3,
    "inrank": true
@@ -223,7 +225,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -236,15 +238,16 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 2
+    "nate_pop": 14,
+    "nate_int": 11
    },
    "count": 15,
    "inrank": true
@@ -280,7 +283,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 4,
    "hours": [
     "00:08",
@@ -293,15 +296,15 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 35
+    "nate_int": 48
    },
    "count": 3,
    "inrank": true
@@ -323,7 +326,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 5,
    "hours": [
     "00:08",
@@ -336,14 +339,15 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 30
+    "nate_int": 47
    },
    "count": 1,
    "inrank": true
@@ -384,11 +388,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c7",
@@ -428,7 +430,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -441,15 +443,16 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 1
+    "nate_pop": 3,
+    "nate_int": 3
    },
    "count": 4,
    "inrank": true
@@ -490,11 +493,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 42
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c9",
@@ -532,11 +533,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 39
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c10",
@@ -555,7 +554,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 5,
    "hours": [
     "00:08",
@@ -567,14 +566,15 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 37
+    "nate_int": 44
    },
    "count": 1,
    "inrank": true
@@ -596,7 +596,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 9,
    "hours": [
     "00:08",
@@ -609,15 +609,15 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 36
+    "nate_int": 34
    },
    "count": 1,
    "inrank": true
@@ -661,20 +661,27 @@
    "id": "c13",
    "title": "'나혼산' 뜬 카니, \"흑인은 수박, 치킨, 환타 좋아해\" 발언 항의에 결국 ...",
    "titles": [
-    "'나혼산' 뜬 카니, \"흑인은 수박, 치킨, 환타 좋아해\" 발언 항의에 결국 ..."
+    "'나혼산' 뜬 카니, \"흑인은 수박, 치킨, 환타 좋아해\" 발언 항의에 결국 ...",
+    "흑인 카니가 '흑인차별' 논란이라니…'수박·치킨'에 '소울푸드' 자막까지"
    ],
    "links": [
-    "https://news.nate.com/view/20261110n33610"
+    "https://news.nate.com/view/20261110n33610",
+    "https://news.nate.com/view/20261111n05646"
    ],
    "articles": [
     {
      "title": "'나혼산' 뜬 카니, \"흑인은 수박, 치킨, 환타 좋아해\" 발언 항의에 결국 ...",
      "link": "https://news.nate.com/view/20261110n33610",
      "media": "일간스포츠"
+    },
+    {
+     "title": "흑인 카니가 '흑인차별' 논란이라니…'수박·치킨'에 '소울푸드' 자막까지",
+     "link": "https://news.nate.com/view/20261111n05646",
+     "media": "스포츠서울"
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 14,
    "hours": [
     "00:08",
@@ -687,16 +694,17 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 40
+    "nate_int": 50
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -730,7 +738,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 3,
    "hours": [
     "00:08",
@@ -743,15 +751,16 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 9
+    "nate_pop": 17,
+    "nate_int": 19
    },
    "count": 3,
    "inrank": true
@@ -805,7 +814,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 16,
    "hours": [
     "00:08",
@@ -817,14 +826,15 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 32
+    "nate_int": 37
    },
    "count": 1,
    "inrank": true
@@ -865,11 +875,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 50
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c18",
@@ -895,8 +903,8 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
-   "best": 16,
+   "last": "10:08",
+   "best": 15,
    "hours": [
     "00:08",
     "01:10",
@@ -908,15 +916,16 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 19
+    "nate_pop": 15,
+    "nate_int": 18
    },
    "count": 2,
    "inrank": true
@@ -1040,7 +1049,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 4,
    "hours": [
     "00:08",
@@ -1050,15 +1059,16 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 7
+    "nate_pop": 22,
+    "nate_int": 15
    },
    "count": 5,
    "inrank": true
@@ -1159,7 +1169,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 10,
    "hours": [
     "00:08",
@@ -1169,15 +1179,16 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 18
+    "nate_pop": 19,
+    "nate_int": 20
    },
    "count": 2,
    "inrank": true
@@ -1239,7 +1250,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 6,
    "hours": [
     "00:08",
@@ -1250,15 +1261,16 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 15
+    "nate_pop": 23,
+    "nate_int": 21
    },
    "count": 2,
    "inrank": true
@@ -1339,30 +1351,42 @@
    "id": "c29",
    "title": "'불륜 파문' 젠슨 황, 신아영과 포옹·화사에 \"매력적\"…과거 모습 재조명",
    "titles": [
-    "'불륜 파문' 젠슨 황, 신아영과 포옹·화사에 \"매력적\"…과거 모습 재조명"
+    "'불륜 파문' 젠슨 황, 신아영과 포옹·화사에 \"매력적\"…과거 모습 재조명",
+    "젠슨 황마저?…엔비디아 흔든 외도에 '유퀴즈' 불똥 역사 재조명"
    ],
    "links": [
-    "https://news.nate.com/view/20261110n00372"
+    "https://news.nate.com/view/20261110n00372",
+    "https://news.nate.com/view/20261111n05370"
    ],
    "articles": [
     {
      "title": "'불륜 파문' 젠슨 황, 신아영과 포옹·화사에 \"매력적\"…과거 모습 재조명",
      "link": "https://news.nate.com/view/20261110n00372",
      "media": "MK스포츠"
+    },
+    {
+     "title": "젠슨 황마저?…엔비디아 흔든 외도에 '유퀴즈' 불똥 역사 재조명",
+     "link": "https://news.nate.com/view/20261111n05370",
+     "media": "뉴시스"
     }
    ],
    "first": "00:08",
-   "last": "00:08",
-   "best": 29,
+   "last": "10:08",
+   "best": 6,
    "hours": [
-    "00:08"
+    "00:08",
+    "10:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 6,
+    "nate_int": 6
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c30",
@@ -1498,7 +1522,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 12,
    "hours": [
     "00:08",
@@ -1511,14 +1535,15 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 34
+    "nate_int": 36
    },
    "count": 1,
    "inrank": true
@@ -1540,7 +1565,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 12,
    "hours": [
     "00:08",
@@ -1553,15 +1578,16 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 29
+    "nate_pop": 30,
+    "nate_int": 32
    },
    "count": 1,
    "inrank": true
@@ -1597,7 +1623,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 5,
    "hours": [
     "00:08",
@@ -1610,15 +1636,16 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 5
+    "nate_pop": 10,
+    "nate_int": 7
    },
    "count": 3,
    "inrank": true
@@ -1657,20 +1684,27 @@
    "id": "c38",
    "title": "\"해외인 줄 알았는데\"…블핑 제니가 비키니 입고 즐긴 힐링명소, 충주 수안...",
    "titles": [
-    "\"해외인 줄 알았는데\"…블핑 제니가 비키니 입고 즐긴 힐링명소, 충주 수안..."
+    "\"해외인 줄 알았는데\"…블핑 제니가 비키니 입고 즐긴 힐링명소, 충주 수안...",
+    "블랙핑크 제니, 비키니 몸매도 '월드클래스'…갈비뼈 보일 정도로 '늘씬'[..."
    ],
    "links": [
-    "https://news.nate.com/view/20261110n15976"
+    "https://news.nate.com/view/20261110n15976",
+    "https://news.nate.com/view/20261111n05636"
    ],
    "articles": [
     {
      "title": "\"해외인 줄 알았는데\"…블핑 제니가 비키니 입고 즐긴 힐링명소, 충주 수안...",
      "link": "https://news.nate.com/view/20261110n15976",
      "media": "스포츠조선"
+    },
+    {
+     "title": "블랙핑크 제니, 비키니 몸매도 '월드클래스'…갈비뼈 보일 정도로 '늘씬'[...",
+     "link": "https://news.nate.com/view/20261111n05636",
+     "media": "OSEN"
     }
    ],
    "first": "00:08",
-   "last": "07:10",
+   "last": "10:08",
    "best": 18,
    "hours": [
     "00:08",
@@ -1678,15 +1712,19 @@
     "02:10",
     "03:08",
     "06:08",
-    "07:10"
+    "07:10",
+    "10:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 26,
+    "nate_int": 28
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c39",
@@ -1769,7 +1807,7 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 12,
    "hours": [
     "00:08",
@@ -1782,14 +1820,14 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 26,
     "nate_int": 33
    },
    "count": 1,
@@ -1819,19 +1857,20 @@
     }
    ],
    "first": "00:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 4,
    "hours": [
     "00:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 8
+    "nate_pop": 29,
+    "nate_int": 22
    },
    "count": 2,
    "inrank": true
@@ -1853,7 +1892,7 @@
     }
    ],
    "first": "01:10",
-   "last": "09:08",
+   "last": "10:08",
    "best": 1,
    "hours": [
     "01:10",
@@ -1865,15 +1904,16 @@
     "06:08",
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 13
+    "nate_pop": 18,
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -1913,11 +1953,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 41
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c45",
@@ -2301,20 +2339,21 @@
     }
    ],
    "first": "07:10",
-   "last": "09:08",
+   "last": "10:08",
    "best": 2,
    "hours": [
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 3
+    "nate_pop": 12,
+    "nate_int": 10
    },
    "count": 1,
    "inrank": true
@@ -2336,20 +2375,21 @@
     }
    ],
    "first": "07:10",
-   "last": "09:08",
+   "last": "10:08",
    "best": 3,
    "hours": [
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 6
+    "nate_pop": 16,
+    "nate_int": 16
    },
    "count": 1,
    "inrank": true
@@ -2371,20 +2411,21 @@
     }
    ],
    "first": "07:10",
-   "last": "09:08",
+   "last": "10:08",
    "best": 5,
    "hours": [
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 17
+    "nate_pop": 24,
+    "nate_int": 24
    },
    "count": 1,
    "inrank": true
@@ -2406,20 +2447,21 @@
     }
    ],
    "first": "07:10",
-   "last": "09:08",
+   "last": "10:08",
    "best": 10,
    "hours": [
     "07:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 14
+    "nate_pop": 27,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -2452,11 +2494,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 49
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c62",
@@ -2534,19 +2574,20 @@
     }
    ],
    "first": "08:08",
-   "last": "09:08",
-   "best": 12,
+   "last": "10:08",
+   "best": 7,
    "hours": [
     "08:08",
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 12
+    "nate_pop": 7,
+    "nate_int": 8
    },
    "count": 1,
    "inrank": true
@@ -2634,11 +2675,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 10
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c68",
@@ -2657,16 +2696,17 @@
     }
    ],
    "first": "09:08",
-   "last": "09:08",
+   "last": "10:08",
    "best": 28,
    "hours": [
-    "09:08"
+    "09:08",
+    "10:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 28
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -2696,8 +2736,348 @@
    "srcs": [
     "nate_int"
    ],
+   "now": {},
+   "count": 1,
+   "inrank": false
+  },
+  {
+   "id": "c70",
+   "title": "신주아, 1년째 안 보이는 ♥태국재벌 남편…궁궐 같은 저택에 반려견뿐...",
+   "titles": [
+    "신주아, 1년째 안 보이는 ♥태국재벌 남편…궁궐 같은 저택에 반려견뿐...",
+    "'태국재벌2세♥' 42살 신주아, 20대 못지않은 동안 외모…궁전 같은 자택",
+    "'태국재벌♥' 신주아, 남편 투샷은 없네…'핫플·궁궐 집'서 여유 일상"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n05737",
+    "https://news.nate.com/view/20261111n03179",
+    "https://news.nate.com/view/20261110n31390"
+   ],
+   "articles": [
+    {
+     "title": "신주아, 1년째 안 보이는 ♥태국재벌 남편…궁궐 같은 저택에 반려견뿐...",
+     "link": "https://news.nate.com/view/20261111n05737",
+     "media": "OSEN"
+    },
+    {
+     "title": "'태국재벌2세♥' 42살 신주아, 20대 못지않은 동안 외모…궁전 같은 자택",
+     "link": "https://news.nate.com/view/20261111n03179",
+     "media": "마이데일리"
+    },
+    {
+     "title": "'태국재벌♥' 신주아, 남편 투샷은 없네…'핫플·궁궐 집'서 여유 일상",
+     "link": "https://news.nate.com/view/20261110n31390",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "10:08",
+   "last": "10:08",
+   "best": 1,
+   "hours": [
+    "10:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
    "now": {
-    "nate_int": 44
+    "nate_pop": 1,
+    "nate_int": 1
+   },
+   "count": 3,
+   "inrank": true
+  },
+  {
+   "id": "c71",
+   "title": "샘 오취리 6년째 사과 중인데…카니, \"흑인들은\" 인종 차별 논란 답습 ...",
+   "titles": [
+    "샘 오취리 6년째 사과 중인데…카니, \"흑인들은\" 인종 차별 논란 답습 ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n04625"
+   ],
+   "articles": [
+    {
+     "title": "샘 오취리 6년째 사과 중인데…카니, \"흑인들은\" 인종 차별 논란 답습 ...",
+     "link": "https://news.nate.com/view/20261111n04625",
+     "media": "OSEN"
+    }
+   ],
+   "first": "10:08",
+   "last": "10:08",
+   "best": 2,
+   "hours": [
+    "10:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 2,
+    "nate_int": 2
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c72",
+   "title": "\"수능 3주 전 팽개치더니…\" 스타강사 이도, '데블스 플랜3' 첫 탈락 ...",
+   "titles": [
+    "\"수능 3주 전 팽개치더니…\" 스타강사 이도, '데블스 플랜3' 첫 탈락 ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n07501"
+   ],
+   "articles": [
+    {
+     "title": "\"수능 3주 전 팽개치더니…\" 스타강사 이도, '데블스 플랜3' 첫 탈락 ...",
+     "link": "https://news.nate.com/view/20261111n07501",
+     "media": "스포츠서울"
+    }
+   ],
+   "first": "10:08",
+   "last": "10:08",
+   "best": 4,
+   "hours": [
+    "10:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 4,
+    "nate_int": 13
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c73",
+   "title": "전현무, 갑작스러운 대국민 사과…\"당분간 DM 안 보겠다\" 왜? (전현무계획...",
+   "titles": [
+    "전현무, 갑작스러운 대국민 사과…\"당분간 DM 안 보겠다\" 왜? (전현무계획..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n06293"
+   ],
+   "articles": [
+    {
+     "title": "전현무, 갑작스러운 대국민 사과…\"당분간 DM 안 보겠다\" 왜? (전현무계획...",
+     "link": "https://news.nate.com/view/20261111n06293",
+     "media": "스포츠동아"
+    }
+   ],
+   "first": "10:08",
+   "last": "10:08",
+   "best": 4,
+   "hours": [
+    "10:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 8,
+    "nate_int": 4
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c74",
+   "title": "日출신인데 '항일 드라마'를?…카즈하, '100일의 거짓말' 시청 인증에 엇갈...",
+   "titles": [
+    "日출신인데 '항일 드라마'를?…카즈하, '100일의 거짓말' 시청 인증에 엇갈..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n06639"
+   ],
+   "articles": [
+    {
+     "title": "日출신인데 '항일 드라마'를?…카즈하, '100일의 거짓말' 시청 인증에 엇갈...",
+     "link": "https://news.nate.com/view/20261111n06639",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "10:08",
+   "last": "10:08",
+   "best": 9,
+   "hours": [
+    "10:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 9,
+    "nate_int": 9
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c75",
+   "title": "고우림, ♥김연아와 결혼 5년 차인데…\"한 번도 싸운 적 없다\" (라스)",
+   "titles": [
+    "고우림, ♥김연아와 결혼 5년 차인데…\"한 번도 싸운 적 없다\" (라스)"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n06202"
+   ],
+   "articles": [
+    {
+     "title": "고우림, ♥김연아와 결혼 5년 차인데…\"한 번도 싸운 적 없다\" (라스)",
+     "link": "https://news.nate.com/view/20261111n06202",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "10:08",
+   "last": "10:08",
+   "best": 11,
+   "hours": [
+    "10:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 11,
+    "nate_int": 12
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c76",
+   "title": "[전문] '징맨' 황철순, 쯔쯔가무시 감염에 뇌수막염 입원…\"기억상실+12kg...",
+   "titles": [
+    "[전문] '징맨' 황철순, 쯔쯔가무시 감염에 뇌수막염 입원…\"기억상실+12kg..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n05056"
+   ],
+   "articles": [
+    {
+     "title": "[전문] '징맨' 황철순, 쯔쯔가무시 감염에 뇌수막염 입원…\"기억상실+12kg...",
+     "link": "https://news.nate.com/view/20261111n05056",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "10:08",
+   "last": "10:08",
+   "best": 13,
+   "hours": [
+    "10:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 13,
+    "nate_int": 23
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c77",
+   "title": "'태국 재벌♥' 신주아, 뼈말라 자태에 또 의미심장 글귀 \"꼭 나비가 될 필...",
+   "titles": [
+    "'태국 재벌♥' 신주아, 뼈말라 자태에 또 의미심장 글귀 \"꼭 나비가 될 필..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261110n31254"
+   ],
+   "articles": [
+    {
+     "title": "'태국 재벌♥' 신주아, 뼈말라 자태에 또 의미심장 글귀 \"꼭 나비가 될 필...",
+     "link": "https://news.nate.com/view/20261110n31254",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "10:08",
+   "last": "10:08",
+   "best": 20,
+   "hours": [
+    "10:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 20,
+    "nate_int": 30
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c78",
+   "title": "'비♥' 김태희, '살쪘다' 지적에 광배+팔근육 자랑…\"거의 매일 운동, 진짜...",
+   "titles": [
+    "'비♥' 김태희, '살쪘다' 지적에 광배+팔근육 자랑…\"거의 매일 운동, 진짜..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n07992"
+   ],
+   "articles": [
+    {
+     "title": "'비♥' 김태희, '살쪘다' 지적에 광배+팔근육 자랑…\"거의 매일 운동, 진짜...",
+     "link": "https://news.nate.com/view/20261111n07992",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "10:08",
+   "last": "10:08",
+   "best": 25,
+   "hours": [
+    "10:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 25,
+    "nate_int": 27
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c79",
+   "title": "인교진 \"돈 빌려준 친구 잠적…억울하고 화나서 잠이 안 와\" (이호선 상담...",
+   "titles": [
+    "인교진 \"돈 빌려준 친구 잠적…억울하고 화나서 잠이 안 와\" (이호선 상담..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261111n02679"
+   ],
+   "articles": [
+    {
+     "title": "인교진 \"돈 빌려준 친구 잠적…억울하고 화나서 잠이 안 와\" (이호선 상담...",
+     "link": "https://news.nate.com/view/20261111n02679",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "10:08",
+   "last": "10:08",
+   "best": 46,
+   "hours": [
+    "10:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 46
    },
    "count": 1,
    "inrank": true
@@ -2791,9 +3171,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "10:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-11T09:08:29.622835+09:00",
+ "updated": "2026-11-11T10:08:34.815536+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

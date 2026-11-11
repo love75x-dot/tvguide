@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:08:39.793418+09:00",
+ "updated": "2026-11-12T06:11:34.835207+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -170,7 +170,7 @@
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 15,
+   "count": 16,
    "angles": [
     "부작용",
     "에 좋은",
@@ -178,6 +178,12 @@
     "효능"
    ],
    "items": [
+    {
+     "title": "항암·치매 신약부터 정밀의료까지…연말 바이오 IPO '빅 랠리'",
+     "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80703",
+     "t": "2026-11-12T06:12:00+09:00",
+     "by": "hitnews.co.kr"
+    },
     {
      "title": "치매 위험 낮추는 '뇌 영양' 음식 5가지",
      "link": "https://www.hinews.co.kr/view.php?ud=2026111109525084279284fa285d_48",
@@ -201,12 +207,6 @@
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624231",
      "t": "2026-11-10T16:38:00+09:00",
      "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "[의료 특집] 경북도립김천노인전문요양병원, 치매 전문치료· 재활·지역...",
-     "link": "https://www.idaegu.com/news/articleView.html?idxno=666887",
-     "t": "2026-11-10T16:30:00+09:00",
-     "by": "idaegu.com"
     }
    ]
   },
@@ -337,11 +337,17 @@
   {
    "name": "수면",
    "kind": "운동·생활",
-   "count": 11,
+   "count": 12,
    "angles": [
     "효능"
    ],
    "items": [
+    {
+     "title": "\"수면·영양·면역관리\"…수능 D-7 컨디션 조절법",
+     "link": "http://www.yonhapnewstv.co.kr/news/MYH20261112055300tSw",
+     "t": "2026-11-12T05:53:00+09:00",
+     "by": "yonhapnewstv.co.kr"
+    },
     {
      "title": "한국건강관리협회, 수면·대사 질환 ·기생충 감염 연구로 학술대회서 우...",
      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213316",
@@ -365,12 +371,6 @@
      "link": "https://www.joongang.co.kr/article/25477353",
      "t": "2026-11-10T16:04:00+09:00",
      "by": "joongang.co.kr"
-    },
-    {
-     "title": "“수면 중 호흡 멈추는 횟수가 줄었다”⋯‘먹는 비만약’의 새 가능성",
-     "link": "https://kormedi.com/?p=2902328",
-     "t": "2026-11-10T15:48:00+09:00",
-     "by": "kormedi.com"
     }
    ]
   },
@@ -745,6 +745,47 @@
    ]
   },
   {
+   "name": "염증",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [
+    "효능",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "[HIF 2026] 알츠하이머병 치료 새 열쇠 뇌 염증…세계적 뇌 과학자 폴 매...",
+     "link": "https://biz.chosun.com/science-chosun/bio/2026/11/12/262SNFBENBAFFPGQQZMINLBG7E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "t": "2026-11-12T06:01:00+09:00",
+     "by": "biz.chosun.com"
+    },
+    {
+     "title": "사과 껍질 속 우르솔산, 뇌 염증 개선 및 인지기능 회복 효과 규명",
+     "link": "http://www.brainmedia.co.kr/BrainScience/25704",
+     "t": "2026-11-11T21:06:00+09:00",
+     "by": "brainmedia.co.kr"
+    },
+    {
+     "title": "증상 조절 넘어 염증 호전 ‘내시경’ 조기 치료해야",
+     "link": "http://www.kjdaily.com/article.php?aid=1794304646691812032",
+     "t": "2026-11-10T19:02:00+09:00",
+     "by": "kjdaily.com"
+    },
+    {
+     "title": "“잇몸 염증 놔뒀더니 골다공증 위험”… 제대로 관리하는 5가지 방법",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/10/2026111001687.html",
+     "t": "2026-11-10T18:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "흡입된 나노플라스틱, 활성산소 증가시켜 폐 염증 유발",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624197",
+     "t": "2026-11-10T14:48:00+09:00",
+     "by": "mdtoday.co.kr"
+    }
+   ]
+  },
+  {
    "name": "폐렴",
    "kind": "질환·증상",
    "count": 5,
@@ -850,41 +891,6 @@
      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144084",
      "t": "2026-11-09T09:04:00+09:00",
      "by": "medisobizanews.com"
-    }
-   ]
-  },
-  {
-   "name": "염증",
-   "kind": "질환·증상",
-   "count": 4,
-   "angles": [
-    "효능",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "사과 껍질 속 우르솔산, 뇌 염증 개선 및 인지기능 회복 효과 규명",
-     "link": "http://www.brainmedia.co.kr/BrainScience/25704",
-     "t": "2026-11-11T21:06:00+09:00",
-     "by": "brainmedia.co.kr"
-    },
-    {
-     "title": "증상 조절 넘어 염증 호전 ‘내시경’ 조기 치료해야",
-     "link": "http://www.kjdaily.com/article.php?aid=1794304646691812032",
-     "t": "2026-11-10T19:02:00+09:00",
-     "by": "kjdaily.com"
-    },
-    {
-     "title": "“잇몸 염증 놔뒀더니 골다공증 위험”… 제대로 관리하는 5가지 방법",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/10/2026111001687.html",
-     "t": "2026-11-10T18:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "흡입된 나노플라스틱, 활성산소 증가시켜 폐 염증 유발",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624197",
-     "t": "2026-11-10T14:48:00+09:00",
-     "by": "mdtoday.co.kr"
     }
    ]
   },

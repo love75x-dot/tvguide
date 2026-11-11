@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:56:34.450467+09:00",
+ "updated": "2026-11-11T15:08:25.672070+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -86,7 +86,7 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 26,
+   "count": 25,
    "angles": [
     "에 좋은",
     "부작용",
@@ -128,14 +128,20 @@
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 22,
+   "count": 23,
    "angles": [
     "부작용",
-    "효능",
     "먹는 법",
+    "효능",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "\"콩팥 나쁘면 단백질 줄여야 한다?\"… 너무 적게 먹으면 사망 위험 2배",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69933",
+     "t": "2026-11-11T15:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
     {
      "title": "만성콩팥병 환자, 단백질 너무 적게 먹으면 사망 위험 117% 높아",
      "link": "https://www.sisajournal.com/news/articleView.html?idxno=393558",
@@ -159,12 +165,6 @@
      "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978370",
      "t": "2026-11-10T20:40:00+09:00",
      "by": "medicalworldnews.co.kr"
-    },
-    {
-     "title": "콩팥병 환자, 단백질 과도하게 줄이면 역효과…사망 위험 117% 증가",
-     "link": "http://www.kwangju.co.kr/article.php?aid=1794307800805227025",
-     "t": "2026-11-10T19:54:00+09:00",
-     "by": "kwangju.co.kr"
     }
    ]
   },
@@ -540,6 +540,48 @@
    ]
   },
   {
+   "name": "우유",
+   "kind": "식품·제철",
+   "count": 9,
+   "angles": [
+    "먹는 법",
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "우유 대신 식물성 음료 마셨더니…요오드·칼슘 섭취 부족 위험 커진다",
+     "link": "https://www.thebilliards.kr/news/articleView.html?idxno=32422",
+     "t": "2026-11-11T14:58:00+09:00",
+     "by": "thebilliards.kr"
+    },
+    {
+     "title": "우유·유제품 35% 식물성 대체음료로 바꾸면… 요오드 섭취 량 최대 21% 감...",
+     "link": "https://www.seoul.co.kr/news/economy/2026/11/11/20261111500223?wlog_tag3=naver",
+     "t": "2026-11-11T14:38:00+09:00",
+     "by": "seoul.co.kr"
+    },
+    {
+     "title": "우유·유제품을 식물성 대체식품으로 바꾸면 요오드, 칼슘등 주요 영양...",
+     "link": "https://www.etnews.com/20261111000335",
+     "t": "2026-11-11T14:31:00+09:00",
+     "by": "etnews.com"
+    },
+    {
+     "title": "\"우유를 식물성 음료로 바꿨더니\"… 주요 영양 소 섭취 감소 가능성",
+     "link": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45600",
+     "t": "2026-11-11T13:58:00+09:00",
+     "by": "hemophilia.co.kr"
+    },
+    {
+     "title": "우유 대신 식물성 음료 선택했다면… 필수 영양소 섭취 부족할 수 있어",
+     "link": "https://thedrive.co.kr/news/newsview.php?ncode=1065588427970452",
+     "t": "2026-11-11T13:48:00+09:00",
+     "by": "thedrive.co.kr"
+    }
+   ]
+  },
+  {
    "name": "고혈압",
    "kind": "질환·증상",
    "count": 8,
@@ -581,50 +623,9 @@
    ]
   },
   {
-   "name": "우유",
-   "kind": "식품·제철",
-   "count": 8,
-   "angles": [
-    "먹는 법",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "우유·유제품 35% 식물성 대체음료로 바꾸면… 요오드 섭취 량 최대 21% 감...",
-     "link": "https://www.seoul.co.kr/news/economy/2026/11/11/20261111500223?wlog_tag3=naver",
-     "t": "2026-11-11T14:38:00+09:00",
-     "by": "seoul.co.kr"
-    },
-    {
-     "title": "우유·유제품을 식물성 대체식품으로 바꾸면 요오드, 칼슘등 주요 영양...",
-     "link": "https://www.etnews.com/20261111000335",
-     "t": "2026-11-11T14:31:00+09:00",
-     "by": "etnews.com"
-    },
-    {
-     "title": "\"우유를 식물성 음료로 바꿨더니\"… 주요 영양 소 섭취 감소 가능성",
-     "link": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45600",
-     "t": "2026-11-11T13:58:00+09:00",
-     "by": "hemophilia.co.kr"
-    },
-    {
-     "title": "우유 대신 식물성 음료 선택했다면… 필수 영양소 섭취 부족할 수 있어",
-     "link": "https://thedrive.co.kr/news/newsview.php?ncode=1065588427970452",
-     "t": "2026-11-11T13:48:00+09:00",
-     "by": "thedrive.co.kr"
-    },
-    {
-     "title": "운동 후 '이것 한 잔', 근육만 아니라 뼈 지표 바꿨다… 우유 vs 그릭요...",
-     "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100071.html",
-     "t": "2026-11-11T11:06:00+09:00",
-     "by": "biz.newdaily.co.kr"
-    }
-   ]
-  },
-  {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 7,
+   "count": 6,
    "angles": [
     "에 좋은",
     "부작용"

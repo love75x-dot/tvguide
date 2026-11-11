@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-11T14:56:34.450467+09:00",
+ "updated": "2026-11-11T15:08:25.672070+09:00",
  "hot": [
   {
    "name": "GV90",
-   "count": 16,
+   "count": 17,
    "prev": 2,
    "rise": 173,
    "moto": false,
@@ -13,22 +13,22 @@
    ]
   },
   {
-   "name": "사이버트럭",
-   "count": 14,
-   "prev": 77,
-   "rise": -3,
-   "moto": false,
-   "why": []
-  },
-  {
    "name": "GV60",
-   "count": 13,
+   "count": 14,
    "prev": 0,
    "rise": -1,
    "moto": false,
    "why": [
     "판매 1위"
    ]
+  },
+  {
+   "name": "사이버트럭",
+   "count": 14,
+   "prev": 77,
+   "rise": -3,
+   "moto": false,
+   "why": []
   },
   {
    "name": "투싼",
@@ -50,17 +50,9 @@
   },
   {
    "name": "EV2",
-   "count": 4,
+   "count": 3,
    "prev": 1,
    "rise": -2,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "EV5",
-   "count": 3,
-   "prev": 0,
-   "rise": 3,
    "moto": false,
    "why": []
   },
@@ -87,6 +79,14 @@
    "count": 2,
    "prev": 0,
    "rise": -8,
+   "moto": false,
+   "why": []
+  },
+  {
+   "name": "EV5",
+   "count": 2,
+   "prev": 0,
+   "rise": 3,
    "moto": false,
    "why": []
   }

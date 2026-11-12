@@ -46,7 +46,7 @@
     }
    ],
    "first": "00:10",
-   "last": "15:08",
+   "last": "16:10",
    "best": 1,
    "hours": [
     "00:10",
@@ -66,15 +66,16 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 17
+    "nate_pop": 22,
+    "nate_int": 21
    },
    "count": 5,
    "inrank": true
@@ -182,7 +183,7 @@
     }
    ],
    "first": "00:10",
-   "last": "15:08",
+   "last": "16:10",
    "best": 1,
    "hours": [
     "00:10",
@@ -202,15 +203,15 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 15
+    "nate_int": 17
    },
    "count": 7,
    "inrank": true
@@ -274,7 +275,7 @@
     }
    ],
    "first": "00:10",
-   "last": "15:08",
+   "last": "16:10",
    "best": 2,
    "hours": [
     "00:10",
@@ -292,15 +293,16 @@
     "11:10",
     "11:52",
     "13:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 5
+    "nate_pop": 4,
+    "nate_int": 7
    },
    "count": 7,
    "inrank": true
@@ -633,7 +635,7 @@
     }
    ],
    "first": "00:10",
-   "last": "15:08",
+   "last": "16:10",
    "best": 3,
    "hours": [
     "00:10",
@@ -653,15 +655,15 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 34
+    "nate_int": 46
    },
    "count": 8,
    "inrank": true
@@ -723,12 +725,14 @@
    "titles": [
     "리센느 원이 '뼈마름 몸매'[엑's HD포토]",
     "리센느 원이 '눈부시게 반짝'[엑's HD포토]",
-    "\"도망가면 안 돼\" 리센느 원이 눈물의 부탁…1위 했는데도 불안했나"
+    "\"도망가면 안 돼\" 리센느 원이 눈물의 부탁…1위 했는데도 불안했나",
+    "[뮤즈이슈]리센느 원이, 홀로 틀리는 안무 디테일…앵콜 라이브까지 논란"
    ],
    "links": [
     "https://news.nate.com/view/20261111n33382",
     "https://news.nate.com/view/20261111n33350",
-    "https://news.nate.com/view/20261111n36752"
+    "https://news.nate.com/view/20261111n36752",
+    "https://news.nate.com/view/20261112n15283"
    ],
    "articles": [
     {
@@ -745,10 +749,15 @@
      "title": "\"도망가면 안 돼\" 리센느 원이 눈물의 부탁…1위 했는데도 불안했나",
      "link": "https://news.nate.com/view/20261111n36752",
      "media": "스포츠서울"
+    },
+    {
+     "title": "[뮤즈이슈]리센느 원이, 홀로 틀리는 안무 디테일…앵콜 라이브까지 논란",
+     "link": "https://news.nate.com/view/20261112n15283",
+     "media": "헤럴드뮤즈"
     }
    ],
    "first": "00:10",
-   "last": "11:10",
+   "last": "16:10",
    "best": 9,
    "hours": [
     "00:10",
@@ -763,15 +772,18 @@
     "08:08",
     "09:08",
     "10:10",
-    "11:10"
+    "11:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 3,
-   "inrank": false
+   "now": {
+    "nate_int": 36
+   },
+   "count": 4,
+   "inrank": true
   },
   {
    "id": "c14",
@@ -984,11 +996,13 @@
    "title": "'학폭 의혹' 차예련, 공구 계약 해지됐나…김치찜·앞치마 링크 결국 내렸...",
    "titles": [
     "'학폭 의혹' 차예련, 공구 계약 해지됐나…김치찜·앞치마 링크 결국 내렸...",
-    "'학폭 의혹' 차예련, 유튜브서 딸 사라졌다…160만뷰 가족 화보 영상 비공..."
+    "'학폭 의혹' 차예련, 유튜브서 딸 사라졌다…160만뷰 가족 화보 영상 비공...",
+    "'학폭 논란' 차예련 깨진 유리창? 괴담 속 \"갑질 안해→인정 많고 솔선수범..."
    ],
    "links": [
     "https://news.nate.com/view/20261111n23418",
-    "https://news.nate.com/view/20261112n08176"
+    "https://news.nate.com/view/20261112n08176",
+    "https://news.nate.com/view/20261112n24791"
    ],
    "articles": [
     {
@@ -1000,10 +1014,15 @@
      "title": "'학폭 의혹' 차예련, 유튜브서 딸 사라졌다…160만뷰 가족 화보 영상 비공...",
      "link": "https://news.nate.com/view/20261112n08176",
      "media": "스포츠조선"
+    },
+    {
+     "title": "'학폭 논란' 차예련 깨진 유리창? 괴담 속 \"갑질 안해→인정 많고 솔선수범...",
+     "link": "https://news.nate.com/view/20261112n24791",
+     "media": "뉴스엔"
     }
    ],
    "first": "00:10",
-   "last": "15:08",
+   "last": "16:10",
    "best": 9,
    "hours": [
     "00:10",
@@ -1017,17 +1036,18 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 10
+    "nate_pop": 23,
+    "nate_int": 16
    },
-   "count": 2,
+   "count": 3,
    "inrank": true
   },
   {
@@ -1136,7 +1156,7 @@
     }
    ],
    "first": "00:10",
-   "last": "15:08",
+   "last": "16:10",
    "best": 22,
    "hours": [
     "00:10",
@@ -1148,14 +1168,15 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 30
+    "nate_int": 41
    },
    "count": 3,
    "inrank": true
@@ -1683,7 +1704,7 @@
     }
    ],
    "first": "00:10",
-   "last": "15:08",
+   "last": "16:10",
    "best": 5,
    "hours": [
     "00:10",
@@ -1697,15 +1718,16 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 19
+    "nate_pop": 17,
+    "nate_int": 20
    },
    "count": 2,
    "inrank": true
@@ -1900,11 +1922,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 3,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c42",
@@ -2241,7 +2261,7 @@
     }
    ],
    "first": "06:15",
-   "last": "15:08",
+   "last": "16:10",
    "best": 24,
    "hours": [
     "06:15",
@@ -2254,14 +2274,15 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 28
+    "nate_int": 48
    },
    "count": 3,
    "inrank": true
@@ -2343,7 +2364,7 @@
     }
    ],
    "first": "07:08",
-   "last": "15:08",
+   "last": "16:10",
    "best": 1,
    "hours": [
     "07:08",
@@ -2355,15 +2376,16 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 14
+    "nate_pop": 12,
+    "nate_int": 12
    },
    "count": 4,
    "inrank": true
@@ -2631,11 +2653,13 @@
    "title": "리즈, 내가 알던 04년생은 이렇지 않았는데…순백의 드레스 입고 '여왕 자...",
    "titles": [
     "리즈, 내가 알던 04년생은 이렇지 않았는데…순백의 드레스 입고 '여왕 자...",
-    "이게 40대 미모?…송혜교, 순백 드레스로 완성한 여신 비주얼 [MHN:피드]"
+    "이게 40대 미모?…송혜교, 순백 드레스로 완성한 여신 비주얼 [MHN:피드]",
+    "BTS 정국, 보그 12월호 6종 커버 장식…샤넬과 완성한 독보적 비주얼"
    ],
    "links": [
     "https://news.nate.com/view/20261112n00907",
-    "https://news.nate.com/view/20261112n17794"
+    "https://news.nate.com/view/20261112n17794",
+    "https://news.nate.com/view/20261112n15266"
    ],
    "articles": [
     {
@@ -2647,10 +2671,15 @@
      "title": "이게 40대 미모?…송혜교, 순백 드레스로 완성한 여신 비주얼 [MHN:피드]",
      "link": "https://news.nate.com/view/20261112n17794",
      "media": "MHN스포츠"
+    },
+    {
+     "title": "BTS 정국, 보그 12월호 6종 커버 장식…샤넬과 완성한 독보적 비주얼",
+     "link": "https://news.nate.com/view/20261112n15266",
+     "media": "스포츠동아"
     }
    ],
    "first": "08:08",
-   "last": "15:08",
+   "last": "16:10",
    "best": 11,
    "hours": [
     "08:08",
@@ -2661,17 +2690,18 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 32
+    "nate_pop": 20,
+    "nate_int": 24
    },
-   "count": 2,
+   "count": 3,
    "inrank": true
   },
   {
@@ -2742,11 +2772,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 37
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c63",
@@ -2795,7 +2823,7 @@
     }
    ],
    "first": "09:08",
-   "last": "15:08",
+   "last": "16:10",
    "best": 3,
    "hours": [
     "09:08",
@@ -2805,14 +2833,15 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 27
+    "nate_int": 30
    },
    "count": 1,
    "inrank": true
@@ -2984,7 +3013,7 @@
     }
    ],
    "first": "10:10",
-   "last": "15:08",
+   "last": "16:10",
    "best": 2,
    "hours": [
     "10:10",
@@ -2993,15 +3022,16 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 26
+    "nate_pop": 28,
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -3023,7 +3053,7 @@
     }
    ],
    "first": "10:10",
-   "last": "15:08",
+   "last": "16:10",
    "best": 5,
    "hours": [
     "10:10",
@@ -3032,15 +3062,16 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 8
+    "nate_pop": 14,
+    "nate_int": 10
    },
    "count": 1,
    "inrank": true
@@ -3077,11 +3108,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 36
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c73",
@@ -3149,7 +3178,7 @@
     }
    ],
    "first": "10:10",
-   "last": "15:08",
+   "last": "16:10",
    "best": 1,
    "hours": [
     "10:10",
@@ -3158,15 +3187,16 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 6
+    "nate_pop": 11,
+    "nate_int": 9
    },
    "count": 2,
    "inrank": true
@@ -3209,7 +3239,7 @@
     }
    ],
    "first": "10:10",
-   "last": "15:08",
+   "last": "16:10",
    "best": 16,
    "hours": [
     "10:10",
@@ -3218,14 +3248,15 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 31
+    "nate_int": 42
    },
    "count": 4,
    "inrank": true
@@ -3366,7 +3397,7 @@
     }
    ],
    "first": "11:10",
-   "last": "15:08",
+   "last": "16:10",
    "best": 5,
    "hours": [
     "11:10",
@@ -3374,15 +3405,16 @@
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 13
+    "nate_pop": 18,
+    "nate_int": 15
    },
    "count": 1,
    "inrank": true
@@ -3418,11 +3450,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 35
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c82",
@@ -3484,22 +3514,23 @@
     }
    ],
    "first": "11:52",
-   "last": "15:08",
+   "last": "16:10",
    "best": 2,
    "hours": [
     "11:52",
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 3
+    "nate_pop": 8,
+    "nate_int": 4
    },
    "count": 3,
    "inrank": true
@@ -3521,22 +3552,23 @@
     }
    ],
    "first": "11:52",
-   "last": "15:08",
+   "last": "16:10",
    "best": 4,
    "hours": [
     "11:52",
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 24
+    "nate_pop": 30,
+    "nate_int": 26
    },
    "count": 1,
    "inrank": true
@@ -3548,13 +3580,15 @@
     "진짜 이수혁 맞아? 날렵함 사라지고 퉁퉁해진 얼굴 '반응도 제각각'",
     "이수혁, 어딘가 달라진 분위기…\"내가 알던 얼굴 아냐\" 댓글창 발칵",
     "이수혁, 얼굴 얼마나 달라졌길래? \"누구야?\" vs \"살만 쪘네\" [소셜in]",
-    "'38세 득남' 남보라, '리프팅 시술' 후 달라진 얼굴…'턱살 실종'에 대만족"
+    "'38세 득남' 남보라, '리프팅 시술' 후 달라진 얼굴…'턱살 실종'에 대만족",
+    "이수혁, 확 달라진 근황에 온라인 술렁…엇갈린 반응"
    ],
    "links": [
     "https://news.nate.com/view/20261112n11387",
     "https://news.nate.com/view/20261112n06142",
     "https://news.nate.com/view/20261112n11900",
-    "https://news.nate.com/view/20261112n16655"
+    "https://news.nate.com/view/20261112n16655",
+    "https://news.nate.com/view/20261112n15212"
    ],
    "articles": [
     {
@@ -3576,17 +3610,23 @@
      "title": "'38세 득남' 남보라, '리프팅 시술' 후 달라진 얼굴…'턱살 실종'에 대만족",
      "link": "https://news.nate.com/view/20261112n16655",
      "media": "스포츠조선"
+    },
+    {
+     "title": "이수혁, 확 달라진 근황에 온라인 술렁…엇갈린 반응",
+     "link": "https://news.nate.com/view/20261112n15212",
+     "media": "셀럽미디어"
     }
    ],
    "first": "11:52",
-   "last": "15:08",
+   "last": "16:10",
    "best": 1,
    "hours": [
     "11:52",
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_int",
@@ -3594,9 +3634,9 @@
    ],
    "now": {
     "nate_pop": 3,
-    "nate_int": 1
+    "nate_int": 3
    },
-   "count": 4,
+   "count": 5,
    "inrank": true
   },
   {
@@ -3616,21 +3656,21 @@
     }
    ],
    "first": "12:08",
-   "last": "15:08",
+   "last": "16:10",
    "best": 13,
    "hours": [
     "12:08",
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 20
+    "nate_int": 37
    },
    "count": 1,
    "inrank": true
@@ -3663,11 +3703,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 46
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c88",
@@ -3686,20 +3724,21 @@
     }
    ],
    "first": "13:08",
-   "last": "15:08",
+   "last": "16:10",
    "best": 2,
    "hours": [
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 7
+    "nate_pop": 9,
+    "nate_int": 13
    },
    "count": 1,
    "inrank": true
@@ -3721,20 +3760,21 @@
     }
    ],
    "first": "13:08",
-   "last": "15:08",
+   "last": "16:10",
    "best": 9,
    "hours": [
     "13:08",
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 22
+    "nate_pop": 27,
+    "nate_int": 32
    },
    "count": 1,
    "inrank": true
@@ -3792,19 +3832,20 @@
     }
    ],
    "first": "14:08",
-   "last": "15:08",
+   "last": "16:10",
    "best": 3,
    "hours": [
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 16
+    "nate_pop": 13,
+    "nate_int": 18
    },
    "count": 2,
    "inrank": true
@@ -3826,19 +3867,20 @@
     }
    ],
    "first": "14:08",
-   "last": "15:08",
+   "last": "16:10",
    "best": 3,
    "hours": [
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 9
+    "nate_pop": 21,
+    "nate_int": 19
    },
    "count": 1,
    "inrank": true
@@ -3860,19 +3902,20 @@
     }
    ],
    "first": "14:08",
-   "last": "15:08",
+   "last": "16:10",
    "best": 9,
    "hours": [
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 11
+    "nate_pop": 15,
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -3894,19 +3937,19 @@
     }
    ],
    "first": "14:08",
-   "last": "15:08",
+   "last": "16:10",
    "best": 14,
    "hours": [
     "14:08",
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 23
+    "nate_int": 44
    },
    "count": 1,
    "inrank": true
@@ -3937,11 +3980,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 49
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c96",
@@ -4018,17 +4059,18 @@
     }
    ],
    "first": "15:08",
-   "last": "15:08",
+   "last": "16:10",
    "best": 1,
    "hours": [
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
+    "nate_pop": 2,
     "nate_int": 2
    },
    "count": 1,
@@ -4051,18 +4093,19 @@
     }
    ],
    "first": "15:08",
-   "last": "15:08",
+   "last": "16:10",
    "best": 4,
    "hours": [
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 4
+    "nate_pop": 7,
+    "nate_int": 6
    },
    "count": 1,
    "inrank": true
@@ -4091,10 +4134,11 @@
     }
    ],
    "first": "15:08",
-   "last": "15:08",
+   "last": "16:10",
    "best": 12,
    "hours": [
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
@@ -4102,7 +4146,7 @@
    ],
    "now": {
     "nate_pop": 16,
-    "nate_int": 12
+    "nate_int": 14
    },
    "count": 2,
    "inrank": true
@@ -4131,18 +4175,19 @@
     }
    ],
    "first": "15:08",
-   "last": "15:08",
-   "best": 26,
+   "last": "16:10",
+   "best": 19,
    "hours": [
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 26,
-    "nate_int": 39
+    "nate_pop": 19,
+    "nate_int": 23
    },
    "count": 2,
    "inrank": true
@@ -4164,16 +4209,315 @@
     }
    ],
    "first": "15:08",
-   "last": "15:08",
-   "best": 48,
+   "last": "16:10",
+   "best": 47,
    "hours": [
-    "15:08"
+    "15:08",
+    "16:10"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 48
+    "nate_int": 47
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c103",
+   "title": "[단독] 술자리 중 지갑에서 쓱? 배우 김승우 '절도 혐의' 피소",
+   "titles": [
+    "[단독] 술자리 중 지갑에서 쓱? 배우 김승우 '절도 혐의' 피소",
+    "배우 김승우, 2200만원 절도 혐의 피소…\"술자리 장난, 돈 돌려줬다\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261112n23366",
+    "https://news.nate.com/view/20261112n25863"
+   ],
+   "articles": [
+    {
+     "title": "[단독] 술자리 중 지갑에서 쓱? 배우 김승우 '절도 혐의' 피소",
+     "link": "https://news.nate.com/view/20261112n23366",
+     "media": "일요신문"
+    },
+    {
+     "title": "배우 김승우, 2200만원 절도 혐의 피소…\"술자리 장난, 돈 돌려줬다\"",
+     "link": "https://news.nate.com/view/20261112n25863",
+     "media": "스타투데이"
+    }
+   ],
+   "first": "16:10",
+   "last": "16:10",
+   "best": 1,
+   "hours": [
+    "16:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 1,
+    "nate_int": 1
+   },
+   "count": 2,
+   "inrank": true
+  },
+  {
+   "id": "c104",
+   "title": "\"하나님이 알아서 해 주셔\"…박진영, '사이비 의혹'에도→JYP 주가 2...",
+   "titles": [
+    "\"하나님이 알아서 해 주셔\"…박진영, '사이비 의혹'에도→JYP 주가 2..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261112n20845"
+   ],
+   "articles": [
+    {
+     "title": "\"하나님이 알아서 해 주셔\"…박진영, '사이비 의혹'에도→JYP 주가 2...",
+     "link": "https://news.nate.com/view/20261112n20845",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "16:10",
+   "last": "16:10",
+   "best": 5,
+   "hours": [
+    "16:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 5,
+    "nate_int": 5
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c105",
+   "title": "박장범 KBS 사장 \"분열 일으키는 정치인들 '문무' 많이 봐주길\" [ST현장...",
+   "titles": [
+    "박장범 KBS 사장 \"분열 일으키는 정치인들 '문무' 많이 봐주길\" [ST현장..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261112n24982"
+   ],
+   "articles": [
+    {
+     "title": "박장범 KBS 사장 \"분열 일으키는 정치인들 '문무' 많이 봐주길\" [ST현장...",
+     "link": "https://news.nate.com/view/20261112n24982",
+     "media": "스포츠투데이"
+    }
+   ],
+   "first": "16:10",
+   "last": "16:10",
+   "best": 10,
+   "hours": [
+    "16:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 10,
+    "nate_int": 11
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c106",
+   "title": "장혁, 연개소문 되면 곽범이 안 따라하려나 \"나와 상관없이 여기저기 나와\"...",
+   "titles": [
+    "장혁, 연개소문 되면 곽범이 안 따라하려나 \"나와 상관없이 여기저기 나와\"..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261112n15985"
+   ],
+   "articles": [
+    {
+     "title": "장혁, 연개소문 되면 곽범이 안 따라하려나 \"나와 상관없이 여기저기 나와\"...",
+     "link": "https://news.nate.com/view/20261112n15985",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "16:10",
+   "last": "16:10",
+   "best": 25,
+   "hours": [
+    "16:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 25,
+    "nate_int": 33
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c107",
+   "title": "다듀, 이민정과 절친이었다 \"신사동 친한 동생, 안 친할 것 같지만\"(컬투쇼...",
+   "titles": [
+    "다듀, 이민정과 절친이었다 \"신사동 친한 동생, 안 친할 것 같지만\"(컬투쇼..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261112n21829"
+   ],
+   "articles": [
+    {
+     "title": "다듀, 이민정과 절친이었다 \"신사동 친한 동생, 안 친할 것 같지만\"(컬투쇼...",
+     "link": "https://news.nate.com/view/20261112n21829",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "16:10",
+   "last": "16:10",
+   "best": 26,
+   "hours": [
+    "16:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 26,
+    "nate_int": 34
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c108",
+   "title": "'재혼' 오윤아, 발리서 웨딩드레스 이어 완벽 비키니…\"너무 행복했던\" [스...",
+   "titles": [
+    "'재혼' 오윤아, 발리서 웨딩드레스 이어 완벽 비키니…\"너무 행복했던\" [스..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261112n22098"
+   ],
+   "articles": [
+    {
+     "title": "'재혼' 오윤아, 발리서 웨딩드레스 이어 완벽 비키니…\"너무 행복했던\" [스...",
+     "link": "https://news.nate.com/view/20261112n22098",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "16:10",
+   "last": "16:10",
+   "best": 29,
+   "hours": [
+    "16:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 29,
+    "nate_int": 35
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c109",
+   "title": "송혜교, 44세 안 믿기는 동안美…수박 하나 먹는 것도 우아해",
+   "titles": [
+    "송혜교, 44세 안 믿기는 동안美…수박 하나 먹는 것도 우아해"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261112n17531"
+   ],
+   "articles": [
+    {
+     "title": "송혜교, 44세 안 믿기는 동안美…수박 하나 먹는 것도 우아해",
+     "link": "https://news.nate.com/view/20261112n17531",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "16:10",
+   "last": "16:10",
+   "best": 40,
+   "hours": [
+    "16:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 40
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c110",
+   "title": "\"피해자에요?\" 박신영, 논란 불씨에 기름 부었다[MD이슈]",
+   "titles": [
+    "\"피해자에요?\" 박신영, 논란 불씨에 기름 부었다[MD이슈]"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261112n23702"
+   ],
+   "articles": [
+    {
+     "title": "\"피해자에요?\" 박신영, 논란 불씨에 기름 부었다[MD이슈]",
+     "link": "https://news.nate.com/view/20261112n23702",
+     "media": "마이데일리"
+    }
+   ],
+   "first": "16:10",
+   "last": "16:10",
+   "best": 43,
+   "hours": [
+    "16:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 43
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c111",
+   "title": "'논란→삭제' 차예련에게 박위의 향기가 느껴진다",
+   "titles": [
+    "'논란→삭제' 차예련에게 박위의 향기가 느껴진다"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261112n20901"
+   ],
+   "articles": [
+    {
+     "title": "'논란→삭제' 차예련에게 박위의 향기가 느껴진다",
+     "link": "https://news.nate.com/view/20261112n20901",
+     "media": "스포츠서울"
+    }
+   ],
+   "first": "16:10",
+   "last": "16:10",
+   "best": 50,
+   "hours": [
+    "16:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 50
    },
    "count": 1,
    "inrank": true
@@ -4323,9 +4667,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "16:10",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-12T15:08:33.796731+09:00",
+ "updated": "2026-11-12T16:10:43.556128+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

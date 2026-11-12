@@ -1,15 +1,21 @@
 {
- "updated": "2026-11-12T23:08:37.407114+09:00",
+ "updated": "2026-11-13T00:08:37.438646+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 39,
+   "count": 40,
    "angles": [
     "에 좋은",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "“제발 공복에 먹지 마세요”… 혈당 오르고 살쪄, 전문가들이 경고한 ...",
+     "link": "https://kormedi.com/?p=2904583",
+     "t": "2026-11-12T23:43:00+09:00",
+     "by": "kormedi.com"
+    },
     {
      "title": "' 혈당 건강 챙기세요'…정관장, 세계 당뇨병의 날 맞아 특별 혜택",
      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3750544",
@@ -33,12 +39,6 @@
      "link": "https://www.sportsworldi.com/newsView/20261112513261",
      "t": "2026-11-12T15:34:00+09:00",
      "by": "sportsworldi.com"
-    },
-    {
-     "title": "혈당 높다면... ‘콩팥 건강’ 챙겨야 하는 이유",
-     "link": "https://economist.co.kr/article/view/ecn202611120049",
-     "t": "2026-11-12T14:36:00+09:00",
-     "by": "economist.co.kr"
     }
    ]
   },
@@ -86,6 +86,47 @@
    ]
   },
   {
+   "name": "독감",
+   "kind": "질환·증상",
+   "count": 22,
+   "angles": [
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "독감 의심환자 전연령대 급증…초등생 3년새 최고",
+     "link": "https://www.kado.net/news/articleView.html?idxno=2084626",
+     "t": "2026-11-13T00:08:00+09:00",
+     "by": "kado.net"
+    },
+    {
+     "title": "독감 나아지는 줄 알았는데 다시 고열·기침...폐렴 의심해야 하는 이유",
+     "link": "https://www.ppss.kr/news/articleView.html?idxno=320719",
+     "t": "2026-11-12T21:00:00+09:00",
+     "by": "ppss.kr"
+    },
+    {
+     "title": "'이것' 많을수록 독감 덜 걸린다?… 감염률 77% 낮춘 콧속 방어막의 정체...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69640",
+     "t": "2026-11-12T17:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "관악구, 어린이·임신부 독감 예방 접종 참여 독려",
+     "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160285901255165",
+     "t": "2026-11-12T16:46:00+09:00",
+     "by": "siminilbo.co.kr"
+    },
+    {
+     "title": "[의학칼럼] ﻿ 독감 과 폐렴 차이는?… 증상 부터 치료·예방법까지",
+     "link": "https://www.news1.kr/local/daejeon-chungnam/6352183",
+     "t": "2026-11-12T15:53:00+09:00",
+     "by": "news1.kr"
+    }
+   ]
+  },
+  {
    "name": "감기",
    "kind": "질환·증상",
    "count": 21,
@@ -128,54 +169,19 @@
    ]
   },
   {
-   "name": "독감",
-   "kind": "질환·증상",
-   "count": 21,
-   "angles": [
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "독감 나아지는 줄 알았는데 다시 고열·기침...폐렴 의심해야 하는 이유",
-     "link": "https://www.ppss.kr/news/articleView.html?idxno=320719",
-     "t": "2026-11-12T21:00:00+09:00",
-     "by": "ppss.kr"
-    },
-    {
-     "title": "'이것' 많을수록 독감 덜 걸린다?… 감염률 77% 낮춘 콧속 방어막의 정체...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69640",
-     "t": "2026-11-12T17:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "관악구, 어린이·임신부 독감 예방 접종 참여 독려",
-     "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160285901255165",
-     "t": "2026-11-12T16:46:00+09:00",
-     "by": "siminilbo.co.kr"
-    },
-    {
-     "title": "[의학칼럼] ﻿ 독감 과 폐렴 차이는?… 증상 부터 치료·예방법까지",
-     "link": "https://www.news1.kr/local/daejeon-chungnam/6352183",
-     "t": "2026-11-12T15:53:00+09:00",
-     "by": "news1.kr"
-    },
-    {
-     "title": "독감 유행 시기, 마스크 착용과 함께 실천해야 할 예방 수칙은?",
-     "link": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45632",
-     "t": "2026-11-12T15:34:00+09:00",
-     "by": "hemophilia.co.kr"
-    }
-   ]
-  },
-  {
    "name": "당뇨",
    "kind": "질환·증상",
-   "count": 16,
+   "count": 17,
    "angles": [
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "[건/강/상/식] 생활 속 꾸준한 움직임, 당뇨 관리 첫걸음",
+     "link": "https://www.kado.net/news/articleView.html?idxno=2084525",
+     "t": "2026-11-13T00:05:00+09:00",
+     "by": "kado.net"
+    },
     {
      "title": "실명 부른다는 비만약 맞아도 될까…당뇨 환자라면 전문의와 상담해야",
      "link": "https://www.fnnews.com/news/202611121819127138",
@@ -199,12 +205,6 @@
      "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978397",
      "t": "2026-11-11T23:10:00+09:00",
      "by": "medicalworldnews.co.kr"
-    },
-    {
-     "title": "김포우리병원, 당뇨 환자 대상 혈당 관리 ·식사요법 교육 진행",
-     "link": "https://www.kmib.co.kr/article/20261111500880",
-     "t": "2026-11-11T14:53:00+09:00",
-     "by": "kmib.co.kr"
     }
    ]
   },

@@ -140,6 +140,9 @@ def dishes(rows):
             for d in out[:12]]
 
 
+DAILY_HOUR = 9      # 레시피 알림은 하루 한 번, 아침 9시 이후 첫 수집 때
+
+
 def collect():
     if not os.getenv("NAVER_HUB_ID"):
         return
@@ -190,17 +193,26 @@ def collect():
     seen = seen or []
     new = [a for k, a in got.items() if k not in seen]
     test = os.getenv("RECIPE_TEST") == "1"
-    yts = [a for a in rows if a.get("yt")]
-    send = (yts[:3] + [a for a in rows if not a.get("yt")][:2]) if test else sorted(new, key=lambda a: (a["show"] is None, a["t"]))[:10]
-    if send and (test or not first):
-        lines = [("🧪 [테스트] " if test else "") + f"🍳 <b>방송 레시피 {len(send)}건</b>"
-                 + (f"\n(방금 끝난 방송: {', '.join(ended)})" if ended else "")]
-        for a in send:
-            lines.append(f"\n• {'[' + html.escape(a['show']) + '] ' if a['show'] else ''}"
-                         f"<a href=\"{html.escape(a['link'])}\">{html.escape(a['title'])}</a>")
-        try:
-            M.telegram("".join(lines))
-        except Exception as e:
-            print(f"::warning::레시피 알림 실패: {e}")
+    # 하루 한 번(아침 9시대)만 지난 24시간 레시피를 모아서 보냄
+    sent_f = T.DATA / "recipes_daily.txt"
+    sent_day = sent_f.read_text().strip() if sent_f.exists() else ""
+    daily = T.NOW.hour >= DAILY_HOUR and sent_day != str(T.TODAY)
+    if test or (daily and not first):
+        cut = (T.NOW - dt.timedelta(hours=24)).isoformat()
+        day_rows = [a for a in rows if a["t"] >= cut and not a.get("yt")]
+        send = sorted(day_rows, key=lambda a: (a["show"] is None, a["t"]))[:10]
+        dish = [d["name"] for d in dishes(day_rows)[:8]]
+        if send:
+            lines = [("🧪 [테스트] " if test else "") + f"🍳 <b>오늘의 방송 레시피</b> (지난 24시간 {len(day_rows)}건)"
+                     + (f"\n뜨는 요리: {html.escape(', '.join(dish))}" if dish else "")]
+            for a in send:
+                lines.append(f"\n• {'[' + html.escape(a['show']) + '] ' if a['show'] else ''}"
+                             f"<a href=\"{html.escape(a['link'])}\">{html.escape(a['title'])}</a>")
+            try:
+                M.telegram("".join(lines))
+            except Exception as e:
+                print(f"::warning::레시피 알림 실패: {e}")
+        if not test:
+            sent_f.write_text(str(T.TODAY))
     T.save(SEEN, (seen + [k for k in got if k not in seen])[-3000:])
     print(f"[OK] 레시피: {len(rows)}건 (새 {len(new)}건, 방금 끝난 요리 방송 {ended})")

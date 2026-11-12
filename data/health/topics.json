@@ -1,15 +1,21 @@
 {
- "updated": "2026-11-13T05:10:54.174619+09:00",
+ "updated": "2026-11-13T06:08:26.788347+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 42,
+   "count": 43,
    "angles": [
     "먹는 법",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "\" 혈당 만큼 무서운 신장 합병증\"...K-제약바이오, 당뇨병성 신증 '정조준...",
+     "link": "https://www.pharmnews.com/news/articleView.html?idxno=307901",
+     "t": "2026-11-13T06:00:00+09:00",
+     "by": "pharmnews.com"
+    },
     {
      "title": "“ 혈당 치솟는다”… 살 빼려 ‘아침 공복 때’ 운동하니 벌어진 일",
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/12/2026111202816.html",
@@ -33,12 +39,6 @@
      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3750544",
      "t": "2026-11-12T21:10:00+09:00",
      "by": "gukjenews.com"
-    },
-    {
-     "title": "“내일 아침 혈당 내려갑니다”… 잠들기 전 ‘식초 두 스푼’의 의학적...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/12/2026111203180.html",
-     "t": "2026-11-12T19:01:00+09:00",
-     "by": "health.chosun.com"
     }
    ]
   },
@@ -966,6 +966,41 @@
    ]
   },
   {
+   "name": "코로나",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "코로나19 백신 접종 후 암 발생 증가 없었다",
+     "link": "http://www.newsmp.com/news/articleView.html?idxno=259275",
+     "t": "2026-11-13T06:02:00+09:00",
+     "by": "newsmp.com"
+    },
+    {
+     "title": "독감 ·코로나 '트윈데믹', 발열 48시간이 골든타임",
+     "link": "https://www.hankyung.com/article/2026111195221",
+     "t": "2026-11-11T16:06:00+09:00",
+     "by": "hankyung.com"
+    },
+    {
+     "title": "청송군, 독감·코로나19 예방접종 8천220명 완료",
+     "link": "https://www.imaeil.com/page/view/2026111011114191628",
+     "t": "2026-11-10T15:13:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "청주시, 일반 고위험군·면역저하자 대상 코로나19 예방접종",
+     "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=362257",
+     "t": "2026-11-10T13:16:00+09:00",
+     "by": "ccreview.co.kr"
+    }
+   ]
+  },
+  {
    "name": "걷기",
    "kind": "운동·생활",
    "count": 3,
@@ -1048,35 +1083,6 @@
      "link": "https://www.electimes.com/news/articleView.html?idxno=374529",
      "t": "2026-11-10T13:18:00+09:00",
      "by": "electimes.com"
-    }
-   ]
-  },
-  {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "독감 ·코로나 '트윈데믹', 발열 48시간이 골든타임",
-     "link": "https://www.hankyung.com/article/2026111195221",
-     "t": "2026-11-11T16:06:00+09:00",
-     "by": "hankyung.com"
-    },
-    {
-     "title": "청송군, 독감·코로나19 예방접종 8천220명 완료",
-     "link": "https://www.imaeil.com/page/view/2026111011114191628",
-     "t": "2026-11-10T15:13:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "청주시, 일반 고위험군·면역저하자 대상 코로나19 예방접종",
-     "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=362257",
-     "t": "2026-11-10T13:16:00+09:00",
-     "by": "ccreview.co.kr"
     }
    ]
   },

@@ -1,7 +1,14 @@
 {
- "updated": "2026-11-12T17:10:48.586241+09:00",
+ "updated": "2026-11-12T18:08:31.136515+09:00",
  "ended": [],
  "articles": [
+  {
+   "title": "부산디지털대, ‘흑백 요리 사2’ 레이먼 킴 셰프 초청 무료 푸드콘서트 ...",
+   "link": "https://www.busan.com/view/busan/view.php?code=2026111210130478839",
+   "t": "2026-11-12T17:30:00+09:00",
+   "show": "흑백요리사",
+   "by": "busan.com"
+  },
   {
    "title": "[유통 직썰] 레시피 짜고 이물질 거른다…식품업계 신입사원은 'AI'",
    "link": "https://www.ziksir.com/news/articleView.html?idxno=153048",
@@ -15,13 +22,6 @@
    "t": "2026-11-12T12:12:00+09:00",
    "show": "백종원",
    "by": "munhwa.com"
-  },
-  {
-   "title": "엔비디아, H100 GKE 추론 레시피 에 AI 작업 목록 기본 탑재",
-   "link": "https://www.tokenpost.kr/news/ai/436789",
-   "t": "2026-11-12T06:06:00+09:00",
-   "show": null,
-   "by": "tokenpost.kr"
   },
   {
    "title": "소스 팔던 백종원 , 이젠 조리법까지 판다…더본코리아, 유럽시장 공략 ...",
@@ -45,5 +45,16 @@
    "by": "topstarnews.net"
   }
  ],
- "dishes": []
+ "dishes": [
+  {
+   "name": "초청",
+   "count": 1,
+   "shows": [
+    "흑백요리사"
+   ],
+   "link": "https://www.busan.com/view/busan/view.php?code=2026111210130478839",
+   "title": "부산디지털대, ‘흑백 요리 사2’ 레이먼 킴 셰프 초청 무료 푸드콘서트 ...",
+   "t": "2026-11-12T17:30:00+09:00"
+  }
+ ]
 }

@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-12T16:10:46.401342+09:00",
+ "updated": "2026-11-12T17:10:48.586241+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 50,
+   "count": 49,
    "angles": [
     "에 좋은",
     "효능",
@@ -46,13 +46,25 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 25,
+   "count": 26,
    "angles": [
     "에 좋은",
     "부작용",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "'이것' 많을수록 독감 덜 걸린다?… 감염률 77% 낮춘 콧속 방어막의 정체...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69640",
+     "t": "2026-11-12T17:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "관악구, 어린이·임신부 독감 예방 접종 참여 독려",
+     "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160285901255165",
+     "t": "2026-11-12T16:46:00+09:00",
+     "by": "siminilbo.co.kr"
+    },
     {
      "title": "[의학칼럼] ﻿ 독감 과 폐렴 차이는?… 증상 부터 치료·예방법까지",
      "link": "https://www.news1.kr/local/daejeon-chungnam/6352183",
@@ -70,31 +82,68 @@
      "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=417683",
      "t": "2026-11-12T15:14:00+09:00",
      "by": "ccnnews.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "감기",
+   "kind": "질환·증상",
+   "count": 24,
+   "angles": [
+    "에 좋은",
+    "부작용",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "밤마다 이어지는 마른기침… 감기 아닌 '천식'일 가능성",
+     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34012",
+     "t": "2026-11-12T16:28:00+09:00",
+     "by": "jhealthmedia.joins.com"
     },
     {
-     "title": "[기고] 독감 과 폐렴, 무엇이 다를까... 증상 부터 치료·예방법까지",
-     "link": "https://news.tf.co.kr/read/national/2388101.htm",
-     "t": "2026-11-12T15:01:00+09:00",
-     "by": "tf.co.kr"
+     "title": "오래 가는 감기 로 알았던 기침, 밤이나 새벽에 더 심하다면 \"이것\" 의심",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59934",
+     "t": "2026-11-12T16:26:00+09:00",
+     "by": "koreahealthlog.com"
     },
     {
-     "title": "독감 과 폐렴, 무엇이 다를까? 증상 부터 치료·예방법까지",
-     "link": "https://www.newstnt.com/news/articleView.html?idxno=728120",
-     "t": "2026-11-12T13:58:00+09:00",
-     "by": "newstnt.com"
+     "title": "감기 후 '칫솔' 교체 시기와 보관 방법, 버려야 할 때와 아닐 때 [건강꿀...",
+     "link": "https://www.wikitree.co.kr/articles/1174113",
+     "t": "2026-11-12T15:14:00+09:00",
+     "by": "wikitree.co.kr"
+    },
+    {
+     "title": "\"겨울철 감기 약, 증상 따라 선택하세요\"",
+     "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2491731",
+     "t": "2026-11-12T15:04:00+09:00",
+     "by": "enewstoday.co.kr"
+    },
+    {
+     "title": "[카드] 겨울 앞두고 감기 약 수요↑…동국제약, 성분별 복용법 안내",
+     "link": "http://www.newsprime.co.kr/news/article.html?no=754727",
+     "t": "2026-11-12T14:06:00+09:00",
+     "by": "newsprime.co.kr"
     }
    ]
   },
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 23,
+   "count": 24,
    "angles": [
     "부작용",
     "효능",
-    "먹는 법"
+    "먹는 법",
+    "에 좋은"
    ],
    "items": [
+    {
+     "title": "닭가슴살만큼 다이어트에 도움 된다… 칼로리 낮고 단백질 가득한 '의외...",
+     "link": "https://www.wikitree.co.kr/articles/1174126",
+     "t": "2026-11-12T16:34:00+09:00",
+     "by": "wikitree.co.kr"
+    },
     {
      "title": "단백질 풍부하고 혈관 건강 에 효과적… 11월에 꼭 먹어야 하는 '이 생선...",
      "link": "https://www.wikitree.co.kr/articles/1173941",
@@ -118,61 +167,13 @@
      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69933",
      "t": "2026-11-11T15:00:00+09:00",
      "by": "hidoc.co.kr"
-    },
-    {
-     "title": "만성콩팥병 환자, 단백질 너무 적게 먹으면 사망 위험 117% 높아",
-     "link": "https://www.sisajournal.com/news/articleView.html?idxno=393558",
-     "t": "2026-11-11T12:00:00+09:00",
-     "by": "sisajournal.com"
-    }
-   ]
-  },
-  {
-   "name": "감기",
-   "kind": "질환·증상",
-   "count": 22,
-   "angles": [
-    "에 좋은",
-    "부작용",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "감기 후 '칫솔' 교체 시기와 보관 방법, 버려야 할 때와 아닐 때 [건강꿀...",
-     "link": "https://www.wikitree.co.kr/articles/1174113",
-     "t": "2026-11-12T15:14:00+09:00",
-     "by": "wikitree.co.kr"
-    },
-    {
-     "title": "\"겨울철 감기 약, 증상 따라 선택하세요\"",
-     "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2491731",
-     "t": "2026-11-12T15:04:00+09:00",
-     "by": "enewstoday.co.kr"
-    },
-    {
-     "title": "[카드] 겨울 앞두고 감기 약 수요↑…동국제약, 성분별 복용법 안내",
-     "link": "http://www.newsprime.co.kr/news/article.html?no=754727",
-     "t": "2026-11-12T14:06:00+09:00",
-     "by": "newsprime.co.kr"
-    },
-    {
-     "title": "단순 감기로 여겼다간 생명 위협…고령층 노리는 '폐렴' 주의보",
-     "link": "https://www.widedaily.com/news/articleView.html?idxno=303537",
-     "t": "2026-11-12T14:00:00+09:00",
-     "by": "widedaily.com"
-    },
-    {
-     "title": "찬 바람에 밤마다 기침 반복되면, 감기 보단 천식 의심해야",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=421646",
-     "t": "2026-11-12T11:48:00+09:00",
-     "by": "medipana.com"
     }
    ]
   },
   {
    "name": "수면",
    "kind": "운동·생활",
-   "count": 20,
+   "count": 18,
    "angles": [
     "에 좋은",
     "효능"
@@ -213,7 +214,7 @@
   {
    "name": "당뇨",
    "kind": "질환·증상",
-   "count": 18,
+   "count": 17,
    "angles": [
     "에 좋은"
    ],
@@ -253,7 +254,7 @@
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 17,
+   "count": 16,
    "angles": [
     "부작용",
     "에 좋은",
@@ -376,9 +377,88 @@
    ]
   },
   {
+   "name": "홍삼",
+   "kind": "영양제",
+   "count": 13,
+   "angles": [],
+   "items": [
+    {
+     "title": "종근당 건강 , 홍삼 젤리 브랜드 '홍삼당당' 출시",
+     "link": "https://www.lawissue.co.kr/view.php?ud=20261112163419465f4ab64559d_12",
+     "t": "2026-11-12T16:36:00+09:00",
+     "by": "lawissue.co.kr"
+    },
+    {
+     "title": "지강인, 블랙프라이데이 홍삼· 건강 즙 최대 49% 할인…다양한 혜택 마련",
+     "link": "https://www.sportsworldi.com/newsView/20261112515162",
+     "t": "2026-11-12T16:29:00+09:00",
+     "by": "sportsworldi.com"
+    },
+    {
+     "title": "종근당 건강 , 홍삼을 젤리로 재해석…2535 직장인 공략",
+     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213422",
+     "t": "2026-11-12T16:06:00+09:00",
+     "by": "thefirstmedia.net"
+    },
+    {
+     "title": "쓴맛 뺀 홍삼을 간식처럼…종근당건강, 천도복숭아맛 홍삼젤리 ‘홍삼...",
+     "link": "https://www.globalepic.co.kr/view.php?ud=2026111212374780624ee4ea3d05_29",
+     "t": "2026-11-12T12:40:00+09:00",
+     "by": "globalepic.co.kr"
+    },
+    {
+     "title": "[뉴스워커_종근당 건강 ] 홍삼 기피 이유 30%가 '맛·향'…쓴맛 낮춘 천도...",
+     "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=513635",
+     "t": "2026-11-12T11:24:00+09:00",
+     "by": "newsworker.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "다이어트",
+   "kind": "운동·생활",
+   "count": 12,
+   "angles": [
+    "에 좋은",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "닭가슴살만큼 다이어트에 도움 된다… 칼로리 낮고 단백질 가득한 '의외...",
+     "link": "https://www.wikitree.co.kr/articles/1174126",
+     "t": "2026-11-12T16:34:00+09:00",
+     "by": "wikitree.co.kr"
+    },
+    {
+     "title": "다이어트 열풍 속 놓치기 쉬운 관절 건강… “살 빼면 무릎도 좋아질까...",
+     "link": "https://www.sportsworldi.com/newsView/20261112508566",
+     "t": "2026-11-12T12:02:00+09:00",
+     "by": "sportsworldi.com"
+    },
+    {
+     "title": "어떤 과정을 거쳐야 ‘성공적인 다이어트’가 될까?",
+     "link": "http://www.brainmedia.co.kr/Opinion/25711",
+     "t": "2026-11-11T21:18:00+09:00",
+     "by": "brainmedia.co.kr"
+    },
+    {
+     "title": "신동 \"444일간 25kg 감량… 다이어트 약물 도움 받았어요\"",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624531",
+     "t": "2026-11-11T17:20:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "포장 음식 비닐 대신 종량제봉투에…고양시, '탄소 다이어트 ' 나선다",
+     "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7193245",
+     "t": "2026-11-11T13:28:00+09:00",
+     "by": "weekly.hankooki.com"
+    }
+   ]
+  },
+  {
    "name": "폐렴",
    "kind": "질환·증상",
-   "count": 12,
+   "count": 11,
    "angles": [
     "부작용",
     "에 좋은"
@@ -413,47 +493,6 @@
      "link": "https://www.widedaily.com/news/articleView.html?idxno=303537",
      "t": "2026-11-12T14:00:00+09:00",
      "by": "widedaily.com"
-    }
-   ]
-  },
-  {
-   "name": "다이어트",
-   "kind": "운동·생활",
-   "count": 11,
-   "angles": [
-    "에 좋은",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "다이어트 열풍 속 놓치기 쉬운 관절 건강… “살 빼면 무릎도 좋아질까...",
-     "link": "https://www.sportsworldi.com/newsView/20261112508566",
-     "t": "2026-11-12T12:02:00+09:00",
-     "by": "sportsworldi.com"
-    },
-    {
-     "title": "어떤 과정을 거쳐야 ‘성공적인 다이어트’가 될까?",
-     "link": "http://www.brainmedia.co.kr/Opinion/25711",
-     "t": "2026-11-11T21:18:00+09:00",
-     "by": "brainmedia.co.kr"
-    },
-    {
-     "title": "신동 \"444일간 25kg 감량… 다이어트 약물 도움 받았어요\"",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624531",
-     "t": "2026-11-11T17:20:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "포장 음식 비닐 대신 종량제봉투에…고양시, '탄소 다이어트 ' 나선다",
-     "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7193245",
-     "t": "2026-11-11T13:28:00+09:00",
-     "by": "weekly.hankooki.com"
-    },
-    {
-     "title": "\"요요 왔다고 고소 당할 뻔\"…신동, 다이어트 업체 통해 '37kg' 감량→말...",
-     "link": "https://mhnse.com/news/articleView.html?idxno=1692327",
-     "t": "2026-11-11T10:48:00+09:00",
-     "by": "mhnse.com"
     }
    ]
   },
@@ -499,47 +538,9 @@
    ]
   },
   {
-   "name": "홍삼",
-   "kind": "영양제",
-   "count": 11,
-   "angles": [],
-   "items": [
-    {
-     "title": "종근당 건강 , 홍삼을 젤리로 재해석…2535 직장인 공략",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213422",
-     "t": "2026-11-12T16:06:00+09:00",
-     "by": "thefirstmedia.net"
-    },
-    {
-     "title": "쓴맛 뺀 홍삼을 간식처럼…종근당건강, 천도복숭아맛 홍삼젤리 ‘홍삼...",
-     "link": "https://www.globalepic.co.kr/view.php?ud=2026111212374780624ee4ea3d05_29",
-     "t": "2026-11-12T12:40:00+09:00",
-     "by": "globalepic.co.kr"
-    },
-    {
-     "title": "[뉴스워커_종근당 건강 ] 홍삼 기피 이유 30%가 '맛·향'…쓴맛 낮춘 천도...",
-     "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=513635",
-     "t": "2026-11-12T11:24:00+09:00",
-     "by": "newsworker.co.kr"
-    },
-    {
-     "title": "종근당 건강 , 젊은 세대 겨냥 젤리형 홍삼 브랜드 '홍삼당당' 론칭",
-     "link": "http://www.popcornnews.net/news/articleView.html?idxno=139764",
-     "t": "2026-11-12T10:34:00+09:00",
-     "by": "popcornnews.net"
-    },
-    {
-     "title": "종근당 건강 , 젊은 입맛 겨냥한 홍삼 신규 브랜드 ‘홍삼당당’ 출시'",
-     "link": "https://view.asiae.co.kr/article/2026111116462827432",
-     "t": "2026-11-12T10:10:00+09:00",
-     "by": "view.asiae.co.kr"
-    }
-   ]
-  },
-  {
    "name": "콜레스테롤",
    "kind": "질환·증상",
-   "count": 10,
+   "count": 9,
    "angles": [
     "부작용",
     "에 좋은"
@@ -564,98 +565,56 @@
      "by": "mdtoday.co.kr"
     },
     {
-     "title": "장 건강엔 보리, 콜레스테롤 관리엔 귀리…골라 먹는 곡물",
-     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=33988",
-     "t": "2026-11-12T06:50:00+09:00",
-     "by": "jhealthmedia.joins.com"
-    },
-    {
      "title": "LDL 콜레스테롤 '감소 폭' 살펴야 뇌졸중 재발 막는다",
      "link": "https://www.k-health.com/news/articleView.html?idxno=102154",
      "t": "2026-11-11T18:14:00+09:00",
      "by": "k-health.com"
+    },
+    {
+     "title": "“콜레스테롤 정상인데 동맥경화?”…건강한 비만도 놓치기 쉬운 위험 ...",
+     "link": "https://www.donga.com/news/Health/article/all/20261111/135008802/2",
+     "t": "2026-11-11T18:00:00+09:00",
+     "by": "donga.com"
     }
    ]
   },
   {
-   "name": "대장암",
+   "name": "폐암",
    "kind": "질환·증상",
    "count": 8,
    "angles": [
-    "부작용"
+    "효능"
    ],
    "items": [
     {
-     "title": "\"대장암 수술 후 근육 빠지는 사람 따로 있다?\"… 수술 전 혈액 속 단서...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69953",
-     "t": "2026-11-12T15:00:00+09:00",
-     "by": "hidoc.co.kr"
+     "title": "면역항암제 효과, 수술 전에 알 수 있다?…폐암 환자서 가능성 확인",
+     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80896",
+     "t": "2026-11-12T17:00:00+09:00",
+     "by": "mkhealth.co.kr"
     },
     {
-     "title": "대장암 수술 후 근감소 위험, 수술 전 혈액검사로 예측 가능성 확인",
-     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51827",
-     "t": "2026-11-12T08:00:00+09:00",
-     "by": "ikunkang.com"
+     "title": "영상검사·면역세포로 폐암 선행 면역항암제 효과 예측법 발견",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=421559",
+     "t": "2026-11-11T16:16:00+09:00",
+     "by": "medipana.com"
     },
     {
-     "title": "강남세브란스병원 교수 연구 팀, 혈중 머슬린과 대장암 수술 후 근육량 ...",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213317",
-     "t": "2026-11-11T17:22:00+09:00",
-     "by": "thefirstmedia.net"
+     "title": "폐암 수술 전 '선행면역항암치료' 효과 예측 단서 찾았다",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59904",
+     "t": "2026-11-11T13:34:00+09:00",
+     "by": "koreahealthlog.com"
     },
     {
-     "title": "대장암 수술 후 근감소 위험 예측 '혈액검사'",
-     "link": "https://www.dailymedi.com/news/news_view.php?wr_id=942472",
-     "t": "2026-11-11T16:02:00+09:00",
-     "by": "dailymedi.com"
+     "title": "환자마다 다른 폐암 면역항암치료 효과··· 예측 가능한 지표 찾았다",
+     "link": "https://www.khan.co.kr/article/202611111330001",
+     "t": "2026-11-11T13:30:00+09:00",
+     "by": "khan.co.kr"
     },
     {
-     "title": "대장암 수술 후 근육 얼마나 줄까…혈액 속 '머슬린'에 단서",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=102148",
-     "t": "2026-11-11T15:30:00+09:00",
+     "title": "같은 면역항암치료에도 효과 제각각…폐암 치료반응 예측 단서 찾았다",
+     "link": "https://www.k-health.com/news/articleView.html?idxno=102141",
+     "t": "2026-11-11T11:44:00+09:00",
      "by": "k-health.com"
-    }
-   ]
-  },
-  {
-   "name": "유방암",
-   "kind": "질환·증상",
-   "count": 8,
-   "angles": [
-    "부작용",
-    "에 좋은",
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "위암·유방암·림프종 치료제 3개 품목, 건강보험 급여기준 설정",
-     "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=98834",
-     "t": "2026-11-12T09:02:00+09:00",
-     "by": "kmedinfo.co.kr"
-    },
-    {
-     "title": "“영양 보충제, 유방암 생존자 ‘브레인 포그’ 개선 가능성”",
-     "link": "https://www.voakorea.com/a/what-you-know-changes-everything-111126/8221622.html",
-     "t": "2026-11-12T05:41:00+09:00",
-     "by": "voakorea.com"
-    },
-    {
-     "title": "암 이겼는데 몸은 9.4년 더 늙었다…유방암 치료가 남긴 충격 결과 [매일...",
-     "link": "https://www.imaeil.com/page/view/2026111109405263801",
-     "t": "2026-11-11T14:30:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "겨울철, 유방암 항암치료 환자 독감 주의…예방접종 등 관리가 중요",
-     "link": "https://www.livesnews.com/news/article.html?no=65866",
-     "t": "2026-11-11T12:04:00+09:00",
-     "by": "livesnews.com"
-    },
-    {
-     "title": "저용량 타목시펜·엔독시펜, 유방암 예방약 부작용 가능성 줄여",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624159",
-     "t": "2026-11-10T15:30:00+09:00",
-     "by": "mdtoday.co.kr"
     }
    ]
   },
@@ -741,83 +700,84 @@
    ]
   },
   {
-   "name": "폐암",
+   "name": "대장암",
    "kind": "질환·증상",
    "count": 7,
    "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "영상검사·면역세포로 폐암 선행 면역항암제 효과 예측법 발견",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=421559",
-     "t": "2026-11-11T16:16:00+09:00",
-     "by": "medipana.com"
-    },
-    {
-     "title": "폐암 수술 전 '선행면역항암치료' 효과 예측 단서 찾았다",
-     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59904",
-     "t": "2026-11-11T13:34:00+09:00",
-     "by": "koreahealthlog.com"
-    },
-    {
-     "title": "환자마다 다른 폐암 면역항암치료 효과··· 예측 가능한 지표 찾았다",
-     "link": "https://www.khan.co.kr/article/202611111330001",
-     "t": "2026-11-11T13:30:00+09:00",
-     "by": "khan.co.kr"
-    },
-    {
-     "title": "같은 면역항암치료에도 효과 제각각…폐암 치료반응 예측 단서 찾았다",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=102141",
-     "t": "2026-11-11T11:44:00+09:00",
-     "by": "k-health.com"
-    },
-    {
-     "title": "폐암 면역항암치료 효과, 영상·면역세포로 예측 단서 찾았다",
-     "link": "http://www.bokuennews.com/news/article.html?no=286942",
-     "t": "2026-11-11T10:18:00+09:00",
-     "by": "bokuennews.com"
-    }
-   ]
-  },
-  {
-   "name": "염증",
-   "kind": "질환·증상",
-   "count": 6,
-   "angles": [
-    "효능",
     "부작용"
    ],
    "items": [
     {
-     "title": "농진청, '돼지 미니 장기'로 장 염증 반응·세포 변화 규명",
-     "link": "https://www.yna.co.kr/view/AKR20261112060700055?input=1195m",
-     "t": "2026-11-12T11:00:00+09:00",
-     "by": "yna.co.kr"
+     "title": "\"대장암 수술 후 근육 빠지는 사람 따로 있다?\"… 수술 전 혈액 속 단서...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69953",
+     "t": "2026-11-12T15:00:00+09:00",
+     "by": "hidoc.co.kr"
     },
     {
-     "title": "[HIF 2026] 알츠하이머병 치료 새 열쇠 뇌 염증…세계적 뇌 과학자 폴 매...",
-     "link": "https://biz.chosun.com/science-chosun/bio/2026/11/12/262SNFBENBAFFPGQQZMINLBG7E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "t": "2026-11-12T06:01:00+09:00",
-     "by": "biz.chosun.com"
+     "title": "강남세브란스병원 교수 연구 팀, 혈중 머슬린과 대장암 수술 후 근육량 ...",
+     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213317",
+     "t": "2026-11-11T17:22:00+09:00",
+     "by": "thefirstmedia.net"
     },
     {
-     "title": "사과 껍질 속 우르솔산, 뇌 염증 개선 및 인지기능 회복 효과 규명",
-     "link": "http://www.brainmedia.co.kr/BrainScience/25704",
-     "t": "2026-11-11T21:06:00+09:00",
-     "by": "brainmedia.co.kr"
+     "title": "대장암 수술 후 근감소 위험 예측 '혈액검사'",
+     "link": "https://www.dailymedi.com/news/news_view.php?wr_id=942472",
+     "t": "2026-11-11T16:02:00+09:00",
+     "by": "dailymedi.com"
     },
     {
-     "title": "증상 조절 넘어 염증 호전 ‘내시경’ 조기 치료해야",
-     "link": "http://www.kjdaily.com/article.php?aid=1794304646691812032",
-     "t": "2026-11-10T19:02:00+09:00",
-     "by": "kjdaily.com"
+     "title": "대장암 수술 후 근육 얼마나 줄까…혈액 속 '머슬린'에 단서",
+     "link": "https://www.k-health.com/news/articleView.html?idxno=102148",
+     "t": "2026-11-11T15:30:00+09:00",
+     "by": "k-health.com"
     },
     {
-     "title": "“잇몸 염증 놔뒀더니 골다공증 위험”… 제대로 관리하는 5가지 방법",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/10/2026111001687.html",
-     "t": "2026-11-10T18:01:00+09:00",
-     "by": "health.chosun.com"
+     "title": "대장암 수술 후 근감소 위험…혈중 '머슬린'이 예측 단서",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=421526",
+     "t": "2026-11-11T11:16:00+09:00",
+     "by": "medipana.com"
+    }
+   ]
+  },
+  {
+   "name": "유방암",
+   "kind": "질환·증상",
+   "count": 7,
+   "angles": [
+    "부작용",
+    "에 좋은",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "위암·유방암·림프종 치료제 3개 품목, 건강보험 급여기준 설정",
+     "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=98834",
+     "t": "2026-11-12T09:02:00+09:00",
+     "by": "kmedinfo.co.kr"
+    },
+    {
+     "title": "암 이겼는데 몸은 9.4년 더 늙었다…유방암 치료가 남긴 충격 결과 [매일...",
+     "link": "https://www.imaeil.com/page/view/2026111109405263801",
+     "t": "2026-11-11T14:30:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "겨울철, 유방암 항암치료 환자 독감 주의…예방접종 등 관리가 중요",
+     "link": "https://www.livesnews.com/news/article.html?no=65866",
+     "t": "2026-11-11T12:04:00+09:00",
+     "by": "livesnews.com"
+    },
+    {
+     "title": "저용량 타목시펜·엔독시펜, 유방암 예방약 부작용 가능성 줄여",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624159",
+     "t": "2026-11-10T15:30:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "“달콤함의 함정”…아이스크림·시리얼 자주 먹으면 유방암 위험 쑥",
+     "link": "https://www.mk.co.kr/article/12203812",
+     "t": "2026-11-10T13:55:00+09:00",
+     "by": "mk.co.kr"
     }
    ]
   },
@@ -900,6 +860,47 @@
      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601910",
      "t": "2026-11-10T15:24:00+09:00",
      "by": "headlinejeju.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "염증",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [
+    "효능",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "농진청, '돼지 미니 장기'로 장 염증 반응·세포 변화 규명",
+     "link": "https://www.yna.co.kr/view/AKR20261112060700055?input=1195m",
+     "t": "2026-11-12T11:00:00+09:00",
+     "by": "yna.co.kr"
+    },
+    {
+     "title": "사과 껍질 속 우르솔산, 뇌 염증 개선 및 인지기능 회복 효과 규명",
+     "link": "http://www.brainmedia.co.kr/BrainScience/25704",
+     "t": "2026-11-11T21:06:00+09:00",
+     "by": "brainmedia.co.kr"
+    },
+    {
+     "title": "증상 조절 넘어 염증 호전 ‘내시경’ 조기 치료해야",
+     "link": "http://www.kjdaily.com/article.php?aid=1794304646691812032",
+     "t": "2026-11-10T19:02:00+09:00",
+     "by": "kjdaily.com"
+    },
+    {
+     "title": "“잇몸 염증 놔뒀더니 골다공증 위험”… 제대로 관리하는 5가지 방법",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/10/2026111001687.html",
+     "t": "2026-11-10T18:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "흡입된 나노플라스틱, 활성산소 증가시켜 폐 염증 유발",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624197",
+     "t": "2026-11-10T14:48:00+09:00",
+     "by": "mdtoday.co.kr"
     }
    ]
   },
@@ -1124,24 +1125,22 @@
    ]
   },
   {
-   "name": "귀리",
-   "kind": "식품·제철",
+   "name": "요가",
+   "kind": "운동·생활",
    "count": 2,
-   "angles": [
-    "먹는 법"
-   ],
+   "angles": [],
    "items": [
     {
-     "title": "“우유 대신 귀리·아몬드 음료?”…유제품 대체 시 요오드·칼슘 섭취 ...",
-     "link": "https://economist.co.kr/article/view/ecn202611120021",
-     "t": "2026-11-12T10:37:00+09:00",
-     "by": "economist.co.kr"
+     "title": "암 이겨낸 박소담, 요가 고난도 동작도 거뜬… 코어 단련된다",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/11/2026111102145.html",
+     "t": "2026-11-11T15:31:00+09:00",
+     "by": "health.chosun.com"
     },
     {
-     "title": "장 건강엔 보리, 콜레스테롤 관리엔 귀리…골라 먹는 곡물",
-     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=33988",
-     "t": "2026-11-12T06:50:00+09:00",
-     "by": "jhealthmedia.joins.com"
+     "title": "요가 기반 심장재활, 심부전 환자 삶의 질· 운동 능력 개선",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624146",
+     "t": "2026-11-10T17:16:00+09:00",
+     "by": "mdtoday.co.kr"
     }
    ]
   }

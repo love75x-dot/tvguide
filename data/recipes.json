@@ -1,13 +1,38 @@
 {
- "updated": "2026-11-12T18:08:31.136515+09:00",
- "ended": [],
+ "updated": "2026-11-12T19:10:50.464656+09:00",
+ "ended": [
+  "6시 내고향",
+  "생방송 투데이",
+  "오늘N"
+ ],
  "articles": [
+  {
+   "title": "' 6시내고향 ' 익산 왕궁면에서 만나는 팥죽과 팥칼국수",
+   "link": "https://www.joongangenews.com/news/articleView.html?idxno=563496",
+   "t": "2026-11-12T17:54:00+09:00",
+   "show": "6시 내고향",
+   "by": "joongangenews.com"
+  },
+  {
+   "title": "' 6시내고향 ' 식재료 원정대, 송어와 송화버섯 활용한 요리 3종 공개",
+   "link": "https://www.joongangenews.com/news/articleView.html?idxno=563494",
+   "t": "2026-11-12T17:52:00+09:00",
+   "show": "6시 내고향",
+   "by": "joongangenews.com"
+  },
   {
    "title": "부산디지털대, ‘흑백 요리 사2’ 레이먼 킴 셰프 초청 무료 푸드콘서트 ...",
    "link": "https://www.busan.com/view/busan/view.php?code=2026111210130478839",
    "t": "2026-11-12T17:30:00+09:00",
    "show": "흑백요리사",
    "by": "busan.com"
+  },
+  {
+   "title": "' 오늘N ' 양양 명태김치 맛집, 명태 육수로 담근 김장김치와 아가미 섞박...",
+   "link": "https://www.joongangenews.com/news/articleView.html?idxno=563425",
+   "t": "2026-11-12T16:24:00+09:00",
+   "show": "오늘N",
+   "by": "joongangenews.com"
   },
   {
    "title": "[유통 직썰] 레시피 짜고 이물질 거른다…식품업계 신입사원은 'AI'",
@@ -24,6 +49,13 @@
    "by": "munhwa.com"
   },
   {
+   "title": "' 오늘N ' 옥천 청산면 생선국수·도리뱅뱅이 맛집 위치는? \"민물고기의 화...",
+   "link": "https://www.topstarnews.net/news/articleView.html?idxno=16274002",
+   "t": "2026-11-11T18:06:00+09:00",
+   "show": "오늘N",
+   "by": "topstarnews.net"
+  },
+  {
    "title": "소스 팔던 백종원 , 이젠 조리법까지 판다…더본코리아, 유럽시장 공략 ...",
    "link": "https://www.peoplewatch.co.kr/article/view/ppw202611110003",
    "t": "2026-11-11T10:04:00+09:00",
@@ -36,16 +68,29 @@
    "t": "2026-11-10T17:36:00+09:00",
    "show": null,
    "by": "segyebiz.com"
-  },
-  {
-   "title": "엠넷플러스 'IDOL'S TABLE' 6회, 뱀뱀 스페셜 레시피 공개",
-   "link": "https://www.topstarnews.net/news/articleView.html?idxno=16272580",
-   "t": "2026-11-10T08:34:00+09:00",
-   "show": null,
-   "by": "topstarnews.net"
   }
  ],
  "dishes": [
+  {
+   "name": "생선국수",
+   "count": 1,
+   "shows": [
+    "오늘N"
+   ],
+   "link": "https://www.topstarnews.net/news/articleView.html?idxno=16274002",
+   "title": "' 오늘N ' 옥천 청산면 생선국수·도리뱅뱅이 맛집 위치는? \"민물고기의 화...",
+   "t": "2026-11-11T18:06:00+09:00"
+  },
+  {
+   "name": "명태김치",
+   "count": 1,
+   "shows": [
+    "오늘N"
+   ],
+   "link": "https://www.joongangenews.com/news/articleView.html?idxno=563425",
+   "title": "' 오늘N ' 양양 명태김치 맛집, 명태 육수로 담근 김장김치와 아가미 섞박...",
+   "t": "2026-11-12T16:24:00+09:00"
+  },
   {
    "name": "초청",
    "count": 1,
@@ -55,6 +100,16 @@
    "link": "https://www.busan.com/view/busan/view.php?code=2026111210130478839",
    "title": "부산디지털대, ‘흑백 요리 사2’ 레이먼 킴 셰프 초청 무료 푸드콘서트 ...",
    "t": "2026-11-12T17:30:00+09:00"
+  },
+  {
+   "name": "팥칼국수",
+   "count": 1,
+   "shows": [
+    "6시 내고향"
+   ],
+   "link": "https://www.joongangenews.com/news/articleView.html?idxno=563496",
+   "title": "' 6시내고향 ' 익산 왕궁면에서 만나는 팥죽과 팥칼국수",
+   "t": "2026-11-12T17:54:00+09:00"
   }
  ]
 }

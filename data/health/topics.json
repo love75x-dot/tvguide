@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-12T19:10:50.464656+09:00",
+ "updated": "2026-11-12T19:54:24.345753+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 42,
+   "count": 41,
    "angles": [
     "에 좋은",
     "먹는 법",
@@ -87,48 +87,6 @@
    ]
   },
   {
-   "name": "감기",
-   "kind": "질환·증상",
-   "count": 23,
-   "angles": [
-    "에 좋은",
-    "부작용",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "밤마다 이어지는 마른기침… 감기 아닌 '천식'일 가능성",
-     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34012",
-     "t": "2026-11-12T16:28:00+09:00",
-     "by": "jhealthmedia.joins.com"
-    },
-    {
-     "title": "오래 가는 감기 로 알았던 기침, 밤이나 새벽에 더 심하다면 \"이것\" 의심",
-     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59934",
-     "t": "2026-11-12T16:26:00+09:00",
-     "by": "koreahealthlog.com"
-    },
-    {
-     "title": "감기 후 '칫솔' 교체 시기와 보관 방법, 버려야 할 때와 아닐 때 [건강꿀...",
-     "link": "https://www.wikitree.co.kr/articles/1174113",
-     "t": "2026-11-12T15:14:00+09:00",
-     "by": "wikitree.co.kr"
-    },
-    {
-     "title": "\"겨울철 감기 약, 증상 따라 선택하세요\"",
-     "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2491731",
-     "t": "2026-11-12T15:04:00+09:00",
-     "by": "enewstoday.co.kr"
-    },
-    {
-     "title": "[카드] 겨울 앞두고 감기 약 수요↑…동국제약, 성분별 복용법 안내",
-     "link": "http://www.newsprime.co.kr/news/article.html?no=754727",
-     "t": "2026-11-12T14:06:00+09:00",
-     "by": "newsprime.co.kr"
-    }
-   ]
-  },
-  {
    "name": "독감",
    "kind": "질환·증상",
    "count": 23,
@@ -171,42 +129,44 @@
    ]
   },
   {
-   "name": "당뇨",
+   "name": "감기",
    "kind": "질환·증상",
-   "count": 17,
+   "count": 22,
    "angles": [
-    "에 좋은"
+    "에 좋은",
+    "부작용",
+    "효능"
    ],
    "items": [
     {
-     "title": "실명 부른다는 비만약 맞아도 될까…당뇨 환자라면 전문의와 상담해야",
-     "link": "https://www.fnnews.com/news/202611121819127138",
-     "t": "2026-11-12T18:20:00+09:00",
-     "by": "fnnews.com"
+     "title": "밤마다 이어지는 마른기침… 감기 아닌 '천식'일 가능성",
+     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34012",
+     "t": "2026-11-12T16:28:00+09:00",
+     "by": "jhealthmedia.joins.com"
     },
     {
-     "title": "수도권 당뇨 환자 5년새 16.5%↑…인천 진료비 34% 상승 '최고치'",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3750218",
-     "t": "2026-11-12T16:10:00+09:00",
-     "by": "gukjenews.com"
+     "title": "오래 가는 감기 로 알았던 기침, 밤이나 새벽에 더 심하다면 \"이것\" 의심",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59934",
+     "t": "2026-11-12T16:26:00+09:00",
+     "by": "koreahealthlog.com"
     },
     {
-     "title": "[세계 당뇨병의 날] 당뇨 환자, 혈당 관리 만?… 콩팥 건강 함께 살펴야",
-     "link": "https://www.sportsworldi.com/newsView/20261112513261",
-     "t": "2026-11-12T15:34:00+09:00",
-     "by": "sportsworldi.com"
+     "title": "감기 후 '칫솔' 교체 시기와 보관 방법, 버려야 할 때와 아닐 때 [건강꿀...",
+     "link": "https://www.wikitree.co.kr/articles/1174113",
+     "t": "2026-11-12T15:14:00+09:00",
+     "by": "wikitree.co.kr"
     },
     {
-     "title": "만성질환 진료비 90조…고혈압·당뇨 등록 관리 는 전국 8% 지역뿐",
-     "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978397",
-     "t": "2026-11-11T23:10:00+09:00",
-     "by": "medicalworldnews.co.kr"
+     "title": "\"겨울철 감기 약, 증상 따라 선택하세요\"",
+     "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2491731",
+     "t": "2026-11-12T15:04:00+09:00",
+     "by": "enewstoday.co.kr"
     },
     {
-     "title": "김포우리병원, 당뇨 환자 대상 혈당 관리 ·식사요법 교육 진행",
-     "link": "https://www.kmib.co.kr/article/20261111500880",
-     "t": "2026-11-11T14:53:00+09:00",
-     "by": "kmib.co.kr"
+     "title": "[카드] 겨울 앞두고 감기 약 수요↑…동국제약, 성분별 복용법 안내",
+     "link": "http://www.newsprime.co.kr/news/article.html?no=754727",
+     "t": "2026-11-12T14:06:00+09:00",
+     "by": "newsprime.co.kr"
     }
    ]
   },
@@ -248,6 +208,46 @@
      "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=5122",
      "t": "2026-11-12T10:08:00+09:00",
      "by": "newsmap.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "당뇨",
+   "kind": "질환·증상",
+   "count": 16,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "실명 부른다는 비만약 맞아도 될까…당뇨 환자라면 전문의와 상담해야",
+     "link": "https://www.fnnews.com/news/202611121819127138",
+     "t": "2026-11-12T18:20:00+09:00",
+     "by": "fnnews.com"
+    },
+    {
+     "title": "수도권 당뇨 환자 5년새 16.5%↑…인천 진료비 34% 상승 '최고치'",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3750218",
+     "t": "2026-11-12T16:10:00+09:00",
+     "by": "gukjenews.com"
+    },
+    {
+     "title": "[세계 당뇨병의 날] 당뇨 환자, 혈당 관리 만?… 콩팥 건강 함께 살펴야",
+     "link": "https://www.sportsworldi.com/newsView/20261112513261",
+     "t": "2026-11-12T15:34:00+09:00",
+     "by": "sportsworldi.com"
+    },
+    {
+     "title": "만성질환 진료비 90조…고혈압·당뇨 등록 관리 는 전국 8% 지역뿐",
+     "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978397",
+     "t": "2026-11-11T23:10:00+09:00",
+     "by": "medicalworldnews.co.kr"
+    },
+    {
+     "title": "김포우리병원, 당뇨 환자 대상 혈당 관리 ·식사요법 교육 진행",
+     "link": "https://www.kmib.co.kr/article/20261111500880",
+     "t": "2026-11-11T14:53:00+09:00",
+     "by": "kmib.co.kr"
     }
    ]
   },
@@ -294,7 +294,7 @@
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 15,
+   "count": 14,
    "angles": [
     "부작용",
     "에 좋은",

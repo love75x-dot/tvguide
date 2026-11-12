@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:10:44.151845+09:00",
+ "updated": "2026-11-12T22:08:28.445731+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -88,11 +88,11 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 22,
+   "count": 21,
    "angles": [
-    "에 좋은",
     "부작용",
-    "효능"
+    "효능",
+    "에 좋은"
    ],
    "items": [
     {
@@ -130,7 +130,7 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 22,
+   "count": 21,
    "angles": [
     "에 좋은",
     "부작용"
@@ -211,7 +211,7 @@
   {
    "name": "수면",
    "kind": "운동·생활",
-   "count": 16,
+   "count": 15,
    "angles": [
     "효능"
    ],
@@ -285,49 +285,6 @@
      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611111439115740617",
      "t": "2026-11-11T14:42:00+09:00",
      "by": "dnews.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "치매",
-   "kind": "질환·증상",
-   "count": 14,
-   "angles": [
-    "부작용",
-    "에 좋은",
-    "먹는 법",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "사우나 자주 하면 치매 위험 최대 66% 낮아진다? 핀란드 연구 결과 살펴...",
-     "link": "https://www.khan.co.kr/article/202611121755001",
-     "t": "2026-11-12T17:55:00+09:00",
-     "by": "khan.co.kr"
-    },
-    {
-     "title": "평생 겪은 정신적 외상, 노년기 치매·인지기능 저하 위험과 연관",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624834",
-     "t": "2026-11-12T16:02:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "근육량 적으면 알츠하이머 위험 최대 58% ↑… 혈관성 치매도 증가",
-     "link": "https://www.kukinews.com/article/view/kuk202611120072",
-     "t": "2026-11-12T11:00:00+09:00",
-     "by": "kukinews.com"
-    },
-    {
-     "title": "\"근육 지키는 게 기억 지키는 길\"…치매 예방 , 운동이 답 [헬스체크]",
-     "link": "https://www.fnnews.com/news/202611120945335844",
-     "t": "2026-11-12T10:13:00+09:00",
-     "by": "fnnews.com"
-    },
-    {
-     "title": "아스피린의 치매 예방 효과, 유전자 검사로 알 수 있다",
-     "link": "http://www.whosaeng.com/175262",
-     "t": "2026-11-12T10:06:00+09:00",
-     "by": "whosaeng.com"
     }
    ]
   },
@@ -411,6 +368,49 @@
      "link": "https://www.thebilliards.kr/news/articleView.html?idxno=32422",
      "t": "2026-11-11T14:58:00+09:00",
      "by": "thebilliards.kr"
+    }
+   ]
+  },
+  {
+   "name": "치매",
+   "kind": "질환·증상",
+   "count": 13,
+   "angles": [
+    "부작용",
+    "에 좋은",
+    "먹는 법",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "사우나 자주 하면 치매 위험 최대 66% 낮아진다? 핀란드 연구 결과 살펴...",
+     "link": "https://www.khan.co.kr/article/202611121755001",
+     "t": "2026-11-12T17:55:00+09:00",
+     "by": "khan.co.kr"
+    },
+    {
+     "title": "평생 겪은 정신적 외상, 노년기 치매·인지기능 저하 위험과 연관",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624834",
+     "t": "2026-11-12T16:02:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "근육량 적으면 알츠하이머 위험 최대 58% ↑… 혈관성 치매도 증가",
+     "link": "https://www.kukinews.com/article/view/kuk202611120072",
+     "t": "2026-11-12T11:00:00+09:00",
+     "by": "kukinews.com"
+    },
+    {
+     "title": "\"근육 지키는 게 기억 지키는 길\"…치매 예방 , 운동이 답 [헬스체크]",
+     "link": "https://www.fnnews.com/news/202611120945335844",
+     "t": "2026-11-12T10:13:00+09:00",
+     "by": "fnnews.com"
+    },
+    {
+     "title": "아스피린의 치매 예방 효과, 유전자 검사로 알 수 있다",
+     "link": "http://www.whosaeng.com/175262",
+     "t": "2026-11-12T10:06:00+09:00",
+     "by": "whosaeng.com"
     }
    ]
   },
@@ -818,48 +818,6 @@
    ]
   },
   {
-   "name": "유방암",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "부작용",
-    "에 좋은",
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "암 이겼는데 몸은 9.4년 더 늙었다…유방암 치료가 남긴 충격 결과 [매일...",
-     "link": "https://www.imaeil.com/page/view/2026111109405263801",
-     "t": "2026-11-11T14:30:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "겨울철, 유방암 항암치료 환자 독감 주의…예방접종 등 관리가 중요",
-     "link": "https://www.livesnews.com/news/article.html?no=65866",
-     "t": "2026-11-11T12:04:00+09:00",
-     "by": "livesnews.com"
-    },
-    {
-     "title": "저용량 타목시펜·엔독시펜, 유방암 예방약 부작용 가능성 줄여",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624159",
-     "t": "2026-11-10T15:30:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "“달콤함의 함정”…아이스크림·시리얼 자주 먹으면 유방암 위험 쑥",
-     "link": "https://www.mk.co.kr/article/12203812",
-     "t": "2026-11-10T13:55:00+09:00",
-     "by": "mk.co.kr"
-    },
-    {
-     "title": "온병원, 유방암 수술 표준화…환자 안전·회복 강화",
-     "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=89161",
-     "t": "2026-11-09T21:58:00+09:00",
-     "by": "industrynews.co.kr"
-    }
-   ]
-  },
-  {
    "name": "칼슘",
    "kind": "영양제",
    "count": 5,
@@ -975,6 +933,42 @@
      "link": "https://www.dailian.co.kr/news/view/1713118/?sc=Naver",
      "t": "2026-11-10T14:43:00+09:00",
      "by": "dailian.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "유방암",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "부작용",
+    "에 좋은",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "암 이겼는데 몸은 9.4년 더 늙었다…유방암 치료가 남긴 충격 결과 [매일...",
+     "link": "https://www.imaeil.com/page/view/2026111109405263801",
+     "t": "2026-11-11T14:30:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "겨울철, 유방암 항암치료 환자 독감 주의…예방접종 등 관리가 중요",
+     "link": "https://www.livesnews.com/news/article.html?no=65866",
+     "t": "2026-11-11T12:04:00+09:00",
+     "by": "livesnews.com"
+    },
+    {
+     "title": "저용량 타목시펜·엔독시펜, 유방암 예방약 부작용 가능성 줄여",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624159",
+     "t": "2026-11-10T15:30:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "“달콤함의 함정”…아이스크림·시리얼 자주 먹으면 유방암 위험 쑥",
+     "link": "https://www.mk.co.kr/article/12203812",
+     "t": "2026-11-10T13:55:00+09:00",
+     "by": "mk.co.kr"
     }
    ]
   },

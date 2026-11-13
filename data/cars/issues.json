@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-14T01:10:50.413277+09:00",
+ "updated": "2026-11-14T02:08:31.927500+09:00",
  "car": [
   {
    "name": "자율주행",
-   "count": 62,
+   "count": 61,
    "items": [
+    {
+     "title": "변수 생긴 ‘깐부 동맹’… 현대 차 자율주행도 영향 우려",
+     "link": "https://www.joongang.co.kr/article/25478550",
+     "t": "2026-11-14T01:33:00+09:00",
+     "by": "joongang.co.kr"
+    },
     {
      "title": "교통안전공단, 독일 자동차검사 기관·기업과 ' 자율주행 검사 기술' 4자...",
      "link": "https://www.cstimes.com/news/articleView.html?idxno=727908",
@@ -28,12 +34,6 @@
      "link": "https://www.segye.com/newsView/20261113507119?OutUrl=naver",
      "t": "2026-11-13T19:05:00+09:00",
      "by": "segye.com"
-    },
-    {
-     "title": "엔비디아와 손잡은 K-자율주행…젠슨 황 리스크에 車 업계 주시",
-     "link": "https://www.kukinews.com/article/view/kuk202611130168",
-     "t": "2026-11-13T18:20:00+09:00",
-     "by": "kukinews.com"
     }
    ]
   },
@@ -75,8 +75,20 @@
   },
   {
    "name": "젠슨",
-   "count": 44,
+   "count": 46,
    "items": [
+    {
+     "title": "[뉴스이슈&비즈] 젠슨 황 없는 엔비디아…한국과 AI 동맹 이상 없나",
+     "link": "http://www.issuenbiz.com/news/articleView.html?idxno=81594",
+     "t": "2026-11-14T01:30:00+09:00",
+     "by": "issuenbiz.com"
+    },
+    {
+     "title": "젠슨 황, 떠나기 전 임원과 갈등?…\"주주들은 오히려 좋을수도\"[박신영...",
+     "link": "https://www.hankyung.com/article/202611146106i",
+     "t": "2026-11-14T01:29:00+09:00",
+     "by": "hankyung.com"
+    },
     {
      "title": "[사설] 젠슨 황 퇴진, AI 산업 불확실성 대비해야",
      "link": "https://www.kmib.co.kr/article/20261113500526",
@@ -84,28 +96,16 @@
      "by": "kmib.co.kr"
     },
     {
+     "title": "젠슨 황 퇴진 후폭풍‥'깐부 동맹' 파장 촉각",
+     "link": "https://imnews.imbc.com/replay/2026/nw2500/article/6865567_36989.html",
+     "t": "2026-11-14T00:24:00+09:00",
+     "by": "imnews.imbc.com"
+    },
+    {
      "title": "“한 순간에 무너진 AI 시대 아이콘” 젠슨 황 엔비디아 CEO 사임 이후 A...",
      "link": "https://it.donga.com/109927/",
      "t": "2026-11-13T20:50:00+09:00",
      "by": "it.donga.com"
-    },
-    {
-     "title": "젠슨 황 없는 엔비디아…한국 'AI 동맹' 어디로?",
-     "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845361&plink=ORI&cooper=NAVER",
-     "t": "2026-11-13T20:01:00+09:00",
-     "by": "sbs.co.kr"
-    },
-    {
-     "title": "젠슨 황 사임에도 GPU 26만장 공급 예정대로…정부 \"협력 차질 없다\"",
-     "link": "https://www.news1.kr/it-science/cc-newmedia/6353777",
-     "t": "2026-11-13T18:46:00+09:00",
-     "by": "news1.kr"
-    },
-    {
-     "title": "엔비디아와 손잡은 K-자율주행…젠슨 황 리스크에 車 업계 주시",
-     "link": "https://www.kukinews.com/article/view/kuk202611130168",
-     "t": "2026-11-13T18:20:00+09:00",
-     "by": "kukinews.com"
     }
    ]
   },
@@ -183,7 +183,7 @@
   },
   {
    "name": "로봇",
-   "count": 15,
+   "count": 14,
    "items": [
     {
      "title": "젠슨 황, 불명예 퇴장…리더십 변경에 韓 반도체·로봇 협력 원점 재검...",

@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-13T20:10:45.149503+09:00",
+ "updated": "2026-11-13T21:08:30.860588+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 61,
+   "count": 60,
    "angles": [
     "부작용",
     "에 좋은",
@@ -46,7 +46,7 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 30,
+   "count": 29,
    "angles": [
     "부작용",
     "효능",
@@ -88,12 +88,18 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 26,
+   "count": 27,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "독감 환자 느는데... 어린이*고령층 접종률은 저조",
+     "link": "https://news.knn.co.kr/news/article/194460",
+     "t": "2026-11-13T20:22:00+09:00",
+     "by": "knn.co.kr"
+    },
     {
      "title": "다양한 의학 정보 제공·무료 독감 백신 접종",
      "link": "https://www.koreatimes.com/article/11631335?utm_source=naver",
@@ -117,22 +123,16 @@
      "link": "https://www.donga.com/news/Health/article/all/20261113/135019554/1",
      "t": "2026-11-13T11:31:00+09:00",
      "by": "donga.com"
-    },
-    {
-     "title": "겨울철 불청객 ' 독감 ·폐렴' 구별 이렇게",
-     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34015",
-     "t": "2026-11-13T11:04:00+09:00",
-     "by": "jhealthmedia.joins.com"
     }
    ]
   },
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 21,
+   "count": 20,
    "angles": [
-    "부작용",
     "먹는 법",
+    "부작용",
     "에 좋은",
     "효능"
    ],
@@ -213,7 +213,7 @@
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 17,
+   "count": 15,
    "angles": [
     "에 좋은",
     "효능",
@@ -493,46 +493,6 @@
    ]
   },
   {
-   "name": "혈압",
-   "kind": "질환·증상",
-   "count": 9,
-   "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "저가 이뇨제 스피로노락톤, 뇌졸중 환자 혈압 조절 효과 확인",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624956",
-     "t": "2026-11-13T17:04:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "[고 혈압 의 정체 20·끝] 고 혈압 과 함께 오래 사는 법: 평생 관리 전략",
-     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214470",
-     "t": "2026-11-13T15:42:00+09:00",
-     "by": "100ssd.co.kr"
-    },
-    {
-     "title": "대전 대덕구, 세계 당뇨병의 날 맞아 혈압· 혈당 측정 캠페인",
-     "link": "https://www.newstnt.com/news/articleView.html?idxno=728313",
-     "t": "2026-11-13T13:36:00+09:00",
-     "by": "newstnt.com"
-    },
-    {
-     "title": "안국약품, 고 혈압 3제 복합제 '레보살탄플러스' 임상 근거 공유",
-     "link": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70409",
-     "t": "2026-11-13T09:36:00+09:00",
-     "by": "medicopharma.co.kr"
-    },
-    {
-     "title": "삶은 달걀 vs 스크램블, 혈압 엔 뭐가 나을까?",
-     "link": "http://www.joseilbo.com/news/news_read.php?uid=579537&class=27&grp=",
-     "t": "2026-11-12T16:02:00+09:00",
-     "by": "joseilbo.com"
-    }
-   ]
-  },
-  {
    "name": "고혈압",
    "kind": "질환·증상",
    "count": 8,
@@ -611,6 +571,46 @@
      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=721807",
      "t": "2026-11-13T10:46:00+09:00",
      "by": "newstown.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "혈압",
+   "kind": "질환·증상",
+   "count": 8,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "저가 이뇨제 스피로노락톤, 뇌졸중 환자 혈압 조절 효과 확인",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624956",
+     "t": "2026-11-13T17:04:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "[고 혈압 의 정체 20·끝] 고 혈압 과 함께 오래 사는 법: 평생 관리 전략",
+     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214470",
+     "t": "2026-11-13T15:42:00+09:00",
+     "by": "100ssd.co.kr"
+    },
+    {
+     "title": "대전 대덕구, 세계 당뇨병의 날 맞아 혈압· 혈당 측정 캠페인",
+     "link": "https://www.newstnt.com/news/articleView.html?idxno=728313",
+     "t": "2026-11-13T13:36:00+09:00",
+     "by": "newstnt.com"
+    },
+    {
+     "title": "안국약품, 고 혈압 3제 복합제 '레보살탄플러스' 임상 근거 공유",
+     "link": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70409",
+     "t": "2026-11-13T09:36:00+09:00",
+     "by": "medicopharma.co.kr"
+    },
+    {
+     "title": "삶은 달걀 vs 스크램블, 혈압 엔 뭐가 나을까?",
+     "link": "http://www.joseilbo.com/news/news_read.php?uid=579537&class=27&grp=",
+     "t": "2026-11-12T16:02:00+09:00",
+     "by": "joseilbo.com"
     }
    ]
   },
@@ -941,34 +941,6 @@
    ]
   },
   {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "독감 ·코로나19 동시 유행 주의…\" 증상 비슷해 검사로 구분해야\"",
-     "link": "http://www.bokuennews.com/news/article.html?no=287169",
-     "t": "2026-11-13T14:30:00+09:00",
-     "by": "bokuennews.com"
-    },
-    {
-     "title": "코로나19 백신 접종 후 암 발생 증가 없었다",
-     "link": "http://www.newsmp.com/news/articleView.html?idxno=259275",
-     "t": "2026-11-13T06:02:00+09:00",
-     "by": "newsmp.com"
-    },
-    {
-     "title": "독감 ·코로나 '트윈데믹', 발열 48시간이 골든타임",
-     "link": "https://www.hankyung.com/article/2026111195221",
-     "t": "2026-11-11T16:06:00+09:00",
-     "by": "hankyung.com"
-    }
-   ]
-  },
-  {
    "name": "개선",
    "kind": "기타",
    "count": 2,
@@ -1069,6 +1041,30 @@
      "link": "https://www.edaily.co.kr/News/Read?newsId=04368966645644736&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
      "t": "2026-11-11T13:40:00+09:00",
      "by": "edaily.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "땅콩",
+   "kind": "식품·제철",
+   "count": 2,
+   "angles": [
+    "에 좋은",
+    "먹는 법",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "언어 장벽, 영유아 땅콩 알레르기 예방 위한 조기 섭취 방해",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624994",
+     "t": "2026-11-13T16:56:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "“당뇨병 위험 11% 줄었다”… 6개월간 땅콩 먹으니 벌어진 일",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111301269.html",
+     "t": "2026-11-13T13:01:00+09:00",
+     "by": "health.chosun.com"
     }
    ]
   }

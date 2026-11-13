@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T22:10:47.040782+09:00",
+ "updated": "2026-11-13T23:10:41.089308+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -46,13 +46,19 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 30,
+   "count": 31,
    "angles": [
     "부작용",
     "효능",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "고령자 사망원인 2위 '폐렴', 겨울철 감기와 혼동 주의",
+     "link": "https://www.getnews.co.kr/news/articleView.html?idxno=887166",
+     "t": "2026-11-13T22:16:00+09:00",
+     "by": "getnews.co.kr"
+    },
     {
      "title": "\"수능 앞두고 감기 약 한 컵\"...대구 고교생 병원 치료",
      "link": "https://www.tbc.co.kr/news/view?pno=20261113145159AE08511&id=213331",
@@ -76,12 +82,6 @@
      "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59953",
      "t": "2026-11-13T16:18:00+09:00",
      "by": "koreahealthlog.com"
-    },
-    {
-     "title": "감기 인 줄 알았던 마른기침, 밤·새벽에 심해지면 천식을 의심해봐야",
-     "link": "https://www.edaily.co.kr/News/Read?newsId=03516166645645392&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-     "t": "2026-11-13T13:28:00+09:00",
-     "by": "edaily.co.kr"
     }
    ]
   },
@@ -211,6 +211,47 @@
    ]
   },
   {
+   "name": "폐렴",
+   "kind": "질환·증상",
+   "count": 16,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "고령자 사망원인 2위 '폐렴', 겨울철 감기와 혼동 주의",
+     "link": "https://www.getnews.co.kr/news/articleView.html?idxno=887166",
+     "t": "2026-11-13T22:16:00+09:00",
+     "by": "getnews.co.kr"
+    },
+    {
+     "title": "폐렴은 '심한 감기' 절대 아니다…암 이어 고령자 사망 원인 2위 치명적",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59953",
+     "t": "2026-11-13T16:18:00+09:00",
+     "by": "koreahealthlog.com"
+    },
+    {
+     "title": "폐렴, '심한 감기' 절대 아니다…암 이어 고령자 사망 원인 2위",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59953",
+     "t": "2026-11-13T16:18:00+09:00",
+     "by": "koreahealthlog.com"
+    },
+    {
+     "title": "겨울철 불청객 ' 독감 ·폐렴' 구별 이렇게",
+     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34015",
+     "t": "2026-11-13T11:04:00+09:00",
+     "by": "jhealthmedia.joins.com"
+    },
+    {
+     "title": "암 이어 고령자 사망원인 2위 ‘폐렴’…겨울철 감기와 혼동 주의",
+     "link": "http://www.whosaeng.com/175302",
+     "t": "2026-11-13T09:28:00+09:00",
+     "by": "whosaeng.com"
+    }
+   ]
+  },
+  {
    "name": "우유",
    "kind": "식품·제철",
    "count": 15,
@@ -248,89 +289,6 @@
      "link": "https://www.hankyung.com/article/202611122881O",
      "t": "2026-11-13T10:01:00+09:00",
      "by": "hankyung.com"
-    }
-   ]
-  },
-  {
-   "name": "폐렴",
-   "kind": "질환·증상",
-   "count": 15,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "폐렴은 '심한 감기' 절대 아니다…암 이어 고령자 사망 원인 2위 치명적",
-     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59953",
-     "t": "2026-11-13T16:18:00+09:00",
-     "by": "koreahealthlog.com"
-    },
-    {
-     "title": "폐렴, '심한 감기' 절대 아니다…암 이어 고령자 사망 원인 2위",
-     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59953",
-     "t": "2026-11-13T16:18:00+09:00",
-     "by": "koreahealthlog.com"
-    },
-    {
-     "title": "겨울철 불청객 ' 독감 ·폐렴' 구별 이렇게",
-     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34015",
-     "t": "2026-11-13T11:04:00+09:00",
-     "by": "jhealthmedia.joins.com"
-    },
-    {
-     "title": "암 이어 고령자 사망원인 2위 ‘폐렴’…겨울철 감기와 혼동 주의",
-     "link": "http://www.whosaeng.com/175302",
-     "t": "2026-11-13T09:28:00+09:00",
-     "by": "whosaeng.com"
-    },
-    {
-     "title": "암 이어 고령자 사망원인 2위 '폐렴'...65세 이상은 예방접종 챙겨야",
-     "link": "https://www.rapportian.com/news/articleView.html?idxno=242408",
-     "t": "2026-11-13T09:20:00+09:00",
-     "by": "rapportian.com"
-    }
-   ]
-  },
-  {
-   "name": "치매",
-   "kind": "질환·증상",
-   "count": 14,
-   "angles": [
-    "부작용",
-    "에 좋은",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "\"아프면 멀리 가지 마세요\"…정읍, 예방 부터 응급·치매·출산까지 '동네...",
-     "link": "http://www.domin.co.kr/news/articleView.html?idxno=1575399",
-     "t": "2026-11-13T15:48:00+09:00",
-     "by": "domin.co.kr"
-    },
-    {
-     "title": "“55세 넘으면 이 검사 꼭 해라”…치매 명의, 독하게 끊은 음식",
-     "link": "https://www.joongang.co.kr/article/25478389",
-     "t": "2026-11-13T14:38:00+09:00",
-     "by": "joongang.co.kr"
-    },
-    {
-     "title": "“55세 되면 이 검사 꼭 해라”…치매 권위자, 독하게 끊은 음식",
-     "link": "https://www.joongang.co.kr/article/25478389",
-     "t": "2026-11-13T14:38:00+09:00",
-     "by": "joongang.co.kr"
-    },
-    {
-     "title": "치매 위험, 뇌 건강만의 문제가 아니었다… 근육량과 어떤 관계?",
-     "link": "https://www.ggilbo.com/news/articleView.html?idxno=1193009",
-     "t": "2026-11-13T13:56:00+09:00",
-     "by": "ggilbo.com"
-    },
-    {
-     "title": "근육 적은 남성, 치매 위험 최대 34% 높아…\" 예방 위해선 운동해야\"",
-     "link": "https://www.hankookilbo.com/news/article/A2026111309490000326?did=NA",
-     "t": "2026-11-13T11:31:00+09:00",
-     "by": "hankookilbo.com"
     }
    ]
   },
@@ -377,9 +335,51 @@
    ]
   },
   {
+   "name": "치매",
+   "kind": "질환·증상",
+   "count": 13,
+   "angles": [
+    "부작용",
+    "에 좋은",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "\"아프면 멀리 가지 마세요\"…정읍, 예방 부터 응급·치매·출산까지 '동네...",
+     "link": "http://www.domin.co.kr/news/articleView.html?idxno=1575399",
+     "t": "2026-11-13T15:48:00+09:00",
+     "by": "domin.co.kr"
+    },
+    {
+     "title": "“55세 넘으면 이 검사 꼭 해라”…치매 명의, 독하게 끊은 음식",
+     "link": "https://www.joongang.co.kr/article/25478389",
+     "t": "2026-11-13T14:38:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "“55세 되면 이 검사 꼭 해라”…치매 권위자, 독하게 끊은 음식",
+     "link": "https://www.joongang.co.kr/article/25478389",
+     "t": "2026-11-13T14:38:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "치매 위험, 뇌 건강만의 문제가 아니었다… 근육량과 어떤 관계?",
+     "link": "https://www.ggilbo.com/news/articleView.html?idxno=1193009",
+     "t": "2026-11-13T13:56:00+09:00",
+     "by": "ggilbo.com"
+    },
+    {
+     "title": "근육 적은 남성, 치매 위험 최대 34% 높아…\" 예방 위해선 운동해야\"",
+     "link": "https://www.hankookilbo.com/news/article/A2026111309490000326?did=NA",
+     "t": "2026-11-13T11:31:00+09:00",
+     "by": "hankookilbo.com"
+    }
+   ]
+  },
+  {
    "name": "수면",
    "kind": "운동·생활",
-   "count": 12,
+   "count": 11,
    "angles": [
     "에 좋은"
    ],
@@ -403,16 +403,16 @@
      "by": "mdtoday.co.kr"
     },
     {
-     "title": "불규칙한 수면 습관, 우울·불안·외로움 증상 악화와 연관",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624897",
-     "t": "2026-11-13T07:56:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
      "title": "대원제약, 편의점서 수면 케어 제품 선봬...'짱구' 입힌 라임꿀샷 출시",
      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=139591",
      "t": "2026-11-12T13:32:00+09:00",
      "by": "e-science.co.kr"
+    },
+    {
+     "title": "대원제약, 수면 케어 제품 '라임꿀샷' GS25 입점",
+     "link": "http://www.press9.kr/news/articleView.html?idxno=86130",
+     "t": "2026-11-12T13:20:00+09:00",
+     "by": "press9.kr"
     }
    ]
   },
@@ -857,6 +857,41 @@
    ]
   },
   {
+   "name": "유방암",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "피 한방울로 유방암 95% 적중…재발 위험까지 미리 맞혔다 [매일비타민...",
+     "link": "https://www.imaeil.com/page/view/2026111322035351586",
+     "t": "2026-11-13T22:51:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "혈액검사로 초기 유방암 95% 정확도 판별…재발 위험도 예측",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625063",
+     "t": "2026-11-13T12:30:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "암 이겼는데 몸은 9.4년 더 늙었다…유방암 치료가 남긴 충격 결과 [매일...",
+     "link": "https://www.imaeil.com/page/view/2026111109405263801",
+     "t": "2026-11-11T14:30:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "겨울철, 유방암 항암치료 환자 독감 주의…예방접종 등 관리가 중요",
+     "link": "https://www.livesnews.com/news/article.html?no=65866",
+     "t": "2026-11-11T12:04:00+09:00",
+     "by": "livesnews.com"
+    }
+   ]
+  },
+  {
    "name": "칼슘",
    "kind": "영양제",
    "count": 4,
@@ -944,35 +979,6 @@
      "link": "http://www.brainmedia.co.kr/BrainScience/25704",
      "t": "2026-11-11T21:06:00+09:00",
      "by": "brainmedia.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "유방암",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "혈액검사로 초기 유방암 95% 정확도 판별…재발 위험도 예측",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625063",
-     "t": "2026-11-13T12:30:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "암 이겼는데 몸은 9.4년 더 늙었다…유방암 치료가 남긴 충격 결과 [매일...",
-     "link": "https://www.imaeil.com/page/view/2026111109405263801",
-     "t": "2026-11-11T14:30:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "겨울철, 유방암 항암치료 환자 독감 주의…예방접종 등 관리가 중요",
-     "link": "https://www.livesnews.com/news/article.html?no=65866",
-     "t": "2026-11-11T12:04:00+09:00",
-     "by": "livesnews.com"
     }
    ]
   },

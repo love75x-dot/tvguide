@@ -1,10 +1,100 @@
 {
- "updated": "2026-11-13T17:10:43.296111+09:00",
+ "updated": "2026-11-13T18:10:49.615866+09:00",
  "all": [
   {
-   "name": "구글",
-   "count": 47,
+   "name": "개인정보 유출",
+   "count": 24,
    "items": [
+    {
+     "title": "‘모두의 창업’ 또 개인정보 유출 …이번엔 AI 솔루션 이용자 818명 피해",
+     "link": "https://www.donga.com/news/Economy/article/all/20261113/135022303/1",
+     "t": "2026-11-13T18:08:00+09:00",
+     "by": "donga.com"
+    },
+    {
+     "title": "중기부 '모두의 창업' 또 털렸다…참가자 818명 개인정보 유출",
+     "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230762",
+     "t": "2026-11-13T18:06:00+09:00",
+     "by": "mbn.mk.co.kr"
+    },
+    {
+     "title": "중기부, ‘모두의 창업’ 2차 프로젝트 참가자 818명 개인정보 유출",
+     "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/13/2026111300305.html",
+     "t": "2026-11-13T18:06:00+09:00",
+     "by": "biz.newdaily.co.kr"
+    },
+    {
+     "title": "‘모두의 창업’ 또 개인정보 유출 ...5개월 만에 해킹 사고 재발",
+     "link": "https://www.m-economynews.com/news/article.html?no=73018",
+     "t": "2026-11-13T18:04:00+09:00",
+     "by": "m-economynews.com"
+    },
+    {
+     "title": "중기부 '모두의 창업' 또 개인정보 유출 …2차 참가자 818명 피해",
+     "link": "https://news.tf.co.kr/read/economy/2388757.htm",
+     "t": "2026-11-13T18:04:00+09:00",
+     "by": "tf.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "엔비디아",
+   "count": 34,
+   "items": [
+    {
+     "title": "젠슨 황 떠난 엔비디아…韓 기업과 ‘AI 밀월’ 계속될까",
+     "link": "https://www.kukinews.com/article/view/kuk202611130158",
+     "t": "2026-11-13T18:04:00+09:00",
+     "by": "kukinews.com"
+    },
+    {
+     "title": "[사설] 젠슨 황 없는 엔비디아…한국 영향은",
+     "link": "https://www.g-enews.com/view.php?ud=20261113095254751c3b051da3b_1",
+     "t": "2026-11-13T18:02:00+09:00",
+     "by": "g-enews.com"
+    },
+    {
+     "title": "[봇규의 헬로BOT] “로드맵 중단 없다”는 엔비디아의 확약, 젠슨 황 퇴...",
+     "link": "https://www.hellot.net/news/article.html?no=116298",
+     "t": "2026-11-13T17:56:00+09:00",
+     "by": "hellot.net"
+    },
+    {
+     "title": "[구기향의 문화이야기] 게임에서 태어난 엔비디아, 창업자 퇴진 이후의...",
+     "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=62292",
+     "t": "2026-11-13T17:54:00+09:00",
+     "by": "gamevu.co.kr"
+    },
+    {
+     "title": "젠슨 황, 엔비디아 CEO 사임…\"난 쓰레기 같은 인간\" 자책",
+     "link": "https://news.jtbc.co.kr/article/NB12327971?influxDiv=NAVER",
+     "t": "2026-11-13T17:53:00+09:00",
+     "by": "jtbc.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "구글",
+   "count": 39,
+   "items": [
+    {
+     "title": "구글 지도 한국시장 공략 본격… 네이버 · 카카오 와 '지도 전쟁'",
+     "link": "http://www.4th.kr/news/articleView.html?idxno=2121842",
+     "t": "2026-11-13T18:06:00+09:00",
+     "by": "4th.kr"
+    },
+    {
+     "title": "[AI 라이프스타일] 비추면 귓속말 통역… 오픈AI·구글 '보는 AI'가 바꾼...",
+     "link": "http://coinreaders.com/270019",
+     "t": "2026-11-13T17:42:00+09:00",
+     "by": "coinreaders.com"
+    },
+    {
+     "title": "[비즈&] 삼성전자, 구글·젠틀몬스터와 AI 안경 공개 外",
+     "link": "http://www.yonhapnewstv.co.kr/news/MYH2026111317272821k",
+     "t": "2026-11-13T17:28:00+09:00",
+     "by": "yonhapnewstv.co.kr"
+    },
     {
      "title": "정부 \"구글 지도 한국 좌표표시 제한 완료…보안처리 영상은 순차 교체...",
      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=89506",
@@ -16,204 +106,114 @@
      "link": "https://www.it-b.co.kr/news/articleView.html?idxno=90688",
      "t": "2026-11-13T17:08:00+09:00",
      "by": "it-b.co.kr"
-    },
-    {
-     "title": "구글 정밀지도 반출 초읽기… 네이버 · 카카오 ‘지도전쟁’ 격화",
-     "link": "https://www.mk.co.kr/article/12208179",
-     "t": "2026-11-13T17:04:00+09:00",
-     "by": "mk.co.kr"
-    },
-    {
-     "title": "구글, 한국 정밀지도 반출 보안조건 이행…국내 지도 시장 경쟁 본격화",
-     "link": "https://news.appstory.co.kr/daily19707",
-     "t": "2026-11-13T17:04:00+09:00",
-     "by": "appstory.co.kr"
-    },
-    {
-     "title": "구글 지도 韓 빗장 풀렸다... 네이버 · 카카오 '지도 주도권' 지킬까",
-     "link": "https://www.techm.kr/news/articleView.html?idxno=157335",
-     "t": "2026-11-13T16:58:00+09:00",
-     "by": "techm.kr"
     }
    ]
   },
   {
    "name": "삼성전자",
-   "count": 39,
+   "count": 32,
    "items": [
     {
-     "title": "삼성전자, 구글 제미나이 탑재 AI 안경 공개…젠틀몬스터·워비파커와 ...",
-     "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1106793",
-     "t": "2026-11-13T16:56:00+09:00",
-     "by": "discoverynews.kr"
+     "title": "화섬식품노조, 삼성전자에 원·하청 교섭 요청",
+     "link": "http://worknworld.kctu.org/news/articleView.html?idxno=510316",
+     "t": "2026-11-13T18:12:00+09:00",
+     "by": "worknworld.kctu.org"
     },
     {
-     "title": "삼성전자 노조 7개로 늘어나나…이달만 두 번째 설립 추진",
-     "link": "https://www.dailian.co.kr/news/view/1714819/?sc=Naver",
-     "t": "2026-11-13T16:56:00+09:00",
-     "by": "dailian.co.kr"
+     "title": "삼성전자 제7노조 설립 추진…임단협 앞두고 내부 갈등 우려",
+     "link": "https://www.ngetnews.com/news/articleView.html?idxno=555905",
+     "t": "2026-11-13T18:10:00+09:00",
+     "by": "ngetnews.com"
     },
     {
-     "title": "[이슈] 삼성전자,'AI 안경'으로 갤럭시 생태계 강화",
-     "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=818986",
-     "t": "2026-11-13T16:44:00+09:00",
-     "by": "startuptoday.co.kr"
+     "title": "ASML 한국법인 노조까지 삼성전자에 직접 교섭 요구",
+     "link": "https://www.sedaily.com/article/20114203?ref=naver",
+     "t": "2026-11-13T17:56:00+09:00",
+     "by": "sedaily.com"
     },
     {
-     "title": "삼성전자, 9일 만에 또 신규 노조…제7노조 설립 추진",
-     "link": "https://www.sisajournal.com/news/articleView.html?idxno=394004",
-     "t": "2026-11-13T16:44:00+09:00",
-     "by": "sisajournal.com"
+     "title": "삼성전자, 메디슨 앞세워 글로벌 의료기기 공략 속도 ↑",
+     "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715401",
+     "t": "2026-11-13T17:54:00+09:00",
+     "by": "digitaltoday.co.kr"
     },
     {
-     "title": "삼성전자도 참전한 'AI안경' 경쟁… '부정행위' 우려는 과제",
-     "link": "https://www.sisaweek.com/news/articleView.html?idxno=238972",
-     "t": "2026-11-13T16:28:00+09:00",
-     "by": "sisaweek.com"
+     "title": "삼성전자 또 신규 노조 설립 추진…제7노조 신청서 제출",
+     "link": "http://www.yonhapnewstv.co.kr/news/AKR20261113175042luO",
+     "t": "2026-11-13T17:51:00+09:00",
+     "by": "yonhapnewstv.co.kr"
     }
    ]
   },
   {
    "name": "젠슨",
-   "count": 44,
+   "count": 37,
    "items": [
     {
-     "title": "[Editorial-우리 생각엔…] 한국경제에 불확실성 안겨준 젠슨 황 사태",
-     "link": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91814",
-     "t": "2026-11-13T17:10:00+09:00",
-     "by": "niceeconomy.co.kr"
+     "title": "젠슨 황 떠난 엔비디아…韓 기업과 ‘AI 밀월’ 계속될까",
+     "link": "https://www.kukinews.com/article/view/kuk202611130158",
+     "t": "2026-11-13T18:04:00+09:00",
+     "by": "kukinews.com"
     },
     {
-     "title": "결국 불명예 퇴진한 젠슨 황… 엔비디아 '차기 수장' 누가 될까",
-     "link": "https://www.hankookilbo.com/news/article/A2026111309520005103?did=NA",
-     "t": "2026-11-13T17:09:00+09:00",
-     "by": "hankookilbo.com"
+     "title": "[사설] 젠슨 황 없는 엔비디아…한국 영향은",
+     "link": "https://www.g-enews.com/view.php?ud=20261113095254751c3b051da3b_1",
+     "t": "2026-11-13T18:02:00+09:00",
+     "by": "g-enews.com"
     },
     {
-     "title": "美 AI 패권 흔든 젠슨 황 스캔들...의회·법무부 전방위 조사 나섰다",
-     "link": "https://www.hankookilbo.com/news/article/A2026111309520004001?did=NA",
-     "t": "2026-11-13T17:07:00+09:00",
-     "by": "hankookilbo.com"
+     "title": "[사설] '젠슨 황 그 후'의 반도체 격변…한국은 준비돼 있나",
+     "link": "https://www.sidae.com/article/2026111314184653966",
+     "t": "2026-11-13T18:00:00+09:00",
+     "by": "sidae.com"
     },
     {
-     "title": "‘젠슨 황 없는 엔비디아’ 추격하는 AMD·브로드컴… 차세대 AI 수주전...",
-     "link": "https://biz.chosun.com/it-science/ict/2026/11/13/RAPQJD42UVF6HCZ4C7DTLUSH6U/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "t": "2026-11-13T17:04:00+09:00",
-     "by": "biz.chosun.com"
+     "title": "[봇규의 헬로BOT] “로드맵 중단 없다”는 엔비디아의 확약, 젠슨 황 퇴...",
+     "link": "https://www.hellot.net/news/article.html?no=116298",
+     "t": "2026-11-13T17:56:00+09:00",
+     "by": "hellot.net"
     },
     {
-     "title": "젠슨 황이 물러나자 800조가 한때 사라졌다",
-     "link": "https://newscham.net/130172/",
-     "t": "2026-11-13T17:04:00+09:00",
-     "by": "newscham.net"
-    }
-   ]
-  },
-  {
-   "name": "정진완 우리은행장",
-   "count": 20,
-   "items": [
-    {
-     "title": "정진완 우리은행장 1년 연임…자본건전성 개선 성과, 수익 성장으로 잇...",
-     "link": "http://www.dailypop.kr/news/articleView.html?idxno=104580",
-     "t": "2026-11-13T17:10:00+09:00",
-     "by": "dailypop.kr"
-    },
-    {
-     "title": "정진완 우리은행장 임기 1년 연장 확정",
-     "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=5230",
-     "t": "2026-11-13T17:06:00+09:00",
-     "by": "newsmap.co.kr"
-    },
-    {
-     "title": "정진완 우리은행장 연임 성공…임종룡 2기 ‘원팀’ 체제 유지",
-     "link": "https://www.ddaily.co.kr/page/view/2026111315105912862",
-     "t": "2026-11-13T16:16:00+09:00",
-     "by": "ddaily.co.kr"
-    },
-    {
-     "title": "정진완 우리은행장 임기 1년 연장…2027년 말까지",
-     "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254905",
-     "t": "2026-11-13T16:04:00+09:00",
-     "by": "nextdaily.co.kr"
-    },
-    {
-     "title": "정진완 우리은행장, 임기 1년 연장…'2+1' 원칙 적용",
-     "link": "http://www.efnews.co.kr/news/articleView.html?idxno=133948",
-     "t": "2026-11-13T15:58:00+09:00",
-     "by": "efnews.co.kr"
+     "title": "젠슨 황, 엔비디아 CEO 사임…\"난 쓰레기 같은 인간\" 자책",
+     "link": "https://news.jtbc.co.kr/article/NB12327971?influxDiv=NAVER",
+     "t": "2026-11-13T17:53:00+09:00",
+     "by": "jtbc.co.kr"
     }
    ]
   },
   {
    "name": "게임",
-   "count": 33,
+   "count": 32,
    "items": [
     {
-     "title": "한국콘텐츠진흥원, 치열해진 시장 속 K- 게임 의 대응 전략 모색 '글로벌...",
-     "link": "https://www.lecturernews.com/news/articleView.html?idxno=213735",
-     "t": "2026-11-13T17:06:00+09:00",
-     "by": "lecturernews.com"
+     "title": "엠 게임 , 3분기 매출 208억원…'귀혼키우기'로 반등 노린다",
+     "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=320487",
+     "t": "2026-11-13T18:04:00+09:00",
+     "by": "wolyo.co.kr"
     },
     {
-     "title": "엠 게임 , 3분기 영업익 27억…전년比 34.7%↓",
-     "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7193855",
-     "t": "2026-11-13T16:58:00+09:00",
-     "by": "weekly.hankooki.com"
+     "title": "3분기 이익 증가한 엠 게임 , 연말 글로벌· 신작 승부수",
+     "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=62295",
+     "t": "2026-11-13T18:02:00+09:00",
+     "by": "gamevu.co.kr"
     },
     {
-     "title": "[ 게임 Pick] 라인 게임 즈, '위플레이 엑스포 2026' 현장 프로그램 공개 등",
-     "link": "https://daily.hankooki.com/news/articleView.html?idxno=1425072",
-     "t": "2026-11-13T16:56:00+09:00",
-     "by": "daily.hankooki.com"
+     "title": "엠 게임 , 3분기 영업익 27억원·전년比 34.7%↓…매출도 3.4% 감소",
+     "link": "https://www.ziksir.com/news/articleView.html?idxno=153322",
+     "t": "2026-11-13T18:00:00+09:00",
+     "by": "ziksir.com"
     },
     {
-     "title": "엠 게임 , 3분기 영업익 27억원 … 전년比 34.7% 감소",
-     "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/13/2026111300272.html",
-     "t": "2026-11-13T16:50:00+09:00",
-     "by": "biz.newdaily.co.kr"
+     "title": "[구기향의 문화이야기] 게임에서 태어난 엔비디아, 창업자 퇴진 이후의...",
+     "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=62292",
+     "t": "2026-11-13T17:54:00+09:00",
+     "by": "gamevu.co.kr"
     },
     {
-     "title": "엠 게임 , 3분기 영업익 27억원…전분기 대비 10% 증가",
-     "link": "https://www.thelec.kr/news/articleView.html?idxno=65425",
-     "t": "2026-11-13T16:50:00+09:00",
-     "by": "thelec.kr"
-    }
-   ]
-  },
-  {
-   "name": "개인정보 유출",
-   "count": 14,
-   "items": [
-    {
-     "title": "KB캐피탈, 고객·협력사 등 1811명 개인정보 유출 확인",
-     "link": "https://www.newsian.co.kr/news/articleView.html?idxno=101230",
-     "t": "2026-11-13T17:06:00+09:00",
-     "by": "newsian.co.kr"
-    },
-    {
-     "title": "KB캐피탈, 해킹 으로 1811명 개인정보 유출 …피해 발생 시 전액 배상",
-     "link": "https://sateconomy.co.kr/news/view/1065596502835959",
-     "t": "2026-11-13T16:56:00+09:00",
-     "by": "sateconomy.co.kr"
-    },
-    {
-     "title": "카카오, 인적분할 앞두고 해킹…카카오워크 개인정보 유출 '도마'",
-     "link": "http://www.newstomato.com/ReadNews.aspx?no=1320408&inflow=N",
-     "t": "2026-11-13T16:52:00+09:00",
-     "by": "newstomato.com"
-    },
-    {
-     "title": "카카오워크 해킹 으로 개인정보 유출 … 메일·첨부파일도 포함",
-     "link": "https://biz.chosun.com/it-science/ict/2026/11/13/CJPLETVDKFABZIWAVUYFPTAVOI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "t": "2026-11-13T16:46:00+09:00",
-     "by": "biz.chosun.com"
-    },
-    {
-     "title": "광주관광공사, 개인정보 유출 가능성 통지...더존비즈온 해킹 여파",
-     "link": "https://www.dailysecu.com/news/articleView.html?idxno=209512",
-     "t": "2026-11-13T16:14:00+09:00",
-     "by": "dailysecu.com"
+     "title": "엠 게임 , 3분기 영업익 27억원… 신작 으로 만회 나선다",
+     "link": "https://www.sportsworldi.com/newsView/20261113513280",
+     "t": "2026-11-13T17:44:00+09:00",
+     "by": "sportsworldi.com"
     }
    ]
   }

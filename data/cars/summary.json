@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-13T17:10:43.296111+09:00",
+ "updated": "2026-11-13T18:10:49.615866+09:00",
  "hot": [
   {
    "name": "GV90",
-   "count": 16,
-   "prev": 11,
+   "count": 14,
+   "prev": 13,
    "rise": 308,
    "moto": false,
    "why": [
@@ -33,14 +33,6 @@
    ]
   },
   {
-   "name": "사이버트럭",
-   "count": 4,
-   "prev": 84,
-   "rise": -34,
-   "moto": false,
-   "why": []
-  },
-  {
    "name": "넥쏘",
    "count": 4,
    "prev": 0,
@@ -60,6 +52,22 @@
    "why": [
     "중고차 시세"
    ]
+  },
+  {
+   "name": "사이버트럭",
+   "count": 3,
+   "prev": 85,
+   "rise": -34,
+   "moto": false,
+   "why": []
+  },
+  {
+   "name": "EV3",
+   "count": 2,
+   "prev": 0,
+   "rise": 0,
+   "moto": false,
+   "why": []
   },
   {
    "name": "5시리즈",
@@ -87,14 +95,6 @@
    "count": 2,
    "prev": 0,
    "rise": 2,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "EV2",
-   "count": 2,
-   "prev": 0,
-   "rise": 19,
    "moto": false,
    "why": []
   }

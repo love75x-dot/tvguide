@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:10:50.138543+09:00",
+ "updated": "2026-11-14T19:06:03.110720+09:00",
  "all": [
   {
    "name": "이륙 중단",
@@ -38,14 +38,62 @@
    ]
   },
   {
-   "name": "전역 항공기",
-   "count": 27,
+   "name": "장애",
+   "count": 50,
    "items": [
+    {
+     "title": "전세계 업무 마비시킨 MS 서비스 장애 36시간만에 복구",
+     "link": "https://www.yna.co.kr/view/AKR20261114045100009?input=1195m",
+     "t": "2026-11-14T19:01:00+09:00",
+     "by": "yna.co.kr"
+    },
+    {
+     "title": "정부, 마이크로소프트 서비스 장애 에 비상대응반 구성하고 점검",
+     "link": "https://imnews.imbc.com/news/2026/econo/article/6865664_36932.html",
+     "t": "2026-11-14T18:24:00+09:00",
+     "by": "imnews.imbc.com"
+    },
+    {
+     "title": "과기정통부, MS365 장애 대응 비상대응반 구성",
+     "link": "https://zdnet.co.kr/view/?no=20261114181913",
+     "t": "2026-11-14T18:20:00+09:00",
+     "by": "zdnet.co.kr"
+    },
+    {
+     "title": "'MS 365 장애 ' 34시간 만에 복구…정부 비상대응반 구성 피해 점검",
+     "link": "https://www.sidae.com/article/2026111417332243212",
+     "t": "2026-11-14T18:15:00+09:00",
+     "by": "sidae.com"
+    },
+    {
+     "title": "마이크로소프트, 아웃룩 장애 사과…네트워크 용량 증설 과정서 문제 발...",
+     "link": "https://www.nspna.com/news/?mode=view&newsid=836227",
+     "t": "2026-11-14T17:44:00+09:00",
+     "by": "nspna.com"
+    }
+   ]
+  },
+  {
+   "name": "항공기",
+   "count": 49,
+   "items": [
+    {
+     "title": "美 항공기 올 스톱…9·11 때보다 길었다",
+     "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559974",
+     "t": "2026-11-14T18:45:00+09:00",
+     "by": "ichannela.com"
+    },
     {
      "title": "美 전역 항공기 멈췄다…7000편 지연·취소",
      "link": "https://www.the-today.com/news/articleView.html?idxno=93568",
      "t": "2026-11-14T18:06:00+09:00",
      "by": "the-today.com"
+    },
+    {
+     "title": "인천공항도 불똥...항공기 42편 운항 차질",
+     "link": "https://www.ytn.co.kr/_ln/0103_202611141757129250",
+     "t": "2026-11-14T17:57:00+09:00",
+     "by": "ytn.co.kr"
     },
     {
      "title": "미국 전역 항공기 이륙 중단 해제…4시간여 만에 운항 재개",
@@ -58,97 +106,19 @@
      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712912&ref=A",
      "t": "2026-11-14T17:00:00+09:00",
      "by": "kbs.co.kr"
-    },
-    {
-     "title": "美 전역 항공기 이륙 중단 해제…4시간여 만에 정상화 수순",
-     "link": "https://www.kgnews.co.kr/news/article.html?no=919501",
-     "t": "2026-11-14T15:20:00+09:00",
-     "by": "kgnews.co.kr"
-    },
-    {
-     "title": "미국 전역에서 항공기 7천7백 편 결항...주말까지 혼란 불가피",
-     "link": "https://www.ytn.co.kr/_ln/0104_202611141447257149",
-     "t": "2026-11-14T14:47:00+09:00",
-     "by": "ytn.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "장애",
-   "count": 48,
-   "items": [
-    {
-     "title": "마이크로소프트, 아웃룩 장애 사과…네트워크 용량 증설 과정서 문제 발...",
-     "link": "https://www.nspna.com/news/?mode=view&newsid=836227",
-     "t": "2026-11-14T17:44:00+09:00",
-     "by": "nspna.com"
-    },
-    {
-     "title": "MS365 글로벌 장애 에 정부 대응 착수…국내 피해 상황 점검",
-     "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1731680",
-     "t": "2026-11-14T17:18:00+09:00",
-     "by": "ebn.co.kr"
-    },
-    {
-     "title": "MS365 글로벌 장애 에 정부 비상대응반 가동…국내 기업도 이메일 차질",
-     "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000082661",
-     "t": "2026-11-14T17:17:00+09:00",
-     "by": "jnilbo.com"
-    },
-    {
-     "title": "MS365 장애 에 국내 기업들 발동동…정부, 비상대응반 가동",
-     "link": "https://www.kgnews.co.kr/news/article.html?no=919504",
-     "t": "2026-11-14T17:10:00+09:00",
-     "by": "kgnews.co.kr"
-    },
-    {
-     "title": "정부, MS365 장애 에 비상대응반 가동…국내 피해 점검",
-     "link": "https://www.newsway.co.kr/news/view?ud=2026111417050411362",
-     "t": "2026-11-14T17:06:00+09:00",
-     "by": "newsway.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "결항",
-   "count": 44,
-   "items": [
-    {
-     "title": "미 이륙 중단 해제…대한항공·아시아나 결항 철회",
-     "link": "http://www.newstomato.com/ReadNews.aspx?no=1320426&inflow=N",
-     "t": "2026-11-14T17:48:00+09:00",
-     "by": "newstomato.com"
-    },
-    {
-     "title": "미국행 항공편 잇따라 결항·지연…여행객들 십년감수",
-     "link": "http://www.yonhapnewstv.co.kr/news/MYH20261114171947WBS",
-     "t": "2026-11-14T17:20:00+09:00",
-     "by": "yonhapnewstv.co.kr"
-    },
-    {
-     "title": "대한항공·아시아나 미국행 결항 취소…이륙중단 4시간여 만에 풀려",
-     "link": "https://www.tjb.co.kr/news05/bodo/view/id/106076",
-     "t": "2026-11-14T16:18:00+09:00",
-     "by": "tjb.co.kr"
-    },
-    {
-     "title": "FAA 이륙 중단 해제…인천발 미국행 결항 철회·지연",
-     "link": "https://www.vegannews.co.kr/news/article.html?no=404942",
-     "t": "2026-11-14T15:30:00+09:00",
-     "by": "vegannews.co.kr"
-    },
-    {
-     "title": "8100편 결항에 150만 승객 ‘발 동동’…4시간여 만에 풀린 美 항공 대란",
-     "link": "http://www.joseilbo.com/news/news_read.php?uid=579641&class=42&grp=",
-     "t": "2026-11-14T15:19:00+09:00",
-     "by": "joseilbo.com"
     }
    ]
   },
   {
    "name": "만에",
-   "count": 34,
+   "count": 35,
    "items": [
+    {
+     "title": "'MS 365 장애 ' 34시간 만에 복구…정부 비상대응반 구성 피해 점검",
+     "link": "https://www.sidae.com/article/2026111417332243212",
+     "t": "2026-11-14T18:15:00+09:00",
+     "by": "sidae.com"
+    },
     {
      "title": "미국 전역 항공기 이륙 중단 해제…4시간여 만에 운항 재개",
      "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367593",
@@ -172,12 +142,6 @@
      "link": "https://www.kgnews.co.kr/news/article.html?no=919501",
      "t": "2026-11-14T15:20:00+09:00",
      "by": "kgnews.co.kr"
-    },
-    {
-     "title": "8100편 결항에 150만 승객 ‘발 동동’…4시간여 만에 풀린 美 항공 대란",
-     "link": "http://www.joseilbo.com/news/news_read.php?uid=579641&class=42&grp=",
-     "t": "2026-11-14T15:19:00+09:00",
-     "by": "joseilbo.com"
     }
    ]
   },
@@ -214,6 +178,42 @@
      "link": "https://www.fnnews.com/news/202611141206564422",
      "t": "2026-11-14T12:11:00+09:00",
      "by": "fnnews.com"
+    }
+   ]
+  },
+  {
+   "name": "개인정보",
+   "count": 23,
+   "items": [
+    {
+     "title": "'모두의 창업' 이어 '사장님 퇴직금' 노란우산도 개인정보 뚫렸다",
+     "link": "https://economist.co.kr/article/view/ecn202611140009",
+     "t": "2026-11-14T17:50:00+09:00",
+     "by": "economist.co.kr"
+    },
+    {
+     "title": "가입자 192만명 노란우산서도 개인정보 유출 의심",
+     "link": "https://www.ajunews.com/view/20261114165721246",
+     "t": "2026-11-14T17:06:00+09:00",
+     "by": "ajunews.com"
+    },
+    {
+     "title": "[속보] 중소기업중앙회 \" 해킹 으로 노란우산 개인정보 유출 가능성\"",
+     "link": "https://www.nocutnews.co.kr/news/6606919?utm_source=naver&utm_medium=article&utm_campaign=20261114161634",
+     "t": "2026-11-14T16:17:00+09:00",
+     "by": "nocutnews.co.kr"
+    },
+    {
+     "title": "모두의 창업서 또 개인정보 유출 … 참가자들 \"경위·보상 밝혀야\"",
+     "link": "https://www.newscj.com/news/articleView.html?idxno=3448691",
+     "t": "2026-11-14T15:14:00+09:00",
+     "by": "newscj.com"
+    },
+    {
+     "title": "'모두의 창업' 개인정보 또 유출 …참가자들 피해 보상 요구",
+     "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1731667",
+     "t": "2026-11-14T14:02:00+09:00",
+     "by": "ebn.co.kr"
     }
    ]
   }

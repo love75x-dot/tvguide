@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:10:50.138543+09:00",
+ "updated": "2026-11-14T19:06:03.110720+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -87,7 +87,7 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 23,
+   "count": 22,
    "angles": [
     "부작용",
     "에 좋은"
@@ -697,47 +697,6 @@
    ]
   },
   {
-   "name": "콜레스테롤",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "\"콜레스테롤 낮으면 괜찮다?\"…'이 수치' 높으면 동맥경화 위험 ↑",
-     "link": "https://www.hankookilbo.com/news/article/A2026111310100001728?did=NA",
-     "t": "2026-11-13T11:30:00+09:00",
-     "by": "hankookilbo.com"
-    },
-    {
-     "title": "“고기 먹을 때 ‘이 부분’ 꼭 잘라내라”…나쁜 콜레스테롤 확 높이는...",
-     "link": "https://www.sedaily.com/article/20113683?ref=naver",
-     "t": "2026-11-12T17:59:00+09:00",
-     "by": "sedaily.com"
-    },
-    {
-     "title": "“콜레스테롤 걱정 덜고 먹어라”… 소·돼지보다 지방 적은 ‘말고기’...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/12/2026111202879.html",
-     "t": "2026-11-12T17:31:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "콜레스테롤 정상인데 동맥경화 위험 1.7배… “ 건강 한 비만도 마찬가지...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/11/2026111102950.html",
-     "t": "2026-11-12T10:16:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "LDL 콜레스테롤 '감소 폭' 살펴야 뇌졸중 재발 막는다",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=102154",
-     "t": "2026-11-11T18:14:00+09:00",
-     "by": "k-health.com"
-    }
-   ]
-  },
-  {
    "name": "염증",
    "kind": "질환·증상",
    "count": 4,
@@ -768,6 +727,41 @@
      "link": "http://www.brainmedia.co.kr/BrainScience/25704",
      "t": "2026-11-11T21:06:00+09:00",
      "by": "brainmedia.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "콜레스테롤",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "\"콜레스테롤 낮으면 괜찮다?\"…'이 수치' 높으면 동맥경화 위험 ↑",
+     "link": "https://www.hankookilbo.com/news/article/A2026111310100001728?did=NA",
+     "t": "2026-11-13T11:30:00+09:00",
+     "by": "hankookilbo.com"
+    },
+    {
+     "title": "“고기 먹을 때 ‘이 부분’ 꼭 잘라내라”…나쁜 콜레스테롤 확 높이는...",
+     "link": "https://www.sedaily.com/article/20113683?ref=naver",
+     "t": "2026-11-12T17:59:00+09:00",
+     "by": "sedaily.com"
+    },
+    {
+     "title": "“콜레스테롤 걱정 덜고 먹어라”… 소·돼지보다 지방 적은 ‘말고기’...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/12/2026111202879.html",
+     "t": "2026-11-12T17:31:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "콜레스테롤 정상인데 동맥경화 위험 1.7배… “ 건강 한 비만도 마찬가지...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/11/2026111102950.html",
+     "t": "2026-11-12T10:16:00+09:00",
+     "by": "health.chosun.com"
     }
    ]
   },

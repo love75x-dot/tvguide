@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T13:10:47.668510+09:00",
+ "updated": "2026-11-14T14:08:26.956908+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -46,7 +46,7 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 31,
+   "count": 30,
    "angles": [
     "부작용",
     "효능",
@@ -213,7 +213,7 @@
   {
    "name": "당뇨",
    "kind": "질환·증상",
-   "count": 16,
+   "count": 15,
    "angles": [
     "에 좋은",
     "부작용"
@@ -254,7 +254,7 @@
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 14,
+   "count": 13,
    "angles": [
     "효능",
     "에 좋은",
@@ -290,47 +290,6 @@
      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580164325257",
      "t": "2026-11-13T12:28:00+09:00",
      "by": "megaeconomy.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "우유",
-   "kind": "식품·제철",
-   "count": 14,
-   "angles": [
-    "먹는 법",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "고강도 운동 후 우유, 물·그릭요거트와 다른 뼈 대사 지표 변화 보여",
-     "link": "https://www.dt.co.kr/article/12094993?ref=naver",
-     "t": "2026-11-13T11:01:00+09:00",
-     "by": "dt.co.kr"
-    },
-    {
-     "title": "운동 후 우유 섭취 가 뼈 대사에 미치는 영향…캐나다 연구 진 발표",
-     "link": "https://www.sportschosun.com/life/2026-11-13/202611130100090770008584",
-     "t": "2026-11-13T10:31:00+09:00",
-     "by": "sportschosun.com"
-    },
-    {
-     "title": "“고강도 운동 후 우유 마셨더니”…우유자조금관리위원회, 뼈 대사 지...",
-     "link": "http://www.segyebiz.com/newsView/20261113505638?OutUrl=naver",
-     "t": "2026-11-13T10:20:00+09:00",
-     "by": "segyebiz.com"
-    },
-    {
-     "title": "운동 후 단백질만큼 중요한 뼈 건강, 우유 섭취 에 초점 맞추는 이유는",
-     "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=56333",
-     "t": "2026-11-13T10:10:00+09:00",
-     "by": "enetnews.co.kr"
-    },
-    {
-     "title": "운동 후 우유 한 잔, 뼈 대사 반응에도 영향…해외 연구 결과",
-     "link": "https://www.hankyung.com/article/202611122881O",
-     "t": "2026-11-13T10:01:00+09:00",
-     "by": "hankyung.com"
     }
    ]
   },
@@ -375,9 +334,50 @@
    ]
   },
   {
+   "name": "우유",
+   "kind": "식품·제철",
+   "count": 12,
+   "angles": [
+    "먹는 법",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "고강도 운동 후 우유, 물·그릭요거트와 다른 뼈 대사 지표 변화 보여",
+     "link": "https://www.dt.co.kr/article/12094993?ref=naver",
+     "t": "2026-11-13T11:01:00+09:00",
+     "by": "dt.co.kr"
+    },
+    {
+     "title": "운동 후 우유 섭취 가 뼈 대사에 미치는 영향…캐나다 연구 진 발표",
+     "link": "https://www.sportschosun.com/life/2026-11-13/202611130100090770008584",
+     "t": "2026-11-13T10:31:00+09:00",
+     "by": "sportschosun.com"
+    },
+    {
+     "title": "“고강도 운동 후 우유 마셨더니”…우유자조금관리위원회, 뼈 대사 지...",
+     "link": "http://www.segyebiz.com/newsView/20261113505638?OutUrl=naver",
+     "t": "2026-11-13T10:20:00+09:00",
+     "by": "segyebiz.com"
+    },
+    {
+     "title": "운동 후 단백질만큼 중요한 뼈 건강, 우유 섭취 에 초점 맞추는 이유는",
+     "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=56333",
+     "t": "2026-11-13T10:10:00+09:00",
+     "by": "enetnews.co.kr"
+    },
+    {
+     "title": "운동 후 우유 한 잔, 뼈 대사 반응에도 영향…해외 연구 결과",
+     "link": "https://www.hankyung.com/article/202611122881O",
+     "t": "2026-11-13T10:01:00+09:00",
+     "by": "hankyung.com"
+    }
+   ]
+  },
+  {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 12,
+   "count": 11,
    "angles": [
     "부작용",
     "에 좋은",
@@ -781,46 +781,6 @@
    ]
   },
   {
-   "name": "폐암",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "폐암 치료 전 유전자 폭넓게 검사한 환자⋯생존기간 2개월 더 길어",
-     "link": "https://kormedi.com/?p=2904916",
-     "t": "2026-11-13T13:23:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "면역항암제 효과, 수술 전에 알 수 있다?…폐암 환자서 가능성 확인",
-     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80896",
-     "t": "2026-11-12T17:00:00+09:00",
-     "by": "mkhealth.co.kr"
-    },
-    {
-     "title": "영상검사·면역세포로 폐암 선행 면역항암제 효과 예측법 발견",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=421559",
-     "t": "2026-11-11T16:16:00+09:00",
-     "by": "medipana.com"
-    },
-    {
-     "title": "폐암 수술 전 '선행면역항암치료' 효과 예측 단서 찾았다",
-     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59904",
-     "t": "2026-11-11T13:34:00+09:00",
-     "by": "koreahealthlog.com"
-    },
-    {
-     "title": "환자마다 다른 폐암 면역항암치료 효과··· 예측 가능한 지표 찾았다",
-     "link": "https://www.khan.co.kr/article/202611111330001",
-     "t": "2026-11-11T13:30:00+09:00",
-     "by": "khan.co.kr"
-    }
-   ]
-  },
-  {
    "name": "염증",
    "kind": "질환·증상",
    "count": 4,
@@ -988,34 +948,6 @@
    ]
   },
   {
-   "name": "관절염",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "비아그라·위고비처럼 '이약'도 뜻밖의 효과 …퇴행성 관절염 연골 지킨...",
-     "link": "https://www.imaeil.com/page/view/2026111308481979139",
-     "t": "2026-11-13T22:10:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "대전대, 산학공동연구로 천연 복합 소재 관절염 완화 규명",
-     "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=417614",
-     "t": "2026-11-11T15:48:00+09:00",
-     "by": "ccnnews.co.kr"
-    },
-    {
-     "title": "찬바람에 무릎 더 아프다면…중기 관절염, PRP 치료 검토",
-     "link": "https://www.edaily.co.kr/News/Read?newsId=04368966645644736&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-     "t": "2026-11-11T13:40:00+09:00",
-     "by": "edaily.co.kr"
-    }
-   ]
-  },
-  {
    "name": "유방암",
    "kind": "질환·증상",
    "count": 3,
@@ -1040,6 +972,34 @@
      "link": "https://www.imaeil.com/page/view/2026111109405263801",
      "t": "2026-11-11T14:30:00+09:00",
      "by": "imaeil.com"
+    }
+   ]
+  },
+  {
+   "name": "폐암",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "폐암 치료 전 유전자 폭넓게 검사한 환자⋯생존기간 2개월 더 길어",
+     "link": "https://kormedi.com/?p=2904916",
+     "t": "2026-11-13T13:23:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "면역항암제 효과, 수술 전에 알 수 있다?…폐암 환자서 가능성 확인",
+     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80896",
+     "t": "2026-11-12T17:00:00+09:00",
+     "by": "mkhealth.co.kr"
+    },
+    {
+     "title": "영상검사·면역세포로 폐암 선행 면역항암제 효과 예측법 발견",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=421559",
+     "t": "2026-11-11T16:16:00+09:00",
+     "by": "medipana.com"
     }
    ]
   },
@@ -1086,6 +1046,28 @@
      "link": "https://idsn.co.kr/news/view/1065594624640424",
      "t": "2026-11-11T17:44:00+09:00",
      "by": "idsn.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "관절염",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "비아그라·위고비처럼 '이약'도 뜻밖의 효과 …퇴행성 관절염 연골 지킨...",
+     "link": "https://www.imaeil.com/page/view/2026111308481979139",
+     "t": "2026-11-13T22:10:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "대전대, 산학공동연구로 천연 복합 소재 관절염 완화 규명",
+     "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=417614",
+     "t": "2026-11-11T15:48:00+09:00",
+     "by": "ccnnews.co.kr"
     }
    ]
   },

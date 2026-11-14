@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:17:12.010996+09:00",
+ "updated": "2026-11-14T12:10:55.789139+09:00",
  "car": [
   {
    "name": "자율주행",
@@ -75,7 +75,7 @@
   },
   {
    "name": "젠슨",
-   "count": 45,
+   "count": 44,
    "items": [
     {
      "title": "[박준영의 靑春노트] 美의회 권력 바뀌고 젠슨 황 떠났다…李의 다음 수...",
@@ -182,20 +182,26 @@
    ]
   },
   {
-   "name": "로봇",
+   "name": "반도체",
    "count": 13,
    "items": [
     {
-     "title": "하나증권 “자동차업계, 환율 부담 속 로봇·자율주행 성장성 주목”",
-     "link": "https://kidd.co.kr/news/248145",
-     "t": "2026-11-14T10:56:00+09:00",
-     "by": "kidd.co.kr"
+     "title": "[이슈] 반도체 호황 속 엔비디아 수장 교체…국내 산업계 파장은",
+     "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367573",
+     "t": "2026-11-14T12:06:00+09:00",
+     "by": "sisafocus.co.kr"
     },
     {
-     "title": "배틀그라운드 만들던 크래프톤, 이젠 로봇 두뇌 만든다",
-     "link": "https://economist.co.kr/article/view/ecn202611090046",
-     "t": "2026-11-14T07:00:00+09:00",
-     "by": "economist.co.kr"
+     "title": "미중러 APEC 회동, 한국에 닥칠 변화는…반도체·북한 핵·우크라이나 종...",
+     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16276324",
+     "t": "2026-11-14T10:28:00+09:00",
+     "by": "topstarnews.net"
+    },
+    {
+     "title": "'애플 80% 의존' LG이노텍, AI 반도체 기판으로 단일 고객 리스크 돌파",
+     "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=369670",
+     "t": "2026-11-13T18:42:00+09:00",
+     "by": "ftoday.co.kr"
     },
     {
      "title": "젠슨 황, 불명예 퇴장…리더십 변경에 韓 반도체·로봇 협력 원점 재검...",
@@ -204,21 +210,51 @@
      "by": "econovill.com"
     },
     {
-     "title": "[2026 하반기 혁신특허 기술대상] 서보스타, 로봇 활용한 ‘산업시설물...",
-     "link": "https://www.joongang.co.kr/article/25478437",
-     "t": "2026-11-13T17:25:00+09:00",
-     "by": "joongang.co.kr"
-    },
-    {
-     "title": "[르포] 반도체·가전·로봇이 한 무대에…KOTRA 'K-커넥트 AI' 가보니",
-     "link": "https://www.newspim.com/news/view/20261014001195",
-     "t": "2026-11-13T15:50:00+09:00",
-     "by": "newspim.com"
+     "title": "[데일리픽] 젠슨 황 엔비디아 사임… 국내 반도체 공급망 어디로",
+     "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715351",
+     "t": "2026-11-13T17:00:00+09:00",
+     "by": "digitaltoday.co.kr"
     }
    ]
   }
  ],
  "moto": [
+  {
+   "name": "오토바",
+   "count": 14,
+   "items": [
+    {
+     "title": "[포토에세이] 형형색색 오토바이 헬멧의 ‘패션쇼’",
+     "link": "https://www.segye.com/newsView/20261112514570?OutUrl=naver",
+     "t": "2026-11-14T11:27:00+09:00",
+     "by": "segye.com"
+    },
+    {
+     "title": "OC서 전기 오토바이 사고로 13살 아들 사망…부모까지 형사 기소",
+     "link": "https://www.radiokorea.com/news/article.php?uid=509618",
+     "t": "2026-11-14T08:26:00+09:00",
+     "by": "radiokorea.com"
+    },
+    {
+     "title": "[IT사파]대역 배우가 오토바이 까지…'붉은사막' 세계 1위 만든 전진기지",
+     "link": "https://www.mt.co.kr/tech/2026/11/14/2026111309002732787",
+     "t": "2026-11-14T07:00:00+09:00",
+     "by": "mt.co.kr"
+    },
+    {
+     "title": "차량이 신호등 충돌... 오토바이 사고로 70대 숨져",
+     "link": "https://www.ytn.co.kr/_ln/0103_202611140622247946",
+     "t": "2026-11-14T06:22:00+09:00",
+     "by": "ytn.co.kr"
+    },
+    {
+     "title": "인천 문학사거리서 승용차가 신호 대기 오토바이 추돌…70대 운전자 사...",
+     "link": "https://news.ifm.kr/news/articleView.html?idxno=484408",
+     "t": "2026-11-14T00:16:00+09:00",
+     "by": "ifm.kr"
+    }
+   ]
+  },
   {
    "name": "이륜차",
    "count": 13,
@@ -252,42 +288,6 @@
      "link": "https://www.news1.kr/local/gyeonggi/6353516",
      "t": "2026-11-13T15:41:00+09:00",
      "by": "news1.kr"
-    }
-   ]
-  },
-  {
-   "name": "오토바",
-   "count": 13,
-   "items": [
-    {
-     "title": "OC서 전기 오토바이 사고로 13살 아들 사망…부모까지 형사 기소",
-     "link": "https://www.radiokorea.com/news/article.php?uid=509618",
-     "t": "2026-11-14T08:26:00+09:00",
-     "by": "radiokorea.com"
-    },
-    {
-     "title": "[IT사파]대역 배우가 오토바이 까지…'붉은사막' 세계 1위 만든 전진기지",
-     "link": "https://www.mt.co.kr/tech/2026/11/14/2026111309002732787",
-     "t": "2026-11-14T07:00:00+09:00",
-     "by": "mt.co.kr"
-    },
-    {
-     "title": "차량이 신호등 충돌... 오토바이 사고로 70대 숨져",
-     "link": "https://www.ytn.co.kr/_ln/0103_202611140622247946",
-     "t": "2026-11-14T06:22:00+09:00",
-     "by": "ytn.co.kr"
-    },
-    {
-     "title": "인천 문학사거리서 승용차가 신호 대기 오토바이 추돌…70대 운전자 사...",
-     "link": "https://news.ifm.kr/news/articleView.html?idxno=484408",
-     "t": "2026-11-14T00:16:00+09:00",
-     "by": "ifm.kr"
-    },
-    {
-     "title": "인천서 승용차- 오토바이 -승용차 사고…1명 사망",
-     "link": "https://www.newsis.com/view/NISX20261113_0003867901",
-     "t": "2026-11-13T23:29:00+09:00",
-     "by": "newsis.com"
     }
    ]
   },

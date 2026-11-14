@@ -1,20 +1,10 @@
 {
- "updated": "2026-11-14T14:08:26.956908+09:00",
+ "updated": "2026-11-14T15:10:43.852804+09:00",
  "hot": [
   {
-   "name": "GV60",
-   "count": 14,
-   "prev": 0,
-   "rise": 3,
-   "moto": false,
-   "why": [
-    "판매 1위"
-   ]
-  },
-  {
    "name": "GV90",
-   "count": 13,
-   "prev": 17,
+   "count": 12,
+   "prev": 18,
    "rise": 58,
    "moto": false,
    "why": [
@@ -23,9 +13,19 @@
    ]
   },
   {
+   "name": "GV60",
+   "count": 12,
+   "prev": 2,
+   "rise": 3,
+   "moto": false,
+   "why": [
+    "판매 1위"
+   ]
+  },
+  {
    "name": "아반떼",
-   "count": 7,
-   "prev": 5,
+   "count": 6,
+   "prev": 6,
    "rise": 3,
    "moto": false,
    "why": [
@@ -40,16 +40,6 @@
    "moto": false,
    "why": [
     "판매 1위",
-    "중고차 시세"
-   ]
-  },
-  {
-   "name": "투싼",
-   "count": 3,
-   "prev": 4,
-   "rise": 2,
-   "moto": false,
-   "why": [
     "중고차 시세"
    ]
   },
@@ -96,6 +86,16 @@
    "why": [
     "중고차 시세",
     "판매 1위"
+   ]
+  },
+  {
+   "name": "투싼",
+   "count": 2,
+   "prev": 5,
+   "rise": 2,
+   "moto": false,
+   "why": [
+    "중고차 시세"
    ]
   }
  ],

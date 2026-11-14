@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14T16:10:47.490122+09:00",
+ "updated": "2026-11-14T17:08:35.676627+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 57,
+   "count": 56,
    "angles": [
     "에 좋은",
     "부작용",
@@ -47,10 +47,9 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 29,
+   "count": 28,
    "angles": [
-    "부작용",
-    "효능"
+    "부작용"
    ],
    "items": [
     {
@@ -88,7 +87,7 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 26,
+   "count": 24,
    "angles": [
     "부작용",
     "에 좋은"
@@ -172,7 +171,7 @@
   {
    "name": "폐렴",
    "kind": "질환·증상",
-   "count": 17,
+   "count": 16,
    "angles": [
     "부작용",
     "에 좋은"
@@ -294,6 +293,48 @@
    ]
   },
   {
+   "name": "치매",
+   "kind": "질환·증상",
+   "count": 13,
+   "angles": [
+    "부작용",
+    "에 좋은",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "“부모님 치아 몇 개 남았나요”… 남은 치아 적으면 치매 위험 높아",
+     "link": "https://kormedi.com/?p=2904857",
+     "t": "2026-11-14T17:07:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "AI로 분석한 '심장 나이', 심혈관질환·치매 관련 장기 사망 위험 예측 ...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625227",
+     "t": "2026-11-14T14:18:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "\"아프면 멀리 가지 마세요\"…정읍, 예방 부터 응급·치매·출산까지 '동네...",
+     "link": "http://www.domin.co.kr/news/articleView.html?idxno=1575399",
+     "t": "2026-11-13T15:48:00+09:00",
+     "by": "domin.co.kr"
+    },
+    {
+     "title": "“55세 넘으면 이 검사 꼭 해라”…치매 명의, 독하게 끊은 음식",
+     "link": "https://www.joongang.co.kr/article/25478389",
+     "t": "2026-11-13T14:38:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "“55세 되면 이 검사 꼭 해라”…치매 권위자, 독하게 끊은 음식",
+     "link": "https://www.joongang.co.kr/article/25478389",
+     "t": "2026-11-13T14:38:00+09:00",
+     "by": "joongang.co.kr"
+    }
+   ]
+  },
+  {
    "name": "수면",
    "kind": "운동·생활",
    "count": 12,
@@ -330,48 +371,6 @@
      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=139591",
      "t": "2026-11-12T13:32:00+09:00",
      "by": "e-science.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "치매",
-   "kind": "질환·증상",
-   "count": 12,
-   "angles": [
-    "부작용",
-    "에 좋은",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "AI로 분석한 '심장 나이', 심혈관질환·치매 관련 장기 사망 위험 예측 ...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625227",
-     "t": "2026-11-14T14:18:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "\"아프면 멀리 가지 마세요\"…정읍, 예방 부터 응급·치매·출산까지 '동네...",
-     "link": "http://www.domin.co.kr/news/articleView.html?idxno=1575399",
-     "t": "2026-11-13T15:48:00+09:00",
-     "by": "domin.co.kr"
-    },
-    {
-     "title": "“55세 넘으면 이 검사 꼭 해라”…치매 명의, 독하게 끊은 음식",
-     "link": "https://www.joongang.co.kr/article/25478389",
-     "t": "2026-11-13T14:38:00+09:00",
-     "by": "joongang.co.kr"
-    },
-    {
-     "title": "“55세 되면 이 검사 꼭 해라”…치매 권위자, 독하게 끊은 음식",
-     "link": "https://www.joongang.co.kr/article/25478389",
-     "t": "2026-11-13T14:38:00+09:00",
-     "by": "joongang.co.kr"
-    },
-    {
-     "title": "치매 위험, 뇌 건강만의 문제가 아니었다… 근육량과 어떤 관계?",
-     "link": "https://www.ggilbo.com/news/articleView.html?idxno=1193009",
-     "t": "2026-11-13T13:56:00+09:00",
-     "by": "ggilbo.com"
     }
    ]
   },
@@ -458,11 +457,17 @@
    "kind": "질환·증상",
    "count": 9,
    "angles": [
+    "에 좋은",
     "효능",
-    "부작용",
-    "에 좋은"
+    "부작용"
    ],
    "items": [
+    {
+     "title": "“ 혈압 낮추는 간식”… 달달한 것 당길 때 ‘건포도’ 먹어봐요",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111302253.html",
+     "t": "2026-11-14T17:01:00+09:00",
+     "by": "health.chosun.com"
+    },
     {
      "title": "뇌졸중 환자, 수축기 혈압 120 미만으로 낮추면 심혈관질환 위험 21% 감소",
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625218",
@@ -486,52 +491,6 @@
      "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214470",
      "t": "2026-11-13T15:42:00+09:00",
      "by": "100ssd.co.kr"
-    },
-    {
-     "title": "대전 대덕구, 세계 당뇨병의 날 맞아 혈압· 혈당 측정 캠페인",
-     "link": "https://www.newstnt.com/news/articleView.html?idxno=728313",
-     "t": "2026-11-13T13:36:00+09:00",
-     "by": "newstnt.com"
-    }
-   ]
-  },
-  {
-   "name": "대상포진",
-   "kind": "질환·증상",
-   "count": 8,
-   "angles": [
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "광양 65세 이상 대상포진 예방 접종, 누가 무료로 맞나…접종비 최대 31만...",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217387",
-     "t": "2026-11-14T09:20:00+09:00",
-     "by": "aitimes.com"
-    },
-    {
-     "title": "공주시, 55세 이상 대상포진 예방 접종 지원…",
-     "link": "http://www.breaknews.com/1250912",
-     "t": "2026-11-13T18:10:00+09:00",
-     "by": "breaknews.com"
-    },
-    {
-     "title": "광양시, 65세 이상 시민 대상포진 예방 접종 지원",
-     "link": "http://www.breaknews.com/1250764",
-     "t": "2026-11-13T12:54:00+09:00",
-     "by": "breaknews.com"
-    },
-    {
-     "title": "공주보건소, '공주형 대상포진 예방 접종사업' 본격 추진",
-     "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=920620",
-     "t": "2026-11-13T12:02:00+09:00",
-     "by": "chungnamilbo.co.kr"
-    },
-    {
-     "title": "공주시, 대상포진 예방 접종사업 본격 추진",
-     "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=362614",
-     "t": "2026-11-13T10:58:00+09:00",
-     "by": "ccreview.co.kr"
     }
    ]
   },
@@ -570,49 +529,6 @@
      "link": "https://www.ibabynews.com/news/articleView.html?idxno=156845",
      "t": "2026-11-12T15:12:00+09:00",
      "by": "ibabynews.com"
-    }
-   ]
-  },
-  {
-   "name": "커피",
-   "kind": "식품·제철",
-   "count": 7,
-   "angles": [
-    "먹는 법",
-    "에 좋은",
-    "부작용",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "[커피·음료 트렌드] 커피는 몸속 수분 빼앗는 음료?…“적당량 마시면...",
-     "link": "https://www.ibabynews.com/news/articleView.html?idxno=156888",
-     "t": "2026-11-13T12:02:00+09:00",
-     "by": "ibabynews.com"
-    },
-    {
-     "title": "지수도 놀란 유재석의 커피 취향… ‘매실차 커피’ 건강에는 어떨까",
-     "link": "https://kormedi.com/?p=2903858",
-     "t": "2026-11-13T08:05:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "커피 마시면 탈수된다는 상식 뒤집혔다…“물처럼 수분 보충”",
-     "link": "http://www.whosaeng.com/175280",
-     "t": "2026-11-12T14:52:00+09:00",
-     "by": "whosaeng.com"
-    },
-    {
-     "title": "건강에 좋은 커피… 비유제품 크리머 첨가는 독 될수도",
-     "link": "https://www.koreatimes.com/article/11631249?utm_source=naver",
-     "t": "2026-11-12T13:36:00+09:00",
-     "by": "koreatimes.com"
-    },
-    {
-     "title": "“커피는 많이 마시면 탈수위헌? 적당량 마시면 오히려 체내 수분 유지...",
-     "link": "https://biz.heraldcorp.com/article/10935076?ref=naver",
-     "t": "2026-11-12T12:54:00+09:00",
-     "by": "biz.heraldcorp.com"
     }
    ]
   },
@@ -658,44 +574,84 @@
    ]
   },
   {
-   "name": "면역력",
+   "name": "대상포진",
    "kind": "질환·증상",
    "count": 6,
    "angles": [
-    "에 좋은",
-    "부작용",
-    "효능"
+    "에 좋은"
    ],
    "items": [
     {
-     "title": "'제주 최대 60㎜' 비·전국 흐리고 아침 최저 6도…면역력 높이는 11월 제...",
-     "link": "https://www.dailian.co.kr/news/view/1714922/?sc=Naver",
-     "t": "2026-11-14T07:21:00+09:00",
-     "by": "dailian.co.kr"
+     "title": "광양 65세 이상 대상포진 예방 접종, 누가 무료로 맞나…접종비 최대 31만...",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217387",
+     "t": "2026-11-14T09:20:00+09:00",
+     "by": "aitimes.com"
     },
     {
-     "title": "사랑하는 사람 잃은 슬픔, 면역력 저하·심장질환 위험까지 높일 수 있...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624982",
-     "t": "2026-11-13T16:52:00+09:00",
-     "by": "mdtoday.co.kr"
+     "title": "공주시, 55세 이상 대상포진 예방 접종 지원…",
+     "link": "http://www.breaknews.com/1250912",
+     "t": "2026-11-13T18:10:00+09:00",
+     "by": "breaknews.com"
     },
     {
-     "title": "[건강프라임_칼럼] 해열제 사용하면 면역력 떨어진다? 아이 발열 시 알...",
-     "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249719",
-     "t": "2026-11-13T16:46:00+09:00",
-     "by": "sisunnews.co.kr"
+     "title": "광양시, 65세 이상 시민 대상포진 예방 접종 지원",
+     "link": "http://www.breaknews.com/1250764",
+     "t": "2026-11-13T12:54:00+09:00",
+     "by": "breaknews.com"
     },
     {
-     "title": "해열제 먹이면 아이 면역력 약해질까? 발열과 복용 기준",
-     "link": "https://www.vegannews.co.kr/news/article.html?no=404477",
-     "t": "2026-11-13T16:04:00+09:00",
-     "by": "vegannews.co.kr"
+     "title": "공주보건소, '공주형 대상포진 예방 접종사업' 본격 추진",
+     "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=920620",
+     "t": "2026-11-13T12:02:00+09:00",
+     "by": "chungnamilbo.co.kr"
     },
     {
-     "title": "아이 열날 때 해열제 꼭 먹여야 할까? 면역력과 올바른 발열 관리법",
-     "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36170",
-     "t": "2026-11-13T15:54:00+09:00",
-     "by": "biotimes.co.kr"
+     "title": "공주시, 대상포진 예방 접종사업 본격 추진",
+     "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=362614",
+     "t": "2026-11-13T10:58:00+09:00",
+     "by": "ccreview.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "커피",
+   "kind": "식품·제철",
+   "count": 6,
+   "angles": [
+    "먹는 법",
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "[커피·음료 트렌드] 커피는 몸속 수분 빼앗는 음료?…“적당량 마시면...",
+     "link": "https://www.ibabynews.com/news/articleView.html?idxno=156888",
+     "t": "2026-11-13T12:02:00+09:00",
+     "by": "ibabynews.com"
+    },
+    {
+     "title": "지수도 놀란 유재석의 커피 취향… ‘매실차 커피’ 건강에는 어떨까",
+     "link": "https://kormedi.com/?p=2903858",
+     "t": "2026-11-13T08:05:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "커피 마시면 탈수된다는 상식 뒤집혔다…“물처럼 수분 보충”",
+     "link": "http://www.whosaeng.com/175280",
+     "t": "2026-11-12T14:52:00+09:00",
+     "by": "whosaeng.com"
+    },
+    {
+     "title": "건강에 좋은 커피… 비유제품 크리머 첨가는 독 될수도",
+     "link": "https://www.koreatimes.com/article/11631249?utm_source=naver",
+     "t": "2026-11-12T13:36:00+09:00",
+     "by": "koreatimes.com"
+    },
+    {
+     "title": "“커피는 많이 마시면 탈수위헌? 적당량 마시면 오히려 체내 수분 유지...",
+     "link": "https://biz.heraldcorp.com/article/10935076?ref=naver",
+     "t": "2026-11-12T12:54:00+09:00",
+     "by": "biz.heraldcorp.com"
     }
    ]
   },
@@ -737,6 +693,47 @@
      "link": "https://www.k-health.com/news/articleView.html?idxno=102154",
      "t": "2026-11-11T18:14:00+09:00",
      "by": "k-health.com"
+    }
+   ]
+  },
+  {
+   "name": "면역력",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "'제주 최대 60㎜' 비·전국 흐리고 아침 최저 6도…면역력 높이는 11월 제...",
+     "link": "https://www.dailian.co.kr/news/view/1714922/?sc=Naver",
+     "t": "2026-11-14T07:21:00+09:00",
+     "by": "dailian.co.kr"
+    },
+    {
+     "title": "사랑하는 사람 잃은 슬픔, 면역력 저하·심장질환 위험까지 높일 수 있...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624982",
+     "t": "2026-11-13T16:52:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "[건강프라임_칼럼] 해열제 사용하면 면역력 떨어진다? 아이 발열 시 알...",
+     "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249719",
+     "t": "2026-11-13T16:46:00+09:00",
+     "by": "sisunnews.co.kr"
+    },
+    {
+     "title": "해열제 먹이면 아이 면역력 약해질까? 발열과 복용 기준",
+     "link": "https://www.vegannews.co.kr/news/article.html?no=404477",
+     "t": "2026-11-13T16:04:00+09:00",
+     "by": "vegannews.co.kr"
+    },
+    {
+     "title": "아이 열날 때 해열제 꼭 먹여야 할까? 면역력과 올바른 발열 관리법",
+     "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36170",
+     "t": "2026-11-13T15:54:00+09:00",
+     "by": "biotimes.co.kr"
     }
    ]
   },
@@ -809,41 +806,6 @@
    ]
   },
   {
-   "name": "우울증",
-   "kind": "질환·증상",
-   "count": 4,
-   "angles": [
-    "부작용",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "“첫 성경험 늦을수록 우울증 위험 낮았다”… 중국 연구 팀 분석",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111302235.html",
-     "t": "2026-11-13T22:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "가정의학과 의사 10명 중 9명 \"우울증 지속치료·상담 보상 부족\"",
-     "link": "https://www.monews.co.kr/news/articleView.html?idxno=415436",
-     "t": "2026-11-13T16:26:00+09:00",
-     "by": "monews.co.kr"
-    },
-    {
-     "title": "우울증 진료 최대 과제 \"추적·지속치료\"...제도개선은 요원",
-     "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171825&ref=naverpc",
-     "t": "2026-11-13T14:26:00+09:00",
-     "by": "medicaltimes.com"
-    },
-    {
-     "title": "우울증 치료제 장기 효과 비교…에스시탈로프람 등 3개 약물 주목",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624397",
-     "t": "2026-11-11T16:36:00+09:00",
-     "by": "mdtoday.co.kr"
-    }
-   ]
-  },
-  {
    "name": "걷기",
    "kind": "운동·생활",
    "count": 3,
@@ -897,6 +859,34 @@
      "link": "https://www.insight.co.kr/news/581869",
      "t": "2026-11-13T10:28:00+09:00",
      "by": "insight.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "우울증",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "“첫 성경험 늦을수록 우울증 위험 낮았다”… 중국 연구 팀 분석",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111302235.html",
+     "t": "2026-11-13T22:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "가정의학과 의사 10명 중 9명 \"우울증 지속치료·상담 보상 부족\"",
+     "link": "https://www.monews.co.kr/news/articleView.html?idxno=415436",
+     "t": "2026-11-13T16:26:00+09:00",
+     "by": "monews.co.kr"
+    },
+    {
+     "title": "우울증 진료 최대 과제 \"추적·지속치료\"...제도개선은 요원",
+     "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171825&ref=naverpc",
+     "t": "2026-11-13T14:26:00+09:00",
+     "by": "medicaltimes.com"
     }
    ]
   },
@@ -955,34 +945,6 @@
      "link": "http://www.bokuennews.com/news/article.html?no=287169",
      "t": "2026-11-13T14:30:00+09:00",
      "by": "bokuennews.com"
-    }
-   ]
-  },
-  {
-   "name": "폐암",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "폐암 치료 전 유전자 폭넓게 검사한 환자⋯생존기간 2개월 더 길어",
-     "link": "https://kormedi.com/?p=2904916",
-     "t": "2026-11-13T13:23:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "면역항암제 효과, 수술 전에 알 수 있다?…폐암 환자서 가능성 확인",
-     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80896",
-     "t": "2026-11-12T17:00:00+09:00",
-     "by": "mkhealth.co.kr"
-    },
-    {
-     "title": "영상검사·면역세포로 폐암 선행 면역항암제 효과 예측법 발견",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=421559",
-     "t": "2026-11-11T16:16:00+09:00",
-     "by": "medipana.com"
     }
    ]
   },
@@ -1071,6 +1033,28 @@
      "link": "http://www.brainmedia.co.kr/BrainScience/25704",
      "t": "2026-11-11T21:06:00+09:00",
      "by": "brainmedia.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "유방암",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "피 한방울로 유방암 95% 적중…재발 위험까지 미리 맞혔다 [매일비타민...",
+     "link": "https://www.imaeil.com/page/view/2026111322035351586",
+     "t": "2026-11-13T22:51:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "혈액검사로 초기 유방암 95% 정확도 판별…재발 위험도 예측",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625063",
+     "t": "2026-11-13T12:30:00+09:00",
+     "by": "mdtoday.co.kr"
     }
    ]
   }

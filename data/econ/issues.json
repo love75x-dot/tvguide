@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:10:55.789139+09:00",
+ "updated": "2026-11-14T13:10:47.668510+09:00",
  "all": [
   {
    "name": "경기남부광역철도",
@@ -40,8 +40,14 @@
   },
   {
    "name": "엔비디아",
-   "count": 40,
+   "count": 41,
    "items": [
+    {
+     "title": "[해외시황] 뉴욕증시, 엔비디아發 불확실성 지속에 '혼조'…나스닥 0.91...",
+     "link": "http://www.newsprime.co.kr/news/article.html?no=754980",
+     "t": "2026-11-14T12:12:00+09:00",
+     "by": "newsprime.co.kr"
+    },
     {
      "title": "[ 이슈 ] 반도체 호황 속 엔비디아 수장 교체…국내 산업 계 파장은",
      "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367573",
@@ -65,12 +71,6 @@
      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=130869",
      "t": "2026-11-14T10:24:00+09:00",
      "by": "ntoday.co.kr"
-    },
-    {
-     "title": "[뉴욕증시] AI·반도체 약세에 혼조세 마감…엔비디아 2.01%↓",
-     "link": "https://www.jasm.co.kr/news/view/325285/?sc=Naver",
-     "t": "2026-11-14T10:22:00+09:00",
-     "by": "jasm.co.kr"
     }
    ]
   },
@@ -111,6 +111,42 @@
    ]
   },
   {
+   "name": "코스피",
+   "count": 20,
+   "items": [
+    {
+     "title": "“도대체 언제 오를까요”... 코스피 반등 3가지 조건 보니",
+     "link": "https://www.mk.co.kr/article/12208087",
+     "t": "2026-11-14T13:01:00+09:00",
+     "by": "mk.co.kr"
+    },
+    {
+     "title": "BNK \" 코스피 적정 수준 6390\"…13일 종가보다 1100p 높아",
+     "link": "https://www.fnnews.com/news/202611141223498592",
+     "t": "2026-11-14T12:56:00+09:00",
+     "by": "fnnews.com"
+    },
+    {
+     "title": "코스피 200 반등에도 인버스 거래 집중…ETN 84% 차지",
+     "link": "http://www.kjdaily.com/article.php?aid=1794627398692205276",
+     "t": "2026-11-14T12:42:00+09:00",
+     "by": "kjdaily.com"
+    },
+    {
+     "title": "\" 코스피 적정가는 6,390\"...그런데 상승 어렵다는 이유 [주식R]",
+     "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140026&t=NN",
+     "t": "2026-11-14T12:03:00+09:00",
+     "by": "wowtv.co.kr"
+    },
+    {
+     "title": "구다이글로벌, 코스피 상장 예비심사 신청…내년 상반기 IPO 목표",
+     "link": "https://www.sedaily.com/article/20114302?ref=naver",
+     "t": "2026-11-14T10:49:00+09:00",
+     "by": "sedaily.com"
+    }
+   ]
+  },
+  {
    "name": "만에",
    "count": 20,
    "items": [
@@ -147,44 +183,8 @@
    ]
   },
   {
-   "name": "뉴욕증시",
-   "count": 16,
-   "items": [
-    {
-     "title": "뉴욕증시 기술주 약세 속 혼조···국제유가도 ‘널뛰기’",
-     "link": "https://www.ekn.kr/web/view.php?key=20261114024239653",
-     "t": "2026-11-14T11:46:00+09:00",
-     "by": "ekn.kr"
-    },
-    {
-     "title": "뉴욕증시 혼란: 엔비디아 전 CEO 스캔들로 기술주 급락, 투자자들 주목",
-     "link": "https://www.gokorea.kr/news/articleView.html?idxno=885596",
-     "t": "2026-11-14T09:40:00+09:00",
-     "by": "gokorea.kr"
-    },
-    {
-     "title": "뉴욕증시 혼조 마감…엔비디아 여파에 반도체·AI주 동반 급락",
-     "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4118542",
-     "t": "2026-11-14T08:58:00+09:00",
-     "by": "bbsi.co.kr"
-    },
-    {
-     "title": "젠슨황 스캔들 여파에 뉴욕증시 혼조…나스닥 1%↓",
-     "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=366147",
-     "t": "2026-11-14T08:38:00+09:00",
-     "by": "smedaily.co.kr"
-    },
-    {
-     "title": "뉴욕증시 혼조 마감…엔비디아 2.01%·SK하이닉스 ADR 4.30% 하락",
-     "link": "http://www.kjdaily.com/article.php?aid=1794612858692192276",
-     "t": "2026-11-14T08:36:00+09:00",
-     "by": "kjdaily.com"
-    }
-   ]
-  },
-  {
    "name": "국가 철도",
-   "count": 10,
+   "count": 9,
    "items": [
     {
      "title": "추미애 도지사 국가 철도 망 40개 사업 반영 촉구",
@@ -219,38 +219,38 @@
    ]
   },
   {
-   "name": "코스피",
-   "count": 19,
+   "name": "금리",
+   "count": 15,
    "items": [
     {
-     "title": "\" 코스피 적정가는 6,390\"...그런데 상승 어렵다는 이유 [주식R]",
-     "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140026&t=NN",
-     "t": "2026-11-14T12:03:00+09:00",
-     "by": "wowtv.co.kr"
+     "title": "[주末머니]\"美 국채 금리 내년 초 고점…2028년 인하 대비 장기채 늘려라...",
+     "link": "https://view.asiae.co.kr/article/2026111210454967683",
+     "t": "2026-11-14T11:47:00+09:00",
+     "by": "view.asiae.co.kr"
     },
     {
-     "title": "구다이글로벌, 코스피 상장 예비심사 신청…내년 상반기 IPO 목표",
-     "link": "https://www.sedaily.com/article/20114302?ref=naver",
-     "t": "2026-11-14T10:49:00+09:00",
-     "by": "sedaily.com"
+     "title": "\"국가도 못 막는다\"…AI 성장 속 고 금리 ·고물가에 '초양극화' 심화",
+     "link": "https://www.newsis.com/view/NISX20261112_0003864909",
+     "t": "2026-11-14T08:30:00+09:00",
+     "by": "newsis.com"
     },
     {
-     "title": "[11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동...",
-     "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040901",
-     "t": "2026-11-14T10:40:00+09:00",
-     "by": "kihoilbo.co.kr"
+     "title": "美 생산자물가 6.5% 급등, 4년 만에 최고…연준 12월 금리 인상 '무게'",
+     "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1731654",
+     "t": "2026-11-14T08:20:00+09:00",
+     "by": "ebn.co.kr"
     },
     {
-     "title": "코스피 하락…삼성전자·현대차 강세 삼성전기 약세, 엔비디아 경영 불...",
-     "link": "https://www.cbci.co.kr/news/articleView.html?idxno=626787",
-     "t": "2026-11-14T09:56:00+09:00",
-     "by": "cbci.co.kr"
+     "title": "비트코인 급락, 7만 달러 붕괴… 금리 인상 우려에 엔비디아 후폭풍",
+     "link": "https://www.mediapen.com/news/view/1137487",
+     "t": "2026-11-14T08:12:00+09:00",
+     "by": "mediapen.com"
     },
     {
-     "title": "코스피 보고 '산이 높으면 골이 깊다'...대통령 망언 직격탄 날린 박충...",
-     "link": "https://www.thepublic.kr/news/articleView.html?idxno=326595",
-     "t": "2026-11-14T09:36:00+09:00",
-     "by": "thepublic.kr"
+     "title": "[판으로 읽는 경제] 美 금리 ·AI 불안에 흔들리는 韓 수출 호황",
+     "link": "https://news.mtn.co.kr/article/2026111311532244190",
+     "t": "2026-11-14T08:02:00+09:00",
+     "by": "mtn.co.kr"
     }
    ]
   }

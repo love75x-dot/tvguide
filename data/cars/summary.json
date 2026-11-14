@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14T23:08:28.664032+09:00",
+ "updated": "2026-11-15T00:10:42.994344+09:00",
  "hot": [
   {
    "name": "GV90",
    "count": 11,
-   "prev": 19,
-   "rise": 58,
+   "prev": 18,
+   "rise": -25,
    "moto": false,
    "why": [
     "출시"
@@ -14,8 +14,8 @@
   {
    "name": "아반떼",
    "count": 5,
-   "prev": 7,
-   "rise": 3,
+   "prev": 5,
+   "rise": -36,
    "moto": false,
    "why": [
     "가격 인하"
@@ -25,7 +25,7 @@
    "name": "넥쏘",
    "count": 4,
    "prev": 0,
-   "rise": -10,
+   "rise": -36,
    "moto": false,
    "why": [
     "판매 1위",
@@ -35,8 +35,8 @@
   {
    "name": "사이버트럭",
    "count": 2,
-   "prev": 24,
-   "rise": -34,
+   "prev": 7,
+   "rise": -54,
    "moto": false,
    "why": []
   },
@@ -44,7 +44,7 @@
    "name": "G90",
    "count": 2,
    "prev": 0,
-   "rise": 18,
+   "rise": -28,
    "moto": false,
    "why": []
   },
@@ -52,15 +52,7 @@
    "name": "EV3",
    "count": 2,
    "prev": 0,
-   "rise": 1,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "GV60",
-   "count": 2,
-   "prev": 12,
-   "rise": 3,
+   "rise": -32,
    "moto": false,
    "why": []
   },
@@ -68,7 +60,7 @@
    "name": "5시리즈",
    "count": 2,
    "prev": 0,
-   "rise": 1,
+   "rise": -32,
    "moto": false,
    "why": [
     "중고차 시세"
@@ -78,7 +70,7 @@
    "name": "그랜저",
    "count": 2,
    "prev": 0,
-   "rise": -1,
+   "rise": -36,
    "moto": false,
    "why": [
     "중고차 시세",
@@ -89,22 +81,22 @@
    "name": "투싼",
    "count": 2,
    "prev": 5,
-   "rise": 2,
+   "rise": -33,
    "moto": false,
    "why": [
     "중고차 시세"
    ]
+  },
+  {
+   "name": "아이오닉 5",
+   "count": 1,
+   "prev": 1,
+   "rise": -35,
+   "moto": false,
+   "why": []
   }
  ],
  "calendar": [
-  {
-   "name": "사이버트럭",
-   "status": "out",
-   "date": "2026-11-08",
-   "title": "\"중고차 가격 더 오를까\", 테슬라 사이버트럭, 출시 3년 만에 단종 수순",
-   "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601881",
-   "moto": false
-  },
   {
    "name": "PV5",
    "status": "out",

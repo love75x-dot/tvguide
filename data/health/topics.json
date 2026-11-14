@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T23:08:28.664032+09:00",
+ "updated": "2026-11-15T00:10:42.994344+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -128,7 +128,7 @@
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 19,
+   "count": 20,
    "angles": [
     "에 좋은",
     "먹는 법",
@@ -136,6 +136,12 @@
     "효능"
    ],
    "items": [
+    {
+     "title": "‘세 달 동안 20kg’ 뺀 남성… 단백질 위주 식사하고, 요거트 챙겨 다니...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111300872.html",
+     "t": "2026-11-15T00:01:00+09:00",
+     "by": "health.chosun.com"
+    },
     {
      "title": "심장 섬유화 유발 단백질 억제, 심부전 진행 예방 가능성 확인",
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625207",
@@ -159,12 +165,6 @@
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624975",
      "t": "2026-11-13T16:54:00+09:00",
      "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "닭 가슴살이 최고인 줄 알았는데… 의외로 단백질 덩어리라는 '이 식품...",
-     "link": "https://www.wikitree.co.kr/articles/1174404",
-     "t": "2026-11-13T16:04:00+09:00",
-     "by": "wikitree.co.kr"
     }
    ]
   },
@@ -294,47 +294,6 @@
    ]
   },
   {
-   "name": "당뇨",
-   "kind": "질환·증상",
-   "count": 13,
-   "angles": [
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "한국MSD동물약품, 세계 당뇨의 날 맞아 보호자 대상 반려동물 당뇨 교육...",
-     "link": "https://www.dailyvet.co.kr/news/companion-animal/304371",
-     "t": "2026-11-14T12:52:00+09:00",
-     "by": "dailyvet.co.kr"
-    },
-    {
-     "title": "줄 없어 활동 편한 '패치형 인슐린펌프'···국내 당뇨 환자는 비용에...",
-     "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261113",
-     "t": "2026-11-14T08:28:00+09:00",
-     "by": "womaneconomy.co.kr"
-    },
-    {
-     "title": "당뇨·고혈압 환자와 흡연자, 임플란트 수술 전 건강 상태 점검이 우선",
-     "link": "https://www.ziksir.com/news/articleView.html?idxno=153275",
-     "t": "2026-11-13T15:52:00+09:00",
-     "by": "ziksir.com"
-    },
-    {
-     "title": "위고비·마운자로, 누구에게 도움이 될까요? — 당뇨·비만 신약 바로 알...",
-     "link": "http://aftertherain.kr/sub/contents/view.php?seq=98365",
-     "t": "2026-11-13T14:30:00+09:00",
-     "by": "aftertherain.kr"
-    },
-    {
-     "title": "종근당, 당뇨 사업 연속 혈당 측정기로 확장...HLB라이프케어와 맞손",
-     "link": "https://www.fnnews.com/news/202611131413225889",
-     "t": "2026-11-13T14:18:00+09:00",
-     "by": "fnnews.com"
-    }
-   ]
-  },
-  {
    "name": "수면",
    "kind": "운동·생활",
    "count": 13,
@@ -371,6 +330,47 @@
      "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=318981",
      "t": "2026-11-13T11:56:00+09:00",
      "by": "mediaus.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "당뇨",
+   "kind": "질환·증상",
+   "count": 12,
+   "angles": [
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "한국MSD동물약품, 세계 당뇨의 날 맞아 보호자 대상 반려동물 당뇨 교육...",
+     "link": "https://www.dailyvet.co.kr/news/companion-animal/304371",
+     "t": "2026-11-14T12:52:00+09:00",
+     "by": "dailyvet.co.kr"
+    },
+    {
+     "title": "줄 없어 활동 편한 '패치형 인슐린펌프'···국내 당뇨 환자는 비용에...",
+     "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261113",
+     "t": "2026-11-14T08:28:00+09:00",
+     "by": "womaneconomy.co.kr"
+    },
+    {
+     "title": "당뇨·고혈압 환자와 흡연자, 임플란트 수술 전 건강 상태 점검이 우선",
+     "link": "https://www.ziksir.com/news/articleView.html?idxno=153275",
+     "t": "2026-11-13T15:52:00+09:00",
+     "by": "ziksir.com"
+    },
+    {
+     "title": "위고비·마운자로, 누구에게 도움이 될까요? — 당뇨·비만 신약 바로 알...",
+     "link": "http://aftertherain.kr/sub/contents/view.php?seq=98365",
+     "t": "2026-11-13T14:30:00+09:00",
+     "by": "aftertherain.kr"
+    },
+    {
+     "title": "종근당, 당뇨 사업 연속 혈당 측정기로 확장...HLB라이프케어와 맞손",
+     "link": "https://www.fnnews.com/news/202611131413225889",
+     "t": "2026-11-13T14:18:00+09:00",
+     "by": "fnnews.com"
     }
    ]
   },
@@ -495,47 +495,6 @@
    ]
   },
   {
-   "name": "고혈압",
-   "kind": "질환·증상",
-   "count": 6,
-   "angles": [
-    "부작용",
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "당뇨·고혈압 환자와 흡연자, 임플란트 수술 전 건강 상태 점검이 우선",
-     "link": "https://www.ziksir.com/news/articleView.html?idxno=153275",
-     "t": "2026-11-13T15:52:00+09:00",
-     "by": "ziksir.com"
-    },
-    {
-     "title": "안국약품, '레보살탄플러스' 임상 가치 조명…고혈압 3제 요법 제시",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=421730",
-     "t": "2026-11-13T09:28:00+09:00",
-     "by": "medipana.com"
-    },
-    {
-     "title": "생선 섭취 량 따라 \"임신성 고혈압\" 위험 줄어",
-     "link": "http://www.whosaeng.com/175301",
-     "t": "2026-11-13T09:22:00+09:00",
-     "by": "whosaeng.com"
-    },
-    {
-     "title": "하남시 고혈압·당뇨병 등록교육센터 허성호 센터장, 복지부장관 표창",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3750404",
-     "t": "2026-11-12T18:06:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "하남시 고혈압·당뇨병 등록교육센터장, 복지부 장관 표창",
-     "link": "https://www.m-i.kr/news/articleView.html?idxno=2017612",
-     "t": "2026-11-12T09:46:00+09:00",
-     "by": "m-i.kr"
-    }
-   ]
-  },
-  {
    "name": "대상포진",
    "kind": "질환·증상",
    "count": 6,
@@ -652,6 +611,47 @@
      "link": "https://biz.heraldcorp.com/article/10935076?ref=naver",
      "t": "2026-11-12T12:54:00+09:00",
      "by": "biz.heraldcorp.com"
+    }
+   ]
+  },
+  {
+   "name": "고혈압",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [
+    "부작용",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "당뇨·고혈압 환자와 흡연자, 임플란트 수술 전 건강 상태 점검이 우선",
+     "link": "https://www.ziksir.com/news/articleView.html?idxno=153275",
+     "t": "2026-11-13T15:52:00+09:00",
+     "by": "ziksir.com"
+    },
+    {
+     "title": "안국약품, '레보살탄플러스' 임상 가치 조명…고혈압 3제 요법 제시",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=421730",
+     "t": "2026-11-13T09:28:00+09:00",
+     "by": "medipana.com"
+    },
+    {
+     "title": "생선 섭취 량 따라 \"임신성 고혈압\" 위험 줄어",
+     "link": "http://www.whosaeng.com/175301",
+     "t": "2026-11-13T09:22:00+09:00",
+     "by": "whosaeng.com"
+    },
+    {
+     "title": "하남시 고혈압·당뇨병 등록교육센터 허성호 센터장, 복지부장관 표창",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3750404",
+     "t": "2026-11-12T18:06:00+09:00",
+     "by": "gukjenews.com"
+    },
+    {
+     "title": "하남시 고혈압·당뇨병 등록교육센터장, 복지부 장관 표창",
+     "link": "https://www.m-i.kr/news/articleView.html?idxno=2017612",
+     "t": "2026-11-12T09:46:00+09:00",
+     "by": "m-i.kr"
     }
    ]
   },

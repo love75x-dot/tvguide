@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-14T17:08:35.676627+09:00",
+ "updated": "2026-11-14T18:10:50.138543+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 56,
+   "count": 55,
    "angles": [
-    "에 좋은",
     "부작용",
+    "에 좋은",
     "먹는 법",
     "효능"
    ],
@@ -87,7 +87,7 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 24,
+   "count": 23,
    "angles": [
     "부작용",
     "에 좋은"
@@ -171,12 +171,18 @@
   {
    "name": "폐렴",
    "kind": "질환·증상",
-   "count": 16,
+   "count": 17,
    "angles": [
     "부작용",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "“입맛 없고 피곤하다”는 부모님, 사망 위험 큰 ‘폐렴’일 수도",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111302471.html",
+     "t": "2026-11-14T18:01:00+09:00",
+     "by": "health.chosun.com"
+    },
     {
      "title": "[ 건강 100세를 위하여] 고령층 생명 위협하는 폐렴…예방접종과 조기 진...",
      "link": "http://www.ggmedinews.com/news/articleView.html?idxno=7029",
@@ -200,12 +206,6 @@
      "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59953",
      "t": "2026-11-13T16:18:00+09:00",
      "by": "koreahealthlog.com"
-    },
-    {
-     "title": "겨울철 불청객 ' 독감 ·폐렴' 구별 이렇게",
-     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34015",
-     "t": "2026-11-13T11:04:00+09:00",
-     "by": "jhealthmedia.joins.com"
     }
    ]
   },
@@ -219,6 +219,12 @@
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "32기 영숙, 130㎏→56㎏ 다이어트 비결 공개 “80㎏부터 잘못된 길”",
+     "link": "https://www.newsen.com/news_view.php?uid=202611141359212510",
+     "t": "2026-11-14T18:01:00+09:00",
+     "by": "newsen.com"
+    },
     {
      "title": "고구마 껍질 벗겨도 다이어트 효과 반토막은 아니다",
      "link": "https://www.vegannews.co.kr/news/article.html?no=404940",
@@ -242,12 +248,6 @@
      "link": "https://www.newsis.com/view/NISX20261113_0003867259",
      "t": "2026-11-14T00:10:00+09:00",
      "by": "newsis.com"
-    },
-    {
-     "title": "비용 다이어트 빛난 엠게임…4분기 신작 승부수",
-     "link": "https://www.bloter.net/news/articleView.html?idxno=678591",
-     "t": "2026-11-13T18:25:00+09:00",
-     "by": "bloter.net"
     }
    ]
   },
@@ -337,7 +337,7 @@
   {
    "name": "수면",
    "kind": "운동·생활",
-   "count": 12,
+   "count": 11,
    "angles": [
     "에 좋은"
    ],
@@ -656,47 +656,6 @@
    ]
   },
   {
-   "name": "콜레스테롤",
-   "kind": "질환·증상",
-   "count": 6,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "\"콜레스테롤 낮으면 괜찮다?\"…'이 수치' 높으면 동맥경화 위험 ↑",
-     "link": "https://www.hankookilbo.com/news/article/A2026111310100001728?did=NA",
-     "t": "2026-11-13T11:30:00+09:00",
-     "by": "hankookilbo.com"
-    },
-    {
-     "title": "“고기 먹을 때 ‘이 부분’ 꼭 잘라내라”…나쁜 콜레스테롤 확 높이는...",
-     "link": "https://www.sedaily.com/article/20113683?ref=naver",
-     "t": "2026-11-12T17:59:00+09:00",
-     "by": "sedaily.com"
-    },
-    {
-     "title": "“콜레스테롤 걱정 덜고 먹어라”… 소·돼지보다 지방 적은 ‘말고기’...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/12/2026111202879.html",
-     "t": "2026-11-12T17:31:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "콜레스테롤 정상인데 동맥경화 위험 1.7배… “ 건강 한 비만도 마찬가지...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/11/2026111102950.html",
-     "t": "2026-11-12T10:16:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "LDL 콜레스테롤 '감소 폭' 살펴야 뇌졸중 재발 막는다",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=102154",
-     "t": "2026-11-11T18:14:00+09:00",
-     "by": "k-health.com"
-    }
-   ]
-  },
-  {
    "name": "면역력",
    "kind": "질환·증상",
    "count": 5,
@@ -738,36 +697,43 @@
    ]
   },
   {
-   "name": "대장암",
+   "name": "콜레스테롤",
    "kind": "질환·증상",
-   "count": 4,
+   "count": 5,
    "angles": [
+    "부작용",
     "에 좋은"
    ],
    "items": [
     {
-     "title": "[빅5 명의들의 건강 열전]“대장암에 나이는 없다”… 2030세대도 안심은...",
-     "link": "https://magazine.hankyung.com/business/article/202611110024b",
-     "t": "2026-11-14T06:16:00+09:00",
-     "by": "magazine.hankyung.com"
+     "title": "\"콜레스테롤 낮으면 괜찮다?\"…'이 수치' 높으면 동맥경화 위험 ↑",
+     "link": "https://www.hankookilbo.com/news/article/A2026111310100001728?did=NA",
+     "t": "2026-11-13T11:30:00+09:00",
+     "by": "hankookilbo.com"
     },
     {
-     "title": "“대장암 예방하려면 ‘이 음식 ’ 많이 드세요”…대장암 예방에 좋은 ...",
-     "link": "https://kormedi.com/?p=2904407",
-     "t": "2026-11-13T22:06:00+09:00",
-     "by": "kormedi.com"
+     "title": "“고기 먹을 때 ‘이 부분’ 꼭 잘라내라”…나쁜 콜레스테롤 확 높이는...",
+     "link": "https://www.sedaily.com/article/20113683?ref=naver",
+     "t": "2026-11-12T17:59:00+09:00",
+     "by": "sedaily.com"
     },
     {
-     "title": "\"대장암 수술 후 근육 빠지는 사람 따로 있다?\"… 수술 전 혈액 속 단서...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69953",
-     "t": "2026-11-12T15:00:00+09:00",
-     "by": "hidoc.co.kr"
+     "title": "“콜레스테롤 걱정 덜고 먹어라”… 소·돼지보다 지방 적은 ‘말고기’...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/12/2026111202879.html",
+     "t": "2026-11-12T17:31:00+09:00",
+     "by": "health.chosun.com"
     },
     {
-     "title": "강남세브란스병원 교수 연구 팀, 혈중 머슬린과 대장암 수술 후 근육량 ...",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213317",
-     "t": "2026-11-11T17:22:00+09:00",
-     "by": "thefirstmedia.net"
+     "title": "콜레스테롤 정상인데 동맥경화 위험 1.7배… “ 건강 한 비만도 마찬가지...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/11/2026111102950.html",
+     "t": "2026-11-12T10:16:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "LDL 콜레스테롤 '감소 폭' 살펴야 뇌졸중 재발 막는다",
+     "link": "https://www.k-health.com/news/articleView.html?idxno=102154",
+     "t": "2026-11-11T18:14:00+09:00",
+     "by": "k-health.com"
     }
    ]
   },
@@ -863,6 +829,34 @@
    ]
   },
   {
+   "name": "대장암",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "[빅5 명의들의 건강 열전]“대장암에 나이는 없다”… 2030세대도 안심은...",
+     "link": "https://magazine.hankyung.com/business/article/202611110024b",
+     "t": "2026-11-14T06:16:00+09:00",
+     "by": "magazine.hankyung.com"
+    },
+    {
+     "title": "“대장암 예방하려면 ‘이 음식 ’ 많이 드세요”…대장암 예방에 좋은 ...",
+     "link": "https://kormedi.com/?p=2904407",
+     "t": "2026-11-13T22:06:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "\"대장암 수술 후 근육 빠지는 사람 따로 있다?\"… 수술 전 혈액 속 단서...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69953",
+     "t": "2026-11-12T15:00:00+09:00",
+     "by": "hidoc.co.kr"
+    }
+   ]
+  },
+  {
    "name": "우울증",
    "kind": "질환·증상",
    "count": 3,
@@ -945,26 +939,6 @@
      "link": "http://www.bokuennews.com/news/article.html?no=287169",
      "t": "2026-11-13T14:30:00+09:00",
      "by": "bokuennews.com"
-    }
-   ]
-  },
-  {
-   "name": "갱년기",
-   "kind": "질환·증상",
-   "count": 2,
-   "angles": [],
-   "items": [
-    {
-     "title": "갱년기, 생각보다 빨리 온다고? 미리 알아두면 좋은 몸의 신호",
-     "link": "https://www.harpersbazaar.co.kr/article/1913057",
-     "t": "2026-11-13T14:50:00+09:00",
-     "by": "harpersbazaar.co.kr"
-    },
-    {
-     "title": "[ 건강 칼럼] ‘증상 없어도 뼈, 혈관 변화는 진행’ 갱년기 관리법은?",
-     "link": "https://idsn.co.kr/news/view/1065594624640424",
-     "t": "2026-11-11T17:44:00+09:00",
-     "by": "idsn.co.kr"
     }
    ]
   },
@@ -1055,6 +1029,29 @@
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625063",
      "t": "2026-11-13T12:30:00+09:00",
      "by": "mdtoday.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "탈모",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [
+    "부작용",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "성시경, 10㎏ 빼고 탈모 부작용 “규현→김민석에 헤드스파 10회 선물”...",
+     "link": "https://www.newsen.com/news_view.php?uid=202611132325352510",
+     "t": "2026-11-14T06:01:00+09:00",
+     "by": "newsen.com"
+    },
+    {
+     "title": "터리낙스, 모발 성장 속도 측정 기술 라이선스 계약…탈모 소재 효능 평...",
+     "link": "https://www.venturesquare.net/1128185/",
+     "t": "2026-11-12T22:48:00+09:00",
+     "by": "venturesquare.net"
     }
    ]
   }

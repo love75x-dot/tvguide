@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:10:44.731051+09:00",
+ "updated": "2026-11-15T13:10:52.075743+09:00",
  "hot": [
   {
    "name": "GV90",
@@ -13,7 +13,7 @@
   },
   {
    "name": "아반떼",
-   "count": 5,
+   "count": 6,
    "prev": 5,
    "rise": -3,
    "moto": false,
@@ -22,13 +22,12 @@
    ]
   },
   {
-   "name": "넥쏘",
-   "count": 4,
-   "prev": 0,
-   "rise": -13,
+   "name": "투싼",
+   "count": 3,
+   "prev": 5,
+   "rise": -1,
    "moto": false,
    "why": [
-    "판매 1위",
     "중고차 시세"
    ]
   },
@@ -47,6 +46,17 @@
    "rise": 0,
    "moto": false,
    "why": []
+  },
+  {
+   "name": "넥쏘",
+   "count": 3,
+   "prev": 1,
+   "rise": -13,
+   "moto": false,
+   "why": [
+    "판매 1위",
+    "중고차 시세"
+   ]
   },
   {
    "name": "사이버트럭",
@@ -75,24 +85,13 @@
    ]
   },
   {
-   "name": "그랜저",
-   "count": 2,
+   "name": "G80",
+   "count": 1,
    "prev": 0,
-   "rise": -3,
+   "rise": 1,
    "moto": false,
    "why": [
-    "중고차 시세",
-    "판매 1위"
-   ]
-  },
-  {
-   "name": "투싼",
-   "count": 2,
-   "prev": 5,
-   "rise": -1,
-   "moto": false,
-   "why": [
-    "중고차 시세"
+    "리콜"
    ]
   }
  ],

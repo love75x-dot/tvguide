@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-15T15:08:34.010389+09:00",
+ "updated": "2026-11-15T16:10:42.909553+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 48,
+   "count": 47,
    "angles": [
     "부작용",
     "먹는 법",
@@ -87,50 +87,9 @@
    ]
   },
   {
-   "name": "독감",
-   "kind": "질환·증상",
-   "count": 19,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "미국 독감 유행 이례적으로 빨라…남부·서부 지역 중심으로 확산",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625266",
-     "t": "2026-11-15T13:38:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "비타민 D, 독감 감염 시 폐 염증 조절에 중요한 역할…동물실험서 확인",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625255",
-     "t": "2026-11-14T21:44:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "겨울 앞두고 독감 확산…고위험군 접종 참여 중요",
-     "link": "https://www.mt.co.kr/thebio/2026/11/14/2026111315234085054",
-     "t": "2026-11-14T10:05:00+09:00",
-     "by": "mt.co.kr"
-    },
-    {
-     "title": "성질 급해진 독감… 작년보다 한달 빠른 주의보",
-     "link": "https://www.chosun.com/national/welfare-medical/2026/11/14/5CWOPBSLFNBQFNEJHZPHNZGO2Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-     "t": "2026-11-14T00:37:00+09:00",
-     "by": "chosun.com"
-    },
-    {
-     "title": "독감 환자 느는데... 어린이*고령층 접종률은 저조",
-     "link": "https://news.knn.co.kr/news/article/194460",
-     "t": "2026-11-13T20:22:00+09:00",
-     "by": "knn.co.kr"
-    }
-   ]
-  },
-  {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 17,
+   "count": 16,
    "angles": [
     "부작용"
    ],
@@ -210,9 +169,91 @@
    ]
   },
   {
+   "name": "독감",
+   "kind": "질환·증상",
+   "count": 16,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "미국 독감 유행 이례적으로 빨라…남부·서부 지역 중심으로 확산",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625266",
+     "t": "2026-11-15T13:38:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "비타민 D, 독감 감염 시 폐 염증 조절에 중요한 역할…동물실험서 확인",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625255",
+     "t": "2026-11-14T21:44:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "겨울 앞두고 독감 확산…고위험군 접종 참여 중요",
+     "link": "https://www.mt.co.kr/thebio/2026/11/14/2026111315234085054",
+     "t": "2026-11-14T10:05:00+09:00",
+     "by": "mt.co.kr"
+    },
+    {
+     "title": "성질 급해진 독감… 작년보다 한달 빠른 주의보",
+     "link": "https://www.chosun.com/national/welfare-medical/2026/11/14/5CWOPBSLFNBQFNEJHZPHNZGO2Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "t": "2026-11-14T00:37:00+09:00",
+     "by": "chosun.com"
+    },
+    {
+     "title": "독감 환자 느는데... 어린이*고령층 접종률은 저조",
+     "link": "https://news.knn.co.kr/news/article/194460",
+     "t": "2026-11-13T20:22:00+09:00",
+     "by": "knn.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "치매",
+   "kind": "질환·증상",
+   "count": 12,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "치매 혈액검사 기대 속…치매학회, '무증상자 검진'에 선 그어",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3016435",
+     "t": "2026-11-15T09:14:00+09:00",
+     "by": "bosa.co.kr"
+    },
+    {
+     "title": "뼈에만 좋은 줄 알았는데…'이 약'이 치매 위험 24% 낮춘다고?",
+     "link": "http://weekly.chosun.com/news/articleView.html?idxno=57114",
+     "t": "2026-11-15T00:30:00+09:00",
+     "by": "weekly.chosun.com"
+    },
+    {
+     "title": "나이 들수록 수면 중 뇌 노폐물 배출 기능 저하…치매 발생과 연관 가능...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625256",
+     "t": "2026-11-14T21:46:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "“부모님 치아 몇 개 남았나요”… 남은 치아 적으면 치매 위험 높아",
+     "link": "https://kormedi.com/?p=2904857",
+     "t": "2026-11-14T17:07:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "AI로 분석한 '심장 나이', 심혈관질환·치매 관련 장기 사망 위험 예측 ...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625227",
+     "t": "2026-11-14T14:18:00+09:00",
+     "by": "mdtoday.co.kr"
+    }
+   ]
+  },
+  {
    "name": "폐렴",
    "kind": "질환·증상",
-   "count": 15,
+   "count": 12,
    "angles": [
     "부작용",
     "에 좋은"
@@ -253,7 +294,7 @@
   {
    "name": "당뇨",
    "kind": "질환·증상",
-   "count": 13,
+   "count": 11,
    "angles": [
     "에 좋은",
     "부작용"
@@ -288,89 +329,6 @@
      "link": "http://aftertherain.kr/sub/contents/view.php?seq=98365",
      "t": "2026-11-13T14:30:00+09:00",
      "by": "aftertherain.kr"
-    }
-   ]
-  },
-  {
-   "name": "치매",
-   "kind": "질환·증상",
-   "count": 13,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "치매 혈액검사 기대 속…치매학회, '무증상자 검진'에 선 그어",
-     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3016435",
-     "t": "2026-11-15T09:14:00+09:00",
-     "by": "bosa.co.kr"
-    },
-    {
-     "title": "뼈에만 좋은 줄 알았는데…'이 약'이 치매 위험 24% 낮춘다고?",
-     "link": "http://weekly.chosun.com/news/articleView.html?idxno=57114",
-     "t": "2026-11-15T00:30:00+09:00",
-     "by": "weekly.chosun.com"
-    },
-    {
-     "title": "나이 들수록 수면 중 뇌 노폐물 배출 기능 저하…치매 발생과 연관 가능...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625256",
-     "t": "2026-11-14T21:46:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "“부모님 치아 몇 개 남았나요”… 남은 치아 적으면 치매 위험 높아",
-     "link": "https://kormedi.com/?p=2904857",
-     "t": "2026-11-14T17:07:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "AI로 분석한 '심장 나이', 심혈관질환·치매 관련 장기 사망 위험 예측 ...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625227",
-     "t": "2026-11-14T14:18:00+09:00",
-     "by": "mdtoday.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "혈압",
-   "kind": "질환·증상",
-   "count": 9,
-   "angles": [
-    "에 좋은",
-    "효능",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "아스트라제네카 고 혈압 신약 '박스펜디', 유럽 허가 권고",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625188",
-     "t": "2026-11-14T21:02:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "“ 혈압 낮추는 간식”… 달달한 것 당길 때 ‘건포도’ 먹어봐요",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111302253.html",
-     "t": "2026-11-14T17:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "뇌졸중 환자, 수축기 혈압 120 미만으로 낮추면 심혈관질환 위험 21% 감소",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625218",
-     "t": "2026-11-14T14:26:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "\"가지가 혈압에 좋다고?\"… 가지의 놀라운 건강 효능 4가지",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69902",
-     "t": "2026-11-14T07:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "저가 이뇨제 스피로노락톤, 뇌졸중 환자 혈압 조절 효과 확인",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624956",
-     "t": "2026-11-13T17:04:00+09:00",
-     "by": "mdtoday.co.kr"
     }
    ]
   },
@@ -415,40 +373,44 @@
    ]
   },
   {
-   "name": "유산균",
-   "kind": "영양제",
+   "name": "혈압",
+   "kind": "질환·증상",
    "count": 8,
-   "angles": [],
+   "angles": [
+    "에 좋은",
+    "효능",
+    "부작용"
+   ],
    "items": [
     {
-     "title": "휴온스엔, ‘메노락토 오리진’ 15일 GS SHOP 특별방송…갱년기 유산균...",
-     "link": "http://www.segyebiz.com/newsView/20261113512249?OutUrl=naver",
-     "t": "2026-11-15T09:02:00+09:00",
-     "by": "segyebiz.com"
+     "title": "아스트라제네카 고 혈압 신약 '박스펜디', 유럽 허가 권고",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625188",
+     "t": "2026-11-14T21:02:00+09:00",
+     "by": "mdtoday.co.kr"
     },
     {
-     "title": "반려견과 달리고 유산균 먹이고…1500만 반려인 잡는 펫 헬스케어 경쟁",
-     "link": "https://www.segye.com/newsView/20261115501611?OutUrl=naver",
-     "t": "2026-11-15T08:52:00+09:00",
-     "by": "segye.com"
+     "title": "“ 혈압 낮추는 간식”… 달달한 것 당길 때 ‘건포도’ 먹어봐요",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111302253.html",
+     "t": "2026-11-14T17:01:00+09:00",
+     "by": "health.chosun.com"
     },
     {
-     "title": "유산균 먹고 남은 통은 버리지 말고 서랍에 넣어 두세요… 왜 이제 해봤...",
-     "link": "https://www.wikitree.co.kr/articles/1173810",
-     "t": "2026-11-15T08:40:00+09:00",
-     "by": "wikitree.co.kr"
+     "title": "뇌졸중 환자, 수축기 혈압 120 미만으로 낮추면 심혈관질환 위험 21% 감소",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625218",
+     "t": "2026-11-14T14:26:00+09:00",
+     "by": "mdtoday.co.kr"
     },
     {
-     "title": "발효유 넘어 화장품·펫푸드까지…hy, 유산균 기술로 사업 영토 넓힌다",
-     "link": "https://daily.hankooki.com/news/articleView.html?idxno=1424967",
-     "t": "2026-11-14T15:00:00+09:00",
-     "by": "daily.hankooki.com"
+     "title": "\"가지가 혈압에 좋다고?\"… 가지의 놀라운 건강 효능 4가지",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69902",
+     "t": "2026-11-14T07:00:00+09:00",
+     "by": "hidoc.co.kr"
     },
     {
-     "title": "\"질 내 유산균 부족하면 자궁절제술 후 골반 감염 4배\"",
-     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3016418",
-     "t": "2026-11-13T17:48:00+09:00",
-     "by": "bosa.co.kr"
+     "title": "저가 이뇨제 스피로노락톤, 뇌졸중 환자 혈압 조절 효과 확인",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624956",
+     "t": "2026-11-13T17:04:00+09:00",
+     "by": "mdtoday.co.kr"
     }
    ]
   },
@@ -531,6 +493,44 @@
      "link": "http://www.segyebiz.com/newsView/20261113505638?OutUrl=naver",
      "t": "2026-11-13T10:20:00+09:00",
      "by": "segyebiz.com"
+    }
+   ]
+  },
+  {
+   "name": "유산균",
+   "kind": "영양제",
+   "count": 7,
+   "angles": [],
+   "items": [
+    {
+     "title": "휴온스엔, ‘메노락토 오리진’ 15일 GS SHOP 특별방송…갱년기 유산균...",
+     "link": "http://www.segyebiz.com/newsView/20261113512249?OutUrl=naver",
+     "t": "2026-11-15T09:02:00+09:00",
+     "by": "segyebiz.com"
+    },
+    {
+     "title": "반려견과 달리고 유산균 먹이고…1500만 반려인 잡는 펫 헬스케어 경쟁",
+     "link": "https://www.segye.com/newsView/20261115501611?OutUrl=naver",
+     "t": "2026-11-15T08:52:00+09:00",
+     "by": "segye.com"
+    },
+    {
+     "title": "유산균 먹고 남은 통은 버리지 말고 서랍에 넣어 두세요… 왜 이제 해봤...",
+     "link": "https://www.wikitree.co.kr/articles/1173810",
+     "t": "2026-11-15T08:40:00+09:00",
+     "by": "wikitree.co.kr"
+    },
+    {
+     "title": "발효유 넘어 화장품·펫푸드까지…hy, 유산균 기술로 사업 영토 넓힌다",
+     "link": "https://daily.hankooki.com/news/articleView.html?idxno=1424967",
+     "t": "2026-11-14T15:00:00+09:00",
+     "by": "daily.hankooki.com"
+    },
+    {
+     "title": "\"질 내 유산균 부족하면 자궁절제술 후 골반 감염 4배\"",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3016418",
+     "t": "2026-11-13T17:48:00+09:00",
+     "by": "bosa.co.kr"
     }
    ]
   },
@@ -769,34 +769,6 @@
    ]
   },
   {
-   "name": "걷기",
-   "kind": "운동·생활",
-   "count": 3,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "[박명윤 건강칼럼] 하루 10분 걷기의 기적…건강을 지키는 6단계 운동 법",
-     "link": "http://kor.theasian.asia/archives/421717",
-     "t": "2026-11-15T08:08:00+09:00",
-     "by": "kor.theasian.asia"
-    },
-    {
-     "title": "“걷기와 근력운동만으론 부족”…뼈 더 튼튼하게 만드는 운동 따로 있...",
-     "link": "https://kormedi.com/?p=2904571",
-     "t": "2026-11-14T08:06:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "헥토그룹, 임직원 840명 걷기 챌린지…소아암 아동 치료비 2500만원 지원",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213455",
-     "t": "2026-11-12T16:07:00+09:00",
-     "by": "thefirstmedia.net"
-    }
-   ]
-  },
-  {
    "name": "고구마",
    "kind": "식품·제철",
    "count": 3,
@@ -884,32 +856,6 @@
    ]
   },
   {
-   "name": "홍삼",
-   "kind": "영양제",
-   "count": 3,
-   "angles": [],
-   "items": [
-    {
-     "title": "종근당 건강 , 홍삼 젤리 브랜드 '홍삼당당' 출시",
-     "link": "https://www.lawissue.co.kr/view.php?ud=20261112163419465f4ab64559d_12",
-     "t": "2026-11-12T16:36:00+09:00",
-     "by": "lawissue.co.kr"
-    },
-    {
-     "title": "지강인, 블랙프라이데이 홍삼· 건강 즙 최대 49% 할인…다양한 혜택 마련",
-     "link": "https://www.sportsworldi.com/newsView/20261112515162",
-     "t": "2026-11-12T16:29:00+09:00",
-     "by": "sportsworldi.com"
-    },
-    {
-     "title": "종근당 건강 , 홍삼을 젤리로 재해석…2535 직장인 공략",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213422",
-     "t": "2026-11-12T16:06:00+09:00",
-     "by": "thefirstmedia.net"
-    }
-   ]
-  },
-  {
    "name": "갱년기",
    "kind": "질환·증상",
    "count": 2,
@@ -926,6 +872,28 @@
      "link": "https://www.harpersbazaar.co.kr/article/1913057",
      "t": "2026-11-13T14:50:00+09:00",
      "by": "harpersbazaar.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "걷기",
+   "kind": "운동·생활",
+   "count": 2,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "[박명윤 건강칼럼] 하루 10분 걷기의 기적…건강을 지키는 6단계 운동 법",
+     "link": "http://kor.theasian.asia/archives/421717",
+     "t": "2026-11-15T08:08:00+09:00",
+     "by": "kor.theasian.asia"
+    },
+    {
+     "title": "“걷기와 근력운동만으론 부족”…뼈 더 튼튼하게 만드는 운동 따로 있...",
+     "link": "https://kormedi.com/?p=2904571",
+     "t": "2026-11-14T08:06:00+09:00",
+     "by": "kormedi.com"
     }
    ]
   },
@@ -1038,6 +1006,29 @@
      "link": "https://www.news1.kr/bio/pharmaceutical-bio/6352247",
      "t": "2026-11-12T16:28:00+09:00",
      "by": "news1.kr"
+    }
+   ]
+  },
+  {
+   "name": "탈모",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [
+    "부작용",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "성시경, 10㎏ 빼고 탈모 부작용 “규현→김민석에 헤드스파 10회 선물”...",
+     "link": "https://www.newsen.com/news_view.php?uid=202611132325352510",
+     "t": "2026-11-14T06:01:00+09:00",
+     "by": "newsen.com"
+    },
+    {
+     "title": "터리낙스, 모발 성장 속도 측정 기술 라이선스 계약…탈모 소재 효능 평...",
+     "link": "https://www.venturesquare.net/1128185/",
+     "t": "2026-11-12T22:48:00+09:00",
+     "by": "venturesquare.net"
     }
    ]
   }

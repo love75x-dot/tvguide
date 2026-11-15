@@ -1146,20 +1146,27 @@
    "id": "c14",
    "title": "리센느 원이 '화려한 드레스'[엑's HD포토]",
    "titles": [
-    "리센느 원이 '화려한 드레스'[엑's HD포토]"
+    "리센느 원이 '화려한 드레스'[엑's HD포토]",
+    "[TD포토] 노정의 '완벽한 몸매라인 드러낸 오프숄더 드레스'"
    ],
    "links": [
-    "https://news.nate.com/view/20261114n09236"
+    "https://news.nate.com/view/20261114n09236",
+    "https://news.nate.com/view/20261115n12023"
    ],
    "articles": [
     {
      "title": "리센느 원이 '화려한 드레스'[엑's HD포토]",
      "link": "https://news.nate.com/view/20261114n09236",
      "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "[TD포토] 노정의 '완벽한 몸매라인 드러낸 오프숄더 드레스'",
+     "link": "https://news.nate.com/view/20261115n12023",
+     "media": "티브이데일리"
     }
    ],
    "first": "00:10",
-   "last": "07:08",
+   "last": "18:14",
    "best": 15,
    "hours": [
     "00:10",
@@ -1170,15 +1177,18 @@
     "04:08",
     "05:08",
     "06:22",
-    "07:08"
+    "07:08",
+    "18:14"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_int": 49
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c15",
@@ -2200,11 +2210,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 42
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c43",
@@ -2319,7 +2327,7 @@
     "nate_int": 41
    },
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c45",
@@ -2627,7 +2635,7 @@
     "nate_int": 46
    },
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c53",
@@ -3633,7 +3641,7 @@
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
+    "nate_pop": 2,
     "nate_int": 2
    },
    "count": 1,
@@ -3765,6 +3773,36 @@
     "18:10"
    ],
    "srcs": [
+    "nate_int"
+   ],
+   "now": {},
+   "count": 1,
+   "inrank": false
+  },
+  {
+   "id": "c85",
+   "title": "'영호와 파혼' 20기 정숙, 인맥 자랑…\"생일에 친필 사인, 제니가 써준 내...",
+   "titles": [
+    "'영호와 파혼' 20기 정숙, 인맥 자랑…\"생일에 친필 사인, 제니가 써준 내..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261115n11685"
+   ],
+   "articles": [
+    {
+     "title": "'영호와 파혼' 20기 정숙, 인맥 자랑…\"생일에 친필 사인, 제니가 써준 내...",
+     "link": "https://news.nate.com/view/20261115n11685",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "18:14",
+   "last": "18:14",
+   "best": 7,
+   "hours": [
+    "18:14"
+   ],
+   "srcs": [
+    "nate_pop",
     "nate_int"
    ],
    "now": {

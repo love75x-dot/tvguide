@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T13:10:52.075743+09:00",
+ "updated": "2026-11-15T14:08:32.810237+09:00",
  "hot": [
   {
    "name": "GV90",
@@ -19,6 +19,16 @@
    "moto": false,
    "why": [
     "가격 인하"
+   ]
+  },
+  {
+   "name": "5시리즈",
+   "count": 3,
+   "prev": 0,
+   "rise": 4,
+   "moto": false,
+   "why": [
+    "중고차 시세"
    ]
   },
   {
@@ -48,17 +58,6 @@
    "why": []
   },
   {
-   "name": "넥쏘",
-   "count": 3,
-   "prev": 1,
-   "rise": -13,
-   "moto": false,
-   "why": [
-    "판매 1위",
-    "중고차 시세"
-   ]
-  },
-  {
    "name": "사이버트럭",
    "count": 2,
    "prev": 7,
@@ -75,24 +74,23 @@
    "why": []
   },
   {
-   "name": "5시리즈",
+   "name": "넥쏘",
    "count": 2,
-   "prev": 0,
-   "rise": 4,
+   "prev": 2,
+   "rise": -13,
    "moto": false,
    "why": [
+    "판매 1위",
     "중고차 시세"
    ]
   },
   {
-   "name": "G80",
+   "name": "필랑트",
    "count": 1,
-   "prev": 0,
-   "rise": 1,
+   "prev": 1,
+   "rise": 8,
    "moto": false,
-   "why": [
-    "리콜"
-   ]
+   "why": []
   }
  ],
  "calendar": [

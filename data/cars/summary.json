@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-15T17:08:25.224755+09:00",
+ "updated": "2026-11-15T18:10:54.024554+09:00",
  "hot": [
   {
    "name": "GV90",
-   "count": 8,
-   "prev": 24,
+   "count": 7,
+   "prev": 25,
    "rise": 7,
    "moto": false,
    "why": [
@@ -34,14 +34,6 @@
    "count": 3,
    "prev": 0,
    "rise": 0,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "G90",
-   "count": 2,
-   "prev": 0,
-   "rise": 7,
    "moto": false,
    "why": []
   },
@@ -82,6 +74,16 @@
    "count": 1,
    "prev": 0,
    "rise": 1,
+   "moto": false,
+   "why": [
+    "리콜"
+   ]
+  },
+  {
+   "name": "GV70",
+   "count": 1,
+   "prev": 1,
+   "rise": -2,
    "moto": false,
    "why": [
     "리콜"

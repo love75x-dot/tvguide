@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-15T18:10:54.024554+09:00",
+ "updated": "2026-11-15T19:10:50.284333+09:00",
  "car": [
   {
    "name": "자율주행",
-   "count": 42,
+   "count": 43,
    "items": [
+    {
+     "title": "광주 5개 자치구서 자율주행 실증 본격화…30일 첫 차량 운행",
+     "link": "https://www.thepowernews.co.kr/view.php?ud=20261115145635482caa2b7671d_7",
+     "t": "2026-11-15T18:34:00+09:00",
+     "by": "thepowernews.co.kr"
+    },
+    {
+     "title": "현대차, 자율주행 서비스 상용화 속도",
+     "link": "http://www.ujeil.com/news/articleView.html?idxno=395235",
+     "t": "2026-11-15T18:26:00+09:00",
+     "by": "ujeil.com"
+    },
     {
      "title": "광주에 자율주행 車 달린다",
      "link": "https://www.mk.co.kr/article/12209430",
@@ -22,18 +34,6 @@
      "link": "http://www.gjdream.com/news/articleView.html?idxno=674361",
      "t": "2026-11-15T17:36:00+09:00",
      "by": "gjdream.com"
-    },
-    {
-     "title": "광주 5개 자치구서 국내 첫 도심 자율주행 실증",
-     "link": "http://www.jndn.com/article.php?aid=1794730821443052001",
-     "t": "2026-11-15T17:24:00+09:00",
-     "by": "jndn.com"
-    },
-    {
-     "title": "‘광주 자율주행 실증도시’ 오는 30일 첫 차량 운행 개시",
-     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611151012156670085",
-     "t": "2026-11-15T16:20:00+09:00",
-     "by": "dnews.co.kr"
     }
    ]
   },
@@ -74,42 +74,6 @@
    ]
   },
   {
-   "name": "경기",
-   "count": 36,
-   "items": [
-    {
-     "title": "경기도 재정 명운…이재명표 살고 김동연표 칼바람",
-     "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1336844",
-     "t": "2026-11-15T17:36:00+09:00",
-     "by": "incheonilbo.com"
-    },
-    {
-     "title": "경기도, 42조 예산안 제출…가용재원 2조4000억 줄어",
-     "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903133",
-     "t": "2026-11-15T17:24:00+09:00",
-     "by": "newsworks.co.kr"
-    },
-    {
-     "title": "돈 없다던 경기도…'이재명표 청년기본소득' 577억 원은 지켰다",
-     "link": "https://www.joongboo.com/news/articleView.html?idxno=363742550",
-     "t": "2026-11-15T16:50:00+09:00",
-     "by": "joongboo.com"
-    },
-    {
-     "title": "‘빚내서’ 버티는 경기도…‘기후행동 기회소득’은 폐지 [오상도의 경...",
-     "link": "https://www.segye.com/newsView/20261115508302?OutUrl=naver",
-     "t": "2026-11-15T16:20:00+09:00",
-     "by": "segye.com"
-    },
-    {
-     "title": "경기도 42조 1,946억 원, 가용재원 2조 4천억 원 준 2027년도 ‘민생사수...",
-     "link": "https://hbnpress.com/news/view/1065570640193567",
-     "t": "2026-11-15T15:00:00+09:00",
-     "by": "hbnpress.com"
-    }
-   ]
-  },
-  {
    "name": "복귀 요구",
    "count": 15,
    "items": [
@@ -146,9 +110,51 @@
    ]
   },
   {
-   "name": "사이버캡",
-   "count": 21,
+   "name": "경기",
+   "count": 28,
    "items": [
+    {
+     "title": "경기도, '42조1946억원' 내년도 예산안 제출…인건비 3개월분 미반영",
+     "link": "https://www.etnews.com/20261115000146",
+     "t": "2026-11-15T18:28:00+09:00",
+     "by": "etnews.com"
+    },
+    {
+     "title": "경기도 재정 명운…이재명표 살고 김동연표 칼바람",
+     "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1336844",
+     "t": "2026-11-15T17:36:00+09:00",
+     "by": "incheonilbo.com"
+    },
+    {
+     "title": "경기도, 42조 예산안 제출…가용재원 2조4000억 줄어",
+     "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903133",
+     "t": "2026-11-15T17:24:00+09:00",
+     "by": "newsworks.co.kr"
+    },
+    {
+     "title": "돈 없다던 경기도…'이재명표 청년기본소득' 577억 원은 지켰다",
+     "link": "https://www.joongboo.com/news/articleView.html?idxno=363742550",
+     "t": "2026-11-15T16:50:00+09:00",
+     "by": "joongboo.com"
+    },
+    {
+     "title": "‘빚내서’ 버티는 경기도…‘기후행동 기회소득’은 폐지 [오상도의 경...",
+     "link": "https://www.segye.com/newsView/20261115508302?OutUrl=naver",
+     "t": "2026-11-15T16:20:00+09:00",
+     "by": "segye.com"
+    }
+   ]
+  },
+  {
+   "name": "사이버캡",
+   "count": 22,
+   "items": [
+    {
+     "title": "핸들도, 페달도 없다… 국내 상륙한 테슬라 사이버캡 보니 [CarTalk]",
+     "link": "https://www.hankookilbo.com/news/article/A2026111515490000183?did=NA",
+     "t": "2026-11-15T18:31:00+09:00",
+     "by": "hankookilbo.com"
+    },
     {
      "title": "테슬라(TSLA) 사이버캡 2만 9,990달러, 월 299달러 구독 끊기면 못 달린다",
      "link": "http://coinreaders.com/270411",
@@ -172,12 +178,6 @@
      "link": "https://www.yna.co.kr/view/PYH20261115004900089?input=1196m",
      "t": "2026-11-15T14:46:00+09:00",
      "by": "yna.co.kr"
-    },
-    {
-     "title": "테슬라, 운전대 없는 '사이버캡' 일반 판매…월 구독료만 40만원",
-     "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000082796",
-     "t": "2026-11-15T13:43:00+09:00",
-     "by": "jnilbo.com"
     }
    ]
   },
@@ -221,8 +221,14 @@
  "moto": [
   {
    "name": "이륜차",
-   "count": 23,
+   "count": 24,
    "items": [
+    {
+     "title": "경기도, 체납자 이륜차 전수조사로 9억1000만원 징수",
+     "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2492602",
+     "t": "2026-11-15T18:34:00+09:00",
+     "by": "enewstoday.co.kr"
+    },
     {
      "title": "체납자 이륜차 1097대 조사…밀린 세금 9억 원 징수",
      "link": "https://news-s.kr/view.html?id=L261115175327e41f",
@@ -246,12 +252,6 @@
      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082699",
      "t": "2026-11-15T15:32:00+09:00",
      "by": "newsclaim.co.kr"
-    },
-    {
-     "title": "대구시, 내달 2일까지 이륜차 불법 운행 합동 단속",
-     "link": "https://www.dkilbo.com/news/articleView.html?idxno=560741",
-     "t": "2026-11-15T15:00:00+09:00",
-     "by": "dkilbo.com"
     }
    ]
   },

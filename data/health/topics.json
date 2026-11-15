@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:39:51.251541+09:00",
+ "updated": "2026-11-16T07:10:52.887574+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -47,13 +47,19 @@
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 19,
+   "count": 20,
    "angles": [
     "먹는 법",
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "“매끼 살코기·생선·달걀·두부 등 단백질 섭취 …근육량 중요”",
+     "link": "http://www.kwangju.co.kr/article.php?aid=1794780000805358025",
+     "t": "2026-11-16T07:04:00+09:00",
+     "by": "kwangju.co.kr"
+    },
     {
      "title": "단백질 많이 먹으면 오래 살 줄 알았는데…350편 연구 분석한 결과",
      "link": "http://weekly.chosun.com/news/articleView.html?idxno=57111",
@@ -77,12 +83,6 @@
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625207",
      "t": "2026-11-14T14:38:00+09:00",
      "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "콩팥병 식사관리, 단백질 제한 신중해야",
-     "link": "http://www.fsnews.co.kr/news/articleView.html?idxno=62653",
-     "t": "2026-11-14T12:30:00+09:00",
-     "by": "fsnews.co.kr"
     }
    ]
   },
@@ -414,6 +414,46 @@
    ]
   },
   {
+   "name": "수면",
+   "kind": "운동·생활",
+   "count": 8,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "“수면 리듬을 바로잡는 핵심은 기상 시간에 있어요”",
+     "link": "https://woman.donga.com/3/all/12/6455056/1",
+     "t": "2026-11-16T07:02:00+09:00",
+     "by": "woman.donga.com"
+    },
+    {
+     "title": "부모의 수면과 ADHD 증상이 아동 수면 문제에 직접적 영향",
+     "link": "http://www.psychiatricnews.net/news/articleView.html?idxno=36796",
+     "t": "2026-11-15T08:00:00+09:00",
+     "by": "psychiatricnews.net"
+    },
+    {
+     "title": "나이 들수록 수면 중 뇌 노폐물 배출 기능 저하…치매 발생과 연관 가능...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625256",
+     "t": "2026-11-14T21:46:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "‘라이브 논란’ 리센느 미나미 “많아야 1시간 자”⋯수면 부족이 무서...",
+     "link": "https://kormedi.com/?p=2904902",
+     "t": "2026-11-14T21:06:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "잠들 때 몸이 '움찔'…잦은 수면 경련, '이 것' 때문이다",
+     "link": "https://view.asiae.co.kr/article/2026111410454120459",
+     "t": "2026-11-14T10:51:00+09:00",
+     "by": "view.asiae.co.kr"
+    }
+   ]
+  },
+  {
    "name": "우유",
    "kind": "식품·제철",
    "count": 8,
@@ -490,46 +530,6 @@
      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1424967",
      "t": "2026-11-14T15:00:00+09:00",
      "by": "daily.hankooki.com"
-    }
-   ]
-  },
-  {
-   "name": "수면",
-   "kind": "운동·생활",
-   "count": 7,
-   "angles": [
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "부모의 수면과 ADHD 증상이 아동 수면 문제에 직접적 영향",
-     "link": "http://www.psychiatricnews.net/news/articleView.html?idxno=36796",
-     "t": "2026-11-15T08:00:00+09:00",
-     "by": "psychiatricnews.net"
-    },
-    {
-     "title": "나이 들수록 수면 중 뇌 노폐물 배출 기능 저하…치매 발생과 연관 가능...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625256",
-     "t": "2026-11-14T21:46:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "‘라이브 논란’ 리센느 미나미 “많아야 1시간 자”⋯수면 부족이 무서...",
-     "link": "https://kormedi.com/?p=2904902",
-     "t": "2026-11-14T21:06:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "잠들 때 몸이 '움찔'…잦은 수면 경련, '이 것' 때문이다",
-     "link": "https://view.asiae.co.kr/article/2026111410454120459",
-     "t": "2026-11-14T10:51:00+09:00",
-     "by": "view.asiae.co.kr"
-    },
-    {
-     "title": "불안·우울 완화에 도움 되는 7가지 생활습관… 운동 ·수면·명상 중요",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625041",
-     "t": "2026-11-13T13:06:00+09:00",
-     "by": "mdtoday.co.kr"
     }
    ]
   },

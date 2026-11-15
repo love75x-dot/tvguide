@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-15T10:45:44.157477+09:00",
+ "updated": "2026-11-15T11:10:35.980133+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 52,
+   "count": 50,
    "angles": [
     "부작용",
     "에 좋은",
@@ -47,7 +47,7 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 24,
+   "count": 22,
    "angles": [
     "부작용"
    ],
@@ -170,7 +170,7 @@
   {
    "name": "폐렴",
    "kind": "질환·증상",
-   "count": 18,
+   "count": 17,
    "angles": [
     "부작용",
     "에 좋은"
@@ -253,7 +253,7 @@
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 14,
+   "count": 13,
    "angles": [
     "부작용",
     "에 좋은"
@@ -335,7 +335,7 @@
   {
    "name": "수면",
    "kind": "운동·생활",
-   "count": 11,
+   "count": 10,
    "angles": [
     "에 좋은"
    ],
@@ -375,7 +375,7 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 10,
+   "count": 9,
    "angles": [
     "에 좋은",
     "효능",
@@ -417,7 +417,7 @@
   {
    "name": "유산균",
    "kind": "영양제",
-   "count": 9,
+   "count": 8,
    "angles": [],
    "items": [
     {
@@ -535,47 +535,6 @@
    ]
   },
   {
-   "name": "염증",
-   "kind": "질환·증상",
-   "count": 6,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "콜라 매일 마셨는데…염증 고위험군 가능성 3.1배",
-     "link": "https://www.segye.com/newsView/20261115500583?OutUrl=naver",
-     "t": "2026-11-15T05:02:00+09:00",
-     "by": "segye.com"
-    },
-    {
-     "title": "\"나도 모르게 쌓인 '만성 염증'이 뇌졸중 부른다…혈액검사로 예방 해야...",
-     "link": "https://www.newsis.com/view/NISX20261113_0003867534",
-     "t": "2026-11-15T03:23:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "비타민 D, 독감 감염 시 폐 염증 조절에 중요한 역할…동물실험서 확인",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625255",
-     "t": "2026-11-14T21:44:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "저탄고지 식단도 지방 종류가 중요…장쇄 포화지방산, 염증 반응 촉진",
-     "link": "https://www.segye.com/newsView/20261114503647?OutUrl=naver",
-     "t": "2026-11-14T10:23:00+09:00",
-     "by": "segye.com"
-    },
-    {
-     "title": "식사 때 생강-양파, 후식으로 사과…염증에 변화가?",
-     "link": "https://kormedi.com/?p=2904095",
-     "t": "2026-11-12T19:02:00+09:00",
-     "by": "kormedi.com"
-    }
-   ]
-  },
-  {
    "name": "우유",
    "kind": "식품·제철",
    "count": 6,
@@ -659,6 +618,47 @@
    ]
   },
   {
+   "name": "염증",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "콜라 매일 마셨는데…염증 고위험군 가능성 3.1배",
+     "link": "https://www.segye.com/newsView/20261115500583?OutUrl=naver",
+     "t": "2026-11-15T05:02:00+09:00",
+     "by": "segye.com"
+    },
+    {
+     "title": "\"나도 모르게 쌓인 '만성 염증'이 뇌졸중 부른다…혈액검사로 예방 해야...",
+     "link": "https://www.newsis.com/view/NISX20261113_0003867534",
+     "t": "2026-11-15T03:23:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "비타민 D, 독감 감염 시 폐 염증 조절에 중요한 역할…동물실험서 확인",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625255",
+     "t": "2026-11-14T21:44:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "저탄고지 식단도 지방 종류가 중요…장쇄 포화지방산, 염증 반응 촉진",
+     "link": "https://www.segye.com/newsView/20261114503647?OutUrl=naver",
+     "t": "2026-11-14T10:23:00+09:00",
+     "by": "segye.com"
+    },
+    {
+     "title": "식사 때 생강-양파, 후식으로 사과…염증에 변화가?",
+     "link": "https://kormedi.com/?p=2904095",
+     "t": "2026-11-12T19:02:00+09:00",
+     "by": "kormedi.com"
+    }
+   ]
+  },
+  {
    "name": "홍삼",
    "kind": "영양제",
    "count": 5,
@@ -693,40 +693,6 @@
      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=513635",
      "t": "2026-11-12T11:24:00+09:00",
      "by": "newsworker.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "걷기",
-   "kind": "운동·생활",
-   "count": 4,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "[박명윤 건강칼럼] 하루 10분 걷기의 기적…건강을 지키는 6단계 운동 법",
-     "link": "http://kor.theasian.asia/archives/421717",
-     "t": "2026-11-15T08:08:00+09:00",
-     "by": "kor.theasian.asia"
-    },
-    {
-     "title": "“걷기와 근력운동만으론 부족”…뼈 더 튼튼하게 만드는 운동 따로 있...",
-     "link": "https://kormedi.com/?p=2904571",
-     "t": "2026-11-14T08:06:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "헥토그룹, 임직원 840명 걷기 챌린지…소아암 아동 치료비 2500만원 지원",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213455",
-     "t": "2026-11-12T16:07:00+09:00",
-     "by": "thefirstmedia.net"
-    },
-    {
-     "title": "헥토그룹 임직원 840명, 하루 8000보 걷기 도전…소아암 아동 치료비 기...",
-     "link": "https://www.e-science.co.kr/news/articleView.html?idxno=139578",
-     "t": "2026-11-12T10:48:00+09:00",
-     "by": "e-science.co.kr"
     }
    ]
   },
@@ -833,6 +799,34 @@
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/12/2026111202879.html",
      "t": "2026-11-12T17:31:00+09:00",
      "by": "health.chosun.com"
+    }
+   ]
+  },
+  {
+   "name": "걷기",
+   "kind": "운동·생활",
+   "count": 3,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "[박명윤 건강칼럼] 하루 10분 걷기의 기적…건강을 지키는 6단계 운동 법",
+     "link": "http://kor.theasian.asia/archives/421717",
+     "t": "2026-11-15T08:08:00+09:00",
+     "by": "kor.theasian.asia"
+    },
+    {
+     "title": "“걷기와 근력운동만으론 부족”…뼈 더 튼튼하게 만드는 운동 따로 있...",
+     "link": "https://kormedi.com/?p=2904571",
+     "t": "2026-11-14T08:06:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "헥토그룹, 임직원 840명 걷기 챌린지…소아암 아동 치료비 2500만원 지원",
+     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213455",
+     "t": "2026-11-12T16:07:00+09:00",
+     "by": "thefirstmedia.net"
     }
    ]
   },

@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-16T23:10:46.732714+09:00",
+ "updated": "2026-11-17T00:08:28.672300+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 42,
+   "count": 41,
    "angles": [
     "효능",
     "에 좋은",
@@ -88,13 +88,19 @@
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 12,
+   "count": 13,
    "angles": [
     "효능",
     "먹는 법",
     "부작용"
    ],
    "items": [
+    {
+     "title": "트와이스 나연, “밤 11시에 훠궈 먹으러 왔다”… 다이어트 중 훠궈 먹...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/16/2026111602482.html",
+     "t": "2026-11-16T23:31:00+09:00",
+     "by": "health.chosun.com"
+    },
     {
      "title": "“6개월 동안 19kg뺐다” 웨인 루니, 다이어트 위해 끊은 ‘딱 한 가지’",
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/16/2026111601770.html",
@@ -118,12 +124,6 @@
      "link": "https://www.dailyt.co.kr/newsView/dlt202611150022",
      "t": "2026-11-15T21:32:00+09:00",
      "by": "dailyt.co.kr"
-    },
-    {
-     "title": "최예나, 순백 드레스로 우아한 매력…'1일 1식' 다이어트 눈길",
-     "link": "https://www.newsis.com/view/NISX20261115_0003868381",
-     "t": "2026-11-15T11:32:00+09:00",
-     "by": "newsis.com"
     }
    ]
   },
@@ -247,47 +247,6 @@
    ]
   },
   {
-   "name": "단백질",
-   "kind": "영양제",
-   "count": 10,
-   "angles": [
-    "먹는 법",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "당뇨병콩팥병 환자의 신장 섬유화 반영하는 혈액 단백질 신호 발굴",
-     "link": "http://www.doctorstimes.com/news/articleView.html?idxno=241079",
-     "t": "2026-11-16T14:06:00+09:00",
-     "by": "doctorstimes.com"
-    },
-    {
-     "title": "“단백질 풍부하다” 11kg 뺀 신봉선이 먹는 ‘겨울에 제격인 안주’",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/16/2026111601251.html",
-     "t": "2026-11-16T13:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "혈당 관리에 좋고 단백질도 풍부하다… 의사가 마트에서 꼭 산다는 '식...",
-     "link": "https://www.wikitree.co.kr/articles/1174910",
-     "t": "2026-11-16T12:02:00+09:00",
-     "by": "wikitree.co.kr"
-    },
-    {
-     "title": "[약식동원] 콩에서 얻은 단백질 공급원, 대두단백",
-     "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=335232",
-     "t": "2026-11-16T08:06:00+09:00",
-     "by": "yakup.com"
-    },
-    {
-     "title": "“매끼 살코기·생선·달걀·두부 등 단백질 섭취 …근육량 중요”",
-     "link": "http://www.kwangju.co.kr/article.php?aid=1794780000805358025",
-     "t": "2026-11-16T07:04:00+09:00",
-     "by": "kwangju.co.kr"
-    }
-   ]
-  },
-  {
    "name": "당뇨",
    "kind": "질환·증상",
    "count": 10,
@@ -324,6 +283,46 @@
      "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171854&ref=naverpc",
      "t": "2026-11-16T10:56:00+09:00",
      "by": "medicaltimes.com"
+    }
+   ]
+  },
+  {
+   "name": "단백질",
+   "kind": "영양제",
+   "count": 9,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "당뇨병콩팥병 환자의 신장 섬유화 반영하는 혈액 단백질 신호 발굴",
+     "link": "http://www.doctorstimes.com/news/articleView.html?idxno=241079",
+     "t": "2026-11-16T14:06:00+09:00",
+     "by": "doctorstimes.com"
+    },
+    {
+     "title": "“단백질 풍부하다” 11kg 뺀 신봉선이 먹는 ‘겨울에 제격인 안주’",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/16/2026111601251.html",
+     "t": "2026-11-16T13:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "혈당 관리에 좋고 단백질도 풍부하다… 의사가 마트에서 꼭 산다는 '식...",
+     "link": "https://www.wikitree.co.kr/articles/1174910",
+     "t": "2026-11-16T12:02:00+09:00",
+     "by": "wikitree.co.kr"
+    },
+    {
+     "title": "[약식동원] 콩에서 얻은 단백질 공급원, 대두단백",
+     "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=335232",
+     "t": "2026-11-16T08:06:00+09:00",
+     "by": "yakup.com"
+    },
+    {
+     "title": "단백질, 많이 먹을수록 좋을까…과하면 몸에서 벌어지는 일",
+     "link": "https://lady.khan.co.kr/khlady.html?mode=view&artid=202611150800031&code=9",
+     "t": "2026-11-15T08:00:00+09:00",
+     "by": "lady.khan.co.kr"
     }
    ]
   },

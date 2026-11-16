@@ -1,17 +1,29 @@
 {
- "updated": "2026-11-16T09:08:27.990534+09:00",
+ "updated": "2026-11-16T10:08:32.685877+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 50,
+   "count": 49,
    "angles": [
-    "부작용",
     "효능",
+    "부작용",
     "먹는 법",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "GLP-1 치료 뒤 혈당 더 낮아진 환자들…유전변이와 관련",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=01738406645646376&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-16T10:04:00+09:00",
+     "by": "edaily.co.kr"
+    },
+    {
+     "title": "동아시아인 40% 보유 유전변이 있으면 GLP-1 혈당 강하 효과 커",
+     "link": "http://www.whosaeng.com/175326",
+     "t": "2026-11-16T09:20:00+09:00",
+     "by": "whosaeng.com"
+    },
     {
      "title": "동아시아인 40% 보유한 유전변이, GLP-1 혈당 감소 효과 더 좋아",
      "link": "https://www.monews.co.kr/news/articleView.html?idxno=415451",
@@ -29,25 +41,13 @@
      "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3016456",
      "t": "2026-11-16T08:12:00+09:00",
      "by": "bosa.co.kr"
-    },
-    {
-     "title": "\"GLP-1 당뇨병 치료제, 유전변이 있으면 혈당 더 잘 떨어져\"",
-     "link": "https://view.asiae.co.kr/article/2026111608081275546",
-     "t": "2026-11-16T08:08:00+09:00",
-     "by": "view.asiae.co.kr"
-    },
-    {
-     "title": "[인터뷰H] 혈당 흐름 읽는 CGM, 의식 잃은 환자 구했다",
-     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80933",
-     "t": "2026-11-16T08:00:00+09:00",
-     "by": "mkhealth.co.kr"
     }
    ]
   },
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 21,
+   "count": 18,
    "angles": [
     "먹는 법",
     "에 좋은",
@@ -101,6 +101,12 @@
      "by": "ytn.co.kr"
     },
     {
+     "title": "감기 걸렸는데 귀가 안 들린다는 아이? '중이염 주의보'",
+     "link": "https://www.ytn.co.kr/_ln/0103_202611160649102460",
+     "t": "2026-11-16T06:49:00+09:00",
+     "by": "ytn.co.kr"
+    },
+    {
      "title": "“감기 달고 사는 이유, 드디어 알았다”… 집 오자마자 해야 할 것 있어",
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111302023.html",
      "t": "2026-11-15T20:01:00+09:00",
@@ -117,19 +123,55 @@
      "link": "https://www.rapportian.com/news/articleView.html?idxno=242452",
      "t": "2026-11-15T19:26:00+09:00",
      "by": "rapportian.com"
+    }
+   ]
+  },
+  {
+   "name": "다이어트",
+   "kind": "운동·생활",
+   "count": 17,
+   "angles": [
+    "효능",
+    "먹는 법",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "겨울철 다이어트 한약 처방, 먹는 약과 앓는 병 확인하는 '대면 진료'가...",
+     "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=319000",
+     "t": "2026-11-16T09:58:00+09:00",
+     "by": "mediaus.co.kr"
     },
     {
-     "title": "동국제약, 감기 증상별 약 선택법 소개",
-     "link": "http://www.bizwnews.com/news/articleView.html?idxno=151837",
-     "t": "2026-11-15T13:24:00+09:00",
-     "by": "bizwnews.com"
+     "title": "“다이어트 효과 컸다”… 17kg 감량 김민하가 공개한 ‘초간단 운동’",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111301649.html",
+     "t": "2026-11-16T03:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "10시간짜리 AI 공부, 3시간으로…KAIST, 'GPU 다이어트 ' 기술 개발",
+     "link": "https://www.dailyt.co.kr/newsView/dlt202611150022",
+     "t": "2026-11-15T21:32:00+09:00",
+     "by": "dailyt.co.kr"
+    },
+    {
+     "title": "최예나, 순백 드레스로 우아한 매력…'1일 1식' 다이어트 눈길",
+     "link": "https://www.newsis.com/view/NISX20261115_0003868381",
+     "t": "2026-11-15T11:32:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "우리은행, 폐전자제품 8만kg 모아 '탄소 다이어트 '…임직원 기부로 자원...",
+     "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=67740",
+     "t": "2026-11-15T09:00:00+09:00",
+     "by": "newsroad.co.kr"
     }
    ]
   },
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 17,
+   "count": 16,
    "angles": [
     "부작용"
    ],
@@ -167,56 +209,20 @@
    ]
   },
   {
-   "name": "다이어트",
-   "kind": "운동·생활",
-   "count": 16,
-   "angles": [
-    "효능",
-    "먹는 법",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "“다이어트 효과 컸다”… 17kg 감량 김민하가 공개한 ‘초간단 운동’",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111301649.html",
-     "t": "2026-11-16T03:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "10시간짜리 AI 공부, 3시간으로…KAIST, 'GPU 다이어트 ' 기술 개발",
-     "link": "https://www.dailyt.co.kr/newsView/dlt202611150022",
-     "t": "2026-11-15T21:32:00+09:00",
-     "by": "dailyt.co.kr"
-    },
-    {
-     "title": "최예나, 순백 드레스로 우아한 매력…'1일 1식' 다이어트 눈길",
-     "link": "https://www.newsis.com/view/NISX20261115_0003868381",
-     "t": "2026-11-15T11:32:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "우리은행, 폐전자제품 8만kg 모아 '탄소 다이어트 '…임직원 기부로 자원...",
-     "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=67740",
-     "t": "2026-11-15T09:00:00+09:00",
-     "by": "newsroad.co.kr"
-    },
-    {
-     "title": "“다이어트에 딱 좋다”… 16kg 감량 홍현희가 고기 싸 먹은 채소",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111301659.html",
-     "t": "2026-11-14T20:01:00+09:00",
-     "by": "health.chosun.com"
-    }
-   ]
-  },
-  {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 13,
+   "count": 14,
    "angles": [
     "부작용",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "폐경기 혈액 검사로 \"치매 위험\" 예측 가능",
+     "link": "http://www.whosaeng.com/175332",
+     "t": "2026-11-16T09:52:00+09:00",
+     "by": "whosaeng.com"
+    },
     {
      "title": "[제약 ESG 코드] SK케미칼, 치매 예방 부터 생산환경까지 ESG 보폭 넓혀",
      "link": "https://www.g-enews.com/view.php?ud=202611131624575980b065b72042_1",
@@ -240,24 +246,30 @@
      "link": "http://weekly.chosun.com/news/articleView.html?idxno=57114",
      "t": "2026-11-15T00:30:00+09:00",
      "by": "weekly.chosun.com"
-    },
-    {
-     "title": "나이 들수록 수면 중 뇌 노폐물 배출 기능 저하…치매 발생과 연관 가능...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625256",
-     "t": "2026-11-14T21:46:00+09:00",
-     "by": "mdtoday.co.kr"
     }
    ]
   },
   {
    "name": "당뇨",
    "kind": "질환·증상",
-   "count": 10,
+   "count": 12,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "삼천당제약, 소아ㆍ청소년 당뇨 환아에 장학금 5000만원 전달",
+     "link": "https://www.etoday.co.kr/news/view/2648520",
+     "t": "2026-11-16T10:00:00+09:00",
+     "by": "etoday.co.kr"
+    },
+    {
+     "title": "삼천당제약, 당뇨 치료 부담 낮추는 '투트랙'…신약 개발·환아 지원 병...",
+     "link": "https://www.fnnews.com/news/202611160948091978",
+     "t": "2026-11-16T09:52:00+09:00",
+     "by": "fnnews.com"
+    },
     {
      "title": "삼천포서울병원, 제11회 세계 당뇨의 날 기념 당뇨 무료검사 및 상담",
      "link": "https://www.newsgn.com/news/articleView.html?idxno=585488",
@@ -275,30 +287,62 @@
      "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261113",
      "t": "2026-11-14T08:28:00+09:00",
      "by": "womaneconomy.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "유산균",
+   "kind": "영양제",
+   "count": 10,
+   "angles": [],
+   "items": [
+    {
+     "title": "아시아 유산균 국제학술대회, 2027년 제주 개최 확정",
+     "link": "https://www.newsjeju.net/news/articleView.html?idxno=428437",
+     "t": "2026-11-16T10:06:00+09:00",
+     "by": "newsjeju.net"
     },
     {
-     "title": "당뇨·고혈압 환자와 흡연자, 임플란트 수술 전 건강 상태 점검이 우선",
-     "link": "https://www.ziksir.com/news/articleView.html?idxno=153275",
-     "t": "2026-11-13T15:52:00+09:00",
-     "by": "ziksir.com"
+     "title": "[비즈 인사이트] 유산균 팔던 hy, 뇌·피부·간으로 영역 확장…56년 연...",
+     "link": "https://www.moneystorm.kr/news/articleView.html?idxno=8449",
+     "t": "2026-11-16T09:40:00+09:00",
+     "by": "moneystorm.kr"
     },
     {
-     "title": "위고비·마운자로, 누구에게 도움이 될까요? — 당뇨·비만 신약 바로 알...",
-     "link": "http://aftertherain.kr/sub/contents/view.php?seq=98365",
-     "t": "2026-11-13T14:30:00+09:00",
-     "by": "aftertherain.kr"
+     "title": "30년 유산균 외길 쎌바이오텍…덴마크 넘어 대장암 신약 도전[문대현의...",
+     "link": "https://www.news1.kr/bio/pharmaceutical-bio/6353412",
+     "t": "2026-11-16T06:00:00+09:00",
+     "by": "news1.kr"
+    },
+    {
+     "title": "휴온스엔, ‘메노락토 오리진’ 15일 GS SHOP 특별방송…갱년기 유산균...",
+     "link": "http://www.segyebiz.com/newsView/20261113512249?OutUrl=naver",
+     "t": "2026-11-15T09:02:00+09:00",
+     "by": "segyebiz.com"
+    },
+    {
+     "title": "반려견과 달리고 유산균 먹이고…1500만 반려인 잡는 펫 헬스케어 경쟁",
+     "link": "https://www.segye.com/newsView/20261115501611?OutUrl=naver",
+     "t": "2026-11-15T08:52:00+09:00",
+     "by": "segye.com"
     }
    ]
   },
   {
    "name": "폐렴",
    "kind": "질환·증상",
-   "count": 10,
+   "count": 9,
    "angles": [
     "부작용",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "감기인 줄 알았는데 폐렴?…고령자는 열·기침 없어도 위험",
+     "link": "https://www.sisajournal.com/news/articleView.html?idxno=394055",
+     "t": "2026-11-16T09:12:00+09:00",
+     "by": "sisajournal.com"
+    },
     {
      "title": "고령자 사망원인 2위 '폐렴', 감기와 다른 점은?",
      "link": "https://www.sportschosun.com/life/2026-11-15/202611150100098470009168",
@@ -322,19 +366,13 @@
      "link": "http://www.ggmedinews.com/news/articleView.html?idxno=7029",
      "t": "2026-11-14T09:10:00+09:00",
      "by": "ggmedinews.com"
-    },
-    {
-     "title": "고령자 사망원인 2위 '폐렴', 겨울철 감기와 혼동 주의",
-     "link": "https://www.getnews.co.kr/news/articleView.html?idxno=887166",
-     "t": "2026-11-13T22:16:00+09:00",
-     "by": "getnews.co.kr"
     }
    ]
   },
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 10,
+   "count": 9,
    "angles": [
     "에 좋은",
     "효능",
@@ -422,6 +460,12 @@
    ],
    "items": [
     {
+     "title": "숙박에 건강 식·수면 키트까지…카시아 속초, 겨울 웰니스 상품 운영",
+     "link": "https://biz.heraldcorp.com/article/10938061?ref=naver",
+     "t": "2026-11-16T09:24:00+09:00",
+     "by": "biz.heraldcorp.com"
+    },
+    {
      "title": "“수면 리듬을 바로잡는 핵심은 기상 시간에 있어요”",
      "link": "https://woman.donga.com/3/all/12/6455056/1",
      "t": "2026-11-16T07:02:00+09:00",
@@ -444,19 +488,13 @@
      "link": "https://kormedi.com/?p=2904902",
      "t": "2026-11-14T21:06:00+09:00",
      "by": "kormedi.com"
-    },
-    {
-     "title": "잠들 때 몸이 '움찔'…잦은 수면 경련, '이 것' 때문이다",
-     "link": "https://view.asiae.co.kr/article/2026111410454120459",
-     "t": "2026-11-14T10:51:00+09:00",
-     "by": "view.asiae.co.kr"
     }
    ]
   },
   {
    "name": "우유",
    "kind": "식품·제철",
-   "count": 8,
+   "count": 7,
    "angles": [
     "먹는 법",
     "부작용",
@@ -492,44 +530,6 @@
      "link": "https://www.sportschosun.com/life/2026-11-13/202611130100090770008584",
      "t": "2026-11-13T10:31:00+09:00",
      "by": "sportschosun.com"
-    }
-   ]
-  },
-  {
-   "name": "유산균",
-   "kind": "영양제",
-   "count": 8,
-   "angles": [],
-   "items": [
-    {
-     "title": "30년 유산균 외길 쎌바이오텍…덴마크 넘어 대장암 신약 도전[문대현의...",
-     "link": "https://www.news1.kr/bio/pharmaceutical-bio/6353412",
-     "t": "2026-11-16T06:00:00+09:00",
-     "by": "news1.kr"
-    },
-    {
-     "title": "휴온스엔, ‘메노락토 오리진’ 15일 GS SHOP 특별방송…갱년기 유산균...",
-     "link": "http://www.segyebiz.com/newsView/20261113512249?OutUrl=naver",
-     "t": "2026-11-15T09:02:00+09:00",
-     "by": "segyebiz.com"
-    },
-    {
-     "title": "반려견과 달리고 유산균 먹이고…1500만 반려인 잡는 펫 헬스케어 경쟁",
-     "link": "https://www.segye.com/newsView/20261115501611?OutUrl=naver",
-     "t": "2026-11-15T08:52:00+09:00",
-     "by": "segye.com"
-    },
-    {
-     "title": "유산균 먹고 남은 통은 버리지 말고 서랍에 넣어 두세요… 왜 이제 해봤...",
-     "link": "https://www.wikitree.co.kr/articles/1173810",
-     "t": "2026-11-15T08:40:00+09:00",
-     "by": "wikitree.co.kr"
-    },
-    {
-     "title": "발효유 넘어 화장품·펫푸드까지…hy, 유산균 기술로 사업 영토 넓힌다",
-     "link": "https://daily.hankooki.com/news/articleView.html?idxno=1424967",
-     "t": "2026-11-14T15:00:00+09:00",
-     "by": "daily.hankooki.com"
     }
    ]
   },
@@ -571,6 +571,47 @@
      "link": "https://www.vegannews.co.kr/news/article.html?no=404477",
      "t": "2026-11-13T16:04:00+09:00",
      "by": "vegannews.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "염증",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "[60초 보건정책] 약 먹고 숙면?…복용 직후 누우면 '식도 염증' 유발",
+     "link": "https://www.newspim.com/news/view/20261116000244",
+     "t": "2026-11-16T09:15:00+09:00",
+     "by": "newspim.com"
+    },
+    {
+     "title": "콜라 매일 마셨는데…염증 고위험군 가능성 3.1배",
+     "link": "https://www.segye.com/newsView/20261115500583?OutUrl=naver",
+     "t": "2026-11-15T05:02:00+09:00",
+     "by": "segye.com"
+    },
+    {
+     "title": "\"나도 모르게 쌓인 '만성 염증'이 뇌졸중 부른다…혈액검사로 예방 해야...",
+     "link": "https://www.newsis.com/view/NISX20261113_0003867534",
+     "t": "2026-11-15T03:23:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "비타민 D, 독감 감염 시 폐 염증 조절에 중요한 역할…동물실험서 확인",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625255",
+     "t": "2026-11-14T21:44:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "저탄고지 식단도 지방 종류가 중요…장쇄 포화지방산, 염증 반응 촉진",
+     "link": "https://www.segye.com/newsView/20261114503647?OutUrl=naver",
+     "t": "2026-11-14T10:23:00+09:00",
+     "by": "segye.com"
     }
    ]
   },
@@ -697,41 +738,6 @@
    ]
   },
   {
-   "name": "염증",
-   "kind": "질환·증상",
-   "count": 4,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "콜라 매일 마셨는데…염증 고위험군 가능성 3.1배",
-     "link": "https://www.segye.com/newsView/20261115500583?OutUrl=naver",
-     "t": "2026-11-15T05:02:00+09:00",
-     "by": "segye.com"
-    },
-    {
-     "title": "\"나도 모르게 쌓인 '만성 염증'이 뇌졸중 부른다…혈액검사로 예방 해야...",
-     "link": "https://www.newsis.com/view/NISX20261113_0003867534",
-     "t": "2026-11-15T03:23:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "비타민 D, 독감 감염 시 폐 염증 조절에 중요한 역할…동물실험서 확인",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625255",
-     "t": "2026-11-14T21:44:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "저탄고지 식단도 지방 종류가 중요…장쇄 포화지방산, 염증 반응 촉진",
-     "link": "https://www.segye.com/newsView/20261114503647?OutUrl=naver",
-     "t": "2026-11-14T10:23:00+09:00",
-     "by": "segye.com"
-    }
-   ]
-  },
-  {
    "name": "걷기",
    "kind": "운동·생활",
    "count": 3,
@@ -786,35 +792,6 @@
      "link": "https://www.insight.co.kr/news/581869",
      "t": "2026-11-13T10:28:00+09:00",
      "by": "insight.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "고혈압",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "부작용",
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "당뇨·고혈압 환자와 흡연자, 임플란트 수술 전 건강 상태 점검이 우선",
-     "link": "https://www.ziksir.com/news/articleView.html?idxno=153275",
-     "t": "2026-11-13T15:52:00+09:00",
-     "by": "ziksir.com"
-    },
-    {
-     "title": "안국약품, '레보살탄플러스' 임상 가치 조명…고혈압 3제 요법 제시",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=421730",
-     "t": "2026-11-13T09:28:00+09:00",
-     "by": "medipana.com"
-    },
-    {
-     "title": "생선 섭취 량 따라 \"임신성 고혈압\" 위험 줄어",
-     "link": "http://www.whosaeng.com/175301",
-     "t": "2026-11-13T09:22:00+09:00",
-     "by": "whosaeng.com"
     }
    ]
   },
@@ -1003,6 +980,26 @@
      "link": "https://www.ibabynews.com/news/articleView.html?idxno=156888",
      "t": "2026-11-13T12:02:00+09:00",
      "by": "ibabynews.com"
+    }
+   ]
+  },
+  {
+   "name": "폐암",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [],
+   "items": [
+    {
+     "title": "한국MSD, 키트루다 국내 폐암 허가 10주년 기념 사내 행사",
+     "link": "https://www.pharmnews.com/news/articleView.html?idxno=307981",
+     "t": "2026-11-16T10:02:00+09:00",
+     "by": "pharmnews.com"
+    },
+    {
+     "title": "폐암 치료 전 유전자 폭넓게 검사한 환자⋯생존기간 2개월 더 길어",
+     "link": "https://kormedi.com/?p=2904916",
+     "t": "2026-11-13T13:23:00+09:00",
+     "by": "kormedi.com"
     }
    ]
   },

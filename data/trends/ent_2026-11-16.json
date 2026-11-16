@@ -18,7 +18,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 1,
    "hours": [
     "00:08",
@@ -34,14 +34,15 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 37
+    "nate_int": 47
    },
    "count": 1,
    "inrank": true
@@ -84,7 +85,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 1,
    "hours": [
     "00:08",
@@ -100,15 +101,15 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 31
+    "nate_int": 40
    },
    "count": 4,
    "inrank": true
@@ -249,11 +250,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 49
-   },
+   "now": {},
    "count": 8,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c5",
@@ -279,7 +278,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 4,
    "hours": [
     "00:08",
@@ -295,14 +294,15 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 40
+    "nate_int": 46
    },
    "count": 2,
    "inrank": true
@@ -454,7 +454,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 2,
    "hours": [
     "00:08",
@@ -470,15 +470,16 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 15
+    "nate_pop": 22,
+    "nate_int": 18
    },
    "count": 14,
    "inrank": true
@@ -518,11 +519,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 47
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c9",
@@ -562,7 +561,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 8,
    "hours": [
     "00:08",
@@ -578,14 +577,16 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 39
+    "nate_pop": 27,
+    "nate_int": 29
    },
    "count": 4,
    "inrank": true
@@ -1033,7 +1034,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 8,
    "hours": [
     "00:08",
@@ -1049,14 +1050,15 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 33
+    "nate_int": 45
    },
    "count": 1,
    "inrank": true
@@ -1106,7 +1108,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 1,
    "hours": [
     "00:08",
@@ -1121,15 +1123,16 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 11
+    "nate_pop": 17,
+    "nate_int": 16
    },
    "count": 5,
    "inrank": true
@@ -1300,7 +1303,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 1,
    "hours": [
     "00:08",
@@ -1310,15 +1313,16 @@
     "04:10",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 1
+    "nate_pop": 5,
+    "nate_int": 5
    },
    "count": 7,
    "inrank": true
@@ -1386,7 +1390,7 @@
     }
    ],
    "first": "00:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 12,
    "hours": [
     "00:08",
@@ -1395,14 +1399,15 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 30
+    "nate_int": 35
    },
    "count": 3,
    "inrank": true
@@ -1490,12 +1495,14 @@
    "titles": [
     "31기 옥순, 영호 7장 입장문에 3장 해명문 \"'퐁퐁·취집' 억울, 주변 시선 ...",
     "[전문] 31기 영호, 옥순과 결별 직접 발표…무려 7장, \"옥순님께\" 편지까지...",
-    "'13kg 감량' 31기 옥순, 마운자로 부작용 고백…\"먹으면 토하는 수준\"..."
+    "'13kg 감량' 31기 옥순, 마운자로 부작용 고백…\"먹으면 토하는 수준\"...",
+    "강미나 맞아? '한달 13kg 감량' 얼마나 달라졌나…\"3주 내내 탄산수만 마..."
    ],
    "links": [
     "https://news.nate.com/view/20261115n07475",
     "https://news.nate.com/view/20261115n04483",
-    "https://news.nate.com/view/20261116n01319"
+    "https://news.nate.com/view/20261116n01319",
+    "https://news.nate.com/view/20261116n09298"
    ],
    "articles": [
     {
@@ -1512,10 +1519,15 @@
      "title": "'13kg 감량' 31기 옥순, 마운자로 부작용 고백…\"먹으면 토하는 수준\"...",
      "link": "https://news.nate.com/view/20261116n01319",
      "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "강미나 맞아? '한달 13kg 감량' 얼마나 달라졌나…\"3주 내내 탄산수만 마...",
+     "link": "https://news.nate.com/view/20261116n09298",
+     "media": "OSEN"
     }
    ],
    "first": "00:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 4,
    "hours": [
     "00:08",
@@ -1526,17 +1538,18 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 20
+    "nate_pop": 20,
+    "nate_int": 21
    },
-   "count": 3,
+   "count": 4,
    "inrank": true
   },
   {
@@ -1667,7 +1680,7 @@
     }
    ],
    "first": "01:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 1,
    "hours": [
     "01:08",
@@ -1682,15 +1695,16 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 23
+    "nate_pop": 30,
+    "nate_int": 38
    },
    "count": 1,
    "inrank": true
@@ -1767,20 +1781,20 @@
     }
    ],
    "first": "01:58",
-   "last": "11:08",
+   "last": "12:10",
    "best": 14,
    "hours": [
     "01:58",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 17
+    "nate_int": 24
    },
    "count": 3,
    "inrank": true
@@ -1802,7 +1816,7 @@
     }
    ],
    "first": "03:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 11,
    "hours": [
     "03:08",
@@ -1815,14 +1829,15 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 36
+    "nate_int": 42
    },
    "count": 1,
    "inrank": true
@@ -1844,7 +1859,7 @@
     }
    ],
    "first": "04:10",
-   "last": "11:08",
+   "last": "12:10",
    "best": 7,
    "hours": [
     "04:10",
@@ -1856,15 +1871,15 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 32
+    "nate_int": 39
    },
    "count": 1,
    "inrank": true
@@ -1976,11 +1991,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 3,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c42",
@@ -2029,7 +2042,7 @@
     }
    ],
    "first": "07:10",
-   "last": "11:08",
+   "last": "12:10",
    "best": 2,
    "hours": [
     "07:10",
@@ -2037,15 +2050,16 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 12
+    "nate_pop": 18,
+    "nate_int": 20
    },
    "count": 1,
    "inrank": true
@@ -2081,30 +2095,35 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 29
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c45",
    "title": "김준호, '만삭' 김지민 운전 시키다니…\"남편이 좀 하세요\" 쓴소리 쏟아져",
    "titles": [
-    "김준호, '만삭' 김지민 운전 시키다니…\"남편이 좀 하세요\" 쓴소리 쏟아져"
+    "김준호, '만삭' 김지민 운전 시키다니…\"남편이 좀 하세요\" 쓴소리 쏟아져",
+    "\"운전 좀 해라\"…김준호, '만삭' 김지민 운전시켜 뭇매 [소셜in]"
    ],
    "links": [
-    "https://news.nate.com/view/20261115n11791"
+    "https://news.nate.com/view/20261115n11791",
+    "https://news.nate.com/view/20261116n13864"
    ],
    "articles": [
     {
      "title": "김준호, '만삭' 김지민 운전 시키다니…\"남편이 좀 하세요\" 쓴소리 쏟아져",
      "link": "https://news.nate.com/view/20261115n11791",
      "media": "스포츠조선"
+    },
+    {
+     "title": "\"운전 좀 해라\"…김준호, '만삭' 김지민 운전시켜 뭇매 [소셜in]",
+     "link": "https://news.nate.com/view/20261116n13864",
+     "media": "iMBC연예"
     }
    ],
    "first": "07:10",
-   "last": "11:08",
+   "last": "12:10",
    "best": 7,
    "hours": [
     "07:10",
@@ -2112,16 +2131,18 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 41
+    "nate_pop": 11,
+    "nate_int": 13
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -2141,7 +2162,7 @@
     }
    ],
    "first": "07:10",
-   "last": "11:08",
+   "last": "12:10",
    "best": 9,
    "hours": [
     "07:10",
@@ -2149,15 +2170,15 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 27
+    "nate_int": 33
    },
    "count": 1,
    "inrank": true
@@ -2179,7 +2200,7 @@
     }
    ],
    "first": "07:10",
-   "last": "11:08",
+   "last": "12:10",
    "best": 15,
    "hours": [
     "07:10",
@@ -2187,15 +2208,15 @@
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 22
+    "nate_int": 36
    },
    "count": 1,
    "inrank": true
@@ -2279,22 +2300,22 @@
     }
    ],
    "first": "08:10",
-   "last": "11:08",
+   "last": "12:10",
    "best": 5,
    "hours": [
     "08:10",
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 16
+    "nate_int": 31
    },
    "count": 1,
    "inrank": true
@@ -2349,22 +2370,22 @@
     }
    ],
    "first": "08:10",
-   "last": "11:08",
+   "last": "12:10",
    "best": 9,
    "hours": [
     "08:10",
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 18
+    "nate_int": 32
    },
    "count": 1,
    "inrank": true
@@ -2386,22 +2407,23 @@
     }
    ],
    "first": "08:10",
-   "last": "11:08",
+   "last": "12:10",
    "best": 16,
    "hours": [
     "08:10",
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 24
+    "nate_pop": 21,
+    "nate_int": 26
    },
    "count": 1,
    "inrank": true
@@ -2484,22 +2506,23 @@
     }
    ],
    "first": "08:10",
-   "last": "11:08",
+   "last": "12:10",
    "best": 23,
    "hours": [
     "08:10",
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 26
+    "nate_pop": 24,
+    "nate_int": 28
    },
    "count": 1,
    "inrank": true
@@ -2559,21 +2582,22 @@
     }
    ],
    "first": "09:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 10,
    "hours": [
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 14
+    "nate_pop": 15,
+    "nate_int": 15
    },
    "count": 1,
    "inrank": true
@@ -2582,36 +2606,44 @@
    "id": "c59",
    "title": "[단독]'프라하 여행사 대표' 김지수, 2년 공백 깬다…'솔로라서2' 출연 확...",
    "titles": [
-    "[단독]'프라하 여행사 대표' 김지수, 2년 공백 깬다…'솔로라서2' 출연 확..."
+    "[단독]'프라하 여행사 대표' 김지수, 2년 공백 깬다…'솔로라서2' 출연 확...",
+    "'상습 음주운전' 김지수, 2년 만에 '국내 예능' 깜짝 복귀…'체코 CE..."
    ],
    "links": [
-    "https://news.nate.com/view/20261116n03828"
+    "https://news.nate.com/view/20261116n03828",
+    "https://news.nate.com/view/20261116n13200"
    ],
    "articles": [
     {
      "title": "[단독]'프라하 여행사 대표' 김지수, 2년 공백 깬다…'솔로라서2' 출연 확...",
      "link": "https://news.nate.com/view/20261116n03828",
      "media": "스포티비뉴스"
+    },
+    {
+     "title": "'상습 음주운전' 김지수, 2년 만에 '국내 예능' 깜짝 복귀…'체코 CE...",
+     "link": "https://news.nate.com/view/20261116n13200",
+     "media": "TV리포트"
     }
    ],
    "first": "09:08",
-   "last": "11:08",
-   "best": 11,
+   "last": "12:10",
+   "best": 3,
    "hours": [
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 21
+    "nate_pop": 3,
+    "nate_int": 3
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -2643,11 +2675,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 42
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c61",
@@ -2666,13 +2696,14 @@
     }
    ],
    "first": "09:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 25,
    "hours": [
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
@@ -2708,21 +2739,22 @@
     }
    ],
    "first": "09:08",
-   "last": "11:08",
-   "best": 26,
+   "last": "12:10",
+   "best": 23,
    "hours": [
     "09:08",
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 28
+    "nate_pop": 29,
+    "nate_int": 23
    },
    "count": 2,
    "inrank": true
@@ -2774,20 +2806,21 @@
     }
    ],
    "first": "10:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 2,
    "hours": [
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 3
+    "nate_pop": 6,
+    "nate_int": 6
    },
    "count": 1,
    "inrank": true
@@ -2816,20 +2849,21 @@
     }
    ],
    "first": "10:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 4,
    "hours": [
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 4
+    "nate_pop": 13,
+    "nate_int": 12
    },
    "count": 2,
    "inrank": true
@@ -2851,19 +2885,20 @@
     }
    ],
    "first": "10:08",
-   "last": "11:08",
+   "last": "12:10",
    "best": 7,
    "hours": [
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
+    "nate_pop": 7,
     "nate_int": 7
    },
    "count": 1,
@@ -2873,35 +2908,43 @@
    "id": "c67",
    "title": "[단독] '용감한 형사들', 돌연 녹화 중단 통보…시즌5 끝으로 종영?",
    "titles": [
-    "[단독] '용감한 형사들', 돌연 녹화 중단 통보…시즌5 끝으로 종영?"
+    "[단독] '용감한 형사들', 돌연 녹화 중단 통보…시즌5 끝으로 종영?",
+    "\"사람 불러 놓고 조롱?\"…스윙스, '놀토' 녹화 중단 사태 전말 [MHN:..."
    ],
    "links": [
-    "https://news.nate.com/view/20261116n07815"
+    "https://news.nate.com/view/20261116n07815",
+    "https://news.nate.com/view/20261116n12834"
    ],
    "articles": [
     {
      "title": "[단독] '용감한 형사들', 돌연 녹화 중단 통보…시즌5 끝으로 종영?",
      "link": "https://news.nate.com/view/20261116n07815",
      "media": "YTN"
+    },
+    {
+     "title": "\"사람 불러 놓고 조롱?\"…스윙스, '놀토' 녹화 중단 사태 전말 [MHN:...",
+     "link": "https://news.nate.com/view/20261116n12834",
+     "media": "MHN스포츠"
     }
    ],
    "first": "10:08",
-   "last": "11:08",
-   "best": 9,
+   "last": "12:10",
+   "best": 4,
    "hours": [
     "10:08",
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 13
+    "nate_pop": 4,
+    "nate_int": 4
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -2921,19 +2964,20 @@
     }
    ],
    "first": "10:53",
-   "last": "11:08",
-   "best": 2,
+   "last": "12:10",
+   "best": 1,
    "hours": [
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 2
+    "nate_pop": 2,
+    "nate_int": 1
    },
    "count": 1,
    "inrank": true
@@ -2955,19 +2999,20 @@
     }
    ],
    "first": "10:53",
-   "last": "11:08",
+   "last": "12:10",
    "best": 6,
    "hours": [
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 8
+    "nate_pop": 12,
+    "nate_int": 11
    },
    "count": 1,
    "inrank": true
@@ -2989,11 +3034,12 @@
     }
    ],
    "first": "10:53",
-   "last": "11:08",
+   "last": "12:10",
    "best": 9,
    "hours": [
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_pop",
@@ -3032,11 +3078,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 34
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c72",
@@ -3055,17 +3099,243 @@
     }
    ],
    "first": "10:53",
-   "last": "11:08",
-   "best": 45,
+   "last": "12:10",
+   "best": 41,
    "hours": [
     "10:53",
-    "11:08"
+    "11:08",
+    "12:10"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 45
+    "nate_int": 41
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c73",
+   "title": "[단독] 걸그룹♥︎야구선수 부부 탄생…연지, 강동연과 12월 결...",
+   "titles": [
+    "[단독] 걸그룹♥︎야구선수 부부 탄생…연지, 강동연과 12월 결..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261116n12405"
+   ],
+   "articles": [
+    {
+     "title": "[단독] 걸그룹♥︎야구선수 부부 탄생…연지, 강동연과 12월 결...",
+     "link": "https://news.nate.com/view/20261116n12405",
+     "media": "MHN스포츠"
+    }
+   ],
+   "first": "12:10",
+   "last": "12:10",
+   "best": 1,
+   "hours": [
+    "12:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 1,
+    "nate_int": 2
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c74",
+   "title": "박명수 \"연예인들 해외 나가 노는 예능 시청자 안 봐\" 소신발언(라디오쇼)",
+   "titles": [
+    "박명수 \"연예인들 해외 나가 노는 예능 시청자 안 봐\" 소신발언(라디오쇼)"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261116n14365"
+   ],
+   "articles": [
+    {
+     "title": "박명수 \"연예인들 해외 나가 노는 예능 시청자 안 봐\" 소신발언(라디오쇼)",
+     "link": "https://news.nate.com/view/20261116n14365",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "12:10",
+   "last": "12:10",
+   "best": 14,
+   "hours": [
+    "12:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 14,
+    "nate_int": 19
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c75",
+   "title": "김수미, 개코와 이혼 10개월 만에 파격 변신 \"겨울에 숏컷하는 사람 나밖에...",
+   "titles": [
+    "김수미, 개코와 이혼 10개월 만에 파격 변신 \"겨울에 숏컷하는 사람 나밖에..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261116n10335"
+   ],
+   "articles": [
+    {
+     "title": "김수미, 개코와 이혼 10개월 만에 파격 변신 \"겨울에 숏컷하는 사람 나밖에...",
+     "link": "https://news.nate.com/view/20261116n10335",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "12:10",
+   "last": "12:10",
+   "best": 14,
+   "hours": [
+    "12:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 16,
+    "nate_int": 14
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c76",
+   "title": "[공식]'매각 절차' JTBC, 결국 올림픽 중계 포기 \"불확실성 해소\"",
+   "titles": [
+    "[공식]'매각 절차' JTBC, 결국 올림픽 중계 포기 \"불확실성 해소\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261116n14084"
+   ],
+   "articles": [
+    {
+     "title": "[공식]'매각 절차' JTBC, 결국 올림픽 중계 포기 \"불확실성 해소\"",
+     "link": "https://news.nate.com/view/20261116n14084",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "12:10",
+   "last": "12:10",
+   "best": 19,
+   "hours": [
+    "12:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 19,
+    "nate_int": 25
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c77",
+   "title": "유호정·김남주 망신 다 시키네…이재룡·김승우, 술로 시끄러운 남편들 [...",
+   "titles": [
+    "유호정·김남주 망신 다 시키네…이재룡·김승우, 술로 시끄러운 남편들 [..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261116n11701"
+   ],
+   "articles": [
+    {
+     "title": "유호정·김남주 망신 다 시키네…이재룡·김승우, 술로 시끄러운 남편들 [...",
+     "link": "https://news.nate.com/view/20261116n11701",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "12:10",
+   "last": "12:10",
+   "best": 43,
+   "hours": [
+    "12:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 43
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c78",
+   "title": "명예영국인 \"영국서 임신, 한국과 달라 어려울 거라 생각\"",
+   "titles": [
+    "명예영국인 \"영국서 임신, 한국과 달라 어려울 거라 생각\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261116n12897"
+   ],
+   "articles": [
+    {
+     "title": "명예영국인 \"영국서 임신, 한국과 달라 어려울 거라 생각\"",
+     "link": "https://news.nate.com/view/20261116n12897",
+     "media": "스포츠경향"
+    }
+   ],
+   "first": "12:10",
+   "last": "12:10",
+   "best": 44,
+   "hours": [
+    "12:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 44
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c79",
+   "title": "'이 미모가 30대 중반?' 배우 박보영, 뉴욕서 포착된 방부제 동안 미모",
+   "titles": [
+    "'이 미모가 30대 중반?' 배우 박보영, 뉴욕서 포착된 방부제 동안 미모"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261116n04850"
+   ],
+   "articles": [
+    {
+     "title": "'이 미모가 30대 중반?' 배우 박보영, 뉴욕서 포착된 방부제 동안 미모",
+     "link": "https://news.nate.com/view/20261116n04850",
+     "media": "스포츠서울"
+    }
+   ],
+   "first": "12:10",
+   "last": "12:10",
+   "best": 48,
+   "hours": [
+    "12:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 48
    },
    "count": 1,
    "inrank": true
@@ -3183,9 +3453,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "12:10",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-16T11:08:39.334568+09:00",
+ "updated": "2026-11-16T12:10:46.251794+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

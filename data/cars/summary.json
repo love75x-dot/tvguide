@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-16T16:08:31.434772+09:00",
+ "updated": "2026-11-16T17:08:38.481942+09:00",
  "hot": [
   {
    "name": "X5",
-   "count": 12,
+   "count": 13,
    "prev": 0,
    "rise": 5,
    "moto": false,
    "why": [
-    "가격 공개",
-    "출시"
+    "출시",
+    "가격 공개"
    ]
   },
   {
@@ -23,20 +23,22 @@
    ]
   },
   {
-   "name": "EV3",
-   "count": 4,
-   "prev": 0,
-   "rise": 3,
-   "moto": false,
-   "why": []
-  },
-  {
    "name": "할리데이비슨",
    "count": 4,
    "prev": 1,
    "rise": -8,
    "moto": true,
    "why": []
+  },
+  {
+   "name": "투싼",
+   "count": 3,
+   "prev": 3,
+   "rise": -2,
+   "moto": false,
+   "why": [
+    "판매 1위"
+   ]
   },
   {
    "name": "아반떼",
@@ -49,25 +51,20 @@
    ]
   },
   {
-   "name": "쏘나타",
-   "count": 3,
-   "prev": 1,
-   "rise": -7,
+   "name": "EV3",
+   "count": 2,
+   "prev": 2,
+   "rise": 3,
    "moto": false,
-   "why": [
-    "판매 1위",
-    "중고차 시세"
-   ]
+   "why": []
   },
   {
-   "name": "투싼",
-   "count": 2,
-   "prev": 3,
-   "rise": -2,
+   "name": "스포티지",
+   "count": 1,
+   "prev": 0,
+   "rise": -8,
    "moto": false,
-   "why": [
-    "판매 1위"
-   ]
+   "why": []
   },
   {
    "name": "EV5",
@@ -78,10 +75,10 @@
    "why": []
   },
   {
-   "name": "그랜저",
+   "name": "쏘나타",
    "count": 1,
-   "prev": 2,
-   "rise": -1,
+   "prev": 1,
+   "rise": -7,
    "moto": false,
    "why": [
     "판매 1위",
@@ -89,10 +86,10 @@
    ]
   },
   {
-   "name": "K5",
+   "name": "그랜저",
    "count": 1,
-   "prev": 0,
-   "rise": -2,
+   "prev": 2,
+   "rise": -1,
    "moto": false,
    "why": [
     "판매 1위",

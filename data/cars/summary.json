@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-17T05:17:13.593542+09:00",
+ "updated": "2026-11-17T06:08:44.146805+09:00",
  "hot": [
   {
    "name": "X5",
-   "count": 11,
+   "count": 12,
    "prev": 0,
    "rise": -30,
    "moto": false,
@@ -13,12 +13,22 @@
   },
   {
    "name": "GV90",
-   "count": 7,
-   "prev": 11,
+   "count": 6,
+   "prev": 12,
    "rise": -53,
    "moto": false,
    "why": [
     "출시"
+   ]
+  },
+  {
+   "name": "투싼",
+   "count": 4,
+   "prev": 3,
+   "rise": -37,
+   "moto": false,
+   "why": [
+    "판매 1위"
    ]
   },
   {
@@ -30,14 +40,12 @@
    "why": []
   },
   {
-   "name": "투싼",
+   "name": "아반떼",
    "count": 3,
-   "prev": 3,
+   "prev": 7,
    "rise": -37,
    "moto": false,
-   "why": [
-    "판매 1위"
-   ]
+   "why": []
   },
   {
    "name": "사이버트럭",
@@ -76,14 +84,6 @@
    "count": 2,
    "prev": 2,
    "rise": -33,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "아반떼",
-   "count": 2,
-   "prev": 7,
-   "rise": -37,
    "moto": false,
    "why": []
   }

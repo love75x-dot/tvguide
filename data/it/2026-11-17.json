@@ -1,7 +1,574 @@
 {
  "date": "2026-11-17",
- "updated": "2026-11-17T07:08:39.610245+09:00",
+ "updated": "2026-11-17T08:13:43.839814+09:00",
  "articles": [
+  {
+   "title": "컴투스플랫폼, GIGDC 3년 연속후원...'백엔드 서비스 ' 전달",
+   "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883688",
+   "t": "2026-11-17T08:16:00+09:00",
+   "by": "hansbiz.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "인공지능 조력자 업은 카카오뱅크 AI 목표적금… 출시 한달만에 10만좌 돌...",
+   "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94416",
+   "t": "2026-11-17T08:14:00+09:00",
+   "by": "thefairnews.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "엔비디아 이사회, 젠슨 황 복귀 검토 안 해…트럼프·실리콘밸리는 지지...",
+   "link": "https://view.asiae.co.kr/article/2026111708131497808",
+   "t": "2026-11-17T08:13:00+09:00",
+   "by": "view.asiae.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "\"오늘 계좌 열기 무섭다\"...엔비디아 4%대 급락에 국장도 '비상'",
+   "link": "https://www.insight.co.kr/news/582312",
+   "t": "2026-11-17T08:12:00+09:00",
+   "by": "insight.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "\"페이스ID 아니다, 잠금해제만\"…애플, ' 아이폰 ' 듀오 얼굴인식 슬며시...",
+   "link": "https://www.ddaily.co.kr/page/view/2026111708104041802",
+   "t": "2026-11-17T08:11:00+09:00",
+   "by": "ddaily.co.kr",
+   "tags": [
+    "스마트폰",
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "美 최대 은행 체이스 서비스 장애 …최근 잇따른 IT사고에 불안 커져",
+   "link": "https://www.dt.co.kr/article/12095575?ref=naver",
+   "t": "2026-11-17T08:11:00+09:00",
+   "by": "dt.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "업스테이지, 캐나다 코히어와 손잡았다…소버린 AI 글로벌 공략",
+   "link": "https://www.dailian.co.kr/news/view/1715826/?sc=Naver",
+   "t": "2026-11-17T08:11:00+09:00",
+   "by": "dailian.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "MS, 팀즈·아웃룩 등 장애 촉발 원인 방치된 'SW 버그' 지목",
+   "link": "https://www.etnews.com/20261117000006",
+   "t": "2026-11-17T08:09:00+09:00",
+   "by": "etnews.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "아이폰 듀오 신규 주문 배송, 1월 25일에서 12월 16~23일로 한 달 앞당겨...",
+   "link": "https://www.wikitree.co.kr/articles/1175163",
+   "t": "2026-11-17T08:08:00+09:00",
+   "by": "wikitree.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "챗GPT에 기업 입점시킨 오픈 AI …네카오와 플랫폼 경쟁 예고",
+   "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445060",
+   "t": "2026-11-17T08:08:00+09:00",
+   "by": "einfomax.co.kr",
+   "tags": [
+    "AI·앱",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "미 FDA, 조현병·양극성 장애 초조 증상 치료제 '이갈미' 가정 내 사용 승...",
+   "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625598",
+   "t": "2026-11-17T08:08:00+09:00",
+   "by": "mdtoday.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "'글로벌 보안' 자랑하던 삼성 … 7만명 정보 털리자 \"보도 연기\"",
+   "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=247565",
+   "t": "2026-11-17T08:08:00+09:00",
+   "by": "safetimes.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "샘 올트먼, 삼성에 한 'AI칩 경고' 설명…앤트로픽 상장엔 \"걱정 안 해\"...",
+   "link": "https://www.mt.co.kr/tech/2026/11/17/2026111707223941490",
+   "t": "2026-11-17T08:08:00+09:00",
+   "by": "mt.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "\"젠슨 황 돌아오라\"⋯거물들 잇따라 엔비디아 복귀 지지",
+   "link": "https://www.etoday.co.kr/news/view/2648960",
+   "t": "2026-11-17T08:08:00+09:00",
+   "by": "etoday.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "암호 보안 권위자 “AI 방어에도 한계 있어...골키퍼 바꿔야”[김창영의...",
+   "link": "https://www.sedaily.com/article/20115173?ref=naver",
+   "t": "2026-11-17T08:07:00+09:00",
+   "by": "sedaily.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "홍콩 도심 3곳서 3色 크리스마스 행사~'윈터페스트' 개막",
+   "link": "https://www.slist.kr/news/articleView.html?idxno=782326",
+   "t": "2026-11-17T08:04:00+09:00",
+   "by": "slist.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "KH바텍, 폴더블폰 넘어 협동로봇·AI 데이터센터까지…\"신성장 축 이동...",
+   "link": "http://www.newsprime.co.kr/news/article.html?no=755186",
+   "t": "2026-11-17T08:02:00+09:00",
+   "by": "newsprime.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "美 기관, 3분기 데이터센터주서 발 뺐다…전력주 이탈 2배",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02191046645646704&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "t": "2026-11-17T08:02:00+09:00",
+   "by": "edaily.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[더벨][클러쉬 IPO] 국가 AI컴퓨팅센터 올라탔다…코스닥 입성 시동",
+   "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611130907502300101453",
+   "t": "2026-11-17T08:02:00+09:00",
+   "by": "thebell.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[AI전력 해결사 원전] 두산이 원전에 승부 거는 이유",
+   "link": "https://news.dealsitetv.com/articles/178416",
+   "t": "2026-11-17T08:02:00+09:00",
+   "by": "dealsitetv.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "AI 커닝 우려 속 \"수능 연기 없다\"…첨단 부정행위 대책, 결국 감독관 눈...",
+   "link": "https://www.mt.co.kr/policy/2026/11/17/2026111623035114138",
+   "t": "2026-11-17T08:00:00+09:00",
+   "by": "mt.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "'속수무책' 디지털자산 거래소 해킹 ...은행 수준 보안 압박 통할까",
+   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715823",
+   "t": "2026-11-17T08:00:00+09:00",
+   "by": "digitaltoday.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[현장에서] 금융권 AI 해킹 , 명확한 책임규명과 피해보상안이 우선",
+   "link": "https://www.newspim.com/news/view/20261116000476",
+   "t": "2026-11-17T08:00:00+09:00",
+   "by": "newspim.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "더존비즈온 해킹 에 고객사 비상…가족·거래처까지 정보유출 우려",
+   "link": "https://daily.hankooki.com/news/articleView.html?idxno=1425519",
+   "t": "2026-11-17T08:00:00+09:00",
+   "by": "daily.hankooki.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "공모주 '블루 쇼크', 대어도 못 피하나",
+   "link": "https://www.the-stock.kr/news/articleView.html?idxno=33821",
+   "t": "2026-11-17T08:00:00+09:00",
+   "by": "the-stock.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[분석] 철강 업계 3분기 성적표 ··· 기업별 희비 교차",
+   "link": "https://www.datasom.co.kr/news/articleView.html?idxno=210833",
+   "t": "2026-11-17T08:00:00+09:00",
+   "by": "datasom.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "\"카드 안 되고 송금 지연\"…JP모건 체이스 전산 장애 에 고객 불편",
+   "link": "https://www.kizmom.com/news/articleView.html?idxno=114004",
+   "t": "2026-11-17T07:58:00+09:00",
+   "by": "kizmom.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "엔비디아, 젠슨 황 복귀 선 긋기…18만명 청원에도 이사회 '불가'",
+   "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94414",
+   "t": "2026-11-17T07:56:00+09:00",
+   "by": "thefairnews.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[비즈 나우] 엔비디아 '동상이몽'…앤트로픽 발빼나",
+   "link": "https://biz.sbs.co.kr/article_hub/20000346877?division=NAVER",
+   "t": "2026-11-17T07:56:00+09:00",
+   "by": "biz.sbs.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "샘 올트먼 \"젠슨 황은 내 영웅…영웅도 결점은 있어\"",
+   "link": "http://www.inews24.com/view/2026897",
+   "t": "2026-11-17T07:55:00+09:00",
+   "by": "inews24.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "'오픈AI' 올트먼 \"젠슨 황, 영웅에게도 결점은 있어\"",
+   "link": "https://www.hankyung.com/article/2026111707127",
+   "t": "2026-11-17T07:55:00+09:00",
+   "by": "hankyung.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "카가오뱅크 '애플페이' 출격…현대카드 독점에 균열",
+   "link": "https://www.cstimes.com/news/articleView.html?idxno=728081",
+   "t": "2026-11-17T07:54:00+09:00",
+   "by": "cstimes.com",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "[기자수첩] 금융보안원마저 해킹 …\"흔들린 금융권 신뢰\"",
+   "link": "http://www.bizwnews.com/news/articleView.html?idxno=152071",
+   "t": "2026-11-17T07:54:00+09:00",
+   "by": "bizwnews.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "미국 최대은행 체이스 서비스 장애 …“사이버 공격 증거는 없어”",
+   "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714586&ref=A",
+   "t": "2026-11-17T07:52:00+09:00",
+   "by": "kbs.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "미 최대 은행 JP모건, 전산 장애 …\"거래 처리 지연\"",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02122166645646704&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "t": "2026-11-17T07:52:00+09:00",
+   "by": "edaily.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "AI가 찍어주는 정답, 모든 시험을 믿을 수 없게 됐다: 슬로우레터 11월1...",
+   "link": "https://slownews.kr/169594",
+   "t": "2026-11-17T07:52:00+09:00",
+   "by": "slownews.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "'아파트 대신 지어야 돈 번다'…요즘 뭉칫돈 몰리는 곳이 [차이나 워치...",
+   "link": "https://www.hankyung.com/article/202611157117i",
+   "t": "2026-11-17T07:52:00+09:00",
+   "by": "hankyung.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[전날 애프터마켓] SK하닉 7.9% 급락…나무가 상한가·M83 29.9%↑",
+   "link": "https://www.etoday.co.kr/news/view/2648957",
+   "t": "2026-11-17T07:52:00+09:00",
+   "by": "etoday.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[미국 특징주] 메타·애플·구글, 캐나다 '데이터 접근법' 저지 막판 총...",
+   "link": "https://www.newspim.com/news/view/20261117000036",
+   "t": "2026-11-17T07:50:00+09:00",
+   "by": "newspim.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[단독] 환경 규제까지 '불공정 보조금'으로 엮은 미국의 통상 잣대…K제...",
+   "link": "https://www.the-today.com/news/articleView.html?idxno=93695",
+   "t": "2026-11-17T07:48:00+09:00",
+   "by": "the-today.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "파인엠텍, 폴더블 스마트폰 시장 확대 '수혜'…\"ESS용 엔드플레이트 진...",
+   "link": "http://www.newsprime.co.kr/news/article.html?no=755183",
+   "t": "2026-11-17T07:46:00+09:00",
+   "by": "newsprime.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "500대 기업 3분기 영업익 239조원…삼성전자·SK하이닉스가 80% 차지",
+   "link": "https://www.businessplus.kr/news/articleView.html?idxno=119965",
+   "t": "2026-11-17T07:46:00+09:00",
+   "by": "businessplus.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "한성대학교 해킹 으로 웹메일 계정 2만5천 건 유출 …암호화된 비밀번호까...",
+   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209558",
+   "t": "2026-11-17T07:44:00+09:00",
+   "by": "dailysecu.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "도요타·일본제철도 쓰는 日 슈퍼컴 해킹 …첨단기술 유출 우려",
+   "link": "https://www.hankyung.com/article/202611170706i",
+   "t": "2026-11-17T07:44:00+09:00",
+   "by": "hankyung.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "美 최대은행 체이스 서비스 장애 …\"사이버 공격 증거는 없어\"",
+   "link": "https://www.yna.co.kr/view/AKR20261117018000072?input=1195m",
+   "t": "2026-11-17T07:43:00+09:00",
+   "by": "yna.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "1년만에 뒤집힌 성적표… 게임 사 진검승부는 내년으로",
+   "link": "https://news.bizwatch.co.kr/article/mobile/2026/11/16/0012",
+   "t": "2026-11-17T07:40:00+09:00",
+   "by": "bizwatch.co.kr",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "비트코인 62,000달러 폭락 누구 책임인가…바이낸스 CZ·OKX 창업자 정면...",
+   "link": "http://coinreaders.com/270801",
+   "t": "2026-11-17T07:40:00+09:00",
+   "by": "coinreaders.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "석 달 만에 두 번째 사고… 내 비트코인 지갑 배송지·주문 내역 다 뚫렸...",
+   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504790",
+   "t": "2026-11-17T07:38:00+09:00",
+   "by": "pinpointnews.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "AI가 벌어준 돈만 193조원…삼전닉스 '현금 실탄' 역대급",
+   "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1731904",
+   "t": "2026-11-17T07:38:00+09:00",
+   "by": "ebn.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "정부 행정 메일 300여 개 해킹 ...기밀 유출 가능성도",
+   "link": "https://www.ytn.co.kr/_ln/0115_202611170737058256",
+   "t": "2026-11-17T07:37:00+09:00",
+   "by": "ytn.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "삼전닉스, AI 반도체 호황에 현금 보유 '빵빵'... 1년 새 193조 늘어 329조...",
+   "link": "https://www.getnews.co.kr/news/articleView.html?idxno=887388",
+   "t": "2026-11-17T07:36:00+09:00",
+   "by": "getnews.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "당신의 채굴기도 위험하다… AI로 진화한 해커, 비트코인 권한 강탈 충...",
+   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504789",
+   "t": "2026-11-17T07:34:00+09:00",
+   "by": "pinpointnews.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "어깨 무거워진 정진완 우리은행장...향후 과제는?",
+   "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=7319",
+   "t": "2026-11-17T07:32:00+09:00",
+   "by": "dailybrief.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "조셉 샬롬 \"금융서비스 작동방식 대전환…이더리움에 수혜\" [일문일답]",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=01974566645646704&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "t": "2026-11-17T07:31:00+09:00",
+   "by": "edaily.co.kr",
+   "tags": [
+    "스마트폰",
+    "AI·앱",
+    "통신·요금",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[핀테크핫이슈] 금융지주 지배구조 개편 본격화…해킹 당한 금융보안원",
+   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715826",
+   "t": "2026-11-17T07:30:00+09:00",
+   "by": "digitaltoday.co.kr",
+   "tags": [
+    "AI·앱",
+    "보안·개인정보",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "네이버 vs 카카오, AI 에이전트 경쟁 본격화…외부 서비스 연결 승부",
+   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715772",
+   "t": "2026-11-17T07:30:00+09:00",
+   "by": "digitaltoday.co.kr",
+   "tags": [
+    "AI·앱",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[데스크시각] 크래프톤이 테라에서 배운 것, 인도에서 증명할 것",
+   "link": "https://www.bloter.net/news/articleView.html?idxno=678622",
+   "t": "2026-11-17T07:30:00+09:00",
+   "by": "bloter.net",
+   "tags": [
+    "게임",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "적자 사업 털고 알짜 자회사도 판다…석화 업계 , 생존 몸부림",
+   "link": "https://www.news1.kr/industry/general-industry/6355939",
+   "t": "2026-11-17T07:30:00+09:00",
+   "by": "news1.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "재계 라이벌 '삼성·현대', 미래 향한 '한 배' 탔다",
+   "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7193694",
+   "t": "2026-11-17T07:30:00+09:00",
+   "by": "weekly.hankooki.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[KFT 모닝 브리프] 2026.11.17 — 오늘 꼭 알아야 할 국내외 경제뉴스",
+   "link": "https://www.fntimes.com/html/view.php?ud=202611170708146723141825007d_18",
+   "t": "2026-11-17T07:28:00+09:00",
+   "by": "fntimes.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "스마트 안경의 양면성: 패션 아이템에서 부정 행위 도구로, 업계의 대책...",
+   "link": "https://www.gokorea.kr/news/articleView.html?idxno=885921",
+   "t": "2026-11-17T07:22:00+09:00",
+   "by": "gokorea.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "인천공항 항공사 네트워크 관리 허점…대응체계 강화",
+   "link": "https://www.yna.co.kr/view/AKR20261116135200065?input=1195m",
+   "t": "2026-11-17T07:17:00+09:00",
+   "by": "yna.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
   {
    "title": "[김남정의 해양 사이버 보안 ①] 다음은 우리 배일 수 있다",
    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94391",
@@ -146,8 +713,8 @@
    "by": "straightnews.co.kr",
    "tags": [
     "AI·앱",
-    "통신·요금",
-    "IT 업계"
+    "IT 업계",
+    "통신·요금"
    ]
   },
   {
@@ -192,8 +759,8 @@
    "t": "2026-11-17T07:00:00+09:00",
    "by": "joongang.co.kr",
    "tags": [
-    "보안·개인정보",
-    "IT 업계"
+    "IT 업계",
+    "보안·개인정보"
    ]
   },
   {
@@ -265,8 +832,8 @@
    "t": "2026-11-17T06:52:00+09:00",
    "by": "it.chosun.com",
    "tags": [
-    "통신·요금",
-    "보안·개인정보"
+    "보안·개인정보",
+    "통신·요금"
    ]
   },
   {
@@ -446,8 +1013,8 @@
    "t": "2026-11-17T06:30:00+09:00",
    "by": "sedaily.com",
    "tags": [
-    "PC·부품",
-    "IT 업계"
+    "IT 업계",
+    "PC·부품"
    ]
   },
   {
@@ -855,9 +1422,9 @@
    "t": "2026-11-17T06:00:00+09:00",
    "by": "weekly.khan.co.kr",
    "tags": [
-    "스마트폰",
     "AI·앱",
-    "보안·개인정보"
+    "보안·개인정보",
+    "스마트폰"
    ]
   },
   {

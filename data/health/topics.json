@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T12:10:49.242370+09:00",
+ "updated": "2026-11-16T13:08:31.539570+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -12,6 +12,12 @@
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "GLP-1 당뇨병 치료제, 혈당 인하 차이 유래 유전변이 입증",
+     "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=167318",
+     "t": "2026-11-16T12:44:00+09:00",
+     "by": "doctorsnews.co.kr"
+    },
     {
      "title": "혈당 관리에 좋고 단백질도 풍부하다… 의사가 마트에서 꼭 산다는 '식...",
      "link": "https://www.wikitree.co.kr/articles/1174910",
@@ -35,19 +41,13 @@
      "link": "https://www.wikitree.co.kr/articles/1174886",
      "t": "2026-11-16T11:26:00+09:00",
      "by": "wikitree.co.kr"
-    },
-    {
-     "title": "동아시아인 40% 보유 유전변이, GLP-1 당뇨약 혈당 강하 효과 높여",
-     "link": "https://www.segye.com/newsView/20261116505452?OutUrl=naver",
-     "t": "2026-11-16T10:40:00+09:00",
-     "by": "segye.com"
     }
    ]
   },
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 17,
+   "count": 16,
    "angles": [
     "부작용"
    ],
@@ -87,7 +87,7 @@
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 15,
+   "count": 14,
    "angles": [
     "효능",
     "먹는 법",
@@ -136,6 +136,12 @@
    ],
    "items": [
     {
+     "title": "“단백질 풍부하다” 11kg 뺀 신봉선이 먹는 ‘겨울에 제격인 안주’",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/16/2026111601251.html",
+     "t": "2026-11-16T13:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
      "title": "혈당 관리에 좋고 단백질도 풍부하다… 의사가 마트에서 꼭 산다는 '식...",
      "link": "https://www.wikitree.co.kr/articles/1174910",
      "t": "2026-11-16T12:02:00+09:00",
@@ -158,12 +164,6 @@
      "link": "http://weekly.chosun.com/news/articleView.html?idxno=57111",
      "t": "2026-11-16T00:05:00+09:00",
      "by": "weekly.chosun.com"
-    },
-    {
-     "title": "단백질, 많이 먹을수록 좋을까…과하면 몸에서 벌어지는 일",
-     "link": "https://lady.khan.co.kr/khlady.html?mode=view&artid=202611150800031&code=9",
-     "t": "2026-11-15T08:00:00+09:00",
-     "by": "lady.khan.co.kr"
     }
    ]
   },
@@ -411,46 +411,6 @@
    ]
   },
   {
-   "name": "수면",
-   "kind": "운동·생활",
-   "count": 7,
-   "angles": [
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "숙박에 건강 식·수면 키트까지…카시아 속초, 겨울 웰니스 상품 운영",
-     "link": "https://biz.heraldcorp.com/article/10938061?ref=naver",
-     "t": "2026-11-16T09:24:00+09:00",
-     "by": "biz.heraldcorp.com"
-    },
-    {
-     "title": "“수면 리듬을 바로잡는 핵심은 기상 시간에 있어요”",
-     "link": "https://woman.donga.com/3/all/12/6455056/1",
-     "t": "2026-11-16T07:02:00+09:00",
-     "by": "woman.donga.com"
-    },
-    {
-     "title": "부모의 수면과 ADHD 증상이 아동 수면 문제에 직접적 영향",
-     "link": "http://www.psychiatricnews.net/news/articleView.html?idxno=36796",
-     "t": "2026-11-15T08:00:00+09:00",
-     "by": "psychiatricnews.net"
-    },
-    {
-     "title": "나이 들수록 수면 중 뇌 노폐물 배출 기능 저하…치매 발생과 연관 가능...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625256",
-     "t": "2026-11-14T21:46:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "‘라이브 논란’ 리센느 미나미 “많아야 1시간 자”⋯수면 부족이 무서...",
-     "link": "https://kormedi.com/?p=2904902",
-     "t": "2026-11-14T21:06:00+09:00",
-     "by": "kormedi.com"
-    }
-   ]
-  },
-  {
    "name": "면역력",
    "kind": "질환·증상",
    "count": 6,
@@ -492,42 +452,80 @@
    ]
   },
   {
-   "name": "대상포진",
+   "name": "수면",
+   "kind": "운동·생활",
+   "count": 6,
+   "angles": [],
+   "items": [
+    {
+     "title": "숙박에 건강 식·수면 키트까지…카시아 속초, 겨울 웰니스 상품 운영",
+     "link": "https://biz.heraldcorp.com/article/10938061?ref=naver",
+     "t": "2026-11-16T09:24:00+09:00",
+     "by": "biz.heraldcorp.com"
+    },
+    {
+     "title": "“수면 리듬을 바로잡는 핵심은 기상 시간에 있어요”",
+     "link": "https://woman.donga.com/3/all/12/6455056/1",
+     "t": "2026-11-16T07:02:00+09:00",
+     "by": "woman.donga.com"
+    },
+    {
+     "title": "부모의 수면과 ADHD 증상이 아동 수면 문제에 직접적 영향",
+     "link": "http://www.psychiatricnews.net/news/articleView.html?idxno=36796",
+     "t": "2026-11-15T08:00:00+09:00",
+     "by": "psychiatricnews.net"
+    },
+    {
+     "title": "나이 들수록 수면 중 뇌 노폐물 배출 기능 저하…치매 발생과 연관 가능...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625256",
+     "t": "2026-11-14T21:46:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "‘라이브 논란’ 리센느 미나미 “많아야 1시간 자”⋯수면 부족이 무서...",
+     "link": "https://kormedi.com/?p=2904902",
+     "t": "2026-11-14T21:06:00+09:00",
+     "by": "kormedi.com"
+    }
+   ]
+  },
+  {
+   "name": "우울증",
    "kind": "질환·증상",
-   "count": 5,
+   "count": 6,
    "angles": [
-    "에 좋은"
+    "부작용"
    ],
    "items": [
     {
-     "title": "충남 공주시보건소, '공주형 대상포진 예방 접종사업' 본격 추진",
-     "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1110892",
-     "t": "2026-11-15T15:04:00+09:00",
-     "by": "ccdn.co.kr"
+     "title": "얀센 '스프라바토', 치료저항성 우울증 치료 패러다임 변화 주목",
+     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=549025",
+     "t": "2026-11-16T12:16:00+09:00",
+     "by": "kpanews.co.kr"
     },
     {
-     "title": "공주시, '대상포진 예방 접종' 본격 추진",
-     "link": "https://www.ggilbo.com/news/articleView.html?idxno=1193111",
-     "t": "2026-11-15T10:42:00+09:00",
-     "by": "ggilbo.com"
+     "title": "가정의학과 의사 10명 중 9명…우울증 지속치료",
+     "link": "https://sports.khan.co.kr/article/202611152051003?pt=nv",
+     "t": "2026-11-15T20:52:00+09:00",
+     "by": "sports.khan.co.kr"
     },
     {
-     "title": "광양 65세 이상 대상포진 예방 접종, 누가 무료로 맞나…접종비 최대 31만...",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217387",
-     "t": "2026-11-14T09:20:00+09:00",
-     "by": "aitimes.com"
+     "title": "알츠하이머병·우울증 조기 진단 위한 새로운 생체표지자 연구 성과 발...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625297",
+     "t": "2026-11-15T13:14:00+09:00",
+     "by": "mdtoday.co.kr"
     },
     {
-     "title": "공주시, 55세 이상 대상포진 예방 접종 지원…",
-     "link": "http://www.breaknews.com/1250912",
-     "t": "2026-11-13T18:10:00+09:00",
-     "by": "breaknews.com"
+     "title": "“첫 성경험 늦을수록 우울증 위험 낮았다”… 중국 연구 팀 분석",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111302235.html",
+     "t": "2026-11-13T22:01:00+09:00",
+     "by": "health.chosun.com"
     },
     {
-     "title": "광양시, 65세 이상 시민 대상포진 예방 접종 지원",
-     "link": "http://www.breaknews.com/1250764",
-     "t": "2026-11-13T12:54:00+09:00",
-     "by": "breaknews.com"
+     "title": "가정의학과 의사 10명 중 9명 \"우울증 지속치료·상담 보상 부족\"",
+     "link": "https://www.monews.co.kr/news/articleView.html?idxno=415436",
+     "t": "2026-11-13T16:26:00+09:00",
+     "by": "monews.co.kr"
     }
    ]
   },
@@ -573,46 +571,6 @@
    ]
   },
   {
-   "name": "우울증",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "가정의학과 의사 10명 중 9명…우울증 지속치료",
-     "link": "https://sports.khan.co.kr/article/202611152051003?pt=nv",
-     "t": "2026-11-15T20:52:00+09:00",
-     "by": "sports.khan.co.kr"
-    },
-    {
-     "title": "알츠하이머병·우울증 조기 진단 위한 새로운 생체표지자 연구 성과 발...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625297",
-     "t": "2026-11-15T13:14:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "“첫 성경험 늦을수록 우울증 위험 낮았다”… 중국 연구 팀 분석",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111302235.html",
-     "t": "2026-11-13T22:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "가정의학과 의사 10명 중 9명 \"우울증 지속치료·상담 보상 부족\"",
-     "link": "https://www.monews.co.kr/news/articleView.html?idxno=415436",
-     "t": "2026-11-13T16:26:00+09:00",
-     "by": "monews.co.kr"
-    },
-    {
-     "title": "우울증 진료 최대 과제 \"추적·지속치료\"...제도개선은 요원",
-     "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171825&ref=naverpc",
-     "t": "2026-11-13T14:26:00+09:00",
-     "by": "medicaltimes.com"
-    }
-   ]
-  },
-  {
    "name": "우유",
    "kind": "식품·제철",
    "count": 5,
@@ -651,46 +609,6 @@
      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69761",
      "t": "2026-11-15T06:00:00+09:00",
      "by": "hidoc.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "유방암",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "유명 슈퍼모델 \"유방암 진단\"…\"몸의 변화 외면 마세요\"",
-     "link": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100102190009437",
-     "t": "2026-11-16T08:20:00+09:00",
-     "by": "sportschosun.com"
-    },
-    {
-     "title": "유방암 진단에 불안·초조…\"그 마음 알기에 한달내 수술\"[인터뷰]",
-     "link": "https://www.newsis.com/view/NISX20261113_0003866751",
-     "t": "2026-11-16T06:01:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "이 음식, 일주일에 2번만 먹어도…“유방암 위험↑” [식탐]",
-     "link": "https://biz.heraldcorp.com/article/10936426?ref=naver",
-     "t": "2026-11-15T09:50:00+09:00",
-     "by": "biz.heraldcorp.com"
-    },
-    {
-     "title": "피 한방울로 유방암 95% 적중…재발 위험까지 미리 맞혔다 [매일비타민...",
-     "link": "https://www.imaeil.com/page/view/2026111322035351586",
-     "t": "2026-11-13T22:51:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "혈액검사로 초기 유방암 95% 정확도 판별…재발 위험도 예측",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625063",
-     "t": "2026-11-13T12:30:00+09:00",
-     "by": "mdtoday.co.kr"
     }
    ]
   },
@@ -768,6 +686,74 @@
      "link": "https://kormedi.com/?p=2904571",
      "t": "2026-11-14T08:06:00+09:00",
      "by": "kormedi.com"
+    }
+   ]
+  },
+  {
+   "name": "대상포진",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "충남 공주시보건소, '공주형 대상포진 예방 접종사업' 본격 추진",
+     "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1110892",
+     "t": "2026-11-15T15:04:00+09:00",
+     "by": "ccdn.co.kr"
+    },
+    {
+     "title": "공주시, '대상포진 예방 접종' 본격 추진",
+     "link": "https://www.ggilbo.com/news/articleView.html?idxno=1193111",
+     "t": "2026-11-15T10:42:00+09:00",
+     "by": "ggilbo.com"
+    },
+    {
+     "title": "광양 65세 이상 대상포진 예방 접종, 누가 무료로 맞나…접종비 최대 31만...",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217387",
+     "t": "2026-11-14T09:20:00+09:00",
+     "by": "aitimes.com"
+    },
+    {
+     "title": "공주시, 55세 이상 대상포진 예방 접종 지원…",
+     "link": "http://www.breaknews.com/1250912",
+     "t": "2026-11-13T18:10:00+09:00",
+     "by": "breaknews.com"
+    }
+   ]
+  },
+  {
+   "name": "유방암",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "유명 슈퍼모델 \"유방암 진단\"…\"몸의 변화 외면 마세요\"",
+     "link": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100102190009437",
+     "t": "2026-11-16T08:20:00+09:00",
+     "by": "sportschosun.com"
+    },
+    {
+     "title": "유방암 진단에 불안·초조…\"그 마음 알기에 한달내 수술\"[인터뷰]",
+     "link": "https://www.newsis.com/view/NISX20261113_0003866751",
+     "t": "2026-11-16T06:01:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "이 음식, 일주일에 2번만 먹어도…“유방암 위험↑” [식탐]",
+     "link": "https://biz.heraldcorp.com/article/10936426?ref=naver",
+     "t": "2026-11-15T09:50:00+09:00",
+     "by": "biz.heraldcorp.com"
+    },
+    {
+     "title": "피 한방울로 유방암 95% 적중…재발 위험까지 미리 맞혔다 [매일비타민...",
+     "link": "https://www.imaeil.com/page/view/2026111322035351586",
+     "t": "2026-11-13T22:51:00+09:00",
+     "by": "imaeil.com"
     }
    ]
   },
@@ -942,30 +928,6 @@
    ]
   },
   {
-   "name": "땅콩",
-   "kind": "식품·제철",
-   "count": 2,
-   "angles": [
-    "에 좋은",
-    "먹는 법",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "언어 장벽, 영유아 땅콩 알레르기 예방 위한 조기 섭취 방해",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624994",
-     "t": "2026-11-13T16:56:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "“당뇨병 위험 11% 줄었다”… 6개월간 땅콩 먹으니 벌어진 일",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111301269.html",
-     "t": "2026-11-13T13:01:00+09:00",
-     "by": "health.chosun.com"
-    }
-   ]
-  },
-  {
    "name": "콜레스테롤",
    "kind": "질환·증상",
    "count": 2,
@@ -1024,6 +986,22 @@
      "link": "http://www.foodnews.co.kr/news/articleView.html?idxno=120987",
      "t": "2026-11-13T13:26:00+09:00",
      "by": "foodnews.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "결핵",
+   "kind": "질환·증상",
+   "count": 1,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "거제시 보건소, 한화오션 근로자 대상 결핵·에이즈 예방 홍보",
+     "link": "https://www.newsgn.com/news/articleView.html?idxno=585574",
+     "t": "2026-11-15T14:46:00+09:00",
+     "by": "newsgn.com"
     }
    ]
   }

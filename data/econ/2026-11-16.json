@@ -1,7 +1,935 @@
 {
  "date": "2026-11-16",
- "updated": "2026-11-16T12:10:49.242370+09:00",
+ "updated": "2026-11-16T13:08:31.539570+09:00",
  "articles": [
+  {
+   "title": "퇴직연금 가입자 64.5% '원리금 방치'…DC 전환은 1년새 2.2배",
+   "link": "https://www.raonnews.com/news/article.html?no=62798",
+   "t": "2026-11-16T13:08:00+09:00",
+   "by": "raonnews.com",
+   "tags": [
+    "금리·물가",
+    "세금·연금",
+    "주식·환율"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "연동조건 비교하며 자사에 적합한 거래방식 채택 가능",
+   "link": "http://www.kbiznews.co.kr/news/articleView.html?idxno=115192",
+   "t": "2026-11-16T13:08:00+09:00",
+   "by": "kbiznews.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "왕숙 126대 1·동탄 100대 1…공공분양 열기 부천대장으로",
+   "link": "https://www.newsway.co.kr/news/view?ud=2026111611131985673",
+   "t": "2026-11-16T13:08:00+09:00",
+   "by": "newsway.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "[표] 은행간 단기 금리 기준 -코리보(16일)",
+   "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444955",
+   "t": "2026-11-16T13:06:00+09:00",
+   "by": "einfomax.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "이수페타시스, 최대주주 주식 525만주 담보",
+   "link": "https://www.naeil.com/news/read/608932?ref=naver",
+   "t": "2026-11-16T13:06:00+09:00",
+   "by": "naeil.com",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "환율 안정 무색한 내년 초 곡물가 '껑충'…사료값 인하 기대 '먹구름'",
+   "link": "https://www.farminsight.net/news/articleView.html?idxno=17222",
+   "t": "2026-11-16T13:06:00+09:00",
+   "by": "farminsight.net",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "영덕군, 의성~영덕 철도 국가 계획 반영 총력전",
+   "link": "https://www.kbsm.net/news/view.php?idx=541874",
+   "t": "2026-11-16T13:06:00+09:00",
+   "by": "kbsm.net",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "공소취소 공방에 묻힌 조작기소 의혹",
+   "link": "https://www.naeil.com/news/read/608927?ref=naver",
+   "t": "2026-11-16T13:06:00+09:00",
+   "by": "naeil.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "유안타증권, 골드센터목동점서 개인투자자 대상 투자교실 개최",
+   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504434",
+   "t": "2026-11-16T13:06:00+09:00",
+   "by": "pinpointnews.co.kr",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "[천안 24시] 천안시, 중부권동서횡단철도·GTX-C 천안 연장 정부에 촉구",
+   "link": "https://www.sisajournal.com/news/articleView.html?idxno=394072",
+   "t": "2026-11-16T13:05:00+09:00",
+   "by": "sisajournal.com",
+   "tags": [
+    "교통·개발",
+    "부동산"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "‘모두의창업’ 또 털리고 ‘노란우산’까지",
+   "link": "https://www.naeil.com/news/read/608924?ref=naver",
+   "t": "2026-11-16T13:04:00+09:00",
+   "by": "naeil.com",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "부실기업 구조조정 부담 커졌다",
+   "link": "https://www.naeil.com/news/read/608937?ref=naver",
+   "t": "2026-11-16T13:04:00+09:00",
+   "by": "naeil.com",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "코스피 , 상승 출발 1시간 37분 만에 5,140선으로 급락…외국인 9,870억 원...",
+   "link": "https://www.ppss.kr/news/articleView.html?idxno=321165",
+   "t": "2026-11-16T13:04:00+09:00",
+   "by": "ppss.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "중흥토건, 에코델타시티 중흥S-클래스 리버시티 선착순 계약 진행",
+   "link": "http://www.ttlnews.com/news/articleView.html?idxno=3162759",
+   "t": "2026-11-16T13:04:00+09:00",
+   "by": "ttlnews.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "고흥군, 국가철도망 의견수렴서 '우주선철도' 반영 요청",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3753081",
+   "t": "2026-11-16T13:04:00+09:00",
+   "by": "gukjenews.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "서울 출퇴근길, 외곽서 도심진입 빨라진다",
+   "link": "https://www.naeil.com/news/read/608897?ref=naver",
+   "t": "2026-11-16T13:04:00+09:00",
+   "by": "naeil.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "인천시, ‘2026 제약바이오투자대전’ 및 ‘신중년 공감문화 한마당’ ...",
+   "link": "http://www.breaknews.com/1251187",
+   "t": "2026-11-16T13:04:00+09:00",
+   "by": "breaknews.com",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "【ESG 채용】IPARK현대산업개발, 한영회계법인, CJ올리브영, 카카오페이",
+   "link": "https://www.impacton.net/news/articleView.html?idxno=30690",
+   "t": "2026-11-16T13:02:00+09:00",
+   "by": "impacton.net",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "구조조정 필요 기업 늘어나는데…전용펀드 투자 대상 좁아",
+   "link": "https://www.naeil.com/news/read/608831?ref=naver",
+   "t": "2026-11-16T13:02:00+09:00",
+   "by": "naeil.com",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "[이번 주 증시 전망] 엔비디아 실적·앤스로픽 상장 주목…AI 투자 가늠...",
+   "link": "https://www.naeil.com/news/read/608908?ref=naver",
+   "t": "2026-11-16T13:02:00+09:00",
+   "by": "naeil.com",
+   "tags": [
+    "경제 이슈",
+    "금리·물가",
+    "주식·환율"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "코스피 , 1.2조 외인 ‘팔자’에 2.9%↓…삼전·닉스 동반 약세",
+   "link": "https://www.g-enews.com/view.php?ud=20261116125611794153ddfb15a_1",
+   "t": "2026-11-16T13:02:00+09:00",
+   "by": "g-enews.com",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "영주시 중부내륙 6개 시·군, 공동 현안 해결·상생발전 위해 협력 논의",
+   "link": "https://www.hidomin.com/news/articleView.html?idxno=729522",
+   "t": "2026-11-16T13:02:00+09:00",
+   "by": "hidomin.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "월가 “연준이 금리 안올린 건 실수”…한은은?",
+   "link": "https://www.chosun.com/economy/economy_general/2026/11/16/WXK7RKCS3ZEDND3CN33TXZXCA4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "t": "2026-11-16T13:01:00+09:00",
+   "by": "chosun.com",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "\"트렉터는 통과·드론 농약살포는 글쎄\"…영농형태양광법 D-한달, 안착할...",
+   "link": "https://view.asiae.co.kr/article/2026111320174240449",
+   "t": "2026-11-16T13:00:00+09:00",
+   "by": "view.asiae.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "퇴직 연금 558조원 시대…금감원, 투자 양극화 해소 나선다",
+   "link": "https://www.newspim.com/news/view/20261116000302",
+   "t": "2026-11-16T13:00:00+09:00",
+   "by": "newspim.com",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "[성기노의 뉴스 피처링] 최민희 징계에 공천 전쟁 조기 점화…민생 밀어...",
+   "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=130887",
+   "t": "2026-11-16T13:00:00+09:00",
+   "by": "ntoday.co.kr",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "세코닉스·나무가 주가 급등…AI 스마트안경 관련주 강세",
+   "link": "http://www.kjdaily.com/article.php?aid=1794801375692360276",
+   "t": "2026-11-16T12:58:00+09:00",
+   "by": "kjdaily.com",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "인천시,19일 수능 대비 특별교통 대책 시행",
+   "link": "http://www.breaknews.com/1251185",
+   "t": "2026-11-16T12:58:00+09:00",
+   "by": "breaknews.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "태안군, 국토부 의견수렴회서 충청내륙 철도 국가계획 반영 강력 건의",
+   "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=920971",
+   "t": "2026-11-16T12:56:00+09:00",
+   "by": "chungnamilbo.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "영덕군, 의성~영덕선 국가 철도 망 반영에 사활 건다",
+   "link": "http://www.newsprime.co.kr/news/article.html?no=755054",
+   "t": "2026-11-16T12:56:00+09:00",
+   "by": "newsprime.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "[북한정론] 성명전(Statement Warfare)",
+   "link": "https://www.dailynk.com/20261116-3",
+   "t": "2026-11-16T12:56:00+09:00",
+   "by": "dailynk.com",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "충북도, 청주공항~제천·단양 직통 관광 노선 16일 운행",
+   "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326113",
+   "t": "2026-11-16T12:54:00+09:00",
+   "by": "pointdaily.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "세스코, 차량 맞춤형 위생관리 '마이랩 카케어' 5종 출시",
+   "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420859",
+   "t": "2026-11-16T12:54:00+09:00",
+   "by": "bizwork.co.kr",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "오늘(16일) 금시세 소폭 반등…순금 1돈 금값 73만4000원",
+   "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94324",
+   "t": "2026-11-16T12:50:00+09:00",
+   "by": "thefairnews.co.kr",
+   "tags": [
+    "금리·물가",
+    "주식·환율"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "금호건설, 공공주택으로 반등 시동…이익 늘고 일감 쌓여",
+   "link": "https://www.g-enews.com/view.php?ud=202611161157283057d6c92cbcc5_1",
+   "t": "2026-11-16T12:50:00+09:00",
+   "by": "g-enews.com",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "고흥군, 우주선 철도 국가계획 반영 총력…서울서 필요성 강조",
+   "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94326",
+   "t": "2026-11-16T12:50:00+09:00",
+   "by": "thefairnews.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "AIST 모빌리티 AX연구소, 주민과 미래 과학인재 위한 소통의 장 '제3회 O...",
+   "link": "https://www.m-i.kr/news/articleView.html?idxno=2018885",
+   "t": "2026-11-16T12:50:00+09:00",
+   "by": "m-i.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "끝나지 않은 '젠슨 황 쇼크'… 코스피 , 5100선 하락",
+   "link": "https://news.bizwatch.co.kr/article/market/2026/11/16/0009",
+   "t": "2026-11-16T12:48:00+09:00",
+   "by": "bizwatch.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "카카오·티맵 대리운전 '단체보험 강요' 동의의결 개시…기사등급제 없...",
+   "link": "http://www.inews24.com/view/2026577",
+   "t": "2026-11-16T12:46:00+09:00",
+   "by": "inews24.com",
+   "tags": [
+    "지원금·복지"
+   ],
+   "end": null
+  },
+  {
+   "title": "도심 가로막은 철길 지하로… 철도 지하화 종합계획 첫발",
+   "link": "https://news.tf.co.kr/read/economy/2389244.htm",
+   "t": "2026-11-16T12:46:00+09:00",
+   "by": "tf.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "인천도시공사, 검단 신도시 2-1공구 조경사업으로 대한민국 조경대상 국...",
+   "link": "https://www.kmaeil.com/news/articleView.html?idxno=658406",
+   "t": "2026-11-16T12:46:00+09:00",
+   "by": "kmaeil.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "오스테오닉, 환율 평가손실에 3분기 순익 83% 급감",
+   "link": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70457",
+   "t": "2026-11-16T12:44:00+09:00",
+   "by": "medicopharma.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "삼성전자·SK하이닉스 거래 32% 급증…주가 급락 속 집중도 반등",
+   "link": "http://www.kjdaily.com/article.php?aid=1794800416692359276",
+   "t": "2026-11-16T12:42:00+09:00",
+   "by": "kjdaily.com",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "월드 뉴스 브리프 ( 기준 일시: 2026년 11월 16일 월요일 10:00)",
+   "link": "http://www.ifs.or.kr/bbs/board.php?bo_table=globalnewsfocus&wr_id=531",
+   "t": "2026-11-16T12:40:00+09:00",
+   "by": "ifs.or.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "서울시, 출·퇴근길 '빠르게 이동' 버스 · 지하철 신설",
+   "link": "http://www.newsmaker.or.kr/news/articleView.html?idxno=185941",
+   "t": "2026-11-16T12:40:00+09:00",
+   "by": "newsmaker.or.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "분양가 3억원대…'에코델타시티 중흥S-클래스 리버시티' 선착순 계약",
+   "link": "https://www.hankyung.com/article/202611169017i",
+   "t": "2026-11-16T12:40:00+09:00",
+   "by": "hankyung.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "KDI \"실질임금 4년째 제자리…반도체 뺀 산업 생산성 뒷걸음질\"",
+   "link": "http://www.inews24.com/view/2026575",
+   "t": "2026-11-16T12:38:00+09:00",
+   "by": "inews24.com",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "서진시스템, 3분기 영업이익 387억 원 '흑자 전환'…3대 핵심 사업 호조",
+   "link": "https://www.thedailypost.kr/news/articleView.html?idxno=116946",
+   "t": "2026-11-16T12:38:00+09:00",
+   "by": "thedailypost.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "미래에셋증권 목표가 줄하향에도 전망 '극과 극'… 내년 순익 추정 2배 ...",
+   "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=731441",
+   "t": "2026-11-16T12:36:00+09:00",
+   "by": "the-biz.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "국토부, 19일 철도 지하화 통합개발 종합계획 공청회",
+   "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420858",
+   "t": "2026-11-16T12:36:00+09:00",
+   "by": "bizwork.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "포천시, GTX-G 유치 촉구에 시민 34만여 명 서명",
+   "link": "https://www.pressian.com/pages/articles/2026111611251874336?utm_source=naver&utm_medium=search",
+   "t": "2026-11-16T12:36:00+09:00",
+   "by": "pressian.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "김현 의원, 안산 수암지역 방문…골목상권·생활환경 개선 논의",
+   "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083790",
+   "t": "2026-11-16T12:36:00+09:00",
+   "by": "shinailbo.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "\"AI 수출이 먹여 살리지만, 내수는 꽁꽁\"… 中 10월 소매판매 0.4% 그쳐 ...",
+   "link": "https://www.g-enews.com/view.php?ud=2026111612321999100c8c1c064d_1",
+   "t": "2026-11-16T12:34:00+09:00",
+   "by": "g-enews.com",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "'고리대금'으로 가맹점 울린 명륜당…법적분쟁 확산이 위기 증폭시킬 듯",
+   "link": "http://www.nongaek.com/news/articleView.html?idxno=97485",
+   "t": "2026-11-16T12:34:00+09:00",
+   "by": "nongaek.com",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "우미건설, 구리갈매역세권 734가구 분양",
+   "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=54763",
+   "t": "2026-11-16T12:32:00+09:00",
+   "by": "koreareport.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "안산시 이민근 시장, 미래혁신행정대상 수상… 미래산업 육성 성과 인정",
+   "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160263737889041",
+   "t": "2026-11-16T12:32:00+09:00",
+   "by": "siminilbo.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "[부산 소식] 수능일 출근 늦추고 버스 늘린다…2만 9000명 수송 지원",
+   "link": "https://news.tf.co.kr/read/national/2389211.htm",
+   "t": "2026-11-16T12:32:00+09:00",
+   "by": "tf.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "[뉴공 아카이브]트렌드를 읽어주마: 공개 12시간 만에 조회수 1억 회 돌...",
+   "link": "http://www.ddanzi.com/898990389",
+   "t": "2026-11-16T12:32:00+09:00",
+   "by": "ddanzi.com",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "HD현대오일뱅크, 3조원대 흑자 잔치 뒤 '4년간 가격 담합' 혐의…무너진...",
+   "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=101178",
+   "t": "2026-11-16T12:31:00+09:00",
+   "by": "upkoreanews.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "[TN 인터뷰] '휴매너' 청년 창업가 김재욱...\"해외 관광객 불편서 기회 ...",
+   "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=130882",
+   "t": "2026-11-16T12:30:00+09:00",
+   "by": "ntoday.co.kr",
+   "tags": [
+    "지원금·복지"
+   ],
+   "end": null
+  },
+  {
+   "title": "\"대출 막힌 청년 주거 사다리, 금융 구조부터 바꿔야\" … 김장겸·강명구...",
+   "link": "https://www.newdaily.co.kr/site/data/html/2026/11/16/2026111650168.html",
+   "t": "2026-11-16T12:30:00+09:00",
+   "by": "newdaily.co.kr",
+   "tags": [
+    "금리·물가",
+    "부동산"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "비트코인 9000만원선 붕괴…美 금리 인상 우려·ETF 자금 유출에 급락",
+   "link": "https://www.polinews.co.kr/news/articleView.html?idxno=748488",
+   "t": "2026-11-16T12:30:00+09:00",
+   "by": "polinews.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "인천교통공사, 수능 특별수송 대책 시행...26개 역 지원인력 104명 추가...",
+   "link": "https://www.kmaeil.com/news/articleView.html?idxno=658397",
+   "t": "2026-11-16T12:30:00+09:00",
+   "by": "kmaeil.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "[종합] 전주시의회, 시정 전반에 변화 요구…실행력 주목",
+   "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719496",
+   "t": "2026-11-16T12:28:00+09:00",
+   "by": "newsfreezone.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "영덕군, 의성~영덕선 제5차 국가철도망 구축계획 반영 총력",
+   "link": "https://www.mhns.co.kr/news/articleView.html?idxno=769245",
+   "t": "2026-11-16T12:28:00+09:00",
+   "by": "mhns.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "GTX 금정역 역세권1구역 재개발사업 법무법인(법률자문) 선정 입찰공고",
+   "link": "https://www.arunews.com/news/articleView.html?idxno=69566",
+   "t": "2026-11-16T12:28:00+09:00",
+   "by": "arunews.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "김덕현 연천군수, 2027년 청사진 제시…고속도로· 철도 등 산업기반 확...",
+   "link": "https://www.pressian.com/pages/articles/2026111611265728267?utm_source=naver&utm_medium=search",
+   "t": "2026-11-16T12:27:00+09:00",
+   "by": "pressian.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "GTX 금정역 역세권1구역 재개발사업 감정평가법인 선정 입찰공고",
+   "link": "https://www.arunews.com/news/articleView.html?idxno=69565",
+   "t": "2026-11-16T12:26:00+09:00",
+   "by": "arunews.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "기름값에 건보료까지...美 물가 상승세 지속에 금리 인상 압력 확대",
+   "link": "https://www.theguru.co.kr/news/article.html?no=109757",
+   "t": "2026-11-16T12:24:00+09:00",
+   "by": "theguru.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "[오전시황] 코스피 , 코스닥 3% 안팎 하락...상한가는 7종목",
+   "link": "https://www.junggi.co.kr/news/articleView.html?idxno=38509",
+   "t": "2026-11-16T12:24:00+09:00",
+   "by": "junggi.co.kr",
+   "tags": [
+    "주식·환율"
+   ],
+   "end": null
+  },
+  {
+   "title": "GTX 금정역 역세권1구역 재개발사업 세입자 조사 협력업체 선정 입찰공고",
+   "link": "https://www.arunews.com/news/articleView.html?idxno=69564",
+   "t": "2026-11-16T12:24:00+09:00",
+   "by": "arunews.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "주택자산 상위 10% 평균 15억6000만원…하위 10%의 52배",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3753061",
+   "t": "2026-11-16T12:22:00+09:00",
+   "by": "gukjenews.com",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "IBK기업은행, 매월 이자 지급하는 금융채 출시…1년 만기 연 3.85%",
+   "link": "http://www.popcornnews.net/news/articleView.html?idxno=140201",
+   "t": "2026-11-16T12:22:00+09:00",
+   "by": "popcornnews.net",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "[코인시황] 비트코인, 3개월 새 최저치 찍고 6만5000달러선 회복",
+   "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903193",
+   "t": "2026-11-16T12:22:00+09:00",
+   "by": "newsworks.co.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "GTX 금정역 역세권1구역 재개발사업 문화재 지표조사 용역 협력업체 선정...",
+   "link": "https://www.arunews.com/news/articleView.html?idxno=69563",
+   "t": "2026-11-16T12:22:00+09:00",
+   "by": "arunews.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "[전남광주 소식] 세계호남향우회 총연합회 '장학금 2700만원' 기탁·남구...",
+   "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903188",
+   "t": "2026-11-16T12:20:00+09:00",
+   "by": "newsworks.co.kr",
+   "tags": [
+    "지원금·복지"
+   ],
+   "end": null
+  },
+  {
+   "title": "집값 상승에 12억원 초과 주택 보유 가구 15만가구↑…자산 격차 \"52배\"",
+   "link": "https://www.youthdaily.co.kr/news/article.html?no=229898",
+   "t": "2026-11-16T12:20:00+09:00",
+   "by": "youthdaily.co.kr",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "GTX 금정역 역세권1구역 재개발사업 국·공유지 무상양도·유상매수 및 원...",
+   "link": "https://www.arunews.com/news/articleView.html?idxno=69561",
+   "t": "2026-11-16T12:20:00+09:00",
+   "by": "arunews.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "“배트맨이 007까지 한다고?”…로버트 패틴슨 ‘제임스 본드’ 유력설...",
+   "link": "https://www.mydaily.co.kr/page/view/2026111612190116229",
+   "t": "2026-11-16T12:20:00+09:00",
+   "by": "mydaily.co.kr",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "[ 이슈 ] 사상 초유 美 항공대란에 하늘길 '올스톱', 3일간 1만7천편 결항...",
+   "link": "https://www.polinews.co.kr/news/articleView.html?idxno=748505",
+   "t": "2026-11-16T12:19:00+09:00",
+   "by": "polinews.co.kr",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "GTX 금정역 역세권1구역 재개발사업 임대(소형)주택매각대금산정 및 기반...",
+   "link": "https://www.arunews.com/news/articleView.html?idxno=69560",
+   "t": "2026-11-16T12:18:00+09:00",
+   "by": "arunews.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "[16일 인천 영종구] ‘진심경청–사진 속 우리동네 영종’ 성료 등",
+   "link": "https://www.asiatime.co.kr/article/20261116500205",
+   "t": "2026-11-16T12:18:00+09:00",
+   "by": "asiatime.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
+  {
+   "title": "중흥토건, 부산 에코델타시티 501가구 선착순 계약",
+   "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=54761",
+   "t": "2026-11-16T12:18:00+09:00",
+   "by": "koreareport.co.kr",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "시간은 내편? 트럼프, 협상·공격없이 '이란 붕괴' 기다려 [NYT]",
+   "link": "https://biz.sbs.co.kr/article_hub/20000346666?division=NAVER",
+   "t": "2026-11-16T12:18:00+09:00",
+   "by": "biz.sbs.co.kr",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
+   "title": "추가 인상 필요할 때 점진 경로 적절…콜린스, 경기 위험도 거론",
+   "link": "https://www.tokenpost.kr/news/economy/438846",
+   "t": "2026-11-16T12:16:00+09:00",
+   "by": "tokenpost.kr",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null,
+   "gov": false
+  },
+  {
+   "title": "공정위, 카카오·티맵 대리운전 ‘보험 강요’ 의혹 동의의결 절차 개시",
+   "link": "https://www.kukinews.com/article/view/kuk202611160042",
+   "t": "2026-11-16T12:14:00+09:00",
+   "by": "kukinews.com",
+   "tags": [
+    "지원금·복지"
+   ],
+   "end": null
+  },
+  {
+   "title": "5대 은행 금융사고 4년 새 22배 급증…금감원, 고위험 영업점 현장검사...",
+   "link": "https://www.pointe.co.kr/news/articleView.html?idxno=87824",
+   "t": "2026-11-16T12:14:00+09:00",
+   "by": "pointe.co.kr",
+   "tags": [
+    "부동산"
+   ],
+   "end": null
+  },
+  {
+   "title": "고령층 생활비 35년간 41% 증가",
+   "link": "https://www.koreadaily.com/article/20261115191202029",
+   "t": "2026-11-16T12:12:00+09:00",
+   "by": "koreadaily.com",
+   "tags": [
+    "금리·물가"
+   ],
+   "end": null
+  },
+  {
+   "title": "돈 없어 못짓는다···전북 마이스산업도 제자리",
+   "link": "https://news.skbroadband.com/news/articleView.html?idxno=243275",
+   "t": "2026-11-16T12:12:00+09:00",
+   "by": "skbroadband.com",
+   "tags": [
+    "세금·연금"
+   ],
+   "end": null
+  },
+  {
+   "title": "iH 검단 신도시 조경사업, 대한민국 조경대상 국가유산청장상 수상",
+   "link": "https://www.viva100.com/article/20261116500630",
+   "t": "2026-11-16T12:12:00+09:00",
+   "by": "viva100.com",
+   "tags": [
+    "교통·개발"
+   ],
+   "end": null
+  },
   {
    "title": "[기획특집] (상) 군포복합물류터미널 정쟁 끝낸 '군포 원팀', 30년 물류 ...",
    "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1336893",
@@ -10,7 +938,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "< 제 14편 > 本紙, 1960년대 초반부터 신문의 섹션화 시동 (1960년대 초‧...",
@@ -24,6 +953,16 @@
    "gov": false
   },
   {
+   "title": "11만 원 장비에 뚫린 국가시험...AI 부정행위 '초비상' [뉴스나우]",
+   "link": "https://www.ytn.co.kr/_ln/0103_202611161210420350",
+   "t": "2026-11-16T12:10:00+09:00",
+   "by": "ytn.co.kr",
+   "tags": [
+    "경제 이슈"
+   ],
+   "end": null
+  },
+  {
    "title": "3분기 실적 발표 마친 게임주들 대거 '가슴앓이'",
    "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=408015",
    "t": "2026-11-16T12:08:00+09:00",
@@ -31,7 +970,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "부산시, 대학수학능력시험 종합지원대책 추진..수험생 2만9181명 응시",
@@ -41,7 +981,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "렉스이노베이션, 30일까지 크라우드펀딩 소액투자자 모집… 연말정산 소...",
@@ -51,7 +992,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "카카오·티맵, 대리기사 보험 중복가입 해소·등급제 폐지 추진",
@@ -61,7 +1003,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[기획] 부채 늪 한전…재생에너지 보급에도 '악영향'",
@@ -71,7 +1014,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "통합돌봄 첫해 성과 점검...서비스 중단 사유까지 실태조사",
@@ -81,7 +1025,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "‘갑질’ 의혹 카카오·티맵모빌리티 등 4개사 시정 방안 마련해 제출",
@@ -91,7 +1036,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "최민희 파문에 李대통령도 참전한 與 내분, 이럴 때인가[사설]",
@@ -101,7 +1047,8 @@
    "tags": [
     "부동산"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "성장률 올라도 월급은 제자리…KDI \"비반도체 생산성 부진 탓\"",
@@ -111,7 +1058,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "‘2027 대입수능’ 임박…부산시, 지원대책 분주",
@@ -121,7 +1069,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "12월 25bp 인상 전망…US뱅크, 50bp 가능성은 낮게 평가",
@@ -142,7 +1091,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "반도체 호황에도 뒷걸음질하는 실질임금 증가율…“비반도체 부문에서...",
@@ -152,7 +1102,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "NH證 \"내년 달러-원 평균 1,345원…2분기 저점 후 반등\"",
@@ -174,7 +1125,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "‘ 철도 지하화’ 첫 종합계획 나온다…19일 공청회",
@@ -195,7 +1147,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "‘대리기사에 단체보험 강제’ 카카오·티맵모빌리티 동의의결 개시",
@@ -205,7 +1158,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "대리기사 부담 키운 플랫폼…카카오·티맵모빌리티 등 동의의결 개시",
@@ -215,7 +1169,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "카카오·티맵, 대리기사 보험료 이중 부담 해소 나선다…기사등급제 폐...",
@@ -225,7 +1180,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[은행가] IBK기업은행, '매월 이자주는 통장' 출시 外",
@@ -235,7 +1191,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "반도체 호황에도 월급은 제자리…KDI \"비반도체 생산성 정체\"",
@@ -245,7 +1202,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "일본 3분기 GDP 연율 0.1% 감소…4분기 만에 역성장 쇼크",
@@ -255,7 +1213,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "KDI “비반도체 생산성 부진이 실질임금 정체로”…임금 격차 경고",
@@ -265,7 +1224,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "내 퇴직 연금 제대로 굴리고 있나…금감원 가이드북 눈길",
@@ -275,7 +1235,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "한득수 군수가 그리는 '사람이 머무는 임실'… 농업·산업·관광 '3대 대...",
@@ -285,7 +1246,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "함파트너스, '제34회 한국PR대상'서 8개 부문 최우수상 석권",
@@ -306,7 +1268,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "'대리기사 보험가입 강요' 카카오·티맵 동의의결 절차 개시",
@@ -316,7 +1279,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "카카오·티맵, 대리기사 보험 중복가입 개선…공정위 동의의결 절차 개...",
@@ -326,7 +1290,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "공정위, ‘대리기사 상대 갑질’ 카카오모빌리티·티맵모빌리티 자진시...",
@@ -336,7 +1301,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "카카오·티맵, 대리기사 보험 중복가입·등급제 없앤다…공정위 동의의...",
@@ -346,7 +1312,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "보험 끼워팔고 등급제로 압박…카카오·티맵 시정 나선다",
@@ -356,7 +1323,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "카카오모빌리티, 대리기사 상생에 27억… 동의의결 절차 개시",
@@ -366,7 +1334,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "대리기사 '보험 중복가입·실적 강요' 의혹…카카오·티맵, 시정안 제시",
@@ -376,7 +1345,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "민주당, 17일 정책 의총 소집…주가누르기 방지법 등 자본시장 정상화 논...",
@@ -386,7 +1356,8 @@
    "tags": [
     "부동산"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "‘서울 집값 오른다’ 기대 석달 연속 꺾였다…세종은 서울 추월 [부동...",
@@ -408,7 +1379,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "월급 올라도 살림살이 나아진 게 없다…4년간 실질임금 상승 률 0.2%",
@@ -418,7 +1390,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "같은 2억원도 20년 뒤 1억5728만원 차이…금감원, ‘퇴직 연금 가이드북...",
@@ -428,7 +1401,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "‘하락 시그널’ 서울 집값…생존매수는 여전 [ 이슈 &뷰]",
@@ -438,7 +1412,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "카카오·티맵 대리운전 기사등급제 폐지 추진···공정위 동의의결 개...",
@@ -448,7 +1423,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "카카오·티맵 '대리기사앱' 갑질 막는다…공정위, 동의의결 개시",
@@ -458,7 +1434,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "카카오·티맵모빌리티 대리기사 '보험가입 강요' 및 등급제 폐지한다…...",
@@ -468,7 +1445,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "공정위, 카카오·티맵 자진 시정안 검토…대리기사 보험 중복가입 개선...",
@@ -508,7 +1486,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "대리기사 '갑질' 카카오·티맵…동의의결 개시, 등급제 폐지· 지원금 제...",
@@ -518,7 +1497,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "\"대리기사 단체보험 가입 강요\"…카카오T·티맵, 공정위 동의의결 절차...",
@@ -528,7 +1508,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "공정위, 카카오·티맵 대리운전 불공정 의혹 동의의결 개시…기사 권익...",
@@ -538,7 +1519,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "공정위, 카카오모빌리티·티맵모빌리티 '동의의결 절차' 개시",
@@ -548,7 +1530,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "공정위, '대리기사 보험 강요' 카카오·티맵모빌리티 동의의결 절차 개...",
@@ -558,7 +1541,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "30대 집주인 9년 만에 증가…인구 증가에 '막차'· 정책 대출 수요 겹쳐",
@@ -568,7 +1552,8 @@
    "tags": [
     "부동산"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "이자 갚는 데 소득 10% 이상 쓰는 저소득층, 4년새 29% → 47%",
@@ -589,7 +1574,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "근로자 절반 ‘실질임금 하락 업종 근무’…KDI “비반도체 생산성 부진...",
@@ -599,7 +1585,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "반도체 호황에도 임금 구매력 제자리…KDI \"非반도체 생산성 높여야\"",
@@ -609,7 +1596,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "금감원 '퇴직연금 가이드북' 인기…장기투자 캠페인도 시작",
@@ -619,7 +1607,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "같은 2억 넣어도 노후자산 1.6억 차이…퇴직 연금 , 운용방법 관건",
@@ -629,7 +1618,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "매년 1000만원 넣은 퇴직 연금 …20년 뒤 약 1억6000만원 차이",
@@ -639,7 +1629,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "젠슨 황, 복귀 가능할까...한국 반도체 동맹도 시험대",
@@ -649,7 +1640,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "NH농협금융 이찬우號, 취약계층 금융지원…2030년까지 15.3조 공급",
@@ -659,7 +1651,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "대상, 'GWP 어워즈'로 파트너사 협력 성과 공유…상생 확대",
@@ -669,7 +1662,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "우미건설, '구리갈매역세권 우미린 더 시그니처' 공급 한다",
@@ -679,7 +1673,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[속보] \"무주택자들 비명 지른다\"…전월세 상승 률 3년 10개월만에 최고",
@@ -689,7 +1684,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "美중간선거 후 AI주 대신 일본株…픽테, 투자 비중 8%→10% 확대",
@@ -699,7 +1695,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "내년 401(K) 불입금 상한 2만5500불로 상향",
@@ -709,7 +1706,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "이집트, 한류 열풍 타고 성장하는 K-Food 트렌드",
@@ -719,7 +1717,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "삼성바이오로직스 유증에 청약증거금 11.4조 모여 ‘역대최대’",
@@ -729,7 +1728,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "\"국비 반납→시비 부담→혜택 축소, 누구를 위해?\"…익산시 '다이로움 ...",
@@ -739,7 +1739,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "NAVER(네이버) 주가 2거래일 하락 후 상승 반전…17만2900원, 양대지수 하...",
@@ -749,7 +1750,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "파주시 GTX-A 확장 구상 '탄력'... 운정테크노밸리 개발 새 전기 맞나",
@@ -803,7 +1805,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "서울중수청, '연 18% 고 금리 대출 ' 명륜진사갈비 본사 압수수색",
@@ -813,7 +1816,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "증시변동 큰데 보호예수?… 증권사 ‘코너스톤 기관 찾기’ 골머리",
@@ -823,7 +1827,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "민형배 시장 \"2027년, 통합의 힘 시민 체감 성과로 바꿀 것\"",
@@ -833,7 +1838,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[이 사람] 포천의 상생 기업인 이민형 이사장, 친환경 기술 혁신과 지역...",
@@ -843,7 +1849,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[부동산 인사이트] 서울 다음 경기, 그다음은 인천…2027년 집값 어디가...",
@@ -865,7 +1872,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "팰리서, LG화학에 독립이사 증원·보상 연동 재요구..구광모 회장 지분...",
@@ -875,7 +1883,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "민선9기 대전시민 생활만족도 3개월 새 전국 9위 '날개없는 추락'",
@@ -885,7 +1894,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "협상도 공격도 없이… ‘이란 붕괴’만 기다리는 트럼프",
@@ -895,7 +1905,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "대우건설 컨소 가덕도신공항, 내년 예산안 4311억원…국회 집행 가능성...",
@@ -905,7 +1916,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "구리시, 농산물 물류비 최대 70% 지원…다음 달 1일부터 신청 접수",
@@ -915,7 +1927,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "코리아 디스카운트 해소에 거래소 저PBR 기업 공개로 '역부족' 외신 평가...",
@@ -925,7 +1938,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "내 주식 비싸게 사준다는데…이사회는 왜 침묵하나? [지배구조 이야기③...",
@@ -935,7 +1949,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "신약개발 성과에도 ESG는 최하위 … 펩트론·오스코텍 'D등급'",
@@ -945,7 +1960,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "포천시민, 전문건설회관서 GTX-G 노선 국가 철도 망 반영 촉구.",
@@ -966,7 +1982,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "과천청사역 한양수자인, 준공 완료 단지 특별분양",
@@ -976,7 +1993,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[AI리더스] 한진정보통신, 캡티브 넘어 대외 확대 본격화…'MSP+AI+보안' ...",
@@ -997,7 +2015,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[기획특집] 김길성 서울 중구청장 \"사람 머무는 중구\"…주거·복지·관광...",
@@ -1017,7 +2036,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "‘반도체 공포’에 하락장 베팅한 개미들…인버스 대량 매수 [주식고수...",
@@ -1027,7 +2047,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "13일 미 달러당 캐나다달러 1.4257…선물시장, 연준 인상 가능성 반영",
@@ -1049,7 +2070,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "국민연금 , 한전과 ICT센터 화재감시 강화…AI로 불꽃·연기 감지",
@@ -1059,7 +2081,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[이광형의 세상읽기] 충북지역 국회의원의 지역구 관리와 선거",
@@ -1101,7 +2124,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "철도 지하화 밑그림 공개된다…16개 사업 검토안 국민 의견 수렴",
@@ -1111,7 +2135,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "포천시, GTX-G 노선 국가 철도 망 반영 촉구",
@@ -1145,7 +2170,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "원, 기술법부 전담조직 TIF팀 출범",
@@ -1166,7 +2192,8 @@
    "tags": [
     "부동산"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "NH농협금융, 취약계층 포용금융 3.4조원 공급",
@@ -1176,7 +2203,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "엔비디아發 불확실성 확산… 코스피 ·코스닥 2~3% '급락'",
@@ -1186,7 +2214,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "“내일 지나면 못 산다”…3억 넣고 평생 월 150만원 받는 상품",
@@ -1196,7 +2225,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "\"드롭액 역성장 전환에 4분기 실적 '먹구름'…파라다이스, 규제 해소만...",
@@ -1206,7 +2236,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "인천시, 11월 19일 수능 대비 특별교통 대책 전개",
@@ -1216,7 +2247,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[이 시각 주요 뉴스]",
@@ -1226,7 +2258,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "'젠슨황 파장' AI 투자심리 위축… 코스피 5200 밑으로",
@@ -1247,7 +2280,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "국민연금 , AI로 화재감시 솔루션 도입… 3중 감시체계 구축",
@@ -1257,7 +2291,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "충북범도민대책위 \"KTX세종역 신설 반대…국가 철도 망 반영 말라\"",
@@ -1278,7 +2313,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "코스피 ‘역대급 저평가’라지만 ‘박스피’ 벗어날 동력이 없다",
@@ -1300,7 +2336,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "이민우 킨텍스 대표이사 'Service Excellence Award' 공공 CEO상 수상",
@@ -1310,7 +2347,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[ 이슈 직썰] 장동혁 \"수능 연기 검토해야\"···AI 부정행위 파문에 교육...",
@@ -1320,7 +2358,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "K뷰티 몸값 낮아지는데…구다이 '10조' 눈높이 통할까",
@@ -1330,7 +2369,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "국민연금 ·JP모간운용, ‘전 자산군 포괄’ 전략적 MOU",
@@ -1340,7 +2380,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[아유경제_ 부동산 ] 서울시, 2027년 하반기부터 청년 관리비 지원… \"주거...",
@@ -1350,7 +2391,8 @@
    "tags": [
     "부동산"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "비트코인 반등 분수령은 7만 5,000달러…6만 달러 붕괴 시 추가 하락 우...",
@@ -1360,7 +2402,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "이스라엘 소비재전자 시장, 가성비·실용성 소비 확산",
@@ -1370,7 +2413,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "‘K-뷰티 공룡’ 구다이글로벌, 10조 몸값 도전",
@@ -1380,7 +2424,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[올댓차이나] 위안화 기준치 1달러=6.7141위안…0.016% 절상",
@@ -1390,7 +2435,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "유승훈 교수 “AI 시대 전력난, 기존 댐을 복합 에너지 기지로 활용해야...",
@@ -1400,7 +2446,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "IBK기업은행, 매달 이자 받는 중금채 '매월 이자주는 통장' 출시",
@@ -1410,7 +2457,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "NH농협금융, ' 대출 부터 재기까지' 취약계층 포용금융 지원 넓힌다",
@@ -1420,7 +2468,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "NH농협금융, 올해 포용금융 3.4조 공급",
@@ -1430,7 +2479,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "'젠슨황 스캔들' 엔비디아발 악재에 AI주 흔들...이번 주 실적이 분수령",
@@ -1440,7 +2490,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "국민연금, 美 빅테크 투자 '쑥'…MS 평가액 38% 급증",
@@ -1462,7 +2513,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "충북도 '초광역형 관광교통 연계 노선 ' 본격 운행",
@@ -1472,7 +2524,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "안경 반사각까지 살핀다…AI 커닝에 대 기업 채용도 차단책 부심",
@@ -1482,7 +2535,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "\"비행기 띄워 번 돈의 6배\"…3Q 환율 하락에 대한항공·아시아나 빚 1.5조...",
@@ -1492,7 +2546,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "호르무즈 긴장·고유가 여전…석유 최고가격제 4주 연장에 김정관 \"시장...",
@@ -1512,7 +2567,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[장중시황] 외국인 순매도에 코스피 2%대 하락 ‘5170선’⋯SK하이닉스 ...",
@@ -1522,7 +2578,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "\"오를 땐 상승 동력, 내릴 땐 매물 폭탄?\"...삼전·닉스에 몰린 '빚투' 7...",
@@ -1532,7 +2589,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "LH 조성 화성동탄2 바랑골 느티공원, 대한민국조경대상서 국무총리상 수...",
@@ -1542,7 +2600,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "KR, 선사 안전관리 강화 지원...국제규범, 현장안전에 적용",
@@ -1552,7 +2611,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "KB손보, KCGS 금융회사 지배구조 평가 8년 연속 A등급…이사회·내부통제...",
@@ -1562,7 +2622,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "美 반도체 3.4% 급락…코스피 5200선 붕괴",
@@ -1584,7 +2645,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "NH농협금융, 올해 포용금융 3.4조 공급 …\"취약계층 대출 부터 재기까지...",
@@ -1594,7 +2656,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[외환] 강달러 대외여건에도 원화는 무덤덤…2.00원↓",
@@ -1615,7 +2678,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "인천도시공사 검단 신도시 공원, 조경대상서 '국가유산청장상' 수상",
@@ -1625,7 +2689,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[핫 이슈 ] 한때 운용자산 26.8조원 펀드 붕괴…튀르키예 증시 '유통주식...",
@@ -1646,7 +2711,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "세종대 김대종 교수 \"총부채 관리·외환보유 확대·예산 효율화 필요\" ....",
@@ -1667,7 +2733,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[부동산 나들이] 서울 아파트 '97주 연속↑'·삼표 'ESG 4년 연속 A'·LH '...",
@@ -1677,7 +2744,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[건설 레이더] 우미건설·중흥토건, 구리·부산서 분양가상한제 적용 단...",
@@ -1709,7 +2777,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "250년 된 보호수 보존한 LH…대한민국 조경대상 국무총리상 수상",
@@ -1719,7 +2788,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[오늘 일본은] 日경제, 다시 뒷걸음질… 물가 부담에 소비도 얼어붙었다",
@@ -1749,7 +2819,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "부천대장 하우스토리 디센트, 견본주택 사흘간 1만2000명 방문 … 3기 신...",
@@ -1770,7 +2841,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "코스피 ·코스닥 3% 안팎 하락 중…외국인 '팔자'",
@@ -1790,7 +2862,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[K신약 AtoZ⑮] 18년째 팔팔한 '놀텍'…지금도 일양약품 성장 이끈다",
@@ -1800,7 +2873,8 @@
    "tags": [
     "지원금·복지"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "김장겸 의원 \"높아진 내 집 마련 문턱, 주택금융 혁신 필요\"",
@@ -1822,7 +2896,8 @@
    "tags": [
     "부동산"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[포커스] 저축銀 예금 금리 4%대 육박…고객 경쟁에 커지는 비용부담",
@@ -1832,7 +2907,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "중수청, '명륜진사갈비' 본사 압수수색…부당지원 의혹",
@@ -1842,7 +2918,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[오늘의 브랜드] 차앤맘, 글로벌 교육 IP ‘넘버블록스’와 협업 신제품...",
@@ -1852,7 +2929,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "앤트로픽 IPO 앞두고 현금 확보전?...아시아 증시·비트코인 전방위 약세",
@@ -1914,7 +2992,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "최민희 설화에 한겨레 \"민생은 뒷전\" 중앙 \"국민은 걱정이 태산\"",
@@ -1924,7 +3003,8 @@
    "tags": [
     "부동산"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[부산 변호사 한변의 리얼상담실 68] 셀트리온 주가와 주주권, 6개월이 ...",
@@ -1946,7 +3026,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "국민연금 , 한전과 손잡고 ICT센터 'AI 화재감시' 강화",
@@ -1956,7 +3037,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "서울 동북권 새 아파트 공급···우미건설, 구리갈매역세권서 734가구 ...",
@@ -2042,7 +3124,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "IBK기업은행, '매월 이자주는 통장' 출시",
@@ -2052,7 +3135,8 @@
    "tags": [
     "금리·물가"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "석유 최고가격제·요금 동결 청구서…재정·공기업 부담",
@@ -2072,7 +3156,8 @@
    "tags": [
     "주식·환율"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[정해균의 ZOOM-人] 최창원 판을 바꾸고, 정기선 미래를 열고, 허태수 혁...",
@@ -2092,7 +3177,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "우미건설, '구리갈매역세권 우미린 더 시그니처' 12월 분양 예정",
@@ -2135,7 +3221,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[홍성소식] 재난관리 우수기관 선정…장관 표창·특교세 3억 외",
@@ -2145,7 +3232,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "[문인찬의 新技術論] New Technology Paradigm #4",
@@ -2166,7 +3254,8 @@
    "tags": [
     "부동산"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "달러, 2025년 5월 이후 최고…연준 추가 금리 인상 전망에 미국 국채금리...",
@@ -2188,7 +3277,8 @@
    "tags": [
     "세금·연금"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "경기도교육청, 도내 학교 신·증축 공사 현장 8곳 합동점검… 불법하도...",
@@ -2198,7 +3288,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "국가자격시험 'AI 부정행위' 파장에 전파탐지 기술 부각…지슨 장 초반...",
@@ -2208,7 +3299,8 @@
    "tags": [
     "경제 이슈"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "문금주 의원 \"전남광주 30분내 통근 생활권 만든다\"…TF 회의",
@@ -2229,7 +3321,8 @@
    "tags": [
     "교통·개발"
    ],
-   "end": null
+   "end": null,
+   "gov": false
   },
   {
    "title": "천안시 \"중부권횡단철도·GTX-C 연장, 국가 계획 반영을\"",
@@ -8940,6 +10033,39 @@
    "end": null
   },
   {
+   "title": "초등학교 주변 안전점검을 통해위해요소 20만여 건 적발, 5만여 건 행정처분",
+   "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789393&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-16&endDate=2026-11-16&srchWord=&period=",
+   "t": "2026-11-16T09:00:00+09:00",
+   "by": "정책브리핑",
+   "tags": [
+    "정부 정책"
+   ],
+   "gov": true,
+   "end": null
+  },
+  {
+   "title": "2025년 주택소유통계 결과",
+   "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789391&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-16&endDate=2026-11-16&srchWord=&period=",
+   "t": "2026-11-16T09:00:00+09:00",
+   "by": "정책브리핑",
+   "tags": [
+    "정부 정책"
+   ],
+   "gov": true,
+   "end": null
+  },
+  {
+   "title": "원전 공론화 누리집 16일 개설… 공개토론회 참석 신청 17일부터",
+   "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789390&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-16&endDate=2026-11-16&srchWord=&period=",
+   "t": "2026-11-16T09:00:00+09:00",
+   "by": "정책브리핑",
+   "tags": [
+    "정부 정책"
+   ],
+   "gov": true,
+   "end": null
+  },
+  {
    "title": "“이번주엔 앞길 좀 트일까요”…엔비디아에 미중회담·앤트로픽 IPO까지",
    "link": "https://www.mk.co.kr/article/12209596",
    "t": "2026-11-16T08:59:00+09:00",
@@ -9640,999 +10766,6 @@
    "link": "https://www.jasm.co.kr/news/view/325349/?sc=Naver",
    "t": "2026-11-16T08:34:00+09:00",
    "by": "jasm.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "[모닝 리포트] \"현대백화점, 전 사업부 증익 구간 진입\"",
-   "link": "https://www.newspim.com/news/view/20261116000093",
-   "t": "2026-11-16T08:34:00+09:00",
-   "by": "newspim.com",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "[모닝 리포트] \"신세계, 3분기 호실적에도 4분기 모멘텀 둔화\"",
-   "link": "https://www.newspim.com/news/view/20261116000088",
-   "t": "2026-11-16T08:33:00+09:00",
-   "by": "newspim.com",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "조용술 국민의힘 대변인 “보안·전세·특검 난맥상…민생·법치 흔들려...",
-   "link": "http://www.breaknews.com/1251125",
-   "t": "2026-11-16T08:32:00+09:00",
-   "by": "breaknews.com",
-   "tags": [
-    "부동산"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "국민의힘 장동혁·정점식, 장외투쟁 “사법 흔들기·재정 팽창 저지”",
-   "link": "http://www.breaknews.com/1251124",
-   "t": "2026-11-16T08:32:00+09:00",
-   "by": "breaknews.com",
-   "tags": [
-    "부동산",
-    "세금·연금"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "울릉군, 전입 청년 전·월세 중개 수수료 무료",
-   "link": "https://daily.hankooki.com/news/articleView.html?idxno=1425202",
-   "t": "2026-11-16T08:32:00+09:00",
-   "by": "daily.hankooki.com",
-   "tags": [
-    "부동산"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "\"10월 -16%·11월 -16%\"...리플(XRP), 두 달 연속 두 자릿수 폭락",
-   "link": "http://coinreaders.com/270480",
-   "t": "2026-11-16T08:32:00+09:00",
-   "by": "coinreaders.com",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "11월 16일 출근길 팟캐스트 미 재무장관의 추가 긴축 자제 촉구에 쏠린...",
-   "link": "https://www.tokenpost.kr/news/insights/438735",
-   "t": "2026-11-16T08:32:00+09:00",
-   "by": "tokenpost.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null
-  },
-  {
-   "title": "[온체인 주식선물] 삼성전자, 정규장 종가보다 0.85% 할인",
-   "link": "https://www.tokenpost.kr/news/insights/438752",
-   "t": "2026-11-16T08:32:00+09:00",
-   "by": "tokenpost.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "19세에 무려 '억대 수입'…살인적 스케줄에 공항서 생방송까지 한 전설...",
-   "link": "https://mhnse.com/news/articleView.html?idxno=1698066",
-   "t": "2026-11-16T08:32:00+09:00",
-   "by": "mhnse.com",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "iM증권 \"서진시스템, 적자사업부 정리에 따른 빅배스 반영…중장기 성장...",
-   "link": "https://www.etoday.co.kr/news/view/2648403",
-   "t": "2026-11-16T08:32:00+09:00",
-   "by": "etoday.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "[국제금융 브리핑] 엔비디아 실적·앤트로픽 상장 시험대...연준 금리인...",
-   "link": "https://www.tokenpost.kr/news/economy/438754",
-   "t": "2026-11-16T08:32:00+09:00",
-   "by": "tokenpost.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "3기 신도시·분상제 통했다…부천대장 하우스토리 디센트 견본 '구름 인...",
-   "link": "https://www.mediapen.com/news/view/1137563",
-   "t": "2026-11-16T08:32:00+09:00",
-   "by": "mediapen.com",
-   "tags": [
-    "교통·개발"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[부산소식]세계 1000개 도시 앞에 선 부산···스마트시티 브랜드 알렸...",
-   "link": "https://daily.hankooki.com/news/articleView.html?idxno=1425241",
-   "t": "2026-11-16T08:32:00+09:00",
-   "by": "daily.hankooki.com",
-   "tags": [
-    "교통·개발"
-   ],
-   "end": null
-  },
-  {
-   "title": "인천시, 2027 수능 대비 특별교통 대책 마련··· 버스·도시 철도 집중...",
-   "link": "https://www.incheontoday.com/news/articleView.html?idxno=326380",
-   "t": "2026-11-16T08:32:00+09:00",
-   "by": "incheontoday.com",
-   "tags": [
-    "교통·개발"
-   ],
-   "end": null
-  },
-  {
-   "title": "[모닝 리포트] \"美 물가 상승에 국고채 금리 급등, 투자심리 위축\"",
-   "link": "https://www.newspim.com/news/view/20261116000108",
-   "t": "2026-11-16T08:31:00+09:00",
-   "by": "newspim.com",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "“오를 주식 찾아줘” 한마디면 끝?…AI 증권앱 어디까지 왔나",
-   "link": "https://economist.co.kr/article/view/ecn202611100073",
-   "t": "2026-11-16T08:31:00+09:00",
-   "by": "economist.co.kr",
-   "tags": [
-    "경제 이슈"
-   ],
-   "end": null
-  },
-  {
-   "title": "[이정희의 이코노믹뷰] 남대문 시장 '스카프 아저씨'서 전통시장 부활 ...",
-   "link": "https://magazine.hankyung.com/business/article/202611122154b",
-   "t": "2026-11-16T08:30:00+09:00",
-   "by": "magazine.hankyung.com",
-   "tags": [
-    "부동산"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[상호금융 진단] [신협] ②이익잉여금 2년 만에 1조원 증발…'네카오' 진...",
-   "link": "https://www.topdaily.kr/articles/112906",
-   "t": "2026-11-16T08:30:00+09:00",
-   "by": "topdaily.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "이재현의 복심 '신영수'의 딜레마···'오네'와 '미국'에 갇힌 CJ대한통...",
-   "link": "https://www.smartbizn.com/news/articleView.html?idxno=159157",
-   "t": "2026-11-16T08:30:00+09:00",
-   "by": "smartbizn.com",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null
-  },
-  {
-   "title": "[어제장 오늘장] 전강후약 코스피…젠슨황 쇼크 딛고 분위기 전환할까",
-   "link": "https://biz.sbs.co.kr/article_hub/20000346561?division=NAVER",
-   "t": "2026-11-16T08:30:00+09:00",
-   "by": "biz.sbs.co.kr",
-   "tags": [
-    "경제 이슈",
-    "주식·환율"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "\"젠슨 황, 엔비디아 CEO 복귀 모색·백악관 지지 확보 시도\"...온라인 청...",
-   "link": "https://www.livebiz.today/news/articleView.html?idxno=206532",
-   "t": "2026-11-16T08:30:00+09:00",
-   "by": "livebiz.today",
-   "tags": [
-    "경제 이슈"
-   ],
-   "end": null
-  },
-  {
-   "title": "[ 기업이슈 ] 李 \"대주주 지분율 과도한 기업, 시장서 퇴출해야\"",
-   "link": "https://biz.sbs.co.kr/article_hub/20000346560?division=NAVER",
-   "t": "2026-11-16T08:30:00+09:00",
-   "by": "biz.sbs.co.kr",
-   "tags": [
-    "경제 이슈"
-   ],
-   "end": null
-  },
-  {
-   "title": "집 파는 사람 줄었는데…‘20년’ 장기보유 주인은 더 팔았다",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=01367766645646376&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-16T08:29:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "부동산"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "한투증권 \"내년 코스피 목표치 8300…단계적 상승\"",
-   "link": "https://biz.sbs.co.kr/article_hub/20000346574?division=NAVER",
-   "t": "2026-11-16T08:29:00+09:00",
-   "by": "biz.sbs.co.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[오늘 증시 전망] 엔비디아 실적 주목",
-   "link": "http://www.kjdaily.com/article.php?aid=1794785166692348276",
-   "t": "2026-11-16T08:28:00+09:00",
-   "by": "kjdaily.com",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null
-  },
-  {
-   "title": "부산 저소득층 주거비 부담 덜어준다…영구임대주택 LED 무상 교체",
-   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504291",
-   "t": "2026-11-16T08:28:00+09:00",
-   "by": "pinpointnews.co.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null
-  },
-  {
-   "title": "[모닝 리포트] \"외국인 자금 이탈에 환율 상승, 1330원대 반등 전망\"",
-   "link": "https://www.newspim.com/news/view/20261116000101",
-   "t": "2026-11-16T08:28:00+09:00",
-   "by": "newspim.com",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "다이소, 생활용품 브랜드평판 2026년 11월...1위",
-   "link": "http://www.beyondpost.co.kr/view.php?ud=2026111608243053146a9e4dd7f_30",
-   "t": "2026-11-16T08:28:00+09:00",
-   "by": "beyondpost.co.kr",
-   "tags": [
-    "경제 이슈"
-   ],
-   "end": null
-  },
-  {
-   "title": "'젠슨 황 쇼크' 딛고 반등할까…엔비디아 실적·앤트로픽 상장에 쏠린 ...",
-   "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000082961",
-   "t": "2026-11-16T08:27:00+09:00",
-   "by": "jnilbo.com",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "부산시, 수능 지원 대책 추진…교통 혼잡 해소·응급 대응 강화",
-   "link": "https://www.newspim.com/news/view/20261116000059",
-   "t": "2026-11-16T08:27:00+09:00",
-   "by": "newspim.com",
-   "tags": [
-    "교통·개발"
-   ],
-   "end": null
-  },
-  {
-   "title": "李대통령 지지율 36.4%…부정평가 60.9%",
-   "link": "https://www.ajunews.com/view/20261116081923015",
-   "t": "2026-11-16T08:26:00+09:00",
-   "by": "ajunews.com",
-   "tags": [
-    "부동산"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[오늘 증시 전망] 코스피 5,300선 내주고 외국인 매도 전환…16일 국내 ...",
-   "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=101175",
-   "t": "2026-11-16T08:26:00+09:00",
-   "by": "upkoreanews.kr",
-   "tags": [
-    "금리·물가",
-    "주식·환율"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "파주시, GTX-A 차량기지 승하차시설 신설 추진…경제성·사업성 확보",
-   "link": "https://www.ppss.kr/news/articleView.html?idxno=321069",
-   "t": "2026-11-16T08:26:00+09:00",
-   "by": "ppss.kr",
-   "tags": [
-    "교통·개발"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[부동산 먼데이 시그널] 강북 개발 문턱 '낮추고', 주택 공급 지원…서...",
-   "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=320536",
-   "t": "2026-11-16T08:24:00+09:00",
-   "by": "wolyo.co.kr",
-   "tags": [
-    "경제 이슈",
-    "교통·개발"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "쿠팡, 간편식 브랜드평판 2026년 11월...1위",
-   "link": "http://www.beyondpost.co.kr/view.php?ud=20261116081716968646a9e4dd7f_30",
-   "t": "2026-11-16T08:22:00+09:00",
-   "by": "beyondpost.co.kr",
-   "tags": [
-    "경제 이슈"
-   ],
-   "end": null
-  },
-  {
-   "title": "한투증권, 내년 코스피 목표 8,300…\"점진적 상승세\"",
-   "link": "https://www.yna.co.kr/view/AKR20261116018100008?input=1195m",
-   "t": "2026-11-16T08:21:00+09:00",
-   "by": "yna.co.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null
-  },
-  {
-   "title": "[굿모닝! 글로벌 뉴욕증시] 황 떠난 엔비디아, AI 돈줄 불안 확산…반도...",
-   "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=305041",
-   "t": "2026-11-16T08:18:00+09:00",
-   "by": "newsquest.co.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[박정식의 국내 주식시황] 엔비디아 불확실성에 美 물가 쇼크까지…코스...",
-   "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=305043",
-   "t": "2026-11-16T08:18:00+09:00",
-   "by": "newsquest.co.kr",
-   "tags": [
-    "경제 이슈",
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[마켓뷰] '젠슨 황' 파장속 'AI 빅위크' 경계감…코스피 향배는",
-   "link": "https://www.yna.co.kr/view/AKR20261116017000008?input=1195m",
-   "t": "2026-11-16T08:17:00+09:00",
-   "by": "yna.co.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "석유 최고가격 5회 연속 동결…김정관 \"국민 부담 줄이는 게 더 중요\"",
-   "link": "https://www.newsian.co.kr/news/articleView.html?idxno=101306",
-   "t": "2026-11-16T08:16:00+09:00",
-   "by": "newsian.co.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null
-  },
-  {
-   "title": "페로타임즈 손바닥뉴스 11월16일(월)",
-   "link": "http://www.ferrotimes.com/news/articleView.html?idxno=51496",
-   "t": "2026-11-16T08:16:00+09:00",
-   "by": "ferrotimes.com",
-   "tags": [
-    "경제 이슈"
-   ],
-   "end": null
-  },
-  {
-   "title": "네고에 눌렸다 해외장서 반등… 원/달러 환율, '전약후강' 전망",
-   "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=731421",
-   "t": "2026-11-16T08:14:00+09:00",
-   "by": "the-biz.co.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null
-  },
-  {
-   "title": "리플(XRP) 2027년 반등 가능할까…1달러 회복해도 1.84달러는 어렵다?",
-   "link": "http://coinreaders.com/270473",
-   "t": "2026-11-16T08:12:00+09:00",
-   "by": "coinreaders.com",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null
-  },
-  {
-   "title": "[보도참고] 식약처, 혁신의료기기 정책 포럼 2026 개최",
-   "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789282&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-16&endDate=2026-11-16&srchWord=&period=",
-   "t": "2026-11-16T08:10:44.433851+09:00",
-   "by": "정책브리핑",
-   "tags": [
-    "정부 정책"
-   ],
-   "gov": true,
-   "end": null
-  },
-  {
-   "title": "[보도참고] 식약처, GMO 완전표시제 시행 앞두고 업계 설명회 개최",
-   "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789281&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-16&endDate=2026-11-16&srchWord=&period=",
-   "t": "2026-11-16T08:10:44.433851+09:00",
-   "by": "정책브리핑",
-   "tags": [
-    "정부 정책"
-   ],
-   "gov": true,
-   "end": null
-  },
-  {
-   "title": "식약처, 수능 대비 마약류 등 의약품 온라인 불법 판매·알선 점검…571건 적발",
-   "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789280&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-16&endDate=2026-11-16&srchWord=&period=",
-   "t": "2026-11-16T08:10:44.433851+09:00",
-   "by": "정책브리핑",
-   "tags": [
-    "정부 정책"
-   ],
-   "gov": true,
-   "end": null
-  },
-  {
-   "title": "정부, 물가 상승 대책 논의... 소비자물가 2.8% 상승에 촉각",
-   "link": "https://www.gokorea.kr/news/articleView.html?idxno=885780",
-   "t": "2026-11-16T08:10:00+09:00",
-   "by": "gokorea.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[오늘의 투자전략] 美 금리 부담 속 엔비디아 실적 대기…\" 코스피 , 하방...",
-   "link": "https://www.etoday.co.kr/news/view/2648384",
-   "t": "2026-11-16T08:10:00+09:00",
-   "by": "etoday.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "美 반도체주 급락에 환율 상승 경계…외국인 수급 변수[외환브리핑]",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=01338246645646376&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-16T08:10:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "고려아연, 美 핵심광물 제련소 전력 230MW 확보···10조원 투자 탄력",
-   "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2492642",
-   "t": "2026-11-16T08:10:00+09:00",
-   "by": "enewstoday.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "'활주로· 철도 망·공공기관' 충북 현안 성패 연말 갈린다",
-   "link": "https://www.news1.kr/local/sejong-chungbuk/6354504",
-   "t": "2026-11-16T08:10:00+09:00",
-   "by": "news1.kr",
-   "tags": [
-    "교통·개발"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "미래에셋자산운용, 자산운용사 브랜드평판 2026년 11월...1위",
-   "link": "http://www.beyondpost.co.kr/view.php?ud=20261116080557987646a9e4dd7f_30",
-   "t": "2026-11-16T08:10:00+09:00",
-   "by": "beyondpost.co.kr",
-   "tags": [
-    "경제 이슈"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "토스인슈어런스, 신입 보험설계사에 육성 지원금 500만원 지급",
-   "link": "http://www.bizwnews.com/news/articleView.html?idxno=151894",
-   "t": "2026-11-16T08:08:00+09:00",
-   "by": "bizwnews.com",
-   "tags": [
-    "지원금·복지"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "코스피 ·코스닥, 전 거래일(13일) 주요공시",
-   "link": "http://www.issuenbiz.com/news/articleView.html?idxno=81604",
-   "t": "2026-11-16T08:08:00+09:00",
-   "by": "issuenbiz.com",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "[CEO 전망대] [NH아문디자산운용] 길정섭 대표, 실적 개선에도 '연임 변...",
-   "link": "https://news.dealsitetv.com/articles/178436",
-   "t": "2026-11-16T08:08:00+09:00",
-   "by": "dealsitetv.com",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "부산시, 수능일 교통·의료 종합지원… 버스 83개 노선 증편·도시 철도 ...",
-   "link": "https://www.etoday.co.kr/news/view/2648383",
-   "t": "2026-11-16T08:08:00+09:00",
-   "by": "etoday.co.kr",
-   "tags": [
-    "교통·개발"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[모닝 리포트] \"비에이치아이, 3분기 호실적 이어 북미·체코 수주 기회...",
-   "link": "https://www.newspim.com/news/view/20261116000062",
-   "t": "2026-11-16T08:07:00+09:00",
-   "by": "newspim.com",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "부산시, 수능 종합대책 마련…대중교통 증편·비상수송 지원",
-   "link": "https://www.yna.co.kr/view/AKR20261116014200051?input=1195m",
-   "t": "2026-11-16T08:07:00+09:00",
-   "by": "yna.co.kr",
-   "tags": [
-    "교통·개발"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[AI MY 증시전망] 엔비디아 실적 앞둔 코스피 …\"AI 불안에 약세 전망\"",
-   "link": "https://www.newspim.com/news/view/20261116000034",
-   "t": "2026-11-16T08:06:00+09:00",
-   "by": "newspim.com",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[ 코스피 ·코스닥,DL이앤씨 휴마시스 GS건설 롯데건설 교보증권 토스 현...",
-   "link": "https://www.public25.com/news/articleView.html?idxno=58514",
-   "t": "2026-11-16T08:06:00+09:00",
-   "by": "public25.com",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "원·달러 NDF 0.2원 상승, 미 PPI 상승",
-   "link": "https://www.etoday.co.kr/news/view/2648379",
-   "t": "2026-11-16T08:06:00+09:00",
-   "by": "etoday.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "\"이제 그만 사세요\" 자녀가 먼저 권했다…'30년 부부' 황혼이혼, 왜 느는...",
-   "link": "https://www.imaeil.com/page/view/2026111607453245121",
-   "t": "2026-11-16T08:05:00+09:00",
-   "by": "imaeil.com",
-   "tags": [
-    "세금·연금"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "은행 대기자금 '들락날락'…요구불예금 회전율 10년 반 만에 최고",
-   "link": "https://www.raonnews.com/news/article.html?no=62779",
-   "t": "2026-11-16T08:04:00+09:00",
-   "by": "raonnews.com",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "앤스로픽·홍콩 등 해외는 달리는데...92%가 공모가 밑돈 국내 IPO 시장",
-   "link": "https://www.chosun.com/economy/stock-finance/2026/11/16/DEXQSQVVKRHLFOQQDL2ZR5JCCI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-   "t": "2026-11-16T08:04:00+09:00",
-   "by": "chosun.com",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "\"피에스케이, 2028년까지 사이클 지속…이익 전망치 상향 조정\"-대신",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=01321846645646376&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-16T08:04:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "부산시, 수능일 출근 10시 조정·수송력 총동원",
-   "link": "https://www.sedaily.com/article/20114616?ref=naver",
-   "t": "2026-11-16T08:04:00+09:00",
-   "by": "sedaily.com",
-   "tags": [
-    "교통·개발"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[삐그덕거리는 데이터센터 열풍/③끝]18.4GW 메가프로젝트…확장보다 '...",
-   "link": "https://www.businessplus.kr/news/articleView.html?idxno=119895",
-   "t": "2026-11-16T08:02:00+09:00",
-   "by": "businessplus.kr",
-   "tags": [
-    "부동산"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "비트코인 폭락 끝났나…6만 2,000달러 사수에 10만 달러 목표 재등장",
-   "link": "http://coinreaders.com/270467",
-   "t": "2026-11-16T08:02:00+09:00",
-   "by": "coinreaders.com",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[청년-인터뷰] '얼마를 만들기보단 어떻게 쓸지가 중요\"...김동익 100세시...",
-   "link": "https://www.youthdaily.co.kr/news/article.html?no=229823",
-   "t": "2026-11-16T08:02:00+09:00",
-   "by": "youthdaily.co.kr",
-   "tags": [
-    "금리·물가",
-    "세금·연금"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "\"아내가 알면 어쩌나\"…아파트 중도금 2억 투자했다가 날린 40대",
-   "link": "https://www.fnnews.com/news/202611160751109269",
-   "t": "2026-11-16T08:02:00+09:00",
-   "by": "fnnews.com",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "신한證 “증권주 과매도 구간⋯삼성증권 방어·키움증권 분할매수 기회...",
-   "link": "https://www.etoday.co.kr/news/view/2648377",
-   "t": "2026-11-16T08:02:00+09:00",
-   "by": "etoday.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "'붉은사막' 가뭄에 원화 강세 폭풍까지…펄어비스, 한 분기 만에 순이익...",
-   "link": "https://www.youthdaily.co.kr/news/article.html?no=229780",
-   "t": "2026-11-16T08:02:00+09:00",
-   "by": "youthdaily.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "대신증권 \"자화전자, 실적 부진·스마트폰 둔화…목표가 하향\"",
-   "link": "https://www.jasm.co.kr/news/view/325344/?sc=Naver",
-   "t": "2026-11-16T08:02:00+09:00",
-   "by": "jasm.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "제우스 흥행은 \"찻잔 속 태풍\"…컴투스, 수익성 개선·글로벌 성과 '오리...",
-   "link": "https://www.youthdaily.co.kr/news/article.html?no=229781",
-   "t": "2026-11-16T08:02:00+09:00",
-   "by": "youthdaily.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "유원인터내셔널, 서울서 말레이시아 장기체류·부동산 세미나 개최",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=01308726645646376&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-16T08:02:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "교통·개발"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "유원인터내셔널, 서울서 'MM2H 장기체류·말레이시아 부동산 세미나' 개...",
-   "link": "https://www.etnews.com/20261113000288",
-   "t": "2026-11-16T08:01:00+09:00",
-   "by": "etnews.com",
-   "tags": [
-    "교통·개발"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "청년창업 2000억원 보증대출…보증비율 100%로 청년 창업 희망사다리",
-   "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=211403",
-   "t": "2026-11-16T08:00:00+09:00",
-   "by": "lcnews.co.kr",
-   "tags": [
-    "금리·물가",
-    "지원금·복지"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "엔비디아 충격에 미국 물가 부담까지…앤트로픽 IPO, AI 투자심리 시험...",
-   "link": "https://www.cbci.co.kr/news/articleView.html?idxno=627138",
-   "t": "2026-11-16T08:00:00+09:00",
-   "by": "cbci.co.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "이준호의 인공지능이야기 <66> 데이터센터가 투표에서 졌다 AI 인프라 앞...",
-   "link": "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=56065",
-   "t": "2026-11-16T08:00:00+09:00",
-   "by": "ifs.or.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "변동성 증대 원흉...'빚투' 자금 30%가 삼전·닉스에 집중",
-   "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=284886",
-   "t": "2026-11-16T08:00:00+09:00",
-   "by": "financialpost.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "李 \"자본시장 정상화는 우리 정부의 확고한 방향\" [1분 브리프]",
-   "link": "https://view.asiae.co.kr/article/2026111606584563510",
-   "t": "2026-11-16T08:00:00+09:00",
-   "by": "view.asiae.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "금융지주 3연임 문턱 높였지만…ISS 영향력·관치 논란은 숙제",
-   "link": "https://news.bizwatch.co.kr/article/finance/2026/11/12/0048",
-   "t": "2026-11-16T08:00:00+09:00",
-   "by": "bizwatch.co.kr",
-   "tags": [
-    "세금·연금"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "[전국 주요 신문 톱뉴스](16일 조간)",
-   "link": "https://www.yna.co.kr/view/AKR20261116011500011?input=1195m",
-   "t": "2026-11-16T08:00:00+09:00",
-   "by": "yna.co.kr",
-   "tags": [
-    "교통·개발"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "'부처 이전 기대감' 세종 아파트 전세 · 매매 동반 상승",
-   "link": "https://tjmbc.co.kr/NewsArticle/873467",
-   "t": "2026-11-16T08:00:00+09:00",
-   "by": "tjmbc.co.kr",
-   "tags": [
-    "부동산"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "기름값 잡으려다 재정 부담 눈덩이···한전·가스공사도 '빚의 늪'",
-   "link": "https://www.seoulfn.com/news/articleView.html?idxno=642871",
-   "t": "2026-11-16T08:00:00+09:00",
-   "by": "seoulfn.com",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null
-  },
-  {
-   "title": "[07:51 가상자산] 비트코인, 저가 매수세 유입에 반등…8997만원선",
-   "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083583",
-   "t": "2026-11-16T07:58:00+09:00",
-   "by": "shinailbo.co.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "김정관 산업장관 \"최고가격제 연장은 국민 부담 줄이려는 불가피한 선택...",
-   "link": "https://www.tfmedia.co.kr/news/article.html?no=208909",
-   "t": "2026-11-16T07:58:00+09:00",
-   "by": "tfmedia.co.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "젠슨 황 사임까지···비트코인 6만5000달러 붕괴",
-   "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883450",
-   "t": "2026-11-16T07:58:00+09:00",
-   "by": "hansbiz.co.kr",
-   "tags": [
-    "금리·물가"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "하나증권 \"은행주, 글로벌 금리 급등에 방어주 매력…신한·BNK금융 선호...",
-   "link": "http://www.popcornnews.net/news/articleView.html?idxno=140123",
-   "t": "2026-11-16T07:58:00+09:00",
-   "by": "popcornnews.net",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "반도체 네고에 엔화 동조화까지⋯\"1320원 후반대 하락 후 반등\" [ 환율 전...",
-   "link": "https://www.etoday.co.kr/news/view/2648373",
-   "t": "2026-11-16T07:58:00+09:00",
-   "by": "etoday.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "李대통령, '유시민에 욕설' 오창석 청년재단 이사장에 \"큰 성과 감사\"",
-   "link": "https://www.slist.kr/news/articleView.html?idxno=782018",
-   "t": "2026-11-16T07:56:00+09:00",
-   "by": "slist.kr",
-   "tags": [
-    "부동산"
-   ],
-   "end": null,
-   "gov": false
-  },
-  {
-   "title": "iM증권 “스페이스X, 美 전국 5G망 구축 구체화…RFHIC·케이엠더블유 등...",
-   "link": "https://www.etoday.co.kr/news/view/2648376",
-   "t": "2026-11-16T07:56:00+09:00",
-   "by": "etoday.co.kr",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "젠슨 황 사임에 출렁인 반도체주…'삼전닉스' 주가 향방은",
-   "link": "https://www.cstimes.com/news/articleView.html?idxno=727873",
-   "t": "2026-11-16T07:56:00+09:00",
-   "by": "cstimes.com",
-   "tags": [
-    "주식·환율"
-   ],
-   "end": null
-  },
-  {
-   "title": "영업 흑자에도 세전 적자…게임업계 3분기 성적표",
-   "link": "https://www.cstimes.com/news/articleView.html?idxno=727869",
-   "t": "2026-11-16T07:56:00+09:00",
-   "by": "cstimes.com",
    "tags": [
     "주식·환율"
    ],

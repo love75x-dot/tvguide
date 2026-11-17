@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:10:49.165549+09:00",
+ "updated": "2026-11-18T04:10:44.083220+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -12,6 +12,12 @@
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "“통밀빵이라 믿고 샀는데 혈당 치솟았다”… 봉지 뒷면 ‘이 글씨’ 확...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111702361.html",
+     "t": "2026-11-18T04:01:00+09:00",
+     "by": "health.chosun.com"
+    },
     {
      "title": "“잠 설친 날 빈속에 커피 마시면 큰일” 혈당 반응 50% 더 커진다",
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111702377.html",
@@ -35,12 +41,6 @@
      "link": "https://www.k-health.com/news/articleView.html?idxno=102290",
      "t": "2026-11-17T19:02:00+09:00",
      "by": "k-health.com"
-    },
-    {
-     "title": "동아ST·메타비아, 비만 신약 전임상서 혈당 감소 효과 확인",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625769",
-     "t": "2026-11-17T18:02:00+09:00",
-     "by": "mdtoday.co.kr"
     }
    ]
   },
@@ -647,47 +647,6 @@
    ]
   },
   {
-   "name": "염증",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "“염증 줄이는 아침 메뉴” 10kg 감량 성시경이 추천한 ‘토마토 요리’",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111701625.html",
-     "t": "2026-11-18T02:31:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "저탄고지 식단의 배신…면역세포 바꿔 염증 유발 [달콤한 사이언스]",
-     "link": "https://www.seoul.co.kr/news/plan/science-story/2026/11/16/20261116500241?wlog_tag3=naver",
-     "t": "2026-11-16T17:32:00+09:00",
-     "by": "seoul.co.kr"
-    },
-    {
-     "title": "[60초 보건정책] 약 먹고 숙면?…복용 직후 누우면 '식도 염증' 유발",
-     "link": "https://www.newspim.com/news/view/20261116000244",
-     "t": "2026-11-16T09:15:00+09:00",
-     "by": "newspim.com"
-    },
-    {
-     "title": "콜라 매일 마셨는데…염증 고위험군 가능성 3.1배",
-     "link": "https://www.segye.com/newsView/20261115500583?OutUrl=naver",
-     "t": "2026-11-15T05:02:00+09:00",
-     "by": "segye.com"
-    },
-    {
-     "title": "\"나도 모르게 쌓인 '만성 염증'이 뇌졸중 부른다…혈액검사로 예방 해야...",
-     "link": "https://www.newsis.com/view/NISX20261113_0003867534",
-     "t": "2026-11-15T03:23:00+09:00",
-     "by": "newsis.com"
-    }
-   ]
-  },
-  {
    "name": "코로나",
    "kind": "질환·증상",
    "count": 5,
@@ -865,6 +824,40 @@
      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=549132",
      "t": "2026-11-17T12:52:00+09:00",
      "by": "kpanews.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "염증",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "“염증 줄이는 아침 메뉴” 10kg 감량 성시경이 추천한 ‘토마토 요리’",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111701625.html",
+     "t": "2026-11-18T02:31:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "저탄고지 식단의 배신…면역세포 바꿔 염증 유발 [달콤한 사이언스]",
+     "link": "https://www.seoul.co.kr/news/plan/science-story/2026/11/16/20261116500241?wlog_tag3=naver",
+     "t": "2026-11-16T17:32:00+09:00",
+     "by": "seoul.co.kr"
+    },
+    {
+     "title": "[60초 보건정책] 약 먹고 숙면?…복용 직후 누우면 '식도 염증' 유발",
+     "link": "https://www.newspim.com/news/view/20261116000244",
+     "t": "2026-11-16T09:15:00+09:00",
+     "by": "newspim.com"
+    },
+    {
+     "title": "콜라 매일 마셨는데…염증 고위험군 가능성 3.1배",
+     "link": "https://www.segye.com/newsView/20261115500583?OutUrl=naver",
+     "t": "2026-11-15T05:02:00+09:00",
+     "by": "segye.com"
     }
    ]
   },

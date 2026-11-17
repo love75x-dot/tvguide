@@ -1,46 +1,88 @@
 {
- "updated": "2026-11-17T22:06:26.815795+09:00",
+ "updated": "2026-11-17T23:08:39.604922+09:00",
  "all": [
   {
    "name": "해킹",
-   "count": 32,
+   "count": 34,
    "items": [
+    {
+     "title": "구글 \"해킹 진화...자율형 멀티 에이전트 기승\"",
+     "link": "https://zdnet.co.kr/view/?no=20261117222244",
+     "t": "2026-11-17T22:23:00+09:00",
+     "by": "zdnet.co.kr"
+    },
+    {
+     "title": "영남대학교 도서관·취업 홈페이지 해킹 …학생 개인정보 유출",
+     "link": "https://www.dailysecu.com/news/articleView.html?idxno=209577",
+     "t": "2026-11-17T22:20:00+09:00",
+     "by": "dailysecu.com"
+    },
+    {
+     "title": "메타엠 서버 해킹 …전화번호·상담 대화 털려",
+     "link": "https://zdnet.co.kr/view/?no=20261117221104",
+     "t": "2026-11-17T22:16:00+09:00",
+     "by": "zdnet.co.kr"
+    },
+    {
+     "title": "허이 바이낸스 공동 CEO, 해킹 당일 자금 이동 의혹에 “ AI 전략 시험했...",
+     "link": "https://www.wikitree.co.kr/articles/1175422",
+     "t": "2026-11-17T22:08:00+09:00",
+     "by": "wikitree.co.kr"
+    },
     {
      "title": "한림대 연구행정통합시스템 해킹 …사용자 생년월일 등 947건 유출",
      "link": "https://www.yna.co.kr/view/AKR20261117170500062?input=1195m",
      "t": "2026-11-17T21:16:00+09:00",
      "by": "yna.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "보안",
+   "count": 19,
+   "items": [
+    {
+     "title": "PHP 이어 Java도 보안 우려…\"치명적 위험\"",
+     "link": "https://www.nocutnews.co.kr/news/6608478?utm_source=naver&utm_medium=article&utm_campaign=20261117230842",
+     "t": "2026-11-17T23:09:00+09:00",
+     "by": "nocutnews.co.kr"
     },
     {
-     "title": "메가커피 고객 정보 유출 사고…\"위탁업체 서버 해킹 이 원인\"",
-     "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7194412",
-     "t": "2026-11-17T18:52:00+09:00",
-     "by": "weekly.hankooki.com"
+     "title": "PHP 이어 '자바'서도 치명적 취약점 …공공·기업 보안 비상",
+     "link": "http://www.yonhapnewstv.co.kr/news/AKR20261117225103EPX",
+     "t": "2026-11-17T22:51:00+09:00",
+     "by": "yonhapnewstv.co.kr"
     },
     {
-     "title": "순익 급감에 해킹 사고… 김재식 미래에셋생명 부회장 '골머리'",
-     "link": "https://www.sisaweek.com/news/articleView.html?idxno=239032",
-     "t": "2026-11-17T18:16:00+09:00",
-     "by": "sisaweek.com"
+     "title": "멘로시큐리티, 브라우저 보안 새 장 연다… 'Menlo IRIS' 출시",
+     "link": "https://www.datanet.co.kr/news/articleView.html?idxno=300259",
+     "t": "2026-11-17T21:34:00+09:00",
+     "by": "datanet.co.kr"
     },
     {
-     "title": "정부 예산 투입된 '모두의 창업' AI 서버 해킹 …민간 연계 보안 방벽 '무...",
-     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010005832",
-     "t": "2026-11-17T18:04:00+09:00",
-     "by": "asiatoday.co.kr"
+     "title": "오픈AI 보안 모델, 나토 도입…월 최대 3,000억 토큰 사용",
+     "link": "https://www.tokenpost.kr/news/breaking/439774",
+     "t": "2026-11-17T20:54:00+09:00",
+     "by": "tokenpost.kr"
     },
     {
-     "title": "계속 쓰면 해킹 위험, SW 바꾸면 먹통…노후 인프라 딜레마",
-     "link": "https://www.hankyung.com/article/2026111727791",
-     "t": "2026-11-17T17:55:00+09:00",
-     "by": "hankyung.com"
+     "title": "외부에 맡긴 업무가 보안 구멍으로…기업·공공기관 연쇄 ' 개인정보 유...",
+     "link": "https://www.newsverse.kr/news/articleView.html?idxno=11951",
+     "t": "2026-11-17T20:48:00+09:00",
+     "by": "newsverse.kr"
     }
    ]
   },
   {
    "name": "엔비디아",
-   "count": 16,
+   "count": 15,
    "items": [
+    {
+     "title": "엔비디아, 이사회에 수출통제 감독위 신설",
+     "link": "https://www.hankookilbo.com/news/article/A2026111722190004139?did=NA",
+     "t": "2026-11-17T22:46:00+09:00",
+     "by": "hankookilbo.com"
+    },
     {
      "title": "[시론담론] 젠슨 황의 엔비디아 복귀 가능성",
      "link": "https://www.jemin.com/news/articleView.html?idxno=847544",
@@ -64,90 +106,84 @@
      "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=602167",
      "t": "2026-11-17T17:40:00+09:00",
      "by": "autodaily.co.kr"
-    },
-    {
-     "title": "SK하이닉스, 美 매출 147조 돌파…엔비디아 매출만 35조",
-     "link": "https://www.newspim.com/news/view/20261117001294",
-     "t": "2026-11-17T17:37:00+09:00",
-     "by": "newspim.com"
     }
    ]
   },
   {
-   "name": "보안",
-   "count": 18,
+   "name": "신작",
+   "count": 17,
    "items": [
     {
-     "title": "멘로시큐리티, 브라우저 보안 새 장 연다… 'Menlo IRIS' 출시",
-     "link": "https://www.datanet.co.kr/news/articleView.html?idxno=300259",
-     "t": "2026-11-17T21:34:00+09:00",
-     "by": "datanet.co.kr"
-    },
-    {
-     "title": "오픈AI 보안 모델, 나토 도입…월 최대 3,000억 토큰 사용",
-     "link": "https://www.tokenpost.kr/news/breaking/439774",
-     "t": "2026-11-17T20:54:00+09:00",
-     "by": "tokenpost.kr"
-    },
-    {
-     "title": "외부에 맡긴 업무가 보안 구멍으로…기업·공공기관 연쇄 ' 개인정보 유...",
-     "link": "https://www.newsverse.kr/news/articleView.html?idxno=11951",
-     "t": "2026-11-17T20:48:00+09:00",
-     "by": "newsverse.kr"
-    },
-    {
-     "title": "비밀번호 보안 미흡에 외부망 미분리까지…중소형 금융사 보안관리 '구...",
-     "link": "https://www.newsis.com/view/NISX20261117_0003872130",
-     "t": "2026-11-17T18:36:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "중기부 '모두의 창업' AI 서버 뚫렸다…정부 예산 사업의 허술한 보안 방...",
-     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010005832",
-     "t": "2026-11-17T18:04:00+09:00",
-     "by": "asiatoday.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "아주르 프로밀리아",
-   "count": 9,
-   "items": [
-    {
-     "title": "[넥슨·네오플] '아주르 프로밀리아' 반올림피자 협업·FC 모바일 광고 ...",
-     "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2379231",
-     "t": "2026-11-17T22:02:00+09:00",
+     "title": "[핫 게임 ] 웹젠 신작 2종 테스트…넷마블 신규 영지·서버 개설…펄어비...",
+     "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2379201",
+     "t": "2026-11-17T22:56:00+09:00",
      "by": "webeconomy.co.kr"
     },
     {
-     "title": "[겜벤] 넥슨, '아주르 프로밀리아' 출시 앞두고 반올림피자와 협업 마케...",
-     "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=92180",
-     "t": "2026-11-17T20:12:00+09:00",
-     "by": "worktoday.co.kr"
+     "title": "베를린 건물 외벽에 걸린 GTA VI 배너… 신작 11월 19일 출시",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3755069",
+     "t": "2026-11-17T20:18:00+09:00",
+     "by": "gukjenews.com"
     },
     {
-     "title": "넥슨 ‘아주르 프로밀리아’, 반올림피자와 협업 한정 메뉴 2종 출시",
-     "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065605743794605",
-     "t": "2026-11-17T20:10:00+09:00",
-     "by": "swtvnews.com"
+     "title": "[오늘의 겜업] 컴투스·엔씨·넥슨·펄어비스, 신작 출시 ·이용자 행사 ...",
+     "link": "http://www.kdfnews.com/news/articleView.html?idxno=191071",
+     "t": "2026-11-17T18:48:00+09:00",
+     "by": "kdfnews.com"
     },
     {
-     "title": "[게임버프] '아주르 프로밀리아' 반올림피자와 첫 협업 외",
-     "link": "http://www.finomy.com/news/articleView.html?idxno=266971",
-     "t": "2026-11-17T17:18:00+09:00",
-     "by": "finomy.com"
+     "title": "웹젠, 2027년 출시 목표 신작 2종 CBT 모집 일정 전격 공개… 다장르 라...",
+     "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=362688",
+     "t": "2026-11-17T18:38:00+09:00",
+     "by": "biztribune.co.kr"
     },
     {
-     "title": "피자 먹고 게임 굿즈 받는다…넥슨, 반올림피자와 '아주르 프로밀리아'...",
-     "link": "https://www.joongangenews.com/news/articleView.html?idxno=564573",
-     "t": "2026-11-17T17:16:00+09:00",
-     "by": "joongangenews.com"
+     "title": "독일 인디 신작 '에포클링스', 스팀 오토 배틀러 RPG 페스트 맞춰 1.0 버...",
+     "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=227739",
+     "t": "2026-11-17T17:54:00+09:00",
+     "by": "gamechosun.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "카카오뱅크",
+   "count": 14,
+   "items": [
+    {
+     "title": "[금융소식] 카카오뱅크·케이뱅크·신한카드·신한라이프·교보생명",
+     "link": "https://www.newscj.com/news/articleView.html?idxno=3449603",
+     "t": "2026-11-17T22:48:00+09:00",
+     "by": "newscj.com"
+    },
+    {
+     "title": "카카오뱅크 ' AI 목표적금', 한 달 만에 10만좌 돌파",
+     "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=362670",
+     "t": "2026-11-17T20:08:00+09:00",
+     "by": "biztribune.co.kr"
+    },
+    {
+     "title": "[메가이슈] 카카오뱅크까지 뚫은 애플페이…결제는 편해졌지만 '수수료...",
+     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065605055554863",
+     "t": "2026-11-17T18:40:00+09:00",
+     "by": "megaeconomy.co.kr"
+    },
+    {
+     "title": "삼성페이는 공짜, 애플페이는 유료…카카오뱅크 가세에 수수료 논란",
+     "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505186",
+     "t": "2026-11-17T18:32:00+09:00",
+     "by": "pinpointnews.co.kr"
+    },
+    {
+     "title": "[금융 HOT 뉴스] 카카오뱅크, ' AI 목표적금' 출시 한 달 가입자 10만명 넘...",
+     "link": "http://www.bizwnews.com/news/articleView.html?idxno=152123",
+     "t": "2026-11-17T18:32:00+09:00",
+     "by": "bizwnews.com"
     }
    ]
   },
   {
    "name": "젠슨",
-   "count": 17,
+   "count": 16,
    "items": [
     {
      "title": "‘젠슨 황 쇼크’…미, 중국 AI 반도체 ‘클라우드 우회로’ 봉쇄",
@@ -178,42 +214,6 @@
      "link": "https://www.ajunews.com/view/20261117162019727",
      "t": "2026-11-17T17:06:00+09:00",
      "by": "ajunews.com"
-    }
-   ]
-  },
-  {
-   "name": "신작",
-   "count": 16,
-   "items": [
-    {
-     "title": "베를린 건물 외벽에 걸린 GTA VI 배너… 신작 11월 19일 출시",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3755069",
-     "t": "2026-11-17T20:18:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "[오늘의 겜업] 컴투스·엔씨·넥슨·펄어비스, 신작 출시 ·이용자 행사 ...",
-     "link": "http://www.kdfnews.com/news/articleView.html?idxno=191071",
-     "t": "2026-11-17T18:48:00+09:00",
-     "by": "kdfnews.com"
-    },
-    {
-     "title": "웹젠, 2027년 출시 목표 신작 2종 CBT 모집 일정 전격 공개… 다장르 라...",
-     "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=362688",
-     "t": "2026-11-17T18:38:00+09:00",
-     "by": "biztribune.co.kr"
-    },
-    {
-     "title": "독일 인디 신작 '에포클링스', 스팀 오토 배틀러 RPG 페스트 맞춰 1.0 버...",
-     "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=227739",
-     "t": "2026-11-17T17:54:00+09:00",
-     "by": "gamechosun.co.kr"
-    },
-    {
-     "title": "라인 게임 즈, 지스타서 4인 협동 SF 호러 신작 '코드 엑시트' 시연",
-     "link": "https://zdnet.co.kr/view/?no=20261117173257",
-     "t": "2026-11-17T17:40:00+09:00",
-     "by": "zdnet.co.kr"
     }
    ]
   }

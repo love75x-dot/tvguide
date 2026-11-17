@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-17T23:08:39.604922+09:00",
+ "updated": "2026-11-18T00:08:29.635025+09:00",
  "hot": [
   {
    "name": "X5",
    "count": 13,
    "prev": 0,
-   "rise": 28,
+   "rise": -7,
    "moto": false,
    "why": [
     "출시"
@@ -14,8 +14,8 @@
   {
    "name": "투싼",
    "count": 5,
-   "prev": 3,
-   "rise": -2,
+   "prev": 2,
+   "rise": -34,
    "moto": false,
    "why": [
     "판매 1위"
@@ -24,8 +24,8 @@
   {
    "name": "GV90",
    "count": 5,
-   "prev": 13,
-   "rise": -33,
+   "prev": 11,
+   "rise": -62,
    "moto": false,
    "why": [
     "출시"
@@ -34,8 +34,8 @@
   {
    "name": "EV5",
    "count": 4,
-   "prev": 2,
-   "rise": -2,
+   "prev": 0,
+   "rise": -32,
    "moto": false,
    "why": [
     "판매 1위"
@@ -44,32 +44,40 @@
   {
    "name": "할리데이비슨",
    "count": 4,
-   "prev": 1,
-   "rise": 0,
+   "prev": 0,
+   "rise": -28,
    "moto": true,
+   "why": []
+  },
+  {
+   "name": "아반떼",
+   "count": 3,
+   "prev": 5,
+   "rise": -38,
+   "moto": false,
    "why": []
   },
   {
    "name": "캐스퍼",
    "count": 3,
    "prev": 0,
-   "rise": 6,
+   "rise": -28,
    "moto": false,
    "why": []
   },
   {
    "name": "필랑트",
    "count": 3,
-   "prev": 1,
-   "rise": 6,
+   "prev": 0,
+   "rise": -36,
    "moto": false,
    "why": []
   },
   {
    "name": "쏘렌토",
    "count": 3,
-   "prev": 1,
-   "rise": -3,
+   "prev": 0,
+   "rise": -36,
    "moto": false,
    "why": [
     "가격 인하",
@@ -80,31 +88,15 @@
    "name": "K5",
    "count": 2,
    "prev": 0,
-   "rise": -3,
+   "rise": -35,
    "moto": false,
    "why": [
     "판매 1위",
     "중고차 시세"
    ]
-  },
-  {
-   "name": "EV3",
-   "count": 2,
-   "prev": 2,
-   "rise": 1,
-   "moto": false,
-   "why": []
   }
  ],
  "calendar": [
-  {
-   "name": "PV5",
-   "status": "out",
-   "date": "2026-11-11",
-   "title": "기아 PV5, 이젠 전기 덤프트럭까지…영국서 새 모델 2종 출시",
-   "link": "https://thedrive.co.kr/news/newsview.php?ncode=1065599459608478",
-   "moto": false
-  },
   {
    "name": "GV90",
    "status": "out",

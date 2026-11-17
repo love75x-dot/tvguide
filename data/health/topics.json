@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-17T19:08:42.037558+09:00",
+ "updated": "2026-11-17T20:10:44.406136+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 60,
+   "count": 58,
    "angles": [
     "효능",
     "부작용",
@@ -47,12 +47,24 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 35,
+   "count": 36,
    "angles": [
     "부작용",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "[집중인터뷰] 수능 앞두고 독감 ·코로나 유행…감염 피하려면?",
+     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715241&ref=A",
+     "t": "2026-11-17T19:29:00+09:00",
+     "by": "kbs.co.kr"
+    },
+    {
+     "title": "수능 코앞인데… 독감 다시 확산세",
+     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715234&ref=A",
+     "t": "2026-11-17T19:27:00+09:00",
+     "by": "kbs.co.kr"
+    },
     {
      "title": "[med check!] 독감 회복 후 다시 심해진 기침·발열…폐렴 합병증 주의?",
      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213880",
@@ -70,25 +82,13 @@
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625732",
      "t": "2026-11-17T14:10:00+09:00",
      "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "독감 증상 학생에 '3일간 자율 격리' 권고만 해도 감염 확산 줄일 가능...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625726",
-     "t": "2026-11-17T13:06:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "헬스인이 꼭 먹는 '이 보충제'…암세포 줄이고 독감도 잡았다 [매일비타...",
-     "link": "https://www.imaeil.com/page/view/2026111710213223994",
-     "t": "2026-11-17T11:47:00+09:00",
-     "by": "imaeil.com"
     }
    ]
   },
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 16,
+   "count": 15,
    "angles": [
     "부작용",
     "효능"
@@ -127,9 +127,52 @@
    ]
   },
   {
+   "name": "치매",
+   "kind": "질환·증상",
+   "count": 15,
+   "angles": [
+    "부작용",
+    "에 좋은",
+    "먹는 법",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "\"치아 개수 적으면 치매 위험 높다?\"…日 고령자 9년 추적해 보니",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70217",
+     "t": "2026-11-17T20:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "고지혈증 약 먹으면 치매·암 걸린다? 콜레스테롤 오해와 진실 [이러면...",
+     "link": "https://www.chosun.com/medical/2026/11/17/NKIN4RBS4VGXZFXJCYHEZTA33U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "t": "2026-11-17T17:04:00+09:00",
+     "by": "chosun.com"
+    },
+    {
+     "title": "고지혈증 약 먹으면 치매·암 걸린다? 콜레스테롤 오해와 진실",
+     "link": "https://www.chosun.com/medical/2026/11/17/NKIN4RBS4VGXZFXJCYHEZTA33U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "t": "2026-11-17T17:04:00+09:00",
+     "by": "chosun.com"
+    },
+    {
+     "title": "근육량 적으면 알츠하이머 치매 위험 증가",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59998",
+     "t": "2026-11-17T13:44:00+09:00",
+     "by": "koreahealthlog.com"
+    },
+    {
+     "title": "“30대 애아빠도 치매 걸렸다” 명의는 안 먹는 ‘최악 음식’",
+     "link": "https://www.joongang.co.kr/article/25479380",
+     "t": "2026-11-17T13:32:00+09:00",
+     "by": "joongang.co.kr"
+    }
+   ]
+  },
+  {
    "name": "유산균",
    "kind": "영양제",
-   "count": 15,
+   "count": 14,
    "angles": [],
    "items": [
     {
@@ -157,53 +200,10 @@
      "by": "newstnt.com"
     },
     {
-     "title": "GNM자연의품격, '2026 한국소비자평가 1위' 건강기능식품 유산균 부문 수...",
-     "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36215",
-     "t": "2026-11-17T09:00:00+09:00",
-     "by": "biotimes.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "치매",
-   "kind": "질환·증상",
-   "count": 14,
-   "angles": [
-    "부작용",
-    "에 좋은",
-    "먹는 법",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "고지혈증 약 먹으면 치매·암 걸린다? 콜레스테롤 오해와 진실 [이러면...",
-     "link": "https://www.chosun.com/medical/2026/11/17/NKIN4RBS4VGXZFXJCYHEZTA33U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-     "t": "2026-11-17T17:04:00+09:00",
-     "by": "chosun.com"
-    },
-    {
-     "title": "고지혈증 약 먹으면 치매·암 걸린다? 콜레스테롤 오해와 진실",
-     "link": "https://www.chosun.com/medical/2026/11/17/NKIN4RBS4VGXZFXJCYHEZTA33U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-     "t": "2026-11-17T17:04:00+09:00",
-     "by": "chosun.com"
-    },
-    {
-     "title": "근육량 적으면 알츠하이머 치매 위험 증가",
-     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=59998",
-     "t": "2026-11-17T13:44:00+09:00",
-     "by": "koreahealthlog.com"
-    },
-    {
-     "title": "“30대 애아빠도 치매 걸렸다” 명의는 안 먹는 ‘최악 음식’",
-     "link": "https://www.joongang.co.kr/article/25479380",
-     "t": "2026-11-17T13:32:00+09:00",
-     "by": "joongang.co.kr"
-    },
-    {
-     "title": "당뇨병 치료제, 치매 예방 가능성 제시…뇌 기능 보존 효과 확인",
-     "link": "http://www.brainmedia.co.kr/BrainScience/25729",
-     "t": "2026-11-17T11:38:00+09:00",
-     "by": "brainmedia.co.kr"
+     "title": "유한양행, 잇몸 건강 기능 성 유산균 원료 함유 제품 출시",
+     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144426",
+     "t": "2026-11-16T17:54:00+09:00",
+     "by": "medisobizanews.com"
     }
    ]
   },
@@ -248,47 +248,6 @@
    ]
   },
   {
-   "name": "감기",
-   "kind": "질환·증상",
-   "count": 10,
-   "angles": [
-    "효능",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "감기로 오인 쉬운 ‘만성 폐쇄성 폐질환’…겨울철 급성악화 ‘경고등...",
-     "link": "https://www.ekn.kr/web/view.php?key=20261117021570537",
-     "t": "2026-11-17T18:00:00+09:00",
-     "by": "ekn.kr"
-    },
-    {
-     "title": "“ 감기 막아주는 효과”… 맹물로 ‘하루 세 번’ 입 헹구니 생긴 변화",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111701564.html",
-     "t": "2026-11-17T14:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "겨울철 감기 주의보… ‘판피린’, 시간대별 맞춤 제품 선봬",
-     "link": "https://www.seoul.co.kr/news/economy/2026/11/17/20261117500055?wlog_tag3=naver",
-     "t": "2026-11-17T10:06:00+09:00",
-     "by": "seoul.co.kr"
-    },
-    {
-     "title": "감기 걸렸을 때 사우나로 '땀 빼기'...정말 가도 괜찮을까?",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3752921",
-     "t": "2026-11-16T10:44:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "“감기 달고 사는 이유, 드디어 알았다”… 집 오자마자 해야 할 것 있어",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111302023.html",
-     "t": "2026-11-15T20:01:00+09:00",
-     "by": "health.chosun.com"
-    }
-   ]
-  },
-  {
    "name": "당뇨",
    "kind": "질환·증상",
    "count": 10,
@@ -325,6 +284,47 @@
      "link": "https://idsn.co.kr/news/view/1065572629723900",
      "t": "2026-11-16T13:58:00+09:00",
      "by": "idsn.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "감기",
+   "kind": "질환·증상",
+   "count": 9,
+   "angles": [
+    "효능",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "감기로 오인 쉬운 ‘만성 폐쇄성 폐질환’…겨울철 급성악화 ‘경고등...",
+     "link": "https://www.ekn.kr/web/view.php?key=20261117021570537",
+     "t": "2026-11-17T18:00:00+09:00",
+     "by": "ekn.kr"
+    },
+    {
+     "title": "“ 감기 막아주는 효과”… 맹물로 ‘하루 세 번’ 입 헹구니 생긴 변화",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111701564.html",
+     "t": "2026-11-17T14:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "겨울철 감기 주의보… ‘판피린’, 시간대별 맞춤 제품 선봬",
+     "link": "https://www.seoul.co.kr/news/economy/2026/11/17/20261117500055?wlog_tag3=naver",
+     "t": "2026-11-17T10:06:00+09:00",
+     "by": "seoul.co.kr"
+    },
+    {
+     "title": "감기 걸렸을 때 사우나로 '땀 빼기'...정말 가도 괜찮을까?",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3752921",
+     "t": "2026-11-16T10:44:00+09:00",
+     "by": "gukjenews.com"
+    },
+    {
+     "title": "“감기 달고 사는 이유, 드디어 알았다”… 집 오자마자 해야 할 것 있어",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111302023.html",
+     "t": "2026-11-15T20:01:00+09:00",
+     "by": "health.chosun.com"
     }
    ]
   },
@@ -407,9 +407,50 @@
    ]
   },
   {
-   "name": "폐렴",
+   "name": "혈압",
    "kind": "질환·증상",
    "count": 8,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "성인 10명 중 3명 '고 혈압 ' 환자…초겨울 찬바람에 더 주의해야",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=60007",
+     "t": "2026-11-17T19:34:00+09:00",
+     "by": "koreahealthlog.com"
+    },
+    {
+     "title": "고려대 안산병원 순환기내과 김용현 교수, \"추위에 혈압 오르고 심뇌혈...",
+     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213941",
+     "t": "2026-11-17T16:37:00+09:00",
+     "by": "thefirstmedia.net"
+    },
+    {
+     "title": "\"겨울만 되면 혈압 이 왜 이래?\"…약 먹어도 추위에 오르는 혈압 관리법...",
+     "link": "https://www.fnnews.com/news/202611171602081971",
+     "t": "2026-11-17T16:30:00+09:00",
+     "by": "fnnews.com"
+    },
+    {
+     "title": "“혈압 낮추려고 비타민 B 먹었는데”… 대규모 분석이 내놓은 의외의 결...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111701809.html",
+     "t": "2026-11-17T16:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "성인 10명 중 3명 고혈압…추워질수록 혈압 확인해야",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=422020",
+     "t": "2026-11-17T14:12:00+09:00",
+     "by": "medipana.com"
+    }
+   ]
+  },
+  {
+   "name": "폐렴",
+   "kind": "질환·증상",
+   "count": 7,
    "angles": [
     "부작용"
    ],
@@ -443,46 +484,6 @@
      "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=98939",
      "t": "2026-11-17T09:34:00+09:00",
      "by": "kmedinfo.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "혈압",
-   "kind": "질환·증상",
-   "count": 7,
-   "angles": [
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "고려대 안산병원 순환기내과 김용현 교수, \"추위에 혈압 오르고 심뇌혈...",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213941",
-     "t": "2026-11-17T16:37:00+09:00",
-     "by": "thefirstmedia.net"
-    },
-    {
-     "title": "\"겨울만 되면 혈압 이 왜 이래?\"…약 먹어도 추위에 오르는 혈압 관리법...",
-     "link": "https://www.fnnews.com/news/202611171602081971",
-     "t": "2026-11-17T16:30:00+09:00",
-     "by": "fnnews.com"
-    },
-    {
-     "title": "“혈압 낮추려고 비타민 B 먹었는데”… 대규모 분석이 내놓은 의외의 결...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111701809.html",
-     "t": "2026-11-17T16:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "성인 10명 중 3명 고혈압…추워질수록 혈압 확인해야",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=422020",
-     "t": "2026-11-17T14:12:00+09:00",
-     "by": "medipana.com"
-    },
-    {
-     "title": "[건강정보] 멀쩡한 줄 알았는데 고 혈압 ? 추워질수록 혈압 확인해야 하는...",
-     "link": "http://www.doctorstimes.com/news/articleView.html?idxno=241109",
-     "t": "2026-11-17T11:46:00+09:00",
-     "by": "doctorstimes.com"
     }
    ]
   },
@@ -689,6 +690,46 @@
    ]
   },
   {
+   "name": "김치",
+   "kind": "식품·제철",
+   "count": 5,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "새해밀·익산장애인권익문제연구소, 장애인 300여 가구에 김치 전달",
+     "link": "https://www.thepowernews.co.kr/view.php?ud=2026111718381927843dfcd109a8_7",
+     "t": "2026-11-17T19:50:00+09:00",
+     "by": "thepowernews.co.kr"
+    },
+    {
+     "title": "\"빵보다 김치가 당류 많아\"... 한국인들 충격받을 연구 조사 결과",
+     "link": "https://www.insight.co.kr/news/582454",
+     "t": "2026-11-17T18:46:00+09:00",
+     "by": "insight.co.kr"
+    },
+    {
+     "title": "[리얼푸드] “우리의 발효과학, 모두의 김치”…세계김치연구소, ‘위킴...",
+     "link": "https://www.realfoods.co.kr/article/10938732?ref=naver",
+     "t": "2026-11-16T14:56:00+09:00",
+     "by": "realfoods.co.kr"
+    },
+    {
+     "title": "진암사회복지재단, 고창군에 2천만원 상당 김치 기탁",
+     "link": "https://sjbnews.com/news/news.php?number=892619",
+     "t": "2026-11-15T18:47:00+09:00",
+     "by": "sjbnews.com"
+    },
+    {
+     "title": "“김치는 콜레스테롤에 좋다?”… 김장철 건강정보 읽는 법",
+     "link": "https://www.segye.com/newsView/20261113505387?OutUrl=naver",
+     "t": "2026-11-14T22:02:00+09:00",
+     "by": "segye.com"
+    }
+   ]
+  },
+  {
    "name": "염증",
    "kind": "질환·증상",
    "count": 5,
@@ -730,6 +771,46 @@
    ]
   },
   {
+   "name": "코로나",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "[집중인터뷰] 수능 앞두고 독감 ·코로나 유행…감염 피하려면?",
+     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715241&ref=A",
+     "t": "2026-11-17T19:29:00+09:00",
+     "by": "kbs.co.kr"
+    },
+    {
+     "title": "음식 알레르기 이제 주사 한 방으로?…코로나 백신 기술의 놀라운 도전...",
+     "link": "https://www.imaeil.com/page/view/2026111710224388200",
+     "t": "2026-11-17T13:35:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "독감·코로나 백신 함께 맞으면 이상반응 늘까…동시접종의 안전성과 기...",
+     "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36209",
+     "t": "2026-11-16T15:38:00+09:00",
+     "by": "biotimes.co.kr"
+    },
+    {
+     "title": "정선군, 동절기 대비 인플루엔자∙코로나19 예방접종 독려",
+     "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311867",
+     "t": "2026-11-15T11:44:00+09:00",
+     "by": "jeonmae.co.kr"
+    },
+    {
+     "title": "2026~2027절기 인플루엔자·코로나19 예방접종 실시",
+     "link": "https://www.kwnews.co.kr/article/20261113500056",
+     "t": "2026-11-15T10:31:00+09:00",
+     "by": "kwnews.co.kr"
+    }
+   ]
+  },
+  {
    "name": "고혈압",
    "kind": "질환·증상",
    "count": 4,
@@ -758,40 +839,6 @@
      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&key=20261117.22012007810",
      "t": "2026-11-16T19:07:00+09:00",
      "by": "kookje.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "김치",
-   "kind": "식품·제철",
-   "count": 4,
-   "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "\"빵보다 김치가 당류 많아\"... 한국인들 충격받을 연구 조사 결과",
-     "link": "https://www.insight.co.kr/news/582454",
-     "t": "2026-11-17T18:46:00+09:00",
-     "by": "insight.co.kr"
-    },
-    {
-     "title": "[리얼푸드] “우리의 발효과학, 모두의 김치”…세계김치연구소, ‘위킴...",
-     "link": "https://www.realfoods.co.kr/article/10938732?ref=naver",
-     "t": "2026-11-16T14:56:00+09:00",
-     "by": "realfoods.co.kr"
-    },
-    {
-     "title": "진암사회복지재단, 고창군에 2천만원 상당 김치 기탁",
-     "link": "https://sjbnews.com/news/news.php?number=892619",
-     "t": "2026-11-15T18:47:00+09:00",
-     "by": "sjbnews.com"
-    },
-    {
-     "title": "“김치는 콜레스테롤에 좋다?”… 김장철 건강정보 읽는 법",
-     "link": "https://www.segye.com/newsView/20261113505387?OutUrl=naver",
-     "t": "2026-11-14T22:02:00+09:00",
-     "by": "segye.com"
     }
    ]
   },
@@ -858,40 +905,6 @@
      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144458",
      "t": "2026-11-17T11:00:00+09:00",
      "by": "medisobizanews.com"
-    }
-   ]
-  },
-  {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 4,
-   "angles": [
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "음식 알레르기 이제 주사 한 방으로?…코로나 백신 기술의 놀라운 도전...",
-     "link": "https://www.imaeil.com/page/view/2026111710224388200",
-     "t": "2026-11-17T13:35:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "독감·코로나 백신 함께 맞으면 이상반응 늘까…동시접종의 안전성과 기...",
-     "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36209",
-     "t": "2026-11-16T15:38:00+09:00",
-     "by": "biotimes.co.kr"
-    },
-    {
-     "title": "정선군, 동절기 대비 인플루엔자∙코로나19 예방접종 독려",
-     "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311867",
-     "t": "2026-11-15T11:44:00+09:00",
-     "by": "jeonmae.co.kr"
-    },
-    {
-     "title": "2026~2027절기 인플루엔자·코로나19 예방접종 실시",
-     "link": "https://www.kwnews.co.kr/article/20261113500056",
-     "t": "2026-11-15T10:31:00+09:00",
-     "by": "kwnews.co.kr"
     }
    ]
   },

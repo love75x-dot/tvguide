@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-17T21:10:42.286796+09:00",
+ "updated": "2026-11-17T22:06:26.815795+09:00",
  "all": [
   {
    "name": "해킹",
-   "count": 34,
+   "count": 32,
    "items": [
+    {
+     "title": "한림대 연구행정통합시스템 해킹 …사용자 생년월일 등 947건 유출",
+     "link": "https://www.yna.co.kr/view/AKR20261117170500062?input=1195m",
+     "t": "2026-11-17T21:16:00+09:00",
+     "by": "yna.co.kr"
+    },
     {
      "title": "메가커피 고객 정보 유출 사고…\"위탁업체 서버 해킹 이 원인\"",
      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7194412",
@@ -28,12 +34,6 @@
      "link": "https://www.hankyung.com/article/2026111727791",
      "t": "2026-11-17T17:55:00+09:00",
      "by": "hankyung.com"
-    },
-    {
-     "title": "메가MGC커피 고객센터 수탁업체 메타엠 해킹 …결제 정보 피해 없어",
-     "link": "https://www.news1.kr/industry/distribution/6357175",
-     "t": "2026-11-17T17:55:00+09:00",
-     "by": "news1.kr"
     }
    ]
   },
@@ -74,8 +74,80 @@
    ]
   },
   {
-   "name": "젠슨",
+   "name": "보안",
    "count": 18,
+   "items": [
+    {
+     "title": "멘로시큐리티, 브라우저 보안 새 장 연다… 'Menlo IRIS' 출시",
+     "link": "https://www.datanet.co.kr/news/articleView.html?idxno=300259",
+     "t": "2026-11-17T21:34:00+09:00",
+     "by": "datanet.co.kr"
+    },
+    {
+     "title": "오픈AI 보안 모델, 나토 도입…월 최대 3,000억 토큰 사용",
+     "link": "https://www.tokenpost.kr/news/breaking/439774",
+     "t": "2026-11-17T20:54:00+09:00",
+     "by": "tokenpost.kr"
+    },
+    {
+     "title": "외부에 맡긴 업무가 보안 구멍으로…기업·공공기관 연쇄 ' 개인정보 유...",
+     "link": "https://www.newsverse.kr/news/articleView.html?idxno=11951",
+     "t": "2026-11-17T20:48:00+09:00",
+     "by": "newsverse.kr"
+    },
+    {
+     "title": "비밀번호 보안 미흡에 외부망 미분리까지…중소형 금융사 보안관리 '구...",
+     "link": "https://www.newsis.com/view/NISX20261117_0003872130",
+     "t": "2026-11-17T18:36:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "중기부 '모두의 창업' AI 서버 뚫렸다…정부 예산 사업의 허술한 보안 방...",
+     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010005832",
+     "t": "2026-11-17T18:04:00+09:00",
+     "by": "asiatoday.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "아주르 프로밀리아",
+   "count": 9,
+   "items": [
+    {
+     "title": "[넥슨·네오플] '아주르 프로밀리아' 반올림피자 협업·FC 모바일 광고 ...",
+     "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2379231",
+     "t": "2026-11-17T22:02:00+09:00",
+     "by": "webeconomy.co.kr"
+    },
+    {
+     "title": "[겜벤] 넥슨, '아주르 프로밀리아' 출시 앞두고 반올림피자와 협업 마케...",
+     "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=92180",
+     "t": "2026-11-17T20:12:00+09:00",
+     "by": "worktoday.co.kr"
+    },
+    {
+     "title": "넥슨 ‘아주르 프로밀리아’, 반올림피자와 협업 한정 메뉴 2종 출시",
+     "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065605743794605",
+     "t": "2026-11-17T20:10:00+09:00",
+     "by": "swtvnews.com"
+    },
+    {
+     "title": "[게임버프] '아주르 프로밀리아' 반올림피자와 첫 협업 외",
+     "link": "http://www.finomy.com/news/articleView.html?idxno=266971",
+     "t": "2026-11-17T17:18:00+09:00",
+     "by": "finomy.com"
+    },
+    {
+     "title": "피자 먹고 게임 굿즈 받는다…넥슨, 반올림피자와 '아주르 프로밀리아'...",
+     "link": "https://www.joongangenews.com/news/articleView.html?idxno=564573",
+     "t": "2026-11-17T17:16:00+09:00",
+     "by": "joongangenews.com"
+    }
+   ]
+  },
+  {
+   "name": "젠슨",
+   "count": 17,
    "items": [
     {
      "title": "‘젠슨 황 쇼크’…미, 중국 AI 반도체 ‘클라우드 우회로’ 봉쇄",
@@ -106,78 +178,6 @@
      "link": "https://www.ajunews.com/view/20261117162019727",
      "t": "2026-11-17T17:06:00+09:00",
      "by": "ajunews.com"
-    }
-   ]
-  },
-  {
-   "name": "보안",
-   "count": 18,
-   "items": [
-    {
-     "title": "오픈AI 보안 모델, 나토 도입…월 최대 3,000억 토큰 사용",
-     "link": "https://www.tokenpost.kr/news/breaking/439774",
-     "t": "2026-11-17T20:54:00+09:00",
-     "by": "tokenpost.kr"
-    },
-    {
-     "title": "외부에 맡긴 업무가 보안 구멍으로…기업·공공기관 연쇄 ' 개인정보 유...",
-     "link": "https://www.newsverse.kr/news/articleView.html?idxno=11951",
-     "t": "2026-11-17T20:48:00+09:00",
-     "by": "newsverse.kr"
-    },
-    {
-     "title": "비밀번호 보안 미흡에 외부망 미분리까지…중소형 금융사 보안관리 '구...",
-     "link": "https://www.newsis.com/view/NISX20261117_0003872130",
-     "t": "2026-11-17T18:36:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "중기부 '모두의 창업' AI 서버 뚫렸다…정부 예산 사업의 허술한 보안 방...",
-     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010005832",
-     "t": "2026-11-17T18:04:00+09:00",
-     "by": "asiatoday.co.kr"
-    },
-    {
-     "title": "금감원 대부업권 보안 설명회 열어, \"취약점 방치하면 엄정 제재\"",
-     "link": "https://www.businesspost.co.kr/BP?command=article_view&num=452231",
-     "t": "2026-11-17T18:04:00+09:00",
-     "by": "businesspost.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "아주르 프로밀리아",
-   "count": 9,
-   "items": [
-    {
-     "title": "[겜벤] 넥슨, '아주르 프로밀리아' 출시 앞두고 반올림피자와 협업 마케...",
-     "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=92180",
-     "t": "2026-11-17T20:12:00+09:00",
-     "by": "worktoday.co.kr"
-    },
-    {
-     "title": "넥슨 ‘아주르 프로밀리아’, 반올림피자와 협업 한정 메뉴 2종 출시",
-     "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065605743794605",
-     "t": "2026-11-17T20:10:00+09:00",
-     "by": "swtvnews.com"
-    },
-    {
-     "title": "[게임버프] '아주르 프로밀리아' 반올림피자와 첫 협업 외",
-     "link": "http://www.finomy.com/news/articleView.html?idxno=266971",
-     "t": "2026-11-17T17:18:00+09:00",
-     "by": "finomy.com"
-    },
-    {
-     "title": "피자 먹고 게임 굿즈 받는다…넥슨, 반올림피자와 '아주르 프로밀리아'...",
-     "link": "https://www.joongangenews.com/news/articleView.html?idxno=564573",
-     "t": "2026-11-17T17:16:00+09:00",
-     "by": "joongangenews.com"
-    },
-    {
-     "title": "넥슨, '아주르 프로밀리아', 반올림피자 컬래버레이션 실시",
-     "link": "https://game.donga.com/125167/",
-     "t": "2026-11-17T17:08:00+09:00",
-     "by": "game.donga.com"
     }
    ]
   },

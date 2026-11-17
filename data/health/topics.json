@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-18T05:08:29.522748+09:00",
+ "updated": "2026-11-18T06:08:34.598121+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 60,
+   "count": 61,
    "angles": [
     "효능",
     "부작용",
@@ -12,6 +12,12 @@
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "[2027 수능] ‘AI 커닝’ 비상에 보청기· 혈당 측정기 이용 수험생은 속앓...",
+     "link": "https://biz.chosun.com/topics/topics_social/2026/11/18/5JDUM4LUGFD4JMK2333OTFSJFE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "t": "2026-11-18T06:01:00+09:00",
+     "by": "biz.chosun.com"
+    },
     {
      "title": "“통밀빵이라 믿고 샀는데 혈당 치솟았다”… 봉지 뒷면 ‘이 글씨’ 확...",
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111702361.html",
@@ -35,12 +41,6 @@
      "link": "https://www.sedaily.com/article/20115646?ref=naver",
      "t": "2026-11-17T20:45:00+09:00",
      "by": "sedaily.com"
-    },
-    {
-     "title": "경기도임상병리사회, 캄보디아 의료봉사…주민 800명 혈당 검사",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=102290",
-     "t": "2026-11-17T19:02:00+09:00",
-     "by": "k-health.com"
     }
    ]
   },
@@ -250,11 +250,17 @@
   {
    "name": "당뇨",
    "kind": "질환·증상",
-   "count": 10,
+   "count": 11,
    "angles": [
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "실명 부르는 당뇨의 합병증, ‘당뇨병성 망막증’",
+     "link": "https://www.dt.co.kr/article/12095755?ref=naver",
+     "t": "2026-11-18T06:00:00+09:00",
+     "by": "dt.co.kr"
+    },
     {
      "title": "인천교육청, 당뇨 학생 의료비 최대 98만 9000원 지원…내년 대상 확대 ...",
      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7194308",
@@ -278,12 +284,6 @@
      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2451694",
      "t": "2026-11-16T16:20:00+09:00",
      "by": "ccdailynews.com"
-    },
-    {
-     "title": "[건강 칼럼] 당뇨 환자 백내장 수술 전 망막 상태 확인이 중요한 이유는...",
-     "link": "https://idsn.co.kr/news/view/1065572629723900",
-     "t": "2026-11-16T13:58:00+09:00",
-     "by": "idsn.co.kr"
     }
    ]
   },
@@ -325,6 +325,46 @@
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/13/2026111302023.html",
      "t": "2026-11-15T20:01:00+09:00",
      "by": "health.chosun.com"
+    }
+   ]
+  },
+  {
+   "name": "단백질",
+   "kind": "영양제",
+   "count": 7,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "“고기·생선 없을 때 먹었는데”… 단백질 턱없이 부족해지는 ‘잘못된...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111702084.html",
+     "t": "2026-11-18T06:03:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "“아침으로 먹으면 살 빠진다”… 15kg 감량 김소영이 택한 ‘단백질 식...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111700941.html",
+     "t": "2026-11-17T10:22:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "당뇨병콩팥병 환자의 신장 섬유화 반영하는 혈액 단백질 신호 발굴",
+     "link": "http://www.doctorstimes.com/news/articleView.html?idxno=241079",
+     "t": "2026-11-16T14:06:00+09:00",
+     "by": "doctorstimes.com"
+    },
+    {
+     "title": "“단백질 풍부하다” 11kg 뺀 신봉선이 먹는 ‘겨울에 제격인 안주’",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/16/2026111601251.html",
+     "t": "2026-11-16T13:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "혈당 관리에 좋고 단백질도 풍부하다… 의사가 마트에서 꼭 산다는 '식...",
+     "link": "https://www.wikitree.co.kr/articles/1174910",
+     "t": "2026-11-16T12:02:00+09:00",
+     "by": "wikitree.co.kr"
     }
    ]
   },
@@ -410,46 +450,6 @@
    ]
   },
   {
-   "name": "단백질",
-   "kind": "영양제",
-   "count": 6,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "“아침으로 먹으면 살 빠진다”… 15kg 감량 김소영이 택한 ‘단백질 식...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111700941.html",
-     "t": "2026-11-17T10:22:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "당뇨병콩팥병 환자의 신장 섬유화 반영하는 혈액 단백질 신호 발굴",
-     "link": "http://www.doctorstimes.com/news/articleView.html?idxno=241079",
-     "t": "2026-11-16T14:06:00+09:00",
-     "by": "doctorstimes.com"
-    },
-    {
-     "title": "“단백질 풍부하다” 11kg 뺀 신봉선이 먹는 ‘겨울에 제격인 안주’",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/16/2026111601251.html",
-     "t": "2026-11-16T13:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "혈당 관리에 좋고 단백질도 풍부하다… 의사가 마트에서 꼭 산다는 '식...",
-     "link": "https://www.wikitree.co.kr/articles/1174910",
-     "t": "2026-11-16T12:02:00+09:00",
-     "by": "wikitree.co.kr"
-    },
-    {
-     "title": "[약식동원] 콩에서 얻은 단백질 공급원, 대두단백",
-     "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=335232",
-     "t": "2026-11-16T08:06:00+09:00",
-     "by": "yakup.com"
-    }
-   ]
-  },
-  {
    "name": "비타민C",
    "kind": "영양제",
    "count": 6,
@@ -484,48 +484,6 @@
      "link": "https://www.ibabynews.com/news/articleView.html?idxno=156941",
      "t": "2026-11-16T18:48:00+09:00",
      "by": "ibabynews.com"
-    }
-   ]
-  },
-  {
-   "name": "우유",
-   "kind": "식품·제철",
-   "count": 6,
-   "angles": [
-    "먹는 법",
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "운동 후 우유 한 잔, 뼈 대사 반응도 달랐다… 물 섭취 군과 차이 확인",
-     "link": "https://www.pressman.kr/news/articleView.html?idxno=104516",
-     "t": "2026-11-17T15:16:00+09:00",
-     "by": "pressman.kr"
-    },
-    {
-     "title": "운동 후 우유 섭취, 뼈 형성 관련 지표 높게 나타나",
-     "link": "https://www.segye.com/newsView/20261116509651?OutUrl=naver",
-     "t": "2026-11-16T13:54:00+09:00",
-     "by": "segye.com"
-    },
-    {
-     "title": "고강도 운동 후 우유 섭취, 뼈 형성 관련 지표에 차이",
-     "link": "https://isplus.com/article/view/isp202611160056",
-     "t": "2026-11-16T10:49:00+09:00",
-     "by": "isplus.com"
-    },
-    {
-     "title": "운동 후 마시는 우유 한 잔, 뼈 건강 관련 연구 결과",
-     "link": "https://www.gpkorea.com/news/articleView.html?idxno=148649",
-     "t": "2026-11-16T10:30:00+09:00",
-     "by": "gpkorea.com"
-    },
-    {
-     "title": "건강하려고 \"우유를 '귀리'로 바꿔주세요\"…정작 이걸 놓치고 있었다",
-     "link": "https://view.asiae.co.kr/article/2026111510415743412",
-     "t": "2026-11-15T10:46:00+09:00",
-     "by": "view.asiae.co.kr"
     }
    ]
   },
@@ -647,6 +605,44 @@
    ]
   },
   {
+   "name": "불면증",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [],
+   "items": [
+    {
+     "title": "불면증 치료제 '데이비고'에 걸린 기대…비용·교육 등 관건",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=422069",
+     "t": "2026-11-18T06:00:00+09:00",
+     "by": "medipana.com"
+    },
+    {
+     "title": "에자이 \"데이비고, 불면증 치료에 새로운 시대를 연다\"",
+     "link": "http://www.newsmp.com/news/articleView.html?idxno=259347",
+     "t": "2026-11-17T15:42:00+09:00",
+     "by": "newsmp.com"
+    },
+    {
+     "title": "\"불면증 치료, '진정'→'각성 조절'로…DORA 계열 부상\"",
+     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144467",
+     "t": "2026-11-17T13:50:00+09:00",
+     "by": "medisobizanews.com"
+    },
+    {
+     "title": "불면증도 해결될까?…'이것' 하나로 렘수면 확 늘었다 [매일비타민]",
+     "link": "https://www.imaeil.com/page/view/2026111710213594912",
+     "t": "2026-11-17T13:15:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "불면증 치료 새 기전 '데이비고'…각성 신호 차단에 주목",
+     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=549132",
+     "t": "2026-11-17T12:52:00+09:00",
+     "by": "kpanews.co.kr"
+    }
+   ]
+  },
+  {
    "name": "수면",
    "kind": "운동·생활",
    "count": 5,
@@ -681,6 +677,46 @@
      "link": "http://www.psychiatricnews.net/news/articleView.html?idxno=36796",
      "t": "2026-11-15T08:00:00+09:00",
      "by": "psychiatricnews.net"
+    }
+   ]
+  },
+  {
+   "name": "우유",
+   "kind": "식품·제철",
+   "count": 5,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "운동 후 우유 한 잔, 뼈 대사 반응도 달랐다… 물 섭취 군과 차이 확인",
+     "link": "https://www.pressman.kr/news/articleView.html?idxno=104516",
+     "t": "2026-11-17T15:16:00+09:00",
+     "by": "pressman.kr"
+    },
+    {
+     "title": "운동 후 우유 섭취, 뼈 형성 관련 지표 높게 나타나",
+     "link": "https://www.segye.com/newsView/20261116509651?OutUrl=naver",
+     "t": "2026-11-16T13:54:00+09:00",
+     "by": "segye.com"
+    },
+    {
+     "title": "고강도 운동 후 우유 섭취, 뼈 형성 관련 지표에 차이",
+     "link": "https://isplus.com/article/view/isp202611160056",
+     "t": "2026-11-16T10:49:00+09:00",
+     "by": "isplus.com"
+    },
+    {
+     "title": "운동 후 마시는 우유 한 잔, 뼈 건강 관련 연구 결과",
+     "link": "https://www.gpkorea.com/news/articleView.html?idxno=148649",
+     "t": "2026-11-16T10:30:00+09:00",
+     "by": "gpkorea.com"
+    },
+    {
+     "title": "건강하려고 \"우유를 '귀리'로 바꿔주세요\"…정작 이걸 놓치고 있었다",
+     "link": "https://view.asiae.co.kr/article/2026111510415743412",
+     "t": "2026-11-15T10:46:00+09:00",
+     "by": "view.asiae.co.kr"
     }
    ]
   },
@@ -798,38 +834,6 @@
      "link": "https://sjbnews.com/news/news.php?number=892619",
      "t": "2026-11-15T18:47:00+09:00",
      "by": "sjbnews.com"
-    }
-   ]
-  },
-  {
-   "name": "불면증",
-   "kind": "질환·증상",
-   "count": 4,
-   "angles": [],
-   "items": [
-    {
-     "title": "에자이 \"데이비고, 불면증 치료에 새로운 시대를 연다\"",
-     "link": "http://www.newsmp.com/news/articleView.html?idxno=259347",
-     "t": "2026-11-17T15:42:00+09:00",
-     "by": "newsmp.com"
-    },
-    {
-     "title": "\"불면증 치료, '진정'→'각성 조절'로…DORA 계열 부상\"",
-     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144467",
-     "t": "2026-11-17T13:50:00+09:00",
-     "by": "medisobizanews.com"
-    },
-    {
-     "title": "불면증도 해결될까?…'이것' 하나로 렘수면 확 늘었다 [매일비타민]",
-     "link": "https://www.imaeil.com/page/view/2026111710213594912",
-     "t": "2026-11-17T13:15:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "불면증 치료 새 기전 '데이비고'…각성 신호 차단에 주목",
-     "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=549132",
-     "t": "2026-11-17T12:52:00+09:00",
-     "by": "kpanews.co.kr"
     }
    ]
   },

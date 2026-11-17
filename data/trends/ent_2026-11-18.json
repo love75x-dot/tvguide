@@ -18,10 +18,11 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 1,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
@@ -51,10 +52,11 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 2,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
@@ -62,7 +64,7 @@
    ],
    "now": {
     "nate_pop": 2,
-    "nate_int": 4
+    "nate_int": 2
    },
    "count": 1,
    "inrank": true
@@ -84,43 +86,11 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 2,
    "hours": [
-    "00:08"
-   ],
-   "srcs": [
-    "nate_pop",
-    "nate_int"
-   ],
-   "now": {
-    "nate_pop": 3,
-    "nate_int": 2
-   },
-   "count": 1,
-   "inrank": true
-  },
-  {
-   "id": "c4",
-   "title": "노유민, 새벽 가슴 통증에 응급실 실려갔다…안타까운 병원 근황",
-   "titles": [
-    "노유민, 새벽 가슴 통증에 응급실 실려갔다…안타까운 병원 근황"
-   ],
-   "links": [
-    "https://news.nate.com/view/20261117n37475"
-   ],
-   "articles": [
-    {
-     "title": "노유민, 새벽 가슴 통증에 응급실 실려갔다…안타까운 병원 근황",
-     "link": "https://news.nate.com/view/20261117n37475",
-     "media": "스포츠조선"
-    }
-   ],
-   "first": "00:08",
-   "last": "00:08",
-   "best": 3,
-   "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
@@ -131,6 +101,54 @@
     "nate_int": 3
    },
    "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c4",
+   "title": "노유민, 새벽 가슴 통증에 응급실 실려갔다…안타까운 병원 근황",
+   "titles": [
+    "노유민, 새벽 가슴 통증에 응급실 실려갔다…안타까운 병원 근황",
+    "'30kg 감량 후 요요' 노유민, 응급실 긴급 이송…무슨 일?",
+    "NRG 노유민, 새벽에 가슴 통증으로 응급실行…아내 \"별거 아니길\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261117n37475",
+    "https://news.nate.com/view/20261117n38239",
+    "https://news.nate.com/view/20261117n37714"
+   ],
+   "articles": [
+    {
+     "title": "노유민, 새벽 가슴 통증에 응급실 실려갔다…안타까운 병원 근황",
+     "link": "https://news.nate.com/view/20261117n37475",
+     "media": "스포츠조선"
+    },
+    {
+     "title": "'30kg 감량 후 요요' 노유민, 응급실 긴급 이송…무슨 일?",
+     "link": "https://news.nate.com/view/20261117n38239",
+     "media": "스포츠서울"
+    },
+    {
+     "title": "NRG 노유민, 새벽에 가슴 통증으로 응급실行…아내 \"별거 아니길\"",
+     "link": "https://news.nate.com/view/20261117n37714",
+     "media": "스포츠투데이"
+    }
+   ],
+   "first": "00:08",
+   "last": "01:08",
+   "best": 3,
+   "hours": [
+    "00:08",
+    "01:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 7,
+    "nate_int": 4
+   },
+   "count": 3,
    "inrank": true
   },
   {
@@ -164,10 +182,11 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 5,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
@@ -197,18 +216,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 6,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 8
+    "nate_pop": 8,
+    "nate_int": 6
    },
    "count": 1,
    "inrank": true
@@ -237,18 +257,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 6,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 6
+    "nate_pop": 6,
+    "nate_int": 7
    },
    "count": 2,
    "inrank": true
@@ -270,17 +291,18 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 8,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
+    "nate_pop": 11,
     "nate_int": 10
    },
    "count": 1,
@@ -310,18 +332,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 7,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 7
+    "nate_pop": 12,
+    "nate_int": 11
    },
    "count": 2,
    "inrank": true
@@ -330,33 +353,41 @@
    "id": "c10",
    "title": "여에스더♥홍혜걸, 결혼 32년만 합방…\"예뻐\" 아침부터 꿀뚝뚝 ('동상이몽2...",
    "titles": [
-    "여에스더♥홍혜걸, 결혼 32년만 합방…\"예뻐\" 아침부터 꿀뚝뚝 ('동상이몽2..."
+    "여에스더♥홍혜걸, 결혼 32년만 합방…\"예뻐\" 아침부터 꿀뚝뚝 ('동상이몽2...",
+    "'3천억 CEO' 여에스더 \"회사가 더 중요, 이혼할 것\"…♥홍혜걸 충격 ('동..."
    ],
    "links": [
-    "https://news.nate.com/view/20261117n37974"
+    "https://news.nate.com/view/20261117n37974",
+    "https://news.nate.com/view/20261117n38756"
    ],
    "articles": [
     {
      "title": "여에스더♥홍혜걸, 결혼 32년만 합방…\"예뻐\" 아침부터 꿀뚝뚝 ('동상이몽2...",
      "link": "https://news.nate.com/view/20261117n37974",
      "media": "OSEN"
+    },
+    {
+     "title": "'3천억 CEO' 여에스더 \"회사가 더 중요, 이혼할 것\"…♥홍혜걸 충격 ('동...",
+     "link": "https://news.nate.com/view/20261117n38756",
+     "media": "OSEN"
     }
    ],
    "first": "00:08",
-   "last": "00:08",
-   "best": 11,
+   "last": "01:08",
+   "best": 9,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 23
+    "nate_pop": 14,
+    "nate_int": 9
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -376,18 +407,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 9,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 9
+    "nate_pop": 22,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -409,18 +441,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 11,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 11
+    "nate_pop": 23,
+    "nate_int": 18
    },
    "count": 1,
    "inrank": true
@@ -442,18 +475,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 12,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 12
+    "nate_pop": 17,
+    "nate_int": 13
    },
    "count": 1,
    "inrank": true
@@ -475,18 +509,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 13,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 13
+    "nate_pop": 16,
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -508,18 +543,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
-   "best": 16,
+   "last": "01:08",
+   "best": 15,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 16
+    "nate_pop": 20,
+    "nate_int": 15
    },
    "count": 1,
    "inrank": true
@@ -541,18 +577,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
-   "best": 17,
+   "last": "01:08",
+   "best": 12,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 17
+    "nate_pop": 18,
+    "nate_int": 12
    },
    "count": 1,
    "inrank": true
@@ -561,33 +598,40 @@
    "id": "c17",
    "title": "'키드냅게임' 이준기, 홍콩 변호사 살해 시도…사카구치 켄타로가 만류 [종...",
    "titles": [
-    "'키드냅게임' 이준기, 홍콩 변호사 살해 시도…사카구치 켄타로가 만류 [종..."
+    "'키드냅게임' 이준기, 홍콩 변호사 살해 시도…사카구치 켄타로가 만류 [종...",
+    "이준기, 딸 살리기 위해 살해 시도 → 사카쿠치 켄타로에 저지 ('키드냅 게..."
    ],
    "links": [
-    "https://news.nate.com/view/20261117n38035"
+    "https://news.nate.com/view/20261117n38035",
+    "https://news.nate.com/view/20261117n37884"
    ],
    "articles": [
     {
      "title": "'키드냅게임' 이준기, 홍콩 변호사 살해 시도…사카구치 켄타로가 만류 [종...",
      "link": "https://news.nate.com/view/20261117n38035",
      "media": "TV리포트"
+    },
+    {
+     "title": "이준기, 딸 살리기 위해 살해 시도 → 사카쿠치 켄타로에 저지 ('키드냅 게...",
+     "link": "https://news.nate.com/view/20261117n37884",
+     "media": "MHN스포츠"
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 18,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 40
+    "nate_int": 24
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -607,18 +651,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 14,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 14
+    "nate_pop": 21,
+    "nate_int": 20
    },
    "count": 1,
    "inrank": true
@@ -640,18 +685,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 20,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 24
+    "nate_pop": 28,
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -673,18 +719,18 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 18,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 18
+    "nate_int": 34
    },
    "count": 1,
    "inrank": true
@@ -713,18 +759,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
-   "best": 22,
+   "last": "01:08",
+   "best": 15,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 41
+    "nate_pop": 15,
+    "nate_int": 16
    },
    "count": 2,
    "inrank": true
@@ -746,18 +793,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 23,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 43
+    "nate_pop": 25,
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -779,18 +827,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 24,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 25
+    "nate_pop": 30,
+    "nate_int": 26
    },
    "count": 1,
    "inrank": true
@@ -821,12 +870,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 25,
-    "nate_int": 20
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c25",
@@ -845,18 +891,18 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 26,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 26,
-    "nate_int": 30
+    "nate_int": 33
    },
    "count": 1,
    "inrank": true
@@ -878,18 +924,18 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
-   "best": 27,
+   "last": "01:08",
+   "best": 21,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 29
+    "nate_int": 21
    },
    "count": 1,
    "inrank": true
@@ -911,18 +957,18 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 27,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 27
+    "nate_int": 35
    },
    "count": 1,
    "inrank": true
@@ -944,16 +990,17 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 19,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 19
+    "nate_int": 38
    },
    "count": 1,
    "inrank": true
@@ -975,16 +1022,17 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 21,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 21
+    "nate_int": 49
    },
    "count": 1,
    "inrank": true
@@ -1014,11 +1062,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 22
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c31",
@@ -1037,16 +1083,17 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 26,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 26
+    "nate_int": 37
    },
    "count": 1,
    "inrank": true
@@ -1068,10 +1115,11 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 31,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_int"
@@ -1099,16 +1147,17 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 32,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 32
+    "nate_int": 42
    },
    "count": 1,
    "inrank": true
@@ -1130,16 +1179,17 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 33,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 33
+    "nate_int": 47
    },
    "count": 1,
    "inrank": true
@@ -1161,16 +1211,17 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
+   "last": "01:08",
    "best": 34,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 34
+    "nate_int": 36
    },
    "count": 1,
    "inrank": true
@@ -1207,11 +1258,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 35
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c37",
@@ -1238,11 +1287,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 36
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c38",
@@ -1269,11 +1316,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 37
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c39",
@@ -1300,11 +1345,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 39
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c40",
@@ -1323,16 +1366,17 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
-   "best": 44,
+   "last": "01:08",
+   "best": 43,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 44
+    "nate_int": 43
    },
    "count": 1,
    "inrank": true
@@ -1354,16 +1398,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
-   "best": 45,
+   "last": "01:08",
+   "best": 26,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 45
+    "nate_pop": 26,
+    "nate_int": 27
    },
    "count": 1,
    "inrank": true
@@ -1385,16 +1432,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
-   "best": 46,
+   "last": "01:08",
+   "best": 24,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 46
+    "nate_pop": 24,
+    "nate_int": 30
    },
    "count": 1,
    "inrank": true
@@ -1416,16 +1466,19 @@
     }
    ],
    "first": "00:08",
-   "last": "00:08",
-   "best": 48,
+   "last": "01:08",
+   "best": 27,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 48
+    "nate_pop": 27,
+    "nate_int": 28
    },
    "count": 1,
    "inrank": true
@@ -1434,29 +1487,194 @@
    "id": "c44",
    "title": "'46세' 배윤정, 거상수술 후 얼굴 달라졌다…비포&애프터 '충격'",
    "titles": [
-    "'46세' 배윤정, 거상수술 후 얼굴 달라졌다…비포&애프터 '충격'"
+    "'46세' 배윤정, 거상수술 후 얼굴 달라졌다…비포&애프터 '충격'",
+    "트와이스 정연, 몰라보게 달라졌다…이젠 진짜 배우 얼굴"
    ],
    "links": [
-    "https://news.nate.com/view/20261117n25322"
+    "https://news.nate.com/view/20261117n25322",
+    "https://news.nate.com/view/20261117n35980"
    ],
    "articles": [
     {
      "title": "'46세' 배윤정, 거상수술 후 얼굴 달라졌다…비포&애프터 '충격'",
      "link": "https://news.nate.com/view/20261117n25322",
      "media": "스포티비뉴스"
+    },
+    {
+     "title": "트와이스 정연, 몰라보게 달라졌다…이젠 진짜 배우 얼굴",
+     "link": "https://news.nate.com/view/20261117n35980",
+     "media": "마이데일리"
     }
    ],
    "first": "00:08",
-   "last": "00:08",
-   "best": 49,
+   "last": "01:08",
+   "best": 13,
    "hours": [
-    "00:08"
+    "00:08",
+    "01:08"
+   ],
+   "srcs": [
+    "nate_int",
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 13,
+    "nate_int": 19
+   },
+   "count": 2,
+   "inrank": true
+  },
+  {
+   "id": "c45",
+   "title": "살다살다 '방귀' 사과문 처음…'계약결혼' 상철 \"제 귀를 의심했다\" [...",
+   "titles": [
+    "살다살다 '방귀' 사과문 처음…'계약결혼' 상철 \"제 귀를 의심했다\" [..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261118n00503"
+   ],
+   "articles": [
+    {
+     "title": "살다살다 '방귀' 사과문 처음…'계약결혼' 상철 \"제 귀를 의심했다\" [...",
+     "link": "https://news.nate.com/view/20261118n00503",
+     "media": "OSEN"
+    }
+   ],
+   "first": "01:08",
+   "last": "01:08",
+   "best": 3,
+   "hours": [
+    "01:08"
+   ],
+   "srcs": [
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 3
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c46",
+   "title": "주지훈한테 왜 그래…'재혼황후'의상 논란, 임영웅·장민호·이찬원까지? [...",
+   "titles": [
+    "주지훈한테 왜 그래…'재혼황후'의상 논란, 임영웅·장민호·이찬원까지? [..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261118n00359"
+   ],
+   "articles": [
+    {
+     "title": "주지훈한테 왜 그래…'재혼황후'의상 논란, 임영웅·장민호·이찬원까지? [...",
+     "link": "https://news.nate.com/view/20261118n00359",
+     "media": "OSEN"
+    }
+   ],
+   "first": "01:08",
+   "last": "01:08",
+   "best": 9,
+   "hours": [
+    "01:08"
+   ],
+   "srcs": [
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 9
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c47",
+   "title": "\"손잡고 걷자\" 루팡의 갑작스러운 직진…뉴욕쥐 \"모쏠 맞네\" 당황 ('돌싱N...",
+   "titles": [
+    "\"손잡고 걷자\" 루팡의 갑작스러운 직진…뉴욕쥐 \"모쏠 맞네\" 당황 ('돌싱N..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261118n00263"
+   ],
+   "articles": [
+    {
+     "title": "\"손잡고 걷자\" 루팡의 갑작스러운 직진…뉴욕쥐 \"모쏠 맞네\" 당황 ('돌싱N...",
+     "link": "https://news.nate.com/view/20261118n00263",
+     "media": "MHN스포츠"
+    }
+   ],
+   "first": "01:08",
+   "last": "01:08",
+   "best": 39,
+   "hours": [
+    "01:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 49
+    "nate_int": 39
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c48",
+   "title": "김종국, ♥9세 연하 아내 어떻길래…자랑 끝이 없네 \"존경할 점 너무 많아\"",
+   "titles": [
+    "김종국, ♥9세 연하 아내 어떻길래…자랑 끝이 없네 \"존경할 점 너무 많아\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261117n36887"
+   ],
+   "articles": [
+    {
+     "title": "김종국, ♥9세 연하 아내 어떻길래…자랑 끝이 없네 \"존경할 점 너무 많아\"",
+     "link": "https://news.nate.com/view/20261117n36887",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "01:08",
+   "last": "01:08",
+   "best": 45,
+   "hours": [
+    "01:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 45
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c49",
+   "title": "김숙 \"김강우, 우리 집 비밀번호 아는 유일한 男\" 깜짝",
+   "titles": [
+    "김숙 \"김강우, 우리 집 비밀번호 아는 유일한 男\" 깜짝"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261117n36211"
+   ],
+   "articles": [
+    {
+     "title": "김숙 \"김강우, 우리 집 비밀번호 아는 유일한 男\" 깜짝",
+     "link": "https://news.nate.com/view/20261117n36211",
+     "media": "뉴스1"
+    }
+   ],
+   "first": "01:08",
+   "last": "01:08",
+   "best": 50,
+   "hours": [
+    "01:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 50
    },
    "count": 1,
    "inrank": true
@@ -1470,9 +1688,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "01:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-18T00:08:23.889428+09:00",
+ "updated": "2026-11-18T01:08:31.462230+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

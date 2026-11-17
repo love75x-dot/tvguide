@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T17:08:42.214744+09:00",
+ "updated": "2026-11-17T18:08:40.574825+09:00",
  "hot": [
   {
    "name": "X5",
@@ -40,6 +40,25 @@
    ]
   },
   {
+   "name": "필랑트",
+   "count": 3,
+   "prev": 1,
+   "rise": 6,
+   "moto": false,
+   "why": []
+  },
+  {
+   "name": "쏘렌토",
+   "count": 3,
+   "prev": 1,
+   "rise": -3,
+   "moto": false,
+   "why": [
+    "가격 인하",
+    "판매 1위"
+   ]
+  },
+  {
    "name": "EV5",
    "count": 3,
    "prev": 2,
@@ -61,27 +80,9 @@
    ]
   },
   {
-   "name": "쏘렌토",
-   "count": 2,
-   "prev": 1,
-   "rise": -3,
-   "moto": false,
-   "why": [
-    "판매 1위"
-   ]
-  },
-  {
    "name": "캐스퍼",
    "count": 2,
    "prev": 0,
-   "rise": 6,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "필랑트",
-   "count": 2,
-   "prev": 1,
    "rise": 6,
    "moto": false,
    "why": []

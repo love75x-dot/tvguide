@@ -1,10 +1,52 @@
 {
- "updated": "2026-11-18T12:37:26.389490+09:00",
+ "updated": "2026-11-18T13:10:48.082421+09:00",
  "all": [
   {
-   "name": "엔비디아",
-   "count": 27,
+   "name": "보안",
+   "count": 35,
    "items": [
+    {
+     "title": "국정원, 공공 웹사이트 보안 SW 설치 최소화 가이드 공개",
+     "link": "https://byline.network/?p=9004111222628279",
+     "t": "2026-11-18T13:10:00+09:00",
+     "by": "byline.network"
+    },
+    {
+     "title": "정부, Java4Shell 긴급 대응…민·관·군 점검하고 기업에 보안 업데이트...",
+     "link": "https://www.dailysecu.com/news/articleView.html?idxno=209588",
+     "t": "2026-11-18T13:04:00+09:00",
+     "by": "dailysecu.com"
+    },
+    {
+     "title": "인천시 정보 보안·인천대 발전기금 도마 위",
+     "link": "https://www.sentv.co.kr/article/view/sentv202611180116",
+     "t": "2026-11-18T13:02:00+09:00",
+     "by": "sentv.co.kr"
+    },
+    {
+     "title": "금융권 보안 점검 사각지대 차단…주변 시스템까지 의무화",
+     "link": "https://www.naeil.com/news/read/609155?ref=naver",
+     "t": "2026-11-18T13:02:00+09:00",
+     "by": "naeil.com"
+    },
+    {
+     "title": "아리바이오랩 28%·빅웨이브로보틱스 23% 상승…로봇· 보안 주 강세",
+     "link": "http://www.kjdaily.com/article.php?aid=1794974363692735276",
+     "t": "2026-11-18T13:00:00+09:00",
+     "by": "kjdaily.com"
+    }
+   ]
+  },
+  {
+   "name": "엔비디아",
+   "count": 28,
+   "items": [
+    {
+     "title": "엔비디아 바닥은 언제?…5가지 정상화 신호",
+     "link": "https://www.chosun.com/economy/stock-finance/2026/11/18/ZDDMAYXFTNHNTKZ3WI4VDZFOZE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "t": "2026-11-18T13:01:00+09:00",
+     "by": "chosun.com"
+    },
     {
      "title": "'AI 중앙은행' 된 엔비디아…3분기 매출 2배 뛰어도 안심 못 하나",
      "link": "https://magazine.hankyung.com/business/article/202611184491b",
@@ -28,91 +70,97 @@
      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261118010006974",
      "t": "2026-11-18T12:04:00+09:00",
      "by": "asiatoday.co.kr"
-    },
-    {
-     "title": "엔비디아 매출 ‘1158억달러’ 찍고, 삼전닉스 들썩… 아슬아슬 ‘AI 랠...",
-     "link": "https://www.munhwa.com/article/11632233?ref=naver",
-     "t": "2026-11-18T11:57:00+09:00",
-     "by": "munhwa.com"
     }
    ]
   },
   {
-   "name": "보안",
-   "count": 30,
+   "name": "해킹",
+   "count": 28,
    "items": [
     {
-     "title": "로그인 없이 서버 침투···'자바' 보안 비상",
-     "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884621",
-     "t": "2026-11-18T12:40:00+09:00",
+     "title": "에버스핀, 자바 해킹 취약점 공격 차단 검증",
+     "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884625",
+     "t": "2026-11-18T13:10:00+09:00",
      "by": "hansbiz.co.kr"
     },
     {
-     "title": "MS, 저비용 코딩과 보안 특화 AI 모델군 전격 공개…오픈AI·앤스로픽과...",
-     "link": "https://www.g-enews.com/view.php?ud=202611181056132224fda4f5ab74_1",
-     "t": "2026-11-18T12:30:00+09:00",
-     "by": "g-enews.com"
+     "title": "메가커피·레고랜드도…‘위탁업체’ 해킹 유출",
+     "link": "https://www.naeil.com/news/read/609264?ref=naver",
+     "t": "2026-11-18T13:06:00+09:00",
+     "by": "naeil.com"
+    },
+    {
+     "title": "미래에셋생명 해킹 유출 1만명 넘어",
+     "link": "https://www.naeil.com/news/read/609265?ref=naver",
+     "t": "2026-11-18T13:06:00+09:00",
+     "by": "naeil.com"
+    },
+    {
+     "title": "미래에셋생명 해킹 피해 1만 명 넘어…고팍스 2천명으로 늘어",
+     "link": "https://www.busan.com/view/busan/view.php?code=2026111813035221825",
+     "t": "2026-11-18T13:04:00+09:00",
+     "by": "busan.com"
+    },
+    {
+     "title": "메가커피, 해킹 사흘 뒤 인지...같은 메타엠 쓴 코인원은 당일 인지",
+     "link": "https://www.insight.co.kr/news/582553",
+     "t": "2026-11-18T12:54:00+09:00",
+     "by": "insight.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "취약점",
+   "count": 25,
+   "items": [
+    {
+     "title": "에버스핀, 자바 해킹 취약점 공격 차단 검증",
+     "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884625",
+     "t": "2026-11-18T13:10:00+09:00",
+     "by": "hansbiz.co.kr"
+    },
+    {
+     "title": "OpenJDK 취약점 발견…정부 긴급 점검 권고",
+     "link": "https://www.vegannews.co.kr/news/article.html?no=407059",
+     "t": "2026-11-18T13:10:00+09:00",
+     "by": "vegannews.co.kr"
+    },
+    {
+     "title": "금융권 보안관리 전면 개편…대형 금융사 취약점 점검 연 2회 의무화",
+     "link": "https://www.ppss.kr/news/articleView.html?idxno=321688",
+     "t": "2026-11-18T12:45:00+09:00",
+     "by": "ppss.kr"
+    },
+    {
+     "title": "취약점 공개에서 공격까지 시간이 줄어든다, 패치 전에 막는 '가상 패치...",
+     "link": "https://platum.kr/archives/298873",
+     "t": "2026-11-18T12:38:00+09:00",
+     "by": "platum.kr"
     },
     {
      "title": "AI 에이전트 개발은 빨라지는데… 보안 취약점 수정에는 평균 18일",
      "link": "https://biz.chosun.com/it-science/ict/2026/11/18/LD3YTLLQZJEKZDZFDILDKCOZ3E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
      "t": "2026-11-18T12:17:00+09:00",
      "by": "biz.chosun.com"
-    },
-    {
-     "title": "F5, AI 시대 보안 패러다임 전환…다계층 방어로 사이버 위협 대응",
-     "link": "https://www.koit.co.kr/news/articleView.html?idxno=209975",
-     "t": "2026-11-18T12:12:00+09:00",
-     "by": "koit.co.kr"
-    },
-    {
-     "title": "금융권 IT 보안 망 촘촘해진다…대형 금융사 취약점 점검 연 2회로",
-     "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=67985",
-     "t": "2026-11-18T12:12:00+09:00",
-     "by": "newsroad.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "해킹",
-   "count": 25,
-   "items": [
-    {
-     "title": "대형 금융사 보안 점검 ‘연 2회’로… AI 해킹 대응 속도전",
-     "link": "https://m.skyedaily.com/news_view.html?ID=314821",
-     "t": "2026-11-18T12:10:00+09:00",
-     "by": "skyedaily.com"
-    },
-    {
-     "title": "美 6일간 대형 시스템 장애 6건 왜?…\"AI 해킹 아닌 SW 패치 문제\"",
-     "link": "https://www.newsis.com/view/NISX20261118_0003872756",
-     "t": "2026-11-18T12:06:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "미래에셋생명 해킹 유출 1만명 넘어…스트리미 2천명으로 늘어",
-     "link": "https://www.kbsm.net/news/view.php?idx=542199",
-     "t": "2026-11-18T11:54:00+09:00",
-     "by": "kbsm.net"
-    },
-    {
-     "title": "애플 주요 서비스 한때 먹통…\"내부 업데이트 탓, 해킹과 무관\"",
-     "link": "https://www.widedaily.com/news/articleView.html?idxno=303998",
-     "t": "2026-11-18T11:36:00+09:00",
-     "by": "widedaily.com"
-    },
-    {
-     "title": "중소기업중앙회 노란우산 해킹 사고…가입자 20만5000명 개인정보 유출 ...",
-     "link": "https://www.delighti.co.kr/news/articleView.html?idxno=125160",
-     "t": "2026-11-18T11:30:00+09:00",
-     "by": "delighti.co.kr"
     }
    ]
   },
   {
    "name": "유출",
-   "count": 25,
+   "count": 22,
    "items": [
+    {
+     "title": "메가커피·레고랜드도…‘위탁업체’ 해킹 유출",
+     "link": "https://www.naeil.com/news/read/609264?ref=naver",
+     "t": "2026-11-18T13:06:00+09:00",
+     "by": "naeil.com"
+    },
+    {
+     "title": "미래에셋생명 해킹 유출 1만명 넘어",
+     "link": "https://www.naeil.com/news/read/609265?ref=naver",
+     "t": "2026-11-18T13:06:00+09:00",
+     "by": "naeil.com"
+    },
     {
      "title": "'노란우산' 개인정보 유출 의심 규모 36만명으로 늘어… 가입자 5명 중 ...",
      "link": "https://www.newscj.com/news/articleView.html?idxno=3449730",
@@ -130,90 +178,42 @@
      "link": "http://www.breaknews.com/1251872",
      "t": "2026-11-18T11:52:00+09:00",
      "by": "breaknews.com"
-    },
-    {
-     "title": "노란우산 개인정보 유출 36만명 규모…가입자 5명 중 1명꼴",
-     "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=82555",
-     "t": "2026-11-18T11:42:00+09:00",
-     "by": "newsfc.co.kr"
-    },
-    {
-     "title": "노란우산 개인정보 유출 20만명 규모… 전체 가입자 10% 수준",
-     "link": "https://www.viva100.com/article/20261118500643",
-     "t": "2026-11-18T11:32:00+09:00",
-     "by": "viva100.com"
-    }
-   ]
-  },
-  {
-   "name": "취약점",
-   "count": 22,
-   "items": [
-    {
-     "title": "취약점 공개에서 공격까지 시간이 줄어든다, 패치 전에 막는 '가상 패치...",
-     "link": "https://platum.kr/archives/298873",
-     "t": "2026-11-18T12:38:00+09:00",
-     "by": "platum.kr"
-    },
-    {
-     "title": "AI 에이전트 개발은 빨라지는데… 보안 취약점 수정에는 평균 18일",
-     "link": "https://biz.chosun.com/it-science/ict/2026/11/18/LD3YTLLQZJEKZDZFDILDKCOZ3E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "t": "2026-11-18T12:17:00+09:00",
-     "by": "biz.chosun.com"
-    },
-    {
-     "title": "금융권 IT 보안 망 촘촘해진다…대형 금융사 취약점 점검 연 2회로",
-     "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=67985",
-     "t": "2026-11-18T12:12:00+09:00",
-     "by": "newsroad.co.kr"
-    },
-    {
-     "title": "로그인 없이 기업 서버 뚫는다…자바 취약점 공격 시연까지",
-     "link": "https://www.news1.kr/it-science/security-hacking/6357998",
-     "t": "2026-11-18T12:11:00+09:00",
-     "by": "news1.kr"
-    },
-    {
-     "title": "AI가 찾은 취약점 9791건…깃허브·MS, 오픈소스 보안 시범사업 성과",
-     "link": "https://www.betanews.net/article/view/beta202611180041",
-     "t": "2026-11-18T11:54:00+09:00",
-     "by": "betanews.net"
     }
    ]
   },
   {
    "name": "게임",
-   "count": 22,
+   "count": 21,
    "items": [
     {
-     "title": "'이쯤 되면 고양이 게임 명가'…넵튠 '총잡이 고양이', 누적 매출 300억...",
-     "link": "http://game.dailyesports.com/view.php?ud=202611181216298803da2c546b3a_26",
-     "t": "2026-11-18T12:26:00+09:00",
+     "title": "라그나로크 오리진 클래식, 동남아 '올해의 경쟁 게임' 수상",
+     "link": "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1783700",
+     "t": "2026-11-18T13:11:00+09:00",
+     "by": "gamemeca.com"
+    },
+    {
+     "title": "메이플키우기·몬길, 구글 '올해를 빛낸 게임 ' 수상",
+     "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=320665",
+     "t": "2026-11-18T13:04:00+09:00",
+     "by": "wolyo.co.kr"
+    },
+    {
+     "title": "환율에 순이익도 '흔들'… 게임 사 4분기 전략은",
+     "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7193785",
+     "t": "2026-11-18T13:00:00+09:00",
+     "by": "weekly.hankooki.com"
+    },
+    {
+     "title": "구글, 2026년 베스트 게임 은 '메이플 키우기'…동남아 시장서도 K- 게임 강...",
+     "link": "http://game.dailyesports.com/view.php?ud=20261118124918725143da15d9d2_26",
+     "t": "2026-11-18T12:57:00+09:00",
      "by": "game.dailyesports.com"
     },
     {
-     "title": "[K- 게임 연말 총력전⑤·完] 연말연시 신작 출시 잇따라… 게임 업계 흥행...",
-     "link": "https://www.ddaily.co.kr/page/view/2026111811415326250",
-     "t": "2026-11-18T12:01:00+09:00",
-     "by": "ddaily.co.kr"
-    },
-    {
-     "title": "'5년째 적자' 하이브 게임 자회사 드림에이지, 인력감축 돌입",
-     "link": "https://news.bizwatch.co.kr/article/mobile/2026/11/17/0046",
-     "t": "2026-11-18T11:46:00+09:00",
-     "by": "bizwatch.co.kr"
-    },
-    {
-     "title": "플레이위드, 中 게임 사와 '로한' IP 계약…글로벌 신작 개발",
-     "link": "https://www.ddaily.co.kr/page/view/2026111811182574996",
-     "t": "2026-11-18T11:43:00+09:00",
-     "by": "ddaily.co.kr"
-    },
-    {
-     "title": "NHN, '최애의 아이' 첫 공식 퍼즐 게임 출시 …170여개국 서비스",
-     "link": "https://www.ddaily.co.kr/page/view/2026111811135990925",
-     "t": "2026-11-18T11:39:00+09:00",
-     "by": "ddaily.co.kr"
+     "title": "넥슨 '메이플 키우기', 구글 '올해의 베스트 게임' 뽑혔다",
+     "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=113181",
+     "t": "2026-11-18T12:50:00+09:00",
+     "by": "gametoc.co.kr"
     }
    ]
   }

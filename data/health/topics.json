@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:08:30.030765+09:00",
+ "updated": "2026-11-18T21:56:54.120977+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -47,7 +47,7 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 52,
+   "count": 51,
    "angles": [
     "에 좋은",
     "부작용",
@@ -131,7 +131,7 @@
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 19,
+   "count": 18,
    "angles": [
     "부작용",
     "효능"
@@ -172,7 +172,7 @@
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 17,
+   "count": 18,
    "angles": [
     "부작용",
     "에 좋은",
@@ -180,6 +180,12 @@
     "효능"
    ],
    "items": [
+    {
+     "title": "피 한방울로 치매 위험 10년 전 미리 잡는다 [매일 비타민 ]",
+     "link": "https://www.imaeil.com/page/view/2026111809465700070",
+     "t": "2026-11-18T21:53:00+09:00",
+     "by": "imaeil.com"
+    },
     {
      "title": "\"같이 살아도 안심 못한다\"…치매 위험 높인 의외의 요인 [ 건강 !톡]",
      "link": "https://www.hankyung.com/article/2026111857927",
@@ -203,12 +209,6 @@
      "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240499",
      "t": "2026-11-18T16:02:00+09:00",
      "by": "cctoday.co.kr"
-    },
-    {
-     "title": "한국뇌연구원, 루게릭병·치매 신경세포 죽이는 핵심 경로 규명",
-     "link": "https://www.kbsm.net/news/view.php?idx=542322",
-     "t": "2026-11-18T13:52:00+09:00",
-     "by": "kbsm.net"
     }
    ]
   },
@@ -291,46 +291,6 @@
    ]
   },
   {
-   "name": "폐렴",
-   "kind": "질환·증상",
-   "count": 13,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "겨울 초입 독감 전국 유행…약해진 기도 폐렴 합병증 위험",
-     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=60029",
-     "t": "2026-11-18T19:38:00+09:00",
-     "by": "koreahealthlog.com"
-    },
-    {
-     "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심",
-     "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171934&ref=naverpc",
-     "t": "2026-11-18T18:36:00+09:00",
-     "by": "medicaltimes.com"
-    },
-    {
-     "title": "독감 증상 호전 뒤 다시 열나면 폐렴 의심…힘찬병원 \"고위험군은 초기...",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=214078",
-     "t": "2026-11-18T16:30:00+09:00",
-     "by": "thefirstmedia.net"
-    },
-    {
-     "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심해야",
-     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51856",
-     "t": "2026-11-18T14:50:00+09:00",
-     "by": "ikunkang.com"
-    },
-    {
-     "title": "독감 회복 후 다시 발열·기침…폐렴 합병증 주의",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=422138",
-     "t": "2026-11-18T14:38:00+09:00",
-     "by": "medipana.com"
-    }
-   ]
-  },
-  {
    "name": "단백질",
    "kind": "영양제",
    "count": 12,
@@ -408,6 +368,46 @@
      "link": "https://kormedi.com/?p=2906715",
      "t": "2026-11-17T11:24:00+09:00",
      "by": "kormedi.com"
+    }
+   ]
+  },
+  {
+   "name": "폐렴",
+   "kind": "질환·증상",
+   "count": 12,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "겨울 초입 독감 전국 유행…약해진 기도 폐렴 합병증 위험",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=60029",
+     "t": "2026-11-18T19:38:00+09:00",
+     "by": "koreahealthlog.com"
+    },
+    {
+     "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심",
+     "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171934&ref=naverpc",
+     "t": "2026-11-18T18:36:00+09:00",
+     "by": "medicaltimes.com"
+    },
+    {
+     "title": "독감 증상 호전 뒤 다시 열나면 폐렴 의심…힘찬병원 \"고위험군은 초기...",
+     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=214078",
+     "t": "2026-11-18T16:30:00+09:00",
+     "by": "thefirstmedia.net"
+    },
+    {
+     "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심해야",
+     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51856",
+     "t": "2026-11-18T14:50:00+09:00",
+     "by": "ikunkang.com"
+    },
+    {
+     "title": "독감 회복 후 다시 발열·기침…폐렴 합병증 주의",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=422138",
+     "t": "2026-11-18T14:38:00+09:00",
+     "by": "medipana.com"
     }
    ]
   },

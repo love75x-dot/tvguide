@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-18T19:08:30.153723+09:00",
+ "updated": "2026-11-18T20:08:41.670135+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 70,
+   "count": 69,
    "angles": [
     "효능",
     "부작용",
@@ -47,13 +47,25 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 50,
+   "count": 51,
    "angles": [
-    "에 좋은",
     "부작용",
+    "에 좋은",
     "효능"
    ],
    "items": [
+    {
+     "title": "겨울 초입 독감 전국 유행…약해진 기도 폐렴 합병증 위험",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=60029",
+     "t": "2026-11-18T19:38:00+09:00",
+     "by": "koreahealthlog.com"
+    },
+    {
+     "title": "강원 독감 의심 환자 확산…건강 관리 필요",
+     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716317&ref=A",
+     "t": "2026-11-18T19:00:00+09:00",
+     "by": "kbs.co.kr"
+    },
     {
      "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심",
      "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171934&ref=naverpc",
@@ -71,25 +83,13 @@
      "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=450733",
      "t": "2026-11-18T17:26:00+09:00",
      "by": "jeonmin.co.kr"
-    },
-    {
-     "title": "\" 독감 다 나은 줄 알았는데 다시 고열\"…의심해야 하는 증상 은?",
-     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80974",
-     "t": "2026-11-18T17:00:00+09:00",
-     "by": "mkhealth.co.kr"
-    },
-    {
-     "title": "독감 증상 호전 뒤 다시 열나면 폐렴 의심…힘찬병원 \"고위험군은 초기...",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=214078",
-     "t": "2026-11-18T16:30:00+09:00",
-     "by": "thefirstmedia.net"
     }
    ]
   },
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 31,
+   "count": 28,
    "angles": [
     "에 좋은",
     "효능",
@@ -172,7 +172,7 @@
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 19,
+   "count": 17,
    "angles": [
     "부작용",
     "에 좋은",
@@ -291,6 +291,46 @@
    ]
   },
   {
+   "name": "폐렴",
+   "kind": "질환·증상",
+   "count": 13,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "겨울 초입 독감 전국 유행…약해진 기도 폐렴 합병증 위험",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=60029",
+     "t": "2026-11-18T19:38:00+09:00",
+     "by": "koreahealthlog.com"
+    },
+    {
+     "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심",
+     "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171934&ref=naverpc",
+     "t": "2026-11-18T18:36:00+09:00",
+     "by": "medicaltimes.com"
+    },
+    {
+     "title": "독감 증상 호전 뒤 다시 열나면 폐렴 의심…힘찬병원 \"고위험군은 초기...",
+     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=214078",
+     "t": "2026-11-18T16:30:00+09:00",
+     "by": "thefirstmedia.net"
+    },
+    {
+     "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심해야",
+     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51856",
+     "t": "2026-11-18T14:50:00+09:00",
+     "by": "ikunkang.com"
+    },
+    {
+     "title": "독감 회복 후 다시 발열·기침…폐렴 합병증 주의",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=422138",
+     "t": "2026-11-18T14:38:00+09:00",
+     "by": "medipana.com"
+    }
+   ]
+  },
+  {
    "name": "당뇨",
    "kind": "질환·증상",
    "count": 12,
@@ -327,46 +367,6 @@
      "link": "https://kormedi.com/?p=2906715",
      "t": "2026-11-17T11:24:00+09:00",
      "by": "kormedi.com"
-    }
-   ]
-  },
-  {
-   "name": "폐렴",
-   "kind": "질환·증상",
-   "count": 12,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심",
-     "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171934&ref=naverpc",
-     "t": "2026-11-18T18:36:00+09:00",
-     "by": "medicaltimes.com"
-    },
-    {
-     "title": "독감 증상 호전 뒤 다시 열나면 폐렴 의심…힘찬병원 \"고위험군은 초기...",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=214078",
-     "t": "2026-11-18T16:30:00+09:00",
-     "by": "thefirstmedia.net"
-    },
-    {
-     "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심해야",
-     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51856",
-     "t": "2026-11-18T14:50:00+09:00",
-     "by": "ikunkang.com"
-    },
-    {
-     "title": "독감 회복 후 다시 발열·기침…폐렴 합병증 주의",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=422138",
-     "t": "2026-11-18T14:38:00+09:00",
-     "by": "medipana.com"
-    },
-    {
-     "title": "독감 나아졌다 다시 열난다면…폐렴 합병증 의심해야",
-     "link": "http://www.kdfnews.com/news/articleView.html?idxno=191091",
-     "t": "2026-11-18T13:24:00+09:00",
-     "by": "kdfnews.com"
     }
    ]
   },
@@ -733,6 +733,49 @@
    ]
   },
   {
+   "name": "콜레스테롤",
+   "kind": "질환·증상",
+   "count": 6,
+   "angles": [
+    "효능",
+    "먹는 법",
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "카놀라유 놀라운 건강 효과 4가지... \"올리브유보다 나쁜 콜레스테롤 더...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70118",
+     "t": "2026-11-18T20:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "부천시민 대상 혈압. 혈당 .콜레스테롤 검사 실시",
+     "link": "http://www.breaknews.com/1251925",
+     "t": "2026-11-18T13:36:00+09:00",
+     "by": "breaknews.com"
+    },
+    {
+     "title": "고지혈증 약 먹으면 치매·암 걸린다? 콜레스테롤 오해와 진실 [이러면...",
+     "link": "https://www.chosun.com/medical/2026/11/17/NKIN4RBS4VGXZFXJCYHEZTA33U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "t": "2026-11-17T17:04:00+09:00",
+     "by": "chosun.com"
+    },
+    {
+     "title": "고지혈증 약 먹으면 치매·암 걸린다? 콜레스테롤 오해와 진실",
+     "link": "https://www.chosun.com/medical/2026/11/17/NKIN4RBS4VGXZFXJCYHEZTA33U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "t": "2026-11-17T17:04:00+09:00",
+     "by": "chosun.com"
+    },
+    {
+     "title": "음식 줄이고 운동해도 콜레스테롤 수치 그대로? 놓치기 쉬운 생활습관",
+     "link": "https://www.segye.com/newsView/20261110517897?OutUrl=naver",
+     "t": "2026-11-17T10:29:00+09:00",
+     "by": "segye.com"
+    }
+   ]
+  },
+  {
    "name": "프로바이오틱스",
    "kind": "영양제",
    "count": 6,
@@ -805,48 +848,6 @@
      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=549132",
      "t": "2026-11-17T12:52:00+09:00",
      "by": "kpanews.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "콜레스테롤",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "먹는 법",
-    "효능",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "부천시민 대상 혈압. 혈당 .콜레스테롤 검사 실시",
-     "link": "http://www.breaknews.com/1251925",
-     "t": "2026-11-18T13:36:00+09:00",
-     "by": "breaknews.com"
-    },
-    {
-     "title": "고지혈증 약 먹으면 치매·암 걸린다? 콜레스테롤 오해와 진실 [이러면...",
-     "link": "https://www.chosun.com/medical/2026/11/17/NKIN4RBS4VGXZFXJCYHEZTA33U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-     "t": "2026-11-17T17:04:00+09:00",
-     "by": "chosun.com"
-    },
-    {
-     "title": "고지혈증 약 먹으면 치매·암 걸린다? 콜레스테롤 오해와 진실",
-     "link": "https://www.chosun.com/medical/2026/11/17/NKIN4RBS4VGXZFXJCYHEZTA33U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-     "t": "2026-11-17T17:04:00+09:00",
-     "by": "chosun.com"
-    },
-    {
-     "title": "음식 줄이고 운동해도 콜레스테롤 수치 그대로? 놓치기 쉬운 생활습관",
-     "link": "https://www.segye.com/newsView/20261110517897?OutUrl=naver",
-     "t": "2026-11-17T10:29:00+09:00",
-     "by": "segye.com"
-    },
-    {
-     "title": "늦가을 제철 '감'의 효능 4가지… \"콜레스테롤·식후 혈당 관리에 도움...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=69981",
-     "t": "2026-11-16T20:00:00+09:00",
-     "by": "hidoc.co.kr"
     }
    ]
   },

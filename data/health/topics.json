@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-19T05:10:46.868272+09:00",
+ "updated": "2026-11-19T06:08:39.379073+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 73,
+   "count": 74,
    "angles": [
     "효능",
     "부작용",
@@ -12,6 +12,12 @@
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "조윈, 혈당 관리 식품에 '보험 연계' 추진",
+     "link": "https://www.dailymedi.com/news/news_view.php?wr_id=942520",
+     "t": "2026-11-19T05:32:00+09:00",
+     "by": "dailymedi.com"
+    },
     {
      "title": "제육 비벼 먹고 혈당 200 찍혔다…‘채소 먼저’ 말고 뜻밖의 해법",
      "link": "https://www.segye.com/newsView/20261119501119?OutUrl=naver",
@@ -35,12 +41,6 @@
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802224.html",
      "t": "2026-11-19T00:02:00+09:00",
      "by": "health.chosun.com"
-    },
-    {
-     "title": "혈당만큼 당뇨환자 위협하는 'RSV'",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=102326",
-     "t": "2026-11-18T23:16:00+09:00",
-     "by": "k-health.com"
     }
    ]
   },
@@ -89,13 +89,19 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 30,
+   "count": 31,
    "angles": [
     "에 좋은",
     "효능",
     "부작용"
    ],
    "items": [
+    {
+     "title": "국민 10명 중 7명 “항생제, 감기 치료에 효과”…잘못된 인식 여전",
+     "link": "https://www.segye.com/newsView/20261118518090?OutUrl=naver",
+     "t": "2026-11-19T05:32:00+09:00",
+     "by": "segye.com"
+    },
     {
      "title": "국민 71% “항생제가 감기 치료” 오해가 내성 키워",
      "link": "https://www.donga.com/news/Health/article/all/20261118/135050558/2",
@@ -119,12 +125,6 @@
      "link": "http://www.yonhapnewstv.co.kr/news/AKR20261118173716PkD",
      "t": "2026-11-18T17:38:00+09:00",
      "by": "yonhapnewstv.co.kr"
-    },
-    {
-     "title": "\"항생제가 감기 치료에 도움 된다?\"…국민 71%, 잘못 알고 있어",
-     "link": "https://www.hankyung.com/article/2026111854177",
-     "t": "2026-11-18T17:33:00+09:00",
-     "by": "hankyung.com"
     }
    ]
   },
@@ -969,6 +969,38 @@
    ]
   },
   {
+   "name": "관절염",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [],
+   "items": [
+    {
+     "title": "“몸속 염증 줄어든다” 기왕 걷는 것 ‘뒤로’ 걸어라… 관절염 통증 ...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802122.html",
+     "t": "2026-11-19T06:02:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "내리막길만 걸으면 무릎이 '시큰'…퇴행성 관절염 아닌 '이 질환' 의심해...",
+     "link": "https://www.widedaily.com/news/articleView.html?idxno=303874",
+     "t": "2026-11-17T11:00:00+09:00",
+     "by": "widedaily.com"
+    },
+    {
+     "title": "경희대 김광우 교수·한양대 연구 팀, 류마티스 관절염 유전 영역 29곳 발...",
+     "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=5270",
+     "t": "2026-11-16T10:28:00+09:00",
+     "by": "newsmap.co.kr"
+    },
+    {
+     "title": "경희대-한양대 공동 연구 팀 류마티스 관절염 유전 영역 29곳 새로 발견.....",
+     "link": "https://www.veritas-a.com/news/articleView.html?idxno=637142",
+     "t": "2026-11-16T09:02:00+09:00",
+     "by": "veritas-a.com"
+    }
+   ]
+  },
+  {
    "name": "초기",
    "kind": "기타",
    "count": 4,
@@ -1031,32 +1063,6 @@
    ]
   },
   {
-   "name": "관절염",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [],
-   "items": [
-    {
-     "title": "내리막길만 걸으면 무릎이 '시큰'…퇴행성 관절염 아닌 '이 질환' 의심해...",
-     "link": "https://www.widedaily.com/news/articleView.html?idxno=303874",
-     "t": "2026-11-17T11:00:00+09:00",
-     "by": "widedaily.com"
-    },
-    {
-     "title": "경희대 김광우 교수·한양대 연구 팀, 류마티스 관절염 유전 영역 29곳 발...",
-     "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=5270",
-     "t": "2026-11-16T10:28:00+09:00",
-     "by": "newsmap.co.kr"
-    },
-    {
-     "title": "경희대-한양대 공동 연구 팀 류마티스 관절염 유전 영역 29곳 새로 발견.....",
-     "link": "https://www.veritas-a.com/news/articleView.html?idxno=637142",
-     "t": "2026-11-16T09:02:00+09:00",
-     "by": "veritas-a.com"
-    }
-   ]
-  },
-  {
    "name": "대장암",
    "kind": "질환·증상",
    "count": 3,
@@ -1085,6 +1091,32 @@
    ]
   },
   {
+   "name": "염증",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [],
+   "items": [
+    {
+     "title": "“몸속 염증 줄어든다” 기왕 걷는 것 ‘뒤로’ 걸어라… 관절염 통증 ...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802122.html",
+     "t": "2026-11-19T06:02:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "저탄고지 식단의 배신…면역세포 바꿔 염증 유발 [달콤한 사이언스]",
+     "link": "https://www.seoul.co.kr/news/plan/science-story/2026/11/16/20261116500241?wlog_tag3=naver",
+     "t": "2026-11-16T17:32:00+09:00",
+     "by": "seoul.co.kr"
+    },
+    {
+     "title": "[60초 보건정책] 약 먹고 숙면?…복용 직후 누우면 '식도 염증' 유발",
+     "link": "https://www.newspim.com/news/view/20261116000244",
+     "t": "2026-11-16T09:15:00+09:00",
+     "by": "newspim.com"
+    }
+   ]
+  },
+  {
    "name": "탈모",
    "kind": "질환·증상",
    "count": 3,
@@ -1109,32 +1141,6 @@
      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504912",
      "t": "2026-11-17T10:22:00+09:00",
      "by": "pinpointnews.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "폐암",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [],
-   "items": [
-    {
-     "title": "英 GSK, 14조 원대 베팅 결실…폐암 신약 넬카르미 FDA 가속 승인",
-     "link": "https://www.g-enews.com/view.php?ud=202611181550556099fda4f5ab74_1",
-     "t": "2026-11-18T18:44:00+09:00",
-     "by": "g-enews.com"
-    },
-    {
-     "title": "건강 검진서 발견된 폐의 작은 점… 폐암 전단계일까?",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111702489.html",
-     "t": "2026-11-17T17:16:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "한국MSD, 키트루다 국내 폐암 허가 10주년 기념 사내 행사",
-     "link": "https://www.pharmnews.com/news/articleView.html?idxno=307981",
-     "t": "2026-11-16T10:02:00+09:00",
-     "by": "pharmnews.com"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:08:43.786164+09:00",
+ "updated": "2026-11-18T17:08:40.631001+09:00",
  "hot": [
   {
    "name": "X5",
@@ -13,7 +13,7 @@
   },
   {
    "name": "아이오닉 5",
-   "count": 6,
+   "count": 7,
    "prev": 1,
    "rise": 0,
    "moto": false,
@@ -21,9 +21,20 @@
   },
   {
    "name": "투싼",
-   "count": 5,
+   "count": 6,
    "prev": 3,
    "rise": -5,
+   "moto": false,
+   "why": [
+    "판매 1위",
+    "가격 인하"
+   ]
+  },
+  {
+   "name": "쏘렌토",
+   "count": 4,
+   "prev": 0,
+   "rise": -4,
    "moto": false,
    "why": [
     "판매 1위",
@@ -67,15 +78,12 @@
    "why": []
   },
   {
-   "name": "쏘렌토",
-   "count": 3,
-   "prev": 0,
-   "rise": -4,
+   "name": "EV3",
+   "count": 2,
+   "prev": 3,
+   "rise": 4,
    "moto": false,
-   "why": [
-    "가격 인하",
-    "판매 1위"
-   ]
+   "why": []
   },
   {
    "name": "K5",
@@ -87,16 +95,6 @@
     "판매 1위",
     "중고차 시세"
    ]
-  },
-  {
-   "name": "GV90",
-   "count": 2,
-   "prev": 14,
-   "rise": -44,
-   "moto": false,
-   "why": [
-    "출시"
-   ]
   }
  ],
  "calendar": [
@@ -106,14 +104,6 @@
    "date": "2026-11-16",
    "title": "[ 신차 공개] 제네시스 ‘GV90 네오룬·GV90’ 출시 ·BMW ‘더 뉴 X5’ 사전...",
    "link": "https://it.donga.com/109933/",
-   "moto": false
-  },
-  {
-   "name": "디펜더",
-   "status": "out",
-   "date": "2026-11-18",
-   "title": "\"디펜더인 줄 알았네\"…중국 BAIC, 닮은꼴 SUV 2600만원대 출시",
-   "link": "https://www.gpkorea.com/news/articleView.html?idxno=148725",
    "moto": false
   }
  ]

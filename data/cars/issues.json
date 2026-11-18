@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-18T10:08:40.700410+09:00",
+ "updated": "2026-11-18T11:10:51.990045+09:00",
  "car": [
   {
    "name": "자율주행",
-   "count": 39,
+   "count": 32,
    "items": [
     {
      "title": "대동, 북미 진출 40주년 '카이오티 딜러대회' 개최… 자율주행 로드맵 공...",
@@ -39,8 +39,20 @@
   },
   {
    "name": "전기차",
-   "count": 34,
+   "count": 30,
    "items": [
+    {
+     "title": "[Why&Next]전기차 사려고 줄섰는데…써보지도 못한 구매보조금 '1조7000억...",
+     "link": "https://view.asiae.co.kr/article/2026111715173186015",
+     "t": "2026-11-18T11:06:00+09:00",
+     "by": "view.asiae.co.kr"
+    },
+    {
+     "title": "양평소방서, 전기차 화재 대응 교육ㆍ훈련",
+     "link": "http://fpn119.co.kr/259614",
+     "t": "2026-11-18T10:38:00+09:00",
+     "by": "fpn119.co.kr"
+    },
     {
      "title": "日서 존재감 키우는 BYD…경형 전기차 '라코' 월 판매량 37% 증가",
      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716258",
@@ -58,162 +70,150 @@
      "link": "http://www.aptn.co.kr/news/articleView.html?idxno=113287",
      "t": "2026-11-18T09:36:00+09:00",
      "by": "aptn.co.kr"
-    },
-    {
-     "title": "전기차 충전 판도 흔드는 '배터리 교환'…CATL, 니오 아성에 도전장",
-     "link": "https://www.esgeconomy.com/news/articleView.html?idxno=17441",
-     "t": "2026-11-18T09:04:00+09:00",
-     "by": "esgeconomy.com"
-    },
-    {
-     "title": "경기도기술학교, 소방관 62명 대상 전기차 화재 대응 교육 실시",
-     "link": "http://www.econonews.co.kr/news/articleView.html?idxno=447324",
-     "t": "2026-11-18T08:26:00+09:00",
-     "by": "econonews.co.kr"
     }
    ]
   },
   {
    "name": "로봇",
-   "count": 22,
+   "count": 25,
    "items": [
+    {
+     "title": "[뉴스워커_SK인텔릭스] AI 로봇 안전성 1만4700여 건 검증…국무총리 표...",
+     "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=514675",
+     "t": "2026-11-18T10:46:00+09:00",
+     "by": "newsworker.co.kr"
+    },
+    {
+     "title": "SK인텔릭스, ‘2026 제품안전의 날’ 국무총리 표창…AI 로봇 ‘나무엑...",
+     "link": "https://www.sportsseoul.com/news/read/1650580?ref=naver",
+     "t": "2026-11-18T10:44:00+09:00",
+     "by": "sportsseoul.com"
+    },
+    {
+     "title": "SK인텔릭스, AI 웰니스 로봇 안전 체계 인정받아 '제품안전의 날' 국무총...",
+     "link": "http://www.popcornnews.net/news/articleView.html?idxno=140510",
+     "t": "2026-11-18T10:38:00+09:00",
+     "by": "popcornnews.net"
+    },
+    {
+     "title": "SK인텔릭스, AI 웰니스 로봇 안전관리 성과… 국무총리 표창",
+     "link": "https://www.m-i.kr/news/articleView.html?idxno=2020004",
+     "t": "2026-11-18T10:32:00+09:00",
+     "by": "m-i.kr"
+    },
     {
      "title": "SK인텔릭스, ‘2026 제품안전의 날’ 국무총리 표창…AI 웰니스 로봇 ‘...",
      "link": "https://www.globalepic.co.kr/view.php?ud=2026111809595044544ee4ea3d05_29",
      "t": "2026-11-18T10:02:00+09:00",
      "by": "globalepic.co.kr"
-    },
-    {
-     "title": "케이엔알시스템 '슈퍼휴머노이드' 이족보행 성공···초대형 로봇 다리...",
-     "link": "https://www.smartbizn.com/news/articleView.html?idxno=159795",
-     "t": "2026-11-18T09:48:00+09:00",
-     "by": "smartbizn.com"
-    },
-    {
-     "title": "SK인텔릭스, '제품안전의 날' 국무총리 표창…AI 로봇 안전관리 공로",
-     "link": "https://www.asiatime.co.kr/article/20261118500048",
-     "t": "2026-11-18T09:06:00+09:00",
-     "by": "asiatime.co.kr"
-    },
-    {
-     "title": "2t짜리 '거인 로봇' 두 발로 걸었다…케이엔알시스템, 슈퍼휴머노이드 ...",
-     "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=305270",
-     "t": "2026-11-18T09:06:00+09:00",
-     "by": "newsquest.co.kr"
-    },
-    {
-     "title": "에브리봇, '피지컬AI사업본부' 출범…B2B 로봇 사업 공략",
-     "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1732062",
-     "t": "2026-11-18T09:00:00+09:00",
-     "by": "ebn.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "현대차",
-   "count": 21,
-   "items": [
-    {
-     "title": "무뇨스 현대차 사장 \"내달 美로보택시 '웨이모'에 아이오닉5 공급…상당...",
-     "link": "https://www.newsis.com/view/NISX20261118_0003872712",
-     "t": "2026-11-18T10:04:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "현대차·한국어촌어항공단, 맞손…모빌리티로 바닷마을 삶 향상",
-     "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=301619",
-     "t": "2026-11-18T09:54:00+09:00",
-     "by": "financialpost.co.kr"
-    },
-    {
-     "title": "현대차 무뇨스 \"12월부터 웨이모에 아이오닉5 인도…해외 수출도\"",
-     "link": "https://view.asiae.co.kr/article/2026111809003490246",
-     "t": "2026-11-18T09:02:00+09:00",
-     "by": "view.asiae.co.kr"
-    },
-    {
-     "title": "무뇨스 현대차 CEO “웨이모 공급 이번달 시작…물량 상당할 것”",
-     "link": "https://biz.heraldcorp.com/article/10940553?ref=naver",
-     "t": "2026-11-18T08:00:00+09:00",
-     "by": "biz.heraldcorp.com"
-    },
-    {
-     "title": "현대차 미국 공장 가동률 41%에도 생산량 73% 급증…기아 하이브리드가...",
-     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16279419",
-     "t": "2026-11-18T07:22:00+09:00",
-     "by": "topstarnews.net"
-    }
-   ]
-  },
-  {
-   "name": "관세",
-   "count": 20,
-   "items": [
-    {
-     "title": "EU, 냉연강판 반덤핑 관세 확정···포스코 베트남 법인 16% 관세 족쇄",
-     "link": "https://www.seoulfn.com/news/articleView.html?idxno=643176",
-     "t": "2026-11-18T10:11:00+09:00",
-     "by": "seoulfn.com"
-    },
-    {
-     "title": "국산 중고차 원산지 증명 대폭 간소화…특혜 관세 적용 가능",
-     "link": "https://www.ajunews.com/view/20261118084501993",
-     "t": "2026-11-18T10:02:00+09:00",
-     "by": "ajunews.com"
-    },
-    {
-     "title": "중고차도 FTA 관세 혜택…UAE 수출차, 차대번호로 원산지 증명",
-     "link": "https://biz.heraldcorp.com/article/10940734?ref=naver",
-     "t": "2026-11-18T10:01:00+09:00",
-     "by": "biz.heraldcorp.com"
-    },
-    {
-     "title": "국산 중고차, 내년 4월부터 수출 시 UAE 특혜 관세 적용",
-     "link": "https://www.etnews.com/20261118000015",
-     "t": "2026-11-18T10:01:00+09:00",
-     "by": "etnews.com"
-    },
-    {
-     "title": "수출 중고차 원산지 증명 간소화…한-UAE FTA 특혜 관세 길 열려",
-     "link": "https://www.yna.co.kr/view/AKR20261118045000002?input=1195m",
-     "t": "2026-11-18T10:00:00+09:00",
-     "by": "yna.co.kr"
     }
    ]
   },
   {
    "name": "수출",
-   "count": 19,
+   "count": 24,
    "items": [
     {
-     "title": "한국, 세계 4번째 수출 1조 달러 눈앞…미·독·중 이은 세계 4번째 대기...",
-     "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=398831",
-     "t": "2026-11-18T10:04:00+09:00",
-     "by": "fntoday.co.kr"
+     "title": "내년 세계 車시장 0.8% 성장 그쳐…韓 내수 반등에도 수출은 뒷걸음",
+     "link": "https://www.fnnews.com/news/202611171417554208",
+     "t": "2026-11-18T11:01:00+09:00",
+     "by": "fnnews.com"
     },
     {
-     "title": "수출 국산 중고차 원산지 증명절차 '차대번호'로 대폭 간소화",
-     "link": "https://www.taxtimes.co.kr/news/article.html?no=277794",
-     "t": "2026-11-18T10:04:00+09:00",
-     "by": "taxtimes.co.kr"
+     "title": "인천 수출 8개월 연속 순항…‘반도체 62%·의약품 36.6% ↑’",
+     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261118010006864",
+     "t": "2026-11-18T10:42:00+09:00",
+     "by": "asiatoday.co.kr"
     },
     {
-     "title": "대중 화장품 수출 2.7% 반등…中 토종 브랜드와 경쟁 심화",
-     "link": "https://www.sedaily.com/article/20115765?ref=naver",
-     "t": "2026-11-18T10:01:00+09:00",
-     "by": "sedaily.com"
-    },
-    {
-     "title": "중고차 수출 원산지 증명 간소화…차대번호만으로 확인",
-     "link": "https://www.nocutnews.co.kr/news/6608554?utm_source=naver&utm_medium=article&utm_campaign=20261118100048",
-     "t": "2026-11-18T10:01:00+09:00",
-     "by": "nocutnews.co.kr"
-    },
-    {
-     "title": "국산 중고차, 내년 4월부터 수출 시 UAE 특혜 관세 적용",
-     "link": "https://www.etnews.com/20261118000015",
-     "t": "2026-11-18T10:01:00+09:00",
+     "title": "호세 무뇨스 현대차 CEO “웨이모에 아이오닉 5 내달 공급…해외 수출도...",
+     "link": "https://www.etnews.com/20261118000140",
+     "t": "2026-11-18T10:36:00+09:00",
      "by": "etnews.com"
+    },
+    {
+     "title": "국산 중고차 수출 경쟁력 높인다…정부, 원산지 증명 간소화",
+     "link": "https://www.ziksir.com/news/articleView.html?idxno=153742",
+     "t": "2026-11-18T10:32:00+09:00",
+     "by": "ziksir.com"
+    },
+    {
+     "title": "수출 중고차 원산지증명 간소화…FTA 특혜 관세 길 열려",
+     "link": "https://www.newsis.com/view/NISX20261118_0003872714",
+     "t": "2026-11-18T10:25:00+09:00",
+     "by": "newsis.com"
+    }
+   ]
+  },
+  {
+   "name": "현대차",
+   "count": 22,
+   "items": [
+    {
+     "title": "테슬라·BYD 독주 끝나나⋯ 내년 신차 칼 빼든 현대차·기아, 안방서 대...",
+     "link": "https://www.viva100.com/article/20261118500532",
+     "t": "2026-11-18T11:02:00+09:00",
+     "by": "viva100.com"
+    },
+    {
+     "title": "현대차, ST1 활용해 어촌 맞춤형 모빌리티 실증",
+     "link": "http://www.finomy.com/news/articleView.html?idxno=267040",
+     "t": "2026-11-18T10:54:00+09:00",
+     "by": "finomy.com"
+    },
+    {
+     "title": "현대차, 美 웨이모에 아이오닉 5 공급…로보택시 사업 본격화",
+     "link": "http://www.iminju.net/news/articleView.html?idxno=172643",
+     "t": "2026-11-18T10:42:00+09:00",
+     "by": "iminju.net"
+    },
+    {
+     "title": "호세 무뇨스 현대차 CEO “웨이모에 아이오닉 5 내달 공급…해외 수출도...",
+     "link": "https://www.etnews.com/20261118000140",
+     "t": "2026-11-18T10:36:00+09:00",
+     "by": "etnews.com"
+    },
+    {
+     "title": "중국차는 안방 공략, 테슬라는 무인차 질주…현대차 ‘협공’",
+     "link": "http://www.newstomato.com/ReadNews.aspx?no=1320873&inflow=N",
+     "t": "2026-11-18T10:34:00+09:00",
+     "by": "newstomato.com"
+    }
+   ]
+  },
+  {
+   "name": "대한민국 안전대상",
+   "count": 11,
+   "items": [
+    {
+     "title": "소노벨 제주, ‘대한민국 안전대상’ 우수기업상…소노인터내셔널 2년 ...",
+     "link": "https://www.fntimes.com/html/view.php?ud=202611181034068390b5b890e35c_18",
+     "t": "2026-11-18T10:38:00+09:00",
+     "by": "fntimes.com"
+    },
+    {
+     "title": "DB하이텍 부천캠퍼스, 대한민국 안전대상 행안부 장관상",
+     "link": "https://www.g-enews.com/view.php?ud=202611181010237851139bf6e4b2_1",
+     "t": "2026-11-18T10:28:00+09:00",
+     "by": "g-enews.com"
+    },
+    {
+     "title": "DB하이텍, ‘대한민국 안전대상’ 행정안전부 장관상 수상",
+     "link": "https://biz.heraldcorp.com/article/10940889?ref=naver",
+     "t": "2026-11-18T10:27:00+09:00",
+     "by": "biz.heraldcorp.com"
+    },
+    {
+     "title": "제주공항, 대한민국 안전대상 행정안전부장관상 수상",
+     "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602318",
+     "t": "2026-11-18T09:52:00+09:00",
+     "by": "headlinejeju.co.kr"
+    },
+    {
+     "title": "DB하이텍, 대한민국 안전대상 행안부 장관상 수상",
+     "link": "https://www.dailian.co.kr/news/view/1716507/?sc=Naver",
+     "t": "2026-11-18T09:47:00+09:00",
+     "by": "dailian.co.kr"
     }
    ]
   }
@@ -260,6 +260,12 @@
    "count": 16,
    "items": [
     {
+     "title": "\"순찰차· 오토바이 로 극적 도착해도\"…수능 아침 '병목' 비상[2027 수능]",
+     "link": "https://www.newsis.com/view/NISX20261118_0003872928",
+     "t": "2026-11-18T10:58:00+09:00",
+     "by": "newsis.com"
+    },
+    {
      "title": "코이카, 캄보디아 전기 오토바이 사업으로 ESG 최우수상",
      "link": "https://www.dongponews.net/news/articleView.html?idxno=61744",
      "t": "2026-11-18T09:24:00+09:00",
@@ -282,12 +288,6 @@
      "link": "https://www.hani.co.kr/arti/society/society_general/1287849.html",
      "t": "2026-11-18T05:02:00+09:00",
      "by": "hani.co.kr"
-    },
-    {
-     "title": "공주서 음주 운전 후 오토바이 충돌해 숨지게 한 30대 구속영장 기각",
-     "link": "https://tjmbc.co.kr/NewsArticle/873922",
-     "t": "2026-11-17T20:45:00+09:00",
-     "by": "tjmbc.co.kr"
     }
    ]
   },
@@ -322,9 +322,15 @@
    ]
   },
   {
-   "name": "혼다코리아",
-   "count": 3,
+   "name": "모터사이클",
+   "count": 4,
    "items": [
+    {
+     "title": "모터사이클 산업의 현재와 미래를 한자리에, 세계 최대 모터사이클 전시...",
+     "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=110&CONTENTS_NO=1&bbsGbn=245&bbsSn=245&pNttSn=245288",
+     "t": "2026-11-18T10:29:00+09:00",
+     "by": "dream.kotra.or.kr"
+    },
     {
      "title": "혼다코리아, 찾아가는 모터사이클 무상점검 실시",
      "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/16/2026111680229.html",

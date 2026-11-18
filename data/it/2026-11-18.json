@@ -1,7 +1,1836 @@
 {
  "date": "2026-11-18",
- "updated": "2026-11-18T10:08:40.700410+09:00",
+ "updated": "2026-11-18T11:10:51.990045+09:00",
  "articles": [
+  {
+   "title": "벨로크, 컨테이너 보안 핵심 개발…AI·폐쇄망 특화 'B-CSP' 구현",
+   "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884516",
+   "t": "2026-11-18T11:12:00+09:00",
+   "by": "hansbiz.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "넥슨 '메이플 키우기', 구글플레이 올해의 게임 선정…국내 게임 5종 해...",
+   "link": "http://www.inews24.com/view/2027554",
+   "t": "2026-11-18T11:11:00+09:00",
+   "by": "inews24.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "철도안전 국민 제보 9배 늘었다…우수사례 16건 선정",
+   "link": "https://www.dailian.co.kr/news/view/1716561/?sc=Naver",
+   "t": "2026-11-18T11:11:00+09:00",
+   "by": "dailian.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "[ET특징주] 잇단 금융권 해킹 에 AI 안경 사태까지… 보안株 강세",
+   "link": "https://www.etnews.com/20261118000185",
+   "t": "2026-11-18T11:11:00+09:00",
+   "by": "etnews.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "미래에셋생명 해킹 피해 1만명 넘어…고팍스·빗썸도 개인정보 유출 확...",
+   "link": "https://www.polinews.co.kr/news/articleView.html?idxno=748632",
+   "t": "2026-11-18T11:11:00+09:00",
+   "by": "polinews.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "삼성전기 증설 추가 자금 지원 엔비디아 ‘AI 반도체 기판’ 확보전",
+   "link": "https://biz.heraldcorp.com/article/10941049?ref=naver",
+   "t": "2026-11-18T11:11:00+09:00",
+   "by": "biz.heraldcorp.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "메모리값 뛰자 저가폰 '확' 줄어…동남아 스마트폰 출하 36% 급감",
+   "link": "https://www.itdaily.kr/news/articleView.html?idxno=243009",
+   "t": "2026-11-18T11:10:00+09:00",
+   "by": "itdaily.kr",
+   "tags": [
+    "스마트폰",
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "샤오미 '18 프로 맥스' 국내 출시…후면 디스플레이 탑재",
+   "link": "https://www.itdaily.kr/news/articleView.html?idxno=243010",
+   "t": "2026-11-18T11:10:00+09:00",
+   "by": "itdaily.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "한화손보, 시큐리티스코어카드와 사이버보험 협력",
+   "link": "http://www.newskr.kr/news/articleView.html?idxno=108104",
+   "t": "2026-11-18T11:10:00+09:00",
+   "by": "newskr.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[단독]코인거래소 해킹 시도 올해만 230만건… 보안 투자·인력은 '양극화...",
+   "link": "https://www.news1.kr/finance/blockchain-fintech/6357799",
+   "t": "2026-11-18T11:10:00+09:00",
+   "by": "news1.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[K- AI 이노베이터] 박윤규 원장 \"K- AI 실크로도 개척할 때⋯해외서 한국...",
+   "link": "http://www.inews24.com/view/2027528",
+   "t": "2026-11-18T11:09:00+09:00",
+   "by": "inews24.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "로보락, 로봇청소기 이어 '진공 물걸레 청소기 '도 韓 1위",
+   "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903473",
+   "t": "2026-11-18T11:08:00+09:00",
+   "by": "newsworks.co.kr",
+   "tags": [
+    "가전"
+   ]
+  },
+  {
+   "title": "NH농협카드, 대학생 참여 디지털 서포터즈 4기 활동 마무리",
+   "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1107158",
+   "t": "2026-11-18T11:08:00+09:00",
+   "by": "discoverynews.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "\" AI 공격 빨라진다\"…F5, 내년 보안 화두로 '디지털 주권·멀티모델·엣...",
+   "link": "https://www.dailian.co.kr/news/view/1716576/?sc=Naver",
+   "t": "2026-11-18T11:08:00+09:00",
+   "by": "dailian.co.kr",
+   "tags": [
+    "AI·앱",
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "조사할수록 늘어나는 유출 피해…미래에셋생명 1만 명 넘어",
+   "link": "https://www.sisajournal.com/news/articleView.html?idxno=394416",
+   "t": "2026-11-18T11:08:00+09:00",
+   "by": "sisajournal.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "정부, 수능 부정행위 적발 위해 위급재난문자 불시 추가 발송",
+   "link": "https://www.dailian.co.kr/news/view/1716582/?sc=Naver",
+   "t": "2026-11-18T11:07:00+09:00",
+   "by": "dailian.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "[게임소식] 컴투스·엔씨·넥슨, 인기 게임 콘텐츠 확대…신규 지역·캐...",
+   "link": "https://sateconomy.co.kr/news/view/1065577427811864",
+   "t": "2026-11-18T11:06:00+09:00",
+   "by": "sateconomy.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "보험업계, 새 보장 개발·컨설턴트 조사 공개",
+   "link": "https://www.pressman.kr/news/articleView.html?idxno=104530",
+   "t": "2026-11-18T11:06:00+09:00",
+   "by": "pressman.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "[게임업계 소식] 넵튠 ‘총잡이 고양이’, 5개월여 만에 누적 매출 300억...",
+   "link": "https://www.viva100.com/article/20261118500614",
+   "t": "2026-11-18T11:06:00+09:00",
+   "by": "viva100.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "EU, 제조물책임지침(PLD) 개정안 12월 9일까지 회원국별 자국법 전환",
+   "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=102291",
+   "t": "2026-11-18T11:06:00+09:00",
+   "by": "weeklytrade.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "에이수스, '팬텀 블레이드 제로' 콜라보 한정판 게이밍 라인업 발표",
+   "link": "https://www.betanews.net/article/view/beta202611180076",
+   "t": "2026-11-18T11:06:00+09:00",
+   "by": "betanews.net",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "LG유플러스, AI 기반 품질관리 IPTV 420만대에 적용",
+   "link": "https://www.betanews.net/article/view/beta202611180071",
+   "t": "2026-11-18T11:06:00+09:00",
+   "by": "betanews.net",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "[티조챗] 수능D-1 또 바뀐 규정에 \"수산시장서 흥정하나\"\"재난문자 망했...",
+   "link": "https://news.tvchosun.com/site/data/html_dir/2026/11/18/2026111890123.html",
+   "t": "2026-11-18T11:06:00+09:00",
+   "by": "tvchosun.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "민주당, AI 해킹 ·커닝 대응 특위 구성",
+   "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=319058",
+   "t": "2026-11-18T11:06:00+09:00",
+   "by": "mediaus.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "마이크로소프트, 이그나이트 2026서 AI 신기술 공개… 기업 혁신 생태계...",
+   "link": "https://kr.aving.net/news/articleView.html?idxno=1817163",
+   "t": "2026-11-18T11:06:00+09:00",
+   "by": "kr.aving.net",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "엔비디아, 수요가 공급을 초과..삼성전자·삼성전기 협력 강화",
+   "link": "https://kpenews.com/View.aspx?No=4317939",
+   "t": "2026-11-18T11:06:00+09:00",
+   "by": "kpenews.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "엔비디아 훈풍에 코스피 5,100선 회복 시도...삼성전자·SK하이닉스 급등",
+   "link": "https://www.m-economynews.com/news/article.html?no=73212",
+   "t": "2026-11-18T11:06:00+09:00",
+   "by": "m-economynews.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "수능 중에 재난 문자 한 번 더?…불시에 추가 발송",
+   "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851489&plink=ORI&cooper=NAVER",
+   "t": "2026-11-18T11:05:00+09:00",
+   "by": "sbs.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "자바 결함, 서버 업데이트로 끝?…\"프로그램 속 '숨은 자바'도 살펴야\"",
+   "link": "https://www.newsis.com/view/NISX20261118_0003872818",
+   "t": "2026-11-18T11:05:00+09:00",
+   "by": "newsis.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "PHP 이어 자바 보안 취약점 발견…기업·공공기관 3만곳 ‘비상’",
+   "link": "https://biz.heraldcorp.com/article/10941029?ref=naver",
+   "t": "2026-11-18T11:05:00+09:00",
+   "by": "biz.heraldcorp.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[지스타 2026] 게임의 경계를 넓히다…콘텐츠 융합 시험대",
+   "link": "https://www.sportsworldi.com/newsView/20261118507305",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "sportsworldi.com",
+   "tags": [
+    "스마트폰",
+    "게임"
+   ]
+  },
+  {
+   "title": "농심, 무신사 스탠다드와 새우깡 55주년 기념 티셔츠 협업",
+   "link": "https://www.fntimes.com/html/view.php?ud=202611181059449106923defd0cc_18",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "fntimes.com",
+   "tags": [
+    "노트북·태블릿"
+   ]
+  },
+  {
+   "title": "은행·카드업계, 소상공인 협약·청년 활동 공개",
+   "link": "https://www.pressman.kr/news/articleView.html?idxno=104531",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "pressman.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "은행 앱서 기후시민 등록…11월 말 탄소중립포인트 추가 혜택 예정",
+   "link": "https://www.vegannews.co.kr/news/article.html?no=406993",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "vegannews.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "[엔씨 인사 전망] 김택진·박병무 내년 3월 임기 만료… 국내외 경영진...",
+   "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083149",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "newsclaim.co.kr",
+   "tags": [
+    "AI·앱",
+    "게임",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[ 게임 경진記] 흑기사는 이직하지 않는다…웹젠 '뮤' 모험의 시간",
+   "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884448",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "hansbiz.co.kr",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "LG헬로비전 헬로모바일, 외국인 전용 요금제 출시",
+   "link": "https://www.betanews.net/article/view/beta202611180068",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "betanews.net",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "ICT업계, AI 수익 모델 찾기 '잰걸음'",
+   "link": "https://www.techm.kr/news/articleView.html?idxno=157475",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "techm.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "한 달간 금융권 37개사서 47만3000건 정보 유출 …자금 탈취 10억원 달해",
+   "link": "https://www.pointe.co.kr/news/articleView.html?idxno=87975",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "pointe.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "이영남 서울시의원 \"따릉이 462만명 정보 유출 에도 9개월째 관리자 징계...",
+   "link": "https://www.thepowernews.co.kr/view.php?ud=202611181102446001de3f0aa1be_7",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "thepowernews.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "해킹 점검 연 2회로…대형 금융사, 30일 행정지도로 먼저 시행 예정",
+   "link": "http://www.newskr.kr/news/articleView.html?idxno=108101",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "newskr.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "공공기관 70%가 쓰는 ‘자바’ 취약점 발견…정부, 긴급 점검 권고",
+   "link": "https://www.donga.com/news/Economy/article/all/20261118/135044492/1",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "donga.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "애플도 '메모리 줄서기'…삼성·SK, 공급자 우위 굳힌다",
+   "link": "https://www.newsway.co.kr/news/view?ud=2026111810150128626",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "newsway.co.kr",
+   "tags": [
+    "PC·부품",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "삼성전기, 美엔비디아 차세대 GPU 공급망 확대 참여…첨단기판 증산",
+   "link": "http://www.seouleconews.com/news/articleView.html?idxno=95087",
+   "t": "2026-11-18T11:04:00+09:00",
+   "by": "seouleconews.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "휴머노이드가 반도체 만든다…美서 ‘첫 시도’",
+   "link": "https://www.dt.co.kr/article/12095885?ref=naver",
+   "t": "2026-11-18T11:03:00+09:00",
+   "by": "dt.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "\"쉽지 않다\" 아담 모세리, 아이폰 듀오용 인스타그램 설계 난제 인정",
+   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716316",
+   "t": "2026-11-18T11:02:00+09:00",
+   "by": "digitaltoday.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "NAVER·카카오부터 웹툰 기업까지… 모바일 콘텐츠 경쟁 본격화",
+   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505351",
+   "t": "2026-11-18T11:02:00+09:00",
+   "by": "pinpointnews.co.kr",
+   "tags": [
+    "노트북·태블릿",
+    "AI·앱",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[구광모의 LG]① 가전 ·전장·AI로 성장동력 강화…계열사별 경쟁력 다진...",
+   "link": "https://www.smarttoday.co.kr/ko-kr/articles/113827",
+   "t": "2026-11-18T11:02:00+09:00",
+   "by": "smarttoday.co.kr",
+   "tags": [
+    "가전",
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "쿠카 게임 즈 '삼국지 전기판', 사전예약 40만 명 돌파",
+   "link": "https://www.khgames.co.kr/news/articleView.html?idxno=310454",
+   "t": "2026-11-18T11:02:00+09:00",
+   "by": "khgames.co.kr",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "NHN, '최애의 아이 퍼즐 게임 ' 170여개국 출시",
+   "link": "https://www.fnnews.com/news/202611181025248958",
+   "t": "2026-11-18T11:02:00+09:00",
+   "by": "fnnews.com",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "IT자산 식별·관리 의무화하고 취약점 점검·평가 제도 내실화하겠다.",
+   "link": "https://www.intn.co.kr/news/articleView.html?idxno=3000325",
+   "t": "2026-11-18T11:02:00+09:00",
+   "by": "intn.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "로그인 없이 악성코드 심는다…자바 치명적 보안 결함에 청와대·정부 ...",
+   "link": "https://www.widedaily.com/news/articleView.html?idxno=303983",
+   "t": "2026-11-18T11:02:00+09:00",
+   "by": "widedaily.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "당국, 금융권 IT자산 전수 관리 의무화…AI 해킹 노리는 '주변부 시스템...",
+   "link": "https://www.imaeil.com/page/view/2026111811001438676",
+   "t": "2026-11-18T11:02:00+09:00",
+   "by": "imaeil.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "메모리값 270% 뛸 때 웨이퍼 9% 뚝… 반도체 업계 '온도차'",
+   "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=731592",
+   "t": "2026-11-18T11:02:00+09:00",
+   "by": "the-biz.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "국토부, 철도안전 우수 자율보고 16건 선정…포상금 지급",
+   "link": "https://www.sedaily.com/article/20115838?ref=naver",
+   "t": "2026-11-18T11:01:00+09:00",
+   "by": "sedaily.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "철도안전 위험요인 제보 9배 급증…작업차량 사고 막은 16건 포상",
+   "link": "https://www.etnews.com/20261118000132",
+   "t": "2026-11-18T11:01:00+09:00",
+   "by": "etnews.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "[속보] 수능날 위급재난문자 불시에 추가 발송",
+   "link": "https://www.busan.com/view/busan/view.php?code=2026111810495413467",
+   "t": "2026-11-18T11:01:00+09:00",
+   "by": "busan.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "\"작업차량 굴러갈 위험\" 국민 제보로 철도 안전 개선…16건 포상",
+   "link": "https://www.fnnews.com/news/202611180816027107",
+   "t": "2026-11-18T11:01:00+09:00",
+   "by": "fnnews.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "“비용 부담에 보안 장담 못해”… 저축銀 75% 금융보안원 미가입",
+   "link": "https://biz.chosun.com/stock/finance/2026/11/18/BW3GHDXJ5FBJ7GH5F2MUAMSAEU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "t": "2026-11-18T11:01:00+09:00",
+   "by": "biz.chosun.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "사무실 걱정 마세요…패스트파이브, ‘창업 베이스캠프 2기’ 성장 돕는...",
+   "link": "https://www.mk.co.kr/article/12212202",
+   "t": "2026-11-18T11:01:00+09:00",
+   "by": "mk.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "내년 세계 車시장 0.8% 성장 그쳐…韓 내수 반등에도 수출은 뒷걸음",
+   "link": "https://www.fnnews.com/news/202611171417554208",
+   "t": "2026-11-18T11:01:00+09:00",
+   "by": "fnnews.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "폰 케이스 위로 들어온 스프링필드… 케이스티파이, '심슨 가족' 한정판...",
+   "link": "https://kr.aving.net/news/articleView.html?idxno=1817159",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "kr.aving.net",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "카뱅 뚫은 애플페이…'0.15% 수수료' 부메랑은 소비자 몫?",
+   "link": "https://www.ziksir.com/news/articleView.html?idxno=153744",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "ziksir.com",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "[카드뉴스] 혼인지원금부터 최저임금·청년 연금까지... 2027년 달라지는...",
+   "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249883",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "sisunnews.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "AWS, 개발 업무 지원하는 장기 실행형 에이전트 '키로 봇' 공개",
+   "link": "https://www.itbiznews.com/news/articleView.html?idxno=231735",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "itbiznews.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "기업도 모르는 '숨은 AI '까지… AI 스페라, 보안 사각지대 찾는다",
+   "link": "https://www.yna.co.kr/view/AKR20261118069800017?input=1195m",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "yna.co.kr",
+   "tags": [
+    "AI·앱",
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "‘ 게임 하러 휴가 8만3000일 예약’ GTA6 19일 나온다…구원투수일까, 블...",
+   "link": "https://www.khan.co.kr/article/202611181100001",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "khan.co.kr",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "철도안전 제보 9월까지 524건…국토부, 우수사례 16건 포상",
+   "link": "https://www.newspim.com/news/view/20261118000224",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "newspim.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "철도 위험요인 국민 제보 9배 '쑥'… 작은 신고가 사고 막았다",
+   "link": "https://www.mt.co.kr/estate/2026/11/18/2026111809580971496",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "mt.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "철도 위험 국민 제보 9배 늘었다…우수사례 16건 포상",
+   "link": "https://www.news1.kr/realestate/general/6357547",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "news1.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "의왕역 탈선 막는다…철도 위험요인 국민제보 9배 증가",
+   "link": "https://www.newsis.com/view/NISX20261114_0003868043",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "newsis.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "정부, '수능 부정행위 적발' 위급재난문자 불시 추가 발송 검토",
+   "link": "https://www.insight.co.kr/news/582542",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "insight.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "[동정] 권오상 대구광역시 서구청장",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3755565",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "gukjenews.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "삼성·CJ·신세계의 뿌리, 이병철 창업주 39주기…대한민국 세운 기업인",
+   "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=301603",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "financialpost.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "\"내년 자동차 판매 소폭 증가\"…핵심은 종전發 유가 하락",
+   "link": "https://zdnet.co.kr/view/?no=20261118092759",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "zdnet.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "\"내년 중국·미국 내수 회복에 완성차 판매 0.8% 증가 전망\"",
+   "link": "https://www.yna.co.kr/view/AKR20261117135100003?input=1195m",
+   "t": "2026-11-18T11:00:00+09:00",
+   "by": "yna.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "대동, 북미 트랙터 점유율 8.2%…경제형 모델로 고객층 넓힌다",
+   "link": "https://biz.heraldcorp.com/article/10941013?ref=naver",
+   "t": "2026-11-18T10:59:00+09:00",
+   "by": "biz.heraldcorp.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "BC카드, 피클과 AI 에이전트 기반 결제 서비스 업무협약 체결",
+   "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=89748",
+   "t": "2026-11-18T10:58:00+09:00",
+   "by": "industrynews.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "정부, 수능 도중 위급재난문자 '추가 발송' 검토",
+   "link": "http://www.seouleconews.com/news/articleView.html?idxno=95090",
+   "t": "2026-11-18T10:58:00+09:00",
+   "by": "seouleconews.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "화천군, 강원도 첫 기본사회 조례 제정…2027년부터 단계적 시행",
+   "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084724",
+   "t": "2026-11-18T10:58:00+09:00",
+   "by": "shinailbo.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "예수병원, 개인정보보호 자체점검 캠페인 실시",
+   "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3016727",
+   "t": "2026-11-18T10:58:00+09:00",
+   "by": "bosa.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "F5, 2027년 사이버보안 3대 전망 발표… AI 시대 국내 기업 보안 전략 제시",
+   "link": "https://zdnet.co.kr/view/?no=20261118105635",
+   "t": "2026-11-18T10:57:00+09:00",
+   "by": "zdnet.co.kr",
+   "tags": [
+    "AI·앱",
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "송순효 서울시의원 \"33년 된 SH 복지관, 보수 책임 외면\"…관리협약 개...",
+   "link": "https://www.ppss.kr/news/articleView.html?idxno=321659",
+   "t": "2026-11-18T10:57:00+09:00",
+   "by": "ppss.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "미래에셋생명, 고객 개인정보 1만건 유출 ...\"생보사 중 처음\"",
+   "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=7348",
+   "t": "2026-11-18T10:57:00+09:00",
+   "by": "dailybrief.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "BC카드, 피클과 맞손… AI 에이전트 시장 진출",
+   "link": "https://magazine.hankyung.com/business/article/202611184217b",
+   "t": "2026-11-18T10:56:00+09:00",
+   "by": "magazine.hankyung.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "[진화의 창 : MS 이그나이트 2026⑧] \"큰 모델은 어려운 일에만\" MS 의사...",
+   "link": "https://www.econovill.com/news/articleView.html?idxno=757659",
+   "t": "2026-11-18T10:56:00+09:00",
+   "by": "econovill.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "“피하지 않았다”… 닌텐도 ‘젤다의 전설’, ‘GTA6′와 흥행 대결",
+   "link": "https://www.chosun.com/economy/tech_it/2026/11/18/PYOYBRKXQJATNCDJBKRPLLIFGU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "t": "2026-11-18T10:56:00+09:00",
+   "by": "chosun.com",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "NHN, '최애의 아이' 퍼즐 게임 글로벌 출시 … 170여개국 공략",
+   "link": "http://www.newswell.co.kr/news/articleView.html?idxno=23728",
+   "t": "2026-11-18T10:56:00+09:00",
+   "by": "newswell.co.kr",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "PHP 이어 자바까지…공공 정보시스템 71% '보안 비상', 국내 기업 안전할...",
+   "link": "https://www.newsway.co.kr/news/view?ud=2026111810473236098",
+   "t": "2026-11-18T10:56:00+09:00",
+   "by": "newsway.co.kr",
+   "tags": [
+    "통신·요금",
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "루비오 美국무 \"트럼프, 김정은과 만나는 데 진지한 입장\"",
+   "link": "https://www.news1.kr/world/usa-canada/6357847",
+   "t": "2026-11-18T10:56:00+09:00",
+   "by": "news1.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "과기정통부·KISA, 자바 보안 취약점 긴급 점검 권고",
+   "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=89751",
+   "t": "2026-11-18T10:56:00+09:00",
+   "by": "industrynews.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "이영남 서울시의원 “따릉이 462만명 정보 유출 … 서울시설공단, 9개월...",
+   "link": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/18/20261118500069?wlog_tag3=naver",
+   "t": "2026-11-18T10:55:00+09:00",
+   "by": "seoul.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[경북 24시] 경북 K-과학자마을, 국비 59억원 확보로 국가 브랜드 도약",
+   "link": "https://www.sisajournal.com/news/articleView.html?idxno=394390",
+   "t": "2026-11-18T10:55:00+09:00",
+   "by": "sisajournal.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "젠슨 황 공백 없었다…엔비디아 3분기 매출 시장 전망 상회",
+   "link": "https://www.thelec.kr/news/articleView.html?idxno=65581",
+   "t": "2026-11-18T10:54:00+09:00",
+   "by": "thelec.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "사회 안전 인식 개선에도…국민 61% “ 개인정보 유출 불안”[2026 사회조...",
+   "link": "https://biz.heraldcorp.com/article/10940986?ref=naver",
+   "t": "2026-11-18T10:54:00+09:00",
+   "by": "biz.heraldcorp.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "PHP 이어 자바서도 치명적 보안 취약점 발견, 정부 전 업종에 \"긴급 업데...",
+   "link": "https://www.businesspost.co.kr/BP?command=article_view&num=452264",
+   "t": "2026-11-18T10:54:00+09:00",
+   "by": "businesspost.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "자동차 넘어 반도체 팹으로…보스턴다이나믹스 '아틀라스', 글로벌파운...",
+   "link": "https://www.widedaily.com/news/articleView.html?idxno=303976",
+   "t": "2026-11-18T10:54:00+09:00",
+   "by": "widedaily.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "삼성전기, 엔비디아와 '기판 동맹' 공식화…핵심 공급사로 '우뚝'",
+   "link": "https://www.asiatime.co.kr/article/20261118500124",
+   "t": "2026-11-18T10:54:00+09:00",
+   "by": "asiatime.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "코스피, 엔비디아 호실적에 ‘5천피’ 탈환… 삼성전자·SK하이닉스, 4~5...",
+   "link": "https://www.mediawatch.kr/news/article.html?no=261784",
+   "t": "2026-11-18T10:54:00+09:00",
+   "by": "mediawatch.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "SBVA, 대만서 '에어비앤비 배출' YC와 접점…창업가 15명 동행",
+   "link": "https://www.bloter.net/news/articleView.html?idxno=678830",
+   "t": "2026-11-18T10:54:00+09:00",
+   "by": "bloter.net",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "BC카드, AI 스타트업 피클과 결제 서비스 개발 추진",
+   "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2493976",
+   "t": "2026-11-18T10:53:00+09:00",
+   "by": "enewstoday.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "옴디아 \"동남아 스마트폰 출하 36% 감소\"",
+   "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884546",
+   "t": "2026-11-18T10:52:00+09:00",
+   "by": "hansbiz.co.kr",
+   "tags": [
+    "스마트폰",
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "농심, '새우깡'에 패션 입혔다···55년 스낵 IP 변신",
+   "link": "http://www.finomy.com/news/articleView.html?idxno=267030",
+   "t": "2026-11-18T10:52:00+09:00",
+   "by": "finomy.com",
+   "tags": [
+    "노트북·태블릿"
+   ]
+  },
+  {
+   "title": "아모데이, 매출 4.4배 더 늘려도 '순환금융 폭탄' 못 피한다",
+   "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261288",
+   "t": "2026-11-18T10:52:00+09:00",
+   "by": "womaneconomy.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "PHP 이어 Java서도 고위험 취약점 발견…정부 긴급 점검 권고",
+   "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=82550",
+   "t": "2026-11-18T10:52:00+09:00",
+   "by": "newsfc.co.kr",
+   "tags": [
+    "통신·요금",
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "미래에셋생명, 개인정보 해킹 유출 '1만명' 넘어",
+   "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7194461",
+   "t": "2026-11-18T10:52:00+09:00",
+   "by": "weekly.hankooki.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[더벨][thebell interview] \"편향 걷어낸 K-로테이션…급락장서 방어력 입...",
+   "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611131646318760108050",
+   "t": "2026-11-18T10:52:00+09:00",
+   "by": "thebell.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "中, 美 AI칩 원격 이용 규제에 보복 시사 … 삼성·SK 중국 사업도 긴장",
+   "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850101.html",
+   "t": "2026-11-18T10:52:00+09:00",
+   "by": "biz.newdaily.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[용인 반도체 국가산단] 특별법 동원까지…전력·용수 인프라 '적기 공...",
+   "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445325",
+   "t": "2026-11-18T10:52:00+09:00",
+   "by": "einfomax.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "코스피, 엔비디아 호실적에 3%대 급등…5100선 회복",
+   "link": "https://www.greened.kr/news/articleView.html?idxno=354898",
+   "t": "2026-11-18T10:51:00+09:00",
+   "by": "greened.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "미래에셋생명 해킹 에 고객 1만명 정보 유출 …현대해상·AIG도 공격",
+   "link": "https://www.newsis.com/view/NISX20261118_0003872865",
+   "t": "2026-11-18T10:51:00+09:00",
+   "by": "newsis.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "메모리 한파 속 동남아 스마트폰 36% 급감… 삼성 ‘1위 수성’ vs 애플...",
+   "link": "https://www.mediapen.com/news/view/1138198",
+   "t": "2026-11-18T10:50:00+09:00",
+   "by": "mediapen.com",
+   "tags": [
+    "스마트폰",
+    "AI·앱",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "지스타 2026, 19일 개막…크래프톤·웹젠·뤼튼·캡콤 등 글로벌 게임축...",
+   "link": "https://sateconomy.co.kr/news/view/1065576421238680",
+   "t": "2026-11-18T10:50:00+09:00",
+   "by": "sateconomy.co.kr",
+   "tags": [
+    "스마트폰",
+    "게임"
+   ]
+  },
+  {
+   "title": "[오정근의 아주경제적 시선] 수출 1조 달러 이후 한국경제의 대응과제",
+   "link": "https://www.ajunews.com/view/20261118103844573",
+   "t": "2026-11-18T10:50:00+09:00",
+   "by": "ajunews.com",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "NH농협생명, 올원더풀 출시 1주년 기념 고객 이벤트 실시",
+   "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=211585",
+   "t": "2026-11-18T10:50:00+09:00",
+   "by": "lcnews.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "“209만원” 샤오미 18프로 맥스 출시…후면 디스플레이·라이카 2억 화...",
+   "link": "https://biz.chosun.com/it-science/ict/2026/11/18/DGO2GRSTW5FF3FXIDSWZMVPCEM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "t": "2026-11-18T10:50:00+09:00",
+   "by": "biz.chosun.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "김제시, 행복의 집 9호 현판식…사회적기업 재능기부 2500만원",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3755523",
+   "t": "2026-11-18T10:50:00+09:00",
+   "by": "gukjenews.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "대구·경북 대학 잇단 해킹 … 영남대도 구성원 개인정보 유출",
+   "link": "https://www.tbc.co.kr/news/view?pno=20261118090524AE08751&id=213506",
+   "t": "2026-11-18T10:50:00+09:00",
+   "by": "tbc.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "잇단 해킹 사고에 증권사 보안관리 강화…취약점 점검 연 2회로",
+   "link": "https://www.mediapen.com/news/view/1138236",
+   "t": "2026-11-18T10:50:00+09:00",
+   "by": "mediapen.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[단독] 과기정통부, 사이버 보안 내년 예산 877억원 추가…올해보다 68% ...",
+   "link": "http://www.metroseoul.co.kr/article/20261118500141",
+   "t": "2026-11-18T10:50:00+09:00",
+   "by": "metroseoul.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "싸이버원, 한국고용정보원 국가고용전산망 보안 관제 운영지원 사업 수주",
+   "link": "http://www.e2news.com/news/articleView.html?idxno=336232",
+   "t": "2026-11-18T10:50:00+09:00",
+   "by": "e2news.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "\"매달 68만원씩 코인 모았다\"…업비트 '코인모으기' 투자 1조 돌파",
+   "link": "https://www.news1.kr/finance/blockchain-fintech/6357743",
+   "t": "2026-11-18T10:49:00+09:00",
+   "by": "news1.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "靑 국가안보실, JAVA 취약점 점검 긴급 대책회의 개최",
+   "link": "https://www.etnews.com/20261118000158",
+   "t": "2026-11-18T10:49:00+09:00",
+   "by": "etnews.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "' 아이폰 듀오' 고장 나면 직접 고친다…애플, 교체 부품·전용 도구 판매",
+   "link": "https://kbench.com/?q=node/283428",
+   "t": "2026-11-18T10:48:00+09:00",
+   "by": "kbench.com",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "세종시, 고도화된 사이버 위협 맞서 정보 보호 역량 키운다",
+   "link": "https://www.ggilbo.com/news/articleView.html?idxno=1193858",
+   "t": "2026-11-18T10:48:00+09:00",
+   "by": "ggilbo.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[기자수첩] AI 경쟁보다 중요한 금융의 기본…'보안'이 경쟁력이다",
+   "link": "https://www.newsinside.kr/news/articleView.html?idxno=5050776",
+   "t": "2026-11-18T10:48:00+09:00",
+   "by": "newsinside.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[인더컴퍼니] 삼성전기, NDR 이후 커진 기대… 가격 상승이 이익 견인 확...",
+   "link": "https://www.inthenews.co.kr/news/article.html?no=94661",
+   "t": "2026-11-18T10:48:00+09:00",
+   "by": "inthenews.co.kr",
+   "tags": [
+    "PC·부품"
+   ]
+  },
+  {
+   "title": "엔비디아 실적이 열고 앤트로픽 IPO가 잇는다…'AI 성장론' 다시 시험대",
+   "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=147200",
+   "t": "2026-11-18T10:48:00+09:00",
+   "by": "opinionnews.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "삼성전기-엔비디아, AI 동맹 강화…기판 넘어 MLCC까지",
+   "link": "http://www.newsprime.co.kr/news/article.html?no=755431",
+   "t": "2026-11-18T10:48:00+09:00",
+   "by": "newsprime.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "LG에너지솔루션, 미국 'RE+'서 AI데이터센터 통합 전력솔루션 공개...전...",
+   "link": "https://www.updownnews.co.kr/news/articleView.html?idxno=319628",
+   "t": "2026-11-18T10:48:00+09:00",
+   "by": "updownnews.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "삼성전기-엔비디아, AI 인프라 동맹 격상… 기판 이어 MLCC까지 협력 확...",
+   "link": "https://www.mediapen.com/news/view/1138193",
+   "t": "2026-11-18T10:48:00+09:00",
+   "by": "mediapen.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "'수능 부정행위 적발' 위급재난문자 불시에 추가 발송한다(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261118032651530?input=1195m",
+   "t": "2026-11-18T10:47:00+09:00",
+   "by": "yna.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "트럼프 \"그게 인생이다\" 美 항공·은행 '먹통'에도…\"괜찮다\" 왜?",
+   "link": "https://economist.co.kr/article/view/ecn202611180020",
+   "t": "2026-11-18T10:47:00+09:00",
+   "by": "economist.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "그라비티 '라그나로크 오리진 클래식', 동남아 5개국 구글플레이 수상",
+   "link": "https://www.khgames.co.kr/news/articleView.html?idxno=310452",
+   "t": "2026-11-18T10:46:00+09:00",
+   "by": "khgames.co.kr",
+   "tags": [
+    "노트북·태블릿"
+   ]
+  },
+  {
+   "title": "대동, 북미 진출 40주년 딜러대회 개최…중장기 성장 전략 공유",
+   "link": "https://www.sentv.co.kr/article/view/sentv202611180091",
+   "t": "2026-11-18T10:46:00+09:00",
+   "by": "sentv.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "엔비디아 AI 투자 계속된다…삼성·SK, HBM 장기공급 수혜 기대",
+   "link": "https://www.ziksir.com/news/articleView.html?idxno=153745",
+   "t": "2026-11-18T10:46:00+09:00",
+   "by": "ziksir.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "\"저렴이 사라진다”…원가 부담에 흔들리는 스마트폰 시장",
+   "link": "https://view.asiae.co.kr/article/2026111809161820955",
+   "t": "2026-11-18T10:45:00+09:00",
+   "by": "view.asiae.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "플레이위드코리아, 중국 게임 사와 로한 IP 활용 신작 개발",
+   "link": "https://www.lawissue.co.kr/view.php?ud=2026111810432865579817d053b9_12",
+   "t": "2026-11-18T10:44:00+09:00",
+   "by": "lawissue.co.kr",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "주소·연락처 등 \"20만 5천 명 규모\"…노란우산도 털렸다",
+   "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851413&plink=ORI&cooper=NAVER",
+   "t": "2026-11-18T10:44:00+09:00",
+   "by": "sbs.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "청와대, ‘자바’ 취약점 확인 민·관·군 긴급회의…“대응전략 선제적...",
+   "link": "https://www.mediapen.com/news/view/1138238",
+   "t": "2026-11-18T10:44:00+09:00",
+   "by": "mediapen.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "외국인 투자자 매수세, 엔비디아 호실적에 코스피·코스닥 상승세 주목",
+   "link": "https://www.gokorea.kr/news/articleView.html?idxno=886225",
+   "t": "2026-11-18T10:44:00+09:00",
+   "by": "gokorea.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[취재후일담] 경쟁사 워치 택한 삼성 노조…노노갈등 속 절실해진 이재...",
+   "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261118010006773",
+   "t": "2026-11-18T10:44:00+09:00",
+   "by": "asiatoday.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "빨라지는 온디바이스 AI 시대…국내 반도체 생태계에 기회 열린다",
+   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505343",
+   "t": "2026-11-18T10:44:00+09:00",
+   "by": "pinpointnews.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "농심·무신사 스탠다드, 새우깡 55주년 협업…티셔츠 디자인 99가지 조합",
+   "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132736",
+   "t": "2026-11-18T10:42:00+09:00",
+   "by": "dailysmart.co.kr",
+   "tags": [
+    "노트북·태블릿"
+   ]
+  },
+  {
+   "title": "中 로보락, 韓 진공 물걸레 청소기 시장 1위… 상반기 점유율 14.3%",
+   "link": "https://biz.chosun.com/it-science/ict/2026/11/18/XG73462AQVAQTKIKP2FBN2U2HY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "t": "2026-11-18T10:42:00+09:00",
+   "by": "biz.chosun.com",
+   "tags": [
+    "가전"
+   ]
+  },
+  {
+   "title": "LG헬로비전, 외국인 알뜰폰 시장 공략···월 2만원대 무제한 요금제 출...",
+   "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2493896",
+   "t": "2026-11-18T10:42:00+09:00",
+   "by": "enewstoday.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "트럼프 “괜찮아, 인생이 그런거지”…국가안보국 시스템 마비에 보인 ...",
+   "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20261118601005&wlog_tag3=naver",
+   "t": "2026-11-18T10:42:00+09:00",
+   "by": "nownews.seoul.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "미래에셋생명 해킹 유출 1만명 넘어⋯당초보다 피해 규모 확대",
+   "link": "https://www.etoday.co.kr/news/view/2649689",
+   "t": "2026-11-18T10:42:00+09:00",
+   "by": "etoday.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[은행연합회장 5파전] 접점과 업의 이해관계, 교차되는 12인의 표심",
+   "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719883",
+   "t": "2026-11-18T10:42:00+09:00",
+   "by": "newsfreezone.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "소상공인 공제 '노란우산'서도 개인정보 20만명 넘게 유출 정황",
+   "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963728",
+   "t": "2026-11-18T10:42:00+09:00",
+   "by": "mbnmoney.mbn.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "개인정보 줄줄이 새는데…CI 기업에 더 넘겨라?",
+   "link": "https://news.bizwatch.co.kr/article/mobile/2026/11/17/0044",
+   "t": "2026-11-18T10:42:00+09:00",
+   "by": "bizwatch.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "엔키화이트햇, 정보 보안 ·클라우드 보안 국제 인증 취득",
+   "link": "https://zdnet.co.kr/view/?no=20261118101015",
+   "t": "2026-11-18T10:42:00+09:00",
+   "by": "zdnet.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "수장 공백 뚫고 '역대급 실적' 쓴 엔비디아…삼성·SK, HBM 장기 수주 청...",
+   "link": "https://www.widedaily.com/news/articleView.html?idxno=303964",
+   "t": "2026-11-18T10:42:00+09:00",
+   "by": "widedaily.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "PHP 이어 자바까지 보안 구멍…정부, 민·관·군 긴급대응체계 가동",
+   "link": "https://www.ppss.kr/news/articleView.html?idxno=321653",
+   "t": "2026-11-18T10:41:00+09:00",
+   "by": "ppss.kr",
+   "tags": [
+    "통신·요금",
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "美 항공 마비 이어 '기밀 통신 망'도 일부 마비... 국가안보국 긴급 대응",
+   "link": "https://www.insight.co.kr/news/582525",
+   "t": "2026-11-18T10:40:00+09:00",
+   "by": "insight.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "미래에셋생명도 털렀다…퇴직연금 서류·면허증 사본까지 ' 유출 '",
+   "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259214",
+   "t": "2026-11-18T10:40:00+09:00",
+   "by": "insightkorea.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "금감원, 자산운용사 보안점검 확대…외주 전산망 통한 연쇄 피해 차단 ...",
+   "link": "https://sateconomy.co.kr/news/view/1065576478128714",
+   "t": "2026-11-18T10:40:00+09:00",
+   "by": "sateconomy.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[오늘의 유통가] 스타필드, 대형 트리·공연으로 ‘위시 크리스마스’ ...",
+   "link": "https://dealsite.co.kr/articles/173041",
+   "t": "2026-11-18T10:38:00+09:00",
+   "by": "dealsite.co.kr",
+   "tags": [
+    "노트북·태블릿"
+   ]
+  },
+  {
+   "title": "식품업계 '홀리데이 고메 다이닝' 선보여·'커스텀 티셔츠' 서비스 진행...",
+   "link": "http://www.wsobi.com/news/articleView.html?idxno=322011",
+   "t": "2026-11-18T10:38:00+09:00",
+   "by": "wsobi.com",
+   "tags": [
+    "노트북·태블릿"
+   ]
+  },
+  {
+   "title": "노란우산 가입자 20만여 명 개인정보 유출 추정",
+   "link": "https://www.bigtanews.co.kr/article/view/big202611180015",
+   "t": "2026-11-18T10:38:00+09:00",
+   "by": "bigtanews.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "‘삼성 스마트폰’ 동남아 1위 지켰지만…샤오미 베트남 1위·아너 말레...",
+   "link": "https://biz.chosun.com/it-science/ict/2026/11/18/RDKJ25C5RNADZOC2NNEJEVOKMQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "t": "2026-11-18T10:37:00+09:00",
+   "by": "biz.chosun.com",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "쿠쿠, 국내산 황토볼·카본 열선 결합한 '온열 흙 토퍼 매트' 출시",
+   "link": "https://www.newspim.com/news/view/20261118000380",
+   "t": "2026-11-18T10:37:00+09:00",
+   "by": "newspim.com",
+   "tags": [
+    "가전"
+   ]
+  },
+  {
+   "title": "아이폰 듀오 깨지고, 이번엔 전산망 '올스톱'…존 터너스 리스크 관리 ...",
+   "link": "https://www.ddaily.co.kr/page/view/2026111810355892783",
+   "t": "2026-11-18T10:37:00+09:00",
+   "by": "ddaily.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "암플로우, 첫 도심형 전기자전거 출시…카본 프레임에 자동 변속까지",
+   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716305",
+   "t": "2026-11-18T10:36:00+09:00",
+   "by": "digitaltoday.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "혹시 나 차단했나? 아이폰에서 내 전화번호 차단 여부 확인하는 방법",
+   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716304",
+   "t": "2026-11-18T10:36:00+09:00",
+   "by": "digitaltoday.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "신작 개발 차질에 주력 게임 매출까지 감소...웹젠 '뮤 의존 탈피' 시험...",
+   "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=320656",
+   "t": "2026-11-18T10:36:00+09:00",
+   "by": "wolyo.co.kr",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "LG헬로비전, 외국인 전용 최대 22GB 데이터 무제한 요금제 출시",
+   "link": "https://www.mt.co.kr/tech/2026/11/18/2026111810212513201",
+   "t": "2026-11-18T10:36:00+09:00",
+   "by": "mt.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "새우깡·바나나킥이 티셔츠에…농심, 무신사 스탠다드와 협업",
+   "link": "https://www.ddaily.co.kr/page/view/2026111810181481836",
+   "t": "2026-11-18T10:34:00+09:00",
+   "by": "ddaily.co.kr",
+   "tags": [
+    "노트북·태블릿"
+   ]
+  },
+  {
+   "title": "AI 후면 화면으로 셀피 구도까지 본다… 샤오미코리아, Leica 듀얼 2억 화...",
+   "link": "https://kr.aving.net/news/articleView.html?idxno=1817158",
+   "t": "2026-11-18T10:34:00+09:00",
+   "by": "kr.aving.net",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "방미심위, 캐릭터챗AI ‘청소년 보호법’으로 정조준…신규유입 절반 막...",
+   "link": "https://www.ddaily.co.kr/page/view/2026111809405088732",
+   "t": "2026-11-18T10:33:00+09:00",
+   "by": "ddaily.co.kr",
+   "tags": [
+    "스마트폰",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "NHN, '최애의 아이' 퍼즐 게임 170여개국 동시 출시",
+   "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=305314",
+   "t": "2026-11-18T10:32:00+09:00",
+   "by": "newsquest.co.kr",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "모노타입, 어도비 맥스 2026에서 ‘모노타입 커넥트 패널’ 출시",
+   "link": "https://ditoday.com/%eb%aa%a8%eb%85%b8%ed%83%80%ec%9e%85-%ec%96%b4%eb%8f%84%eb%b9%84-%eb%a7%a5%ec%8a%a4-2026%ec%97%90%ec%84%9c-%eb%aa%a8%eb%85%b8%ed%83%80%ec%9e%85-%ec%bb%a4%eb%84%a5%ed%8a%b8-%ed%8c%a8%eb%84%90/",
+   "t": "2026-11-18T10:32:00+09:00",
+   "by": "ditoday.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "샤오미, '샤오미 18 프로 맥스' 국내 출시…사전 판매 시작",
+   "link": "https://www.mt.co.kr/tech/2026/11/18/2026111810094170962",
+   "t": "2026-11-18T10:31:00+09:00",
+   "by": "mt.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "'AI와 라이카, 그리고 두 개의 화면'…샤오미 18 프로 맥스[한 컷]",
+   "link": "https://www.newsway.co.kr/news/view?ud=2026111810200709209",
+   "t": "2026-11-18T10:30:00+09:00",
+   "by": "newsway.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "'듀얼 2억 화소'…샤오미 18 프로 맥스 공개[한 컷]",
+   "link": "https://www.newsway.co.kr/news/view?ud=2026111810164537376",
+   "t": "2026-11-18T10:30:00+09:00",
+   "by": "newsway.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "\"AI 번역도 실시간으로\"…'샤오미 18 프로 맥스' 오는 24일 정식 출시[한...",
+   "link": "https://www.newsway.co.kr/news/view?ud=2026111810133558743",
+   "t": "2026-11-18T10:30:00+09:00",
+   "by": "newsway.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "[똑똑한쇼핑] 이마트 노브랜드, 롯데온, GS샵, 이마트24, 11번가, 아트박...",
+   "link": "https://www.ekn.kr/web/view.php?key=20261118028291267",
+   "t": "2026-11-18T10:30:00+09:00",
+   "by": "ekn.kr",
+   "tags": [
+    "가전"
+   ]
+  },
+  {
+   "title": "‘13년 전 향수’를 넘어 ‘서사 명가’로… 넷마블 몬길 , 구글플레이...",
+   "link": "https://www.dailyt.co.kr/newsView/dlt202611180015",
+   "t": "2026-11-18T10:30:00+09:00",
+   "by": "dailyt.co.kr",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "샤오미코리아, 'Xiaomi 18 Pro Max' 출시[한 컷]",
+   "link": "https://www.newsway.co.kr/news/view?ud=2026111810105218358",
+   "t": "2026-11-18T10:28:00+09:00",
+   "by": "newsway.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "티셔츠에 새우깡 입혔다…농심, 무신사 스탠다드와 협업",
+   "link": "https://www.sedaily.com/article/20115802?ref=naver",
+   "t": "2026-11-18T10:28:00+09:00",
+   "by": "sedaily.com",
+   "tags": [
+    "노트북·태블릿"
+   ]
+  },
+  {
+   "title": "미래에셋생명 1만명·고팍스 2천명… 정보유출 규모 늘어",
+   "link": "https://economist.co.kr/article/view/ecn202611180016",
+   "t": "2026-11-18T10:28:00+09:00",
+   "by": "economist.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "중기중앙회 노란우산 \" 해킹 사고 발생\"…20만5천명 주민번호·연락처 노...",
+   "link": "https://www.youthdaily.co.kr/news/article.html?no=230003",
+   "t": "2026-11-18T10:28:00+09:00",
+   "by": "youthdaily.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "이영남 시의원 \"서울시설공단, 따릉이 개인정보 유출 …책임 회피 논란 ...",
+   "link": "https://www.newspim.com/news/view/20261118000443",
+   "t": "2026-11-18T10:27:00+09:00",
+   "by": "newspim.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "삼성전자, 동남아시아 스마트폰 시장 점유율 선두 자리 '굳건'",
+   "link": "https://www.econovill.com/news/articleView.html?idxno=757666",
+   "t": "2026-11-18T10:26:00+09:00",
+   "by": "econovill.com",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "미래에셋생명 해킹 피해 1만명 넘어… 개인정보 유출 규모 확대",
+   "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=731603",
+   "t": "2026-11-18T10:26:00+09:00",
+   "by": "the-biz.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "소상공인 부담 낮추고 취약계층 보호…금융권 포용금융 확대",
+   "link": "https://www.newsis.com/view/NISX20261118_0003872784",
+   "t": "2026-11-18T10:24:00+09:00",
+   "by": "newsis.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "스마게 '카제나' 구글 플레이 대만·홍콩·마카오 '스토리 게임' 수상",
+   "link": "http://www.4th.kr/news/articleView.html?idxno=2122112",
+   "t": "2026-11-18T10:24:00+09:00",
+   "by": "4th.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "애플 신제품 기대감에 아이폰 부품주 강세...실적개선 기업 노려라",
+   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505337",
+   "t": "2026-11-18T10:22:00+09:00",
+   "by": "pinpointnews.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "농심, 새우깡 출시 55주년 기념 이색 협업 '스낵 디자인 티셔츠' 출시",
+   "link": "http://www.beyondpost.co.kr/view.php?ud=20261118101838606246a9e4dd7f_30",
+   "t": "2026-11-18T10:22:00+09:00",
+   "by": "beyondpost.co.kr",
+   "tags": [
+    "노트북·태블릿"
+   ]
+  },
+  {
+   "title": "AI 인프라 투자 확대에 메모리반도체 2026년 1조 달러 시대 개막",
+   "link": "https://www.mtnews.net/news/articleView.html?idxno=26581",
+   "t": "2026-11-18T10:22:00+09:00",
+   "by": "mtnews.net",
+   "tags": [
+    "PC·부품"
+   ]
+  },
+  {
+   "title": "블랙프라이데이 앞두고 카드사 해외직구 할인 경쟁… 실제 카드값 따져...",
+   "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=731601",
+   "t": "2026-11-18T10:22:00+09:00",
+   "by": "the-biz.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "삼성전자, 동남아 스마트폰 1위 수성…폴더블이 살렸다",
+   "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884559",
+   "t": "2026-11-18T10:20:00+09:00",
+   "by": "hansbiz.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "로보락, 상반기 국내 진공 물걸레 청소기 시장 1위",
+   "link": "https://www.sedaily.com/article/20115791?ref=naver",
+   "t": "2026-11-18T10:20:00+09:00",
+   "by": "sedaily.com",
+   "tags": [
+    "가전"
+   ]
+  },
+  {
+   "title": "구글 제미나이, 이용자 기억 정보 공개…잘못된 개인정보 직접 수정한다",
+   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716295",
+   "t": "2026-11-18T10:20:00+09:00",
+   "by": "digitaltoday.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "동남아 스마트폰 시장 36% 위축…삼성전자 점유율 1위 지켜",
+   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716293",
+   "t": "2026-11-18T10:18:00+09:00",
+   "by": "digitaltoday.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "넷마블, 몬길: STAR DIVE 스토리 경쟁력 인정…구글플레이 수상",
+   "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140093",
+   "t": "2026-11-18T10:18:00+09:00",
+   "by": "e-science.co.kr",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "케이스티파이, '심슨 가족' 한정판 컬렉션 출시",
+   "link": "https://www.ddaily.co.kr/page/view/2026111809581397830",
+   "t": "2026-11-18T10:16:00+09:00",
+   "by": "ddaily.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "농심, 새우깡 55년 역사 입는다…무신사 협업 티셔츠 출시",
+   "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140080",
+   "t": "2026-11-18T10:16:00+09:00",
+   "by": "e-science.co.kr",
+   "tags": [
+    "노트북·태블릿"
+   ]
+  },
+  {
+   "title": "넷마블에프엔씨, 웹툰·웹소설 제작 법인 4년 8개월 만에 청산",
+   "link": "https://ilyo.co.kr/?ac=article_view&entry_id=513661",
+   "t": "2026-11-18T10:16:00+09:00",
+   "by": "ilyo.co.kr",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "샤오미 '18 프로 맥스' 국내 출시…후면 디스플레이에 2억 화소 카메라...",
+   "link": "https://www.cstimes.com/news/articleView.html?idxno=728333",
+   "t": "2026-11-18T10:14:00+09:00",
+   "by": "cstimes.com",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "넷마블 '몬길: STAR DIVE', 구글플레이 2026 스토리 게임 부문 수상",
+   "link": "https://www.koreaittimes.com/news/articleView.html?idxno=159279",
+   "t": "2026-11-18T10:14:00+09:00",
+   "by": "koreaittimes.com",
+   "tags": [
+    "게임",
+    "IT 업계"
+   ]
+  },
   {
    "title": "대동, 북미 진출 40주년 딜러대회 개최⋯\"투트랙 라인업·자율주행 승부...",
    "link": "http://www.inews24.com/view/2027505",
@@ -252,9 +2081,9 @@
    "t": "2026-11-18T10:06:00+09:00",
    "by": "byline.network",
    "tags": [
-    "스마트폰",
     "AI·앱",
-    "게임"
+    "게임",
+    "스마트폰"
    ]
   },
   {
@@ -546,8 +2375,8 @@
    "t": "2026-11-18T10:00:00+09:00",
    "by": "epnc.co.kr",
    "tags": [
-    "스마트폰",
-    "AI·앱"
+    "AI·앱",
+    "스마트폰"
    ]
   },
   {
@@ -719,9 +2548,9 @@
    "t": "2026-11-18T09:58:00+09:00",
    "by": "news1.kr",
    "tags": [
-    "스마트폰",
+    "IT 업계",
     "노트북·태블릿",
-    "IT 업계"
+    "스마트폰"
    ]
   },
   {
@@ -1634,8 +3463,8 @@
    "t": "2026-11-18T09:30:00+09:00",
    "by": "digitaltoday.co.kr",
    "tags": [
-    "스마트폰",
-    "게임"
+    "게임",
+    "스마트폰"
    ]
   },
   {
@@ -1716,8 +3545,8 @@
    "t": "2026-11-18T09:22:00+09:00",
    "by": "kbench.com",
    "tags": [
-    "스마트폰",
-    "노트북·태블릿"
+    "노트북·태블릿",
+    "스마트폰"
    ]
   },
   {
@@ -1762,8 +3591,8 @@
    "t": "2026-11-18T09:18:00+09:00",
    "by": "news1.kr",
    "tags": [
-    "스마트폰",
-    "게임"
+    "게임",
+    "스마트폰"
    ]
   },
   {
@@ -1809,1836 +3638,6 @@
    "by": "khgames.co.kr",
    "tags": [
     "게임"
-   ]
-  },
-  {
-   "title": "출시 한 달 만에 200억 원, '쿠키런: 크럼블' 동남아서도 통했다",
-   "link": "https://www.thisisgame.com/articles/432846",
-   "t": "2026-11-18T09:14:00+09:00",
-   "by": "thisisgame.com",
-   "tags": [
-    "게임"
-   ]
-  },
-  {
-   "title": "경실련 등 시민단체 “AI 해킹 시대 금융권 개인정보 유출 ...대책 마련”...",
-   "link": "http://www.breaknews.com/1251794",
-   "t": "2026-11-18T09:14:00+09:00",
-   "by": "breaknews.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "AI·자율주행이 키우는 영상 기술…카메라 부품주 상승랠리 지속될까",
-   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505288",
-   "t": "2026-11-18T09:12:00+09:00",
-   "by": "pinpointnews.co.kr",
-   "tags": [
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "AMD의 '아픈 손가락' 게이밍, AI 조 단위 수익으로 메꾼다···언제쯤?",
-   "link": "https://www.globale.co.kr/news/articleView.html?idxno=41715",
-   "t": "2026-11-18T09:12:00+09:00",
-   "by": "globale.co.kr",
-   "tags": [
-    "PC·부품"
-   ]
-  },
-  {
-   "title": "\"美잦은 시스템 장애 불안\"…사재기에 수혜 보는 기업은?",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=02210726645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-18T09:11:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "솔라나 인프라사 CEO, 공격자 AI 쓴다며 2년간 보안 집중 촉구",
-   "link": "https://www.tokenpost.kr/news/blockchain/440090",
-   "t": "2026-11-18T09:10:00+09:00",
-   "by": "tokenpost.kr",
-   "tags": [
-    "AI·앱",
-    "보안·개인정보",
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "[유통갤러리] 농심, 무신사 스탠다드와 새우깡 55주년 기념 커스텀 티셔...",
-   "link": "https://theviewers.co.kr/View.aspx?No=4317705",
-   "t": "2026-11-18T09:10:00+09:00",
-   "by": "theviewers.co.kr",
-   "tags": [
-    "노트북·태블릿"
-   ]
-  },
-  {
-   "title": "힐링미, AI 입원후기 요약 기능 도입…암요양병원 정보 검색 서비스 개...",
-   "link": "https://www.cwn.kr/news/articleView.html?idxno=61413",
-   "t": "2026-11-18T09:10:00+09:00",
-   "by": "cwn.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "넵튠 '총잡이 고양이' 누적 매출 300억 돌파… 게임 계 신작 ·IP 사업 확대",
-   "link": "http://www.popcornnews.net/news/articleView.html?idxno=140468",
-   "t": "2026-11-18T09:10:00+09:00",
-   "by": "popcornnews.net",
-   "tags": [
-    "게임"
-   ]
-  },
-  {
-   "title": "PHP 이어 자바 보안 취약점 발견… 정부, 긴급 점검 권고",
-   "link": "https://www.asiatime.co.kr/article/20261118500052",
-   "t": "2026-11-18T09:10:00+09:00",
-   "by": "asiatime.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "엔비디아 의존도 낮추는 오픈AI, AMD와의 동맹에 속도",
-   "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54790",
-   "t": "2026-11-18T09:10:00+09:00",
-   "by": "fortunekorea.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "'젠슨황 쇼크'에도 엔비디아, '호실적' 발표…삼전·닉스 장기수주 탄력...",
-   "link": "https://www.newsis.com/view/NISX20261117_0003871836",
-   "t": "2026-11-18T09:10:00+09:00",
-   "by": "newsis.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "\" 갤럭시 S27 울트라, 카메라 이렇게 생겼다\"",
-   "link": "https://zdnet.co.kr/view/?no=20261118082707",
-   "t": "2026-11-18T09:09:00+09:00",
-   "by": "zdnet.co.kr",
-   "tags": [
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "보스턴다이나믹스 아틀라스, 반도체 도 만든다",
-   "link": "https://www.dailian.co.kr/news/view/1716437/?sc=Naver",
-   "t": "2026-11-18T09:09:00+09:00",
-   "by": "dailian.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "샤오미18 프로 맥스 국내 출시 … 아이폰 18 프로보다 비싸다",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=02171366645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-18T09:08:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "스마트폰",
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "로보락, 로봇청소기 이어 진공 물걸레 청소기도 국내 시장 1위",
-   "link": "https://view.asiae.co.kr/article/2026111809080996427",
-   "t": "2026-11-18T09:08:00+09:00",
-   "by": "view.asiae.co.kr",
-   "tags": [
-    "가전"
-   ]
-  },
-  {
-   "title": "“ AI 시대, 기술만큼 중요한 신뢰”…한국 찾은 독일 160년 인증기업",
-   "link": "https://magazine.hankyung.com/business/article/202611046282b",
-   "t": "2026-11-18T09:08:00+09:00",
-   "by": "magazine.hankyung.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "넵튠 '총잡이 고양이', 누적 매출 300억 원 돌파",
-   "link": "https://www.khgames.co.kr/news/articleView.html?idxno=310439",
-   "t": "2026-11-18T09:08:00+09:00",
-   "by": "khgames.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "문경시, 취약계층 지키는 안전돌봄 역량 입증···응급안전안심서비스...",
-   "link": "http://www.newsprime.co.kr/news/article.html?no=755384",
-   "t": "2026-11-18T09:08:00+09:00",
-   "by": "newsprime.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "비트코인 넘어 오픈소스 AI로 활동 확대…\"기술은 사용자를 위해야\"",
-   "link": "https://www.tokenpost.kr/news/cryptocurrency/440087",
-   "t": "2026-11-18T09:08:00+09:00",
-   "by": "tokenpost.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "엔비디아 협력 기대에 삼성전기 강세…MLCC 관련주 동반 휘파람",
-   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505289",
-   "t": "2026-11-18T09:08:00+09:00",
-   "by": "pinpointnews.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "라이카 듀얼 2억 화소…샤오미18 프로맥스 국내 출시",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=02171366645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-18T09:08:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "스마트폰",
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "수능 중 재난문자 '불시 발송' 검토…휴대전화 부정행위 잡는다",
-   "link": "https://www.kado.net/news/articleView.html?idxno=2085540",
-   "t": "2026-11-18T09:07:00+09:00",
-   "by": "kado.net",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "\"새우깡, 이제 먹지 말고 입으세요\"…농심, 무신사 스탠다드와 협업",
-   "link": "https://www.mt.co.kr/living/2026/11/18/2026111808480924903",
-   "t": "2026-11-18T09:06:00+09:00",
-   "by": "mt.co.kr",
-   "tags": [
-    "노트북·태블릿"
-   ]
-  },
-  {
-   "title": "[혁신의 불꽃 : MS 이그나이트 2026①] \"사람ㆍ지능ㆍ신뢰로 프론티어 생...",
-   "link": "https://www.econovill.com/news/articleView.html?idxno=757630",
-   "t": "2026-11-18T09:06:00+09:00",
-   "by": "econovill.com",
-   "tags": [
-    "AI·앱",
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "LG유플러스, IPTV 420만대에 AI 품질관리 적용… 장애 발생 전 잡는다",
-   "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=92194",
-   "t": "2026-11-18T09:06:00+09:00",
-   "by": "worktoday.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "PHP 이어 ‘자바’까지 고위험 보안 취약점 발견…긴급 점검",
-   "link": "https://www.sentv.co.kr/article/view/sentv202611180030",
-   "t": "2026-11-18T09:06:00+09:00",
-   "by": "sentv.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "내 개인정보 은행도 금융보안원도 뚫렸다",
-   "link": "https://www.mhj21.com/news/articleView.html?idxno=254880",
-   "t": "2026-11-18T09:06:00+09:00",
-   "by": "mhj21.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "PHP 이어 자바서 고위험 취약점 발견…정부, 긴급 점검 권고",
-   "link": "https://view.asiae.co.kr/article/2026111808560178029",
-   "t": "2026-11-18T09:06:00+09:00",
-   "by": "view.asiae.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "웹 보안 심각한 위험…PHP 이어 '자바'에서도 취약점 발견",
-   "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963726",
-   "t": "2026-11-18T09:06:00+09:00",
-   "by": "mbnmoney.mbn.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "자바(JAVA) 보안 취약점 발견…정부, 긴급 점검 권고",
-   "link": "https://www.viva100.com/article/20261118500216",
-   "t": "2026-11-18T09:06:00+09:00",
-   "by": "viva100.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "[김대호 인물] 젠슨황 \"복귀 없다\" 엔비디아 이사회 의장...하비 존스",
-   "link": "https://www.g-enews.com/view.php?ud=202611180855086150906806b77b_1",
-   "t": "2026-11-18T09:06:00+09:00",
-   "by": "g-enews.com",
-   "tags": [
-    "IT 업계",
-    "PC·부품"
-   ]
-  },
-  {
-   "title": "수젠텍, 독일 '메디카 2026'서 글로벌 파트너 포털 공개",
-   "link": "https://www.cstimes.com/news/articleView.html?idxno=728303",
-   "t": "2026-11-18T09:04:00+09:00",
-   "by": "cstimes.com",
-   "tags": [
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "서울과기대 산학협력단, 딥테크 사업화 페스티벌 참가… AI 구조설계·웨...",
-   "link": "https://www.kyosu.net/news/articleView.html?idxno=212600",
-   "t": "2026-11-18T09:04:00+09:00",
-   "by": "kyosu.net",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "MS, '에이전트 중심' AI 생태계 제시…코파일럿·자체 칩까지 전방위 강...",
-   "link": "https://zdnet.co.kr/view/?no=20261118090341",
-   "t": "2026-11-18T09:04:00+09:00",
-   "by": "zdnet.co.kr",
-   "tags": [
-    "AI·앱",
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "NH농협생명, '올원더풀 1주년 감사제' 기념 이벤트 실시",
-   "link": "https://www.cstimes.com/news/articleView.html?idxno=728304",
-   "t": "2026-11-18T09:04:00+09:00",
-   "by": "cstimes.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "NH농협생명, '올원더풀' 1주년 기념…1365명에 경품 증정",
-   "link": "https://www.ziksir.com/news/articleView.html?idxno=153712",
-   "t": "2026-11-18T09:04:00+09:00",
-   "by": "ziksir.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "넵튠 '총잡이 고양이' 누적 매출 300억 돌파…퍼블리싱 5개월여 만",
-   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505284",
-   "t": "2026-11-18T09:04:00+09:00",
-   "by": "pinpointnews.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "법률 넘어 기술·산업까지…로펌서 몸값 높아지는 전문위원",
-   "link": "https://view.asiae.co.kr/article/2026111310430954123",
-   "t": "2026-11-18T09:03:00+09:00",
-   "by": "view.asiae.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "NH농협생명, 'NH올원더풀' 1주년 기념 이벤트 진행",
-   "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=301594",
-   "t": "2026-11-18T09:02:00+09:00",
-   "by": "financialpost.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "게임 업계, 장수 IP로 성장동력 확보...후속작·장르 확장 주력",
-   "link": "https://www.thebigdata.co.kr/view.php?ud=2026111716370334810a47484cf8_23",
-   "t": "2026-11-18T09:02:00+09:00",
-   "by": "thebigdata.co.kr",
-   "tags": [
-    "게임"
-   ]
-  },
-  {
-   "title": "[인력 줄이는 K 게임 ] 돈은 더 벌고 사람은 줄이고…대형 게임 사 '상시 구...",
-   "link": "https://dealsite.co.kr/articles/172869",
-   "t": "2026-11-18T09:02:00+09:00",
-   "by": "dealsite.co.kr",
-   "tags": [
-    "게임"
-   ]
-  },
-  {
-   "title": "[T나는 보안] 공공정보 71% '자바'서도 치명적 취약점…정부 긴급 점검 ...",
-   "link": "https://www.tjb.co.kr/news05/bodo/view/id/106209",
-   "t": "2026-11-18T09:02:00+09:00",
-   "by": "tjb.co.kr",
-   "tags": [
-    "통신·요금",
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "보스턴다이내믹스, 글로벌파운드리와 손잡고 반도체 공장에 ‘아틀라스...",
-   "link": "https://www.etoday.co.kr/news/view/2649573",
-   "t": "2026-11-18T09:02:00+09:00",
-   "by": "etoday.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "미디어윌네트웍스 ‘K-HIRE’, 월간 활성 이용자 63만 명 돌파",
-   "link": "https://biz.chosun.com/industry/business_info/2026/11/18/EHXWOX6TYFAZHNBMDSXRPYHKVE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-   "t": "2026-11-18T09:01:00+09:00",
-   "by": "biz.chosun.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "더해피, ' AI 특허명세서 작성 시스템' 출시 …특허사무소 AX 전환 기반 마...",
-   "link": "https://www.etnews.com/20261117000419",
-   "t": "2026-11-18T09:01:00+09:00",
-   "by": "etnews.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "티벨, 보안 컨설팅 시장 진출…소프트웨어 품질검증에 정보보호 더한다",
-   "link": "https://www.etnews.com/20261117000301",
-   "t": "2026-11-18T09:01:00+09:00",
-   "by": "etnews.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "저가폰 사라지는 동남아…스마트폰 가격 53% 뛰었다",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=02138566645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-18T09:00:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "AI·앱",
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "[지스타 2026] 글로벌 대작 품었다, 지스타 프리뷰",
-   "link": "https://www.gameple.co.kr/news/articleView.html?idxno=217003",
-   "t": "2026-11-18T09:00:00+09:00",
-   "by": "gameple.co.kr",
-   "tags": [
-    "게임",
-    "노트북·태블릿"
-   ]
-  },
-  {
-   "title": "네이버웹툰·넥슨이 휩쓸었다…구글플레이 '올해의 앱·게임' 정상",
-   "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884426",
-   "t": "2026-11-18T09:00:00+09:00",
-   "by": "hansbiz.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "NH농협생명, ‘올원더풀’ 1주년 이벤트…보험 가입 안 해도 응모 가능",
-   "link": "https://www.socialvalue.kr/news/view/1065570953196656",
-   "t": "2026-11-18T09:00:00+09:00",
-   "by": "socialvalue.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "[이준호의 N잡러칼럼] 한계기업 극복전략(2), 한계기업은 어떻게 다시 살...",
-   "link": "https://www.kmaeil.com/news/articleView.html?idxno=658359",
-   "t": "2026-11-18T09:00:00+09:00",
-   "by": "kmaeil.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "힐링미, 앱 서비스 개편...\"AI 기반 요약 기능 새롭게 적용\"",
-   "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=248974",
-   "t": "2026-11-18T09:00:00+09:00",
-   "by": "sisunnews.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "힐링미, 암요양병원 검색·상담 서비스 개편…AI 기반 후기 분석 기능 도...",
-   "link": "https://www.thedrive.co.kr/news/newsview.php?ncode=1065582725056567",
-   "t": "2026-11-18T09:00:00+09:00",
-   "by": "thedrive.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "힐링미, AI 입원후기 분석·비회원 상담 기능 추가 공개",
-   "link": "https://www.abcn.kr/news/articleView.html?idxno=94316",
-   "t": "2026-11-18T09:00:00+09:00",
-   "by": "abcn.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "[뉴욕마켓워치] 엔비디아 실적 경계 속 美 전산 장애 공포…주식·달러↓...",
-   "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445273",
-   "t": "2026-11-18T09:00:00+09:00",
-   "by": "einfomax.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "LG유플러스 IPTV 420만대에 AI 품질관리 적용",
-   "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083154",
-   "t": "2026-11-18T09:00:00+09:00",
-   "by": "newsclaim.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "알리바바, 차세대 AI 모델 '큐웬4-Max' 정식 배포",
-   "link": "https://www.itbiznews.com/news/articleView.html?idxno=231835",
-   "t": "2026-11-18T09:00:00+09:00",
-   "by": "itbiznews.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "실리만, 19일 카카오 쇼핑라이브 진행",
-   "link": "https://www.etoday.co.kr/news/view/2649069",
-   "t": "2026-11-18T09:00:00+09:00",
-   "by": "etoday.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "BC카드 ' AI 결제' 준비 척척…'에이전틱 페이' 기술검증",
-   "link": "https://www.newsway.co.kr/news/view?ud=2026111808223931717",
-   "t": "2026-11-18T08:58:00+09:00",
-   "by": "newsway.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "충주시 정보 통신 과 박종성 주무관, 생성형 AI 활용 PC 오류 자동복구 프...",
-   "link": "http://www.breaknews.com/1251720",
-   "t": "2026-11-18T08:58:00+09:00",
-   "by": "breaknews.com",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "수능날 재난문자 추가 '불시 발송' 검토…시험장 혼란 우려도",
-   "link": "https://www.ngonews.kr/news/articleView.html?idxno=243478",
-   "t": "2026-11-18T08:58:00+09:00",
-   "by": "ngonews.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "韓개발자 절반 쓰는 자바도 로그인없이 뚫린다…정부 \" 보안 업데이트 \"",
-   "link": "https://www.mt.co.kr/tech/2026/11/18/2026111808253148355",
-   "t": "2026-11-18T08:58:00+09:00",
-   "by": "mt.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "보스턴다이나믹스 '아틀라스', 반도체 공장 투입…'글로벌파운드리'서 ...",
-   "link": "https://www.newsis.com/view/NISX20261118_0003872541",
-   "t": "2026-11-18T08:57:00+09:00",
-   "by": "newsis.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "농심, 무신사 손잡고 새우깡 55주년 기념 커스텀 티셔츠 선봬",
-   "link": "https://www.news1.kr/industry/distribution/6357533",
-   "t": "2026-11-18T08:56:00+09:00",
-   "by": "news1.kr",
-   "tags": [
-    "노트북·태블릿"
-   ]
-  },
-  {
-   "title": "PHP 이어 '자바'도 치명적 취약점 …정부 긴급 점검 권고",
-   "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5231483",
-   "t": "2026-11-18T08:56:00+09:00",
-   "by": "mbn.mk.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "“내 정보 도 유출 됐나”…미래에셋생명 해킹 피해 눈덩이, 정보유출 1만...",
-   "link": "https://www.mk.co.kr/article/12212001",
-   "t": "2026-11-18T08:55:00+09:00",
-   "by": "mk.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "샤오미코리아, ‘Xiaomi 18 Pro Max’ 국내 출시",
-   "link": "https://www.sentv.co.kr/article/view/sentv202611180026",
-   "t": "2026-11-18T08:54:00+09:00",
-   "by": "sentv.co.kr",
-   "tags": [
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "NH농협생명 \"앱 접속만 해도 혜택\"… 올원더풀 1주년 감사제 실시",
-   "link": "http://www.newsdream.kr/news/articleView.html?idxno=122376",
-   "t": "2026-11-18T08:54:00+09:00",
-   "by": "newsdream.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "MS, 자체 코딩 AI ‘MAI 코드 2’ 공개…“오픈 AI ·앤트로픽보다 60~95% 저...",
-   "link": "https://www.ddaily.co.kr/page/view/2026111808335912507",
-   "t": "2026-11-18T08:54:00+09:00",
-   "by": "ddaily.co.kr",
-   "tags": [
-    "AI·앱",
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "靑 안보실, 민·관·군 사이버안보 긴급대책 회의…\"JAVA 취약점 입수\"",
-   "link": "https://www.mt.co.kr/politics/2026/11/18/2026111808522730713",
-   "t": "2026-11-18T08:54:00+09:00",
-   "by": "mt.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "공공기관 70%가 쓰는 '자바'도 치명적 보안 결함 발견",
-   "link": "https://imnews.imbc.com/news/2026/econo/article/6866528_36932.html",
-   "t": "2026-11-18T08:54:00+09:00",
-   "by": "imnews.imbc.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "안보실, '자바' 보안 취약점 보고에 긴급회의…대응 체계 점검",
-   "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084627",
-   "t": "2026-11-18T08:54:00+09:00",
-   "by": "shinailbo.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "\"삼성페이는 무료인데\"…카카오뱅크 애플페이 합류에 수수료 도미노 우...",
-   "link": "https://www.bloter.net/news/articleView.html?idxno=678948",
-   "t": "2026-11-18T08:53:00+09:00",
-   "by": "bloter.net",
-   "tags": [
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "[뉴욕환시] 달러 6일만에↓…美 소비 호조에도 국채금리 따라 반락",
-   "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445269",
-   "t": "2026-11-18T08:52:00+09:00",
-   "by": "einfomax.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "‘자바’ 오픈제이디케이 보안 취약점 발견…과기정통부, 긴급 업데이트...",
-   "link": "https://www.dailian.co.kr/news/view/1716427/?sc=Naver",
-   "t": "2026-11-18T08:52:00+09:00",
-   "by": "dailian.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "MS, AI 에이전트 중심 업무 혁신 가속…'코파일럿' 전면 개편",
-   "link": "https://www.fnnews.com/news/202611180845314940",
-   "t": "2026-11-18T08:51:00+09:00",
-   "by": "fnnews.com",
-   "tags": [
-    "AI·앱",
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "'피지컬 AI 휴머노이드' 로브로스, 시리즈B 순항…170억 1차 클로징",
-   "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445267",
-   "t": "2026-11-18T08:50:00+09:00",
-   "by": "einfomax.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "그룹아이비, AWS 마켓플레이스에 AI 보안 솔루션 출시",
-   "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884423",
-   "t": "2026-11-18T08:50:00+09:00",
-   "by": "hansbiz.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "276만건 유출 에 수탁사 해킹 까지…외식업계 보안 빨간불",
-   "link": "https://www.kukinews.com/article/view/kuk202611180020",
-   "t": "2026-11-18T08:50:00+09:00",
-   "by": "kukinews.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "글로벌IB가 가른 재계 성적표…SK·한화·현대차·두산 ‘긍정’, 삼성·...",
-   "link": "https://www.ekn.kr/web/view.php?key=20261118028180744",
-   "t": "2026-11-18T08:50:00+09:00",
-   "by": "ekn.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "엔비디아 매출 103% 폭증…5000선 무너진 코스피 구원투수 될까",
-   "link": "https://www.mk.co.kr/article/12211997",
-   "t": "2026-11-18T08:50:00+09:00",
-   "by": "mk.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "젠슨 황, 사임 닷새 만에 복귀 의사…엔비디아 이사회는 후임 인선 착수",
-   "link": "https://monthly.chosun.com/news/articleView.html?idxno=72013",
-   "t": "2026-11-18T08:50:00+09:00",
-   "by": "monthly.chosun.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "수젠텍, 독일 '메디카 2026'서 글로벌 파트너 전용 포털 공개",
-   "link": "https://www.newspim.com/news/view/20261118000156",
-   "t": "2026-11-18T08:48:00+09:00",
-   "by": "newspim.com",
-   "tags": [
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "농심, 무신사 스탠다드와 '새우깡' 55주년 기념 '커스텀 티셔츠' 선봬",
-   "link": "https://www.slist.kr/news/articleView.html?idxno=782695",
-   "t": "2026-11-18T08:48:00+09:00",
-   "by": "slist.kr",
-   "tags": [
-    "노트북·태블릿"
-   ]
-  },
-  {
-   "title": "[AI 대학교육 웹앱] 04 AI 학습용 챗봇",
-   "link": "https://www.kyosu.net/news/articleView.html?idxno=212496",
-   "t": "2026-11-18T08:48:00+09:00",
-   "by": "kyosu.net",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "국가안보실, ‘자바’ 취약점 확인에 민관군 긴급회의…PHP 이어 보안 취...",
-   "link": "https://www.donga.com/news/Politics/article/all/20261118/135043665/1",
-   "t": "2026-11-18T08:48:00+09:00",
-   "by": "donga.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "자바서 고위험 보안 취약점 발견…과기정통부·KISA, 긴급 점검 권고",
-   "link": "https://www.m-i.kr/news/articleView.html?idxno=2019908",
-   "t": "2026-11-18T08:48:00+09:00",
-   "by": "m-i.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "금융당국, 대형사 보안 점검 연 2회 확대",
-   "link": "https://news.dealsitetv.com/articles/178767",
-   "t": "2026-11-18T08:48:00+09:00",
-   "by": "dealsitetv.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "'자바'에서도 보안 취약점 발견…정부 \"보안 업데이트 권고\"",
-   "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261118010006793",
-   "t": "2026-11-18T08:48:00+09:00",
-   "by": "asiatoday.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "[AI 대학교육 웹앱] 03 디지털 플래시 카드 학습기",
-   "link": "https://www.kyosu.net/news/articleView.html?idxno=212495",
-   "t": "2026-11-18T08:48:00+09:00",
-   "by": "kyosu.net",
-   "tags": [
-    "PC·부품"
-   ]
-  },
-  {
-   "title": "엔비디아, AI 투자 '옥석 가리기'…\"실제 수요·자금력 따질 것\"",
-   "link": "http://www.inews24.com/view/2027437",
-   "t": "2026-11-18T08:48:00+09:00",
-   "by": "inews24.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "국가안보실, JAVA 취약점 확인 관련 민·관·군 긴급 대책회의",
-   "link": "https://news.jtbc.co.kr/article/NB12328603?influxDiv=NAVER",
-   "t": "2026-11-18T08:47:00+09:00",
-   "by": "jtbc.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "NH농협생명, 앱서 '돌잡이' 응모하면 상품권·커피 쿠폰",
-   "link": "https://www.joongangenews.com/news/articleView.html?idxno=564694",
-   "t": "2026-11-18T08:46:00+09:00",
-   "by": "joongangenews.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "美 IT 시스템 장애 엿새째…여야 의원들 \"행정부, 의회에 즉각 보고해야...",
-   "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=398793",
-   "t": "2026-11-18T08:46:00+09:00",
-   "by": "fntoday.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "美 국가안보국 내부 통신 망 일부 장애 …\"사이버 공격 아닌 정기 시스템...",
-   "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=398791",
-   "t": "2026-11-18T08:46:00+09:00",
-   "by": "fntoday.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "美 국가안보국 시스템 일시 장애 …\"정기 유지보수 중 성능 저하 발생\"",
-   "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=398792",
-   "t": "2026-11-18T08:46:00+09:00",
-   "by": "fntoday.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "美 국토안보장관 \"잇단 IT 서비스 장애 , AI 연쇄효과 가능성\"…당국 내 ...",
-   "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=398790",
-   "t": "2026-11-18T08:46:00+09:00",
-   "by": "fntoday.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "미래에셋생명, 신용 정보 1만418명 유출 …스트리미도 2009명",
-   "link": "https://www.joongangenews.com/news/articleView.html?idxno=564695",
-   "t": "2026-11-18T08:46:00+09:00",
-   "by": "joongangenews.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "자바서 치명적 원격 실행 취약점 발견…정부 \"즉시 보안 패치\"",
-   "link": "https://www.youthdaily.co.kr/news/article.html?no=229985",
-   "t": "2026-11-18T08:46:00+09:00",
-   "by": "youthdaily.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "엔비디아 또 깜짝실적… 이사회 \"젠슨 황 복귀는 없다\"",
-   "link": "https://news.bizwatch.co.kr/article/market/2026/11/18/0004",
-   "t": "2026-11-18T08:46:00+09:00",
-   "by": "bizwatch.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "美 상무부 \"메가스피드 AI 반도체 밀수 의혹, 2024년부터 조사\"…엔비디...",
-   "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=398802",
-   "t": "2026-11-18T08:46:00+09:00",
-   "by": "fntoday.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "샤오미 18 프로 맥스 써보니…\"후면 디스플레이서 게임 하나가 뚝딱\"",
-   "link": "https://www.mt.co.kr/tech/2026/11/18/2026111721595750309",
-   "t": "2026-11-18T08:45:00+09:00",
-   "by": "mt.co.kr",
-   "tags": [
-    "AI·앱",
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "정부, 자바 보안 취약점 관련 보안조치 당부",
-   "link": "https://www.ytn.co.kr/_ln/0105_202611180845085429",
-   "t": "2026-11-18T08:45:00+09:00",
-   "by": "ytn.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "케이스티파이, '심슨 가족' 한정판 폰케이스 출시",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=02036886645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-18T08:44:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "수능 D-1, AI 부정행위 비상…국가시험 보안체계 시험대",
-   "link": "https://www.g-enews.com/view.php?ud=2026111720453685977d9ce08d08_1",
-   "t": "2026-11-18T08:44:00+09:00",
-   "by": "g-enews.com",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "젠슨 황 복귀 의사 공식화…엔비디아 이사회는 거부",
-   "link": "https://www.asiatime.co.kr/article/20261118500025",
-   "t": "2026-11-18T08:44:00+09:00",
-   "by": "asiatime.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "구글플레이 올해의 앱·게임...네이버웹툰 ‘컷츠메이크’·넥슨 ‘메이...",
-   "link": "https://zdnet.co.kr/view/?no=20261118082430",
-   "t": "2026-11-18T08:43:00+09:00",
-   "by": "zdnet.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "거대한 세계관 '러스티 레이크'가 작은 게임 을 고집하는 이유",
-   "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=62400",
-   "t": "2026-11-18T08:42:00+09:00",
-   "by": "gamevu.co.kr",
-   "tags": [
-    "게임"
-   ]
-  },
-  {
-   "title": "정부, 수능 부정행위 적발용 재난문자 추가 '불시 발송' 검토",
-   "link": "https://www.yna.co.kr/view/AKR20261118032600530?input=1195m",
-   "t": "2026-11-18T08:42:00+09:00",
-   "by": "yna.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "미 국가안보국 기밀 정보 오가는 내부 통신 망도 ‘마비’…항공·금융 ...",
-   "link": "https://www.khan.co.kr/article/202611180842001",
-   "t": "2026-11-18T08:42:00+09:00",
-   "by": "khan.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "자바 실행환경서 보안 취약점 발견…정부, 긴급 점검 당부",
-   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716211",
-   "t": "2026-11-18T08:42:00+09:00",
-   "by": "digitaltoday.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "국가안보실, '자바' 취약점 확인에 민관군 긴급회의‥대책 수립",
-   "link": "https://imnews.imbc.com/news/2026/politics/article/6866525_36911.html",
-   "t": "2026-11-18T08:42:00+09:00",
-   "by": "imnews.imbc.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "불명예 퇴진 젠슨 황, 엔비디아 복귀 의사 공식화...이사회 의장 \"재선임...",
-   "link": "https://www.livebiz.today/news/articleView.html?idxno=206627",
-   "t": "2026-11-18T08:42:00+09:00",
-   "by": "livebiz.today",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "새우깡이 티셔츠로 변신…농심·무신사 손잡자 유통업계 패션 경쟁 불붙...",
-   "link": "https://www.segye.com/newsView/20261118503486?OutUrl=naver",
-   "t": "2026-11-18T08:41:00+09:00",
-   "by": "segye.com",
-   "tags": [
-    "노트북·태블릿"
-   ]
-  },
-  {
-   "title": "\"로그인 없이 악성코드 실행\"…자바 보안 결함에 정부 긴급 대응(종합)",
-   "link": "https://www.newsis.com/view/NISX20261118_0003872494",
-   "t": "2026-11-18T08:41:00+09:00",
-   "by": "newsis.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "\" AI 가 쇼핑하고 결제까지?\"…BC카드·피클, 차세대 ' AI 결제' 시장 선점...",
-   "link": "https://www.tournews21.com/news/articleView.html?idxno=148771",
-   "t": "2026-11-18T08:40:00+09:00",
-   "by": "tournews21.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "게임 업계, 서브컬처로 눈 돌린다…'팬덤 잡기' 경쟁 본격화",
-   "link": "http://www.srtimes.kr/news/articleView.html?idxno=217853",
-   "t": "2026-11-18T08:40:00+09:00",
-   "by": "srtimes.kr",
-   "tags": [
-    "게임"
-   ]
-  },
-  {
-   "title": "LG헬로비전, 헬로모바일서 외국인 전용 무제한 요금제 출시",
-   "link": "https://daily.hankooki.com/news/articleView.html?idxno=1426239",
-   "t": "2026-11-18T08:40:00+09:00",
-   "by": "daily.hankooki.com",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "차세대 콘솔 품은 AMD vs AI 생태계 쥔 엔비디아, 게이밍의 미래는?",
-   "link": "https://www.globale.co.kr/news/articleView.html?idxno=41714",
-   "t": "2026-11-18T08:40:00+09:00",
-   "by": "globale.co.kr",
-   "tags": [
-    "IT 업계",
-    "PC·부품"
-   ]
-  },
-  {
-   "title": "엔비디아 부품 조달 3900억달러… SK하이닉스·삼성전자 수혜 부각",
-   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505278",
-   "t": "2026-11-18T08:40:00+09:00",
-   "by": "pinpointnews.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "대기업들, AI 안경 정보유출 우려에 '비상'…반입 금지 등 강경 대응",
-   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505273",
-   "t": "2026-11-18T08:40:00+09:00",
-   "by": "pinpointnews.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "공공 정보시스템 71% 쓰는 '자바'서 치명적 보안 취약점…정부 긴급 점...",
-   "link": "https://www.kado.net/news/articleView.html?idxno=2085534",
-   "t": "2026-11-18T08:39:00+09:00",
-   "by": "kado.net",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "구글플레이 올해의 앱 '컷츠메이크'…게임은 '메이플 키우기'",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=02004086645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-18T08:38:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "NH농협카드, ‘디지털 서포터즈 4기’ 7개월 여정 마무리…고객 아이디...",
-   "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065569570493704",
-   "t": "2026-11-18T08:38:00+09:00",
-   "by": "megaeconomy.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "MS, '마이크로소프트 IQ' 공개…\"사내 데이터 이해하고 실제 업무 수행\"",
-   "link": "https://zdnet.co.kr/view/?no=20261118082628",
-   "t": "2026-11-18T08:37:00+09:00",
-   "by": "zdnet.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "MS, 이그나이트 2026서 AI 에이전트 중심 '프론티어 생태계' 공개",
-   "link": "https://zdnet.co.kr/view/?no=20261118083617",
-   "t": "2026-11-18T08:37:00+09:00",
-   "by": "zdnet.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "'우주 굴기' 중국, 목성 위성 칼리스토 착륙 나선다",
-   "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=173281",
-   "t": "2026-11-18T08:36:00+09:00",
-   "by": "choicenews.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "\"위기 닥친 드론 편대, AI가 스스로 살린다\"… 숭실대, 적대적 물리 위협...",
-   "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132707",
-   "t": "2026-11-18T08:36:00+09:00",
-   "by": "dailysmart.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "정태영 현대 카드 부회장, 카드 디자인을 브랜드 전략으로 확장",
-   "link": "https://www.g-enews.com/view.php?ud=202611180832584914e207547429_1",
-   "t": "2026-11-18T08:36:00+09:00",
-   "by": "g-enews.com",
-   "tags": [
-    "PC·부품"
-   ]
-  },
-  {
-   "title": "세일즈포스 9%↓, SW주 줄줄이 급락…美 잇단 전산마비에 '보안 공포'",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=01987686645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-18T08:35:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "세계 전력 반도체 전문가 400명 부산 집결…국내 기업 기술 경쟁력은?",
-   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505269",
-   "t": "2026-11-18T08:34:00+09:00",
-   "by": "pinpointnews.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "얼굴로 열리는데 결제는 안 된다… 애플 아이폰 듀오 '반쪽 인증'",
-   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3755305",
-   "t": "2026-11-18T08:32:00+09:00",
-   "by": "gukjenews.com",
-   "tags": [
-    "AI·앱",
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "오픈 AI , GPT-6.2 아스트라·솔 출시 …챗GPT 워크·코덱스에 적용",
-   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716218",
-   "t": "2026-11-18T08:30:00+09:00",
-   "by": "digitaltoday.co.kr",
-   "tags": [
-    "AI·앱",
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "[희귀질환의 무게] \"결국 끝은 자퇴였다\"···'건강 장애 ' 특수교육이 못...",
-   "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261272",
-   "t": "2026-11-18T08:30:00+09:00",
-   "by": "womaneconomy.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "‘손목 위 개인 골프 코치’ 직접 써본 가민 어프로치 S72 [사용기]",
-   "link": "https://www.dailian.co.kr/news/view/1716318/?sc=Naver",
-   "t": "2026-11-18T08:27:00+09:00",
-   "by": "dailian.co.kr",
-   "tags": [
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "“MS 다음엔 애플” 내부 업데이트 오류로 아이클라우드·애플페이 장애...",
-   "link": "https://biz.chosun.com/it-science/ict/2026/11/18/HUVKBREJZFD3RJGTIJHVXIKDDM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-   "t": "2026-11-18T08:27:00+09:00",
-   "by": "biz.chosun.com",
-   "tags": [
-    "AI·앱",
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "미래에셋생명 1만 418명·고팍스 2009명 개인 신용 정보 유출 …초기 발표...",
-   "link": "https://www.segye.com/newsView/20261118502836?OutUrl=naver",
-   "t": "2026-11-18T08:26:00+09:00",
-   "by": "segye.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "[박정식의 국내 주식시황] 엔비디아 '깜짝 실적'에 반도체 반등…코스피...",
-   "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=305264",
-   "t": "2026-11-18T08:24:00+09:00",
-   "by": "newsquest.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "22m 초대형 트리에 오로라 조명 쇼까지…홍콩 도심 전체가 '성탄 동화'로...",
-   "link": "http://www.bizwnews.com/news/articleView.html?idxno=152032",
-   "t": "2026-11-18T08:24:00+09:00",
-   "by": "bizwnews.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "'젠슨황 없는' 엔비디아 첫 실적 신기록…4분기 전망도 예상상회(종합)",
-   "link": "https://www.news1.kr/world/international-economy/6357459",
-   "t": "2026-11-18T08:23:00+09:00",
-   "by": "news1.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "PHP 이어 자바도 뚫리나...원격 악성코드 실행 취약점 발견",
-   "link": "https://www.m-economynews.com/news/article.html?no=73198",
-   "t": "2026-11-18T08:22:00+09:00",
-   "by": "m-economynews.com",
-   "tags": [
-    "AI·앱",
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "미래에셋생명, 개인정보 유출 1만명 넘어…피해 규모 커져",
-   "link": "https://www.cstimes.com/news/articleView.html?idxno=728285",
-   "t": "2026-11-18T08:22:00+09:00",
-   "by": "cstimes.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "젠슨 황 복귀, 본격 여론전으로…본인도 “CEO로 돌아가고 싶다”",
-   "link": "https://www.dt.co.kr/article/12095826?ref=naver",
-   "t": "2026-11-18T08:22:00+09:00",
-   "by": "dt.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "[더벨]JS PE, 500억 첨단전략산업 블라인드펀드 결성 완료 눈앞",
-   "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611160738430420105648",
-   "t": "2026-11-18T08:22:00+09:00",
-   "by": "thebell.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "미래에셋생명 해킹 피해 1만명 넘어…고팍스도 2000명 유출 뒤늦게 확인",
-   "link": "https://biz.heraldcorp.com/article/10940567?ref=naver",
-   "t": "2026-11-18T08:18:00+09:00",
-   "by": "biz.heraldcorp.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "[더벨][이슈 & 보드] 젠슨 황 떠났지만…엔비디아 이사회는 '황의 사람들...",
-   "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611131524103480104856",
-   "t": "2026-11-18T08:18:00+09:00",
-   "by": "thebell.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "공공 시스템 71% 쓰는데…자바도 심각한 취약점 발견, 정부 긴급 점검 권...",
-   "link": "https://www.mk.co.kr/article/12211978",
-   "t": "2026-11-18T08:17:00+09:00",
-   "by": "mk.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "[ 게임 3N 체질전환②] 엔씨, '탈(脫)리니지' 전략 통했다...모바일 캐주...",
-   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505000",
-   "t": "2026-11-18T08:16:00+09:00",
-   "by": "pinpointnews.co.kr",
-   "tags": [
-    "게임"
-   ]
-  },
-  {
-   "title": "[기획] LGU+, 무선 회선 늘고 가입자당 매출 반등",
-   "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=668255",
-   "t": "2026-11-18T08:16:00+09:00",
-   "by": "kfenews.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "[중국 특징주] '딥시크'도 공짜 시대 끝나나…연산력 부족에 무료 이용...",
-   "link": "https://www.newspim.com/news/view/20261118000079",
-   "t": "2026-11-18T08:12:00+09:00",
-   "by": "newspim.com",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "엔비디아 이사회 “젠슨 황 복귀 검토 안 해”… 차기 CEO 인선 착수",
-   "link": "https://biz.chosun.com/international/international_general/2026/11/18/52AZ6PGATVCU7HEQOFZYTLDDPE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-   "t": "2026-11-18T08:11:00+09:00",
-   "by": "biz.chosun.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "오라클, '자바4셸' 등 RCE 취약점 11건 긴급 패치... \"즉시 업데이트 필...",
-   "link": "https://www.boannews.com/news/articleView.html?idxno=147336",
-   "t": "2026-11-18T08:10:00+09:00",
-   "by": "boannews.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "엔비디아, 삼성전기와 기판 신규계약…내년 매출성장률 75%로 상향",
-   "link": "https://www.fnnews.com/news/202611180759184212",
-   "t": "2026-11-18T08:10:00+09:00",
-   "by": "fnnews.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "보스턴다이내믹스 '아틀라스', 반도체 팹 뚫었다…글로벌파운드리스 현...",
-   "link": "https://www.theguru.co.kr/news/article.html?no=109867",
-   "t": "2026-11-18T08:10:00+09:00",
-   "by": "theguru.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "[자바 취약점 비상] 오라클, '자바4셸' 등 RCE 취약점 11건 긴급 패치......",
-   "link": "https://www.boannews.com/news/articleView.html?idxno=147336",
-   "t": "2026-11-18T08:10:00+09:00",
-   "by": "boannews.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "[중국 전기차의 명암①]가격으로 문 열고 AS에서 시험대…\"살 때 싸고 팔...",
-   "link": "https://www.businessplus.kr/news/articleView.html?idxno=120037",
-   "t": "2026-11-18T08:08:00+09:00",
-   "by": "businessplus.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "금융권 보안 망, 주변부까지 넓힌다…IT자산 전수 관리 의무화",
-   "link": "http://www.joseilbo.com/news/news_read.php?uid=579868&class=18&grp=",
-   "t": "2026-11-18T08:08:00+09:00",
-   "by": "joseilbo.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "국가안보실, 자바 취약점 에 민관군 긴급회의…공동 대응 점검",
-   "link": "https://www.ajunews.com/view/20261118073845763",
-   "t": "2026-11-18T08:08:00+09:00",
-   "by": "ajunews.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "대형 금융사 보안 취약점 점검 연 2회로 확대 추진",
-   "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715770&ref=A",
-   "t": "2026-11-18T08:07:00+09:00",
-   "by": "kbs.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "'자바' 심각한 취약점 발견에…과기정통부, 긴급 점검· 보안 조치 당부",
-   "link": "https://www.newsis.com/view/NISX20261118_0003872413",
-   "t": "2026-11-18T08:07:00+09:00",
-   "by": "newsis.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "MS, 자체 칩 '코발트 200' 기반 VM 출시 …기존 대비 성능 최대 50% 향상",
-   "link": "https://zdnet.co.kr/view/?no=20261118080249",
-   "t": "2026-11-18T08:06:00+09:00",
-   "by": "zdnet.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "자바서 치명적 보안 취약점 …정부, 긴급 점검 권고",
-   "link": "https://it.chosun.com/news/articleView.html?idxno=3000000001265",
-   "t": "2026-11-18T08:06:00+09:00",
-   "by": "it.chosun.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "[분석] 젠슨 황 빠진 엔비디아 호실적… 반도체 주 반등 도화선되나",
-   "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=301581",
-   "t": "2026-11-18T08:06:00+09:00",
-   "by": "financialpost.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "웹젠, 2027년 출시 목표 신작 2종 CBT 참가자 19일부터 모집",
-   "link": "https://www.globale.co.kr/news/articleView.html?idxno=41710",
-   "t": "2026-11-18T08:04:00+09:00",
-   "by": "globale.co.kr",
-   "tags": [
-    "게임"
-   ]
-  },
-  {
-   "title": "한림대 연구행정시스템 해킹 …생년월일 등 개인정보 947건 유출",
-   "link": "https://www.kado.net/news/articleView.html?idxno=2085530",
-   "t": "2026-11-18T08:04:00+09:00",
-   "by": "kado.net",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "자바 보안 취약점 발견···정부, 기업·공공기관에 긴급 점검 요청",
-   "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2493845",
-   "t": "2026-11-18T08:04:00+09:00",
-   "by": "enewstoday.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "국가안보실, 자바 보안 취약점 사전 포착…민·관·군 긴급 대응",
-   "link": "https://www.kyeonggi.com/article/20261118580026",
-   "t": "2026-11-18T08:04:00+09:00",
-   "by": "kyeonggi.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "PHP 이어 자바도 뚫렸다…정부 \"OpenJDK 취약점 , 긴급 점검·업데이트하...",
-   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3755259",
-   "t": "2026-11-18T08:04:00+09:00",
-   "by": "gukjenews.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "[넥스트 K-브랜드 대상] [스마트폰 부문 ] 갤럭시 , 애플을 넘어서다…소...",
-   "link": "https://news.dealsitetv.com/articles/178722",
-   "t": "2026-11-18T08:02:00+09:00",
-   "by": "dealsitetv.com",
-   "tags": [
-    "AI·앱",
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "미래에셋생명 개인정보 유출 1만명 넘어…고팍스도 2000명 피해 확인",
-   "link": "https://www.ajunews.com/view/20261118075504772",
-   "t": "2026-11-18T08:02:00+09:00",
-   "by": "ajunews.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "'PHP' 이어 'JAVA'서도 치명적 취약점 …정부 \"긴급 보안 점검\"",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=01872886645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-18T08:02:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "[넥스트 K-브랜드 대상] [종합 ] 삼성전자, 대한민국 1등 브랜드로 ‘우...",
-   "link": "https://news.dealsitetv.com/articles/178719",
-   "t": "2026-11-18T08:02:00+09:00",
-   "by": "dealsitetv.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "[한화세미텍의 민낯] 호실적에도 매각설…TC 본더 성장세 '물음표'",
-   "link": "https://dealsite.co.kr/articles/172804",
-   "t": "2026-11-18T08:02:00+09:00",
-   "by": "dealsite.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "[넥스트 K-브랜드 대상] [인터넷 서비스 부문 ] 빅테크 공세에도 거뜬…...",
-   "link": "https://news.dealsitetv.com/articles/178658",
-   "t": "2026-11-18T08:02:00+09:00",
-   "by": "dealsitetv.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "아이폰 듀오 수급 안정됐나…국내서도 배송 빨라져[모닝폰]",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=01866326645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-18T08:01:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "\"운전자 마음까지 알아채네\"…30년 된 GM 온스타, ' AI 비서'로 진화",
-   "link": "https://www.hankyung.com/article/202611172630g",
-   "t": "2026-11-18T08:01:00+09:00",
-   "by": "hankyung.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "‘젠슨황 그녀’와 거래한다더니…딥시크, 칩 부족에 무료 서비스 첫 제...",
-   "link": "https://www.sedaily.com/article/20115509?ref=naver",
-   "t": "2026-11-18T08:01:00+09:00",
-   "by": "sedaily.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "LG헬로비전, 외국인 전용 알뜰폰 요금제 출시 …월 2만원대 데이터 무제...",
-   "link": "https://www.dailian.co.kr/news/view/1716394/?sc=Naver",
-   "t": "2026-11-18T08:01:00+09:00",
-   "by": "dailian.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "PHP 이어 ‘자바’서도 치명적 취약점 …정부 “신속 보안 조치” 당부",
-   "link": "https://www.joongang.co.kr/article/25479682",
-   "t": "2026-11-18T08:01:00+09:00",
-   "by": "joongang.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "\"인증 없이 원격 공격 가능\"…과기정통부, 자바 취약점 긴급 보안 조치 ...",
-   "link": "https://www.ddaily.co.kr/page/view/2026111807434545632",
-   "t": "2026-11-18T08:01:00+09:00",
-   "by": "ddaily.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "\"시크한 블랙에 빠지다\" 1000대 한정판, 르노 필랑트 누아르 에디션",
-   "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=602175",
-   "t": "2026-11-18T08:00:00+09:00",
-   "by": "autodaily.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "공공 정보시스템 71% 쓰는 자바, 치명적 보안 취약점…정부 긴급 점검 권...",
-   "link": "https://www.slist.kr/news/articleView.html?idxno=782638",
-   "t": "2026-11-18T08:00:00+09:00",
-   "by": "slist.kr",
-   "tags": [
-    "보안·개인정보",
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "[한국의 CISO-권력지도] SK, 정례보고 SKT뿐…하이닉스·이노 '보안위 공...",
-   "link": "https://www.bloter.net/news/articleView.html?idxno=678853",
-   "t": "2026-11-18T08:00:00+09:00",
-   "by": "bloter.net",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "\"자바포셸\" 치명적 취약점 확인…정부, 공공·기업 시스템 긴급 점검령",
-   "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=67955",
-   "t": "2026-11-18T08:00:00+09:00",
-   "by": "newsroad.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "[젠슨 황 머니게임 종료] ① 엔비디아 '순환 금융' 제동과 유동성 쇼크",
-   "link": "https://www.newspim.com/news/view/20261117000680",
-   "t": "2026-11-18T08:00:00+09:00",
-   "by": "newspim.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "[전국 주요 신문 톱뉴스](18일 조간)",
-   "link": "https://www.yna.co.kr/view/AKR20261118020800011?input=1195m",
-   "t": "2026-11-18T08:00:00+09:00",
-   "by": "yna.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "'155조 매출'에도 흔들···황 복귀론에 선 그은 엔비디아 이사회",
-   "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2493842",
-   "t": "2026-11-18T08:00:00+09:00",
-   "by": "enewstoday.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "엔비디아, 메모리 확보에 장기 계약 확대…삼성·SK하이닉스에 호재",
-   "link": "https://www.mt.co.kr/tech/2026/11/18/2026111807254685008",
-   "t": "2026-11-18T07:59:00+09:00",
-   "by": "mt.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "숭실대 연구팀, 적대적 위협 대응 군집 드론 AI 제어 기술 개발",
-   "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326387",
-   "t": "2026-11-18T07:58:00+09:00",
-   "by": "pointdaily.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "[패트롤] 김천시-상주시-문경시-성주군-고령군",
-   "link": "https://www.ekn.kr/web/view.php?key=20261118026521091",
-   "t": "2026-11-18T07:58:00+09:00",
-   "by": "ekn.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "금융위, 카드·보험·캐피탈 보안 점검 연 2회로…주변 시스템까지 확대",
-   "link": "http://sateconomy.co.kr/news/view/1065567430832414",
-   "t": "2026-11-18T07:58:00+09:00",
-   "by": "sateconomy.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "과기정통부, 자바 보안취약점 관련 긴급점검 권고",
-   "link": "https://www.dt.co.kr/article/12095823?ref=naver",
-   "t": "2026-11-18T07:58:00+09:00",
-   "by": "dt.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "리사 수 \" 반도체 호황, 사이클 아닌 세대적 변화...젠슨 황, 훌륭한 리더...",
-   "link": "https://www.mt.co.kr/tech/2026/11/18/2026111805593061165",
-   "t": "2026-11-18T07:58:00+09:00",
-   "by": "mt.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "인증 없이 다 뚫린다...PHP 이어 '자바'도 치명적 취약점",
-   "link": "https://www.mt.co.kr/tech/2026/11/18/2026111807380199068",
-   "t": "2026-11-18T07:57:00+09:00",
-   "by": "mt.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "美사이버안보 정보기관 NSA, 내부 통신 망 마비",
-   "link": "https://www.etoday.co.kr/news/view/2649504",
-   "t": "2026-11-18T07:56:00+09:00",
-   "by": "etoday.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "[긴급] PHP 이어 자바도 원격 해킹 위험…기업 서버, 실행환경까지 점검...",
-   "link": "https://www.dailysecu.com/news/articleView.html?idxno=209581",
-   "t": "2026-11-18T07:56:00+09:00",
-   "by": "dailysecu.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "美 NSA까지 기술 장애 …항공·금융·빅테크 잇단 차질에 불안 확산",
-   "link": "https://www.news1.kr/world/usa-canada/6357427",
-   "t": "2026-11-18T07:55:00+09:00",
-   "by": "news1.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "PHP 이어 자바도 고위험 취약점…정부 긴급 점검 권고(종합)",
-   "link": "https://www.yna.co.kr/view/AKR20261118014051017?input=1195m",
-   "t": "2026-11-18T07:55:00+09:00",
-   "by": "yna.co.kr",
-   "tags": [
-    "통신·요금",
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "엔비디아, 시간외 3%↑…블룸에너지 등 전력株 동반 상승",
-   "link": "https://www.edaily.co.kr/News/Read?newsId=01856486645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "t": "2026-11-18T07:55:00+09:00",
-   "by": "edaily.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "다크웹에 뜬 '프론티어' 고객 정보 … \"심 스와핑 노린 가상자산 해킹 주...",
-   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505242",
-   "t": "2026-11-18T07:54:00+09:00",
-   "by": "pinpointnews.co.kr",
-   "tags": [
-    "보안·개인정보"
    ]
   }
  ]

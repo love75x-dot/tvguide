@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-18T14:07:56.035500+09:00",
+ "generated": "2026-11-18T15:07:53.671362+09:00",
  "channels": [
   {
    "id": "kbs1",
    "name": "KBS1",
    "ok": true,
-   "updated": "2026-11-18T14:07:56.035500+09:00",
+   "updated": "2026-11-18T15:07:53.671362+09:00",
    "programs": [
     {
      "start": "2026-11-18T05:00:00+09:00",
@@ -1154,7 +1154,7 @@
    "id": "kbs2",
    "name": "KBS2",
    "ok": true,
-   "updated": "2026-11-18T14:07:56.035500+09:00",
+   "updated": "2026-11-18T15:07:53.671362+09:00",
    "programs": [
     {
      "start": "2026-11-18T05:00:00+09:00",
@@ -1918,7 +1918,7 @@
    "id": "mbc",
    "name": "MBC",
    "ok": true,
-   "updated": "2026-11-18T14:07:56.035500+09:00",
+   "updated": "2026-11-18T15:07:53.671362+09:00",
    "programs": [
     {
      "start": "2026-11-18T05:00:00+09:00",
@@ -2181,24 +2181,10 @@
     },
     {
      "start": "2026-11-19T13:55:00+09:00",
-     "end": "2026-11-19T15:55:00+09:00",
-     "title": "2시 뉴스 외전",
-     "genre": null,
-     "type": "생"
-    },
-    {
-     "start": "2026-11-19T15:55:00+09:00",
-     "end": "2026-11-19T16:55:00+09:00",
-     "title": "MBC 뉴스특보",
-     "genre": null,
-     "type": "생"
-    },
-    {
-     "start": "2026-11-19T16:55:00+09:00",
      "end": "2026-11-19T17:10:00+09:00",
-     "title": "출발! 비디오 여행 스페셜",
+     "title": "특집 2시 뉴스 외전",
      "genre": null,
-     "type": "본"
+     "type": "생"
     },
     {
      "start": "2026-11-19T17:10:00+09:00",
@@ -2710,7 +2696,7 @@
    "id": "sbs",
    "name": "SBS",
    "ok": true,
-   "updated": "2026-11-18T14:07:56.035500+09:00",
+   "updated": "2026-11-18T15:07:53.671362+09:00",
    "programs": [
     {
      "start": "2026-11-18T05:00:00+09:00",
@@ -3128,7 +3114,7 @@
     {
      "start": "2026-11-20T12:45:00+09:00",
      "end": "2026-11-20T13:00:00+09:00",
-     "title": "뽀롱뽀롱 뽀로로 시즌9",
+     "title": "호텔페니",
      "genre": null,
      "type": null
     },
@@ -3516,7 +3502,7 @@
    "id": "jtbc",
    "name": "JTBC",
    "ok": true,
-   "updated": "2026-11-18T14:07:56.035500+09:00",
+   "updated": "2026-11-18T15:07:53.671362+09:00",
    "programs": [
     {
      "start": "2026-11-18T00:00:00+09:00",
@@ -4266,7 +4252,7 @@
    "id": "tvchosun",
    "name": "TV조선",
    "ok": true,
-   "updated": "2026-11-18T14:07:56.035500+09:00",
+   "updated": "2026-11-18T15:07:53.671362+09:00",
    "programs": [
     {
      "start": "2026-11-18T00:10:00+09:00",
@@ -5148,7 +5134,8 @@
   {
    "id": "channela",
    "name": "채널A",
-   "ok": true,
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='ichannela.com', port=443): Max retries exceeded with url: /com/cmm/schedule.do?selectedDate=20261118 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ichannela.com', port=443) at 0x799f378cfce0>, 'Connection to ichannela.com timed out. (connect timeout=20)'))",
    "updated": "2026-11-18T14:07:56.035500+09:00",
    "programs": [
     {
@@ -6053,7 +6040,7 @@
    "id": "mbn",
    "name": "MBN",
    "ok": true,
-   "updated": "2026-11-18T14:07:56.035500+09:00",
+   "updated": "2026-11-18T15:07:53.671362+09:00",
    "programs": [
     {
      "start": "2026-11-18T02:50:00+09:00",
@@ -6887,7 +6874,7 @@
    "id": "tvn",
    "name": "tvN",
    "ok": true,
-   "updated": "2026-11-18T14:07:56.035500+09:00",
+   "updated": "2026-11-18T15:07:53.671362+09:00",
    "programs": [
     {
      "start": "2026-11-15T06:05:00+09:00",
@@ -7707,7 +7694,7 @@
    "id": "ena",
    "name": "ENA",
    "ok": true,
-   "updated": "2026-11-18T14:07:56.035500+09:00",
+   "updated": "2026-11-18T15:07:53.671362+09:00",
    "programs": [
     {
      "start": "2026-11-18T00:43:00+09:00",

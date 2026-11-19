@@ -109,7 +109,7 @@
     }
    ],
    "first": "00:08",
-   "last": "15:10",
+   "last": "16:10",
    "best": 1,
    "hours": [
     "00:08",
@@ -127,15 +127,16 @@
     "12:08",
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 5
+    "nate_pop": 8,
+    "nate_int": 9
    },
    "count": 14,
    "inrank": true
@@ -344,7 +345,7 @@
     }
    ],
    "first": "00:08",
-   "last": "15:10",
+   "last": "16:10",
    "best": 7,
    "hours": [
     "00:08",
@@ -357,14 +358,16 @@
     "07:10",
     "08:08",
     "09:10",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29
+    "nate_pop": 25,
+    "nate_int": 34
    },
    "count": 2,
    "inrank": true
@@ -400,7 +403,7 @@
     }
    ],
    "first": "00:08",
-   "last": "15:10",
+   "last": "16:10",
    "best": 4,
    "hours": [
     "00:08",
@@ -418,7 +421,8 @@
     "12:08",
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
@@ -693,7 +697,7 @@
     }
    ],
    "first": "00:08",
-   "last": "15:10",
+   "last": "16:10",
    "best": 3,
    "hours": [
     "00:08",
@@ -706,15 +710,15 @@
     "12:08",
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 28
+    "nate_int": 44
    },
    "count": 4,
    "inrank": true
@@ -785,7 +789,8 @@
     "얼마나 야하길래…박지윤·최동석 상간 판결에 등장한 '365일', 어떤 ...",
     "\"그냥 조용히 계셔라\"…박지윤, 최동석 승소에 울분 토로→누리꾼 반응...",
     "최동석, 박지윤 '성소수자 친구' 주장에 전면 반박 \"이성과 같은 호텔...",
-    "\"최동석, 딸에게 6천만원 줄 테니 엄마 설득해\"…박지윤의 작심 폭로 '진흙..."
+    "\"최동석, 딸에게 6천만원 줄 테니 엄마 설득해\"…박지윤의 작심 폭로 '진흙...",
+    "[공식] 최동석, '전처' 박지윤 해명에 '8장 입장문' 맞불…\"왜곡된 일방적 ..."
    ],
    "links": [
     "https://news.nate.com/view/20261118n37413",
@@ -804,7 +809,8 @@
     "https://news.nate.com/view/20261119n06126",
     "https://news.nate.com/view/20261119n12270",
     "https://news.nate.com/view/20261119n22050",
-    "https://news.nate.com/view/20261119n13663"
+    "https://news.nate.com/view/20261119n13663",
+    "https://news.nate.com/view/20261119n23031"
    ],
    "articles": [
     {
@@ -891,10 +897,15 @@
      "title": "\"최동석, 딸에게 6천만원 줄 테니 엄마 설득해\"…박지윤의 작심 폭로 '진흙...",
      "link": "https://news.nate.com/view/20261119n13663",
      "media": "마이데일리"
+    },
+    {
+     "title": "[공식] 최동석, '전처' 박지윤 해명에 '8장 입장문' 맞불…\"왜곡된 일방적 ...",
+     "link": "https://news.nate.com/view/20261119n23031",
+     "media": "엑스포츠뉴스"
     }
    ],
    "first": "00:08",
-   "last": "15:10",
+   "last": "16:10",
    "best": 1,
    "hours": [
     "00:08",
@@ -912,17 +923,18 @@
     "12:08",
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 6
+    "nate_pop": 7,
+    "nate_int": 8
    },
-   "count": 17,
+   "count": 18,
    "inrank": true
   },
   {
@@ -1043,11 +1055,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 48
-   },
+   "now": {},
    "count": 6,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c19",
@@ -1073,7 +1083,7 @@
     }
    ],
    "first": "00:08",
-   "last": "15:10",
+   "last": "16:10",
    "best": 8,
    "hours": [
     "00:08",
@@ -1082,14 +1092,15 @@
     "12:08",
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 29
+    "nate_int": 32
    },
    "count": 2,
    "inrank": true
@@ -1427,20 +1438,34 @@
    "id": "c28",
    "title": "'자격증 31개' 조민아, AI 부정행위 논란 속 재조명…빼곡한 공부 흔적 눈...",
    "titles": [
-    "'자격증 31개' 조민아, AI 부정행위 논란 속 재조명…빼곡한 공부 흔적 눈..."
+    "'자격증 31개' 조민아, AI 부정행위 논란 속 재조명…빼곡한 공부 흔적 눈...",
+    "'심정지' 이진우 유서 추정 메모, 끝까지 AI 부정행위 인정·사과 없었다",
+    "'리트 만점' 이진우 심정지 발견…미미미누, 출연 영상 비공개 전환 [전문]"
    ],
    "links": [
-    "https://news.nate.com/view/20261118n35447"
+    "https://news.nate.com/view/20261118n35447",
+    "https://news.nate.com/view/20261119n23581",
+    "https://news.nate.com/view/20261119n20576"
    ],
    "articles": [
     {
      "title": "'자격증 31개' 조민아, AI 부정행위 논란 속 재조명…빼곡한 공부 흔적 눈...",
      "link": "https://news.nate.com/view/20261118n35447",
      "media": "일간스포츠"
+    },
+    {
+     "title": "'심정지' 이진우 유서 추정 메모, 끝까지 AI 부정행위 인정·사과 없었다",
+     "link": "https://news.nate.com/view/20261119n23581",
+     "media": "스포츠조선"
+    },
+    {
+     "title": "'리트 만점' 이진우 심정지 발견…미미미누, 출연 영상 비공개 전환 [전문]",
+     "link": "https://news.nate.com/view/20261119n20576",
+     "media": "스타뉴스"
     }
    ],
    "first": "00:08",
-   "last": "15:10",
+   "last": "16:10",
    "best": 19,
    "hours": [
     "00:08",
@@ -1452,16 +1477,17 @@
     "06:20",
     "07:10",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 43
+    "nate_int": 45
    },
-   "count": 1,
+   "count": 3,
    "inrank": true
   },
   {
@@ -1746,7 +1772,7 @@
     }
    ],
    "first": "00:08",
-   "last": "15:10",
+   "last": "16:10",
    "best": 18,
    "hours": [
     "00:08",
@@ -1755,14 +1781,15 @@
     "12:08",
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 36
+    "nate_int": 38
    },
    "count": 2,
    "inrank": true
@@ -1993,11 +2020,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 25
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c45",
@@ -2720,11 +2745,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 37
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c66",
@@ -2921,7 +2944,7 @@
     }
    ],
    "first": "08:08",
-   "last": "15:10",
+   "last": "16:10",
    "best": 6,
    "hours": [
     "08:08",
@@ -2930,15 +2953,16 @@
     "11:08",
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 13
+    "nate_pop": 23,
+    "nate_int": 21
    },
    "count": 2,
    "inrank": true
@@ -2967,7 +2991,7 @@
     }
    ],
    "first": "08:08",
-   "last": "15:10",
+   "last": "16:10",
    "best": 16,
    "hours": [
     "08:08",
@@ -2977,14 +3001,15 @@
     "12:08",
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 38
+    "nate_int": 50
    },
    "count": 2,
    "inrank": true
@@ -3022,11 +3047,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c74",
@@ -3041,7 +3064,12 @@
     "[전문] 미미미누·백지연, '심정지 상태' 이진우 영상 내렸다…\"마음 무거...",
     "리트 만점자, 백지연에 비결 직접 공개…생중계 검증 앞두고 연락두절",
     "'리트 만점' 이진우 심정지 발견…미미미누, 출연 영상 비공개 전환 [전문]",
-    "미미미누, '리트 만점자' 이진우 영상 비공개 \"신뢰 잃어가\""
+    "미미미누, '리트 만점자' 이진우 영상 비공개 \"신뢰 잃어가\"",
+    "'리트만점' 이진우 사망⋯'궁금한 이야기Y' 측 \"피해자 연락 기...",
+    "[속보] '리트 만점자' 이진우, 결국 사망…\"심폐소생술 하기 늦었던 상...",
+    "김대범, '리트 만점' 故이진우 향한 안타까움…\"잘못한 게 있으면 처벌받으...",
+    "[속보] '리트 만점' 이진우, 끝내 사망 판정…부정행위 의혹 '공소권 없음'...",
+    "[속보]\"몸과 마음 지쳤다\"…'리트 만점' 이진우 심정지, 유서 추정 메모 나..."
    ],
    "links": [
     "https://news.nate.com/view/20261119n05932",
@@ -3053,7 +3081,12 @@
     "https://news.nate.com/view/20261119n20458",
     "https://news.nate.com/view/20261119n06858",
     "https://news.nate.com/view/20261119n20576",
-    "https://news.nate.com/view/20261119n20227"
+    "https://news.nate.com/view/20261119n20227",
+    "https://news.nate.com/view/20261119n24930",
+    "https://news.nate.com/view/20261119n25506",
+    "https://news.nate.com/view/20261119n23834",
+    "https://news.nate.com/view/20261119n25274",
+    "https://news.nate.com/view/20261119n22185"
    ],
    "articles": [
     {
@@ -3105,10 +3138,35 @@
      "title": "미미미누, '리트 만점자' 이진우 영상 비공개 \"신뢰 잃어가\"",
      "link": "https://news.nate.com/view/20261119n20227",
      "media": "티브이데일리"
+    },
+    {
+     "title": "'리트만점' 이진우 사망⋯'궁금한 이야기Y' 측 \"피해자 연락 기...",
+     "link": "https://news.nate.com/view/20261119n24930",
+     "media": "조이뉴스24"
+    },
+    {
+     "title": "[속보] '리트 만점자' 이진우, 결국 사망…\"심폐소생술 하기 늦었던 상...",
+     "link": "https://news.nate.com/view/20261119n25506",
+     "media": "스타뉴스"
+    },
+    {
+     "title": "김대범, '리트 만점' 故이진우 향한 안타까움…\"잘못한 게 있으면 처벌받으...",
+     "link": "https://news.nate.com/view/20261119n23834",
+     "media": "스포티비뉴스"
+    },
+    {
+     "title": "[속보] '리트 만점' 이진우, 끝내 사망 판정…부정행위 의혹 '공소권 없음'...",
+     "link": "https://news.nate.com/view/20261119n25274",
+     "media": "스포츠조선"
+    },
+    {
+     "title": "[속보]\"몸과 마음 지쳤다\"…'리트 만점' 이진우 심정지, 유서 추정 메모 나...",
+     "link": "https://news.nate.com/view/20261119n22185",
+     "media": "스포티비뉴스"
     }
    ],
    "first": "09:10",
-   "last": "15:10",
+   "last": "16:10",
    "best": 1,
    "hours": [
     "09:10",
@@ -3117,17 +3175,18 @@
     "12:08",
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
+    "nate_pop": 1,
     "nate_int": 1
    },
-   "count": 10,
+   "count": 15,
    "inrank": true
   },
   {
@@ -3162,11 +3221,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 40
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c76",
@@ -3185,7 +3242,7 @@
     }
    ],
    "first": "09:10",
-   "last": "15:10",
+   "last": "16:10",
    "best": 5,
    "hours": [
     "09:10",
@@ -3194,14 +3251,15 @@
     "12:08",
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 27
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -3265,7 +3323,7 @@
     }
    ],
    "first": "09:10",
-   "last": "15:10",
+   "last": "16:10",
    "best": 4,
    "hours": [
     "09:10",
@@ -3274,7 +3332,8 @@
     "12:08",
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_int",
@@ -3282,7 +3341,7 @@
    ],
    "now": {
     "nate_pop": 4,
-    "nate_int": 10
+    "nate_int": 5
    },
    "count": 2,
    "inrank": true
@@ -3352,22 +3411,23 @@
     }
    ],
    "first": "11:08",
-   "last": "15:10",
+   "last": "16:10",
    "best": 1,
    "hours": [
     "11:08",
     "12:08",
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 3
+    "nate_pop": 14,
+    "nate_int": 6
    },
    "count": 3,
    "inrank": true
@@ -3389,22 +3449,22 @@
     }
    ],
    "first": "11:08",
-   "last": "15:10",
+   "last": "16:10",
    "best": 4,
    "hours": [
     "11:08",
     "12:08",
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 23
+    "nate_int": 27
    },
    "count": 1,
    "inrank": true
@@ -3561,11 +3621,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 49
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c87",
@@ -3703,20 +3761,21 @@
     }
    ],
    "first": "13:11",
-   "last": "15:10",
+   "last": "16:10",
    "best": 3,
    "hours": [
     "13:11",
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 12
+    "nate_pop": 18,
+    "nate_int": 24
    },
    "count": 1,
    "inrank": true
@@ -3749,11 +3808,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 34
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c93",
@@ -3853,19 +3910,20 @@
     }
    ],
    "first": "14:11",
-   "last": "15:10",
+   "last": "16:10",
    "best": 1,
    "hours": [
     "14:11",
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 2
+    "nate_pop": 6,
+    "nate_int": 4
    },
    "count": 4,
    "inrank": true
@@ -3887,18 +3945,19 @@
     }
    ],
    "first": "15:10",
-   "last": "15:10",
-   "best": 13,
+   "last": "16:10",
+   "best": 11,
    "hours": [
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 32
+    "nate_pop": 11,
+    "nate_int": 13
    },
    "count": 1,
    "inrank": true
@@ -3920,18 +3979,19 @@
     }
    ],
    "first": "15:10",
-   "last": "15:10",
-   "best": 17,
+   "last": "16:10",
+   "best": 12,
    "hours": [
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 19
+    "nate_pop": 12,
+    "nate_int": 16
    },
    "count": 1,
    "inrank": true
@@ -3953,18 +4013,19 @@
     }
    ],
    "first": "15:10",
-   "last": "15:10",
+   "last": "16:10",
    "best": 20,
    "hours": [
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 20
+    "nate_pop": 27,
+    "nate_int": 33
    },
    "count": 1,
    "inrank": true
@@ -3986,18 +4047,18 @@
     }
    ],
    "first": "15:10",
-   "last": "15:10",
+   "last": "16:10",
    "best": 24,
    "hours": [
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 31
+    "nate_int": 41
    },
    "count": 1,
    "inrank": true
@@ -4019,18 +4080,18 @@
     }
    ],
    "first": "15:10",
-   "last": "15:10",
+   "last": "16:10",
    "best": 27,
    "hours": [
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 42
+    "nate_int": 48
    },
    "count": 1,
    "inrank": true
@@ -4052,16 +4113,19 @@
     }
    ],
    "first": "15:10",
-   "last": "15:10",
-   "best": 30,
+   "last": "16:10",
+   "best": 17,
    "hours": [
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 30
+    "nate_pop": 17,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -4083,16 +4147,116 @@
     }
    ],
    "first": "15:10",
-   "last": "15:10",
-   "best": 46,
+   "last": "16:10",
+   "best": 43,
    "hours": [
-    "15:10"
+    "15:10",
+    "16:10"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 46
+    "nate_int": 43
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c103",
+   "title": "[단독] 박하나♥김태술, 부모 된다…\"임신 3개월 차\"",
+   "titles": [
+    "[단독] 박하나♥김태술, 부모 된다…\"임신 3개월 차\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261119n25812"
+   ],
+   "articles": [
+    {
+     "title": "[단독] 박하나♥김태술, 부모 된다…\"임신 3개월 차\"",
+     "link": "https://news.nate.com/view/20261119n25812",
+     "media": "한국일보"
+    }
+   ],
+   "first": "16:10",
+   "last": "16:10",
+   "best": 3,
+   "hours": [
+    "16:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 3,
+    "nate_int": 7
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c104",
+   "title": "서인영, 14kg 뺐는데…결혼 앞두고 스트레스성 폭식→포동포동 \"많이 먹었...",
+   "titles": [
+    "서인영, 14kg 뺐는데…결혼 앞두고 스트레스성 폭식→포동포동 \"많이 먹었..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261119n22777"
+   ],
+   "articles": [
+    {
+     "title": "서인영, 14kg 뺐는데…결혼 앞두고 스트레스성 폭식→포동포동 \"많이 먹었...",
+     "link": "https://news.nate.com/view/20261119n22777",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "16:10",
+   "last": "16:10",
+   "best": 24,
+   "hours": [
+    "16:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 24,
+    "nate_int": 35
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c105",
+   "title": "'최진실 딸' 최준희, ♥11살 연상 남편 유지보수…코성형에 새치염색까지 \"...",
+   "titles": [
+    "'최진실 딸' 최준희, ♥11살 연상 남편 유지보수…코성형에 새치염색까지 \"..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261119n02328"
+   ],
+   "articles": [
+    {
+     "title": "'최진실 딸' 최준희, ♥11살 연상 남편 유지보수…코성형에 새치염색까지 \"...",
+     "link": "https://news.nate.com/view/20261119n02328",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "16:10",
+   "last": "16:10",
+   "best": 30,
+   "hours": [
+    "16:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 30,
+    "nate_int": 40
    },
    "count": 1,
    "inrank": true
@@ -4226,9 +4390,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "16:10",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-19T15:10:35.649783+09:00",
+ "updated": "2026-11-19T16:10:42.401198+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

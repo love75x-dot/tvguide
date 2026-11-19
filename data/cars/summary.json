@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-19T15:10:42.261330+09:00",
+ "updated": "2026-11-19T16:10:49.219241+09:00",
  "hot": [
   {
    "name": "X5",
-   "count": 11,
-   "prev": 2,
+   "count": 10,
+   "prev": 3,
    "rise": 40,
    "moto": false,
    "why": [
@@ -44,8 +44,16 @@
    ]
   },
   {
+   "name": "캐스퍼",
+   "count": 4,
+   "prev": 0,
+   "rise": 4,
+   "moto": false,
+   "why": []
+  },
+  {
    "name": "모델 Y",
-   "count": 3,
+   "count": 4,
    "prev": 0,
    "rise": -1,
    "moto": false,
@@ -53,7 +61,7 @@
   },
   {
    "name": "아반떼",
-   "count": 3,
+   "count": 4,
    "prev": 4,
    "rise": -7,
    "moto": false,
@@ -70,14 +78,6 @@
    "why": []
   },
   {
-   "name": "캐스퍼",
-   "count": 3,
-   "prev": 0,
-   "rise": 4,
-   "moto": false,
-   "why": []
-  },
-  {
    "name": "EV5",
    "count": 3,
    "prev": 1,
@@ -88,14 +88,12 @@
    ]
   },
   {
-   "name": "싼타페",
+   "name": "PV5",
    "count": 2,
    "prev": 0,
-   "rise": -14,
+   "rise": -4,
    "moto": false,
-   "why": [
-    "가격 인하"
-   ]
+   "why": []
   }
  ],
  "calendar": [
@@ -105,6 +103,14 @@
    "date": "2026-11-16",
    "title": "[ 신차 공개] 제네시스 ‘GV90 네오룬·GV90’ 출시 ·BMW ‘더 뉴 X5’ 사전...",
    "link": "https://it.donga.com/109933/",
+   "moto": false
+  },
+  {
+   "name": "디펜더",
+   "status": "tbd",
+   "date": null,
+   "title": "G바겐 잡을 랜드로버 미니 디펜더 내년 출시 , 오프로더 디자인 계승",
+   "link": "https://thedrive.co.kr/news/newsview.php?ncode=1065593369388666",
    "moto": false
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T06:22:44.351968+09:00",
+ "updated": "2026-11-20T07:10:52.716337+09:00",
  "car": [
   {
    "name": "1조 달러",
@@ -39,8 +39,14 @@
   },
   {
    "name": "수출",
-   "count": 45,
+   "count": 46,
    "items": [
+    {
+     "title": "[수출 1조달러 시대] 반도체 빼도 수출 20%↑⋯AI 투자 수요 늘었다",
+     "link": "http://www.inews24.com/view/2028372",
+     "t": "2026-11-20T07:01:00+09:00",
+     "by": "inews24.com"
+    },
     {
      "title": "[테크 차이나] 중국 수출 환급 축소가 가격을 바꾸는 경로",
      "link": "https://www.etnews.com/20261105000416",
@@ -64,12 +70,6 @@
      "link": "https://www.seoul.co.kr/news/economy/2026/11/19/20261119500342?wlog_tag3=naver",
      "t": "2026-11-19T22:56:00+09:00",
      "by": "seoul.co.kr"
-    },
-    {
-     "title": "일본도 못한 '수출 1조 달러' 달성…\"반도체 착시 경계해야\"",
-     "link": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990308.html",
-     "t": "2026-11-19T21:43:00+09:00",
-     "by": "tvchosun.com"
     }
    ]
   },
@@ -111,8 +111,20 @@
   },
   {
    "name": "자율주행",
-   "count": 26,
+   "count": 28,
    "items": [
+    {
+     "title": "\"야간 상권따라 달린다\"…청계천 누비는 자율주행 버스",
+     "link": "https://news.tvchosun.com/site/data/html_dir/2026/11/20/2026112090009.html",
+     "t": "2026-11-20T07:02:00+09:00",
+     "by": "tvchosun.com"
+    },
+    {
+     "title": "통신망도 ' 자율주행 ' 시대…정부, 6G NW AI 에이전트 개발 추진",
+     "link": "https://www.ddaily.co.kr/page/view/2026112002301345469",
+     "t": "2026-11-20T06:50:00+09:00",
+     "by": "ddaily.co.kr"
+    },
     {
      "title": "정일택 금호타이어 대표 \"자율주행 시대 타이어, 인증·표준 체계 갖춰...",
      "link": "https://www.fnnews.com/news/202611191909310712",
@@ -130,18 +142,6 @@
      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506094",
      "t": "2026-11-19T20:34:00+09:00",
      "by": "pinpointnews.co.kr"
-    },
-    {
-     "title": "정일택 금호타이어 사장 \" 자율주행 위험 감지하는 타이어 안전 시스템 ...",
-     "link": "https://www.newsway.co.kr/news/view?ud=2026111918422562947",
-     "t": "2026-11-19T20:06:00+09:00",
-     "by": "newsway.co.kr"
-    },
-    {
-     "title": "평택시, 미래모빌리티 포럼 개최…AI· 자율주행 기술 논의",
-     "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160294874524966",
-     "t": "2026-11-19T19:40:00+09:00",
-     "by": "siminilbo.co.kr"
     }
    ]
   },
@@ -182,38 +182,38 @@
    ]
   },
   {
-   "name": "인재",
+   "name": "전기차",
    "count": 21,
    "items": [
     {
-     "title": "구광모, '기술 인재' 중용 더 선명해졌다…AI·로봇 전문가 전진 배치",
-     "link": "https://www.apnews.kr/news/articleView.html?idxno=3053324",
-     "t": "2026-11-19T20:20:00+09:00",
-     "by": "apnews.kr"
+     "title": "2000만 원대 ‘트윙고’로 중국 전기차 공습에 맞서는 르노",
+     "link": "https://weekly.donga.com/3/all/11/6465358/1",
+     "t": "2026-11-20T07:02:00+09:00",
+     "by": "weekly.donga.com"
     },
     {
-     "title": "[인사] LG, R&D·AX 인재 전진 배치… 132명 승진·신규 임원 89명",
-     "link": "https://www.cnbizm.com/news/articleView.html?idxno=322070",
-     "t": "2026-11-19T20:18:00+09:00",
-     "by": "cnbizm.com"
+     "title": "국토부 \" 전기차 배터리만 따로 리스\"…자동차관리법 개정 속도",
+     "link": "https://www.fnnews.com/news/202611191909293736",
+     "t": "2026-11-20T06:30:00+09:00",
+     "by": "fnnews.com"
     },
     {
-     "title": "포항시, '포스텍 AI:Q'서 산학협력 통한 미래 AI 인재 양성 강조",
-     "link": "https://www.dkilbo.com/news/articleView.html?idxno=561519",
-     "t": "2026-11-19T20:16:00+09:00",
-     "by": "dkilbo.com"
+     "title": "中 전기차 ·배터리에 209조원 지원…日·유럽·美 자국 생산 우대, 韓은...",
+     "link": "https://www.news1.kr/industry/auto-industry/6360029",
+     "t": "2026-11-20T06:30:00+09:00",
+     "by": "news1.kr"
     },
     {
-     "title": "구광모, 기술 인재로 LG 미래 승부수",
-     "link": "http://www.00news.co.kr/news/articleView.html?idxno=108230",
-     "t": "2026-11-19T20:00:00+09:00",
-     "by": "00news.co.kr"
+     "title": "美·유럽 전기차, 관세 장벽이 본토는 지켜줬으나 해외 경쟁력은 中에 ...",
+     "link": "https://www.g-enews.com/view.php?ud=2026111923440781010c8c1c064d_1",
+     "t": "2026-11-20T06:06:00+09:00",
+     "by": "g-enews.com"
     },
     {
-     "title": "LG이노텍, 조지태 부사장 승진…R&D 인재 전진 배치",
-     "link": "https://www.fetv.co.kr/news/articleView.html?idxno=313997",
-     "t": "2026-11-19T18:30:00+09:00",
-     "by": "fetv.co.kr"
+     "title": "[논현광장-박지민의 중국이 바꾼 가격] 中 전기차 값 떠받치는 네 개의 ...",
+     "link": "https://www.etoday.co.kr/news/view/2650623",
+     "t": "2026-11-20T06:02:00+09:00",
+     "by": "etoday.co.kr"
     }
    ]
   }

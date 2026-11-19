@@ -967,8 +967,8 @@
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 7
+    "nate_pop": 9,
+    "nate_int": 10
    },
    "count": 6,
    "inrank": true
@@ -2669,7 +2669,7 @@
     "nate_int": 47
    },
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c67",
@@ -3321,10 +3321,106 @@
     }
    ],
    "first": "11:08",
-   "last": "11:08",
+   "last": "12:13",
    "best": 47,
    "hours": [
-    "11:08"
+    "11:08",
+    "12:13"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 50
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c85",
+   "title": "[단독] 이가섭, 6년 열애 비연예인과 결혼…12월5일 백년가약",
+   "titles": [
+    "[단독] 이가섭, 6년 열애 비연예인과 결혼…12월5일 백년가약"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261119n13713"
+   ],
+   "articles": [
+    {
+     "title": "[단독] 이가섭, 6년 열애 비연예인과 결혼…12월5일 백년가약",
+     "link": "https://news.nate.com/view/20261119n13713",
+     "media": "뉴스1"
+    }
+   ],
+   "first": "12:13",
+   "last": "12:13",
+   "best": 12,
+   "hours": [
+    "12:13"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 12,
+    "nate_int": 12
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c86",
+   "title": "\"딱! 마네킨이네\"…황제 홀린 '라스타' 이세영의 현실 비주얼",
+   "titles": [
+    "\"딱! 마네킨이네\"…황제 홀린 '라스타' 이세영의 현실 비주얼"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261119n00944"
+   ],
+   "articles": [
+    {
+     "title": "\"딱! 마네킨이네\"…황제 홀린 '라스타' 이세영의 현실 비주얼",
+     "link": "https://news.nate.com/view/20261119n00944",
+     "media": "마이데일리"
+    }
+   ],
+   "first": "12:13",
+   "last": "12:13",
+   "best": 40,
+   "hours": [
+    "12:13"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 40
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c87",
+   "title": "트와이스 나연, 자체발광 미모 [포토엔HD]",
+   "titles": [
+    "트와이스 나연, 자체발광 미모 [포토엔HD]"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261119n02802"
+   ],
+   "articles": [
+    {
+     "title": "트와이스 나연, 자체발광 미모 [포토엔HD]",
+     "link": "https://news.nate.com/view/20261119n02802",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "12:13",
+   "last": "12:13",
+   "best": 47,
+   "hours": [
+    "12:13"
    ],
    "srcs": [
     "nate_int"

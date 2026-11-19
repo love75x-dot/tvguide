@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:11:01.270980+09:00",
+ "updated": "2026-11-19T19:08:38.111013+09:00",
  "hot": [
   {
    "name": "아이오닉 5",
@@ -9,6 +9,17 @@
    "moto": false,
    "why": [
     "보조금"
+   ]
+  },
+  {
+   "name": "투싼",
+   "count": 5,
+   "prev": 3,
+   "rise": -8,
+   "moto": false,
+   "why": [
+    "가격 인하",
+    "판매 1위"
    ]
   },
   {
@@ -31,10 +42,10 @@
    "why": []
   },
   {
-   "name": "캐스퍼",
+   "name": "모델 Y",
    "count": 4,
    "prev": 0,
-   "rise": 4,
+   "rise": -1,
    "moto": false,
    "why": []
   },
@@ -49,29 +60,18 @@
    ]
   },
   {
-   "name": "투싼",
-   "count": 4,
-   "prev": 3,
-   "rise": -8,
-   "moto": false,
-   "why": [
-    "가격 인하",
-    "판매 1위"
-   ]
-  },
-  {
-   "name": "모델 Y",
-   "count": 3,
-   "prev": 0,
-   "rise": -1,
-   "moto": false,
-   "why": []
-  },
-  {
    "name": "트랙스",
    "count": 2,
    "prev": 0,
    "rise": -3,
+   "moto": false,
+   "why": []
+  },
+  {
+   "name": "캐스퍼",
+   "count": 2,
+   "prev": 2,
+   "rise": 4,
    "moto": false,
    "why": []
   },

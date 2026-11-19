@@ -109,7 +109,7 @@
     }
    ],
    "first": "00:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -134,15 +134,15 @@
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 23
+    "nate_int": 26
    },
    "count": 14,
    "inrank": true
@@ -937,7 +937,7 @@
     }
    ],
    "first": "00:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -962,15 +962,16 @@
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 13
+    "nate_pop": 13,
+    "nate_int": 12
    },
    "count": 20,
    "inrank": true
@@ -1106,11 +1107,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 49
-   },
+   "now": {},
    "count": 7,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c19",
@@ -1508,7 +1507,10 @@
     "\"이진우 때문에 대학 떨어졌다\"…직접 피해자 첫 등장",
     "故 이진우 비보 속 영상 내린 미미미누…\"형 잘못 절대 아니야\" 팬들 ...",
     "\"마음이 무겁다\" 백지연·미미미누, '리트 만점' 이진우 인터뷰 영상 비공...",
-    "김세정, 부정행위 논란 속 뼈있는 수능 응원 \"부정한 이들 인생에도 부정 ..."
+    "김세정, 부정행위 논란 속 뼈있는 수능 응원 \"부정한 이들 인생에도 부정 ...",
+    "\"제가 잘못했다\" 노형석 강사, 공개 검증 앞두고 사망한 '리트 만점' ...",
+    "김대범, 리트 만점자 심정지 소식에 안타까움 \"처벌을 받으면 될 것을…\"",
+    "리트 만점자 이진우 심정지, 미미미누→백지연 인터뷰 영상 일제히 비공개 ..."
    ],
    "links": [
     "https://news.nate.com/view/20261118n35447",
@@ -1528,7 +1530,10 @@
     "https://news.nate.com/view/20261119n29717",
     "https://news.nate.com/view/20261119n32096",
     "https://news.nate.com/view/20261119n34197",
-    "https://news.nate.com/view/20261119n27226"
+    "https://news.nate.com/view/20261119n27226",
+    "https://news.nate.com/view/20261119n40254",
+    "https://news.nate.com/view/20261119n33441",
+    "https://news.nate.com/view/20261119n33295"
    ],
    "articles": [
     {
@@ -1620,10 +1625,25 @@
      "title": "김세정, 부정행위 논란 속 뼈있는 수능 응원 \"부정한 이들 인생에도 부정 ...",
      "link": "https://news.nate.com/view/20261119n27226",
      "media": "뉴스엔"
+    },
+    {
+     "title": "\"제가 잘못했다\" 노형석 강사, 공개 검증 앞두고 사망한 '리트 만점' ...",
+     "link": "https://news.nate.com/view/20261119n40254",
+     "media": "TV리포트"
+    },
+    {
+     "title": "김대범, 리트 만점자 심정지 소식에 안타까움 \"처벌을 받으면 될 것을…\"",
+     "link": "https://news.nate.com/view/20261119n33441",
+     "media": "스포츠경향"
+    },
+    {
+     "title": "리트 만점자 이진우 심정지, 미미미누→백지연 인터뷰 영상 일제히 비공개 ...",
+     "link": "https://news.nate.com/view/20261119n33295",
+     "media": "스포츠투데이"
     }
    ],
    "first": "00:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -1642,7 +1662,8 @@
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_int",
@@ -1652,7 +1673,7 @@
     "nate_pop": 2,
     "nate_int": 2
    },
-   "count": 18,
+   "count": 21,
    "inrank": true
   },
   {
@@ -2133,7 +2154,7 @@
     }
    ],
    "first": "00:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 14,
    "hours": [
     "00:08",
@@ -2141,15 +2162,16 @@
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 19
+    "nate_pop": 19,
+    "nate_int": 24
    },
    "count": 2,
    "inrank": true
@@ -2616,20 +2638,27 @@
    "id": "c56",
    "title": "황보라, 둘째 임신 준비 중 충격 결과…\"살찌워야, 임신 확률 10%\"",
    "titles": [
-    "황보라, 둘째 임신 준비 중 충격 결과…\"살찌워야, 임신 확률 10%\""
+    "황보라, 둘째 임신 준비 중 충격 결과…\"살찌워야, 임신 확률 10%\"",
+    "56세 제갈성렬, '둘째 임신' 19세 연하 아내♥ 공개…\"부녀로 오해 받아\" (..."
    ],
    "links": [
-    "https://news.nate.com/view/20261119n00019"
+    "https://news.nate.com/view/20261119n00019",
+    "https://news.nate.com/view/20261119n39678"
    ],
    "articles": [
     {
      "title": "황보라, 둘째 임신 준비 중 충격 결과…\"살찌워야, 임신 확률 10%\"",
      "link": "https://news.nate.com/view/20261119n00019",
      "media": "헤럴드뮤즈"
+    },
+    {
+     "title": "56세 제갈성렬, '둘째 임신' 19세 연하 아내♥ 공개…\"부녀로 오해 받아\" (...",
+     "link": "https://news.nate.com/view/20261119n39678",
+     "media": "스포츠조선"
     }
    ],
    "first": "04:10",
-   "last": "11:08",
+   "last": "23:08",
    "best": 23,
    "hours": [
     "04:10",
@@ -2640,15 +2669,18 @@
     "08:08",
     "09:10",
     "10:08",
-    "11:08"
+    "11:08",
+    "23:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_int": 40
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c57",
@@ -2915,7 +2947,7 @@
     }
    ],
    "first": "07:10",
-   "last": "22:08",
+   "last": "23:08",
    "best": 1,
    "hours": [
     "07:10",
@@ -2927,14 +2959,15 @@
     "13:11",
     "14:11",
     "15:10",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 40
+    "nate_int": 47
    },
    "count": 2,
    "inrank": true
@@ -3414,20 +3447,27 @@
    "id": "c76",
    "title": "이준혁, '왕사남' 26억 인센티브 받았다…장항준 \"번 돈 나눈 것\"",
    "titles": [
-    "이준혁, '왕사남' 26억 인센티브 받았다…장항준 \"번 돈 나눈 것\""
+    "이준혁, '왕사남' 26억 인센티브 받았다…장항준 \"번 돈 나눈 것\"",
+    "장항준, '왕사남' 26억 인센티브 나눴더니 배우들도 난리 \"살면서 처음 받..."
    ],
    "links": [
-    "https://news.nate.com/view/20261119n04877"
+    "https://news.nate.com/view/20261119n04877",
+    "https://news.nate.com/view/20261119n39854"
    ],
    "articles": [
     {
      "title": "이준혁, '왕사남' 26억 인센티브 받았다…장항준 \"번 돈 나눈 것\"",
      "link": "https://news.nate.com/view/20261119n04877",
      "media": "마이데일리"
+    },
+    {
+     "title": "장항준, '왕사남' 26억 인센티브 나눴더니 배우들도 난리 \"살면서 처음 받...",
+     "link": "https://news.nate.com/view/20261119n39854",
+     "media": "뉴스엔"
     }
    ],
    "first": "09:10",
-   "last": "19:08",
+   "last": "23:08",
    "best": 5,
    "hours": [
     "09:10",
@@ -3440,15 +3480,19 @@
     "16:10",
     "17:10",
     "18:10",
-    "19:08"
+    "19:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 21,
+    "nate_int": 19
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c77",
@@ -3492,11 +3536,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 48
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c78",
@@ -3522,7 +3564,7 @@
     }
    ],
    "first": "09:10",
-   "last": "22:08",
+   "last": "23:08",
    "best": 4,
    "hours": [
     "09:10",
@@ -3538,15 +3580,15 @@
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 36
+    "nate_int": 42
    },
    "count": 2,
    "inrank": true
@@ -3616,7 +3658,7 @@
     }
    ],
    "first": "11:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 1,
    "hours": [
     "11:08",
@@ -3630,15 +3672,16 @@
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 11
+    "nate_pop": 22,
+    "nate_int": 10
    },
    "count": 3,
    "inrank": true
@@ -4103,14 +4146,16 @@
     "'심정지' 이진우, 유서 추정 메모 발견…\"몸과 마음 지쳐\"",
     "'심정지 상태' 이진우, 묵었던 모텔에 찢어진 수험표·로프 포장지 발...",
     "미미미누 측, 이진우 심정지 보도 나오기 직전 출연 영상 비공개 \"신뢰 잃...",
-    "이진우, 마지막은 '진짜 나'이길 원했나…8년전 수험표가 유품된 이유"
+    "이진우, 마지막은 '진짜 나'이길 원했나…8년전 수험표가 유품된 이유",
+    "이진우, 순두부찌개에 소주 한 병…실력 공개 검증 날 '마지막 행적'"
    ],
    "links": [
     "https://news.nate.com/view/20261119n19789",
     "https://news.nate.com/view/20261119n22180",
     "https://news.nate.com/view/20261119n20699",
     "https://news.nate.com/view/20261119n20464",
-    "https://news.nate.com/view/20261119n33923"
+    "https://news.nate.com/view/20261119n33923",
+    "https://news.nate.com/view/20261119n37516"
    ],
    "articles": [
     {
@@ -4137,10 +4182,15 @@
      "title": "이진우, 마지막은 '진짜 나'이길 원했나…8년전 수험표가 유품된 이유",
      "link": "https://news.nate.com/view/20261119n33923",
      "media": "스포츠조선"
+    },
+    {
+     "title": "이진우, 순두부찌개에 소주 한 병…실력 공개 검증 날 '마지막 행적'",
+     "link": "https://news.nate.com/view/20261119n37516",
+     "media": "스포츠조선"
     }
    ],
    "first": "14:11",
-   "last": "22:08",
+   "last": "23:08",
    "best": 1,
    "hours": [
     "14:11",
@@ -4149,17 +4199,18 @@
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 16
+    "nate_pop": 14,
+    "nate_int": 22
    },
-   "count": 5,
+   "count": 6,
    "inrank": true
   },
   {
@@ -4214,7 +4265,7 @@
     }
    ],
    "first": "15:10",
-   "last": "22:08",
+   "last": "23:08",
    "best": 9,
    "hours": [
     "15:10",
@@ -4224,15 +4275,16 @@
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 25
+    "nate_pop": 23,
+    "nate_int": 34
    },
    "count": 1,
    "inrank": true
@@ -4411,7 +4463,7 @@
     }
    ],
    "first": "16:10",
-   "last": "22:08",
+   "last": "23:08",
    "best": 3,
    "hours": [
     "16:10",
@@ -4420,14 +4472,15 @@
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 29
+    "nate_int": 28
    },
    "count": 1,
    "inrank": true
@@ -4449,7 +4502,7 @@
     }
    ],
    "first": "16:10",
-   "last": "22:08",
+   "last": "23:08",
    "best": 18,
    "hours": [
     "16:10",
@@ -4458,15 +4511,15 @@
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 35
+    "nate_int": 39
    },
    "count": 1,
    "inrank": true
@@ -4519,7 +4572,7 @@
     }
    ],
    "first": "17:10",
-   "last": "22:08",
+   "last": "23:08",
    "best": 1,
    "hours": [
     "17:10",
@@ -4527,7 +4580,8 @@
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
@@ -4535,7 +4589,7 @@
    ],
    "now": {
     "nate_pop": 10,
-    "nate_int": 10
+    "nate_int": 11
    },
    "count": 1,
    "inrank": true
@@ -4616,11 +4670,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 37
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c109",
@@ -4653,11 +4705,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 50
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c110",
@@ -4709,21 +4759,22 @@
     }
    ],
    "first": "18:10",
-   "last": "22:08",
+   "last": "23:08",
    "best": 13,
    "hours": [
     "18:10",
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 31
+    "nate_int": 49
    },
    "count": 1,
    "inrank": true
@@ -4774,21 +4825,22 @@
     }
    ],
    "first": "18:10",
-   "last": "22:08",
+   "last": "23:08",
    "best": 27,
    "hours": [
     "18:10",
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 34
+    "nate_int": 38
    },
    "count": 1,
    "inrank": true
@@ -4861,21 +4913,22 @@
     }
    ],
    "first": "19:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 3,
    "hours": [
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 6
+    "nate_pop": 11,
+    "nate_int": 13
    },
    "count": 4,
    "inrank": true
@@ -4897,21 +4950,22 @@
     }
    ],
    "first": "19:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 4,
    "hours": [
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 12
+    "nate_pop": 17,
+    "nate_int": 21
    },
    "count": 1,
    "inrank": true
@@ -4933,21 +4987,21 @@
     }
    ],
    "first": "19:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 7,
    "hours": [
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 22
+    "nate_int": 36
    },
    "count": 1,
    "inrank": true
@@ -4969,21 +5023,21 @@
     }
    ],
    "first": "19:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 11,
    "hours": [
     "19:08",
     "20:08",
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 26
+    "nate_int": 41
    },
    "count": 1,
    "inrank": true
@@ -5015,11 +5069,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 47
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c120",
@@ -5038,19 +5090,20 @@
     }
    ],
    "first": "21:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 3,
    "hours": [
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 5
+    "nate_pop": 3,
+    "nate_int": 3
    },
    "count": 1,
    "inrank": true
@@ -5072,19 +5125,19 @@
     }
    ],
    "first": "21:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 5,
    "hours": [
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 21
+    "nate_int": 43
    },
    "count": 1,
    "inrank": true
@@ -5106,19 +5159,20 @@
     }
    ],
    "first": "21:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 9,
    "hours": [
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 32
+    "nate_pop": 24,
+    "nate_int": 31
    },
    "count": 1,
    "inrank": true
@@ -5150,11 +5204,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c124",
@@ -5173,19 +5225,20 @@
     }
    ],
    "first": "21:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 7,
    "hours": [
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 8
+    "nate_pop": 15,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -5207,19 +5260,20 @@
     }
    ],
    "first": "21:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 22,
    "hours": [
     "21:08",
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 33
+    "nate_pop": 26,
+    "nate_int": 35
    },
    "count": 1,
    "inrank": true
@@ -5270,18 +5324,19 @@
     }
    ],
    "first": "22:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 1,
    "hours": [
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 1
+    "nate_pop": 7,
+    "nate_int": 6
    },
    "count": 1,
    "inrank": true
@@ -5303,18 +5358,19 @@
     }
    ],
    "first": "22:08",
-   "last": "22:08",
-   "best": 3,
+   "last": "23:08",
+   "best": 1,
    "hours": [
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 3
+    "nate_pop": 1,
+    "nate_int": 1
    },
    "count": 1,
    "inrank": true
@@ -5336,18 +5392,19 @@
     }
    ],
    "first": "22:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 5,
    "hours": [
-    "22:08"
+    "22:08",
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 9
+    "nate_pop": 6,
+    "nate_int": 5
    },
    "count": 1,
    "inrank": true
@@ -5369,10 +5426,76 @@
     }
    ],
    "first": "22:08",
-   "last": "22:08",
+   "last": "23:08",
    "best": 7,
    "hours": [
-    "22:08"
+    "22:08",
+    "23:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 32
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c131",
+   "title": "[TVis] 장나라 '굿파트너' 하차 남지현 안 잊었다…\"선물 항상 가지...",
+   "titles": [
+    "[TVis] 장나라 '굿파트너' 하차 남지현 안 잊었다…\"선물 항상 가지..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261119n39327"
+   ],
+   "articles": [
+    {
+     "title": "[TVis] 장나라 '굿파트너' 하차 남지현 안 잊었다…\"선물 항상 가지...",
+     "link": "https://news.nate.com/view/20261119n39327",
+     "media": "일간스포츠"
+    }
+   ],
+   "first": "23:08",
+   "last": "23:08",
+   "best": 4,
+   "hours": [
+    "23:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 5,
+    "nate_int": 4
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c132",
+   "title": "제갈성렬, ♥19살 연하 아내와 3년 전 재혼…\"지탄받아도 마땅한 나이 차\" ...",
+   "titles": [
+    "제갈성렬, ♥19살 연하 아내와 3년 전 재혼…\"지탄받아도 마땅한 나이 차\" ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261119n39620"
+   ],
+   "articles": [
+    {
+     "title": "제갈성렬, ♥19살 연하 아내와 3년 전 재혼…\"지탄받아도 마땅한 나이 차\" ...",
+     "link": "https://news.nate.com/view/20261119n39620",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "23:08",
+   "last": "23:08",
+   "best": 8,
+   "hours": [
+    "23:08"
    ],
    "srcs": [
     "nate_pop",
@@ -5380,7 +5503,164 @@
    ],
    "now": {
     "nate_pop": 8,
-    "nate_int": 7
+    "nate_int": 9
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c133",
+   "title": "서장훈, 층간소음에 예민…거실서 뛰노는 아이들에 층수 확인 후 \"다행\"(이...",
+   "titles": [
+    "서장훈, 층간소음에 예민…거실서 뛰노는 아이들에 층수 확인 후 \"다행\"(이..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261119n40274"
+   ],
+   "articles": [
+    {
+     "title": "서장훈, 층간소음에 예민…거실서 뛰노는 아이들에 층수 확인 후 \"다행\"(이...",
+     "link": "https://news.nate.com/view/20261119n40274",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "23:08",
+   "last": "23:08",
+   "best": 12,
+   "hours": [
+    "23:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 12,
+    "nate_int": 33
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c134",
+   "title": "[단독] 김민, 산불 번질라 직접 나섰다…신고·초동조치",
+   "titles": [
+    "[단독] 김민, 산불 번질라 직접 나섰다…신고·초동조치"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261119n40628"
+   ],
+   "articles": [
+    {
+     "title": "[단독] 김민, 산불 번질라 직접 나섰다…신고·초동조치",
+     "link": "https://news.nate.com/view/20261119n40628",
+     "media": "JTBC"
+    }
+   ],
+   "first": "23:08",
+   "last": "23:08",
+   "best": 20,
+   "hours": [
+    "23:08"
+   ],
+   "srcs": [
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 20
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c135",
+   "title": "하리수, 51세 안 믿기는 몸매…자기관리 대단해",
+   "titles": [
+    "하리수, 51세 안 믿기는 몸매…자기관리 대단해"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261119n39168"
+   ],
+   "articles": [
+    {
+     "title": "하리수, 51세 안 믿기는 몸매…자기관리 대단해",
+     "link": "https://news.nate.com/view/20261119n39168",
+     "media": "스포츠동아"
+    }
+   ],
+   "first": "23:08",
+   "last": "23:08",
+   "best": 44,
+   "hours": [
+    "23:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 44
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c136",
+   "title": "'도경완♥' 장윤정, 시아버지에 모발 이식 선물…\"인공심장박동기도 교체해...",
+   "titles": [
+    "'도경완♥' 장윤정, 시아버지에 모발 이식 선물…\"인공심장박동기도 교체해..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261119n39630"
+   ],
+   "articles": [
+    {
+     "title": "'도경완♥' 장윤정, 시아버지에 모발 이식 선물…\"인공심장박동기도 교체해...",
+     "link": "https://news.nate.com/view/20261119n39630",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "23:08",
+   "last": "23:08",
+   "best": 48,
+   "hours": [
+    "23:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 48
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c137",
+   "title": "\"子유골함 집에 두고 싶어\"…임진모, 32세에 떠난 子 납골당서 눈물 ('특종...",
+   "titles": [
+    "\"子유골함 집에 두고 싶어\"…임진모, 32세에 떠난 子 납골당서 눈물 ('특종..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261119n40337"
+   ],
+   "articles": [
+    {
+     "title": "\"子유골함 집에 두고 싶어\"…임진모, 32세에 떠난 子 납골당서 눈물 ('특종...",
+     "link": "https://news.nate.com/view/20261119n40337",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "23:08",
+   "last": "23:08",
+   "best": 50,
+   "hours": [
+    "23:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 50
    },
    "count": 1,
    "inrank": true
@@ -5570,9 +5850,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "23:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-19T22:08:28.323334+09:00",
+ "updated": "2026-11-19T23:08:32.696325+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

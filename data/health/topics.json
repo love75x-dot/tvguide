@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:10:54.110655+09:00",
+ "updated": "2026-11-20T20:08:44.986747+09:00",
  "topics": [
   {
    "name": "독감",
@@ -11,6 +11,18 @@
     "효능"
    ],
    "items": [
+    {
+     "title": "수능 끝 한파 속 독감 확산…수험생 건강관리 '주의보'",
+     "link": "http://www.yonhapnewstv.co.kr/news/MYH20261120195704QEo",
+     "t": "2026-11-20T20:00:00+09:00",
+     "by": "yonhapnewstv.co.kr"
+    },
+    {
+     "title": "독감 입원 급증…전주보다 사망도 배로 늘어",
+     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718643&ref=A",
+     "t": "2026-11-20T19:17:00+09:00",
+     "by": "kbs.co.kr"
+    },
     {
      "title": "해운대구 꿈드림, 학교 밖 청소년 독감 예방접종 지원",
      "link": "http://www.inews24.com/view/2028773",
@@ -28,25 +40,13 @@
      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148976201&call_from=naver_news",
      "t": "2026-11-20T17:32:00+09:00",
      "by": "korea.kr"
-    },
-    {
-     "title": "감기 아닌 독감 , '48시간'이 승부 가른다",
-     "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=99039",
-     "t": "2026-11-20T17:22:00+09:00",
-     "by": "kmedinfo.co.kr"
-    },
-    {
-     "title": "독감 입원 전주의 1.5배…고령층 3분의 2 차지",
-     "link": "https://www.sentv.co.kr/article/view/sentv202611200223",
-     "t": "2026-11-20T17:12:00+09:00",
-     "by": "sentv.co.kr"
     }
    ]
   },
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 46,
+   "count": 45,
    "angles": [
     "부작용",
     "효능",
@@ -291,10 +291,9 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 14,
+   "count": 13,
    "angles": [
-    "에 좋은",
-    "부작용"
+    "에 좋은"
    ],
    "items": [
     {
@@ -332,7 +331,7 @@
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 13,
+   "count": 12,
    "angles": [
     "부작용"
    ],
@@ -489,47 +488,6 @@
    ]
   },
   {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 9,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "전북 하수 속 독감 5배 급증…코로나도 비상",
-     "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720529",
-     "t": "2026-11-20T16:00:00+09:00",
-     "by": "newsfreezone.co.kr"
-    },
-    {
-     "title": "최신 코로나19 백신, 입원 위험 44% 감소…미국 재향군인 120만명 분석",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626188",
-     "t": "2026-11-19T14:44:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "모더나, 고위험 영유아·소아용 위해 코로나19 백신 공급",
-     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34055",
-     "t": "2026-11-18T16:38:00+09:00",
-     "by": "jhealthmedia.joins.com"
-    },
-    {
-     "title": "코로나19 백신 접종 후 어깨 손상, 독감 백신보다 발생 위험 63% 높아",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626006",
-     "t": "2026-11-18T15:28:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "구리시, 독감 ·코로나19 확산 방지…취약시설 대상 찾아가는 예방 교육...",
-     "link": "https://www.cstimes.com/news/articleView.html?idxno=728374",
-     "t": "2026-11-18T15:26:00+09:00",
-     "by": "cstimes.com"
-    }
-   ]
-  },
-  {
    "name": "고혈압",
    "kind": "질환·증상",
    "count": 8,
@@ -606,6 +564,47 @@
      "link": "https://www.kbsm.net/news/view.php?idx=542361",
      "t": "2026-11-18T14:56:00+09:00",
      "by": "kbsm.net"
+    }
+   ]
+  },
+  {
+   "name": "코로나",
+   "kind": "질환·증상",
+   "count": 8,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "전북 하수 속 독감 5배 급증…코로나도 비상",
+     "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720529",
+     "t": "2026-11-20T16:00:00+09:00",
+     "by": "newsfreezone.co.kr"
+    },
+    {
+     "title": "최신 코로나19 백신, 입원 위험 44% 감소…미국 재향군인 120만명 분석",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626188",
+     "t": "2026-11-19T14:44:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "모더나, 고위험 영유아·소아용 위해 코로나19 백신 공급",
+     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34055",
+     "t": "2026-11-18T16:38:00+09:00",
+     "by": "jhealthmedia.joins.com"
+    },
+    {
+     "title": "코로나19 백신 접종 후 어깨 손상, 독감 백신보다 발생 위험 63% 높아",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626006",
+     "t": "2026-11-18T15:28:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "구리시, 독감 ·코로나19 확산 방지…취약시설 대상 찾아가는 예방 교육...",
+     "link": "https://www.cstimes.com/news/articleView.html?idxno=728374",
+     "t": "2026-11-18T15:26:00+09:00",
+     "by": "cstimes.com"
     }
    ]
   },
@@ -1053,34 +1052,6 @@
    ]
   },
   {
-   "name": "김치",
-   "kind": "식품·제철",
-   "count": 3,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "“밤 사이 혈당 치솟을라”… 이민정, 대패삼겹살·김치 볶아 ‘야식 먹...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802675.html",
-     "t": "2026-11-18T21:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "[팩트체크] \"김치가 빵보다 설탕 많다?\"…섭취 빈도 착시와 발효의 과학",
-     "link": "https://www.farminsight.net/news/articleView.html?idxno=17227",
-     "t": "2026-11-18T13:46:00+09:00",
-     "by": "farminsight.net"
-    },
-    {
-     "title": "새해밀·익산장애인권익문제연구소, 장애인 300여 가구에 김치 전달",
-     "link": "https://www.thepowernews.co.kr/view.php?ud=2026111718381927843dfcd109a8_7",
-     "t": "2026-11-17T19:50:00+09:00",
-     "by": "thepowernews.co.kr"
-    }
-   ]
-  },
-  {
    "name": "대상포진",
    "kind": "질환·증상",
    "count": 3,
@@ -1135,6 +1106,34 @@
      "link": "https://www.wikitree.co.kr/articles/1175674",
      "t": "2026-11-18T17:10:00+09:00",
      "by": "wikitree.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "탈모",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "탈모 각오하고 비만 치료제 사용할까?…공복에 ‘이 음식’ 먹었더니, ...",
+     "link": "https://kormedi.com/?p=2909336",
+     "t": "2026-11-20T19:02:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "젊은 층·여성도 안심 못 하는 탈모…유형별 원인 파악·조기 치료 중요",
+     "link": "https://www.segye.com/newsView/20261118515421?OutUrl=naver",
+     "t": "2026-11-18T21:02:00+09:00",
+     "by": "segye.com"
+    },
+    {
+     "title": "\"탈모·성기능 효과\" 해외직구 이 제품들 성분 충격...환각버섯 젤리도",
+     "link": "https://www.mt.co.kr/policy/2026/11/18/2026111811034840969",
+     "t": "2026-11-18T14:01:00+09:00",
+     "by": "mt.co.kr"
     }
    ]
   }

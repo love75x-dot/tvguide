@@ -1,7 +1,847 @@
 {
  "date": "2026-11-20",
- "updated": "2026-11-20T10:08:27.365003+09:00",
+ "updated": "2026-11-20T11:10:53.557790+09:00",
  "articles": [
+  {
+   "title": "웍스컴바인, 자동차 전문 매체 '오토뉴스' 창간…AI·공공데이터 접목",
+   "link": "http://www.newscape.co.kr/news/articleView.html?idxno=125975",
+   "t": "2026-11-20T11:14:00+09:00",
+   "by": "newscape.co.kr",
+   "tags": [
+    "리콜·결함"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "호르무즈해협서 유조선 화재 …우크라, 러 정유시설 타격",
+   "link": "http://www.e2news.com/news/articleView.html?idxno=336309",
+   "t": "2026-11-20T11:12:00+09:00",
+   "by": "e2news.com",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "광주 도심서 SUV와 쾅, 오토바이 30대 운전자 숨져",
+   "link": "https://www.newsis.com/view/NISX20261120_0003876537",
+   "t": "2026-11-20T11:11:00+09:00",
+   "by": "newsis.com",
+   "tags": [
+    "오토바이"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": true
+  },
+  {
+   "title": "'SUV 다음은 세단' 제네시스의 승부수…G80 하이브리드 공개",
+   "link": "https://www.mt.co.kr/industry/2026/11/20/2026112009033343209",
+   "t": "2026-11-20T11:09:00+09:00",
+   "by": "mt.co.kr",
+   "tags": [
+    "신차",
+    "현대",
+    "제네시스",
+    "전기차",
+    "판매·순위"
+   ],
+   "cars": [
+    "G80"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "무디스가 찍었다… 삼성전자·SK하이닉스 2027년에도 AI 호황 이어지나",
+   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506274",
+   "t": "2026-11-20T11:08:00+09:00",
+   "by": "pinpointnews.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "무디스 \"내년 AI 반도체 수요 지속…데이터센터 투자로 삼성물산도 수혜...",
+   "link": "https://www.ajunews.com/view/20261120105901527",
+   "t": "2026-11-20T11:08:00+09:00",
+   "by": "ajunews.com",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "[FSD 온로드] 기술은 발전하는데 정부 움직임은 느리다",
+   "link": "https://www.bloter.net/news/articleView.html?idxno=679230",
+   "t": "2026-11-20T11:08:00+09:00",
+   "by": "bloter.net",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "긴트, 이탈리아 'EIMA 2026' 참가...농기계 자율주행 모듈 '플루바 아이...",
+   "link": "https://www.hinews.co.kr/view.php?ud=202611201102048339284fa285d_48",
+   "t": "2026-11-20T11:06:00+09:00",
+   "by": "hinews.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "임창휘 도의원, \"경기도 미래산업 혁신 위한 3대 전략 추진해야\"",
+   "link": "https://www.siminsori.com/news/articleView.html?idxno=402486",
+   "t": "2026-11-20T11:06:00+09:00",
+   "by": "siminsori.com",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "中 전기차 공세·전동화에 부품 일자리 10만개 감소 우려 … 45만 고용 '...",
+   "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/20/2026112050113.html",
+   "t": "2026-11-20T11:04:00+09:00",
+   "by": "biz.newdaily.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "무디스 \"내년 韓반도체 수출 호조 지속…삼성·하이닉스 경쟁력 강화\"",
+   "link": "https://www.jasm.co.kr/news/view/325948/?sc=Naver",
+   "t": "2026-11-20T11:04:00+09:00",
+   "by": "jasm.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "알톤, AI 로보틱스 스타트업 엑스업과 맞손…AI 로봇 생산 협력[로보 인...",
+   "link": "https://www.sedaily.com/article/20116864?ref=naver",
+   "t": "2026-11-20T11:03:00+09:00",
+   "by": "sedaily.com",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "미국 의회 중국산 자동차 판매 금지 '초당적 합의' 초읽기, BYD의 저가 공...",
+   "link": "https://www.businesspost.co.kr/BP?command=article_view&num=452496",
+   "t": "2026-11-20T11:02:00+09:00",
+   "by": "businesspost.co.kr",
+   "tags": [
+    "전기차",
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "계명문화대학교, 상하이서 AI 산업현장 벤치마킹...현지 대학과 5년 협력",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3758109",
+   "t": "2026-11-20T11:00:00+09:00",
+   "by": "gukjenews.com",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "\"도시철도, 기후위기 극복할 강력한 대안…부품표준화가 출발점\" [도시...",
+   "link": "https://www.redaily.co.kr/news/articleView.html?idxno=18261",
+   "t": "2026-11-20T11:00:00+09:00",
+   "by": "redaily.co.kr",
+   "tags": [
+    "리콜·결함"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차, 신형 아반떼 북미 공개…하이브리드 강화하고 AI 더했다",
+   "link": "http://www.joseilbo.com/news/news_read.php?uid=580089&class=17&grp=",
+   "t": "2026-11-20T10:57:00+09:00",
+   "by": "joseilbo.com",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [
+    "아반떼"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "무디스 \"내년 한국 반도체 수출 호조 지속\"",
+   "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=5&item=&no=102341",
+   "t": "2026-11-20T10:56:00+09:00",
+   "by": "weeklytrade.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "中 자율주행 기업 포니.ai, 3분기 매출 75% 증가⋯로보택시 2768대 확보",
+   "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=602275",
+   "t": "2026-11-20T10:56:00+09:00",
+   "by": "autodaily.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "머스크 “운전대 없는 7인승 모델Y”…테슬라, ‘차 파는 회사’ 접나",
+   "link": "https://www.khan.co.kr/article/202611201055001",
+   "t": "2026-11-20T10:55:00+09:00",
+   "by": "khan.co.kr",
+   "tags": [
+    "현대",
+    "기아",
+    "수입차",
+    "업계 이슈"
+   ],
+   "cars": [
+    "모델 Y"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "계명문화대, 중국 상해동해직업기술학원과 ‘AI 직업교육’ 협약",
+   "link": "https://www.joongang.co.kr/article/25480418",
+   "t": "2026-11-20T10:55:00+09:00",
+   "by": "joongang.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "무뇨스 현대차 사장 \"디 올 뉴 아반떼, 실용성에 디자인·기술·편의성 ...",
+   "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=302143",
+   "t": "2026-11-20T10:54:00+09:00",
+   "by": "financialpost.co.kr",
+   "tags": [
+    "신차",
+    "업계 이슈"
+   ],
+   "cars": [
+    "아반떼"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차그룹의 북미 공략 새 해법 \"대중 세단은 AI, 럭셔리는 하이브리드...",
+   "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=147297",
+   "t": "2026-11-20T10:52:00+09:00",
+   "by": "opinionnews.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차·제네시스, 美 LA오토쇼 참가 '아반떼·G80 하이브리드' 출격",
+   "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268989",
+   "t": "2026-11-20T10:48:00+09:00",
+   "by": "whitepaper.co.kr",
+   "tags": [
+    "신차",
+    "업계 이슈"
+   ],
+   "cars": [
+    "아반떼",
+    "G80"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "네이버페이, 오프라인 결제부터 기업복지까지 플랫폼 확장",
+   "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=315812",
+   "t": "2026-11-20T10:46:00+09:00",
+   "by": "straightnews.co.kr",
+   "tags": [
+    "기아"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "전동식 조향장치 국산화 주역…HL만도 배홍용 수석부사장, 한국자동차공...",
+   "link": "https://www.widedaily.com/news/articleView.html?idxno=304261",
+   "t": "2026-11-20T10:44:00+09:00",
+   "by": "widedaily.com",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "무디스 \"내년 韓반도체 수출 호조 지속…건설업도 AI투자 수혜\"",
+   "link": "https://www.yna.co.kr/view/AKR20261120066600008?input=1195m",
+   "t": "2026-11-20T10:43:00+09:00",
+   "by": "yna.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "GEO·MCP 접목 자동차 전문매체 '오토뉴스' 창간 ... \"AI 뉴스 서비스 시...",
+   "link": "https://www.the-stock.kr/news/articleView.html?idxno=33880",
+   "t": "2026-11-20T10:40:00+09:00",
+   "by": "the-stock.kr",
+   "tags": [
+    "신차",
+    "전기차",
+    "업계 이슈",
+    "리콜·결함"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "귀가 전 냉난방 가동하고 복도엔 순찰로봇…대형 건설사 'AI 아파트' 대...",
+   "link": "https://www.widedaily.com/news/articleView.html?idxno=304255",
+   "t": "2026-11-20T10:40:00+09:00",
+   "by": "widedaily.com",
+   "tags": [
+    "현대"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "[민주 유통가] 코웨이·SK인텔릭스·한샘",
+   "link": "http://www.iminju.net/news/articleView.html?idxno=172802",
+   "t": "2026-11-20T10:40:00+09:00",
+   "by": "iminju.net",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "HL만도 배홍용 수석부사장, EPS 국산화로 한국자동차공학회 '기술상' 받...",
+   "link": "https://www.newsis.com/view/NISX20261120_0003876391",
+   "t": "2026-11-20T10:39:00+09:00",
+   "by": "newsis.com",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "제네시스 , G80 하이브리드 세계 최초 공개…출력 352마력·연비 14.1km/ℓ",
+   "link": "http://www.press9.kr/news/articleView.html?idxno=86750",
+   "t": "2026-11-20T10:38:00+09:00",
+   "by": "press9.kr",
+   "tags": [
+    "제네시스"
+   ],
+   "cars": [
+    "G80"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "아이엠로보틱스, 실내외 경계 허무는 아이소나 AMR 기술로 제조 자동화...",
+   "link": "http://robotzine.co.kr/entry/279471",
+   "t": "2026-11-20T10:38:00+09:00",
+   "by": "robotzine.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "영토·인구·에너지 3대 약점에도 ‘수출 1조 달러’ 위업 달성",
+   "link": "https://www.munhwa.com/article/11632805?ref=naver",
+   "t": "2026-11-20T10:38:00+09:00",
+   "by": "munhwa.com",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "HL만도 배홍용 수석부사장, 한국자동차공학회 ‘기술상’",
+   "link": "https://www.sedaily.com/article/20116849?ref=naver",
+   "t": "2026-11-20T10:37:00+09:00",
+   "by": "sedaily.com",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차, LA 오토쇼서 '디 올 뉴 아반떼' 공개 ...하이브리드 연비 22.5km/ℓ",
+   "link": "https://www.joongangenews.com/news/articleView.html?idxno=565338",
+   "t": "2026-11-20T10:36:00+09:00",
+   "by": "joongangenews.com",
+   "tags": [
+    "신차",
+    "현대",
+    "업계 이슈"
+   ],
+   "cars": [
+    "아반떼"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차, 2026 LA오토쇼서 '디 올 뉴 아반떼' 첫 공개 …차세대 플랫폼 적...",
+   "link": "http://www.srtimes.kr/news/articleView.html?idxno=218185",
+   "t": "2026-11-20T10:36:00+09:00",
+   "by": "srtimes.kr",
+   "tags": [
+    "신차",
+    "업계 이슈"
+   ],
+   "cars": [
+    "아반떼"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차, LA오토쇼서 신형 아반떼 공개 …하이브리드·AI 기술 강화",
+   "link": "https://www.thebigdata.co.kr/view.php?ud=202611201018133560ecbf9426b_23",
+   "t": "2026-11-20T10:36:00+09:00",
+   "by": "thebigdata.co.kr",
+   "tags": [
+    "신차",
+    "업계 이슈"
+   ],
+   "cars": [
+    "아반떼"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "은행잎에 미끄러진 오토바이 …충주시 민원 대응 '떠넘기기' 논란",
+   "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240642",
+   "t": "2026-11-20T10:36:00+09:00",
+   "by": "cctoday.co.kr",
+   "tags": [
+    "오토바이"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": true
+  },
+  {
+   "title": "제주 학생들이 만든 AI ·로봇은 어떤 모습?",
+   "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=402568",
+   "t": "2026-11-20T10:36:00+09:00",
+   "by": "jejudomin.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "AI 자동차 전문 미디어 ‘오토뉴스’ 창간…공공데이터·AI 정보 서비스...",
+   "link": "https://theviewers.co.kr/View.aspx?No=4321695",
+   "t": "2026-11-20T10:34:00+09:00",
+   "by": "theviewers.co.kr",
+   "tags": [
+    "신차",
+    "수입차",
+    "전기차",
+    "업계 이슈",
+    "리콜·결함"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차·제네시스, LA오토쇼서 '아반떼·G80 하이브리드' 선봬",
+   "link": "http://www.inews24.com/view/2028524",
+   "t": "2026-11-20T10:34:00+09:00",
+   "by": "inews24.com",
+   "tags": [
+    "신차",
+    "현대",
+    "제네시스",
+    "업계 이슈"
+   ],
+   "cars": [
+    "아반떼",
+    "G80"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "배홍용 HL만도 수석부사장, 한국자동차공학회 기술상 수상",
+   "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=108111",
+   "t": "2026-11-20T10:34:00+09:00",
+   "by": "womentimes.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "車만 사정권 아니다… ‘머스크 야심작’ 사이버캡에 배터리 업계가 긴...",
+   "link": "https://biz.chosun.com/industry/company/2026/11/20/KEJ7VKYYONAQLH6DGZWLPOKUIQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "t": "2026-11-20T10:32:00+09:00",
+   "by": "biz.chosun.com",
+   "tags": [
+    "수입차"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "팔레트 찾고 엘리베이터 타는 로봇…삼성물산 'AI 네이티브 건설사' 속...",
+   "link": "https://www.news1.kr/realestate/general/6360646",
+   "t": "2026-11-20T10:32:00+09:00",
+   "by": "news1.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "벤틀리모터스, 후지와라 히로시와 협업 ‘토르칼 FRGMT 커미션’ 공개",
+   "link": "http://autotimes.co.kr/detail.php?number=690060&thread=27",
+   "t": "2026-11-20T10:32:00+09:00",
+   "by": "autotimes.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "LG이노텍, 조지태 부사장·이동훈 전무 승진…상무 7명 선임",
+   "link": "http://www.efnews.co.kr/news/articleView.html?idxno=134152",
+   "t": "2026-11-20T10:32:00+09:00",
+   "by": "efnews.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "LG이노텍, 내년도 '반도체 기판·피지컬 AI' 역점…조지태 부사장 승진",
+   "link": "https://www.newsian.co.kr/news/articleView.html?idxno=101614",
+   "t": "2026-11-20T10:32:00+09:00",
+   "by": "newsian.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차, LA오토쇼서 '디 올 뉴 아반떼' 공개 …콤팩트 세단 새 기준 겨냥",
+   "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=68123",
+   "t": "2026-11-20T10:30:00+09:00",
+   "by": "newsroad.co.kr",
+   "tags": [
+    "신차"
+   ],
+   "cars": [
+    "아반떼"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "[산업계 동향] 현대자동차·삼표·동국제강그룹",
+   "link": "http://www.iminju.net/news/articleView.html?idxno=172797",
+   "t": "2026-11-20T10:30:00+09:00",
+   "by": "iminju.net",
+   "tags": [
+    "현대"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차, 2026 LA오토쇼서 신형 '디 올 뉴 아반떼' 공개",
+   "link": "https://www.businessplus.kr/news/articleView.html?idxno=120193",
+   "t": "2026-11-20T10:28:00+09:00",
+   "by": "businessplus.kr",
+   "tags": [
+    "신차",
+    "현대"
+   ],
+   "cars": [
+    "아반떼"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "\"BYD 다음은 우리\"…체리·샤오펑·샤오미까지 '中 전기차' 줄줄이 韓 노...",
+   "link": "https://news.tf.co.kr/read/economy/2391327.htm",
+   "t": "2026-11-20T10:27:00+09:00",
+   "by": "tf.co.kr",
+   "tags": [
+    "수입차"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "웍스컴바인, 자동차 전문매체 ‘오토뉴스’ 창간…AI·공공데이터 결합",
+   "link": "http://www.thevaluenews.co.kr/news/view.php?idx=203487",
+   "t": "2026-11-20T10:24:00+09:00",
+   "by": "thevaluenews.co.kr",
+   "tags": [
+    "신차",
+    "수입차",
+    "전기차",
+    "리콜·결함"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차, LA 오토쇼서 '디 올 뉴 아반떼' 공개 … 차체 키우고 AI 기술 탑...",
+   "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/20/2026112050092.html",
+   "t": "2026-11-20T10:24:00+09:00",
+   "by": "biz.newdaily.co.kr",
+   "tags": [
+    "신차"
+   ],
+   "cars": [
+    "아반떼"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "싸다고 무턱대고 샀다가 낭패…중국산이 유럽 집어삼켰다",
+   "link": "https://www.hankyung.com/article/202611209467i",
+   "t": "2026-11-20T10:22:00+09:00",
+   "by": "hankyung.com",
+   "tags": [
+    "전기차"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "“스트리트웨어 아이콘과 맞손”…벤틀리, 후지와라 히로시와 ‘토르칼...",
+   "link": "https://www.mk.co.kr/article/12214358",
+   "t": "2026-11-20T10:21:00+09:00",
+   "by": "mk.co.kr",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차, 8세대 신형 아반떼 공개 …차체 키우고 하이브리드·AI 강화",
+   "link": "http://www.4th.kr/news/articleView.html?idxno=2122299",
+   "t": "2026-11-20T10:20:00+09:00",
+   "by": "4th.kr",
+   "tags": [
+    "신차",
+    "현대",
+    "판매·순위"
+   ],
+   "cars": [
+    "아반떼"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차 8세대 아반떼, LA오토쇼서 북미 데뷔",
+   "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903781",
+   "t": "2026-11-20T10:18:00+09:00",
+   "by": "newsworks.co.kr",
+   "tags": [
+    "현대"
+   ],
+   "cars": [
+    "아반떼"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "제네시스, LA 오토쇼서 G80 하이브리드 최초 공개... 북미 고급 하이브리...",
+   "link": "https://www.chosun.com/economy/industry-company/2026/11/20/DESJLW7PAJHYZEWBJMUWCZCCQY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "t": "2026-11-20T10:15:00+09:00",
+   "by": "chosun.com",
+   "tags": [
+    "기아"
+   ],
+   "cars": [
+    "G80"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "벤틀리 첫 전기차에 ‘스트리트 패션’ 입혔다…전 세계 20대 한정",
+   "link": "https://biz.heraldcorp.com/article/10943708?ref=naver",
+   "t": "2026-11-20T10:14:00+09:00",
+   "by": "biz.heraldcorp.com",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "미 의회, 중국산 자동차 시장진입 차단한다...초당적 합의에 근접",
+   "link": "https://www.newspim.com/news/view/20261120000366",
+   "t": "2026-11-20T10:13:00+09:00",
+   "by": "newspim.com",
+   "tags": [
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차, 2026 LA오토쇼서 신형 아반떼 등장",
+   "link": "http://autotimes.co.kr/detail.php?number=690057&thread=27",
+   "t": "2026-11-20T10:12:00+09:00",
+   "by": "autotimes.co.kr",
+   "tags": [
+    "신차"
+   ],
+   "cars": [
+    "아반떼"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차, '디 올 뉴 아반떼' LA오토쇼서 공개 … 중형급 공간·AI 비서 탑재",
+   "link": "https://www.cnbizm.com/news/articleView.html?idxno=322118",
+   "t": "2026-11-20T10:10:00+09:00",
+   "by": "cnbizm.com",
+   "tags": [
+    "신차",
+    "현대"
+   ],
+   "cars": [
+    "아반떼"
+   ],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "[핫이슈] EIU \" 현대차 , 美서 하이브리드 선회\"…2027년 메모리 매출 1조...",
+   "link": "https://www.the-today.com/news/articleView.html?idxno=93856",
+   "t": "2026-11-20T10:10:00+09:00",
+   "by": "the-today.com",
+   "tags": [
+    "현대",
+    "전기차",
+    "업계 이슈"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
+  {
+   "title": "현대차 ·기아, LA 오토쇼서 미래 경쟁력 선보여… 디자인과 기술로 승부",
+   "link": "https://www.radiokorea.com/news/article.php?uid=510194",
+   "t": "2026-11-20T10:10:00+09:00",
+   "by": "radiokorea.com",
+   "tags": [
+    "현대",
+    "기아"
+   ],
+   "cars": [],
+   "flags": [],
+   "moto": false
+  },
   {
    "title": "현대 자동차 , 2026 LA오토쇼 참가…'디 올 뉴 아반떼' 공개",
    "link": "https://www.newsian.co.kr/news/articleView.html?idxno=101665",
@@ -9,9 +849,9 @@
    "by": "newsian.co.kr",
    "tags": [
     "신차",
-    "현대",
+    "업계 이슈",
     "전기차",
-    "업계 이슈"
+    "현대"
    ],
    "cars": [
     "아반떼"
@@ -99,8 +939,8 @@
    "t": "2026-11-20T10:05:00+09:00",
    "by": "newsis.com",
    "tags": [
-    "신차",
     "수입차",
+    "신차",
     "전기차"
    ],
    "cars": [],
@@ -114,8 +954,8 @@
    "by": "m-i.kr",
    "tags": [
     "신차",
-    "현대",
-    "전기차"
+    "전기차",
+    "현대"
    ],
    "cars": [
     "아반떼"
@@ -208,10 +1048,10 @@
    "by": "ddaily.co.kr",
    "tags": [
     "신차",
-    "현대",
-    "제네시스",
+    "업계 이슈",
     "전기차",
-    "업계 이슈"
+    "제네시스",
+    "현대"
    ],
    "cars": [
     "아반떼",
@@ -227,10 +1067,10 @@
    "by": "efnews.co.kr",
    "tags": [
     "신차",
-    "현대",
-    "제네시스",
+    "업계 이슈",
     "전기차",
-    "업계 이슈"
+    "제네시스",
+    "현대"
    ],
    "cars": [
     "아반떼",
@@ -245,10 +1085,10 @@
    "t": "2026-11-20T09:54:00+09:00",
    "by": "4th.kr",
    "tags": [
-    "현대",
-    "제네시스",
     "전기차",
-    "판매·순위"
+    "제네시스",
+    "판매·순위",
+    "현대"
    ],
    "cars": [
     "G80"
@@ -301,11 +1141,11 @@
    "t": "2026-11-20T09:52:00+09:00",
    "by": "ibabynews.com",
    "tags": [
-    "신차",
+    "리콜·결함",
     "수입차",
-    "전기차",
+    "신차",
     "업계 이슈",
-    "리콜·결함"
+    "전기차"
    ],
    "cars": [],
    "flags": [],
@@ -318,9 +1158,9 @@
    "by": "newsinside.kr",
    "tags": [
     "신차",
-    "현대",
+    "전기차",
     "제네시스",
-    "전기차"
+    "현대"
    ],
    "cars": [
     "G80"
@@ -361,8 +1201,8 @@
    "t": "2026-11-20T09:52:00+09:00",
    "by": "popcornnews.net",
    "tags": [
-    "제네시스",
-    "전기차"
+    "전기차",
+    "제네시스"
    ],
    "cars": [
     "G80"
@@ -430,9 +1270,9 @@
    "by": "worktoday.co.kr",
    "tags": [
     "신차",
-    "현대",
+    "업계 이슈",
     "전기차",
-    "업계 이슈"
+    "현대"
    ],
    "cars": [
     "아반떼"
@@ -570,9 +1410,9 @@
    "by": "mydaily.co.kr",
    "tags": [
     "신차",
-    "현대",
+    "업계 이슈",
     "제네시스",
-    "업계 이슈"
+    "현대"
    ],
    "cars": [
     "아반떼",
@@ -603,8 +1443,8 @@
    "by": "socialvalue.kr",
    "tags": [
     "신차",
-    "현대",
-    "업계 이슈"
+    "업계 이슈",
+    "현대"
    ],
    "cars": [
     "아반떼"
@@ -633,8 +1473,8 @@
    "t": "2026-11-20T09:40:00+09:00",
    "by": "wolyo.co.kr",
    "tags": [
-    "제네시스",
-    "전기차"
+    "전기차",
+    "제네시스"
    ],
    "cars": [
     "G80"
@@ -700,8 +1540,8 @@
    "by": "newsis.com",
    "tags": [
     "신차",
-    "현대",
-    "제네시스"
+    "제네시스",
+    "현대"
    ],
    "cars": [
     "아반떼",
@@ -730,8 +1570,8 @@
    "t": "2026-11-20T09:38:00+09:00",
    "by": "businessplus.kr",
    "tags": [
-    "제네시스",
-    "전기차"
+    "전기차",
+    "제네시스"
    ],
    "cars": [
     "G80"
@@ -771,8 +1611,8 @@
    "t": "2026-11-20T09:34:00+09:00",
    "by": "kpenews.com",
    "tags": [
-    "제네시스",
-    "전기차"
+    "전기차",
+    "제네시스"
    ],
    "cars": [
     "G80"
@@ -881,8 +1721,8 @@
    "t": "2026-11-20T09:26:00+09:00",
    "by": "worktoday.co.kr",
    "tags": [
-    "제네시스",
-    "전기차"
+    "전기차",
+    "제네시스"
    ],
    "cars": [
     "G80"
@@ -999,10 +1839,10 @@
    "t": "2026-11-20T09:16:00+09:00",
    "by": "daily.hankooki.com",
    "tags": [
-    "현대",
     "기아",
+    "전기차",
     "제네시스",
-    "전기차"
+    "현대"
    ],
    "cars": [
     "G80"

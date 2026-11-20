@@ -1,16 +1,64 @@
 {
- "updated": "2026-11-20T11:10:53.557790+09:00",
+ "updated": "2026-11-20T12:01:30.497176+09:00",
  "topics": [
+  {
+   "name": "독감",
+   "kind": "질환·증상",
+   "count": 63,
+   "angles": [
+    "에 좋은",
+    "부작용",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "겨울 문턱서 커지는 독감 공포",
+     "link": "http://www.00news.co.kr/news/articleView.html?idxno=108243",
+     "t": "2026-11-20T12:00:00+09:00",
+     "by": "00news.co.kr"
+    },
+    {
+     "title": "충남도, 만 60세 미만 이동노동자 독감 무료 예방접종 지원",
+     "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=515239",
+     "t": "2026-11-20T12:00:00+09:00",
+     "by": "newsworker.co.kr"
+    },
+    {
+     "title": "성결대, 외국인 유학생 458명 독감 무료 예방접종",
+     "link": "https://www.kgnews.co.kr/news/article.html?no=920441",
+     "t": "2026-11-20T11:56:00+09:00",
+     "by": "kgnews.co.kr"
+    },
+    {
+     "title": "독감 입원환자 일주일 새 45% 증가…질병청 \"65세 이상 접종 서둘러야\"",
+     "link": "https://www.kizmom.com/news/articleView.html?idxno=114104",
+     "t": "2026-11-20T11:45:00+09:00",
+     "by": "kizmom.com"
+    },
+    {
+     "title": "독감 입원환자 1천명 육박…고령층 중증·사망 위험 커졌다",
+     "link": "https://www.namdonews.com/news/articleView.html?idxno=929932",
+     "t": "2026-11-20T11:24:00+09:00",
+     "by": "namdonews.com"
+    }
+   ]
+  },
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 61,
+   "count": 59,
    "angles": [
     "부작용",
     "효능",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "헬스헬퍼, 체지방·혈당 관리에 비타민D 더한 '맥스컷 프로 코어D' 출시",
+     "link": "https://kids.donga.com/news/articleView.html?idxno=170360",
+     "t": "2026-11-20T11:36:00+09:00",
+     "by": "kids.donga.com"
+    },
     {
      "title": "높은 공복 혈당 ? 당뇨 전단계, ‘초음파·정밀검사’로 숨은 대사질환 잡...",
      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611201015454980906",
@@ -34,54 +82,6 @@
      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36331",
      "t": "2026-11-20T09:00:00+09:00",
      "by": "biotimes.co.kr"
-    },
-    {
-     "title": "치실로 혈당 ·잇몸 염증 측정하는 '스마트 치실' 개발",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626481",
-     "t": "2026-11-20T08:42:00+09:00",
-     "by": "mdtoday.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "독감",
-   "kind": "질환·증상",
-   "count": 60,
-   "angles": [
-    "에 좋은",
-    "부작용",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "독감 입원환자 지난 절기 정점 돌파…고위험군 접종 서둘러야",
-     "link": "https://www.news1.kr/bio/general/6360711",
-     "t": "2026-11-20T10:57:00+09:00",
-     "by": "news1.kr"
-    },
-    {
-     "title": "독감 입원환자 926명…고령층 중심 중증환자 급증",
-     "link": "https://wemakenews.co.kr/news/view.php?no=26909",
-     "t": "2026-11-20T10:48:00+09:00",
-     "by": "wemakenews.co.kr"
-    },
-    {
-     "title": "잠잠하던 독감 다시 유행… “48시간 내에 치료받아야”",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/20/2026112001129.html",
-     "t": "2026-11-20T10:46:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "다시 증가하는 독감 , '48시간'이 승부 가른다",
-     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3016936",
-     "t": "2026-11-20T10:28:00+09:00",
-     "by": "bosa.co.kr"
-    },
-    {
-     "title": "감기와 다른 독감 , 항바이러스제 치료 '48시간'이 관건",
-     "link": "https://www.rapportian.com/news/articleView.html?idxno=242682",
-     "t": "2026-11-20T10:18:00+09:00",
-     "by": "rapportian.com"
     }
    ]
   },
@@ -213,7 +213,7 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 19,
+   "count": 18,
    "angles": [
     "에 좋은",
     "부작용"
@@ -254,7 +254,7 @@
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 18,
+   "count": 17,
    "angles": [
     "효능",
     "부작용"
@@ -298,11 +298,15 @@
    "count": 17,
    "angles": [
     "부작용",
-    "먹는 법",
-    "효능",
-    "에 좋은"
+    "먹는 법"
    ],
    "items": [
+    {
+     "title": "동대문구, 어르신 맞춤형 영양관리 교육 성료…치매가정에 도시락 나눔...",
+     "link": "https://www.munhwa.com/article/11632815?ref=naver",
+     "t": "2026-11-20T11:15:00+09:00",
+     "by": "munhwa.com"
+    },
     {
      "title": "\"치매 치료부터 당뇨 관리 까지\"…헬스케어 스타트업 출사표 [현장+]",
      "link": "https://www.bloter.net/news/articleView.html?idxno=679208",
@@ -326,12 +330,6 @@
      "link": "http://www.whosaeng.com/175469",
      "t": "2026-11-19T16:28:00+09:00",
      "by": "whosaeng.com"
-    },
-    {
-     "title": "“잠 오래 잔다고 안심?”⋯치매 위험, 수면시간만큼 중요한 건 ‘수면...",
-     "link": "https://kormedi.com/?p=2908360",
-     "t": "2026-11-19T13:00:00+09:00",
-     "by": "kormedi.com"
     }
    ]
   },
@@ -341,6 +339,12 @@
    "count": 15,
    "angles": [],
    "items": [
+    {
+     "title": "서울우유, 어린이 유산균 음료 ‘유산균츄츄’ 출시",
+     "link": "https://www.livesnews.com/news/article.html?no=66210",
+     "t": "2026-11-20T11:24:00+09:00",
+     "by": "livesnews.com"
+    },
     {
      "title": "서울우유협동조합, 어린이 유산균 음료로 해외 공략…'유산균츄츄' 출시",
      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140353",
@@ -364,19 +368,13 @@
      "link": "https://www.eroun.net/news/articleView.html?idxno=96045",
      "t": "2026-11-20T08:40:00+09:00",
      "by": "eroun.net"
-    },
-    {
-     "title": "[상품털기] \"먹던 유산균을 얼굴에?\"···발효향 나는 hy '아이오셀' 피...",
-     "link": "https://www.smartbizn.com/news/articleView.html?idxno=159820",
-     "t": "2026-11-19T17:24:00+09:00",
-     "by": "smartbizn.com"
     }
    ]
   },
   {
    "name": "당뇨",
    "kind": "질환·증상",
-   "count": 11,
+   "count": 10,
    "angles": [
     "에 좋은"
    ],
@@ -416,7 +414,7 @@
   {
    "name": "고혈압",
    "kind": "질환·증상",
-   "count": 10,
+   "count": 9,
    "angles": [
     "에 좋은"
    ],
@@ -697,6 +695,46 @@
    ]
   },
   {
+   "name": "대장암",
+   "kind": "질환·증상",
+   "count": 6,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "대변검사 '정상'인데 대장암이라고?…50세 미만은 안심 못한다 [매일비...",
+     "link": "https://www.imaeil.com/page/view/2026112008520550376",
+     "t": "2026-11-20T11:32:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "암 생존자, 심뇌혈관 위험 요인 다르다… 대장암은 ‘흡연’, 간·폐암은...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/19/2026111902269.html",
+     "t": "2026-11-19T16:43:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "[ 건강 365]-배변 습관 달라졌다면? 대장암 의심",
+     "link": "https://news.knn.co.kr/news/article/194697",
+     "t": "2026-11-19T10:28:00+09:00",
+     "by": "knn.co.kr"
+    },
+    {
+     "title": "대장암 항암치료 단골 부작용 '손발 저림'...말초신경병증입니다",
+     "link": "https://www.k-health.com/news/articleView.html?idxno=102329",
+     "t": "2026-11-18T23:22:00+09:00",
+     "by": "k-health.com"
+    },
+    {
+     "title": "혈액 한 방울로 췌장암·대장암·뇌종양·알츠하이머병 탐지…새 진단기...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625961",
+     "t": "2026-11-18T14:04:00+09:00",
+     "by": "mdtoday.co.kr"
+    }
+   ]
+  },
+  {
    "name": "염증",
    "kind": "질환·증상",
    "count": 6,
@@ -773,46 +811,6 @@
      "link": "https://www.chosun.com/medical/2026/11/17/NKIN4RBS4VGXZFXJCYHEZTA33U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
      "t": "2026-11-17T17:04:00+09:00",
      "by": "chosun.com"
-    }
-   ]
-  },
-  {
-   "name": "대장암",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "암 생존자, 심뇌혈관 위험 요인 다르다… 대장암은 ‘흡연’, 간·폐암은...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/19/2026111902269.html",
-     "t": "2026-11-19T16:43:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "[ 건강 365]-배변 습관 달라졌다면? 대장암 의심",
-     "link": "https://news.knn.co.kr/news/article/194697",
-     "t": "2026-11-19T10:28:00+09:00",
-     "by": "knn.co.kr"
-    },
-    {
-     "title": "대장암 항암치료 단골 부작용 '손발 저림'...말초신경병증입니다",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=102329",
-     "t": "2026-11-18T23:22:00+09:00",
-     "by": "k-health.com"
-    },
-    {
-     "title": "혈액 한 방울로 췌장암·대장암·뇌종양·알츠하이머병 탐지…새 진단기...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625961",
-     "t": "2026-11-18T14:04:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "“살찌고, 대장암 위험 증가”… 풍자가 다이어트 중 ‘꾹 참은 음식’...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111701601.html",
-     "t": "2026-11-17T19:01:00+09:00",
-     "by": "health.chosun.com"
     }
    ]
   },

@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-20T14:08:37.791666+09:00",
+ "updated": "2026-11-20T15:10:54.340748+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 70,
+   "count": 68,
    "angles": [
     "에 좋은",
     "부작용",
@@ -46,10 +46,10 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 57,
+   "count": 52,
    "angles": [
-    "효능",
     "부작용",
+    "효능",
     "먹는 법"
    ],
    "items": [
@@ -88,13 +88,19 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 36,
+   "count": 37,
    "angles": [
     "에 좋은",
     "효능",
     "부작용"
    ],
    "items": [
+    {
+     "title": "국민 71% \"항생제, 감기 치료에 도움된다\"… 항생제 오남용 인식 개선 시...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70344",
+     "t": "2026-11-20T14:10:00+09:00",
+     "by": "hidoc.co.kr"
+    },
     {
      "title": "밤마다 ‘콜록콜록’ 그냥 감기 아니었다?…무려 175만명 앓는 ‘이 질...",
      "link": "https://www.sedaily.com/article/20116924?ref=naver",
@@ -118,12 +124,6 @@
      "link": "https://www.livesnews.com/news/article.html?no=66197",
      "t": "2026-11-20T10:58:00+09:00",
      "by": "livesnews.com"
-    },
-    {
-     "title": "감기와 다른 독감 , 항바이러스제 치료 '48시간'이 관건",
-     "link": "https://www.rapportian.com/news/articleView.html?idxno=242682",
-     "t": "2026-11-20T10:18:00+09:00",
-     "by": "rapportian.com"
     }
    ]
   },
@@ -211,47 +211,6 @@
    ]
   },
   {
-   "name": "혈압",
-   "kind": "질환·증상",
-   "count": 18,
-   "angles": [
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "겨울철 건강 검진에서 혈압이 높게 나왔다면? … 일시적 상승과 고혈압 ...",
-     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144584",
-     "t": "2026-11-20T09:06:00+09:00",
-     "by": "medisobizanews.com"
-    },
-    {
-     "title": "데이팩, 혈압·혈행·혈당 건강 을 한 팩에 담은 '데이팩 코큐텐 플러스...",
-     "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36331",
-     "t": "2026-11-20T09:00:00+09:00",
-     "by": "biotimes.co.kr"
-    },
-    {
-     "title": "“찬 바람 불자 혈압도 들썩?”…중년 혈압 관리에 좋은 ‘이 음식 ’ 뭐...",
-     "link": "https://kormedi.com/?p=2907848",
-     "t": "2026-11-20T08:03:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "건국대병원, 내원객 대상 혈압· 혈당 측정 건강캠페인 마련...생활습관...",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=214198",
-     "t": "2026-11-19T19:12:00+09:00",
-     "by": "thefirstmedia.net"
-    },
-    {
-     "title": "카페에서 커피 마시며 혈압 관리 …대구 남구보건소 '심뇌안심존' 주목",
-     "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091468",
-     "t": "2026-11-19T18:40:00+09:00",
-     "by": "kyongbuk.co.kr"
-    }
-   ]
-  },
-  {
    "name": "다이어트",
    "kind": "운동·생활",
    "count": 17,
@@ -289,6 +248,47 @@
      "link": "https://www.kbsm.net/news/view.php?idx=542509",
      "t": "2026-11-19T13:24:00+09:00",
      "by": "kbsm.net"
+    }
+   ]
+  },
+  {
+   "name": "혈압",
+   "kind": "질환·증상",
+   "count": 17,
+   "angles": [
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "겨울철 건강 검진에서 혈압이 높게 나왔다면? … 일시적 상승과 고혈압 ...",
+     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144584",
+     "t": "2026-11-20T09:06:00+09:00",
+     "by": "medisobizanews.com"
+    },
+    {
+     "title": "데이팩, 혈압·혈행·혈당 건강 을 한 팩에 담은 '데이팩 코큐텐 플러스...",
+     "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36331",
+     "t": "2026-11-20T09:00:00+09:00",
+     "by": "biotimes.co.kr"
+    },
+    {
+     "title": "“찬 바람 불자 혈압도 들썩?”…중년 혈압 관리에 좋은 ‘이 음식 ’ 뭐...",
+     "link": "https://kormedi.com/?p=2907848",
+     "t": "2026-11-20T08:03:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "건국대병원, 내원객 대상 혈압· 혈당 측정 건강캠페인 마련...생활습관...",
+     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=214198",
+     "t": "2026-11-19T19:12:00+09:00",
+     "by": "thefirstmedia.net"
+    },
+    {
+     "title": "카페에서 커피 마시며 혈압 관리 …대구 남구보건소 '심뇌안심존' 주목",
+     "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091468",
+     "t": "2026-11-19T18:40:00+09:00",
+     "by": "kyongbuk.co.kr"
     }
    ]
   },
@@ -336,7 +336,7 @@
   {
    "name": "유산균",
    "kind": "영양제",
-   "count": 14,
+   "count": 13,
    "angles": [],
    "items": [
     {
@@ -368,46 +368,6 @@
      "link": "https://view.asiae.co.kr/article/2026112009065780511",
      "t": "2026-11-20T09:15:00+09:00",
      "by": "view.asiae.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "고혈압",
-   "kind": "질환·증상",
-   "count": 9,
-   "angles": [
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "겨울철 건강 검진에서 혈압이 높게 나왔다면? … 일시적 상승과 고혈압 ...",
-     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144584",
-     "t": "2026-11-20T09:06:00+09:00",
-     "by": "medisobizanews.com"
-    },
-    {
-     "title": "\"수축기 혈압 120도 안심 못 한다\"… 강화된 고혈압 기준과 올바른 관리...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70280",
-     "t": "2026-11-19T17:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "\"뇌졸중 재발 예방 , 이상지질혈증-고혈압 통합 관리 중요\"",
-     "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200136",
-     "t": "2026-11-19T15:26:00+09:00",
-     "by": "doctorsnews.co.kr"
-    },
-    {
-     "title": "고혈압·당뇨, 5개 암종서 심뇌혈관 질환 과 연관",
-     "link": "https://www.naeil.com/news/read/609328?ref=naver",
-     "t": "2026-11-19T13:04:00+09:00",
-     "by": "naeil.com"
-    },
-    {
-     "title": "19일부터 기온 뚝…‘침묵의 살인자’ 고혈압, 겨울철 혈압 관리 비상",
-     "link": "https://www.seoul.co.kr/news/society/health-medical/2026/11/19/20261119500070?wlog_tag3=naver",
-     "t": "2026-11-19T10:39:00+09:00",
-     "by": "seoul.co.kr"
     }
    ]
   },
@@ -489,6 +449,46 @@
      "link": "https://www.hani.co.kr/arti/science/science_general/1288158.html",
      "t": "2026-11-19T16:22:00+09:00",
      "by": "hani.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "고혈압",
+   "kind": "질환·증상",
+   "count": 8,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "겨울철 건강 검진에서 혈압이 높게 나왔다면? … 일시적 상승과 고혈압 ...",
+     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144584",
+     "t": "2026-11-20T09:06:00+09:00",
+     "by": "medisobizanews.com"
+    },
+    {
+     "title": "\"수축기 혈압 120도 안심 못 한다\"… 강화된 고혈압 기준과 올바른 관리...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70280",
+     "t": "2026-11-19T17:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "\"뇌졸중 재발 예방 , 이상지질혈증-고혈압 통합 관리 중요\"",
+     "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200136",
+     "t": "2026-11-19T15:26:00+09:00",
+     "by": "doctorsnews.co.kr"
+    },
+    {
+     "title": "고혈압·당뇨, 5개 암종서 심뇌혈관 질환 과 연관",
+     "link": "https://www.naeil.com/news/read/609328?ref=naver",
+     "t": "2026-11-19T13:04:00+09:00",
+     "by": "naeil.com"
+    },
+    {
+     "title": "19일부터 기온 뚝…‘침묵의 살인자’ 고혈압, 겨울철 혈압 관리 비상",
+     "link": "https://www.seoul.co.kr/news/society/health-medical/2026/11/19/20261119500070?wlog_tag3=naver",
+     "t": "2026-11-19T10:39:00+09:00",
+     "by": "seoul.co.kr"
     }
    ]
   },
@@ -610,46 +610,6 @@
      "link": "https://www.medipana.com/news/articleView.html?idxno=422138",
      "t": "2026-11-18T14:38:00+09:00",
      "by": "medipana.com"
-    }
-   ]
-  },
-  {
-   "name": "수면",
-   "kind": "운동·생활",
-   "count": 7,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "\"단 음식 멀리했는데 왜 당뇨병일까\"... 수면·스트레스도 관리해야 하...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70314",
-     "t": "2026-11-20T11:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "지루함 자주 느끼는 사람, 수면의 질도 낮다…자기조절 능력과 연관",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626205",
-     "t": "2026-11-19T14:20:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "“잠 오래 잔다고 안심?”⋯치매 위험, 수면시간만큼 중요한 건 ‘수면...",
-     "link": "https://kormedi.com/?p=2908360",
-     "t": "2026-11-19T13:00:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "버려지던 라임 껍질서 수면 기능 성 원료로… 국립부경대 창업기업 장영...",
-     "link": "https://view.asiae.co.kr/article/2026111816392426901",
-     "t": "2026-11-18T16:39:00+09:00",
-     "by": "view.asiae.co.kr"
-    },
-    {
-     "title": "44세 강재준, 14kg 감량하고 깨달은 다이어트 핵심?…“수면이 1등인 것...",
-     "link": "https://biz.heraldcorp.com/article/10941616?ref=naver",
-     "t": "2026-11-18T16:28:00+09:00",
-     "by": "biz.heraldcorp.com"
     }
    ]
   },
@@ -776,6 +736,46 @@
    ]
   },
   {
+   "name": "수면",
+   "kind": "운동·생활",
+   "count": 6,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "\"단 음식 멀리했는데 왜 당뇨병일까\"... 수면·스트레스도 관리해야 하...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70314",
+     "t": "2026-11-20T11:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "지루함 자주 느끼는 사람, 수면의 질도 낮다…자기조절 능력과 연관",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626205",
+     "t": "2026-11-19T14:20:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "“잠 오래 잔다고 안심?”⋯치매 위험, 수면시간만큼 중요한 건 ‘수면...",
+     "link": "https://kormedi.com/?p=2908360",
+     "t": "2026-11-19T13:00:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "버려지던 라임 껍질서 수면 기능 성 원료로… 국립부경대 창업기업 장영...",
+     "link": "https://view.asiae.co.kr/article/2026111816392426901",
+     "t": "2026-11-18T16:39:00+09:00",
+     "by": "view.asiae.co.kr"
+    },
+    {
+     "title": "44세 강재준, 14kg 감량하고 깨달은 다이어트 핵심?…“수면이 1등인 것...",
+     "link": "https://biz.heraldcorp.com/article/10941616?ref=naver",
+     "t": "2026-11-18T16:28:00+09:00",
+     "by": "biz.heraldcorp.com"
+    }
+   ]
+  },
+  {
    "name": "염증",
    "kind": "질환·증상",
    "count": 6,
@@ -852,44 +852,6 @@
      "link": "https://www.chosun.com/medical/2026/11/17/NKIN4RBS4VGXZFXJCYHEZTA33U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
      "t": "2026-11-17T17:04:00+09:00",
      "by": "chosun.com"
-    }
-   ]
-  },
-  {
-   "name": "프로바이오틱스",
-   "kind": "영양제",
-   "count": 5,
-   "angles": [],
-   "items": [
-    {
-     "title": "일동바이오사이언스, 프로바이오틱스 제조에 AI 심었다… 연구 성과 국...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625766",
-     "t": "2026-11-17T18:18:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "일동바이오사이언스, 프로바이오틱스 생산 데이터 분석 연구 성과 발표",
-     "link": "http://www.ttlnews.com/news/articleView.html?idxno=3163313",
-     "t": "2026-11-17T17:58:00+09:00",
-     "by": "ttlnews.com"
-    },
-    {
-     "title": "일동바이오사이언스·가톨릭대, 프로바이오틱스 AI 예측 연구 국제 게재",
-     "link": "https://www.cstimes.com/news/articleView.html?idxno=728257",
-     "t": "2026-11-17T15:16:00+09:00",
-     "by": "cstimes.com"
-    },
-    {
-     "title": "일동바이오사이언스, 가톨릭대와 AI 활용 프로바이오틱스 제조공정 연구",
-     "link": "https://www.cnbizm.com/news/articleView.html?idxno=321782",
-     "t": "2026-11-17T14:24:00+09:00",
-     "by": "cnbizm.com"
-    },
-    {
-     "title": "일동바이오·가톨릭대 연구팀, AI 기반 프로바이오틱스 예측 모델 개발",
-     "link": "https://www.sentv.co.kr/article/view/sentv202611170158",
-     "t": "2026-11-17T14:18:00+09:00",
-     "by": "sentv.co.kr"
     }
    ]
   },
@@ -1162,6 +1124,35 @@
      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084487",
      "t": "2026-11-17T16:06:00+09:00",
      "by": "shinailbo.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "대상포진",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "대상포진, 감기 몸살처럼 시작될 수 있어… 피부 발진과 신경통 주의해...",
+     "link": "https://www.livesnews.com/news/article.html?no=66197",
+     "t": "2026-11-20T10:58:00+09:00",
+     "by": "livesnews.com"
+    },
+    {
+     "title": "영월군, 70세 이상 대상포진 예방 접종...평일 오전 9시~오후5시 보건기관...",
+     "link": "https://www.eroun.net/news/articleView.html?idxno=96037",
+     "t": "2026-11-20T08:10:00+09:00",
+     "by": "eroun.net"
+    },
+    {
+     "title": "[건강라이프] 겨울철 면역력 관리 중요, 대상포진 주의해야",
+     "link": "https://www.thegolftimes.co.kr/news/articleView.html?idxno=82342",
+     "t": "2026-11-19T10:58:00+09:00",
+     "by": "thegolftimes.co.kr"
     }
    ]
   }

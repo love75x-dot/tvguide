@@ -109,7 +109,7 @@
     }
    ],
    "first": "00:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -125,15 +125,16 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 2
+    "nate_pop": 3,
+    "nate_int": 3
    },
    "count": 14,
    "inrank": true
@@ -176,7 +177,7 @@
     }
    ],
    "first": "00:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 2,
    "hours": [
     "00:08",
@@ -192,15 +193,16 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 25
+    "nate_pop": 30,
+    "nate_int": 42
    },
    "count": 4,
    "inrank": true
@@ -277,7 +279,7 @@
     }
    ],
    "first": "00:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -293,15 +295,16 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 17
+    "nate_pop": 20,
+    "nate_int": 18
    },
    "count": 3,
    "inrank": true
@@ -330,7 +333,7 @@
     }
    ],
    "first": "00:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 2,
    "hours": [
     "00:08",
@@ -346,14 +349,15 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 30,
+    "nate_pop": 29,
     "nate_int": 15
    },
    "count": 2,
@@ -606,35 +610,45 @@
    "id": "c12",
    "title": "[단독] 김민, 산불 번질라 직접 나섰다…신고·초동조치",
    "titles": [
-    "[단독] 김민, 산불 번질라 직접 나섰다…신고·초동조치"
+    "[단독] 김민, 산불 번질라 직접 나섰다…신고·초동조치",
+    "[단독] 외투 타도 불길 뛰어든 김민, 산불 큰 피해 막았다(종합)"
    ],
    "links": [
-    "https://news.nate.com/view/20261119n40628"
+    "https://news.nate.com/view/20261119n40628",
+    "https://news.nate.com/view/20261120n15007"
    ],
    "articles": [
     {
      "title": "[단독] 김민, 산불 번질라 직접 나섰다…신고·초동조치",
      "link": "https://news.nate.com/view/20261119n40628",
      "media": "JTBC"
+    },
+    {
+     "title": "[단독] 외투 타도 불길 뛰어든 김민, 산불 큰 피해 막았다(종합)",
+     "link": "https://news.nate.com/view/20261120n15007",
+     "media": "JTBC"
     }
    ],
    "first": "00:08",
-   "last": "06:10",
+   "last": "13:08",
    "best": 12,
    "hours": [
     "00:08",
     "01:08",
     "03:08",
     "04:08",
-    "06:10"
+    "06:10",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_int": 46
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c13",
@@ -647,7 +661,9 @@
     "최동석 여자 있었다, 박지윤 두 눈 목격 주장 \"근데 이혼 당했다고 예능 나...",
     "\"그냥 조용히 계셔라\"…박지윤, 최동석 승소에 울분 토로→누리꾼 반응 '싸...",
     "\"최동석도 알던 성소수자\" 박지윤 반박에도…法 판결문엔 \"부정행위\" [종합...",
-    "박지윤 악플러 정체, 전 남편 최동석이었다…명예훼손 혐의 검찰 송치"
+    "박지윤 악플러 정체, 전 남편 최동석이었다…명예훼손 혐의 검찰 송치",
+    "박지윤 악플러 추적하니 '전 남편' 최동석이었다…명예훼손 혐의 송치",
+    "아웃팅에 몰카 의혹까지…박지윤·최동석, 오가는 반박 속 짙어지는 우려 ..."
    ],
    "links": [
     "https://news.nate.com/view/20261119n03369",
@@ -657,7 +673,9 @@
     "https://news.nate.com/view/20261119n04055",
     "https://news.nate.com/view/20261119n12270",
     "https://news.nate.com/view/20261120n02384",
-    "https://news.nate.com/view/20261120n14204"
+    "https://news.nate.com/view/20261120n14204",
+    "https://news.nate.com/view/20261120n14045",
+    "https://news.nate.com/view/20261119n30487"
    ],
    "articles": [
     {
@@ -699,11 +717,21 @@
      "title": "박지윤 악플러 정체, 전 남편 최동석이었다…명예훼손 혐의 검찰 송치",
      "link": "https://news.nate.com/view/20261120n14204",
      "media": "스타뉴스"
+    },
+    {
+     "title": "박지윤 악플러 추적하니 '전 남편' 최동석이었다…명예훼손 혐의 송치",
+     "link": "https://news.nate.com/view/20261120n14045",
+     "media": "스포츠투데이"
+    },
+    {
+     "title": "아웃팅에 몰카 의혹까지…박지윤·최동석, 오가는 반박 속 짙어지는 우려 ...",
+     "link": "https://news.nate.com/view/20261119n30487",
+     "media": "스포츠투데이"
     }
    ],
    "first": "00:08",
-   "last": "12:08",
-   "best": 4,
+   "last": "13:08",
+   "best": 1,
    "hours": [
     "00:08",
     "01:08",
@@ -716,16 +744,18 @@
     "08:08",
     "09:08",
     "10:08",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4
+    "nate_pop": 1,
+    "nate_int": 2
    },
-   "count": 8,
+   "count": 10,
    "inrank": true
   },
   {
@@ -852,11 +882,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 3,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c17",
@@ -893,11 +921,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 49
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c18",
@@ -962,7 +988,7 @@
     }
    ],
    "first": "00:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 2,
    "hours": [
     "00:08",
@@ -978,14 +1004,15 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 34
+    "nate_int": 35
    },
    "count": 3,
    "inrank": true
@@ -1050,7 +1077,7 @@
     }
    ],
    "first": "00:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -1066,15 +1093,16 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 10
+    "nate_pop": 16,
+    "nate_int": 9
    },
    "count": 3,
    "inrank": true
@@ -1291,7 +1319,7 @@
     }
    ],
    "first": "00:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 4,
    "hours": [
     "00:08",
@@ -1304,15 +1332,16 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 18
+    "nate_pop": 21,
+    "nate_int": 19
    },
    "count": 3,
    "inrank": true
@@ -1348,7 +1377,7 @@
     }
    ],
    "first": "00:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 7,
    "hours": [
     "00:08",
@@ -1358,14 +1387,15 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 30
+    "nate_int": 37
    },
    "count": 3,
    "inrank": true
@@ -1481,20 +1511,27 @@
    "id": "c31",
    "title": "하리수, 51세 안 믿기는 몸매…자기관리 대단해",
    "titles": [
-    "하리수, 51세 안 믿기는 몸매…자기관리 대단해"
+    "하리수, 51세 안 믿기는 몸매…자기관리 대단해",
+    "'51세' 하리수 맞아?…믿기지 않는 '극강 동안' 스타일 깜짝"
    ],
    "links": [
-    "https://news.nate.com/view/20261119n39168"
+    "https://news.nate.com/view/20261119n39168",
+    "https://news.nate.com/view/20261120n09256"
    ],
    "articles": [
     {
      "title": "하리수, 51세 안 믿기는 몸매…자기관리 대단해",
      "link": "https://news.nate.com/view/20261119n39168",
      "media": "스포츠동아"
+    },
+    {
+     "title": "'51세' 하리수 맞아?…믿기지 않는 '극강 동안' 스타일 깜짝",
+     "link": "https://news.nate.com/view/20261120n09256",
+     "media": "스포츠조선"
     }
    ],
    "first": "00:08",
-   "last": "10:08",
+   "last": "13:08",
    "best": 19,
    "hours": [
     "00:08",
@@ -1507,15 +1544,18 @@
     "07:10",
     "08:08",
     "09:08",
-    "10:08"
+    "10:08",
+    "13:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_int": 50
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c32",
@@ -1534,21 +1574,22 @@
     }
    ],
    "first": "00:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 14,
    "hours": [
     "00:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 24
+    "nate_pop": 18,
+    "nate_int": 27
    },
    "count": 1,
    "inrank": true
@@ -1584,7 +1625,7 @@
     }
    ],
    "first": "00:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 10,
    "hours": [
     "00:08",
@@ -1600,15 +1641,15 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 26
+    "nate_int": 39
    },
    "count": 3,
    "inrank": true
@@ -1686,7 +1727,7 @@
     }
    ],
    "first": "00:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 6,
    "hours": [
     "00:08",
@@ -1702,14 +1743,15 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 38
+    "nate_int": 43
    },
    "count": 9,
    "inrank": true
@@ -1983,7 +2025,7 @@
     }
    ],
    "first": "03:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 1,
    "hours": [
     "03:08",
@@ -1997,15 +2039,15 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 29
+    "nate_int": 31
    },
    "count": 2,
    "inrank": true
@@ -2166,11 +2208,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 48
-   },
+   "now": {},
    "count": 3,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c47",
@@ -2278,7 +2318,7 @@
     }
    ],
    "first": "06:10",
-   "last": "12:08",
+   "last": "13:08",
    "best": 25,
    "hours": [
     "06:10",
@@ -2286,14 +2326,15 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 27
+    "nate_int": 30
    },
    "count": 1,
    "inrank": true
@@ -2344,7 +2385,7 @@
     }
    ],
    "first": "06:22",
-   "last": "12:08",
+   "last": "13:08",
    "best": 2,
    "hours": [
     "06:22",
@@ -2354,14 +2395,15 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 33
+    "nate_int": 34
    },
    "count": 1,
    "inrank": true
@@ -2383,7 +2425,7 @@
     }
    ],
    "first": "07:10",
-   "last": "12:08",
+   "last": "13:08",
    "best": 3,
    "hours": [
     "07:10",
@@ -2392,14 +2434,15 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 23
+    "nate_int": 26
    },
    "count": 1,
    "inrank": true
@@ -2552,7 +2595,7 @@
     }
    ],
    "first": "08:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 2,
    "hours": [
     "08:08",
@@ -2560,15 +2603,16 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 13
+    "nate_pop": 19,
+    "nate_int": 20
    },
    "count": 1,
    "inrank": true
@@ -2590,7 +2634,7 @@
     }
    ],
    "first": "08:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 1,
    "hours": [
     "08:08",
@@ -2598,15 +2642,16 @@
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 4
+    "nate_pop": 14,
+    "nate_int": 10
    },
    "count": 1,
    "inrank": true
@@ -2750,22 +2795,23 @@
     }
    ],
    "first": "09:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 4,
    "hours": [
     "09:08",
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 20
+    "nate_pop": 27,
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -2787,22 +2833,22 @@
     }
    ],
    "first": "09:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 8,
    "hours": [
     "09:08",
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 31
+    "nate_int": 33
    },
    "count": 1,
    "inrank": true
@@ -2824,22 +2870,23 @@
     }
    ],
    "first": "09:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 15,
    "hours": [
     "09:08",
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 21
+    "nate_pop": 23,
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -2951,21 +2998,22 @@
     }
    ],
    "first": "10:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 2,
    "hours": [
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 11
+    "nate_pop": 12,
+    "nate_int": 16
    },
    "count": 1,
    "inrank": true
@@ -2987,21 +3035,22 @@
     }
    ],
    "first": "10:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 5,
    "hours": [
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 7
+    "nate_pop": 17,
+    "nate_int": 13
    },
    "count": 1,
    "inrank": true
@@ -3023,13 +3072,14 @@
     }
    ],
    "first": "10:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 8,
    "hours": [
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
@@ -3089,20 +3139,21 @@
     }
    ],
    "first": "10:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 9,
    "hours": [
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 26,
+    "nate_pop": 28,
     "nate_int": 28
    },
    "count": 1,
@@ -3162,20 +3213,21 @@
     }
    ],
    "first": "10:08",
-   "last": "12:08",
+   "last": "13:08",
    "best": 1,
    "hours": [
     "10:08",
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 1,
+    "nate_pop": 2,
     "nate_int": 1
    },
    "count": 2,
@@ -3198,20 +3250,21 @@
     }
    ],
    "first": "11:10",
-   "last": "12:08",
+   "last": "13:08",
    "best": 11,
    "hours": [
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 12
+    "nate_pop": 25,
+    "nate_int": 25
    },
    "count": 1,
    "inrank": true
@@ -3220,70 +3273,86 @@
    "id": "c78",
    "title": "'하하♥'별, 23살 아니야? 모두가 깜짝 놀란 세월 역행 비주얼",
    "titles": [
-    "'하하♥'별, 23살 아니야? 모두가 깜짝 놀란 세월 역행 비주얼"
+    "'하하♥'별, 23살 아니야? 모두가 깜짝 놀란 세월 역행 비주얼",
+    "51살 하리수, 세월이 무색한 초동안 외모…판타지 비주얼"
    ],
    "links": [
-    "https://news.nate.com/view/20261120n04058"
+    "https://news.nate.com/view/20261120n04058",
+    "https://news.nate.com/view/20261120n03940"
    ],
    "articles": [
     {
      "title": "'하하♥'별, 23살 아니야? 모두가 깜짝 놀란 세월 역행 비주얼",
      "link": "https://news.nate.com/view/20261120n04058",
      "media": "헤럴드뮤즈"
+    },
+    {
+     "title": "51살 하리수, 세월이 무색한 초동안 외모…판타지 비주얼",
+     "link": "https://news.nate.com/view/20261120n03940",
+     "media": "마이데일리"
     }
    ],
    "first": "11:10",
-   "last": "12:08",
+   "last": "13:08",
    "best": 20,
    "hours": [
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 22
+    "nate_pop": 26,
+    "nate_int": 24
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
    "id": "c79",
    "title": "한소희, 셔터 폭주 부른 금발 헤어스타일 [포토엔HD]",
    "titles": [
-    "한소희, 셔터 폭주 부른 금발 헤어스타일 [포토엔HD]"
+    "한소희, 셔터 폭주 부른 금발 헤어스타일 [포토엔HD]",
+    "한소희, 과감한 금발로 180도 이미지 변신 [포토엔HD]"
    ],
    "links": [
-    "https://news.nate.com/view/20261120n08177"
+    "https://news.nate.com/view/20261120n08177",
+    "https://news.nate.com/view/20261120n10291"
    ],
    "articles": [
     {
      "title": "한소희, 셔터 폭주 부른 금발 헤어스타일 [포토엔HD]",
      "link": "https://news.nate.com/view/20261120n08177",
      "media": "뉴스엔"
+    },
+    {
+     "title": "한소희, 과감한 금발로 180도 이미지 변신 [포토엔HD]",
+     "link": "https://news.nate.com/view/20261120n10291",
+     "media": "뉴스엔"
     }
    ],
    "first": "11:10",
-   "last": "12:08",
+   "last": "13:08",
    "best": 14,
    "hours": [
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
+    "nate_pop": 15,
     "nate_int": 14
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -3303,20 +3372,21 @@
     }
    ],
    "first": "11:10",
-   "last": "12:08",
-   "best": 16,
+   "last": "13:08",
+   "best": 11,
    "hours": [
     "11:10",
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 16
+    "nate_pop": 11,
+    "nate_int": 12
    },
    "count": 1,
    "inrank": true
@@ -3338,19 +3408,20 @@
     }
    ],
    "first": "12:01",
-   "last": "12:08",
+   "last": "13:08",
    "best": 3,
    "hours": [
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 3
+    "nate_pop": 6,
+    "nate_int": 4
    },
    "count": 1,
    "inrank": true
@@ -3372,11 +3443,12 @@
     }
    ],
    "first": "12:01",
-   "last": "12:08",
+   "last": "13:08",
    "best": 6,
    "hours": [
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
@@ -3384,7 +3456,7 @@
    ],
    "now": {
     "nate_pop": 8,
-    "nate_int": 6
+    "nate_int": 7
    },
    "count": 1,
    "inrank": true
@@ -3406,19 +3478,20 @@
     }
    ],
    "first": "12:01",
-   "last": "12:08",
+   "last": "13:08",
    "best": 5,
    "hours": [
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 8
+    "nate_pop": 7,
+    "nate_int": 6
    },
    "count": 1,
    "inrank": true
@@ -3440,19 +3513,20 @@
     }
    ],
    "first": "12:01",
-   "last": "12:08",
+   "last": "13:08",
    "best": 11,
    "hours": [
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 19
+    "nate_pop": 13,
+    "nate_int": 21
    },
    "count": 1,
    "inrank": true
@@ -3474,17 +3548,115 @@
     }
    ],
    "first": "12:01",
-   "last": "12:08",
+   "last": "13:08",
    "best": 41,
    "hours": [
     "12:01",
-    "12:08"
+    "12:08",
+    "13:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 41
+    "nate_int": 49
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c86",
+   "title": "배종옥만이 아니었다…박근형→故 안성기→서이숙, 차에서 안 내리는 ...",
+   "titles": [
+    "배종옥만이 아니었다…박근형→故 안성기→서이숙, 차에서 안 내리는 ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261120n15488"
+   ],
+   "articles": [
+    {
+     "title": "배종옥만이 아니었다…박근형→故 안성기→서이숙, 차에서 안 내리는 ...",
+     "link": "https://news.nate.com/view/20261120n15488",
+     "media": "MHN스포츠"
+    }
+   ],
+   "first": "13:08",
+   "last": "13:08",
+   "best": 4,
+   "hours": [
+    "13:08"
+   ],
+   "srcs": [
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 4
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c87",
+   "title": "에픽하이, YG 신사옥 보며 \"빅뱅이 뭘 했냐…우리가 다 했다\" 폭소",
+   "titles": [
+    "에픽하이, YG 신사옥 보며 \"빅뱅이 뭘 했냐…우리가 다 했다\" 폭소"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261120n14387"
+   ],
+   "articles": [
+    {
+     "title": "에픽하이, YG 신사옥 보며 \"빅뱅이 뭘 했냐…우리가 다 했다\" 폭소",
+     "link": "https://news.nate.com/view/20261120n14387",
+     "media": "뉴스1"
+    }
+   ],
+   "first": "13:08",
+   "last": "13:08",
+   "best": 5,
+   "hours": [
+    "13:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 5,
+    "nate_int": 8
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c88",
+   "title": "한혜진 \"'연애남매2' 속 남매들 보고 '이럴 수도 있나' 놀라…충격\"",
+   "titles": [
+    "한혜진 \"'연애남매2' 속 남매들 보고 '이럴 수도 있나' 놀라…충격\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261120n14670"
+   ],
+   "articles": [
+    {
+     "title": "한혜진 \"'연애남매2' 속 남매들 보고 '이럴 수도 있나' 놀라…충격\"",
+     "link": "https://news.nate.com/view/20261120n14670",
+     "media": "뉴스1"
+    }
+   ],
+   "first": "13:08",
+   "last": "13:08",
+   "best": 22,
+   "hours": [
+    "13:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 22,
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -3602,9 +3774,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "13:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-20T12:08:25.078519+09:00",
+ "updated": "2026-11-20T13:08:35.791254+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

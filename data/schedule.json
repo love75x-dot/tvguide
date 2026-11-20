@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-20T18:07:55.459088+09:00",
+ "generated": "2026-11-20T19:07:57.027055+09:00",
  "channels": [
   {
    "id": "kbs1",
    "name": "KBS1",
    "ok": true,
-   "updated": "2026-11-20T18:07:55.459088+09:00",
+   "updated": "2026-11-20T19:07:57.027055+09:00",
    "programs": [
     {
      "start": "2026-11-20T05:00:00+09:00",
@@ -1588,7 +1588,7 @@
    "id": "kbs2",
    "name": "KBS2",
    "ok": true,
-   "updated": "2026-11-20T18:07:55.459088+09:00",
+   "updated": "2026-11-20T19:07:57.027055+09:00",
    "programs": [
     {
      "start": "2026-11-20T05:00:00+09:00",
@@ -2723,7 +2723,7 @@
    "id": "mbc",
    "name": "MBC",
    "ok": true,
-   "updated": "2026-11-20T18:07:55.459088+09:00",
+   "updated": "2026-11-20T19:07:57.027055+09:00",
    "programs": [
     {
      "start": "2026-11-20T05:00:00+09:00",
@@ -3837,7 +3837,7 @@
    "id": "sbs",
    "name": "SBS",
    "ok": true,
-   "updated": "2026-11-20T18:07:55.459088+09:00",
+   "updated": "2026-11-20T19:07:57.027055+09:00",
    "programs": [
     {
      "start": "2026-11-20T05:00:00+09:00",
@@ -5021,7 +5021,7 @@
    "id": "jtbc",
    "name": "JTBC",
    "ok": true,
-   "updated": "2026-11-20T18:07:55.459088+09:00",
+   "updated": "2026-11-20T19:07:57.027055+09:00",
    "programs": [
     {
      "start": "2026-11-20T01:30:00+09:00",
@@ -6065,7 +6065,7 @@
    "id": "tvchosun",
    "name": "TV조선",
    "ok": true,
-   "updated": "2026-11-20T18:07:55.459088+09:00",
+   "updated": "2026-11-20T19:07:57.027055+09:00",
    "programs": [
     {
      "start": "2026-11-20T00:30:00+09:00",
@@ -7235,7 +7235,7 @@
    "id": "channela",
    "name": "채널A",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='ichannela.com', port=443): Max retries exceeded with url: /com/cmm/schedule.do?selectedDate=20261120 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ichannela.com', port=443) at 0x6ffee0f90320>, 'Connection to ichannela.com timed out. (connect timeout=20)'))",
+   "error": "HTTPSConnectionPool(host='ichannela.com', port=443): Max retries exceeded with url: /com/cmm/schedule.do?selectedDate=20261120 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ichannela.com', port=443) at 0x71c03c7ba3c0>, 'Connection to ichannela.com timed out. (connect timeout=20)'))",
    "updated": "2026-11-20T17:07:52.889280+09:00",
    "programs": [
     {
@@ -8399,7 +8399,7 @@
    "id": "mbn",
    "name": "MBN",
    "ok": true,
-   "updated": "2026-11-20T18:07:55.459088+09:00",
+   "updated": "2026-11-20T19:07:57.027055+09:00",
    "programs": [
     {
      "start": "2026-11-20T03:20:00+09:00",
@@ -9527,7 +9527,7 @@
    "id": "tvn",
    "name": "tvN",
    "ok": true,
-   "updated": "2026-11-20T18:07:55.459088+09:00",
+   "updated": "2026-11-20T19:07:57.027055+09:00",
    "programs": [
     {
      "start": "2026-11-17T06:00:00+09:00",
@@ -10347,7 +10347,7 @@
    "id": "ena",
    "name": "ENA",
    "ok": true,
-   "updated": "2026-11-20T18:07:55.459088+09:00",
+   "updated": "2026-11-20T19:07:57.027055+09:00",
    "programs": [
     {
      "start": "2026-11-20T00:01:00+09:00",

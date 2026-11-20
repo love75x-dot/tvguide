@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:10:57.773925+09:00",
+ "updated": "2026-11-20T17:08:46.895467+09:00",
  "topics": [
   {
    "name": "독감",
@@ -11,6 +11,12 @@
     "효능"
    ],
    "items": [
+    {
+     "title": "심상치 않은 올겨울 독감 …일주일 새 입원환자 45% 급증",
+     "link": "https://www.chosun.com/national/welfare-medical/2026/11/20/YDQ4QQEIKZG4VDKZIZC63FOGFI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "t": "2026-11-20T16:17:00+09:00",
+     "by": "chosun.com"
+    },
     {
      "title": "독감 후에도 기침·피로 이어지는 아이들, 반복되는 잔병치레 원인은?",
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626665",
@@ -34,25 +40,31 @@
      "link": "https://kids.donga.com/news/articleView.html?idxno=170369",
      "t": "2026-11-20T15:34:00+09:00",
      "by": "kids.donga.com"
-    },
-    {
-     "title": "대전 독감 의심환자 전 연령대 전국 평균 웃돌아… 초등생 137.9명으로 급...",
-     "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=922027",
-     "t": "2026-11-20T15:26:00+09:00",
-     "by": "chungnamilbo.co.kr"
     }
    ]
   },
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 49,
+   "count": 50,
    "angles": [
     "부작용",
     "효능",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "[인터뷰H] \"밤에도 혈당 걱정에 잠 못 자는데\"…1형당뇨 환자들, 23년 만...",
+     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=81009",
+     "t": "2026-11-20T17:06:00+09:00",
+     "by": "mkhealth.co.kr"
+    },
+    {
+     "title": "'이렇게' 먹으면 오히려 혈당 덜 오른다… 권성준 셰프의 '파스타 요리...",
+     "link": "https://www.wikitree.co.kr/articles/1176209",
+     "t": "2026-11-20T16:34:00+09:00",
+     "by": "wikitree.co.kr"
+    },
     {
      "title": "소파 대신 15분 걷기, 정말 혈당 스파이크 잡을 수 있을까?",
      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3758303",
@@ -70,18 +82,6 @@
      "link": "https://kids.donga.com/news/articleView.html?idxno=170360",
      "t": "2026-11-20T11:36:00+09:00",
      "by": "kids.donga.com"
-    },
-    {
-     "title": "높은 공복 혈당 ? 당뇨 전단계, ‘초음파·정밀검사’로 숨은 대사질환 잡...",
-     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611201015454980906",
-     "t": "2026-11-20T10:40:00+09:00",
-     "by": "dnews.co.kr"
-    },
-    {
-     "title": "밀리어트, 샌디에이고 스타트업 위크서 혈당 관리 솔루션 선보여…글로...",
-     "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=399340",
-     "t": "2026-11-20T09:50:00+09:00",
-     "by": "fntoday.co.kr"
     }
    ]
   },
@@ -130,12 +130,18 @@
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 24,
+   "count": 25,
    "angles": [
     "효능",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "한혜진이 경악했지만… 영양 만점 밀웜, “절반이 단백질”",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/20/2026112001468.html",
+     "t": "2026-11-20T17:01:00+09:00",
+     "by": "health.chosun.com"
+    },
     {
      "title": "혈관 건강에 좋고 단백질도 풍부하다… 특히 겨울에 먹으면 좋은 '제철...",
      "link": "https://www.wikitree.co.kr/articles/1176222",
@@ -159,12 +165,6 @@
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626466",
      "t": "2026-11-20T08:28:00+09:00",
      "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "남양유업 '테이크핏', 액상 단백질 시장 3년 연속 1위",
-     "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=668437",
-     "t": "2026-11-19T17:30:00+09:00",
-     "by": "kfenews.co.kr"
     }
    ]
   },
@@ -292,7 +292,7 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 16,
+   "count": 14,
    "angles": [
     "에 좋은",
     "부작용"
@@ -333,10 +333,9 @@
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 15,
+   "count": 13,
    "angles": [
-    "부작용",
-    "먹는 법"
+    "부작용"
    ],
    "items": [
     {
@@ -574,49 +573,6 @@
    ]
   },
   {
-   "name": "콜레스테롤",
-   "kind": "질환·증상",
-   "count": 8,
-   "angles": [
-    "효능",
-    "먹는 법",
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "마늘, 감기 예방 효과 입증 부족…콜레스테롤 개선에는 도움",
-     "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903872",
-     "t": "2026-11-20T15:56:00+09:00",
-     "by": "newsworks.co.kr"
-    },
-    {
-     "title": "[고지혈증의 경고 1] 콜레스테롤은 왜 높아지는가",
-     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214664",
-     "t": "2026-11-20T15:22:00+09:00",
-     "by": "100ssd.co.kr"
-    },
-    {
-     "title": "초기 병용요법, 심혈관 질환 환자 LDL 콜레스테롤 조절 효과 확인",
-     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34072",
-     "t": "2026-11-20T10:06:00+09:00",
-     "by": "jhealthmedia.joins.com"
-    },
-    {
-     "title": "삼겹살·버터 즐긴다면⋯콜레스테롤 더 조심해야 할 사람은?",
-     "link": "https://kormedi.com/?p=2908924",
-     "t": "2026-11-19T17:55:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "카놀라유 놀라운 건강 효과 4가지... \"올리브유보다 나쁜 콜레스테롤 더...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70118",
-     "t": "2026-11-18T20:00:00+09:00",
-     "by": "hidoc.co.kr"
-    }
-   ]
-  },
-  {
    "name": "염증",
    "kind": "질환·증상",
    "count": 7,
@@ -651,46 +607,6 @@
      "link": "https://www.livesnews.com/news/article.html?no=66156",
      "t": "2026-11-19T15:24:00+09:00",
      "by": "livesnews.com"
-    }
-   ]
-  },
-  {
-   "name": "폐렴",
-   "kind": "질환·증상",
-   "count": 7,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "겨울 초입 독감 전국 유행…약해진 기도 폐렴 합병증 위험",
-     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=60029",
-     "t": "2026-11-18T19:38:00+09:00",
-     "by": "koreahealthlog.com"
-    },
-    {
-     "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심",
-     "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171934&ref=naverpc",
-     "t": "2026-11-18T18:36:00+09:00",
-     "by": "medicaltimes.com"
-    },
-    {
-     "title": "독감 증상 호전 뒤 다시 열나면 폐렴 의심…힘찬병원 \"고위험군은 초기...",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=214078",
-     "t": "2026-11-18T16:30:00+09:00",
-     "by": "thefirstmedia.net"
-    },
-    {
-     "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심해야",
-     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51856",
-     "t": "2026-11-18T14:50:00+09:00",
-     "by": "ikunkang.com"
-    },
-    {
-     "title": "독감 회복 후 다시 발열·기침…폐렴 합병증 주의",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=422138",
-     "t": "2026-11-18T14:38:00+09:00",
-     "by": "medipana.com"
     }
    ]
   },
@@ -815,14 +731,21 @@
    ]
   },
   {
-   "name": "고지혈증",
+   "name": "콜레스테롤",
    "kind": "질환·증상",
-   "count": 5,
+   "count": 6,
    "angles": [
-    "먹는 법",
+    "효능",
+    "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "마늘, 감기 예방 효과 입증 부족…콜레스테롤 개선에는 도움",
+     "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903872",
+     "t": "2026-11-20T15:56:00+09:00",
+     "by": "newsworks.co.kr"
+    },
     {
      "title": "[고지혈증의 경고 1] 콜레스테롤은 왜 높아지는가",
      "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214664",
@@ -830,28 +753,104 @@
      "by": "100ssd.co.kr"
     },
     {
-     "title": "충남대병원, 당뇨병·고지혈증 건강강좌 열어… 시민건강 아카데미 마무...",
-     "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921981",
-     "t": "2026-11-20T12:14:00+09:00",
-     "by": "chungnamilbo.co.kr"
+     "title": "초기 병용요법, 심혈관 질환 환자 LDL 콜레스테롤 조절 효과 확인",
+     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34072",
+     "t": "2026-11-20T10:06:00+09:00",
+     "by": "jhealthmedia.joins.com"
     },
     {
-     "title": "특별한 증상 없는데 위험?…'고지혈증' 진단 기준과 영향",
-     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16280561",
-     "t": "2026-11-19T11:40:00+09:00",
-     "by": "topstarnews.net"
+     "title": "삼겹살·버터 즐긴다면⋯콜레스테롤 더 조심해야 할 사람은?",
+     "link": "https://kormedi.com/?p=2908924",
+     "t": "2026-11-19T17:55:00+09:00",
+     "by": "kormedi.com"
     },
     {
-     "title": "고지혈증 약 먹으면 치매·암 걸린다? 콜레스테롤 오해와 진실 [이러면...",
-     "link": "https://www.chosun.com/medical/2026/11/17/NKIN4RBS4VGXZFXJCYHEZTA33U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-     "t": "2026-11-17T17:04:00+09:00",
-     "by": "chosun.com"
+     "title": "카놀라유 놀라운 건강 효과 4가지... \"올리브유보다 나쁜 콜레스테롤 더...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70118",
+     "t": "2026-11-18T20:00:00+09:00",
+     "by": "hidoc.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "폐렴",
+   "kind": "질환·증상",
+   "count": 6,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "겨울 초입 독감 전국 유행…약해진 기도 폐렴 합병증 위험",
+     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=60029",
+     "t": "2026-11-18T19:38:00+09:00",
+     "by": "koreahealthlog.com"
     },
     {
-     "title": "고지혈증 약 먹으면 치매·암 걸린다? 콜레스테롤 오해와 진실",
-     "link": "https://www.chosun.com/medical/2026/11/17/NKIN4RBS4VGXZFXJCYHEZTA33U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-     "t": "2026-11-17T17:04:00+09:00",
-     "by": "chosun.com"
+     "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심",
+     "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171934&ref=naverpc",
+     "t": "2026-11-18T18:36:00+09:00",
+     "by": "medicaltimes.com"
+    },
+    {
+     "title": "독감 증상 호전 뒤 다시 열나면 폐렴 의심…힘찬병원 \"고위험군은 초기...",
+     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=214078",
+     "t": "2026-11-18T16:30:00+09:00",
+     "by": "thefirstmedia.net"
+    },
+    {
+     "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심해야",
+     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51856",
+     "t": "2026-11-18T14:50:00+09:00",
+     "by": "ikunkang.com"
+    },
+    {
+     "title": "독감 회복 후 다시 발열·기침…폐렴 합병증 주의",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=422138",
+     "t": "2026-11-18T14:38:00+09:00",
+     "by": "medipana.com"
+    }
+   ]
+  },
+  {
+   "name": "커피",
+   "kind": "식품·제철",
+   "count": 5,
+   "angles": [
+    "부작용",
+    "먹는 법",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "블랙 커피 하루 2~3잔 마셨더니…심혈관 질환 위험 15% 낮았다",
+     "link": "https://biz.heraldcorp.com/article/10944305?ref=naver",
+     "t": "2026-11-20T16:21:00+09:00",
+     "by": "biz.heraldcorp.com"
+    },
+    {
+     "title": "낮잠·커피도 효과 없어…성인 10명 중 8명 '에너지 부족'",
+     "link": "https://biz.sbs.co.kr/article_hub/20000347777?division=NAVER",
+     "t": "2026-11-20T11:05:00+09:00",
+     "by": "biz.sbs.co.kr"
+    },
+    {
+     "title": "하루 커피 2~3잔 마셨더니…심혈관 질환 위험 15% 낮았다",
+     "link": "https://sports.khan.co.kr/article/202611201001003?pt=nv",
+     "t": "2026-11-20T10:02:00+09:00",
+     "by": "sports.khan.co.kr"
+    },
+    {
+     "title": "하루 커피 2~3잔 마셨더니…심혈관 질환 위험 15% 감소",
+     "link": "http://www.whosaeng.com/175485",
+     "t": "2026-11-20T09:50:00+09:00",
+     "by": "whosaeng.com"
+    },
+    {
+     "title": "카페에서 커피 마시며 혈압 관리 …대구 남구보건소 '심뇌안심존' 주목",
+     "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091468",
+     "t": "2026-11-19T18:40:00+09:00",
+     "by": "kyongbuk.co.kr"
     }
    ]
   },
@@ -1030,41 +1029,6 @@
    ]
   },
   {
-   "name": "커피",
-   "kind": "식품·제철",
-   "count": 4,
-   "angles": [
-    "부작용",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "낮잠·커피도 효과 없어…성인 10명 중 8명 '에너지 부족'",
-     "link": "https://biz.sbs.co.kr/article_hub/20000347777?division=NAVER",
-     "t": "2026-11-20T11:05:00+09:00",
-     "by": "biz.sbs.co.kr"
-    },
-    {
-     "title": "하루 커피 2~3잔 마셨더니…심혈관 질환 위험 15% 낮았다",
-     "link": "https://sports.khan.co.kr/article/202611201001003?pt=nv",
-     "t": "2026-11-20T10:02:00+09:00",
-     "by": "sports.khan.co.kr"
-    },
-    {
-     "title": "하루 커피 2~3잔 마셨더니…심혈관 질환 위험 15% 감소",
-     "link": "http://www.whosaeng.com/175485",
-     "t": "2026-11-20T09:50:00+09:00",
-     "by": "whosaeng.com"
-    },
-    {
-     "title": "카페에서 커피 마시며 혈압 관리 …대구 남구보건소 '심뇌안심존' 주목",
-     "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091468",
-     "t": "2026-11-19T18:40:00+09:00",
-     "by": "kyongbuk.co.kr"
-    }
-   ]
-  },
-  {
    "name": "폐암",
    "kind": "질환·증상",
    "count": 4,
@@ -1128,6 +1092,34 @@
      "link": "https://view.asiae.co.kr/article/2026111814352846306",
      "t": "2026-11-18T14:35:00+09:00",
      "by": "view.asiae.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "고지혈증",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "[고지혈증의 경고 1] 콜레스테롤은 왜 높아지는가",
+     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214664",
+     "t": "2026-11-20T15:22:00+09:00",
+     "by": "100ssd.co.kr"
+    },
+    {
+     "title": "충남대병원, 당뇨병·고지혈증 건강강좌 열어… 시민건강 아카데미 마무...",
+     "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921981",
+     "t": "2026-11-20T12:14:00+09:00",
+     "by": "chungnamilbo.co.kr"
+    },
+    {
+     "title": "특별한 증상 없는데 위험?…'고지혈증' 진단 기준과 영향",
+     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16280561",
+     "t": "2026-11-19T11:40:00+09:00",
+     "by": "topstarnews.net"
     }
    ]
   },

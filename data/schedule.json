@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-20T15:07:52.566327+09:00",
+ "generated": "2026-11-20T16:07:55.533564+09:00",
  "channels": [
   {
    "id": "kbs1",
    "name": "KBS1",
    "ok": true,
-   "updated": "2026-11-20T15:07:52.566327+09:00",
+   "updated": "2026-11-20T16:07:55.533564+09:00",
    "programs": [
     {
      "start": "2026-11-20T05:00:00+09:00",
@@ -1409,10 +1409,17 @@
     },
     {
      "start": "2026-11-26T14:10:00+09:00",
-     "end": "2026-11-26T16:00:00+09:00",
+     "end": "2026-11-26T15:55:00+09:00",
      "title": "제33회 KBS 한전 음악콩쿠르 대상선정 연주회",
      "genre": "421",
      "type": "본"
+    },
+    {
+     "start": "2026-11-26T15:55:00+09:00",
+     "end": "2026-11-26T16:00:00+09:00",
+     "title": "숨터 스페셜",
+     "genre": "321",
+     "type": "재"
     },
     {
      "start": "2026-11-26T16:00:00+09:00",
@@ -1581,7 +1588,7 @@
    "id": "kbs2",
    "name": "KBS2",
    "ok": true,
-   "updated": "2026-11-20T15:07:52.566327+09:00",
+   "updated": "2026-11-20T16:07:55.533564+09:00",
    "programs": [
     {
      "start": "2026-11-20T05:00:00+09:00",
@@ -2716,7 +2723,7 @@
    "id": "mbc",
    "name": "MBC",
    "ok": true,
-   "updated": "2026-11-20T15:07:52.566327+09:00",
+   "updated": "2026-11-20T16:07:55.533564+09:00",
    "programs": [
     {
      "start": "2026-11-20T05:00:00+09:00",
@@ -3830,7 +3837,7 @@
    "id": "sbs",
    "name": "SBS",
    "ok": true,
-   "updated": "2026-11-20T15:07:52.566327+09:00",
+   "updated": "2026-11-20T16:07:55.533564+09:00",
    "programs": [
     {
      "start": "2026-11-20T05:00:00+09:00",
@@ -4836,7 +4843,7 @@
     {
      "start": "2026-11-26T05:00:00+09:00",
      "end": "2026-11-26T06:00:00+09:00",
-     "title": "오늘부터 인생 2막",
+     "title": "오늘부터, 인생 2막",
      "genre": null,
      "type": null
     },
@@ -5014,7 +5021,7 @@
    "id": "jtbc",
    "name": "JTBC",
    "ok": true,
-   "updated": "2026-11-20T15:07:52.566327+09:00",
+   "updated": "2026-11-20T16:07:55.533564+09:00",
    "programs": [
     {
      "start": "2026-11-20T01:30:00+09:00",
@@ -6058,7 +6065,7 @@
    "id": "tvchosun",
    "name": "TV조선",
    "ok": true,
-   "updated": "2026-11-20T15:07:52.566327+09:00",
+   "updated": "2026-11-20T16:07:55.533564+09:00",
    "programs": [
     {
      "start": "2026-11-20T00:30:00+09:00",
@@ -6598,7 +6605,7 @@
    "id": "channela",
    "name": "채널A",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='ichannela.com', port=443): Max retries exceeded with url: /com/cmm/schedule.do?selectedDate=20261120 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ichannela.com', port=443) at 0x74de79cf8e90>, 'Connection to ichannela.com timed out. (connect timeout=20)'))",
+   "error": "HTTPSConnectionPool(host='ichannela.com', port=443): Max retries exceeded with url: /com/cmm/schedule.do?selectedDate=20261120 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ichannela.com', port=443) at 0x7076cdaea870>, 'Connection to ichannela.com timed out. (connect timeout=20)'))",
    "updated": "2026-11-20T14:07:52.137869+09:00",
    "programs": [
     {
@@ -7762,7 +7769,7 @@
    "id": "mbn",
    "name": "MBN",
    "ok": true,
-   "updated": "2026-11-20T15:07:52.566327+09:00",
+   "updated": "2026-11-20T16:07:55.533564+09:00",
    "programs": [
     {
      "start": "2026-11-20T03:20:00+09:00",
@@ -8890,7 +8897,7 @@
    "id": "tvn",
    "name": "tvN",
    "ok": true,
-   "updated": "2026-11-20T15:07:52.566327+09:00",
+   "updated": "2026-11-20T16:07:55.533564+09:00",
    "programs": [
     {
      "start": "2026-11-17T06:00:00+09:00",
@@ -9710,7 +9717,7 @@
    "id": "ena",
    "name": "ENA",
    "ok": true,
-   "updated": "2026-11-20T15:07:52.566327+09:00",
+   "updated": "2026-11-20T16:07:55.533564+09:00",
    "programs": [
     {
      "start": "2026-11-20T00:01:00+09:00",

@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-21T09:08:41.601743+09:00",
+ "updated": "2026-11-21T10:08:53.931977+09:00",
  "all": [
   {
    "name": "개인정보 유출",
-   "count": 33,
+   "count": 29,
    "items": [
+    {
+     "title": "컬리, 1만여명 개인정보 유출…\"피해액 전액 보상\"",
+     "link": "http://www.newstomato.com/ReadNews.aspx?no=1321311&inflow=N",
+     "t": "2026-11-21T09:30:00+09:00",
+     "by": "newstomato.com"
+    },
     {
      "title": "컬리 해킹 으로 1만701명 개인정보 유출 …일부 주민등록번호·계좌번호까...",
      "link": "https://www.dailysecu.com/news/articleView.html?idxno=209644",
@@ -28,18 +34,12 @@
      "link": "https://www.etoday.co.kr/news/view/2651133",
      "t": "2026-11-20T21:46:00+09:00",
      "by": "etoday.co.kr"
-    },
-    {
-     "title": "컬리 개인정보 유출 사고, 큐레이터 1만699명·일반 고객 2명 피해",
-     "link": "https://www.boannews.com/news/articleView.html?idxno=147426",
-     "t": "2026-11-20T20:28:00+09:00",
-     "by": "boannews.com"
     }
    ]
   },
   {
    "name": "게임",
-   "count": 23,
+   "count": 22,
    "items": [
     {
      "title": "비디오 게임 'GTA 6' 출시 매출, 사상 최고 5조원",
@@ -110,9 +110,51 @@
    ]
   },
   {
-   "name": "해킹",
-   "count": 20,
+   "name": "반도체",
+   "count": 21,
    "items": [
+    {
+     "title": "AI 열기 식자 美 반도체 주 시총 한 주 만에 2.3조달러 증발",
+     "link": "https://www.etoday.co.kr/news/view/2651170",
+     "t": "2026-11-21T10:04:00+09:00",
+     "by": "etoday.co.kr"
+    },
+    {
+     "title": "수출 1조 달러 달성에도 ‘ 반도체 저주’ 우려?…경계론 앞서 규제부터...",
+     "link": "https://www.mediapen.com/news/view/1138852",
+     "t": "2026-11-21T09:48:00+09:00",
+     "by": "mediapen.com"
+    },
+    {
+     "title": "국장서 당해놓고 또?…‘ 반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서...",
+     "link": "https://www.mk.co.kr/article/12215178",
+     "t": "2026-11-21T09:26:00+09:00",
+     "by": "mk.co.kr"
+    },
+    {
+     "title": "트럼프, 중국 반도체 수출 정책 고수…구형 칩만 허용하며 협상 지속",
+     "link": "https://www.gokorea.kr/news/articleView.html?idxno=886668",
+     "t": "2026-11-21T09:14:00+09:00",
+     "by": "gokorea.kr"
+    },
+    {
+     "title": "AI 안경에 산 업계 보안 비상… 반도체 ·방산 업계 반입 제한",
+     "link": "https://www.sentv.co.kr/article/view/sentv202611200131",
+     "t": "2026-11-21T08:02:00+09:00",
+     "by": "sentv.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "해킹",
+   "count": 18,
+   "items": [
+    {
+     "title": "AI가 바꾼 세상: 금융 해킹 에서 시험 부정행위까지, 당신의 개인정보 는...",
+     "link": "https://www.gokorea.kr/news/articleView.html?idxno=886682",
+     "t": "2026-11-21T09:18:00+09:00",
+     "by": "gokorea.kr"
+    },
     {
      "title": "[ET톡] 공공기관 해킹 사전 예방이 먼저",
      "link": "https://www.etnews.com/20261120000205",
@@ -136,84 +178,42 @@
      "link": "https://www.yna.co.kr/view/AKR20261119149900017?input=1195m",
      "t": "2026-11-21T06:33:00+09:00",
      "by": "yna.co.kr"
-    },
-    {
-     "title": "씨티은행, AI 에이전트가 해킹 당해도 고객 책임…JP모건·PNC 이어 약관 ...",
-     "link": "https://www.wikitree.co.kr/articles/1176455",
-     "t": "2026-11-21T01:40:00+09:00",
-     "by": "wikitree.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "반도체",
-   "count": 19,
-   "items": [
-    {
-     "title": "AI 안경에 산 업계 보안 비상… 반도체 ·방산 업계 반입 제한",
-     "link": "https://www.sentv.co.kr/article/view/sentv202611200131",
-     "t": "2026-11-21T08:02:00+09:00",
-     "by": "sentv.co.kr"
-    },
-    {
-     "title": "美 AI 규제에도 꺾이지 않는 반도체 ⋯“2030년까지 슈퍼사이클”",
-     "link": "https://www.etoday.co.kr/news/view/2650948",
-     "t": "2026-11-21T07:00:00+09:00",
-     "by": "etoday.co.kr"
-    },
-    {
-     "title": "젠슨 황 스캔들이 부른 '기술탈취 특별법' 촉구…\"K- 반도체 도 안심 못 해...",
-     "link": "https://www.newsis.com/view/NISX20261118_0003873076",
-     "t": "2026-11-21T07:00:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "조지아 반도체 위원에 조민재 앱솔릭스 CFO",
-     "link": "https://www.koreadaily.com/article/20261120133352923",
-     "t": "2026-11-21T06:34:00+09:00",
-     "by": "koreadaily.com"
-    },
-    {
-     "title": "반도체 ·앤트로픽 '급락'…AI 투자 불안 확산",
-     "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856581&plink=ORI&cooper=NAVER",
-     "t": "2026-11-21T06:21:00+09:00",
-     "by": "sbs.co.kr"
     }
    ]
   },
   {
    "name": "엔비디아",
-   "count": 12,
+   "count": 15,
    "items": [
+    {
+     "title": "\"일주일 만에 1년 수익 모두 증발\"…엔비디아 14% 폭락, 월가 초토화 'A...",
+     "link": "https://www.fnnews.com/news/202611210748273869",
+     "t": "2026-11-21T10:01:00+09:00",
+     "by": "fnnews.com"
+    },
+    {
+     "title": "이재용의 원픽…\"될 사람이 됐다\" 엔비디아 뚫은 30년 삼성맨 [강경주의...",
+     "link": "https://www.hankyung.com/article/2026112004536",
+     "t": "2026-11-21T09:31:00+09:00",
+     "by": "hankyung.com"
+    },
+    {
+     "title": "국장서 당해놓고 또?…‘ 반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서...",
+     "link": "https://www.mk.co.kr/article/12215178",
+     "t": "2026-11-21T09:26:00+09:00",
+     "by": "mk.co.kr"
+    },
+    {
+     "title": "엔비디아 회계장부 들여다보는 美 SEC…매출 공시·회계 처리 조사",
+     "link": "https://biz.sbs.co.kr/article_hub/20000347956?division=NAVER",
+     "t": "2026-11-21T09:17:00+09:00",
+     "by": "biz.sbs.co.kr"
+    },
     {
      "title": "美 증권위, 엔비디아 회계 정밀조사...수출통제·반독점에 설상가상",
      "link": "https://www.fnnews.com/news/202611210840440125",
      "t": "2026-11-21T09:09:00+09:00",
      "by": "fnnews.com"
-    },
-    {
-     "title": "엔비디아 회계 조사 나선 美 SEC…싱가포르 매출 공시·순환거래 도마",
-     "link": "http://www.joseilbo.com/news/news_read.php?uid=580145&class=42&grp=",
-     "t": "2026-11-21T08:53:00+09:00",
-     "by": "joseilbo.com"
-    },
-    {
-     "title": "엔비디아 첨단칩 중국 차단…한미반도체·디아이 반사이익 기대",
-     "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506540",
-     "t": "2026-11-21T08:10:00+09:00",
-     "by": "pinpointnews.co.kr"
-    },
-    {
-     "title": "“엔비디아가 ‘AI 중앙은행’이면 AMD는 ‘실리콘밸리 은행’”…언론...",
-     "link": "https://www.sedaily.com/article/20117032?ref=naver",
-     "t": "2026-11-21T07:56:00+09:00",
-     "by": "sedaily.com"
-    },
-    {
-     "title": "\"엔비디아 탄생한 그 식당, 30년전 청담동에도 있었다?\"…미국판 '김밥...",
-     "link": "https://view.asiae.co.kr/article/2026111615495784849",
-     "t": "2026-11-21T07:41:00+09:00",
-     "by": "view.asiae.co.kr"
     }
    ]
   }

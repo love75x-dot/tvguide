@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-21T17:11:05.547306+09:00",
+ "updated": "2026-11-21T18:08:50.748806+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 77,
+   "count": 76,
    "angles": [
     "에 좋은",
     "부작용",
@@ -46,12 +46,12 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 35,
+   "count": 32,
    "angles": [
     "먹는 법",
     "부작용",
-    "효능",
-    "에 좋은"
+    "에 좋은",
+    "효능"
    ],
    "items": [
     {
@@ -124,48 +124,6 @@
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626527",
      "t": "2026-11-20T08:58:00+09:00",
      "by": "mdtoday.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "감기",
-   "kind": "질환·증상",
-   "count": 19,
-   "angles": [
-    "에 좋은",
-    "효능",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "감기와 독감 의 차이, 증상 시작·체온·몸살 기준과 ' 독감 ' 전염 기간 [...",
-     "link": "https://www.wikitree.co.kr/articles/1176438",
-     "t": "2026-11-20T22:12:00+09:00",
-     "by": "wikitree.co.kr"
-    },
-    {
-     "title": "감기 아닌 독감 , '48시간'이 승부 가른다",
-     "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=99039",
-     "t": "2026-11-20T17:22:00+09:00",
-     "by": "kmedinfo.co.kr"
-    },
-    {
-     "title": "마늘, 감기 예방 효과 입증 부족…콜레스테롤 개선에는 도움",
-     "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903872",
-     "t": "2026-11-20T15:56:00+09:00",
-     "by": "newsworks.co.kr"
-    },
-    {
-     "title": "초겨울 감기 초기 증상 , 목 통증·오한 나타나면 건강 상태 살펴야",
-     "link": "https://edu.donga.com/news/articleView.html?idxno=113979",
-     "t": "2026-11-20T15:16:00+09:00",
-     "by": "edu.donga.com"
-    },
-    {
-     "title": "국민 71% \"항생제, 감기 치료에 도움된다\"… 항생제 오남용 인식 개선 시...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70344",
-     "t": "2026-11-20T14:10:00+09:00",
-     "by": "hidoc.co.kr"
     }
    ]
   },
@@ -246,6 +204,48 @@
      "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200147",
      "t": "2026-11-19T20:48:00+09:00",
      "by": "doctorsnews.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "감기",
+   "kind": "질환·증상",
+   "count": 16,
+   "angles": [
+    "에 좋은",
+    "효능",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "감기와 독감 의 차이, 증상 시작·체온·몸살 기준과 ' 독감 ' 전염 기간 [...",
+     "link": "https://www.wikitree.co.kr/articles/1176438",
+     "t": "2026-11-20T22:12:00+09:00",
+     "by": "wikitree.co.kr"
+    },
+    {
+     "title": "감기 아닌 독감 , '48시간'이 승부 가른다",
+     "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=99039",
+     "t": "2026-11-20T17:22:00+09:00",
+     "by": "kmedinfo.co.kr"
+    },
+    {
+     "title": "마늘, 감기 예방 효과 입증 부족…콜레스테롤 개선에는 도움",
+     "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903872",
+     "t": "2026-11-20T15:56:00+09:00",
+     "by": "newsworks.co.kr"
+    },
+    {
+     "title": "초겨울 감기 초기 증상 , 목 통증·오한 나타나면 건강 상태 살펴야",
+     "link": "https://edu.donga.com/news/articleView.html?idxno=113979",
+     "t": "2026-11-20T15:16:00+09:00",
+     "by": "edu.donga.com"
+    },
+    {
+     "title": "국민 71% \"항생제, 감기 치료에 도움된다\"… 항생제 오남용 인식 개선 시...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70344",
+     "t": "2026-11-20T14:10:00+09:00",
+     "by": "hidoc.co.kr"
     }
    ]
   },
@@ -452,10 +452,8 @@
   {
    "name": "당뇨",
    "kind": "질환·증상",
-   "count": 9,
-   "angles": [
-    "에 좋은"
-   ],
+   "count": 8,
+   "angles": [],
    "items": [
     {
      "title": "당뇨· 혈압 약 복용하는 50대…보험 부담없이 들 수 있다",
@@ -486,46 +484,6 @@
      "link": "https://www.bloter.net/news/articleView.html?idxno=679208",
      "t": "2026-11-20T09:56:00+09:00",
      "by": "bloter.net"
-    }
-   ]
-  },
-  {
-   "name": "고혈압",
-   "kind": "질환·증상",
-   "count": 8,
-   "angles": [
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "\"왜 겨울에만 혈압이 높게 나올까...우리가 몰랐던 고혈압 진실\"",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3758992",
-     "t": "2026-11-21T12:42:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "겨울철 건강 검진에서 혈압이 높게 나왔다면? … 일시적 상승과 고혈압 ...",
-     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144584",
-     "t": "2026-11-20T09:06:00+09:00",
-     "by": "medisobizanews.com"
-    },
-    {
-     "title": "\"수축기 혈압 120도 안심 못 한다\"… 강화된 고혈압 기준과 올바른 관리...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70280",
-     "t": "2026-11-19T17:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "\"뇌졸중 재발 예방 , 이상지질혈증-고혈압 통합 관리 중요\"",
-     "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200136",
-     "t": "2026-11-19T15:26:00+09:00",
-     "by": "doctorsnews.co.kr"
-    },
-    {
-     "title": "고혈압·당뇨, 5개 암종서 심뇌혈관 질환 과 연관",
-     "link": "https://www.naeil.com/news/read/609328?ref=naver",
-     "t": "2026-11-19T13:04:00+09:00",
-     "by": "naeil.com"
     }
    ]
   },
@@ -568,6 +526,46 @@
      "link": "https://biz.sbs.co.kr/article_hub/20000347777?division=NAVER",
      "t": "2026-11-20T11:05:00+09:00",
      "by": "biz.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "고혈압",
+   "kind": "질환·증상",
+   "count": 7,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "\"왜 겨울에만 혈압이 높게 나올까...우리가 몰랐던 고혈압 진실\"",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3758992",
+     "t": "2026-11-21T12:42:00+09:00",
+     "by": "gukjenews.com"
+    },
+    {
+     "title": "겨울철 건강 검진에서 혈압이 높게 나왔다면? … 일시적 상승과 고혈압 ...",
+     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144584",
+     "t": "2026-11-20T09:06:00+09:00",
+     "by": "medisobizanews.com"
+    },
+    {
+     "title": "\"수축기 혈압 120도 안심 못 한다\"… 강화된 고혈압 기준과 올바른 관리...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70280",
+     "t": "2026-11-19T17:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "\"뇌졸중 재발 예방 , 이상지질혈증-고혈압 통합 관리 중요\"",
+     "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200136",
+     "t": "2026-11-19T15:26:00+09:00",
+     "by": "doctorsnews.co.kr"
+    },
+    {
+     "title": "고혈압·당뇨, 5개 암종서 심뇌혈관 질환 과 연관",
+     "link": "https://www.naeil.com/news/read/609328?ref=naver",
+     "t": "2026-11-19T13:04:00+09:00",
+     "by": "naeil.com"
     }
    ]
   },

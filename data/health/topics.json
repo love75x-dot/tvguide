@@ -1,16 +1,22 @@
 {
- "updated": "2026-11-21T18:08:50.748806+09:00",
+ "updated": "2026-11-21T18:38:48.103175+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 76,
+   "count": 75,
    "angles": [
     "에 좋은",
     "부작용",
     "효능"
    ],
    "items": [
+    {
+     "title": "한 달이나 빨리 왔다…\"하수서 독감 바이러스 급증\" 경고",
+     "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857080&plink=ORI&cooper=NAVER",
+     "t": "2026-11-21T18:24:00+09:00",
+     "by": "sbs.co.kr"
+    },
     {
      "title": "전북 하수에서 독감 ·코로나 바이러스 증가 검출…\"개인 위생 철저\"",
      "link": "https://www.newsis.com/view/NISX20261121_0003877709",
@@ -34,12 +40,6 @@
      "link": "https://www.yna.co.kr/view/AKR20261121028400055?input=1195m",
      "t": "2026-11-21T10:56:00+09:00",
      "by": "yna.co.kr"
-    },
-    {
-     "title": "독감 백신 예방 효과 평균 39.5%…기존에 알려진 40~60%보다 낮아",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626771",
-     "t": "2026-11-21T10:46:00+09:00",
-     "by": "mdtoday.co.kr"
     }
    ]
   },
@@ -252,7 +252,7 @@
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 12,
+   "count": 11,
    "angles": [
     "부작용",
     "에 좋은",
@@ -998,34 +998,6 @@
    ]
   },
   {
-   "name": "폐렴",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "독감 나았는데 다시 열·기침 심해진다면…폐렴 가능성 살펴야",
-     "link": "https://www.thepowernews.co.kr/view.php?ud=202611170936001250de3f0aa1be_7",
-     "t": "2026-11-21T10:06:00+09:00",
-     "by": "thepowernews.co.kr"
-    },
-    {
-     "title": "겨울 초입 독감 전국 유행…약해진 기도 폐렴 합병증 위험",
-     "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=60029",
-     "t": "2026-11-18T19:38:00+09:00",
-     "by": "koreahealthlog.com"
-    },
-    {
-     "title": "독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 의심",
-     "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171934&ref=naverpc",
-     "t": "2026-11-18T18:36:00+09:00",
-     "by": "medicaltimes.com"
-    }
-   ]
-  },
-  {
    "name": "김치",
    "kind": "식품·제철",
    "count": 2,
@@ -1064,6 +1036,26 @@
      "link": "https://www.thegolftimes.co.kr/news/articleView.html?idxno=82342",
      "t": "2026-11-19T10:58:00+09:00",
      "by": "thegolftimes.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "비타민C",
+   "kind": "영양제",
+   "count": 2,
+   "angles": [],
+   "items": [
+    {
+     "title": "영하권 추위에 면역력 관리 중요…비타민C 풍부한 식품은?",
+     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80956",
+     "t": "2026-11-20T13:00:00+09:00",
+     "by": "mkhealth.co.kr"
+    },
+    {
+     "title": "성균관대 연구 팀, AI로 최적 조건 찾아 극미량 비타민C 검출 가능한 초...",
+     "link": "https://www.newstnt.com/news/articleView.html?idxno=729327",
+     "t": "2026-11-19T14:46:00+09:00",
+     "by": "newstnt.com"
     }
    ]
   }

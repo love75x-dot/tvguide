@@ -1,16 +1,28 @@
 {
- "updated": "2026-11-21T10:24:19.074043+09:00",
+ "updated": "2026-11-21T11:08:53.746365+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 83,
+   "count": 85,
    "angles": [
     "에 좋은",
     "부작용",
     "효능"
    ],
    "items": [
+    {
+     "title": "\"전북도내 하수서 독감 바이러스 검출 급증…감염병 각별 주의\"",
+     "link": "https://www.yna.co.kr/view/AKR20261121028400055?input=1195m",
+     "t": "2026-11-21T10:56:00+09:00",
+     "by": "yna.co.kr"
+    },
+    {
+     "title": "독감 백신 예방 효과 평균 39.5%…기존에 알려진 40~60%보다 낮아",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626771",
+     "t": "2026-11-21T10:46:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
     {
      "title": "독감 입원환자 일주일 새 1.5배…사망 신고도 24건→44건",
      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=131038",
@@ -28,31 +40,25 @@
      "link": "https://dgmbc.com/NewsArticle/874089",
      "t": "2026-11-21T10:12:00+09:00",
      "by": "dgmbc.com"
-    },
-    {
-     "title": "독감 나았는데 다시 열·기침 심해진다면…폐렴 가능성 살펴야",
-     "link": "https://www.thepowernews.co.kr/view.php?ud=202611170936001250de3f0aa1be_7",
-     "t": "2026-11-21T10:06:00+09:00",
-     "by": "thepowernews.co.kr"
-    },
-    {
-     "title": "독감 입원 급증…전주보다 사망도 배로 늘어",
-     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719029&ref=A",
-     "t": "2026-11-21T06:44:00+09:00",
-     "by": "kbs.co.kr"
     }
    ]
   },
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 46,
+   "count": 47,
    "angles": [
     "부작용",
     "먹는 법",
     "효능"
    ],
    "items": [
+    {
+     "title": "치실로 혈당 재는 날 멀지 않았다…中 연구 진, 스마트 치실 개발",
+     "link": "https://zdnet.co.kr/view/?no=20261121071922",
+     "t": "2026-11-21T11:05:00+09:00",
+     "by": "zdnet.co.kr"
+    },
     {
      "title": "\"술도 안 마시는데 웬 지방간?\"… 복부비만·고 혈당 이 위험 신호",
      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70377",
@@ -76,12 +82,6 @@
      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=549488",
      "t": "2026-11-21T05:50:00+09:00",
      "by": "kpanews.co.kr"
-    },
-    {
-     "title": "[인터뷰H] \"밤에도 혈당 걱정에 잠 못 자는데\"…1형당뇨 환자들, 23년 만...",
-     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=81009",
-     "t": "2026-11-20T17:06:00+09:00",
-     "by": "mkhealth.co.kr"
     }
    ]
   },
@@ -249,6 +249,48 @@
    ]
   },
   {
+   "name": "치매",
+   "kind": "질환·증상",
+   "count": 15,
+   "angles": [
+    "부작용",
+    "에 좋은",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "[더 건강한 나] 근육이 치매 위험 가른다?…중장년부터 관리 해야",
+     "link": "http://www.yonhapnewstv.co.kr/news/MYH20261121103639s1T",
+     "t": "2026-11-21T10:38:00+09:00",
+     "by": "yonhapnewstv.co.kr"
+    },
+    {
+     "title": "폐경 이행기는 골건강 ‘기회의 창’…“MHT, 치매 예방 목적 처방은 안...",
+     "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978581",
+     "t": "2026-11-21T10:00:00+09:00",
+     "by": "medicalworldnews.co.kr"
+    },
+    {
+     "title": "‘국민 관절 영양제 ’ 글루코사민의 배신?…치매 진행 25%↑에 무릎 효과 ...",
+     "link": "https://biz.heraldcorp.com/article/10944279?ref=naver",
+     "t": "2026-11-20T22:11:00+09:00",
+     "by": "biz.heraldcorp.com"
+    },
+    {
+     "title": "동대문구, 어르신 맞춤형 영양관리 교육 성료…치매가정에 도시락 나눔...",
+     "link": "https://www.munhwa.com/article/11632815?ref=naver",
+     "t": "2026-11-20T11:15:00+09:00",
+     "by": "munhwa.com"
+    },
+    {
+     "title": "\"치매 치료부터 당뇨 관리 까지\"…헬스케어 스타트업 출사표 [현장+]",
+     "link": "https://www.bloter.net/news/articleView.html?idxno=679208",
+     "t": "2026-11-20T09:56:00+09:00",
+     "by": "bloter.net"
+    }
+   ]
+  },
+  {
    "name": "다이어트",
    "kind": "운동·생활",
    "count": 14,
@@ -285,48 +327,6 @@
      "link": "https://www.wikitree.co.kr/articles/1176239",
      "t": "2026-11-20T14:02:00+09:00",
      "by": "wikitree.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "치매",
-   "kind": "질환·증상",
-   "count": 14,
-   "angles": [
-    "부작용",
-    "에 좋은",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "폐경 이행기는 골건강 ‘기회의 창’…“MHT, 치매 예방 목적 처방은 안...",
-     "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978581",
-     "t": "2026-11-21T10:00:00+09:00",
-     "by": "medicalworldnews.co.kr"
-    },
-    {
-     "title": "‘국민 관절 영양제 ’ 글루코사민의 배신?…치매 진행 25%↑에 무릎 효과 ...",
-     "link": "https://biz.heraldcorp.com/article/10944279?ref=naver",
-     "t": "2026-11-20T22:11:00+09:00",
-     "by": "biz.heraldcorp.com"
-    },
-    {
-     "title": "동대문구, 어르신 맞춤형 영양관리 교육 성료…치매가정에 도시락 나눔...",
-     "link": "https://www.munhwa.com/article/11632815?ref=naver",
-     "t": "2026-11-20T11:15:00+09:00",
-     "by": "munhwa.com"
-    },
-    {
-     "title": "\"치매 치료부터 당뇨 관리 까지\"…헬스케어 스타트업 출사표 [현장+]",
-     "link": "https://www.bloter.net/news/articleView.html?idxno=679208",
-     "t": "2026-11-20T09:56:00+09:00",
-     "by": "bloter.net"
-    },
-    {
-     "title": "고용 불안정...치매 위험 높여...",
-     "link": "http://www.whosaeng.com/175479",
-     "t": "2026-11-20T09:24:00+09:00",
-     "by": "whosaeng.com"
     }
    ]
   },
@@ -610,6 +610,48 @@
    ]
   },
   {
+   "name": "커피",
+   "kind": "식품·제철",
+   "count": 7,
+   "angles": [
+    "부작용",
+    "먹는 법",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "커피 하루 2~3잔, 심혈관 질환 위험 15% 낮은 것과 연관",
+     "link": "https://www.segye.com/newsView/20261121503703?OutUrl=naver",
+     "t": "2026-11-21T11:07:00+09:00",
+     "by": "segye.com"
+    },
+    {
+     "title": "아침마다 달콤한 커피·빵 드시나요?…혈당 생각하셔야죠!",
+     "link": "https://www.sportschosun.com/life/2026-11-19/202611200100127560011939",
+     "t": "2026-11-21T08:01:00+09:00",
+     "by": "sportschosun.com"
+    },
+    {
+     "title": "블랙 커피 하루 2~3잔 마셨더니…심혈관 질환 위험 15% 낮았다",
+     "link": "https://biz.heraldcorp.com/article/10944305?ref=naver",
+     "t": "2026-11-20T16:21:00+09:00",
+     "by": "biz.heraldcorp.com"
+    },
+    {
+     "title": "낮잠·커피도 효과 없어…성인 10명 중 8명 '에너지 부족'",
+     "link": "https://biz.sbs.co.kr/article_hub/20000347777?division=NAVER",
+     "t": "2026-11-20T11:05:00+09:00",
+     "by": "biz.sbs.co.kr"
+    },
+    {
+     "title": "하루 커피 2~3잔 마셨더니…심혈관 질환 위험 15% 낮았다",
+     "link": "https://sports.khan.co.kr/article/202611201001003?pt=nv",
+     "t": "2026-11-20T10:02:00+09:00",
+     "by": "sports.khan.co.kr"
+    }
+   ]
+  },
+  {
    "name": "폐렴",
    "kind": "질환·증상",
    "count": 7,
@@ -686,48 +728,6 @@
      "link": "https://www.k-health.com/news/articleView.html?idxno=102329",
      "t": "2026-11-18T23:22:00+09:00",
      "by": "k-health.com"
-    }
-   ]
-  },
-  {
-   "name": "커피",
-   "kind": "식품·제철",
-   "count": 6,
-   "angles": [
-    "부작용",
-    "먹는 법",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "아침마다 달콤한 커피·빵 드시나요?…혈당 생각하셔야죠!",
-     "link": "https://www.sportschosun.com/life/2026-11-19/202611200100127560011939",
-     "t": "2026-11-21T08:01:00+09:00",
-     "by": "sportschosun.com"
-    },
-    {
-     "title": "블랙 커피 하루 2~3잔 마셨더니…심혈관 질환 위험 15% 낮았다",
-     "link": "https://biz.heraldcorp.com/article/10944305?ref=naver",
-     "t": "2026-11-20T16:21:00+09:00",
-     "by": "biz.heraldcorp.com"
-    },
-    {
-     "title": "낮잠·커피도 효과 없어…성인 10명 중 8명 '에너지 부족'",
-     "link": "https://biz.sbs.co.kr/article_hub/20000347777?division=NAVER",
-     "t": "2026-11-20T11:05:00+09:00",
-     "by": "biz.sbs.co.kr"
-    },
-    {
-     "title": "하루 커피 2~3잔 마셨더니…심혈관 질환 위험 15% 낮았다",
-     "link": "https://sports.khan.co.kr/article/202611201001003?pt=nv",
-     "t": "2026-11-20T10:02:00+09:00",
-     "by": "sports.khan.co.kr"
-    },
-    {
-     "title": "하루 커피 2~3잔 마셨더니…심혈관 질환 위험 15% 감소",
-     "link": "http://www.whosaeng.com/175485",
-     "t": "2026-11-20T09:50:00+09:00",
-     "by": "whosaeng.com"
     }
    ]
   },
@@ -850,6 +850,44 @@
      "link": "https://biz.heraldcorp.com/article/10941173?ref=naver",
      "t": "2026-11-18T11:44:00+09:00",
      "by": "biz.heraldcorp.com"
+    }
+   ]
+  },
+  {
+   "name": "피로",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [],
+   "items": [
+    {
+     "title": "뇌 노화를 막는 5분 운동, 피로 유발하는 인공지능 대안 된다",
+     "link": "https://www.gqkorea.co.kr/2026/11/21/%eb%87%8c-%eb%85%b8%ed%99%94%eb%a5%bc-%eb%a7%89%eb%8a%94-5%eb%b6%84-%ec%9a%b4%eb%8f%99-%ed%94%bc%eb%a1%9c-%ec%9c%a0%eb%b0%9c%ed%95%98%eb%8a%94-%ec%9d%b8%ea%b3%b5%ec%a7%80%eb%8a%a5-%eb%8c%80%ec%95%88/?utm_source=naver&utm_medium=partnership",
+     "t": "2026-11-21T10:46:00+09:00",
+     "by": "gqkorea.co.kr"
+    },
+    {
+     "title": "독감 후에도 기침·피로 이어지는 아이들, 반복되는 잔병치레 원인은?",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626665",
+     "t": "2026-11-20T16:02:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "독감 앓은 아이, 기침·피로 지속된다면 회복 상태 살펴야",
+     "link": "https://kids.donga.com/news/articleView.html?idxno=170369",
+     "t": "2026-11-20T15:34:00+09:00",
+     "by": "kids.donga.com"
+    },
+    {
+     "title": "수능 D-1, 수험생 두통부터 감독관 피로…시험 당일 건강 관리 법",
+     "link": "https://www.sentv.co.kr/article/view/sentv202611180163",
+     "t": "2026-11-18T15:24:00+09:00",
+     "by": "sentv.co.kr"
+    },
+    {
+     "title": "수험생은 긴장, 감독관은 피로…수능날 한방 건강관리법",
+     "link": "https://view.asiae.co.kr/article/2026111814352846306",
+     "t": "2026-11-18T14:35:00+09:00",
+     "by": "view.asiae.co.kr"
     }
    ]
   },
@@ -1027,38 +1065,6 @@
    ]
   },
   {
-   "name": "피로",
-   "kind": "질환·증상",
-   "count": 4,
-   "angles": [],
-   "items": [
-    {
-     "title": "독감 후에도 기침·피로 이어지는 아이들, 반복되는 잔병치레 원인은?",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626665",
-     "t": "2026-11-20T16:02:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "독감 앓은 아이, 기침·피로 지속된다면 회복 상태 살펴야",
-     "link": "https://kids.donga.com/news/articleView.html?idxno=170369",
-     "t": "2026-11-20T15:34:00+09:00",
-     "by": "kids.donga.com"
-    },
-    {
-     "title": "수능 D-1, 수험생 두통부터 감독관 피로…시험 당일 건강 관리 법",
-     "link": "https://www.sentv.co.kr/article/view/sentv202611180163",
-     "t": "2026-11-18T15:24:00+09:00",
-     "by": "sentv.co.kr"
-    },
-    {
-     "title": "수험생은 긴장, 감독관은 피로…수능날 한방 건강관리법",
-     "link": "https://view.asiae.co.kr/article/2026111814352846306",
-     "t": "2026-11-18T14:35:00+09:00",
-     "by": "view.asiae.co.kr"
-    }
-   ]
-  },
-  {
    "name": "고지혈증",
    "kind": "질환·증상",
    "count": 3,
@@ -1083,6 +1089,34 @@
      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16280561",
      "t": "2026-11-19T11:40:00+09:00",
      "by": "topstarnews.net"
+    }
+   ]
+  },
+  {
+   "name": "김치",
+   "kind": "식품·제철",
+   "count": 3,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "“열량 부담 줄어든다” 김장 김치에 수육 대신 곁들일 3가지 음식",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/20/2026112003026.html",
+     "t": "2026-11-21T10:31:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "“밤 사이 혈당 치솟을라”… 이민정, 대패삼겹살·김치 볶아 ‘야식 먹...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802675.html",
+     "t": "2026-11-18T21:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "[팩트체크] \"김치가 빵보다 설탕 많다?\"…섭취 빈도 착시와 발효의 과학",
+     "link": "https://www.farminsight.net/news/articleView.html?idxno=17227",
+     "t": "2026-11-18T13:46:00+09:00",
+     "by": "farminsight.net"
     }
    ]
   },
@@ -1112,34 +1146,6 @@
      "link": "https://www.wikitree.co.kr/articles/1175674",
      "t": "2026-11-18T17:10:00+09:00",
      "by": "wikitree.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "탈모",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "탈모 각오하고 비만 치료제 사용할까?…공복에 ‘이 음식’ 먹었더니, ...",
-     "link": "https://kormedi.com/?p=2909336",
-     "t": "2026-11-20T19:02:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "젊은 층·여성도 안심 못 하는 탈모…유형별 원인 파악·조기 치료 중요",
-     "link": "https://www.segye.com/newsView/20261118515421?OutUrl=naver",
-     "t": "2026-11-18T21:02:00+09:00",
-     "by": "segye.com"
-    },
-    {
-     "title": "\"탈모·성기능 효과\" 해외직구 이 제품들 성분 충격...환각버섯 젤리도",
-     "link": "https://www.mt.co.kr/policy/2026/11/18/2026111811034840969",
-     "t": "2026-11-18T14:01:00+09:00",
-     "by": "mt.co.kr"
     }
    ]
   }

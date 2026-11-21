@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-21T19:08:53.667839+09:00",
+ "updated": "2026-11-21T20:08:48.569450+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 74,
+   "count": 73,
    "angles": [
     "에 좋은",
     "부작용",
@@ -89,12 +89,18 @@
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 20,
+   "count": 21,
    "angles": [
     "먹는 법",
     "효능"
    ],
    "items": [
+    {
+     "title": "'71㎏→54㎏' 김지영, 출산 후 17㎏ 감량 비결 공개…\"식이섬유·단백질...",
+     "link": "https://www.newsis.com/view/NISX20261121_0003877714",
+     "t": "2026-11-21T19:23:00+09:00",
+     "by": "newsis.com"
+    },
     {
      "title": "‘GLP-1’ 치료제 쓰는 당뇨병 환자, 단백질 섭취 량 더 적었다",
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/20/2026112002575.html",
@@ -118,12 +124,6 @@
      "link": "https://www.wikitree.co.kr/articles/1176222",
      "t": "2026-11-20T10:34:00+09:00",
      "by": "wikitree.co.kr"
-    },
-    {
-     "title": "세포 내 단백질 '교통체증' 해소했더니…희귀 신장·망막질환 개선",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626527",
-     "t": "2026-11-20T08:58:00+09:00",
-     "by": "mdtoday.co.kr"
     }
    ]
   },
@@ -650,48 +650,6 @@
    ]
   },
   {
-   "name": "콜레스테롤",
-   "kind": "질환·증상",
-   "count": 5,
-   "angles": [
-    "효능",
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "마늘, 감기 예방 효과 입증 부족…콜레스테롤 개선에는 도움",
-     "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903872",
-     "t": "2026-11-20T15:56:00+09:00",
-     "by": "newsworks.co.kr"
-    },
-    {
-     "title": "[고지혈증의 경고 1] 콜레스테롤은 왜 높아지는가",
-     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214664",
-     "t": "2026-11-20T15:22:00+09:00",
-     "by": "100ssd.co.kr"
-    },
-    {
-     "title": "초기 병용요법, 심혈관 질환 환자 LDL 콜레스테롤 조절 효과 확인",
-     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34072",
-     "t": "2026-11-20T10:06:00+09:00",
-     "by": "jhealthmedia.joins.com"
-    },
-    {
-     "title": "삼겹살·버터 즐긴다면⋯콜레스테롤 더 조심해야 할 사람은?",
-     "link": "https://kormedi.com/?p=2908924",
-     "t": "2026-11-19T17:55:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "카놀라유 놀라운 건강 효과 4가지... \"올리브유보다 나쁜 콜레스테롤 더...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70118",
-     "t": "2026-11-18T20:00:00+09:00",
-     "by": "hidoc.co.kr"
-    }
-   ]
-  },
-  {
    "name": "비타민D",
    "kind": "영양제",
    "count": 4,
@@ -795,6 +753,41 @@
    ]
   },
   {
+   "name": "콜레스테롤",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "효능",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "마늘, 감기 예방 효과 입증 부족…콜레스테롤 개선에는 도움",
+     "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903872",
+     "t": "2026-11-20T15:56:00+09:00",
+     "by": "newsworks.co.kr"
+    },
+    {
+     "title": "[고지혈증의 경고 1] 콜레스테롤은 왜 높아지는가",
+     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214664",
+     "t": "2026-11-20T15:22:00+09:00",
+     "by": "100ssd.co.kr"
+    },
+    {
+     "title": "초기 병용요법, 심혈관 질환 환자 LDL 콜레스테롤 조절 효과 확인",
+     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34072",
+     "t": "2026-11-20T10:06:00+09:00",
+     "by": "jhealthmedia.joins.com"
+    },
+    {
+     "title": "삼겹살·버터 즐긴다면⋯콜레스테롤 더 조심해야 할 사람은?",
+     "link": "https://kormedi.com/?p=2908924",
+     "t": "2026-11-19T17:55:00+09:00",
+     "by": "kormedi.com"
+    }
+   ]
+  },
+  {
    "name": "피로",
    "kind": "질환·증상",
    "count": 4,
@@ -851,6 +844,32 @@
      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16280561",
      "t": "2026-11-19T11:40:00+09:00",
      "by": "topstarnews.net"
+    }
+   ]
+  },
+  {
+   "name": "김치",
+   "kind": "식품·제철",
+   "count": 3,
+   "angles": [],
+   "items": [
+    {
+     "title": "“빵보다 김치로 당 더 먹는다”…한국인들 놀랄 연구 결과 [헬스픽]",
+     "link": "https://www.seoul.co.kr/news/life/health-news/2026/11/19/20261119500237?wlog_tag3=naver",
+     "t": "2026-11-21T19:57:00+09:00",
+     "by": "seoul.co.kr"
+    },
+    {
+     "title": "“열량 부담 줄어든다” 김장 김치에 수육 대신 곁들일 3가지 음식",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/20/2026112003026.html",
+     "t": "2026-11-21T10:31:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "“밤 사이 혈당 치솟을라”… 이민정, 대패삼겹살·김치 볶아 ‘야식 먹...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802675.html",
+     "t": "2026-11-18T21:01:00+09:00",
+     "by": "health.chosun.com"
     }
    ]
   },
@@ -987,26 +1006,6 @@
      "title": "암 생존자, 심뇌혈관 위험 요인 다르다… 대장암은 ‘흡연’, 간·폐암은...",
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/19/2026111902269.html",
      "t": "2026-11-19T16:43:00+09:00",
-     "by": "health.chosun.com"
-    }
-   ]
-  },
-  {
-   "name": "김치",
-   "kind": "식품·제철",
-   "count": 2,
-   "angles": [],
-   "items": [
-    {
-     "title": "“열량 부담 줄어든다” 김장 김치에 수육 대신 곁들일 3가지 음식",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/20/2026112003026.html",
-     "t": "2026-11-21T10:31:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "“밤 사이 혈당 치솟을라”… 이민정, 대패삼겹살·김치 볶아 ‘야식 먹...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802675.html",
-     "t": "2026-11-18T21:01:00+09:00",
      "by": "health.chosun.com"
     }
    ]

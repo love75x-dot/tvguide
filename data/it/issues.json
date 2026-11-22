@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:12:56.767068+09:00",
+ "updated": "2026-11-23T00:08:34.846599+09:00",
  "all": [
   {
    "name": "카카오 페이",
@@ -38,20 +38,20 @@
    ]
   },
   {
-   "name": "개인정보",
-   "count": 31,
+   "name": "개인정보 유출",
+   "count": 20,
    "items": [
+    {
+     "title": "한국전력공사, '보안 혁신' 약속 무색…152만명 개인정보 유출",
+     "link": "https://www.newswhoplus.com/news/articleView.html?idxno=75064",
+     "t": "2026-11-23T00:00:00+09:00",
+     "by": "newswhoplus.com"
+    },
     {
      "title": "한국전력, 한전ON·전자조달시스템서 152만여 명 개인정보 유출",
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626894",
      "t": "2026-11-22T22:42:00+09:00",
      "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "한전, 개인정보 152만명분 유출 …계좌·카드 정보 까지 털렸다",
-     "link": "https://www.peoplewatch.co.kr/article/view/ppw202611220003",
-     "t": "2026-11-22T22:10:00+09:00",
-     "by": "peoplewatch.co.kr"
     },
     {
      "title": "한전, 한전ON·전자조달시스템 해킹 으로 152만명 개인정보 유출",
@@ -60,23 +60,29 @@
      "by": "byline.network"
     },
     {
-     "title": "한전서 국민 152만명 개인정보 무더기 유출",
-     "link": "https://www.viewsnnews.com/article?q=239862",
-     "t": "2026-11-22T21:32:00+09:00",
-     "by": "viewsnnews.com"
+     "title": "한전, 사이버 공격에 개인정보 152만 건 유출 …주민번호·계좌번호 포함",
+     "link": "https://news.cpbc.co.kr/article/1177183?division=NAVER",
+     "t": "2026-11-22T20:44:00+09:00",
+     "by": "cpbc.co.kr"
     },
     {
-     "title": "한전, 개인정보 150만건 털렸다…보안 예산 늘리고도 관리 부실 도마",
-     "link": "https://www.ziksir.com/news/articleView.html?idxno=154249",
-     "t": "2026-11-22T20:52:00+09:00",
-     "by": "ziksir.com"
+     "title": "한전, 152만명 개인정보 유출 …주민번호, 계좌·카드번호까지 샜다",
+     "link": "https://www.donga.com/news/Society/article/all/20261122/135068953/1",
+     "t": "2026-11-22T20:37:00+09:00",
+     "by": "donga.com"
     }
    ]
   },
   {
    "name": "해킹",
-   "count": 24,
+   "count": 25,
    "items": [
+    {
+     "title": "FBI까지… 해킹 추정 공격 당했다",
+     "link": "https://www.kmib.co.kr/article/20261122501330",
+     "t": "2026-11-22T23:32:00+09:00",
+     "by": "kmib.co.kr"
+    },
     {
      "title": "[단독 후속] 데일리시큐 19일 최초 보도한 한국전력 해킹 , 152만 명 개인 ...",
      "link": "https://www.dailysecu.com/news/articleView.html?idxno=209657",
@@ -100,19 +106,91 @@
      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=768834",
      "t": "2026-11-22T19:46:00+09:00",
      "by": "consumernews.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "한전",
+   "count": 23,
+   "items": [
+    {
+     "title": "한전, 개인정보 152만명분 유출 …계좌·카드 정보 까지 털렸다",
+     "link": "https://www.peoplewatch.co.kr/article/view/ppw202611220003",
+     "t": "2026-11-22T22:10:00+09:00",
+     "by": "peoplewatch.co.kr"
     },
     {
-     "title": "예별손보 '보험금 청구' 수탁사 해킹 … 과거 피보험자 66명 주민번호 등...",
-     "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506768",
-     "t": "2026-11-22T19:36:00+09:00",
-     "by": "pinpointnews.co.kr"
+     "title": "한전, 한전ON·전자조달시스템 해킹 으로 152만명 개인정보 유출",
+     "link": "https://byline.network/?p=9004111222628692",
+     "t": "2026-11-22T22:04:00+09:00",
+     "by": "byline.network"
+    },
+    {
+     "title": "한전, 개인정보 150만건 털렸다…보안 예산 늘리고도 관리 부실 도마",
+     "link": "https://www.ziksir.com/news/articleView.html?idxno=154249",
+     "t": "2026-11-22T20:52:00+09:00",
+     "by": "ziksir.com"
+    },
+    {
+     "title": "한전 고객 정보 152만명분 해킹 …65만명은 주민번호·계좌·카드번호까지...",
+     "link": "https://www.khan.co.kr/article/202611222051005",
+     "t": "2026-11-22T20:51:00+09:00",
+     "by": "khan.co.kr"
+    },
+    {
+     "title": "한전, 사이버 공격에 개인정보 152만 건 유출 …주민번호·계좌번호 포함",
+     "link": "https://news.cpbc.co.kr/article/1177183?division=NAVER",
+     "t": "2026-11-22T20:44:00+09:00",
+     "by": "cpbc.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "엔비디아",
+   "count": 19,
+   "items": [
+    {
+     "title": "[하현옥의 세계경제전망] ‘AI의 중앙은행’ 엔비디아가 돈줄 죄자 업계 ...",
+     "link": "https://www.joongang.co.kr/article/25480910",
+     "t": "2026-11-23T00:16:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "싱가포르 매출 왜 빠졌나…미 증권위, 엔비디아 회계부정 뒤진다",
+     "link": "https://www.joongang.co.kr/article/25480868",
+     "t": "2026-11-23T00:01:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "월가 흔든 AI 투자 열기와 불안…앤트로픽·엔비디아 희비",
+     "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95078",
+     "t": "2026-11-23T00:00:00+09:00",
+     "by": "thefairnews.co.kr"
+    },
+    {
+     "title": "엔비디아 제재의 나비효과…화웨이 급부상에 韓 반도체 '긴장'",
+     "link": "https://www.newsis.com/view/NISX20261117_0003871699",
+     "t": "2026-11-23T00:00:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "[특파원 칼럼/곽도영]잡스를 넘어선 애플, 젠슨 황을 넘어설 엔비디아",
+     "link": "https://www.donga.com/news/Opinion/article/all/20261122/135070206/2",
+     "t": "2026-11-22T23:13:00+09:00",
+     "by": "donga.com"
     }
    ]
   },
   {
    "name": "반도체",
-   "count": 21,
+   "count": 20,
    "items": [
+    {
+     "title": "엔비디아 제재의 나비효과…화웨이 급부상에 韓 반도체 '긴장'",
+     "link": "https://www.newsis.com/view/NISX20261117_0003871699",
+     "t": "2026-11-23T00:00:00+09:00",
+     "by": "newsis.com"
+    },
     {
      "title": "무디스, 내년 한국 반도체 호황 지속 전망…삼성·SK 실적 성장 기대",
      "link": "https://www.jemin.com/news/articleView.html?idxno=848100",
@@ -136,84 +214,6 @@
      "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041721",
      "t": "2026-11-22T17:54:00+09:00",
      "by": "kihoilbo.co.kr"
-    },
-    {
-     "title": "AI신화 '파열음'… 기로에 선 K 반도체",
-     "link": "https://www.mk.co.kr/article/12215703",
-     "t": "2026-11-22T17:37:00+09:00",
-     "by": "mk.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "엔비디아",
-   "count": 17,
-   "items": [
-    {
-     "title": "[특파원 칼럼/곽도영]잡스를 넘어선 애플, 젠슨 황을 넘어설 엔비디아",
-     "link": "https://www.donga.com/news/Opinion/article/all/20261122/135070206/2",
-     "t": "2026-11-22T23:13:00+09:00",
-     "by": "donga.com"
-    },
-    {
-     "title": "“엔비디아 칩 중국 밀수망에 앨리스 황·캄보디아 범죄조직 얽혀”",
-     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719514&ref=A",
-     "t": "2026-11-22T22:42:00+09:00",
-     "by": "kbs.co.kr"
-    },
-    {
-     "title": "\"엔비디아 칩 밀수에 앨리스 황·캄보디아 범죄조직 얽혀\"<FT>",
-     "link": "http://www.yonhapnewstv.co.kr/news/AKR20261122220405anV",
-     "t": "2026-11-22T22:05:00+09:00",
-     "by": "yonhapnewstv.co.kr"
-    },
-    {
-     "title": "엔비디아 칩 中 우회 공급망에 캄보디아 범죄조직까지 연루 의혹",
-     "link": "https://www.hankyung.com/article/2026112226787",
-     "t": "2026-11-22T21:58:00+09:00",
-     "by": "hankyung.com"
-    },
-    {
-     "title": "\"엔비디아 칩 中밀수망에 앨리스 황·캄보디아 범죄조직 얽혀\"",
-     "link": "https://www.yna.co.kr/view/AKR20261122050900085?input=1195m",
-     "t": "2026-11-22T21:45:00+09:00",
-     "by": "yna.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "게임",
-   "count": 14,
-   "items": [
-    {
-     "title": "해외 게임 사가 채운 지스타… 국내 대형사 복귀는 과제 [지스타2026]",
-     "link": "https://it.chosun.com/news/articleView.html?idxno=3000000001577",
-     "t": "2026-11-22T21:00:00+09:00",
-     "by": "it.chosun.com"
-    },
-    {
-     "title": "게임 부터 AI 창작·현대차 레이싱 한자리에…지스타, 나흘간 20만명 찾았...",
-     "link": "https://www.newsis.com/view/NISX20261122_0003878347",
-     "t": "2026-11-22T20:25:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "[지스타2026 ⑥끝] AI 로 활로 찾는 지스타…게임에 몰린 관람객들",
-     "link": "https://www.businessplus.kr/news/articleView.html?idxno=120262",
-     "t": "2026-11-22T19:14:00+09:00",
-     "by": "businessplus.kr"
-    },
-    {
-     "title": "[지스타 2026] 막 내린 게임 축제…대형사 이탈 속 외연 확장 성공했을...",
-     "link": "https://www.econovill.com/news/articleView.html?idxno=758083",
-     "t": "2026-11-22T18:00:00+09:00",
-     "by": "econovill.com"
-    },
-    {
-     "title": "GTA6, 사이드미러 파손·흙 묻은 캐릭터까지 구현… 게임 스팟 “오픈월드...",
-     "link": "https://www.wikitree.co.kr/articles/1176730",
-     "t": "2026-11-22T17:08:00+09:00",
-     "by": "wikitree.co.kr"
     }
    ]
   }

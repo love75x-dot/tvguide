@@ -32,7 +32,7 @@
     }
    ],
    "first": "00:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 1,
    "hours": [
     "00:10",
@@ -54,15 +54,16 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 16
+    "nate_pop": 22,
+    "nate_int": 19
    },
    "count": 3,
    "inrank": true
@@ -119,7 +120,7 @@
     }
    ],
    "first": "00:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 1,
    "hours": [
     "00:10",
@@ -140,15 +141,16 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 18
+    "nate_pop": 26,
+    "nate_int": 30
    },
    "count": 6,
    "inrank": true
@@ -268,11 +270,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 11,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c4",
@@ -568,7 +568,7 @@
     }
    ],
    "first": "00:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 5,
    "hours": [
     "00:10",
@@ -590,15 +590,15 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 29
+    "nate_int": 37
    },
    "count": 6,
    "inrank": true
@@ -683,12 +683,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 26,
-    "nate_int": 40
-   },
+   "now": {},
    "count": 6,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c11",
@@ -738,11 +735,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c12",
@@ -796,7 +791,7 @@
     }
    ],
    "first": "00:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 2,
    "hours": [
     "00:10",
@@ -818,15 +813,16 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 9
+    "nate_pop": 11,
+    "nate_int": 12
    },
    "count": 6,
    "inrank": true
@@ -1288,11 +1284,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 38
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c24",
@@ -1439,7 +1433,7 @@
     }
    ],
    "first": "00:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 4,
    "hours": [
     "00:10",
@@ -1461,15 +1455,15 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 28
+    "nate_int": 40
    },
    "count": 2,
    "inrank": true
@@ -1733,7 +1727,7 @@
     }
    ],
    "first": "00:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 1,
    "hours": [
     "00:10",
@@ -1747,15 +1741,16 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 11
+    "nate_pop": 16,
+    "nate_int": 13
    },
    "count": 2,
    "inrank": true
@@ -2108,7 +2103,7 @@
     }
    ],
    "first": "01:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 20,
    "hours": [
     "01:10",
@@ -2129,14 +2124,15 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 37
+    "nate_int": 33
    },
    "count": 4,
    "inrank": true
@@ -2637,7 +2633,7 @@
     }
    ],
    "first": "09:08",
-   "last": "19:08",
+   "last": "20:06",
    "best": 4,
    "hours": [
     "09:08",
@@ -2648,15 +2644,15 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 27
+    "nate_int": 35
    },
    "count": 1,
    "inrank": true
@@ -2871,7 +2867,8 @@
     "김원효, 부산 트랜스젠더 바 방문 영상 확산…\"최근 아냐\" 해명",
     "김원효, 트랜스젠더 바 방문 영상에 '갑론을박'…'사랑꾼'은 어디로 [Oh!...",
     "\"팔짱 낀 여성은 사실…\" 김원효, 트랜스젠더 바 방문 영상 확산에 심...",
-    "[단독]심진화 \"김원효, 후배 위해 트랜스젠더 바 방문…\" 웃음"
+    "[단독]심진화 \"김원효, 후배 위해 트랜스젠더 바 방문…\" 웃음",
+    "심진화, ♥김원효 '트랜스젠더 바 방문' 알고 있었다…\"후배 만나러간것\" ..."
    ],
    "links": [
     "https://news.nate.com/view/20261122n03866",
@@ -2884,7 +2881,8 @@
     "https://news.nate.com/view/20261122n05761",
     "https://news.nate.com/view/20261122n04967",
     "https://news.nate.com/view/20261122n08307",
-    "https://news.nate.com/view/20261122n07670"
+    "https://news.nate.com/view/20261122n07670",
+    "https://news.nate.com/view/20261122n12988"
    ],
    "articles": [
     {
@@ -2941,10 +2939,15 @@
      "title": "[단독]심진화 \"김원효, 후배 위해 트랜스젠더 바 방문…\" 웃음",
      "link": "https://news.nate.com/view/20261122n07670",
      "media": "마이데일리"
+    },
+    {
+     "title": "심진화, ♥김원효 '트랜스젠더 바 방문' 알고 있었다…\"후배 만나러간것\" ...",
+     "link": "https://news.nate.com/view/20261122n12988",
+     "media": "OSEN"
     }
    ],
    "first": "11:08",
-   "last": "19:08",
+   "last": "20:06",
    "best": 1,
    "hours": [
     "11:08",
@@ -2954,17 +2957,18 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 4
+    "nate_pop": 6,
+    "nate_int": 6
    },
-   "count": 11,
+   "count": 12,
    "inrank": true
   },
   {
@@ -2984,7 +2988,7 @@
     }
    ],
    "first": "11:08",
-   "last": "19:08",
+   "last": "20:06",
    "best": 3,
    "hours": [
     "11:08",
@@ -2994,15 +2998,15 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 31
+    "nate_int": 39
    },
    "count": 1,
    "inrank": true
@@ -3024,7 +3028,7 @@
     }
    ],
    "first": "11:08",
-   "last": "19:08",
+   "last": "20:06",
    "best": 5,
    "hours": [
     "11:08",
@@ -3034,15 +3038,16 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 23
+    "nate_pop": 20,
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -3087,11 +3092,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 41
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c70",
@@ -3110,7 +3113,7 @@
     }
    ],
    "first": "11:08",
-   "last": "19:08",
+   "last": "20:06",
    "best": 7,
    "hours": [
     "11:08",
@@ -3120,15 +3123,15 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 26
+    "nate_int": 42
    },
    "count": 1,
    "inrank": true
@@ -3150,7 +3153,7 @@
     }
    ],
    "first": "11:08",
-   "last": "19:08",
+   "last": "20:06",
    "best": 6,
    "hours": [
     "11:08",
@@ -3160,7 +3163,8 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
@@ -3168,7 +3172,7 @@
    ],
    "now": {
     "nate_pop": 21,
-    "nate_int": 21
+    "nate_int": 34
    },
    "count": 1,
    "inrank": true
@@ -3421,21 +3425,22 @@
     }
    ],
    "first": "11:08",
-   "last": "19:08",
+   "last": "20:06",
    "best": 28,
    "hours": [
     "11:08",
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 34
+    "nate_int": 41
    },
    "count": 1,
    "inrank": true
@@ -3595,7 +3600,7 @@
     }
    ],
    "first": "12:01",
-   "last": "19:08",
+   "last": "20:06",
    "best": 33,
    "hours": [
     "12:01",
@@ -3603,13 +3608,14 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 33
+    "nate_int": 46
    },
    "count": 2,
    "inrank": true
@@ -3631,7 +3637,7 @@
     }
    ],
    "first": "12:08",
-   "last": "19:08",
+   "last": "20:06",
    "best": 1,
    "hours": [
     "12:08",
@@ -3639,15 +3645,16 @@
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 5
+    "nate_pop": 8,
+    "nate_int": 7
    },
    "count": 1,
    "inrank": true
@@ -3698,14 +3705,15 @@
     }
    ],
    "first": "13:08",
-   "last": "19:08",
+   "last": "20:06",
    "best": 10,
    "hours": [
     "13:08",
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
@@ -3763,21 +3771,22 @@
     }
    ],
    "first": "16:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 1,
    "hours": [
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 3
+    "nate_pop": 7,
+    "nate_int": 8
    },
    "count": 1,
    "inrank": true
@@ -3788,12 +3797,14 @@
    "titles": [
     "'모솔' 19기 옥순♥상철 결혼식 포착…\"상철, 사고 후 약물 치료로 살...",
     "'모솔 옥순♥' 19기 상철, 결혼식 살찐 모습에…\"사고 후 약물치료 탓\"→응...",
-    "'모태솔로' 19기 상철, ♥옥순과 결혼식서 못 알아볼 뻔…\"몇 달 전 사고 ..."
+    "'모태솔로' 19기 상철, ♥옥순과 결혼식서 못 알아볼 뻔…\"몇 달 전 사고 ...",
+    "\"약물치료로 살쪄\" '나는 솔로' 19기 상철, 오늘(22일) 옥순과 결혼…'몰라..."
    ],
    "links": [
     "https://news.nate.com/view/20261122n08736",
     "https://news.nate.com/view/20261122n09438",
-    "https://news.nate.com/view/20261122n09736"
+    "https://news.nate.com/view/20261122n09736",
+    "https://news.nate.com/view/20261122n11812"
    ],
    "articles": [
     {
@@ -3810,26 +3821,32 @@
      "title": "'모태솔로' 19기 상철, ♥옥순과 결혼식서 못 알아볼 뻔…\"몇 달 전 사고 ...",
      "link": "https://news.nate.com/view/20261122n09736",
      "media": "스포츠경향"
+    },
+    {
+     "title": "\"약물치료로 살쪄\" '나는 솔로' 19기 상철, 오늘(22일) 옥순과 결혼…'몰라...",
+     "link": "https://news.nate.com/view/20261122n11812",
+     "media": "OSEN"
     }
    ],
    "first": "16:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 3,
    "hours": [
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 6
+    "nate_pop": 10,
+    "nate_int": 11
    },
-   "count": 3,
+   "count": 4,
    "inrank": true
   },
   {
@@ -3849,21 +3866,22 @@
     }
    ],
    "first": "16:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 6,
    "hours": [
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 13
+    "nate_pop": 19,
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -3885,21 +3903,22 @@
     }
    ],
    "first": "16:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 22,
    "hours": [
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 30
+    "nate_pop": 30,
+    "nate_int": 31
    },
    "count": 1,
    "inrank": true
@@ -3953,20 +3972,21 @@
     }
    ],
    "first": "16:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 27,
    "hours": [
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 35
+    "nate_int": 38
    },
    "count": 1,
    "inrank": true
@@ -3988,21 +4008,22 @@
     }
    ],
    "first": "16:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 15,
    "hours": [
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 19
+    "nate_pop": 18,
+    "nate_int": 28
    },
    "count": 1,
    "inrank": true
@@ -4024,13 +4045,14 @@
     }
    ],
    "first": "16:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 35,
    "hours": [
     "16:10",
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_int"
@@ -4098,11 +4120,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 48
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c99",
@@ -4121,19 +4141,20 @@
     }
    ],
    "first": "17:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 1,
    "hours": [
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
+    "nate_pop": 2,
     "nate_int": 1
    },
    "count": 1,
@@ -4156,20 +4177,20 @@
     }
    ],
    "first": "17:10",
-   "last": "19:08",
+   "last": "20:06",
    "best": 17,
    "hours": [
     "17:10",
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 24
+    "nate_int": 32
    },
    "count": 1,
    "inrank": true
@@ -4200,11 +4221,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 45
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c102",
@@ -4223,19 +4242,20 @@
     }
    ],
    "first": "18:08",
-   "last": "19:08",
+   "last": "20:06",
    "best": 6,
    "hours": [
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 10
+    "nate_pop": 28,
+    "nate_int": 24
    },
    "count": 1,
    "inrank": true
@@ -4257,19 +4277,20 @@
     }
    ],
    "first": "18:08",
-   "last": "19:08",
+   "last": "20:06",
    "best": 16,
    "hours": [
     "18:08",
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 22
+    "nate_pop": 24,
+    "nate_int": 26
    },
    "count": 1,
    "inrank": true
@@ -4300,43 +4321,49 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 47
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c105",
    "title": "'10년 연애→결혼 1년만 임신' 김가은♥윤선우, 2세 성별은 딸 \"하늘 ...",
    "titles": [
-    "'10년 연애→결혼 1년만 임신' 김가은♥윤선우, 2세 성별은 딸 \"하늘 ..."
+    "'10년 연애→결혼 1년만 임신' 김가은♥윤선우, 2세 성별은 딸 \"하늘 ...",
+    "지예은, 연애·결혼 현실 조언 \"돈 더 낸 사람이 생색, 발언권 세져\" (런..."
    ],
    "links": [
-    "https://news.nate.com/view/20261122n12234"
+    "https://news.nate.com/view/20261122n12234",
+    "https://news.nate.com/view/20261122n13457"
    ],
    "articles": [
     {
      "title": "'10년 연애→결혼 1년만 임신' 김가은♥윤선우, 2세 성별은 딸 \"하늘 ...",
      "link": "https://news.nate.com/view/20261122n12234",
      "media": "스타뉴스"
+    },
+    {
+     "title": "지예은, 연애·결혼 현실 조언 \"돈 더 낸 사람이 생색, 발언권 세져\" (런...",
+     "link": "https://news.nate.com/view/20261122n13457",
+     "media": "티브이데일리"
     }
    ],
    "first": "19:08",
-   "last": "19:08",
+   "last": "20:06",
    "best": 2,
    "hours": [
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 2
+    "nate_pop": 5,
+    "nate_int": 5
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -4356,18 +4383,19 @@
     }
    ],
    "first": "19:08",
-   "last": "19:08",
+   "last": "20:06",
    "best": 7,
    "hours": [
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 7
+    "nate_pop": 23,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -4389,16 +4417,19 @@
     }
    ],
    "first": "19:08",
-   "last": "19:08",
-   "best": 32,
+   "last": "20:06",
+   "best": 17,
    "hours": [
-    "19:08"
+    "19:08",
+    "20:06"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 32
+    "nate_pop": 17,
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -4428,11 +4459,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 42
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c109",
@@ -4459,11 +4488,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 46
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c110",
@@ -4486,6 +4513,295 @@
    "best": 50,
    "hours": [
     "19:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {},
+   "count": 1,
+   "inrank": false
+  },
+  {
+   "id": "c111",
+   "title": "개리, 연예계 은퇴한 뜻밖의 이유 \"B사 차량 사면 스캔들 휘말린다고,...",
+   "titles": [
+    "개리, 연예계 은퇴한 뜻밖의 이유 \"B사 차량 사면 스캔들 휘말린다고,..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261122n12689"
+   ],
+   "articles": [
+    {
+     "title": "개리, 연예계 은퇴한 뜻밖의 이유 \"B사 차량 사면 스캔들 휘말린다고,...",
+     "link": "https://news.nate.com/view/20261122n12689",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "20:06",
+   "last": "20:06",
+   "best": 1,
+   "hours": [
+    "20:06"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 1,
+    "nate_int": 2
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c112",
+   "title": "최소라♥이코베, 검은 예복 입고 올린 발리 결혼식 \"아내가 원해서\" 사...",
+   "titles": [
+    "최소라♥이코베, 검은 예복 입고 올린 발리 결혼식 \"아내가 원해서\" 사..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261122n12763"
+   ],
+   "articles": [
+    {
+     "title": "최소라♥이코베, 검은 예복 입고 올린 발리 결혼식 \"아내가 원해서\" 사...",
+     "link": "https://news.nate.com/view/20261122n12763",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "20:06",
+   "last": "20:06",
+   "best": 3,
+   "hours": [
+    "20:06"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 3,
+    "nate_int": 3
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c113",
+   "title": "김승현 딸 수빈, '연봉 1억' ♥남친과 내년 결혼…\"매매로 신혼집 마련...",
+   "titles": [
+    "김승현 딸 수빈, '연봉 1억' ♥남친과 내년 결혼…\"매매로 신혼집 마련..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261122n13073"
+   ],
+   "articles": [
+    {
+     "title": "김승현 딸 수빈, '연봉 1억' ♥남친과 내년 결혼…\"매매로 신혼집 마련...",
+     "link": "https://news.nate.com/view/20261122n13073",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "20:06",
+   "last": "20:06",
+   "best": 4,
+   "hours": [
+    "20:06"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 4,
+    "nate_int": 4
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c114",
+   "title": "양치승 \"빚 20억\" 오열에 박미희 \"난 사채·이자만 250억원\" 충격 고백 ('...",
+   "titles": [
+    "양치승 \"빚 20억\" 오열에 박미희 \"난 사채·이자만 250억원\" 충격 고백 ('..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261122n13052"
+   ],
+   "articles": [
+    {
+     "title": "양치승 \"빚 20억\" 오열에 박미희 \"난 사채·이자만 250억원\" 충격 고백 ('...",
+     "link": "https://news.nate.com/view/20261122n13052",
+     "media": "스타투데이"
+    }
+   ],
+   "first": "20:06",
+   "last": "20:06",
+   "best": 9,
+   "hours": [
+    "20:06"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 9,
+    "nate_int": 10
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c115",
+   "title": "박연수, '송종국 이혼' 그 후 심경 \"아픔·상처들로 괴로운 12년…\"",
+   "titles": [
+    "박연수, '송종국 이혼' 그 후 심경 \"아픔·상처들로 괴로운 12년…\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261122n13458"
+   ],
+   "articles": [
+    {
+     "title": "박연수, '송종국 이혼' 그 후 심경 \"아픔·상처들로 괴로운 12년…\"",
+     "link": "https://news.nate.com/view/20261122n13458",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "20:06",
+   "last": "20:06",
+   "best": 13,
+   "hours": [
+    "20:06"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 13,
+    "nate_int": 21
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c116",
+   "title": "주현영, 'SNL 후배' 지예은 기강 잡았나…\"텃세 조금 있었다\" [런닝맨]",
+   "titles": [
+    "주현영, 'SNL 후배' 지예은 기강 잡았나…\"텃세 조금 있었다\" [런닝맨]"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261122n13053"
+   ],
+   "articles": [
+    {
+     "title": "주현영, 'SNL 후배' 지예은 기강 잡았나…\"텃세 조금 있었다\" [런닝맨]",
+     "link": "https://news.nate.com/view/20261122n13053",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "20:06",
+   "last": "20:06",
+   "best": 15,
+   "hours": [
+    "20:06"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 15,
+    "nate_int": 27
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c117",
+   "title": "'장정윤♥' 김승현, 미혼부 시절 홀로 키운 딸 결혼하나…이미 집 장만 \"국...",
+   "titles": [
+    "'장정윤♥' 김승현, 미혼부 시절 홀로 키운 딸 결혼하나…이미 집 장만 \"국..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261122n13709"
+   ],
+   "articles": [
+    {
+     "title": "'장정윤♥' 김승현, 미혼부 시절 홀로 키운 딸 결혼하나…이미 집 장만 \"국...",
+     "link": "https://news.nate.com/view/20261122n13709",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "20:06",
+   "last": "20:06",
+   "best": 43,
+   "hours": [
+    "20:06"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 43
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c118",
+   "title": "88억대 배상 판결, 그리고 7년…강지환, 다시 켠 라방도 '성범죄 꼬리표'에...",
+   "titles": [
+    "88억대 배상 판결, 그리고 7년…강지환, 다시 켠 라방도 '성범죄 꼬리표'에..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261122n11981"
+   ],
+   "articles": [
+    {
+     "title": "88억대 배상 판결, 그리고 7년…강지환, 다시 켠 라방도 '성범죄 꼬리표'에...",
+     "link": "https://news.nate.com/view/20261122n11981",
+     "media": "스포츠서울"
+    }
+   ],
+   "first": "20:06",
+   "last": "20:06",
+   "best": 44,
+   "hours": [
+    "20:06"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 44
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c119",
+   "title": "\"한 분씩 응징 하시라\"…김종민, 꿀밤 맞으며 씁쓸한 퇴장 (1박 2일) [TV...",
+   "titles": [
+    "\"한 분씩 응징 하시라\"…김종민, 꿀밤 맞으며 씁쓸한 퇴장 (1박 2일) [TV..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261122n13135"
+   ],
+   "articles": [
+    {
+     "title": "\"한 분씩 응징 하시라\"…김종민, 꿀밤 맞으며 씁쓸한 퇴장 (1박 2일) [TV...",
+     "link": "https://news.nate.com/view/20261122n13135",
+     "media": "티브이데일리"
+    }
+   ],
+   "first": "20:06",
+   "last": "20:06",
+   "best": 50,
+   "hours": [
+    "20:06"
    ],
    "srcs": [
     "nate_int"
@@ -4657,9 +4973,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "20:06",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-22T19:08:29.155682+09:00",
+ "updated": "2026-11-22T20:06:08.164445+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

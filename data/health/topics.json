@@ -1,16 +1,22 @@
 {
- "updated": "2026-11-22T19:08:39.907939+09:00",
+ "updated": "2026-11-22T20:06:24.583558+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 66,
+   "count": 67,
    "angles": [
     "에 좋은",
     "부작용",
     "효능"
    ],
    "items": [
+    {
+     "title": "하수처리장 하수서 독감 바이러스 검출 5배 껑충",
+     "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1057943",
+     "t": "2026-11-22T19:10:00+09:00",
+     "by": "jjn.co.kr"
+    },
     {
      "title": "백예지 순천향대서울병원 감염내과 교수, 독감 치료 효과 높이려면 증상 ...",
      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=214352",
@@ -34,19 +40,13 @@
      "link": "https://sports.khan.co.kr/article/202611221607003?pt=nv",
      "t": "2026-11-22T16:08:00+09:00",
      "by": "sports.khan.co.kr"
-    },
-    {
-     "title": "[단독] 독감 치료받던 3세 돌연 사망…경찰, 의료과실 의혹 수사",
-     "link": "https://www.fnnews.com/news/202611221048449750",
-     "t": "2026-11-22T12:57:00+09:00",
-     "by": "fnnews.com"
     }
    ]
   },
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 24,
+   "count": 23,
    "angles": [
     "먹는 법",
     "효능",
@@ -334,7 +334,7 @@
   {
    "name": "혈압",
    "kind": "질환·증상",
-   "count": 8,
+   "count": 7,
    "angles": [
     "효능",
     "부작용"
@@ -700,6 +700,40 @@
    ]
   },
   {
+   "name": "수면",
+   "kind": "운동·생활",
+   "count": 4,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "\"저탄고지·간헐적 단식 만능 아냐…규칙적인 식사와 수면이 답\"",
+     "link": "https://www.newsis.com/view/NISX20261122_0003878183",
+     "t": "2026-11-22T19:24:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "\"잠자는 시간만 중요한 게 아니다\"… 치매 위험 2배 높은 수면·활동 패...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70364",
+     "t": "2026-11-22T11:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "[청년발언대] 잠 못 드는 청년들…수면 부족이 건강에 미치는 영향",
+     "link": "https://www.youthdaily.co.kr/news/article.html?no=229968",
+     "t": "2026-11-22T09:00:00+09:00",
+     "by": "youthdaily.co.kr"
+    },
+    {
+     "title": "\"단 음식 멀리했는데 왜 당뇨병일까\"... 수면·스트레스도 관리해야 하...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70314",
+     "t": "2026-11-20T11:00:00+09:00",
+     "by": "hidoc.co.kr"
+    }
+   ]
+  },
+  {
    "name": "폐렴",
    "kind": "질환·증상",
    "count": 4,
@@ -791,34 +825,6 @@
      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144584",
      "t": "2026-11-20T09:06:00+09:00",
      "by": "medisobizanews.com"
-    }
-   ]
-  },
-  {
-   "name": "수면",
-   "kind": "운동·생활",
-   "count": 3,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "\"잠자는 시간만 중요한 게 아니다\"… 치매 위험 2배 높은 수면·활동 패...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70364",
-     "t": "2026-11-22T11:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "[청년발언대] 잠 못 드는 청년들…수면 부족이 건강에 미치는 영향",
-     "link": "https://www.youthdaily.co.kr/news/article.html?no=229968",
-     "t": "2026-11-22T09:00:00+09:00",
-     "by": "youthdaily.co.kr"
-    },
-    {
-     "title": "\"단 음식 멀리했는데 왜 당뇨병일까\"... 수면·스트레스도 관리해야 하...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70314",
-     "t": "2026-11-20T11:00:00+09:00",
-     "by": "hidoc.co.kr"
     }
    ]
   },

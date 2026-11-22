@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T01:08:41.441507+09:00",
+ "updated": "2026-11-23T02:10:55.161910+09:00",
  "all": [
   {
    "name": "카카오 페이",
@@ -74,8 +74,44 @@
    ]
   },
   {
+   "name": "한전",
+   "count": 25,
+   "items": [
+    {
+     "title": "[뉴스이슈&비즈] 김동철 사장 국감 사과 한 달 만에…한전 고객정보 152...",
+     "link": "http://www.issuenbiz.com/news/articleView.html?idxno=81864",
+     "t": "2026-11-23T01:30:00+09:00",
+     "by": "issuenbiz.com"
+    },
+    {
+     "title": "전남광주 코스피 '몸값 1위' 대한조선…한전은 반토막",
+     "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000085395",
+     "t": "2026-11-23T00:30:00+09:00",
+     "by": "jnilbo.com"
+    },
+    {
+     "title": "한전, 개인정보 152만명분 유출 …계좌·카드 정보 까지 털렸다",
+     "link": "https://www.peoplewatch.co.kr/article/view/ppw202611220003",
+     "t": "2026-11-22T22:10:00+09:00",
+     "by": "peoplewatch.co.kr"
+    },
+    {
+     "title": "한전, 한전ON·전자조달시스템 해킹 으로 152만명 개인정보 유출",
+     "link": "https://byline.network/?p=9004111222628692",
+     "t": "2026-11-22T22:04:00+09:00",
+     "by": "byline.network"
+    },
+    {
+     "title": "한전, 개인정보 150만건 털렸다…보안 예산 늘리고도 관리 부실 도마",
+     "link": "https://www.ziksir.com/news/articleView.html?idxno=154249",
+     "t": "2026-11-22T20:52:00+09:00",
+     "by": "ziksir.com"
+    }
+   ]
+  },
+  {
    "name": "해킹",
-   "count": 24,
+   "count": 23,
    "items": [
     {
      "title": "FBI까지… 해킹 추정 공격 당했다",
@@ -106,42 +142,6 @@
      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=768834",
      "t": "2026-11-22T19:46:00+09:00",
      "by": "consumernews.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "한전",
-   "count": 24,
-   "items": [
-    {
-     "title": "전남광주 코스피 '몸값 1위' 대한조선…한전은 반토막",
-     "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000085395",
-     "t": "2026-11-23T00:30:00+09:00",
-     "by": "jnilbo.com"
-    },
-    {
-     "title": "한전, 개인정보 152만명분 유출 …계좌·카드 정보 까지 털렸다",
-     "link": "https://www.peoplewatch.co.kr/article/view/ppw202611220003",
-     "t": "2026-11-22T22:10:00+09:00",
-     "by": "peoplewatch.co.kr"
-    },
-    {
-     "title": "한전, 한전ON·전자조달시스템 해킹 으로 152만명 개인정보 유출",
-     "link": "https://byline.network/?p=9004111222628692",
-     "t": "2026-11-22T22:04:00+09:00",
-     "by": "byline.network"
-    },
-    {
-     "title": "한전, 개인정보 150만건 털렸다…보안 예산 늘리고도 관리 부실 도마",
-     "link": "https://www.ziksir.com/news/articleView.html?idxno=154249",
-     "t": "2026-11-22T20:52:00+09:00",
-     "by": "ziksir.com"
-    },
-    {
-     "title": "한전 고객 정보 152만명분 해킹 …65만명은 주민번호·계좌·카드번호까지...",
-     "link": "https://www.khan.co.kr/article/202611222051005",
-     "t": "2026-11-22T20:51:00+09:00",
-     "by": "khan.co.kr"
     }
    ]
   },

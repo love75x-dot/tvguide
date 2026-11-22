@@ -1,16 +1,22 @@
 {
- "updated": "2026-11-22T15:14:04.506022+09:00",
+ "updated": "2026-11-22T16:10:55.213367+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 65,
+   "count": 66,
    "angles": [
     "에 좋은",
     "부작용",
     "효능"
    ],
    "items": [
+    {
+     "title": "재유행하는 독감 , ‘48시간’ 놓치지 마!",
+     "link": "https://sports.khan.co.kr/article/202611221607003?pt=nv",
+     "t": "2026-11-22T16:08:00+09:00",
+     "by": "sports.khan.co.kr"
+    },
     {
      "title": "[단독] 독감 치료받던 3세 돌연 사망…경찰, 의료과실 의혹 수사",
      "link": "https://www.fnnews.com/news/202611221048449750",
@@ -34,12 +40,6 @@
      "link": "https://www.edaily.co.kr/News/Read?newsId=01141446645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
      "t": "2026-11-22T07:20:00+09:00",
      "by": "edaily.co.kr"
-    },
-    {
-     "title": "“ 독감 끝난 줄 알았는데”…다시 오르는 열, 폐렴 신호일 수도 [e건강~...",
-     "link": "https://www.etoday.co.kr/news/view/2650886",
-     "t": "2026-11-22T06:00:00+09:00",
-     "by": "etoday.co.kr"
     }
    ]
   },
@@ -83,47 +83,6 @@
      "link": "https://www.sedaily.com/article/20117234?ref=naver",
      "t": "2026-11-21T14:42:00+09:00",
      "by": "sedaily.com"
-    }
-   ]
-  },
-  {
-   "name": "단백질",
-   "kind": "영양제",
-   "count": 15,
-   "angles": [
-    "먹는 법",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "신경치료후 뿌리 약해진 어린 영구치…재생 돕는 ‘단백질’ 발견",
-     "link": "https://www.nongmin.com/article/20261120500316",
-     "t": "2026-11-22T14:49:00+09:00",
-     "by": "nongmin.com"
-    },
-    {
-     "title": "'71㎏→54㎏' 김지영, 출산 후 17㎏ 감량 비결 공개…\"식이섬유·단백질...",
-     "link": "https://www.newsis.com/view/NISX20261121_0003877714",
-     "t": "2026-11-21T19:23:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "‘GLP-1’ 치료제 쓰는 당뇨병 환자, 단백질 섭취 량 더 적었다",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/20/2026112002575.html",
-     "t": "2026-11-21T14:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "11월 제철이라 더 좋은 김의 효능 4가지 / 김에 단백질 풍부한 거 알고 ...",
-     "link": "http://topclass.chosun.com/news/articleView.html?idxno=37097",
-     "t": "2026-11-20T18:58:00+09:00",
-     "by": "topclass.chosun.com"
-    },
-    {
-     "title": "한혜진이 경악했지만… 영양 만점 밀웜, “절반이 단백질”",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/20/2026112001468.html",
-     "t": "2026-11-20T17:01:00+09:00",
-     "by": "health.chosun.com"
     }
    ]
   },
@@ -208,9 +167,50 @@
    ]
   },
   {
+   "name": "단백질",
+   "kind": "영양제",
+   "count": 13,
+   "angles": [
+    "먹는 법",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "신경치료후 뿌리 약해진 어린 영구치…재생 돕는 ‘단백질’ 발견",
+     "link": "https://www.nongmin.com/article/20261120500316",
+     "t": "2026-11-22T14:49:00+09:00",
+     "by": "nongmin.com"
+    },
+    {
+     "title": "'71㎏→54㎏' 김지영, 출산 후 17㎏ 감량 비결 공개…\"식이섬유·단백질...",
+     "link": "https://www.newsis.com/view/NISX20261121_0003877714",
+     "t": "2026-11-21T19:23:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "‘GLP-1’ 치료제 쓰는 당뇨병 환자, 단백질 섭취 량 더 적었다",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/20/2026112002575.html",
+     "t": "2026-11-21T14:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "11월 제철이라 더 좋은 김의 효능 4가지 / 김에 단백질 풍부한 거 알고 ...",
+     "link": "http://topclass.chosun.com/news/articleView.html?idxno=37097",
+     "t": "2026-11-20T18:58:00+09:00",
+     "by": "topclass.chosun.com"
+    },
+    {
+     "title": "한혜진이 경악했지만… 영양 만점 밀웜, “절반이 단백질”",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/20/2026112001468.html",
+     "t": "2026-11-20T17:01:00+09:00",
+     "by": "health.chosun.com"
+    }
+   ]
+  },
+  {
    "name": "편두통",
    "kind": "질환·증상",
-   "count": 14,
+   "count": 12,
    "angles": [
     "에 좋은",
     "부작용",
@@ -415,44 +415,6 @@
    ]
   },
   {
-   "name": "염증",
-   "kind": "질환·증상",
-   "count": 8,
-   "angles": [],
-   "items": [
-    {
-     "title": "너도나도 따라 먹더니 “살 빼려다 염증 키울라”…믿었던 ‘저탄고지...",
-     "link": "https://www.sedaily.com/article/20117190?ref=naver",
-     "t": "2026-11-21T08:23:00+09:00",
-     "by": "sedaily.com"
-    },
-    {
-     "title": "안구건조증, 눈물 부족뿐 아니라 증발·염증도 원인…맞춤 치료 중요",
-     "link": "https://www.edaily.co.kr/News/Read?newsId=03942566645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-     "t": "2026-11-20T17:15:00+09:00",
-     "by": "edaily.co.kr"
-    },
-    {
-     "title": "[뉴컬웰니스] '오메가-3 62%' 생들기름… 혈소판 늦추고 염증 뚝",
-     "link": "https://www.nc.press/news/articleView.html?idxno=631525",
-     "t": "2026-11-20T17:11:00+09:00",
-     "by": "nc.press"
-    },
-    {
-     "title": "[최신과학뉴스] 심장은 '엔진'보다 '배관'부터 늙는다…노화 염증, 판막...",
-     "link": "https://www.eroun.net/news/articleView.html?idxno=96013",
-     "t": "2026-11-20T15:14:00+09:00",
-     "by": "eroun.net"
-    },
-    {
-     "title": "치실로 혈당 ·잇몸 염증 측정하는 '스마트 치실' 개발",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626481",
-     "t": "2026-11-20T08:42:00+09:00",
-     "by": "mdtoday.co.kr"
-    }
-   ]
-  },
-  {
    "name": "걷기",
    "kind": "운동·생활",
    "count": 7,
@@ -495,7 +457,7 @@
   {
    "name": "당뇨",
    "kind": "질환·증상",
-   "count": 7,
+   "count": 6,
    "angles": [],
    "items": [
     {
@@ -569,6 +531,44 @@
    ]
   },
   {
+   "name": "염증",
+   "kind": "질환·증상",
+   "count": 6,
+   "angles": [],
+   "items": [
+    {
+     "title": "너도나도 따라 먹더니 “살 빼려다 염증 키울라”…믿었던 ‘저탄고지...",
+     "link": "https://www.sedaily.com/article/20117190?ref=naver",
+     "t": "2026-11-21T08:23:00+09:00",
+     "by": "sedaily.com"
+    },
+    {
+     "title": "안구건조증, 눈물 부족뿐 아니라 증발·염증도 원인…맞춤 치료 중요",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=03942566645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-20T17:15:00+09:00",
+     "by": "edaily.co.kr"
+    },
+    {
+     "title": "[뉴컬웰니스] '오메가-3 62%' 생들기름… 혈소판 늦추고 염증 뚝",
+     "link": "https://www.nc.press/news/articleView.html?idxno=631525",
+     "t": "2026-11-20T17:11:00+09:00",
+     "by": "nc.press"
+    },
+    {
+     "title": "[최신과학뉴스] 심장은 '엔진'보다 '배관'부터 늙는다…노화 염증, 판막...",
+     "link": "https://www.eroun.net/news/articleView.html?idxno=96013",
+     "t": "2026-11-20T15:14:00+09:00",
+     "by": "eroun.net"
+    },
+    {
+     "title": "치실로 혈당 ·잇몸 염증 측정하는 '스마트 치실' 개발",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626481",
+     "t": "2026-11-20T08:42:00+09:00",
+     "by": "mdtoday.co.kr"
+    }
+   ]
+  },
+  {
    "name": "콜레스테롤",
    "kind": "질환·증상",
    "count": 6,
@@ -611,12 +611,44 @@
    ]
   },
   {
+   "name": "고지혈증",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [],
+   "items": [
+    {
+     "title": "충남대병원, 시민건강 아카데미서 당뇨병·고지혈증 관리 법 알려",
+     "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112620",
+     "t": "2026-11-22T15:12:00+09:00",
+     "by": "ccdn.co.kr"
+    },
+    {
+     "title": "충남대병원, 당뇨병·고지혈증 관리 법 설명",
+     "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112620",
+     "t": "2026-11-22T15:12:00+09:00",
+     "by": "ccdn.co.kr"
+    },
+    {
+     "title": "[고지혈증의 경고 1] 콜레스테롤은 왜 높아지는가",
+     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214664",
+     "t": "2026-11-20T15:22:00+09:00",
+     "by": "100ssd.co.kr"
+    },
+    {
+     "title": "충남대병원, 당뇨병·고지혈증 건강강좌 열어… 시민건강 아카데미 마무...",
+     "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921981",
+     "t": "2026-11-20T12:14:00+09:00",
+     "by": "chungnamilbo.co.kr"
+    }
+   ]
+  },
+  {
    "name": "고혈압",
    "kind": "질환·증상",
-   "count": 5,
+   "count": 4,
    "angles": [
-    "에 좋은",
-    "효능"
+    "효능",
+    "에 좋은"
    ],
    "items": [
     {
@@ -642,12 +674,6 @@
      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70280",
      "t": "2026-11-19T17:00:00+09:00",
      "by": "hidoc.co.kr"
-    },
-    {
-     "title": "\"뇌졸중 재발 예방 , 이상지질혈증-고혈압 통합 관리 중요\"",
-     "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200136",
-     "t": "2026-11-19T15:26:00+09:00",
-     "by": "doctorsnews.co.kr"
     }
    ]
   },
@@ -780,32 +806,6 @@
      "link": "https://kids.donga.com/news/articleView.html?idxno=170369",
      "t": "2026-11-20T15:34:00+09:00",
      "by": "kids.donga.com"
-    }
-   ]
-  },
-  {
-   "name": "고지혈증",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [],
-   "items": [
-    {
-     "title": "충남대병원, 시민건강 아카데미서 당뇨병·고지혈증 관리 법 알려",
-     "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112620",
-     "t": "2026-11-22T15:12:00+09:00",
-     "by": "ccdn.co.kr"
-    },
-    {
-     "title": "[고지혈증의 경고 1] 콜레스테롤은 왜 높아지는가",
-     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214664",
-     "t": "2026-11-20T15:22:00+09:00",
-     "by": "100ssd.co.kr"
-    },
-    {
-     "title": "충남대병원, 당뇨병·고지혈증 건강강좌 열어… 시민건강 아카데미 마무...",
-     "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921981",
-     "t": "2026-11-20T12:14:00+09:00",
-     "by": "chungnamilbo.co.kr"
     }
    ]
   },

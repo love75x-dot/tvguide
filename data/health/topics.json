@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T09:08:38.309860+09:00",
+ "updated": "2026-11-22T10:13:59.846093+09:00",
  "topics": [
   {
    "name": "독감",
@@ -46,7 +46,7 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 32,
+   "count": 33,
    "angles": [
     "먹는 법",
     "부작용",
@@ -54,6 +54,12 @@
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "진천군보건소 ' 혈당 데이터'로 전국 무대 최우수상",
+     "link": "https://www.jbnews.com/news/articleView.html?idxno=1516549",
+     "t": "2026-11-22T09:52:00+09:00",
+     "by": "jbnews.com"
+    },
     {
      "title": "한국인 10명 중 4명이 가진 유전자… 비만치료제 혈당 효과와 무슨 관계...",
      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1193844",
@@ -77,19 +83,13 @@
      "link": "https://www.sedaily.com/article/20117234?ref=naver",
      "t": "2026-11-21T14:42:00+09:00",
      "by": "sedaily.com"
-    },
-    {
-     "title": "혈당 낮추고 체중 줄이는 핵심… ‘이 습관’ 반복했더니 몸에 큰 변화...",
-     "link": "https://kormedi.com/?p=2909995",
-     "t": "2026-11-21T14:02:00+09:00",
-     "by": "kormedi.com"
     }
    ]
   },
   {
    "name": "단백질",
    "kind": "영양제",
-   "count": 20,
+   "count": 19,
    "angles": [
     "먹는 법",
     "효능"
@@ -210,7 +210,7 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 15,
+   "count": 14,
    "angles": [
     "에 좋은",
     "효능",
@@ -294,7 +294,7 @@
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 13,
+   "count": 12,
    "angles": [
     "효능"
    ],
@@ -452,47 +452,6 @@
    ]
   },
   {
-   "name": "고혈압",
-   "kind": "질환·증상",
-   "count": 8,
-   "angles": [
-    "에 좋은",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "“물속 운동 , 혈압약 1알 효과 ”…고혈압에 좋은 운동 은? [의학:너머]",
-     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719195&ref=A",
-     "t": "2026-11-21T21:14:00+09:00",
-     "by": "kbs.co.kr"
-    },
-    {
-     "title": "\"왜 겨울에만 혈압이 높게 나올까...우리가 몰랐던 고혈압 진실\"",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3758992",
-     "t": "2026-11-21T12:42:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "겨울철 건강 검진에서 혈압이 높게 나왔다면? … 일시적 상승과 고혈압 ...",
-     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144584",
-     "t": "2026-11-20T09:06:00+09:00",
-     "by": "medisobizanews.com"
-    },
-    {
-     "title": "\"수축기 혈압 120도 안심 못 한다\"… 강화된 고혈압 기준과 올바른 관리...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70280",
-     "t": "2026-11-19T17:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "\"뇌졸중 재발 예방 , 이상지질혈증-고혈압 통합 관리 중요\"",
-     "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200136",
-     "t": "2026-11-19T15:26:00+09:00",
-     "by": "doctorsnews.co.kr"
-    }
-   ]
-  },
-  {
    "name": "당뇨",
    "kind": "질환·증상",
    "count": 8,
@@ -573,13 +532,60 @@
    ]
   },
   {
+   "name": "고혈압",
+   "kind": "질환·증상",
+   "count": 7,
+   "angles": [
+    "에 좋은",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "“물속 운동 , 혈압약 1알 효과 ”…고혈압에 좋은 운동 은? [의학:너머]",
+     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719195&ref=A",
+     "t": "2026-11-21T21:14:00+09:00",
+     "by": "kbs.co.kr"
+    },
+    {
+     "title": "\"왜 겨울에만 혈압이 높게 나올까...우리가 몰랐던 고혈압 진실\"",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3758992",
+     "t": "2026-11-21T12:42:00+09:00",
+     "by": "gukjenews.com"
+    },
+    {
+     "title": "겨울철 건강 검진에서 혈압이 높게 나왔다면? … 일시적 상승과 고혈압 ...",
+     "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144584",
+     "t": "2026-11-20T09:06:00+09:00",
+     "by": "medisobizanews.com"
+    },
+    {
+     "title": "\"수축기 혈압 120도 안심 못 한다\"… 강화된 고혈압 기준과 올바른 관리...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70280",
+     "t": "2026-11-19T17:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "\"뇌졸중 재발 예방 , 이상지질혈증-고혈압 통합 관리 중요\"",
+     "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200136",
+     "t": "2026-11-19T15:26:00+09:00",
+     "by": "doctorsnews.co.kr"
+    }
+   ]
+  },
+  {
    "name": "면역력",
    "kind": "질환·증상",
-   "count": 6,
+   "count": 7,
    "angles": [
     "부작용"
    ],
    "items": [
+    {
+     "title": "의사들은 면역력 지키려 이렇게 한다…건강한 면역 체계 만드는 법",
+     "link": "https://kormedi.com/?p=2910102",
+     "t": "2026-11-22T10:05:00+09:00",
+     "by": "kormedi.com"
+    },
     {
      "title": "레몬보다 비타민C 3배... 찬바람에 무너진 면역력 세우는 겨울차(茶) 총...",
      "link": "http://www.newskr.kr/news/articleView.html?idxno=108187",
@@ -603,12 +609,6 @@
      "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=80956",
      "t": "2026-11-20T13:00:00+09:00",
      "by": "mkhealth.co.kr"
-    },
-    {
-     "title": "'항산화·항노화 물질 함유된 석류로 겨울철 면역력 지켜요'",
-     "link": "https://www.news1.kr/photos/8224640",
-     "t": "2026-11-20T10:54:00+09:00",
-     "by": "news1.kr"
     }
    ]
   },

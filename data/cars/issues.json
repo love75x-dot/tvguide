@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-22T09:08:38.309860+09:00",
+ "updated": "2026-11-22T10:13:59.846093+09:00",
  "car": [
   {
    "name": "울산",
-   "count": 58,
+   "count": 59,
    "items": [
+    {
+     "title": "울산 SK AI 데이터센터 방문한 李대통령…\"메가 프로젝트로 지방 균형발...",
+     "link": "https://www.ddaily.co.kr/page/view/2026112110291466533",
+     "t": "2026-11-22T09:25:00+09:00",
+     "by": "ddaily.co.kr"
+    },
     {
      "title": "이 대통령, 울산 SK AI데이터센터 방문…공정률 71% 점검, AI 고속도로 강...",
      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=629506",
@@ -28,19 +34,25 @@
      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086064",
      "t": "2026-11-21T19:10:00+09:00",
      "by": "shinailbo.co.kr"
-    },
-    {
-     "title": "이 대통령, 울산 SK AI 데이터센터 현장 점검…\"AI 고속도로가 대전환 열...",
-     "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435785",
-     "t": "2026-11-21T18:46:00+09:00",
-     "by": "dailysportshankook.co.kr"
     }
    ]
   },
   {
    "name": "현대차",
-   "count": 41,
+   "count": 39,
    "items": [
+    {
+     "title": "로보택시 서비스로 경쟁하는 카카오·현대차·쏘카…손잡아야 달린다",
+     "link": "https://www.khan.co.kr/article/202611221000001",
+     "t": "2026-11-22T10:00:00+09:00",
+     "by": "khan.co.kr"
+    },
+    {
+     "title": "[Biz&Law] 현대차 , 美 에어백 결함 소송…\"부품이 얼굴 가격\"",
+     "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=731812",
+     "t": "2026-11-22T09:10:00+09:00",
+     "by": "the-biz.co.kr"
+    },
     {
      "title": "현대차, 인도네시아 첫 3열 전기 SUV '네이라' 공개…산업장관 현장 점검",
      "link": "https://www.g-enews.com/view.php?ud=2026112205541659362bd56fbc3c_1",
@@ -58,18 +70,6 @@
      "link": "https://www.seoultimes.news/news/article.html?no=2000102501",
      "t": "2026-11-21T13:30:00+09:00",
      "by": "seoultimes.news"
-    },
-    {
-     "title": "“자동차 회사가 왜 예술가에게 투자하냐고요?”…현대차 노규승 상무의...",
-     "link": "https://www.donga.com/news/Economy/article/all/20261120/135043948/2",
-     "t": "2026-11-21T12:01:00+09:00",
-     "by": "donga.com"
-    },
-    {
-     "title": "국내서 계약 신기록 쓴 아반떼, 미국 간다…현대차 북미 공략 본격화",
-     "link": "https://www.greened.kr/news/articleView.html?idxno=355236",
-     "t": "2026-11-21T11:35:00+09:00",
-     "by": "greened.kr"
     }
    ]
   },
@@ -110,8 +110,44 @@
    ]
   },
   {
+   "name": "국토부",
+   "count": 27,
+   "items": [
+    {
+     "title": "테슬라 FSD 국내 도입 제동… 국토부 “안전성 자료 보완 필요”",
+     "link": "https://www.segye.com/newsView/20261120512246?OutUrl=naver",
+     "t": "2026-11-22T07:55:00+09:00",
+     "by": "segye.com"
+    },
+    {
+     "title": "국토부, 서류 부실로 테슬라 자율주행 특례 퇴짜",
+     "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1544503",
+     "t": "2026-11-20T20:32:00+09:00",
+     "by": "obsnews.co.kr"
+    },
+    {
+     "title": "\"설명서 2장 내고 특례 신청\"…국토부, 테슬라 FSD 서류 보완 요구",
+     "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1732530",
+     "t": "2026-11-20T18:52:00+09:00",
+     "by": "ebn.co.kr"
+    },
+    {
+     "title": "국토부, 테슬라 FSD 특례 서류 '미흡' 판단…보완 요구",
+     "link": "https://www.g-enews.com/view.php?ud=202611201836107337112616b072_1",
+     "t": "2026-11-20T18:40:00+09:00",
+     "by": "g-enews.com"
+    },
+    {
+     "title": "테슬라 자율주행 특례 신청에 국토부 “자료 미흡”",
+     "link": "http://www.metroseoul.co.kr/article/20261120500260",
+     "t": "2026-11-20T18:24:00+09:00",
+     "by": "metroseoul.co.kr"
+    }
+   ]
+  },
+  {
    "name": "FSD 특례",
-   "count": 15,
+   "count": 14,
    "items": [
     {
      "title": "테슬라 FSD 특례 심사 제동…첨부자료 5장뿐",
@@ -146,45 +182,21 @@
    ]
   },
   {
-   "name": "국토부 FSD",
-   "count": 11,
-   "items": [
-    {
-     "title": "\"설명서 2장 내고 특례 신청\"…국토부, 테슬라 FSD 서류 보완 요구",
-     "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1732530",
-     "t": "2026-11-20T18:52:00+09:00",
-     "by": "ebn.co.kr"
-    },
-    {
-     "title": "국토부, 테슬라 FSD 특례 서류 '미흡' 판단…보완 요구",
-     "link": "https://www.g-enews.com/view.php?ud=202611201836107337112616b072_1",
-     "t": "2026-11-20T18:40:00+09:00",
-     "by": "g-enews.com"
-    },
-    {
-     "title": "국토부, 테슬라 FSD 특례신청 반려…'서류 부실' 판단",
-     "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903836",
-     "t": "2026-11-20T17:44:00+09:00",
-     "by": "newsworks.co.kr"
-    },
-    {
-     "title": "국토부 \"테슬라 FSD 검토 불가...서류 부실\"",
-     "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=82642",
-     "t": "2026-11-20T17:28:00+09:00",
-     "by": "newsfc.co.kr"
-    },
-    {
-     "title": "\"서류 부실\" 국토부 FSD 퇴짜 놓자…테슬라, 자료 보완해 제출 방침",
-     "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856270&plink=ORI&cooper=NAVER",
-     "t": "2026-11-20T17:25:00+09:00",
-     "by": "sbs.co.kr"
-    }
-   ]
-  },
-  {
    "name": "전기차",
-   "count": 17,
+   "count": 19,
    "items": [
+    {
+     "title": "벤츠· BMW ·아우디·폴스타 전기차 4파전…6000만원대 전기 SUV 비교해보...",
+     "link": "https://www.gpkorea.com/news/articleView.html?idxno=148815",
+     "t": "2026-11-22T10:10:00+09:00",
+     "by": "gpkorea.com"
+    },
+    {
+     "title": "전기차 배터리 충돌· 화재 검증…경산에 '충돌안전부품 기술센터' 문 열...",
+     "link": "https://www.etnews.com/20261122000038",
+     "t": "2026-11-22T09:39:00+09:00",
+     "by": "etnews.com"
+    },
     {
      "title": "[전기차 수리 사각지대 ③] 전기차 수리의 현실, 기술보다 막막했던 정...",
      "link": "https://www.dailyt.co.kr/newsView/dlt202611210023",
@@ -202,18 +214,6 @@
      "link": "https://www.news1.kr/industry/auto-industry/6360832",
      "t": "2026-11-22T07:00:00+09:00",
      "by": "news1.kr"
-    },
-    {
-     "title": "中 완성차, EU 하이브리드 쿼터에 '주행거리 연장형 전기차' 공세 전환",
-     "link": "https://www.g-enews.com/view.php?ud=2026112115555452230c8c1c064d_1",
-     "t": "2026-11-22T05:26:00+09:00",
-     "by": "g-enews.com"
-    },
-    {
-     "title": "전기차 둔화 맞선 LG에너지솔루션, 폴란드 배터리 거점 ESS 라인 전환 추...",
-     "link": "https://www.g-enews.com/view.php?ud=2026112122495160902bd56fbc3c_1",
-     "t": "2026-11-21T23:02:00+09:00",
-     "by": "g-enews.com"
     }
    ]
   }

@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-23T17:08:42.604249+09:00",
+ "updated": "2026-11-23T17:56:11.236188+09:00",
  "car": [
   {
    "name": "렉스턴 PHEV",
-   "count": 31,
+   "count": 28,
    "items": [
+    {
+     "title": "2001년 첫선 보인 렉스턴, 내년 PHEV로 새 출발",
+     "link": "https://economist.co.kr/article/view/ecn202611230047",
+     "t": "2026-11-23T17:44:00+09:00",
+     "by": "economist.co.kr"
+    },
     {
      "title": "25살 된 렉스턴, PHEV로 '환골탈태' 선언…기대만큼 어깨도 무겁다",
      "link": "https://news.bizwatch.co.kr/article/industry/2026/11/23/0032",
@@ -28,19 +34,25 @@
      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231627561240241",
      "t": "2026-11-23T16:42:00+09:00",
      "by": "dnews.co.kr"
-    },
-    {
-     "title": "KGM, 신형 SUV 차명 ‘렉스턴 PHEV’ 확정…내년 1월 출시",
-     "link": "https://www.mydaily.co.kr/page/view/2026112316203328990",
-     "t": "2026-11-23T16:28:00+09:00",
-     "by": "mydaily.co.kr"
     }
    ]
   },
   {
    "name": "전기차",
-   "count": 50,
+   "count": 52,
    "items": [
+    {
+     "title": "\"아파트 층간소음· 전기차 화재 어쩌지?\"…용인시 안내서 배포",
+     "link": "https://www.mt.co.kr/policy/2026/11/23/2026112317205886377",
+     "t": "2026-11-23T17:30:00+09:00",
+     "by": "mt.co.kr"
+    },
+    {
+     "title": "“ 전기차 400만원 지원해달라”…국산 전기차 세금 지원 논의 본격화",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=03319366645648672&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-23T17:14:00+09:00",
+     "by": "edaily.co.kr"
+    },
     {
      "title": "용인시, 공동주택관리 안내서 1000부 배포… 전기차 화재 대응 등 수록",
      "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160266720165201",
@@ -58,18 +70,6 @@
      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327044",
      "t": "2026-11-23T16:38:00+09:00",
      "by": "pointdaily.co.kr"
-    },
-    {
-     "title": "테슬라·BYD가 바꾼 안방 전기차 시장…'한국판 생산세액공제' 도입 불붙...",
-     "link": "https://www.mediapen.com/news/view/1139306",
-     "t": "2026-11-23T16:16:00+09:00",
-     "by": "mediapen.com"
-    },
-    {
-     "title": "'전기료 2억 미납' 남원시 전기차 충전시설 45대 가동 중단",
-     "link": "https://www.yna.co.kr/view/AKR20261123136000055?input=1195m",
-     "t": "2026-11-23T16:09:00+09:00",
-     "by": "yna.co.kr"
     }
    ]
   },
@@ -110,45 +110,15 @@
    ]
   },
   {
-   "name": "수출",
-   "count": 20,
-   "items": [
-    {
-     "title": "내년에도 수출 1조 달러 전망…반도체가 절반, 산업도 ‘K자 양극화’ ...",
-     "link": "https://www.khan.co.kr/article/202611231703001",
-     "t": "2026-11-23T17:03:00+09:00",
-     "by": "khan.co.kr"
-    },
-    {
-     "title": "한국 수출 사상 첫 1조 달러 돌파…반도체 수출 294% 급증",
-     "link": "https://www.factin.co.kr/news/articleView.html?idxno=7420",
-     "t": "2026-11-23T15:54:00+09:00",
-     "by": "factin.co.kr"
-    },
-    {
-     "title": "SK렌터카, 비포워드와 중고차 수출 협력…해외 바이어 경매 참여 지원",
-     "link": "https://sports.hankooki.com/news/articleView.html?idxno=6944034",
-     "t": "2026-11-23T15:54:00+09:00",
-     "by": "sports.hankooki.com"
-    },
-    {
-     "title": "산업연구원 \"내년 성장률 3.5%, 수출 1조3000억 달러\"",
-     "link": "https://www.hankookilbo.com/news/article/A2026112314540000883?did=NA",
-     "t": "2026-11-23T15:53:00+09:00",
-     "by": "hankookilbo.com"
-    },
-    {
-     "title": "전기차 稅감면 수출 제외? 공제액 얼마?..'세부 내용'에 쏠린 눈",
-     "link": "https://www.mt.co.kr/industry/2026/11/23/2026112314280770145",
-     "t": "2026-11-23T15:50:00+09:00",
-     "by": "mt.co.kr"
-    }
-   ]
-  },
-  {
    "name": "자율주행",
    "count": 16,
    "items": [
+    {
+     "title": "엔비디아, 차량에서 직접 추론하는 자율주행 모델 '알파마요 2 엣지' 공...",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217700",
+     "t": "2026-11-23T17:10:00+09:00",
+     "by": "aitimes.com"
+    },
     {
      "title": "자율주행 차 테마 일제히 주춤…스트라드비젼·에이스테크만 웃었다",
      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507162",
@@ -172,19 +142,55 @@
      "link": "http://www.cctimes.kr/news/articleView.html?idxno=938656",
      "t": "2026-11-23T15:30:00+09:00",
      "by": "cctimes.kr"
-    },
-    {
-     "title": "[대학소식] 자율주행 차·반도체 로봇 경진대회서 선문대·한기대 교육부...",
-     "link": "https://www.pointe.co.kr/news/articleView.html?idxno=88272",
-     "t": "2026-11-23T14:44:00+09:00",
-     "by": "pointe.co.kr"
     }
    ]
   },
   {
-   "name": "반도체",
-   "count": 17,
+   "name": "점유율",
+   "count": 19,
    "items": [
+    {
+     "title": "\"중국차 점유율, 39개국서 일본차 앞질러\"",
+     "link": "https://www.mk.co.kr/article/12216414",
+     "t": "2026-11-23T17:51:00+09:00",
+     "by": "mk.co.kr"
+    },
+    {
+     "title": "[왈가왈부]중국차 점유율, 39개국서 日 앞질러…韓도 안방 내줄 판",
+     "link": "https://www.sedaily.com/article/20117927?ref=naver",
+     "t": "2026-11-23T17:50:00+09:00",
+     "by": "sedaily.com"
+    },
+    {
+     "title": "39개국에서 중국 자동차 점유율, 일본차 앞질러",
+     "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=102386",
+     "t": "2026-11-23T17:22:00+09:00",
+     "by": "weeklytrade.co.kr"
+    },
+    {
+     "title": "중국차의 역습⋯올해 39개국서 일본차 신차 점유율 추월",
+     "link": "https://www.etoday.co.kr/news/view/2651789",
+     "t": "2026-11-23T16:04:00+09:00",
+     "by": "etoday.co.kr"
+    },
+    {
+     "title": "전 세계 잠식하는 중국 전기차 …39개국서 일본차 점유율 역전",
+     "link": "https://www.ajunews.com/view/20261123153636596",
+     "t": "2026-11-23T15:48:00+09:00",
+     "by": "ajunews.com"
+    }
+   ]
+  },
+  {
+   "name": "수출",
+   "count": 18,
+   "items": [
+    {
+     "title": "산업연 “2027년 수출 1.3조 달러 간다… 반도체 의존도 51% 육박”",
+     "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=3&item=&no=102387",
+     "t": "2026-11-23T17:40:00+09:00",
+     "by": "weeklytrade.co.kr"
+    },
     {
      "title": "내년에도 수출 1조 달러 전망…반도체가 절반, 산업도 ‘K자 양극화’ ...",
      "link": "https://www.khan.co.kr/article/202611231703001",
@@ -192,10 +198,10 @@
      "by": "khan.co.kr"
     },
     {
-     "title": "반도체 삼성·로봇 LG·미주 강화 SK하닉…‘AI 고도화’ 준비하는 3사",
-     "link": "https://www.donga.com/news/Economy/article/all/20261123/135074881/1",
-     "t": "2026-11-23T16:42:00+09:00",
-     "by": "donga.com"
+     "title": "SK렌터카, 비포워드와 중고차 수출 협력…해외 바이어 경매 참여 지원",
+     "link": "https://sports.hankooki.com/news/articleView.html?idxno=6944034",
+     "t": "2026-11-23T15:54:00+09:00",
+     "by": "sports.hankooki.com"
     },
     {
      "title": "한국 수출 사상 첫 1조 달러 돌파…반도체 수출 294% 급증",
@@ -204,16 +210,10 @@
      "by": "factin.co.kr"
     },
     {
-     "title": "내년 수출 14% 늘어 1조3000억달러…반도체 빼면 1.5% 증가에 그쳐",
-     "link": "https://www.mk.co.kr/article/12216162",
-     "t": "2026-11-23T15:28:00+09:00",
-     "by": "mk.co.kr"
-    },
-    {
-     "title": "산업硏 \"내년 3.5% 성장\"…반도체 '맑음' 자동차 '흐림'(종합)",
-     "link": "https://www.newsis.com/view/NISX20261123_0003879378",
-     "t": "2026-11-23T15:27:00+09:00",
-     "by": "newsis.com"
+     "title": "산업연구원 \"내년 성장률 3.5%, 수출 1조3000억 달러\"",
+     "link": "https://www.hankookilbo.com/news/article/A2026112314540000883?did=NA",
+     "t": "2026-11-23T15:53:00+09:00",
+     "by": "hankookilbo.com"
     }
    ]
   }

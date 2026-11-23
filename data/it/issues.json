@@ -1,10 +1,28 @@
 {
- "updated": "2026-11-23T17:08:42.604249+09:00",
+ "updated": "2026-11-23T17:56:11.236188+09:00",
  "all": [
   {
    "name": "개인정보 유출",
-   "count": 29,
+   "count": 26,
    "items": [
+    {
+     "title": "[단독 후속2] 개인정보 위, 한전 152만 명 개인정보 유출 조사 착수…한...",
+     "link": "https://www.dailysecu.com/news/articleView.html?idxno=209678",
+     "t": "2026-11-23T17:46:00+09:00",
+     "by": "dailysecu.com"
+    },
+    {
+     "title": "컬리 개인정보 유출 피해 규모 확대, 임직원 199명·회원 2명 정보 추가...",
+     "link": "https://www.businesspost.co.kr/BP?command=article_view&num=452702",
+     "t": "2026-11-23T17:42:00+09:00",
+     "by": "businesspost.co.kr"
+    },
+    {
+     "title": "예별손해보험 고객 66명 개인정보 유출 …주민번호까지 털려",
+     "link": "https://www.mediapen.com/news/view/1139415",
+     "t": "2026-11-23T17:36:00+09:00",
+     "by": "mediapen.com"
+    },
     {
      "title": "컬리, 개인정보 유출 추가 확인…임직원 199명·고객 2명 포함",
      "link": "https://biz.sbs.co.kr/article_hub/20000348275?division=NAVER",
@@ -16,31 +34,67 @@
      "link": "https://www.seoultimes.news/news/article.html?no=2000102574",
      "t": "2026-11-23T16:39:00+09:00",
      "by": "seoultimes.news"
+    }
+   ]
+  },
+  {
+   "name": "보안",
+   "count": 27,
+   "items": [
+    {
+     "title": "덕성여대, 티앤디소프트와 사이버 보안 산학협력…공동연구·전문인력 양...",
+     "link": "https://edu.donga.com/news/articleView.html?idxno=114013",
+     "t": "2026-11-23T17:34:00+09:00",
+     "by": "edu.donga.com"
     },
     {
-     "title": "HD현대로보틱스, 홈페이지 가입자 개인정보 유출…\"사고 경위·피해 범위...",
-     "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507170",
-     "t": "2026-11-23T16:36:00+09:00",
-     "by": "pinpointnews.co.kr"
+     "title": "통신사 보안 투자 늘었지만…정작 기존 고객은 '보호 밖'",
+     "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=315977",
+     "t": "2026-11-23T17:18:00+09:00",
+     "by": "straightnews.co.kr"
     },
     {
-     "title": "삼성증권, 8000명대 개인정보 유출 사고…고객의 소리 시스템 외부 침입",
-     "link": "https://www.thepublic.kr/news/articleView.html?idxno=328043",
-     "t": "2026-11-23T16:18:00+09:00",
-     "by": "thepublic.kr"
+     "title": "화이트해커가 찾은 보안 취약점 202건, 참여 기업·기관 모두 보완",
+     "link": "https://www.dt.co.kr/article/12096770?ref=naver",
+     "t": "2026-11-23T17:16:00+09:00",
+     "by": "dt.co.kr"
     },
     {
-     "title": "컬리, 개인정보 유출 추가 확인…임직원 199명·회원 2명",
-     "link": "http://www.segyebiz.com/newsView/20261123513344?OutUrl=naver",
-     "t": "2026-11-23T16:06:00+09:00",
-     "by": "segyebiz.com"
+     "title": "OpenJDK ‘Java4Shell’ 취약점 공격…에버스핀 보안 솔루션서 차단 확인",
+     "link": "https://www.hellot.net/news/article.html?no=116526",
+     "t": "2026-11-23T17:12:00+09:00",
+     "by": "hellot.net"
+    },
+    {
+     "title": "LG유플러스, 협력사 160곳 보안 취약점 진단…공급망 통한 사이버 침입...",
+     "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140508",
+     "t": "2026-11-23T16:58:00+09:00",
+     "by": "e-science.co.kr"
     }
    ]
   },
   {
    "name": "해킹",
-   "count": 30,
+   "count": 25,
    "items": [
+    {
+     "title": "삼성증권도 뚫렸다…증권가 해킹 비상",
+     "link": "http://www.yonhapnewstv.co.kr/news/MYH20261123175517wMR",
+     "t": "2026-11-23T17:56:00+09:00",
+     "by": "yonhapnewstv.co.kr"
+    },
+    {
+     "title": "롯데카드, 해킹 위험 공시 미흡에 과징금 10억2000만원",
+     "link": "http://www.srtimes.kr/news/articleView.html?idxno=218396",
+     "t": "2026-11-23T17:52:00+09:00",
+     "by": "srtimes.kr"
+    },
+    {
+     "title": "한국 등 9개국 軍방화벽, 절반넘게 해킹 취약",
+     "link": "https://www.mk.co.kr/article/12216304",
+     "t": "2026-11-23T17:14:00+09:00",
+     "by": "mk.co.kr"
+    },
     {
      "title": "HD현대로보틱스 홈페이지 해킹 ⋯가입자 개인정보 최대 10개 항목 유출",
      "link": "http://www.inews24.com/view/2029384",
@@ -52,132 +106,78 @@
      "link": "https://www.kbsm.net/news/view.php?idx=542865",
      "t": "2026-11-23T17:08:00+09:00",
      "by": "kbsm.net"
-    },
-    {
-     "title": "컬리, 해킹 사고 범위 확대…임직원 정보 까지 유출",
-     "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51484",
-     "t": "2026-11-23T16:58:00+09:00",
-     "by": "1conomynews.co.kr"
-    },
-    {
-     "title": "'모두의 창업' 2차 참가자 중 818명, 해킹 으로 이름·전화번호 빠져나갔...",
-     "link": "http://www.dailypop.kr/news/articleView.html?idxno=104856",
-     "t": "2026-11-23T16:50:00+09:00",
-     "by": "dailypop.kr"
-    },
-    {
-     "title": "\"삼성증권도 고객 정보 털렸다\"... 해킹 으로 고객 8241명 개인정보 유출",
-     "link": "https://www.seoultimes.news/news/article.html?no=2000102574",
-     "t": "2026-11-23T16:39:00+09:00",
-     "by": "seoultimes.news"
-    }
-   ]
-  },
-  {
-   "name": "보안",
-   "count": 28,
-   "items": [
-    {
-     "title": "LG유플러스, 협력사 160곳 보안 취약점 진단…공급망 통한 사이버 침입...",
-     "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140508",
-     "t": "2026-11-23T16:58:00+09:00",
-     "by": "e-science.co.kr"
-    },
-    {
-     "title": "LG유플러스, 협력사 160곳 보안 취약점 점검 완료…공급망 보안 강화",
-     "link": "https://www.newstnt.com/news/articleView.html?idxno=729871",
-     "t": "2026-11-23T16:58:00+09:00",
-     "by": "newstnt.com"
-    },
-    {
-     "title": "한전 보안 처에 날아든 '신원 미상' 이메일…확인해보니 실제 유출",
-     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261123010008953",
-     "t": "2026-11-23T16:50:00+09:00",
-     "by": "asiatoday.co.kr"
-    },
-    {
-     "title": "삼성, 갤럭시 탭 S12 첫 업데이트 글로벌 배포 시작…62개 보안 취약점 ...",
-     "link": "https://kbench.com/?q=node/283564",
-     "t": "2026-11-23T16:48:00+09:00",
-     "by": "kbench.com"
-    },
-    {
-     "title": "화이트해커 698명이 찾아낸 보안 구멍 202건…내년 상시 신고제 도입",
-     "link": "https://www.seoul.co.kr/news/economy/2026/11/23/20261123500277?wlog_tag3=naver",
-     "t": "2026-11-23T16:34:00+09:00",
-     "by": "seoul.co.kr"
     }
    ]
   },
   {
    "name": "게임",
-   "count": 18,
+   "count": 19,
    "items": [
+    {
+     "title": "[2027 라인업 총정리] 한파 맞은 게임 업계...반등 열쇠는 결국 ' 신작 흥...",
+     "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=195057",
+     "t": "2026-11-23T17:56:00+09:00",
+     "by": "wikileaks-kr.org"
+    },
+    {
+     "title": "라인 게임 즈, 위플레이 엑스포 마쳐...현장 관람객 3천명 소통",
+     "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886209",
+     "t": "2026-11-23T17:40:00+09:00",
+     "by": "hansbiz.co.kr"
+    },
+    {
+     "title": "한한령 해제 기대감에…중국행 채비 나선 K 게임",
+     "link": "https://www.sedaily.com/article/20117900?ref=naver",
+     "t": "2026-11-23T17:37:00+09:00",
+     "by": "sedaily.com"
+    },
+    {
+     "title": "[11월 23일] '토리세이: 집으로', 모바일 양대 스토어 정식 출시 등 게임 ...",
+     "link": "https://www.gameple.co.kr/news/articleView.html?idxno=217048",
+     "t": "2026-11-23T17:18:00+09:00",
+     "by": "gameple.co.kr"
+    },
     {
      "title": "넥슨 '아주르 프로밀리아' 출시 앞둔 모바일 게임 매출 순위는 지난 주와...",
      "link": "https://gamefocus.co.kr/detail.php?number=180707",
      "t": "2026-11-23T17:06:00+09:00",
      "by": "gamefocus.co.kr"
-    },
-    {
-     "title": "장현국 대표, 게임 플랫폼 '원' 들고 부산으로… AX전환·수익성 개선 시...",
-     "link": "http://game.dailyesports.com/view.php?ud=20261123151804190843da15d9d2_26",
-     "t": "2026-11-23T16:58:00+09:00",
-     "by": "game.dailyesports.com"
-    },
-    {
-     "title": "라인 게임 즈, 中 위플레이 엑스포 첫 참가…PC 신작 5종에 3000명 몰려",
-     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599072214194",
-     "t": "2026-11-23T16:46:00+09:00",
-     "by": "megaeconomy.co.kr"
-    },
-    {
-     "title": "엑스엘 게임 즈 자본잠식 속 야심작 '아키에이지 크로니클'도 고전, 최관...",
-     "link": "https://www.businesspost.co.kr/BP?command=article_view&num=452675",
-     "t": "2026-11-23T16:38:00+09:00",
-     "by": "businesspost.co.kr"
-    },
-    {
-     "title": "라인 게임 즈, 중국 '위플레이 엑스포 2026'서 PC 신작 5종 선보여",
-     "link": "https://zdnet.co.kr/view/?no=20261123162513",
-     "t": "2026-11-23T16:33:00+09:00",
-     "by": "zdnet.co.kr"
     }
    ]
   },
   {
    "name": "LG유플러스",
-   "count": 14,
+   "count": 15,
    "items": [
     {
-     "title": "LG유플러스, 해외여행 할인 멤버십 '원더조이' 출시…일본·싱가포르 등...",
-     "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140513",
-     "t": "2026-11-23T17:04:00+09:00",
-     "by": "e-science.co.kr"
+     "title": "LG유플러스, 멤버십 혜택 해외로 확대…글로벌 여행 서비스 '원더조이'...",
+     "link": "https://www.sportschosun.com/life/2026-11-23/202611230100144100013387",
+     "t": "2026-11-23T17:56:00+09:00",
+     "by": "sportschosun.com"
     },
     {
-     "title": "[민주 IT] LG CNS·LG유플러스·KT",
-     "link": "http://www.iminju.net/news/articleView.html?idxno=172930",
-     "t": "2026-11-23T17:02:00+09:00",
-     "by": "iminju.net"
+     "title": "LG유플러스, 글로벌 빅테크 선수요 확보…파주 AIDC 투자 '풀 악셀'",
+     "link": "https://www.greened.kr/news/articleView.html?idxno=355343",
+     "t": "2026-11-23T17:50:00+09:00",
+     "by": "greened.kr"
     },
     {
-     "title": "LG유플러스, 해외 7개국 여행 할인 '원더조이' 출시…글로벌 통신사 와 ...",
-     "link": "https://www.joongangenews.com/news/articleView.html?idxno=565779",
-     "t": "2026-11-23T17:00:00+09:00",
-     "by": "joongangenews.com"
+     "title": "LG유플러스, 여행멤버십 '원더조이' 출시",
+     "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=668549",
+     "t": "2026-11-23T17:48:00+09:00",
+     "by": "kfenews.co.kr"
     },
     {
-     "title": "LG유플러스, 협력사 160곳 보안 취약점 진단…공급망 통한 사이버 침입...",
-     "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140508",
-     "t": "2026-11-23T16:58:00+09:00",
-     "by": "e-science.co.kr"
+     "title": "LG유플러스 홍범식 2027 조직개편에 AI 데이터센터 직접 투자 기조 담았...",
+     "link": "https://www.huffingtonpost.kr/article/262315",
+     "t": "2026-11-23T17:30:00+09:00",
+     "by": "huffingtonpost.kr"
     },
     {
-     "title": "LG유플러스, 협력사 160곳 보안 취약점 점검 완료…공급망 보안 강화",
-     "link": "https://www.newstnt.com/news/articleView.html?idxno=729871",
-     "t": "2026-11-23T16:58:00+09:00",
-     "by": "newstnt.com"
+     "title": "[오늘의 통신] KT·LG유플러스",
+     "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=46539",
+     "t": "2026-11-23T17:12:00+09:00",
+     "by": "financialreview.co.kr"
     }
    ]
   },

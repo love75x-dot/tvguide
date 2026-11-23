@@ -1,46 +1,166 @@
 {
- "updated": "2026-11-23T11:11:03.786788+09:00",
+ "updated": "2026-11-23T12:11:06.700913+09:00",
  "all": [
   {
    "name": "개인정보 유출",
-   "count": 36,
+   "count": 40,
    "items": [
     {
-     "title": "한전 외부 해킹 으로 152만여 명 개인정보 유출 , 주민등록번호 계좌번호...",
-     "link": "https://www.businesspost.co.kr/BP?command=article_view&num=452621",
+     "title": "삼성증권 개인정보 8241명 유출 …'일괄 지원' 묻자 \"추후 논의\"",
+     "link": "https://www.ppss.kr/news/articleView.html?idxno=322377",
+     "t": "2026-11-23T12:09:00+09:00",
+     "by": "ppss.kr"
+    },
+    {
+     "title": "예별손보 고객 66명 개인정보 유출 ... 수탁업체 해킹 에 피해 확산",
+     "link": "https://www.boannews.com/news/articleView.html?idxno=147448",
+     "t": "2026-11-23T12:06:00+09:00",
+     "by": "boannews.com"
+    },
+    {
+     "title": "삼성증권 해킹 …고객 8241명 개인정보 유출",
+     "link": "http://www.breaknews.com/1253001",
+     "t": "2026-11-23T12:02:00+09:00",
+     "by": "breaknews.com"
+    },
+    {
+     "title": "삼성증권, 고객 8241명 개인정보 유출 …VOC 시스템 해킹",
+     "link": "https://www.cnbizm.com/news/articleView.html?idxno=322330",
+     "t": "2026-11-23T11:56:00+09:00",
+     "by": "cnbizm.com"
+    },
+    {
+     "title": "삼성증권 '고객의 소리' 전산망 해킹 …고객 8241명 개인정보 유출",
+     "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=82663",
+     "t": "2026-11-23T11:56:00+09:00",
+     "by": "newsfc.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "삼성증권",
+   "count": 40,
+   "items": [
+    {
+     "title": "삼성증권 개인정보 8241명 유출 …'일괄 지원' 묻자 \"추후 논의\"",
+     "link": "https://www.ppss.kr/news/articleView.html?idxno=322377",
+     "t": "2026-11-23T12:09:00+09:00",
+     "by": "ppss.kr"
+    },
+    {
+     "title": "삼성증권도 해킹 피해…8천여 명 고객 정보 유출",
+     "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858835&plink=ORI&cooper=NAVER",
+     "t": "2026-11-23T12:07:00+09:00",
+     "by": "sbs.co.kr"
+    },
+    {
+     "title": "한전 '주민번호 포함' 유출 ‥삼성증권도 뚫려",
+     "link": "https://imnews.imbc.com/replay/2026/nw1200/article/6867801_36967.html",
+     "t": "2026-11-23T12:05:00+09:00",
+     "by": "imnews.imbc.com"
+    },
+    {
+     "title": "삼성증권 해킹 …고객 8241명 개인정보 유출",
+     "link": "http://www.breaknews.com/1253001",
+     "t": "2026-11-23T12:02:00+09:00",
+     "by": "breaknews.com"
+    },
+    {
+     "title": "삼성증권, 8,241명 개인정보 털렸다…‘고객의 소리’ 시스템 노려 [지금...",
+     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719935&ref=A",
+     "t": "2026-11-23T11:58:00+09:00",
+     "by": "kbs.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "보안",
+   "count": 31,
+   "items": [
+    {
+     "title": "[LG유플러스] AI 중심 조직개편ㆍ협력사 160곳 보안 취약점 점검ㆍ해외...",
+     "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2386272",
+     "t": "2026-11-23T12:04:00+09:00",
+     "by": "webeconomy.co.kr"
+    },
+    {
+     "title": "화이트해커가 보안 취약점 탐색하고 기업이 검증…선제적 보안 체계 실...",
+     "link": "https://www.ajunews.com/view/20261123091558894",
+     "t": "2026-11-23T12:02:00+09:00",
+     "by": "ajunews.com"
+    },
+    {
+     "title": "화이트해커 698명, 보안 취약점 202건 찾아냈다⋯정부, 내년 제도화 추진",
+     "link": "http://www.inews24.com/view/2029076",
+     "t": "2026-11-23T12:01:00+09:00",
+     "by": "inews24.com"
+    },
+    {
+     "title": "‘ 보안 취약점 신고제’ 시범 사업서 202건 찾아 조치… 내년 제도화 추...",
+     "link": "https://biz.chosun.com/it-science/ict/2026/11/23/IRT7NC3IQZCX5CLHFNQWLRKVFE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "t": "2026-11-23T12:01:00+09:00",
+     "by": "biz.chosun.com"
+    },
+    {
+     "title": "화이트 해커 698명 나섰더니…기업·공공기관 보안 취약점 202건 찾았다",
+     "link": "https://www.newsis.com/view/NISX20261123_0003878728",
+     "t": "2026-11-23T12:00:00+09:00",
+     "by": "newsis.com"
+    }
+   ]
+  },
+  {
+   "name": "LG유플러스",
+   "count": 18,
+   "items": [
+    {
+     "title": "LG유플러스, 글로벌 여행 멤버십 '원더조이' 출시…해외 7개국 할인 혜택",
+     "link": "https://www.job-post.co.kr/news/articleView.html?idxno=240135",
+     "t": "2026-11-23T11:52:00+09:00",
+     "by": "job-post.co.kr"
+    },
+    {
+     "title": "LG유플러스, 협력사 160 곳 취약점 점검... \"공급망 보안 강화\"",
+     "link": "https://www.boannews.com/news/articleView.html?idxno=147444",
+     "t": "2026-11-23T11:44:00+09:00",
+     "by": "boannews.com"
+    },
+    {
+     "title": "LG유플러스, '원더조이' 글로벌 여행 멤버십으로 7개국 할인 혜택 제공",
+     "link": "https://www.cwn.kr/news/articleView.html?idxno=62358",
+     "t": "2026-11-23T11:30:00+09:00",
+     "by": "cwn.kr"
+    },
+    {
+     "title": "LG유플러스, AI 사업 수익화에 조직 재편…김홍근 기업사업 총괄, 권용현...",
+     "link": "http://www.dailypop.kr/news/articleView.html?idxno=104867",
+     "t": "2026-11-23T11:30:00+09:00",
+     "by": "dailypop.kr"
+    },
+    {
+     "title": "백억커피, LG유플러스 멤버십 제휴…아메리카노·팝콘 무료 제공",
+     "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086044",
      "t": "2026-11-23T11:10:00+09:00",
-     "by": "businesspost.co.kr"
-    },
-    {
-     "title": "삼성증권도 뚫렸다…고객 8241명 개인정보 유출 , 금융권 보안 '비상'",
-     "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=5642",
-     "t": "2026-11-23T11:10:00+09:00",
-     "by": "newsmap.co.kr"
-    },
-    {
-     "title": "삼성증권 '고객의 소리' 해킹 ...8241명 개인정보 유출",
-     "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=320897",
-     "t": "2026-11-23T11:10:00+09:00",
-     "by": "wolyo.co.kr"
-    },
-    {
-     "title": "삼성증권도 해킹 피해...8천여명 개인정보 유출 돼",
-     "link": "https://www.kgnews.co.kr/news/article.html?no=920733",
-     "t": "2026-11-23T11:08:00+09:00",
-     "by": "kgnews.co.kr"
-    },
-    {
-     "title": "예별손보 고객 66명 개인정보 유출 …주민번호까지 털렸다",
-     "link": "http://www.fins.co.kr/news/articleView.html?idxno=110663",
-     "t": "2026-11-23T11:08:00+09:00",
-     "by": "fins.co.kr"
+     "by": "shinailbo.co.kr"
     }
    ]
   },
   {
    "name": "멤버십 원더조",
-   "count": 27,
+   "count": 10,
    "items": [
+    {
+     "title": "LGU+, 여행 멤버십 '원더조이' 출시…글로벌 통신사 와 현지 혜택 공유",
+     "link": "https://www.itdaily.kr/news/articleView.html?idxno=243117",
+     "t": "2026-11-23T11:56:00+09:00",
+     "by": "itdaily.kr"
+    },
+    {
+     "title": "LG유플러스, 글로벌 여행 멤버십 '원더조이' 출시…해외 7개국 할인 혜택",
+     "link": "https://www.job-post.co.kr/news/articleView.html?idxno=240135",
+     "t": "2026-11-23T11:52:00+09:00",
+     "by": "job-post.co.kr"
+    },
     {
      "title": "LG유플러스 멤버십 '원더조이' 출시...아·태 7개국 할인 혜택",
      "link": "https://www.newstree.kr/newsView/ntr202611230006",
@@ -58,162 +178,42 @@
      "link": "http://www.wsobi.com/news/articleView.html?idxno=322294",
      "t": "2026-11-23T10:30:00+09:00",
      "by": "wsobi.com"
-    },
-    {
-     "title": "LG유플, 글로벌 여행 혜택 공유하는 멤버십 ‘원더조이’ 출시",
-     "link": "https://www.etoday.co.kr/news/view/2651546",
-     "t": "2026-11-23T10:10:00+09:00",
-     "by": "etoday.co.kr"
-    },
-    {
-     "title": "LG유플러스, 해외 여행 멤버십 '원더조이' 선보여…현지 쇼핑·보험 등 ...",
-     "link": "http://www.metroseoul.co.kr/article/20261123500069",
-     "t": "2026-11-23T10:08:00+09:00",
-     "by": "metroseoul.co.kr"
     }
    ]
   },
   {
-   "name": "LG유플러스",
-   "count": 43,
+   "name": "반도체",
+   "count": 19,
    "items": [
     {
-     "title": "백억커피, LG유플러스 멤버십 제휴…아메리카노·팝콘 무료 제공",
-     "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086044",
-     "t": "2026-11-23T11:10:00+09:00",
-     "by": "shinailbo.co.kr"
+     "title": "수출 1조 달러는 새 출발선… 반도체 도전은 계속된다[전문가 시선]",
+     "link": "https://www.munhwa.com/article/11633320?ref=naver",
+     "t": "2026-11-23T11:57:00+09:00",
+     "by": "munhwa.com"
     },
     {
-     "title": "LG유플러스, 협력사 160곳 보안 취약점 점검 마쳤다 \"공급망 뒷문 단속\"",
-     "link": "https://www.econovill.com/news/articleView.html?idxno=758119",
-     "t": "2026-11-23T11:08:00+09:00",
-     "by": "econovill.com"
+     "title": "반도체 훈풍 탄 원익그룹, 2200억 딥테크펀드 키운다",
+     "link": "http://www.00news.co.kr/news/articleView.html?idxno=108270",
+     "t": "2026-11-23T11:54:00+09:00",
+     "by": "00news.co.kr"
     },
     {
-     "title": "LG유플러스, 협력사 160곳 보안 취약점 점검…개선 지침 제공",
-     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719872&ref=A",
-     "t": "2026-11-23T11:08:00+09:00",
-     "by": "kbs.co.kr"
+     "title": "[이슈] 아틀라스, 자동차 넘어 반도체 공장으로…보스턴다이나믹스 상용...",
+     "link": "http://www.dailypop.kr/news/articleView.html?idxno=104804",
+     "t": "2026-11-23T11:40:00+09:00",
+     "by": "dailypop.kr"
     },
     {
-     "title": "LG유플러스 멤버십 '원더조이' 출시...아·태 7개국 할인 혜택",
-     "link": "https://www.newstree.kr/newsView/ntr202611230006",
-     "t": "2026-11-23T11:06:00+09:00",
-     "by": "newstree.kr"
+     "title": "삼성·SK 반도체 , 몸값 높아진 ‘미주 사령탑’",
+     "link": "https://biz.heraldcorp.com/article/10946006?ref=naver",
+     "t": "2026-11-23T11:27:00+09:00",
+     "by": "biz.heraldcorp.com"
     },
     {
-     "title": "LG유플러스, 협력사 160곳 보안 관리...공급망 방어 강화",
-     "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=173420",
-     "t": "2026-11-23T11:04:00+09:00",
-     "by": "choicenews.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "보안",
-   "count": 39,
-   "items": [
-    {
-     "title": "삼성증권도 뚫렸다…고객 8241명 개인정보 유출 , 금융권 보안 '비상'",
-     "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=5642",
-     "t": "2026-11-23T11:10:00+09:00",
-     "by": "newsmap.co.kr"
-    },
-    {
-     "title": "LG유플러스, 협력사 160곳 보안 취약점 점검 마쳤다 \"공급망 뒷문 단속\"",
-     "link": "https://www.econovill.com/news/articleView.html?idxno=758119",
-     "t": "2026-11-23T11:08:00+09:00",
-     "by": "econovill.com"
-    },
-    {
-     "title": "LG유플러스, 협력사 160곳 보안 취약점 점검…개선 지침 제공",
-     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719872&ref=A",
-     "t": "2026-11-23T11:08:00+09:00",
-     "by": "kbs.co.kr"
-    },
-    {
-     "title": "LG유플러스, 협력사 160곳 보안 관리...공급망 방어 강화",
-     "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=173420",
-     "t": "2026-11-23T11:04:00+09:00",
-     "by": "choicenews.co.kr"
-    },
-    {
-     "title": "덕성여대-티앤디소프트, 사이버 보안 산학협력 위해 '맞손'",
-     "link": "http://www.popcornnews.net/news/articleView.html?idxno=141089",
-     "t": "2026-11-23T10:58:00+09:00",
-     "by": "popcornnews.net"
-    }
-   ]
-  },
-  {
-   "name": "해킹",
-   "count": 35,
-   "items": [
-    {
-     "title": "한전 외부 해킹 으로 152만여 명 개인정보 유출 , 주민등록번호 계좌번호...",
-     "link": "https://www.businesspost.co.kr/BP?command=article_view&num=452621",
-     "t": "2026-11-23T11:10:00+09:00",
-     "by": "businesspost.co.kr"
-    },
-    {
-     "title": "삼성증권 '고객의 소리' 해킹 ...8241명 개인정보 유출",
-     "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=320897",
-     "t": "2026-11-23T11:10:00+09:00",
-     "by": "wolyo.co.kr"
-    },
-    {
-     "title": "삼성증권, 고객 민원 첨부파일 해킹 …외부 침입 경로·접근권한 조사",
-     "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140430",
-     "t": "2026-11-23T11:10:00+09:00",
-     "by": "e-science.co.kr"
-    },
-    {
-     "title": "삼성증권 '고객의 소리(VOC)' 시스템 해킹 … 고객 이름·계좌번호 등 유...",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3760051",
-     "t": "2026-11-23T11:08:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "삼성증권도 해킹 피해...8천여명 개인정보 유출 돼",
-     "link": "https://www.kgnews.co.kr/news/article.html?no=920733",
-     "t": "2026-11-23T11:08:00+09:00",
-     "by": "kgnews.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "해외",
-   "count": 20,
-   "items": [
-    {
-     "title": "[지스타] 나흘간 20.1만명 방문...해외 게임 사들이 흥행 뒷받침",
-     "link": "https://www.newstree.kr/newsView/ntr202611230010",
-     "t": "2026-11-23T11:12:00+09:00",
-     "by": "newstree.kr"
-    },
-    {
-     "title": "[ 게임 in부산] 대형사 줄어든 자리, 해외·인디·AI·차로 채운 지스타",
-     "link": "https://www.bloter.net/news/articleView.html?idxno=679346",
-     "t": "2026-11-23T11:06:00+09:00",
-     "by": "bloter.net"
-    },
-    {
-     "title": "[카드] LGU+, 해외 7개국 여행 혜택 '원더조이' 출시",
-     "link": "http://www.newsprime.co.kr/news/article.html?no=756010",
-     "t": "2026-11-23T10:18:00+09:00",
-     "by": "newsprime.co.kr"
-    },
-    {
-     "title": "LG유플러스, 해외 여행 멤버십 '원더조이' 선보여…현지 쇼핑·보험 등 ...",
-     "link": "http://www.metroseoul.co.kr/article/20261123500069",
-     "t": "2026-11-23T10:08:00+09:00",
-     "by": "metroseoul.co.kr"
-    },
-    {
-     "title": "LG유플러스, 해외 7개 지역서 쇼핑·교통 할인 ‘원더조이’ 멤버십 출...",
-     "link": "https://biz.chosun.com/it-science/ict/2026/11/23/SJYR62SCLNEZFLN3FJQWPHY5CU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "t": "2026-11-23T09:56:00+09:00",
-     "by": "biz.chosun.com"
+     "title": "엔비디아 14% 급락에도…靑 류덕현, 내년 반도체 세수 낙관",
+     "link": "https://www.dt.co.kr/article/12096652?ref=naver",
+     "t": "2026-11-23T11:26:00+09:00",
+     "by": "dt.co.kr"
     }
    ]
   }

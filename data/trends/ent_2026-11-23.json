@@ -39,7 +39,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -51,15 +51,16 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 13
+    "nate_pop": 15,
+    "nate_int": 21
    },
    "count": 4,
    "inrank": true
@@ -88,7 +89,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 2,
    "hours": [
     "00:08",
@@ -100,15 +101,15 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 23
+    "nate_int": 40
    },
    "count": 2,
    "inrank": true
@@ -172,7 +173,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 3,
    "hours": [
     "00:08",
@@ -184,15 +185,16 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 10
+    "nate_pop": 13,
+    "nate_int": 14
    },
    "count": 7,
    "inrank": true
@@ -214,7 +216,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -226,15 +228,16 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 14
+    "nate_pop": 25,
+    "nate_int": 24
    },
    "count": 1,
    "inrank": true
@@ -256,7 +259,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 5,
    "hours": [
     "00:08",
@@ -268,15 +271,16 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 20
+    "nate_pop": 23,
+    "nate_int": 25
    },
    "count": 1,
    "inrank": true
@@ -285,20 +289,27 @@
    "id": "c6",
    "title": "\"레드카펫서 휘청, 어눌한 말투까지…\" 경도인지장애 고백 전원주 '건강이...",
    "titles": [
-    "\"레드카펫서 휘청, 어눌한 말투까지…\" 경도인지장애 고백 전원주 '건강이..."
+    "\"레드카펫서 휘청, 어눌한 말투까지…\" 경도인지장애 고백 전원주 '건강이...",
+    "'87세' 전원주, 레드카펫서 휘청…\"기억력이 자꾸 떨어진다\""
    ],
    "links": [
-    "https://news.nate.com/view/20261122n10217"
+    "https://news.nate.com/view/20261122n10217",
+    "https://news.nate.com/view/20261123n03757"
    ],
    "articles": [
     {
      "title": "\"레드카펫서 휘청, 어눌한 말투까지…\" 경도인지장애 고백 전원주 '건강이...",
      "link": "https://news.nate.com/view/20261122n10217",
      "media": "마이데일리"
+    },
+    {
+     "title": "'87세' 전원주, 레드카펫서 휘청…\"기억력이 자꾸 떨어진다\"",
+     "link": "https://news.nate.com/view/20261123n03757",
+     "media": "스포츠서울"
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 4,
    "hours": [
     "00:08",
@@ -310,16 +321,18 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 40
+    "nate_pop": 21,
+    "nate_int": 20
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -357,11 +370,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 38
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c8",
@@ -380,7 +391,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 5,
    "hours": [
     "00:08",
@@ -392,14 +403,15 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 36
+    "nate_int": 35
    },
    "count": 1,
    "inrank": true
@@ -421,7 +433,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 8,
    "hours": [
     "00:08",
@@ -433,15 +445,15 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 33
+    "nate_int": 41
    },
    "count": 1,
    "inrank": true
@@ -514,7 +526,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 11,
    "hours": [
     "00:08",
@@ -526,15 +538,15 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 26,
-    "nate_int": 35
+    "nate_int": 32
    },
    "count": 1,
    "inrank": true
@@ -609,11 +621,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 6,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c13",
@@ -650,11 +660,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 48
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c14",
@@ -717,7 +725,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 11,
    "hours": [
     "00:08",
@@ -729,15 +737,16 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 22
+    "nate_pop": 27,
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -747,11 +756,13 @@
    "title": "김승수, 16세 연하 맞선녀 박혜연에 고백…다음 데이트 약속까지 '달달' (...",
    "titles": [
     "김승수, 16세 연하 맞선녀 박혜연에 고백…다음 데이트 약속까지 '달달' (...",
-    "[TVis] 김승수♥박혜연, 노래방서 핑크빛 기류…솔비 \"확실히 마음 있네\"..."
+    "[TVis] 김승수♥박혜연, 노래방서 핑크빛 기류…솔비 \"확실히 마음 있네\"...",
+    "김승수, 박혜연에 진심 고백 \"조금 더 알고 싶어요\" [RE:TV]"
    ],
    "links": [
     "https://news.nate.com/view/20261122n15592",
-    "https://news.nate.com/view/20261122n15232"
+    "https://news.nate.com/view/20261122n15232",
+    "https://news.nate.com/view/20261123n01776"
    ],
    "articles": [
     {
@@ -763,10 +774,15 @@
      "title": "[TVis] 김승수♥박혜연, 노래방서 핑크빛 기류…솔비 \"확실히 마음 있네\"...",
      "link": "https://news.nate.com/view/20261122n15232",
      "media": "일간스포츠"
+    },
+    {
+     "title": "김승수, 박혜연에 진심 고백 \"조금 더 알고 싶어요\" [RE:TV]",
+     "link": "https://news.nate.com/view/20261123n01776",
+     "media": "뉴스1"
     }
    ],
    "first": "00:08",
-   "last": "07:08",
+   "last": "09:08",
    "best": 15,
    "hours": [
     "00:08",
@@ -777,15 +793,18 @@
     "04:08",
     "05:10",
     "06:10",
-    "07:08"
+    "07:08",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 2,
-   "inrank": false
+   "now": {
+    "nate_int": 47
+   },
+   "count": 3,
+   "inrank": true
   },
   {
    "id": "c17",
@@ -804,7 +823,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 12,
    "hours": [
     "00:08",
@@ -816,14 +835,15 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 30
+    "nate_int": 45
    },
    "count": 1,
    "inrank": true
@@ -1018,7 +1038,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 7,
    "hours": [
     "00:08",
@@ -1030,14 +1050,15 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 34
+    "nate_int": 42
    },
    "count": 1,
    "inrank": true
@@ -1385,11 +1406,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 50
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c33",
@@ -1442,7 +1461,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 11,
    "hours": [
     "00:08",
@@ -1454,14 +1473,15 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 39
+    "nate_int": 30
    },
    "count": 1,
    "inrank": true
@@ -1508,20 +1528,27 @@
    "id": "c36",
    "title": "[단독] '나혼산' 또 시끌···구성환 번지점프 결국 과태료·시정 처분",
    "titles": [
-    "[단독] '나혼산' 또 시끌···구성환 번지점프 결국 과태료·시정 처분"
+    "[단독] '나혼산' 또 시끌···구성환 번지점프 결국 과태료·시정 처분",
+    "'나혼산' 또 논란…안전 장치 없던 구성환 번지점프→시정 조치·과태료 처..."
    ],
    "links": [
-    "https://news.nate.com/view/20261122n07141"
+    "https://news.nate.com/view/20261122n07141",
+    "https://news.nate.com/view/20261123n02434"
    ],
    "articles": [
     {
      "title": "[단독] '나혼산' 또 시끌···구성환 번지점프 결국 과태료·시정 처분",
      "link": "https://news.nate.com/view/20261122n07141",
      "media": "스포츠경향"
+    },
+    {
+     "title": "'나혼산' 또 논란…안전 장치 없던 구성환 번지점프→시정 조치·과태료 처...",
+     "link": "https://news.nate.com/view/20261123n02434",
+     "media": "스타뉴스"
     }
    ],
    "first": "00:08",
-   "last": "06:10",
+   "last": "09:08",
    "best": 25,
    "hours": [
     "00:08",
@@ -1531,15 +1558,18 @@
     "03:28",
     "04:08",
     "05:10",
-    "06:10"
+    "06:10",
+    "09:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_int": 49
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c37",
@@ -1572,7 +1602,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 16,
    "hours": [
     "00:08",
@@ -1583,14 +1613,15 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 27
+    "nate_int": 38
    },
    "count": 3,
    "inrank": true
@@ -1643,7 +1674,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 11,
    "hours": [
     "00:08",
@@ -1655,15 +1686,15 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 21
+    "nate_int": 33
    },
    "count": 1,
    "inrank": true
@@ -1685,7 +1716,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 7,
    "hours": [
     "00:08",
@@ -1697,15 +1728,16 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 19
+    "nate_pop": 17,
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -1839,7 +1871,7 @@
     }
    ],
    "first": "01:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 5,
    "hours": [
     "01:08",
@@ -1850,15 +1882,16 @@
     "05:10",
     "06:10",
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 15
+    "nate_pop": 18,
+    "nate_int": 16
    },
    "count": 2,
    "inrank": true
@@ -2165,19 +2198,20 @@
     }
    ],
    "first": "07:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 1,
    "hours": [
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 1
+    "nate_pop": 2,
+    "nate_int": 2
    },
    "count": 1,
    "inrank": true
@@ -2206,19 +2240,20 @@
     }
    ],
    "first": "07:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 2,
    "hours": [
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 2
+    "nate_pop": 4,
+    "nate_int": 3
    },
    "count": 2,
    "inrank": true
@@ -2240,18 +2275,19 @@
     }
    ],
    "first": "07:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 3,
    "hours": [
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
+    "nate_pop": 7,
     "nate_int": 8
    },
    "count": 1,
@@ -2274,19 +2310,20 @@
     }
    ],
    "first": "07:08",
-   "last": "08:10",
-   "best": 4,
+   "last": "09:08",
+   "best": 3,
    "hours": [
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 4
+    "nate_pop": 3,
+    "nate_int": 5
    },
    "count": 1,
    "inrank": true
@@ -2315,19 +2352,20 @@
     }
    ],
    "first": "07:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 3,
    "hours": [
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 9
+    "nate_pop": 26,
+    "nate_int": 23
    },
    "count": 2,
    "inrank": true
@@ -2356,19 +2394,20 @@
     }
    ],
    "first": "07:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 7,
    "hours": [
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 7
+    "nate_pop": 11,
+    "nate_int": 10
    },
    "count": 2,
    "inrank": true
@@ -2390,19 +2429,20 @@
     }
    ],
    "first": "07:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 12,
    "hours": [
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 12
+    "nate_pop": 19,
+    "nate_int": 13
    },
    "count": 1,
    "inrank": true
@@ -2424,18 +2464,19 @@
     }
    ],
    "first": "07:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 11,
    "hours": [
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
+    "nate_pop": 12,
     "nate_int": 11
    },
    "count": 1,
@@ -2458,19 +2499,20 @@
     }
    ],
    "first": "07:08",
-   "last": "08:10",
+   "last": "09:08",
    "best": 17,
    "hours": [
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 17
+    "nate_pop": 24,
+    "nate_int": 18
    },
    "count": 1,
    "inrank": true
@@ -2492,19 +2534,20 @@
     }
    ],
    "first": "07:08",
-   "last": "08:10",
-   "best": 22,
+   "last": "09:08",
+   "best": 17,
    "hours": [
     "07:08",
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 24
+    "nate_pop": 20,
+    "nate_int": 17
    },
    "count": 1,
    "inrank": true
@@ -2526,18 +2569,19 @@
     }
    ],
    "first": "08:10",
-   "last": "08:10",
+   "last": "09:08",
    "best": 2,
    "hours": [
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 3
+    "nate_pop": 6,
+    "nate_int": 4
    },
    "count": 1,
    "inrank": true
@@ -2559,18 +2603,19 @@
     }
    ],
    "first": "08:10",
-   "last": "08:10",
+   "last": "09:08",
    "best": 5,
    "hours": [
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 5
+    "nate_pop": 9,
+    "nate_int": 7
    },
    "count": 1,
    "inrank": true
@@ -2592,17 +2637,18 @@
     }
    ],
    "first": "08:10",
-   "last": "08:10",
-   "best": 6,
+   "last": "09:08",
+   "best": 5,
    "hours": [
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
+    "nate_pop": 5,
     "nate_int": 6
    },
    "count": 1,
@@ -2625,18 +2671,19 @@
     }
    ],
    "first": "08:10",
-   "last": "08:10",
-   "best": 29,
+   "last": "09:08",
+   "best": 14,
    "hours": [
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 32
+    "nate_pop": 14,
+    "nate_int": 15
    },
    "count": 1,
    "inrank": true
@@ -2658,16 +2705,19 @@
     }
    ],
    "first": "08:10",
-   "last": "08:10",
-   "best": 31,
+   "last": "09:08",
+   "best": 8,
    "hours": [
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 31
+    "nate_pop": 8,
+    "nate_int": 9
    },
    "count": 1,
    "inrank": true
@@ -2697,11 +2747,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 41
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c70",
@@ -2720,16 +2768,19 @@
     }
    ],
    "first": "08:10",
-   "last": "08:10",
-   "best": 42,
+   "last": "09:08",
+   "best": 12,
    "hours": [
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 42
+    "nate_pop": 16,
+    "nate_int": 12
    },
    "count": 1,
    "inrank": true
@@ -2751,16 +2802,17 @@
     }
    ],
    "first": "08:10",
-   "last": "08:10",
-   "best": 44,
+   "last": "09:08",
+   "best": 28,
    "hours": [
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 44
+    "nate_int": 28
    },
    "count": 1,
    "inrank": true
@@ -2782,16 +2834,143 @@
     }
    ],
    "first": "08:10",
-   "last": "08:10",
-   "best": 49,
+   "last": "09:08",
+   "best": 48,
    "hours": [
-    "08:10"
+    "08:10",
+    "09:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 49
+    "nate_int": 48
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c73",
+   "title": "'음주운전' 임영민, 이동건과 BL물로 연예계 복귀",
+   "titles": [
+    "'음주운전' 임영민, 이동건과 BL물로 연예계 복귀"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261123n04012"
+   ],
+   "articles": [
+    {
+     "title": "'음주운전' 임영민, 이동건과 BL물로 연예계 복귀",
+     "link": "https://news.nate.com/view/20261123n04012",
+     "media": "마이데일리"
+    }
+   ],
+   "first": "09:08",
+   "last": "09:08",
+   "best": 1,
+   "hours": [
+    "09:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 1,
+    "nate_int": 1
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c74",
+   "title": "강호동, 출연자 향해 경고…\"당분간 인터뷰 금지하도록 하겠다\" ('천만기인...",
+   "titles": [
+    "강호동, 출연자 향해 경고…\"당분간 인터뷰 금지하도록 하겠다\" ('천만기인..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261123n03208"
+   ],
+   "articles": [
+    {
+     "title": "강호동, 출연자 향해 경고…\"당분간 인터뷰 금지하도록 하겠다\" ('천만기인...",
+     "link": "https://news.nate.com/view/20261123n03208",
+     "media": "MHN스포츠"
+    }
+   ],
+   "first": "09:08",
+   "last": "09:08",
+   "best": 10,
+   "hours": [
+    "09:08"
+   ],
+   "srcs": [
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 10
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c75",
+   "title": "\"송혜교 닮아\" 배우 노형욱, 미모의 '♥3살 연하' 여자친구 최초공개",
+   "titles": [
+    "\"송혜교 닮아\" 배우 노형욱, 미모의 '♥3살 연하' 여자친구 최초공개"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261123n00324"
+   ],
+   "articles": [
+    {
+     "title": "\"송혜교 닮아\" 배우 노형욱, 미모의 '♥3살 연하' 여자친구 최초공개",
+     "link": "https://news.nate.com/view/20261123n00324",
+     "media": "OSEN"
+    }
+   ],
+   "first": "09:08",
+   "last": "09:08",
+   "best": 44,
+   "hours": [
+    "09:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 44
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c76",
+   "title": "'문무', 결국 3%대 진입…시청률 하락세 계속",
+   "titles": [
+    "'문무', 결국 3%대 진입…시청률 하락세 계속"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261123n03386"
+   ],
+   "articles": [
+    {
+     "title": "'문무', 결국 3%대 진입…시청률 하락세 계속",
+     "link": "https://news.nate.com/view/20261123n03386",
+     "media": "스포츠투데이"
+    }
+   ],
+   "first": "09:08",
+   "last": "09:08",
+   "best": 46,
+   "hours": [
+    "09:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 46
    },
    "count": 1,
    "inrank": true
@@ -2877,9 +3056,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "09:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-23T08:10:46.032845+09:00",
+ "updated": "2026-11-23T09:08:29.445558+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

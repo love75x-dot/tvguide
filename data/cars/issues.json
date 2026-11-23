@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-23T21:10:50.552197+09:00",
+ "updated": "2026-11-23T22:11:07.315083+09:00",
  "car": [
   {
    "name": "렉스턴 PHEV",
-   "count": 28,
+   "count": 27,
    "items": [
     {
      "title": "KGM, '렉스턴 PHEV' 차명 확정… 25년 SUV 브랜드 전동화 확대",
@@ -39,10 +39,22 @@
   },
   {
    "name": "전기차",
-   "count": 49,
+   "count": 50,
    "items": [
     {
+     "title": "\"테슬라·BYD 무섭게 팔리더니\"…국산 전기차 점유율 50% 붕괴",
+     "link": "https://www.gpkorea.com/news/articleView.html?idxno=148936",
+     "t": "2026-11-23T21:32:00+09:00",
+     "by": "gpkorea.com"
+    },
+    {
      "title": "'메이드 인 차이나' 안방 침공에 국내생산세액공제 전기차 포함 논의 '본...",
+     "link": "https://www.ajunews.com/view/20261123154139648",
+     "t": "2026-11-23T21:08:00+09:00",
+     "by": "ajunews.com"
+    },
+    {
+     "title": "'메이드 인 차이나' 안방 침공에 국내생산세액공제 전기차 추가 논의 '본...",
      "link": "https://www.ajunews.com/view/20261123154139648",
      "t": "2026-11-23T21:08:00+09:00",
      "by": "ajunews.com"
@@ -58,18 +70,42 @@
      "link": "https://www.gpkorea.com/news/articleView.html?idxno=148932",
      "t": "2026-11-23T19:50:00+09:00",
      "by": "gpkorea.com"
+    }
+   ]
+  },
+  {
+   "name": "점유율",
+   "count": 20,
+   "items": [
+    {
+     "title": "\"테슬라·BYD 무섭게 팔리더니\"…국산 전기차 점유율 50% 붕괴",
+     "link": "https://www.gpkorea.com/news/articleView.html?idxno=148936",
+     "t": "2026-11-23T21:32:00+09:00",
+     "by": "gpkorea.com"
     },
     {
-     "title": "[사설] 한국 전기차 위기의식 없는 정부, 국회가 나서라",
-     "link": "https://www.fnnews.com/news/202611231824188958",
-     "t": "2026-11-23T18:25:00+09:00",
-     "by": "fnnews.com"
+     "title": "\"중국차 점유율, 39개국서 일본차 앞질러\"",
+     "link": "https://www.mk.co.kr/article/12216414",
+     "t": "2026-11-23T17:51:00+09:00",
+     "by": "mk.co.kr"
     },
     {
-     "title": "국내 전기차 증가분 중 절반 中서 만들어… 업계 \"세제 혜택 절실\"",
-     "link": "https://www.fnnews.com/news/202611231811332142",
-     "t": "2026-11-23T18:13:00+09:00",
-     "by": "fnnews.com"
+     "title": "[왈가왈부]중국차 점유율, 39개국서 日 앞질러…韓도 안방 내줄 판",
+     "link": "https://www.sedaily.com/article/20117927?ref=naver",
+     "t": "2026-11-23T17:50:00+09:00",
+     "by": "sedaily.com"
+    },
+    {
+     "title": "39개국에서 중국 자동차 점유율, 일본차 앞질러",
+     "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=102386",
+     "t": "2026-11-23T17:22:00+09:00",
+     "by": "weeklytrade.co.kr"
+    },
+    {
+     "title": "중국차의 역습⋯올해 39개국서 일본차 신차 점유율 추월",
+     "link": "https://www.etoday.co.kr/news/view/2651789",
+     "t": "2026-11-23T16:04:00+09:00",
+     "by": "etoday.co.kr"
     }
    ]
   },
@@ -110,78 +146,6 @@
    ]
   },
   {
-   "name": "자율주행",
-   "count": 16,
-   "items": [
-    {
-     "title": "\"드론으로 찍은 듯\" 테슬라 '리얼리티 뷰'…게임 속 자율주행 현실로",
-     "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232528",
-     "t": "2026-11-23T19:53:00+09:00",
-     "by": "mbn.co.kr"
-    },
-    {
-     "title": "자율주행 ·AI, 미래농업 지도 바꾼다(8·끝)",
-     "link": "https://www.dynews.co.kr/news/articleView.html?idxno=875133",
-     "t": "2026-11-23T19:48:00+09:00",
-     "by": "dynews.co.kr"
-    },
-    {
-     "title": "선문대 PIS팀, ‘스케일카 자율주행 경진대회’ 대상",
-     "link": "https://www.joongang.co.kr/article/25481190",
-     "t": "2026-11-23T19:45:00+09:00",
-     "by": "joongang.co.kr"
-    },
-    {
-     "title": "구미시, 양파 재배에 자율주행 농기계·AI 도입 실증",
-     "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091823",
-     "t": "2026-11-23T19:28:00+09:00",
-     "by": "kyongbuk.co.kr"
-    },
-    {
-     "title": "현대 차, 웨이모 공급으로 자율주행 사업 확대…로보택시 상용화 속도",
-     "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=195098",
-     "t": "2026-11-23T18:02:00+09:00",
-     "by": "wikileaks-kr.org"
-    }
-   ]
-  },
-  {
-   "name": "점유율",
-   "count": 19,
-   "items": [
-    {
-     "title": "\"중국차 점유율, 39개국서 일본차 앞질러\"",
-     "link": "https://www.mk.co.kr/article/12216414",
-     "t": "2026-11-23T17:51:00+09:00",
-     "by": "mk.co.kr"
-    },
-    {
-     "title": "[왈가왈부]중국차 점유율, 39개국서 日 앞질러…韓도 안방 내줄 판",
-     "link": "https://www.sedaily.com/article/20117927?ref=naver",
-     "t": "2026-11-23T17:50:00+09:00",
-     "by": "sedaily.com"
-    },
-    {
-     "title": "39개국에서 중국 자동차 점유율, 일본차 앞질러",
-     "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=102386",
-     "t": "2026-11-23T17:22:00+09:00",
-     "by": "weeklytrade.co.kr"
-    },
-    {
-     "title": "중국차의 역습⋯올해 39개국서 일본차 신차 점유율 추월",
-     "link": "https://www.etoday.co.kr/news/view/2651789",
-     "t": "2026-11-23T16:04:00+09:00",
-     "by": "etoday.co.kr"
-    },
-    {
-     "title": "전 세계 잠식하는 중국 전기차 …39개국서 일본차 점유율 역전",
-     "link": "https://www.ajunews.com/view/20261123153636596",
-     "t": "2026-11-23T15:48:00+09:00",
-     "by": "ajunews.com"
-    }
-   ]
-  },
-  {
    "name": "현대차",
    "count": 18,
    "items": [
@@ -216,42 +180,78 @@
      "by": "jjn.co.kr"
     }
    ]
+  },
+  {
+   "name": "자율주행",
+   "count": 15,
+   "items": [
+    {
+     "title": "지오로봇, 자율주행 기반 美 병원 물류 자동화 추진",
+     "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=566226",
+     "t": "2026-11-23T21:24:00+09:00",
+     "by": "idaegu.co.kr"
+    },
+    {
+     "title": "\"드론으로 찍은 듯\" 테슬라 '리얼리티 뷰'…게임 속 자율주행 현실로",
+     "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232528",
+     "t": "2026-11-23T19:53:00+09:00",
+     "by": "mbn.co.kr"
+    },
+    {
+     "title": "자율주행 ·AI, 미래농업 지도 바꾼다(8·끝)",
+     "link": "https://www.dynews.co.kr/news/articleView.html?idxno=875133",
+     "t": "2026-11-23T19:48:00+09:00",
+     "by": "dynews.co.kr"
+    },
+    {
+     "title": "선문대 PIS팀, ‘스케일카 자율주행 경진대회’ 대상",
+     "link": "https://www.joongang.co.kr/article/25481190",
+     "t": "2026-11-23T19:45:00+09:00",
+     "by": "joongang.co.kr"
+    },
+    {
+     "title": "구미시, 양파 재배에 자율주행 농기계·AI 도입 실증",
+     "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091823",
+     "t": "2026-11-23T19:28:00+09:00",
+     "by": "kyongbuk.co.kr"
+    }
+   ]
   }
  ],
  "moto": [
   {
-   "name": "김미경 오토바",
-   "count": 5,
+   "name": "오토바",
+   "count": 12,
    "items": [
     {
-     "title": "김미경, 오토바이 에 깔린 순간에도…\"큰일 났다, 나 촬영해야 되는데\" ...",
-     "link": "https://www.xportsnews.com/article/2222223",
-     "t": "2026-11-23T16:50:00+09:00",
-     "by": "xportsnews.com"
+     "title": "'국민엄마' 못 볼뻔..김미경, 아찔한 오토바이 사고 \"깔렸다\" ('남겨서뭐...",
+     "link": "http://www.osen.co.kr/article/G1112914058",
+     "t": "2026-11-23T22:06:00+09:00",
+     "by": "osen.co.kr"
     },
     {
-     "title": "배우 김미경, 오토바이 타다 깔리는 사고…\"당시 들었던 생각이…\"",
-     "link": "https://www.mt.co.kr/entertainment/2026/11/23/2026112316131164315",
-     "t": "2026-11-23T16:49:00+09:00",
-     "by": "mt.co.kr"
+     "title": "[TVis] 김미경, 오토바이 에 깔린 아찔한 사고…“아픈 것보다 촬영 걱정...",
+     "link": "https://isplus.com/article/view/isp202611230170",
+     "t": "2026-11-23T21:38:00+09:00",
+     "by": "isplus.com"
     },
     {
-     "title": "'63세' 김미경, 오토바이 깔리는 사고 당했다…\"아찔, 촬영 걱정되더라...",
-     "link": "https://mhnse.com/news/articleView.html?idxno=1707481",
-     "t": "2026-11-23T16:42:00+09:00",
-     "by": "mhnse.com"
+     "title": "김미경, 오토바이 타다 깔렸다 \"내일 촬영인데\" 아찔했던 사고 회상",
+     "link": "https://www.sportschosun.com/entertainment/2026-11-23/202611230100144570013451",
+     "t": "2026-11-23T21:36:00+09:00",
+     "by": "sportschosun.com"
     },
     {
-     "title": "김미경, 오토바이 에 깔리는 '위험천만' 사고당해…\"아픈 것보다 촬영 걱...",
-     "link": "https://www.tvreport.co.kr/entertainment/article/1093066/",
-     "t": "2026-11-23T15:59:00+09:00",
+     "title": "김미경, 오토바이 에 깔린 사고 후 결심 \"촬영할 땐 안 타기로\" ('남겨서...",
+     "link": "https://www.tvreport.co.kr/broadcast/article/1093182/",
+     "t": "2026-11-23T21:16:00+09:00",
      "by": "tvreport.co.kr"
     },
     {
-     "title": "'국민 엄마' 김미경, 오토바이 에 깔리는 사고 당했다 \"아찔하게 넘어져...",
-     "link": "https://www.sportschosun.com/entertainment/2026-11-23/202611230100142410013265",
-     "t": "2026-11-23T15:02:00+09:00",
-     "by": "sportschosun.com"
+     "title": "김미경, 바이크 타다 교통사고..\" 오토바이 에 깔려, 부려졌을까 걱정\" [남...",
+     "link": "https://www.starnewskorea.com/broadcast-show/2026/11/23/2026112319580849913",
+     "t": "2026-11-23T20:51:00+09:00",
+     "by": "starnewskorea.com"
     }
    ]
   },

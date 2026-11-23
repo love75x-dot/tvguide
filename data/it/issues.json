@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-23T21:10:50.552197+09:00",
+ "updated": "2026-11-23T22:11:07.315083+09:00",
  "all": [
   {
    "name": "개인정보 유출",
-   "count": 20,
+   "count": 18,
    "items": [
     {
      "title": "한전, 한 달 새 또 개인정보 유출…152만명 정보 '줄줄'",
@@ -39,7 +39,7 @@
   },
   {
    "name": "해킹",
-   "count": 30,
+   "count": 29,
    "items": [
     {
      "title": "롯데카드 해킹 위험 공시 누락 '과징금 10억'",
@@ -75,8 +75,14 @@
   },
   {
    "name": "한전",
-   "count": 21,
+   "count": 22,
    "items": [
+    {
+     "title": "[단독] 다크웹에 올라온 한전 유출 정보 …해커 “입찰 정보 도 있어”",
+     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720418&ref=A",
+     "t": "2026-11-23T21:09:00+09:00",
+     "by": "kbs.co.kr"
+    },
     {
      "title": "한전 \"보안 혁신\" 약속 한 달 만에 또 유출 ‥국회 청문회 추진",
      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867940_37004.html",
@@ -100,18 +106,84 @@
      "link": "https://www.dt.co.kr/article/12096782?ref=naver",
      "t": "2026-11-23T18:11:00+09:00",
      "by": "dt.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "보안",
+   "count": 15,
+   "items": [
+    {
+     "title": "전력거래소, 전력운영시스템 장애 ·보안 대응 논의",
+     "link": "http://www.ikld.kr/news/articleView.html?idxno=344705",
+     "t": "2026-11-23T21:40:00+09:00",
+     "by": "ikld.kr"
     },
     {
-     "title": "[시큐리티 포커스] 개인정보위 한전 유출사고 조사 착수·안랩 KDFS 챌린...",
-     "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=904116",
-     "t": "2026-11-23T18:08:00+09:00",
-     "by": "newsworks.co.kr"
+     "title": "한전 \"보안 혁신\" 약속 한 달 만에 또 유출 ‥국회 청문회 추진",
+     "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867940_37004.html",
+     "t": "2026-11-23T20:49:00+09:00",
+     "by": "imnews.imbc.com"
+    },
+    {
+     "title": "[비즈투데이] LG U+, 160개 협력사 보안 점검 실시",
+     "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1544698",
+     "t": "2026-11-23T20:16:00+09:00",
+     "by": "obsnews.co.kr"
+    },
+    {
+     "title": "덕성여대·티앤디소프트, 차세대 국가 보안 체계 연구·인재 양성 협력",
+     "link": "https://www.fnnews.com/news/202611231952555820",
+     "t": "2026-11-23T19:54:00+09:00",
+     "by": "fnnews.com"
+    },
+    {
+     "title": "[현장] 제품보다 연결, 복구 너머 성장…'연대'로 향하는 보안",
+     "link": "https://www.itdaily.kr/news/articleView.html?idxno=243147",
+     "t": "2026-11-23T18:54:00+09:00",
+     "by": "itdaily.kr"
+    }
+   ]
+  },
+  {
+   "name": "반도체",
+   "count": 15,
+   "items": [
+    {
+     "title": "\" 반도체 호시절도 내년까지\"…삼전닉스 목표가 잇따라 낮춘 IB들",
+     "link": "http://www.inews24.com/view/2029489",
+     "t": "2026-11-23T21:24:00+09:00",
+     "by": "inews24.com"
+    },
+    {
+     "title": "글로벌 IB 잇단 반도체 경고…삼성전자·하이닉스 목표가 줄하향",
+     "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886382",
+     "t": "2026-11-23T21:24:00+09:00",
+     "by": "hansbiz.co.kr"
+    },
+    {
+     "title": "\" 반도체 호황이라 버틴다\"…반등 기다린 삼전·닉스 주주들에 날아든 '...",
+     "link": "https://view.asiae.co.kr/article/2026112320545484619",
+     "t": "2026-11-23T21:22:00+09:00",
+     "by": "view.asiae.co.kr"
+    },
+    {
+     "title": "반도체 \"내년에도 호황\"…하반기 성장세는 꺾여",
+     "link": "http://www.yonhapnewstv.co.kr/news/MYH20261123210427GxU",
+     "t": "2026-11-23T21:05:00+09:00",
+     "by": "yonhapnewstv.co.kr"
+    },
+    {
+     "title": "[2027 산업 대전환 ①] 수출 1조달러 이끈 반도체 … 철강·석화는 수익성...",
+     "link": "https://www.pressman.kr/news/articleView.html?idxno=104619",
+     "t": "2026-11-23T20:18:00+09:00",
+     "by": "pressman.kr"
     }
    ]
   },
   {
    "name": "게임",
-   "count": 17,
+   "count": 15,
    "items": [
     {
      "title": "신한은행, 금융에 게임 더했다…캐릭터 육성 서비스 '키워요' 출시",
@@ -142,78 +214,6 @@
      "link": "https://www.greened.kr/news/articleView.html?idxno=355357",
      "t": "2026-11-23T18:11:00+09:00",
      "by": "greened.kr"
-    }
-   ]
-  },
-  {
-   "name": "보안",
-   "count": 16,
-   "items": [
-    {
-     "title": "한전 \"보안 혁신\" 약속 한 달 만에 또 유출 ‥국회 청문회 추진",
-     "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867940_37004.html",
-     "t": "2026-11-23T20:49:00+09:00",
-     "by": "imnews.imbc.com"
-    },
-    {
-     "title": "[비즈투데이] LG U+, 160개 협력사 보안 점검 실시",
-     "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1544698",
-     "t": "2026-11-23T20:16:00+09:00",
-     "by": "obsnews.co.kr"
-    },
-    {
-     "title": "덕성여대·티앤디소프트, 차세대 국가 보안 체계 연구·인재 양성 협력",
-     "link": "https://www.fnnews.com/news/202611231952555820",
-     "t": "2026-11-23T19:54:00+09:00",
-     "by": "fnnews.com"
-    },
-    {
-     "title": "[현장] 제품보다 연결, 복구 너머 성장…'연대'로 향하는 보안",
-     "link": "https://www.itdaily.kr/news/articleView.html?idxno=243147",
-     "t": "2026-11-23T18:54:00+09:00",
-     "by": "itdaily.kr"
-    },
-    {
-     "title": "AI보다 먼저 ‘보안 구멍’ 찾는다… 화이트해커 내년 제도화",
-     "link": "https://www.fnnews.com/news/202611231808205208",
-     "t": "2026-11-23T18:10:00+09:00",
-     "by": "fnnews.com"
-    }
-   ]
-  },
-  {
-   "name": "노마디안",
-   "count": 12,
-   "items": [
-    {
-     "title": "한컴, AI 워크포스 플랫폼 '노마디안' 미국 공략 본격화 … AWS와 사업화...",
-     "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=92528",
-     "t": "2026-11-23T20:08:00+09:00",
-     "by": "worktoday.co.kr"
-    },
-    {
-     "title": "[지금이뉴스] ' AI 팀' 승부수 띄운 노마디안...미국 진출 전문가도 합류...",
-     "link": "https://news.jtbc.co.kr/article/NB12329465?influxDiv=NAVER",
-     "t": "2026-11-23T19:47:00+09:00",
-     "by": "jtbc.co.kr"
-    },
-    {
-     "title": "' AI 팀' 승부수 띄운 노마디안…미국 진출 전문가도 합류했다",
-     "link": "https://news.jtbc.co.kr/article/NB12329465?influxDiv=NAVER",
-     "t": "2026-11-23T19:47:00+09:00",
-     "by": "jtbc.co.kr"
-    },
-    {
-     "title": "한컴 AI 워크포스 '노마디안' 美 공략 시동",
-     "link": "https://www.fnnews.com/news/202611231814554549",
-     "t": "2026-11-23T18:16:00+09:00",
-     "by": "fnnews.com"
-    },
-    {
-     "title": "' AI 직원' 노마디안 앞세운 한컴, AWS와 美 공략…현지화 속도",
-     "link": "https://news.mtn.co.kr/article/2026112315555451315",
-     "t": "2026-11-23T17:38:00+09:00",
-     "by": "mtn.co.kr"
     }
    ]
   }

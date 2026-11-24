@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-24T11:07:52.754022+09:00",
+ "generated": "2026-11-24T13:08:02.873018+09:00",
  "channels": [
   {
    "id": "kbs1",
    "name": "KBS1",
    "ok": true,
-   "updated": "2026-11-24T11:07:52.754022+09:00",
+   "updated": "2026-11-24T13:08:02.873018+09:00",
    "programs": [
     {
      "start": "2026-11-24T05:00:00+09:00",
@@ -1357,7 +1357,7 @@
    "id": "kbs2",
    "name": "KBS2",
    "ok": true,
-   "updated": "2026-11-24T11:07:52.754022+09:00",
+   "updated": "2026-11-24T13:08:02.873018+09:00",
    "programs": [
     {
      "start": "2026-11-24T05:00:00+09:00",
@@ -2310,7 +2310,7 @@
    "id": "mbc",
    "name": "MBC",
    "ok": true,
-   "updated": "2026-11-24T11:07:52.754022+09:00",
+   "updated": "2026-11-24T13:08:02.873018+09:00",
    "programs": [
     {
      "start": "2026-11-24T05:00:00+09:00",
@@ -3256,7 +3256,7 @@
    "id": "sbs",
    "name": "SBS",
    "ok": true,
-   "updated": "2026-11-24T11:07:52.754022+09:00",
+   "updated": "2026-11-24T13:08:02.873018+09:00",
    "programs": [
     {
      "start": "2026-11-24T05:00:00+09:00",
@@ -4272,7 +4272,7 @@
    "id": "jtbc",
    "name": "JTBC",
    "ok": true,
-   "updated": "2026-11-24T11:07:52.754022+09:00",
+   "updated": "2026-11-24T13:08:02.873018+09:00",
    "programs": [
     {
      "start": "2026-11-24T01:10:00+09:00",
@@ -5162,7 +5162,7 @@
    "id": "tvchosun",
    "name": "TV조선",
    "ok": true,
-   "updated": "2026-11-24T11:07:52.754022+09:00",
+   "updated": "2026-11-24T13:08:02.873018+09:00",
    "programs": [
     {
      "start": "2026-11-24T00:30:00+09:00",
@@ -6177,9 +6177,8 @@
   {
    "id": "channela",
    "name": "채널A",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='ichannela.com', port=443): Max retries exceeded with url: /com/cmm/schedule.do?selectedDate=20261124 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ichannela.com', port=443) at 0x7b7e054043e0>, 'Connection to ichannela.com timed out. (connect timeout=20)'))",
-   "updated": "2026-11-24T10:07:52.962626+09:00",
+   "ok": true,
+   "updated": "2026-11-24T13:08:02.873018+09:00",
    "programs": [
     {
      "start": "2026-11-24T00:00:00+09:00",
@@ -7181,7 +7180,7 @@
    "id": "mbn",
    "name": "MBN",
    "ok": true,
-   "updated": "2026-11-24T11:07:52.754022+09:00",
+   "updated": "2026-11-24T13:08:02.873018+09:00",
    "programs": [
     {
      "start": "2026-11-24T02:40:00+09:00",
@@ -8155,7 +8154,7 @@
    "id": "tvn",
    "name": "tvN",
    "ok": true,
-   "updated": "2026-11-24T11:07:52.754022+09:00",
+   "updated": "2026-11-24T13:08:02.873018+09:00",
    "programs": [
     {
      "start": "2026-11-21T05:50:00+09:00",
@@ -8863,7 +8862,7 @@
    "id": "ena",
    "name": "ENA",
    "ok": true,
-   "updated": "2026-11-24T11:07:52.754022+09:00",
+   "updated": "2026-11-24T13:08:02.873018+09:00",
    "programs": [
     {
      "start": "2026-11-24T00:33:00+09:00",

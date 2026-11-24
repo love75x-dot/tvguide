@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-24T11:11:07.545773+09:00",
+ "updated": "2026-11-24T13:08:58.433676+09:00",
  "hot": [
   {
    "name": "렉스턴",
-   "count": 29,
+   "count": 30,
    "prev": 3,
    "rise": 20,
    "moto": false,
@@ -13,18 +13,18 @@
    ]
   },
   {
-   "name": "아반떼",
-   "count": 9,
-   "prev": 25,
-   "rise": 1,
-   "moto": false,
-   "why": []
-  },
-  {
    "name": "GV90",
    "count": 8,
    "prev": 3,
    "rise": -20,
+   "moto": false,
+   "why": []
+  },
+  {
+   "name": "아반떼",
+   "count": 8,
+   "prev": 26,
+   "rise": 1,
    "moto": false,
    "why": []
   },
@@ -63,26 +63,28 @@
    "why": []
   },
   {
-   "name": "아이오닉 5",
-   "count": 1,
-   "prev": 7,
-   "rise": -6,
-   "moto": false,
-   "why": []
-  },
-  {
    "name": "싼타페",
-   "count": 1,
+   "count": 2,
    "prev": 1,
    "rise": -2,
    "moto": false,
    "why": []
   },
   {
-   "name": "포터",
+   "name": "CBR",
    "count": 1,
    "prev": 0,
-   "rise": -5,
+   "rise": -38,
+   "moto": true,
+   "why": [
+    "출시"
+   ]
+  },
+  {
+   "name": "아이오닉 5",
+   "count": 1,
+   "prev": 7,
+   "rise": -6,
    "moto": false,
    "why": []
   }
@@ -119,6 +121,14 @@
    "title": "“성공하면 벤츠 대신” 이재용 회장도 탄 카니발…내년엔 신형 출시 ? ...",
    "link": "https://www.mk.co.kr/article/12214928",
    "moto": false
+  },
+  {
+   "name": "CBR",
+   "status": "tbd",
+   "date": null,
+   "title": "혼다 , 차세대 미들급 4기통 CB·CBR 티저 이미지 공개..연내 출시 계획",
+   "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63287",
+   "moto": true
   }
  ]
 }

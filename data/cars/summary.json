@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T10:08:45.575229+09:00",
+ "updated": "2026-11-24T11:11:07.545773+09:00",
  "hot": [
   {
    "name": "렉스턴",
@@ -14,8 +14,8 @@
   },
   {
    "name": "아반떼",
-   "count": 10,
-   "prev": 24,
+   "count": 9,
+   "prev": 25,
    "rise": 1,
    "moto": false,
    "why": []
@@ -37,6 +37,16 @@
    "why": []
   },
   {
+   "name": "스포티지",
+   "count": 4,
+   "prev": 0,
+   "rise": -2,
+   "moto": false,
+   "why": [
+    "중고차 시세"
+   ]
+  },
+  {
    "name": "GV80",
    "count": 4,
    "prev": 1,
@@ -53,14 +63,12 @@
    "why": []
   },
   {
-   "name": "스포티지",
-   "count": 2,
-   "prev": 0,
-   "rise": -2,
+   "name": "아이오닉 5",
+   "count": 1,
+   "prev": 7,
+   "rise": -6,
    "moto": false,
-   "why": [
-    "중고차 시세"
-   ]
+   "why": []
   },
   {
    "name": "싼타페",
@@ -75,14 +83,6 @@
    "count": 1,
    "prev": 0,
    "rise": -5,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "모델 3",
-   "count": 1,
-   "prev": 0,
-   "rise": 2,
    "moto": false,
    "why": []
   }

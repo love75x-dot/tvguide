@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-24T10:08:45.575229+09:00",
+ "updated": "2026-11-24T11:11:07.545773+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 39,
+   "count": 34,
    "angles": [
     "에 좋은",
     "부작용",
@@ -46,7 +46,7 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 21,
+   "count": 20,
    "angles": [
     "먹는 법",
     "효능",
@@ -88,12 +88,19 @@
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 13,
+   "count": 14,
    "angles": [
+    "먹는 법",
     "부작용",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "저칼로리 간식만 고르면 놓치는 것… 다이어트 간식은 당질·섭취량까지...",
+     "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=95789",
+     "t": "2026-11-24T10:22:00+09:00",
+     "by": "mediafine.co.kr"
+    },
     {
      "title": "살림도 다이어트 가 필요하다…50대가 되고 바꾼 3가지 물건은?",
      "link": "https://lady.khan.co.kr/khlady.html?mode=view&artid=202611240600051&code=9",
@@ -117,12 +124,6 @@
      "link": "https://gg.newdaily.co.kr/site/data/html/2026/11/23/2026112350145.html",
      "t": "2026-11-23T18:10:00+09:00",
      "by": "gg.newdaily.co.kr"
-    },
-    {
-     "title": "\"데뷔 후 33년째 마른 몸 유지\" 다이어트 천재 홍진경이 개발한 '적게 먹...",
-     "link": "https://www.insight.co.kr/news/583213",
-     "t": "2026-11-23T17:30:00+09:00",
-     "by": "insight.co.kr"
     }
    ]
   },
@@ -135,6 +136,12 @@
     "부작용"
    ],
    "items": [
+    {
+     "title": "강서구, 치매 어르신 실종예방 캠페인 개최…건강·복지 통합상담 제공",
+     "link": "https://www.job-post.co.kr/news/articleView.html?idxno=240413",
+     "t": "2026-11-24T10:44:00+09:00",
+     "by": "job-post.co.kr"
+    },
     {
      "title": "서울 강서구, 25일 통합청사서 치매 실종예방 캠페인…건강·복지 상담...",
      "link": "https://www.dailian.co.kr/news/view/1718821/?sc=Naver",
@@ -158,12 +165,6 @@
      "link": "https://kormedi.com/?p=2905228",
      "t": "2026-11-24T08:01:00+09:00",
      "by": "kormedi.com"
-    },
-    {
-     "title": "강서구, 치매 실종 예방·건강·복지 상담 한자리서 제공",
-     "link": "https://biz.heraldcorp.com/article/10946791?ref=naver",
-     "t": "2026-11-24T07:24:00+09:00",
-     "by": "biz.heraldcorp.com"
     }
    ]
   },
@@ -291,9 +292,91 @@
    ]
   },
   {
+   "name": "콜레스테롤",
+   "kind": "질환·증상",
+   "count": 8,
+   "angles": [
+    "에 좋은",
+    "부작용",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "콜레스테롤 낮추고 살 빼주는 '이 빵'... 英 전문가 \"포만감 높아 적게 ...",
+     "link": "https://www.insight.co.kr/news/583308",
+     "t": "2026-11-24T10:22:00+09:00",
+     "by": "insight.co.kr"
+    },
+    {
+     "title": "목·다리 혈관에 쌓인 콜레스테롤 플라크, 관상동맥 질환 위험 신호",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627202",
+     "t": "2026-11-24T08:34:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "다크 초콜릿, 혈관 건강·염증 감소·콜레스테롤 수치 개선 효과 있다 (...",
+     "link": "https://www.insight.co.kr/news/583237",
+     "t": "2026-11-23T18:00:00+09:00",
+     "by": "insight.co.kr"
+    },
+    {
+     "title": "휴온스, 혈압 ·콜레스테롤 3제 결합 '베실살탄큐정' 복합제 출시",
+     "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=302611",
+     "t": "2026-11-23T16:40:00+09:00",
+     "by": "financialpost.co.kr"
+    },
+    {
+     "title": "충주시당뇨교육센터, 이상지질혈증 예방 강의…콜레스테롤 관리 교육",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3759625",
+     "t": "2026-11-23T15:10:00+09:00",
+     "by": "gukjenews.com"
+    }
+   ]
+  },
+  {
+   "name": "단백질",
+   "kind": "영양제",
+   "count": 7,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "운동후 근육 회복 돕는 단백질·철분 보충…전국한우협회, 러너들에게 ...",
+     "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95302",
+     "t": "2026-11-24T10:58:00+09:00",
+     "by": "thefairnews.co.kr"
+    },
+    {
+     "title": "고추장·단백질 파우더…aT, 유망 농 식품 中 판로 개척 나서",
+     "link": "https://www.econovill.com/news/articleView.html?idxno=758266",
+     "t": "2026-11-24T08:02:00+09:00",
+     "by": "econovill.com"
+    },
+    {
+     "title": "중년기 체지방 분포·대사건강, 알츠하이머병 관련 뇌 단백질 축적과 연...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627134",
+     "t": "2026-11-24T08:02:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "“110일 만에 17kg 감량”… 김지영이 꼽은 ‘식이섬유·단백질’ 비법",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/23/2026112300894.html",
+     "t": "2026-11-23T10:17:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "신경치료후 뿌리 약해진 어린 영구치…재생 돕는 ‘단백질’ 발견",
+     "link": "https://www.nongmin.com/article/20261120500316",
+     "t": "2026-11-22T14:49:00+09:00",
+     "by": "nongmin.com"
+    }
+   ]
+  },
+  {
    "name": "김치",
    "kind": "식품·제철",
-   "count": 7,
+   "count": 6,
    "angles": [
     "효능"
    ],
@@ -327,88 +410,6 @@
      "link": "https://www.busan.com/view/busan/view.php?code=2026112211581827046",
      "t": "2026-11-22T12:01:00+09:00",
      "by": "busan.com"
-    }
-   ]
-  },
-  {
-   "name": "콜레스테롤",
-   "kind": "질환·증상",
-   "count": 7,
-   "angles": [
-    "부작용",
-    "효능",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "목·다리 혈관에 쌓인 콜레스테롤 플라크, 관상동맥 질환 위험 신호",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627202",
-     "t": "2026-11-24T08:34:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "다크 초콜릿, 혈관 건강·염증 감소·콜레스테롤 수치 개선 효과 있다 (...",
-     "link": "https://www.insight.co.kr/news/583237",
-     "t": "2026-11-23T18:00:00+09:00",
-     "by": "insight.co.kr"
-    },
-    {
-     "title": "휴온스, 혈압 ·콜레스테롤 3제 결합 '베실살탄큐정' 복합제 출시",
-     "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=302611",
-     "t": "2026-11-23T16:40:00+09:00",
-     "by": "financialpost.co.kr"
-    },
-    {
-     "title": "충주시당뇨교육센터, 이상지질혈증 예방 강의…콜레스테롤 관리 교육",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3759625",
-     "t": "2026-11-23T15:10:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "충주시, 콜레스테롤 관리 교육",
-     "link": "https://www.inews365.com/news/article.html?no=944748",
-     "t": "2026-11-23T11:28:00+09:00",
-     "by": "inews365.com"
-    }
-   ]
-  },
-  {
-   "name": "단백질",
-   "kind": "영양제",
-   "count": 6,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "고추장·단백질 파우더…aT, 유망 농 식품 中 판로 개척 나서",
-     "link": "https://www.econovill.com/news/articleView.html?idxno=758266",
-     "t": "2026-11-24T08:02:00+09:00",
-     "by": "econovill.com"
-    },
-    {
-     "title": "중년기 체지방 분포·대사건강, 알츠하이머병 관련 뇌 단백질 축적과 연...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627134",
-     "t": "2026-11-24T08:02:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "“110일 만에 17kg 감량”… 김지영이 꼽은 ‘식이섬유·단백질’ 비법",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/23/2026112300894.html",
-     "t": "2026-11-23T10:17:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "신경치료후 뿌리 약해진 어린 영구치…재생 돕는 ‘단백질’ 발견",
-     "link": "https://www.nongmin.com/article/20261120500316",
-     "t": "2026-11-22T14:49:00+09:00",
-     "by": "nongmin.com"
-    },
-    {
-     "title": "'71㎏→54㎏' 김지영, 출산 후 17㎏ 감량 비결 공개…\"식이섬유·단백질...",
-     "link": "https://www.newsis.com/view/NISX20261121_0003877714",
-     "t": "2026-11-21T19:23:00+09:00",
-     "by": "newsis.com"
     }
    ]
   },
@@ -618,11 +619,10 @@
   {
    "name": "커피",
    "kind": "식품·제철",
-   "count": 5,
+   "count": 4,
    "angles": [
     "먹는 법",
-    "효능",
-    "부작용"
+    "효능"
    ],
    "items": [
     {
@@ -648,46 +648,6 @@
      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70320",
      "t": "2026-11-21T13:00:00+09:00",
      "by": "hidoc.co.kr"
-    },
-    {
-     "title": "커피 하루 2~3잔, 심혈관 질환 위험 15% 낮은 것과 연관",
-     "link": "https://www.segye.com/newsView/20261121503703?OutUrl=naver",
-     "t": "2026-11-21T11:07:00+09:00",
-     "by": "segye.com"
-    }
-   ]
-  },
-  {
-   "name": "피로",
-   "kind": "질환·증상",
-   "count": 4,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "침침하고 뻑뻑한 눈…하루 5분 눈 운동 으로 피로 풀기",
-     "link": "https://kormedi.com/?p=2911275",
-     "t": "2026-11-24T09:06:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "\"눈에 모래 낀 듯 뻑뻑\"…단순 피로 아닌 '이 질환 '?",
-     "link": "https://www.newsis.com/view/NISX20261123_0003879834",
-     "t": "2026-11-24T07:01:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "커피 마셔도 멍한 머리, '뇌 피로' 때문?...약사가 전하는 영양 관리법",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70320",
-     "t": "2026-11-21T13:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "뇌 노화를 막는 5분 운동, 피로 유발하는 인공지능 대안 된다",
-     "link": "https://www.gqkorea.co.kr/2026/11/21/%eb%87%8c-%eb%85%b8%ed%99%94%eb%a5%bc-%eb%a7%89%eb%8a%94-5%eb%b6%84-%ec%9a%b4%eb%8f%99-%ed%94%bc%eb%a1%9c-%ec%9c%a0%eb%b0%9c%ed%95%98%eb%8a%94-%ec%9d%b8%ea%b3%b5%ec%a7%80%eb%8a%a5-%eb%8c%80%ec%95%88/?utm_source=naver&utm_medium=partnership",
-     "t": "2026-11-21T10:46:00+09:00",
-     "by": "gqkorea.co.kr"
     }
    ]
   },
@@ -718,6 +678,35 @@
    ]
   },
   {
+   "name": "땅콩",
+   "kind": "식품·제철",
+   "count": 3,
+   "angles": [
+    "부작용",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "\"땅콩 꾸준히 먹으면 당뇨병 위험 낮아질까?\"… 혈중 지방 성분 변화에...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70487",
+     "t": "2026-11-24T11:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "땅콩 섭취가 당뇨병 위험 11% 낮춰…연구",
+     "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717362",
+     "t": "2026-11-23T11:34:00+09:00",
+     "by": "digitaltoday.co.kr"
+    },
+    {
+     "title": "땅콩 섭취 관련 혈중 지질 변화, 제2형 당뇨병 발생 위험 11% 낮아",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626854",
+     "t": "2026-11-22T12:14:00+09:00",
+     "by": "mdtoday.co.kr"
+    }
+   ]
+  },
+  {
    "name": "우울증",
    "kind": "질환·증상",
    "count": 3,
@@ -742,6 +731,32 @@
      "link": "https://www.newsen.com/news_view.php?uid=202611212248492110",
      "t": "2026-11-21T22:49:00+09:00",
      "by": "newsen.com"
+    }
+   ]
+  },
+  {
+   "name": "위암",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [],
+   "items": [
+    {
+     "title": "[ 건강 365]-무증상 '위암' 조기 발견 중요",
+     "link": "https://news.knn.co.kr/news/article/194861",
+     "t": "2026-11-24T10:34:00+09:00",
+     "by": "knn.co.kr"
+    },
+    {
+     "title": "“위장 점막 손상되고 염증 생긴다”… 위암 부르는 습관 3가지",
+     "link": "https://kormedi.com/?p=2910340",
+     "t": "2026-11-22T21:26:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "양치하다가 깜짝 “혀 색깔이 왜 이렇지?”…위암 환자에게서 발견된 공...",
+     "link": "https://www.sedaily.com/article/20117330?ref=naver",
+     "t": "2026-11-22T12:24:00+09:00",
+     "by": "sedaily.com"
     }
    ]
   },
@@ -826,6 +841,34 @@
    ]
   },
   {
+   "name": "피로",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "침침하고 뻑뻑한 눈…하루 5분 눈 운동 으로 피로 풀기",
+     "link": "https://kormedi.com/?p=2911275",
+     "t": "2026-11-24T09:06:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "\"눈에 모래 낀 듯 뻑뻑\"…단순 피로 아닌 '이 질환 '?",
+     "link": "https://www.newsis.com/view/NISX20261123_0003879834",
+     "t": "2026-11-24T07:01:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "커피 마셔도 멍한 머리, '뇌 피로' 때문?...약사가 전하는 영양 관리법",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70320",
+     "t": "2026-11-21T13:00:00+09:00",
+     "by": "hidoc.co.kr"
+    }
+   ]
+  },
+  {
    "name": "걷기",
    "kind": "운동·생활",
    "count": 2,
@@ -848,45 +891,22 @@
    ]
   },
   {
-   "name": "땅콩",
-   "kind": "식품·제철",
-   "count": 2,
-   "angles": [
-    "부작용",
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "땅콩 섭취가 당뇨병 위험 11% 낮춰…연구",
-     "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717362",
-     "t": "2026-11-23T11:34:00+09:00",
-     "by": "digitaltoday.co.kr"
-    },
-    {
-     "title": "땅콩 섭취 관련 혈중 지질 변화, 제2형 당뇨병 발생 위험 11% 낮아",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626854",
-     "t": "2026-11-22T12:14:00+09:00",
-     "by": "mdtoday.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "위암",
-   "kind": "질환·증상",
+   "name": "비타민C",
+   "kind": "영양제",
    "count": 2,
    "angles": [],
    "items": [
     {
-     "title": "“위장 점막 손상되고 염증 생긴다”… 위암 부르는 습관 3가지",
-     "link": "https://kormedi.com/?p=2910340",
-     "t": "2026-11-22T21:26:00+09:00",
-     "by": "kormedi.com"
+     "title": "팬터메딕, 독자 개발 비타민C 유도체 국제화장품원료명(INCI) 등재",
+     "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=36434",
+     "t": "2026-11-24T10:16:00+09:00",
+     "by": "biotimes.co.kr"
     },
     {
-     "title": "양치하다가 깜짝 “혀 색깔이 왜 이렇지?”…위암 환자에게서 발견된 공...",
-     "link": "https://www.sedaily.com/article/20117330?ref=naver",
-     "t": "2026-11-22T12:24:00+09:00",
-     "by": "sedaily.com"
+     "title": "레몬보다 비타민C 3배... 찬바람에 무너진 면역력 세우는 겨울차(茶) 총...",
+     "link": "http://www.newskr.kr/news/articleView.html?idxno=108187",
+     "t": "2026-11-22T00:06:00+09:00",
+     "by": "newskr.kr"
     }
    ]
   },
@@ -955,22 +975,6 @@
      "link": "https://www.kado.net/news/articleView.html?idxno=2086609",
      "t": "2026-11-23T15:16:00+09:00",
      "by": "kado.net"
-    }
-   ]
-  },
-  {
-   "name": "고구마",
-   "kind": "식품·제철",
-   "count": 1,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "“껍질째 먹는다”… 김나영의 ‘식이섬유 챙기는’ 고구마 섭취법",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/23/2026112301282.html",
-     "t": "2026-11-23T12:31:00+09:00",
-     "by": "health.chosun.com"
     }
    ]
   }

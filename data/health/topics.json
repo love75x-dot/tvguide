@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-25T05:08:50.432289+09:00",
+ "updated": "2026-11-25T06:08:55.949962+09:00",
  "topics": [
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 29,
+   "count": 28,
    "angles": [
     "에 좋은",
     "부작용",
@@ -171,7 +171,7 @@
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 11,
+   "count": 10,
    "angles": [
     "에 좋은",
     "부작용"
@@ -212,7 +212,7 @@
   {
    "name": "폐렴",
    "kind": "질환·증상",
-   "count": 11,
+   "count": 10,
    "angles": [
     "부작용"
    ],
@@ -252,12 +252,18 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 8,
+   "count": 9,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "감기 ·체기로 넘기다 패혈증까지… ‘급성 담관염’ 치료 시기 놓치면 ...",
+     "link": "https://www.kukinews.com/article/view/kuk202611240168",
+     "t": "2026-11-25T06:02:00+09:00",
+     "by": "kukinews.com"
+    },
     {
      "title": "'미우새' 이기찬, 약국 앞에서 버스킹…' 감기 ' 열창",
      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16284106",
@@ -281,23 +287,23 @@
      "link": "http://www.doctorstimes.com/news/articleView.html?idxno=241208",
      "t": "2026-11-23T13:58:00+09:00",
      "by": "doctorstimes.com"
-    },
-    {
-     "title": "독감 은 '독한 감기'?…\"이런 오해가 병 키웁니다\"",
-     "link": "https://www.newsis.com/view/NISX20261123_0003878782",
-     "t": "2026-11-23T10:19:00+09:00",
-     "by": "newsis.com"
     }
    ]
   },
   {
    "name": "당뇨",
    "kind": "질환·증상",
-   "count": 8,
+   "count": 9,
    "angles": [
     "효능"
    ],
    "items": [
+    {
+     "title": "TV 4시간 넘게 보면 신장 악화 빨라져…“당뇨 환자는 더 치명적”",
+     "link": "https://www.etnews.com/20261124000459",
+     "t": "2026-11-25T06:01:00+09:00",
+     "by": "etnews.com"
+    },
     {
      "title": "노인들 고혈압·당뇨 폰 측정 쉽지 않은데…새 사업 띄우려 19년 된 지원...",
      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232660",
@@ -321,23 +327,57 @@
      "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1172113&ref=naverpc",
      "t": "2026-11-24T17:16:00+09:00",
      "by": "medicaltimes.com"
+    }
+   ]
+  },
+  {
+   "name": "수면",
+   "kind": "운동·생활",
+   "count": 7,
+   "angles": [
+    "먹는 법",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "하루 11시간 일하고 5시간 잔다…배달 라이더, 수면 부족에 피로 악순환",
+     "link": "https://www.segye.com/newsView/20261124515300?OutUrl=naver",
+     "t": "2026-11-25T05:49:00+09:00",
+     "by": "segye.com"
     },
     {
-     "title": "당뇨 남편과 같은 음식 먹었더니…살 빠지고 혈관 좋아진 이유?",
-     "link": "https://kormedi.com/?p=2910666",
-     "t": "2026-11-23T19:02:00+09:00",
-     "by": "kormedi.com"
+     "title": "혈당 이 들쑑날쑑하다면? 수면·식사·운동 시간으로 알아보는 생체리듬...",
+     "link": "http://aftertherain.kr/sub/contents/view.php?seq=98437",
+     "t": "2026-11-24T23:12:00+09:00",
+     "by": "aftertherain.kr"
+    },
+    {
+     "title": "주말 늦잠 심장에 부담?…수면 시간만큼 중요한 ‘이것’",
+     "link": "https://lady.khan.co.kr/khlady.html?mode=view&artid=202611231532001&code=14",
+     "t": "2026-11-23T15:33:00+09:00",
+     "by": "lady.khan.co.kr"
+    },
+    {
+     "title": "여의도 메리어트 호텔, AI 수면 분석 결합한 겨울 웰니스 프로그램 운영",
+     "link": "https://www.thepowernews.co.kr/view.php?ud=202611231028203622de3f0aa1be_7",
+     "t": "2026-11-23T10:30:00+09:00",
+     "by": "thepowernews.co.kr"
+    },
+    {
+     "title": "\"저탄고지·간헐적 단식 만능 아냐…규칙적인 식사와 수면이 답\"",
+     "link": "https://www.newsis.com/view/NISX20261122_0003878183",
+     "t": "2026-11-22T19:24:00+09:00",
+     "by": "newsis.com"
     }
    ]
   },
   {
    "name": "콜레스테롤",
    "kind": "질환·증상",
-   "count": 7,
+   "count": 6,
    "angles": [
     "에 좋은",
-    "효능",
-    "부작용"
+    "효능"
    ],
    "items": [
     {
@@ -369,46 +409,6 @@
      "link": "https://www.inews365.com/news/article.html?no=944748",
      "t": "2026-11-23T11:28:00+09:00",
      "by": "inews365.com"
-    }
-   ]
-  },
-  {
-   "name": "수면",
-   "kind": "운동·생활",
-   "count": 6,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "혈당 이 들쑑날쑑하다면? 수면·식사·운동 시간으로 알아보는 생체리듬...",
-     "link": "http://aftertherain.kr/sub/contents/view.php?seq=98437",
-     "t": "2026-11-24T23:12:00+09:00",
-     "by": "aftertherain.kr"
-    },
-    {
-     "title": "주말 늦잠 심장에 부담?…수면 시간만큼 중요한 ‘이것’",
-     "link": "https://lady.khan.co.kr/khlady.html?mode=view&artid=202611231532001&code=14",
-     "t": "2026-11-23T15:33:00+09:00",
-     "by": "lady.khan.co.kr"
-    },
-    {
-     "title": "여의도 메리어트 호텔, AI 수면 분석 결합한 겨울 웰니스 프로그램 운영",
-     "link": "https://www.thepowernews.co.kr/view.php?ud=202611231028203622de3f0aa1be_7",
-     "t": "2026-11-23T10:30:00+09:00",
-     "by": "thepowernews.co.kr"
-    },
-    {
-     "title": "\"저탄고지·간헐적 단식 만능 아냐…규칙적인 식사와 수면이 답\"",
-     "link": "https://www.newsis.com/view/NISX20261122_0003878183",
-     "t": "2026-11-22T19:24:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "\"잠자는 시간만 중요한 게 아니다\"… 치매 위험 2배 높은 수면·활동 패...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70364",
-     "t": "2026-11-22T11:00:00+09:00",
-     "by": "hidoc.co.kr"
     }
    ]
   },
@@ -600,34 +600,34 @@
    ]
   },
   {
-   "name": "유방암",
-   "kind": "질환·증상",
+   "name": "유산균",
+   "kind": "영양제",
    "count": 4,
    "angles": [],
    "items": [
     {
-     "title": "로슈 ‘윌서들리’ 초기 ER+ 유방암 FDA 허가",
-     "link": "https://www.yakup.com/news/index.html?mode=view&cat=16&nid=335656",
-     "t": "2026-11-24T14:10:00+09:00",
-     "by": "yakup.com"
+     "title": "엔테로바이옴 '아커만시아', K-유산균 리딩...탈모·면역치료 가능성 확...",
+     "link": "https://www.pharmnews.com/news/articleView.html?idxno=308290",
+     "t": "2026-11-25T06:00:00+09:00",
+     "by": "pharmnews.com"
     },
     {
-     "title": "프레스티지바이오파마IDC, 유방암 치료제 개발 국책과제 선정",
-     "link": "https://www.newspim.com/news/view/20261123001089",
-     "t": "2026-11-23T16:56:00+09:00",
-     "by": "newspim.com"
+     "title": "서울우유, 어린이 유산균 음료 '츄츄' 2종 출시…동남아 시장 공략",
+     "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=72073",
+     "t": "2026-11-24T23:24:00+09:00",
+     "by": "youngnong.co.kr"
     },
     {
-     "title": "프레스티지바이오파마IDC, 유방암 표적 장기지속형 피하주사 치료제 국...",
-     "link": "https://www.the-stock.kr/news/articleView.html?idxno=33892",
-     "t": "2026-11-23T13:30:00+09:00",
-     "by": "the-stock.kr"
+     "title": "팜스빌, 김치 유래 항비만 유산균 개발.. 중기부 장관상 수상",
+     "link": "https://www.mt.co.kr/industry/2026/11/23/2026112313285113133",
+     "t": "2026-11-23T13:57:00+09:00",
+     "by": "mt.co.kr"
     },
     {
-     "title": "“유방암 재발 32% 떨어졌다”…암세포 키운다던 콩의 반전",
-     "link": "https://www.joongang.co.kr/article/25480726",
-     "t": "2026-11-22T06:00:00+09:00",
-     "by": "joongang.co.kr"
+     "title": "hy \"'유산균 기술'로 펫푸드 승부수\"…반려동물 먹거리 사업 키운다",
+     "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=242083",
+     "t": "2026-11-23T11:30:00+09:00",
+     "by": "ezyeconomy.com"
     }
    ]
   },
@@ -797,28 +797,28 @@
    ]
   },
   {
-   "name": "유산균",
-   "kind": "영양제",
+   "name": "유방암",
+   "kind": "질환·증상",
    "count": 3,
    "angles": [],
    "items": [
     {
-     "title": "서울우유, 어린이 유산균 음료 '츄츄' 2종 출시…동남아 시장 공략",
-     "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=72073",
-     "t": "2026-11-24T23:24:00+09:00",
-     "by": "youngnong.co.kr"
+     "title": "로슈 ‘윌서들리’ 초기 ER+ 유방암 FDA 허가",
+     "link": "https://www.yakup.com/news/index.html?mode=view&cat=16&nid=335656",
+     "t": "2026-11-24T14:10:00+09:00",
+     "by": "yakup.com"
     },
     {
-     "title": "팜스빌, 김치 유래 항비만 유산균 개발.. 중기부 장관상 수상",
-     "link": "https://www.mt.co.kr/industry/2026/11/23/2026112313285113133",
-     "t": "2026-11-23T13:57:00+09:00",
-     "by": "mt.co.kr"
+     "title": "프레스티지바이오파마IDC, 유방암 치료제 개발 국책과제 선정",
+     "link": "https://www.newspim.com/news/view/20261123001089",
+     "t": "2026-11-23T16:56:00+09:00",
+     "by": "newspim.com"
     },
     {
-     "title": "hy \"'유산균 기술'로 펫푸드 승부수\"…반려동물 먹거리 사업 키운다",
-     "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=242083",
-     "t": "2026-11-23T11:30:00+09:00",
-     "by": "ezyeconomy.com"
+     "title": "프레스티지바이오파마IDC, 유방암 표적 장기지속형 피하주사 치료제 국...",
+     "link": "https://www.the-stock.kr/news/articleView.html?idxno=33892",
+     "t": "2026-11-23T13:30:00+09:00",
+     "by": "the-stock.kr"
     }
    ]
   },
@@ -963,16 +963,16 @@
    "angles": [],
    "items": [
     {
+     "title": "엔테로바이옴 '아커만시아', K-유산균 리딩...탈모·면역치료 가능성 확...",
+     "link": "https://www.pharmnews.com/news/articleView.html?idxno=308290",
+     "t": "2026-11-25T06:00:00+09:00",
+     "by": "pharmnews.com"
+    },
+    {
      "title": "LG생활건강 엘라스틴, 퇴근길 직장인 두피·탈모 고민 상담…‘수티컬즈...",
      "link": "https://www.seoultimes.news/news/article.html?no=2000102623",
      "t": "2026-11-24T11:58:00+09:00",
      "by": "seoultimes.news"
-    },
-    {
-     "title": "'독한 탈모약' 시대 저물고 맞춤형 저용량 탈모 치료로... 탈모 치료의 ...",
-     "link": "https://www.fnnews.com/news/202611201420524449",
-     "t": "2026-11-22T06:01:00+09:00",
-     "by": "fnnews.com"
     }
    ]
   }

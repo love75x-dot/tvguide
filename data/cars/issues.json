@@ -1,9 +1,81 @@
 {
- "updated": "2026-11-24T20:08:45.214529+09:00",
+ "updated": "2026-11-24T21:08:41.787878+09:00",
  "car": [
   {
-   "name": "전기차",
+   "name": "현대차",
    "count": 30,
+   "items": [
+    {
+     "title": "현대차 ·기아, 1~10월 유럽서 85만대 판매…전년比 3.2↓",
+     "link": "https://it.chosun.com/news/articleView.html?idxno=3000000001741",
+     "t": "2026-11-24T20:44:00+09:00",
+     "by": "it.chosun.com"
+    },
+    {
+     "title": "유럽 판매 ‘118.9% 증가’ BYD, 두 달 연속 현대차 추월",
+     "link": "https://www.khan.co.kr/article/202611242043005",
+     "t": "2026-11-24T20:43:00+09:00",
+     "by": "khan.co.kr"
+    },
+    {
+     "title": "[단독] 현대차 울산공장 수장 오준동… 케피코엔 'SDV통' 유지한",
+     "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240181&t=NN",
+     "t": "2026-11-24T19:49:00+09:00",
+     "by": "wowtv.co.kr"
+    },
+    {
+     "title": "현대차 ·기아, 10월 '유럽 판매' 저조… 현대차 부진에 '시장 점유율' 하...",
+     "link": "http://www.srtimes.kr/news/articleView.html?idxno=218521",
+     "t": "2026-11-24T19:14:00+09:00",
+     "by": "srtimes.kr"
+    },
+    {
+     "title": "케첩 쏟아도 걱정 NO… 현대차· 기아 , 스스로 청소하는 시트 기술 개발",
+     "link": "https://thedrive.co.kr/news/newsview.php?ncode=1065605180847307",
+     "t": "2026-11-24T18:40:00+09:00",
+     "by": "thedrive.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "자율주행",
+   "count": 25,
+   "items": [
+    {
+     "title": "벤츠, 독일 최초 '지점 간 자율주행 보조' 승인…\"내년 상반기 출시\"",
+     "link": "https://www.gpkorea.com/news/articleView.html?idxno=148978",
+     "t": "2026-11-24T21:04:00+09:00",
+     "by": "gpkorea.com"
+    },
+    {
+     "title": "자율주행 판 짜는 한국도로공사, 길 위에 '플랫폼' 가치 키운다",
+     "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=131099",
+     "t": "2026-11-24T18:50:00+09:00",
+     "by": "ntoday.co.kr"
+    },
+    {
+     "title": "노타, 엔비디아 자율주행 AI 15배 가속…주행 경로 계산 0.076초",
+     "link": "https://zdnet.co.kr/view/?no=20261124175420",
+     "t": "2026-11-24T17:56:00+09:00",
+     "by": "zdnet.co.kr"
+    },
+    {
+     "title": "국민대, 실제 도로 데이터로 증명한 자율주행 실력… AI 챌린지 전 부문...",
+     "link": "https://www.fnnews.com/news/202611241740562449",
+     "t": "2026-11-24T17:42:00+09:00",
+     "by": "fnnews.com"
+    },
+    {
+     "title": "노타, 엔비디아 자율주행 AI 15배 가속…칩 부족에 최적화 솔루션 부상",
+     "link": "https://www.bloter.net/news/articleView.html?idxno=679588",
+     "t": "2026-11-24T17:27:00+09:00",
+     "by": "bloter.net"
+    }
+   ]
+  },
+  {
+   "name": "전기차",
+   "count": 28,
    "items": [
     {
      "title": "EU, 전기차 보조금 ‘유럽산 우대’ 고수…韓·日 생산 빠질 듯",
@@ -38,80 +110,8 @@
    ]
   },
   {
-   "name": "자율주행",
-   "count": 25,
-   "items": [
-    {
-     "title": "자율주행 판 짜는 한국도로공사, 길 위에 '플랫폼' 가치 키운다",
-     "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=131099",
-     "t": "2026-11-24T18:50:00+09:00",
-     "by": "ntoday.co.kr"
-    },
-    {
-     "title": "노타, 엔비디아 자율주행 AI 15배 가속…주행 경로 계산 0.076초",
-     "link": "https://zdnet.co.kr/view/?no=20261124175420",
-     "t": "2026-11-24T17:56:00+09:00",
-     "by": "zdnet.co.kr"
-    },
-    {
-     "title": "국민대, 실제 도로 데이터로 증명한 자율주행 실력… AI 챌린지 전 부문...",
-     "link": "https://www.fnnews.com/news/202611241740562449",
-     "t": "2026-11-24T17:42:00+09:00",
-     "by": "fnnews.com"
-    },
-    {
-     "title": "노타, 엔비디아 자율주행 AI 15배 가속…칩 부족에 최적화 솔루션 부상",
-     "link": "https://www.bloter.net/news/articleView.html?idxno=679588",
-     "t": "2026-11-24T17:27:00+09:00",
-     "by": "bloter.net"
-    },
-    {
-     "title": "'차의 나라' 美, 10대 면허 보유율 46%→26%… 자율주행 이 가속화?",
-     "link": "https://www.edaily.co.kr/News/Read?newsId=04021286645649000&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-     "t": "2026-11-24T17:09:00+09:00",
-     "by": "edaily.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "현대차",
-   "count": 29,
-   "items": [
-    {
-     "title": "[단독] 현대차 울산공장 수장 오준동… 케피코엔 'SDV통' 유지한",
-     "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240181&t=NN",
-     "t": "2026-11-24T19:49:00+09:00",
-     "by": "wowtv.co.kr"
-    },
-    {
-     "title": "현대차 ·기아, 10월 '유럽 판매' 저조… 현대차 부진에 '시장 점유율' 하...",
-     "link": "http://www.srtimes.kr/news/articleView.html?idxno=218521",
-     "t": "2026-11-24T19:14:00+09:00",
-     "by": "srtimes.kr"
-    },
-    {
-     "title": "케첩 쏟아도 걱정 NO… 현대차· 기아 , 스스로 청소하는 시트 기술 개발",
-     "link": "https://thedrive.co.kr/news/newsview.php?ncode=1065605180847307",
-     "t": "2026-11-24T18:40:00+09:00",
-     "by": "thedrive.co.kr"
-    },
-    {
-     "title": "현대차·기아 내수 격차 1만대 아래로···연말 '1위 다툼' 변수는 하이...",
-     "link": "https://www.polinews.co.kr/news/articleView.html?idxno=749081",
-     "t": "2026-11-24T18:14:00+09:00",
-     "by": "polinews.co.kr"
-    },
-    {
-     "title": "10월 유럽 車시장 3.4% 성장에도 현대차 ·기아 점유율 7.1%로 하락",
-     "link": "https://www.getnews.co.kr/news/articleView.html?idxno=888346",
-     "t": "2026-11-24T17:48:00+09:00",
-     "by": "getnews.co.kr"
-    }
-   ]
-  },
-  {
    "name": "로봇",
-   "count": 22,
+   "count": 21,
    "items": [
     {
      "title": "댐·송전선로·하천변 순찰에 '피지컬 AI'···공공 인프라 로봇 실증 ...",
@@ -147,7 +147,7 @@
   },
   {
    "name": "수출",
-   "count": 20,
+   "count": 19,
    "items": [
     {
      "title": "국산 하이브리드차 'EU 수출 6만7924대 제한…EU 집행위, 내달 1일 세이...",
@@ -182,38 +182,38 @@
    ]
   },
   {
-   "name": "세종 스마트시티",
-   "count": 9,
+   "name": "하이브리드차",
+   "count": 15,
    "items": [
     {
-     "title": "세종시, '세종 스마트시티 국가시범도시' 첫 삽…",
-     "link": "http://www.breaknews.com/1253547",
-     "t": "2026-11-24T18:36:00+09:00",
-     "by": "breaknews.com"
+     "title": "EU 하이브리드차 세이프가드…정부 \"단기적 영향 제한적\"",
+     "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=230051",
+     "t": "2026-11-24T21:04:00+09:00",
+     "by": "energy-news.co.kr"
     },
     {
-     "title": "세종 스마트시티 국가시범도시 착공…3조1636억원 투입",
-     "link": "http://www.4th.kr/news/articleView.html?idxno=2122607",
-     "t": "2026-11-24T18:16:00+09:00",
-     "by": "4th.kr"
+     "title": "EU행 韓하이브리드차 무관세, 다음달부터 6만 7924대로 제한",
+     "link": "https://www.nocutnews.co.kr/news/6612087?utm_source=naver&utm_medium=article&utm_campaign=20261124201905",
+     "t": "2026-11-24T20:20:00+09:00",
+     "by": "nocutnews.co.kr"
     },
     {
-     "title": "'세종 스마트시티' 국가시범도시, 지정 8년 만에 첫 삽",
-     "link": "https://news.skbroadband.com/news/articleView.html?idxno=244121",
-     "t": "2026-11-24T18:02:00+09:00",
-     "by": "skbroadband.com"
+     "title": "EU 한국산 하이브리드차 내달부터 200일간 6만7924대로 제한, 세이프가드...",
+     "link": "https://www.businesspost.co.kr/BP?command=article_view&num=452839",
+     "t": "2026-11-24T20:20:00+09:00",
+     "by": "businesspost.co.kr"
     },
     {
-     "title": "\"운전대 놓고 휴식, 배송은 로봇이\"… 세종 스마트시티 첫 삽",
-     "link": "https://www.jbnews.com/news/articleView.html?idxno=1516837",
-     "t": "2026-11-24T17:32:00+09:00",
-     "by": "jbnews.com"
+     "title": "국산 하이브리드차 'EU 수출 6만7924대 제한…EU 집행위, 내달 1일 세이...",
+     "link": "https://www.livebiz.today/news/articleView.html?idxno=206859",
+     "t": "2026-11-24T20:08:00+09:00",
+     "by": "livebiz.today"
     },
     {
-     "title": "세종 '스마트시티' 8년만에 첫삽",
-     "link": "https://www.mk.co.kr/article/12217329",
-     "t": "2026-11-24T17:22:00+09:00",
-     "by": "mk.co.kr"
+     "title": "EU, 하이브리드차 긴급수입제한…韓 무관세 쿼터 6만7,924대",
+     "link": "https://www.goodnews1.com/news/articleView.html?idxno=466603",
+     "t": "2026-11-24T19:58:00+09:00",
+     "by": "goodnews1.com"
     }
    ]
   }
@@ -221,7 +221,7 @@
  "moto": [
   {
    "name": "청년 배달라이더",
-   "count": 23,
+   "count": 21,
    "items": [
     {
      "title": "KB미소금융재단, 청년 배달라이더 전용 대출 선봬...\"심사 기준 완화\"",
@@ -257,8 +257,20 @@
   },
   {
    "name": "오토바",
-   "count": 18,
+   "count": 20,
    "items": [
+    {
+     "title": "북구 오토바이 사고.. 20대 남성 숨져",
+     "link": "https://www.ubc.co.kr/news/28648/",
+     "t": "2026-11-24T21:04:00+09:00",
+     "by": "ubc.co.kr"
+    },
+    {
+     "title": "배달 오토바이 못 들어가는 청담르엘…‘20분 걸어서 배달’ 논란",
+     "link": "https://www.joongang.co.kr/article/25481595",
+     "t": "2026-11-24T20:47:00+09:00",
+     "by": "joongang.co.kr"
+    },
     {
      "title": "[사건why] 대낮에 오토바이 들튀?…중고거래 허점 노렸다",
      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861663&plink=ORI&cooper=NAVER",
@@ -276,54 +288,6 @@
      "link": "https://www.ilyosisa.co.kr/news/article.html?no=259179",
      "t": "2026-11-24T17:48:00+09:00",
      "by": "ilyosisa.co.kr"
-    },
-    {
-     "title": "스쿠버·스카이다이빙 즐기는 63세 김미경, 오토바이 자제하게 된 까닭",
-     "link": "https://www.nocutnews.co.kr/news/6611956?utm_source=naver&utm_medium=article&utm_campaign=20261124164903",
-     "t": "2026-11-24T16:50:00+09:00",
-     "by": "nocutnews.co.kr"
-    },
-    {
-     "title": "\"배달비 3000원인데 왕복 1km 도보\"…강남 아파트 ' 오토바이 통제' 논란",
-     "link": "https://www.newsis.com/view/NISX20261124_0003881248",
-     "t": "2026-11-24T16:47:00+09:00",
-     "by": "newsis.com"
-    }
-   ]
-  },
-  {
-   "name": "청년 라이더",
-   "count": 8,
-   "items": [
-    {
-     "title": "KB 청년 라이더 이륜차 대출 출시, 39세 이하 500만원 지원",
-     "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000086082",
-     "t": "2026-11-24T18:25:00+09:00",
-     "by": "jnilbo.com"
-    },
-    {
-     "title": "KB미소금융재단, 'KB 청년 라이더 희망 대출' 최대 500만원 대출",
-     "link": "https://www.joongangenews.com/news/articleView.html?idxno=566277",
-     "t": "2026-11-24T16:40:00+09:00",
-     "by": "joongangenews.com"
-    },
-    {
-     "title": "\" 오토바이 살 돈 막막한 청년 라이더\"…KB미소금융, 저리 대출 출시",
-     "link": "https://www.mt.co.kr/finance/2026/11/24/2026112415471030575",
-     "t": "2026-11-24T15:58:00+09:00",
-     "by": "mt.co.kr"
-    },
-    {
-     "title": "'배달라이더 전용대출' 나왔다…KB, 청년 라이더에 최대 500만원 대출",
-     "link": "https://www.newsis.com/view/NISX20261124_0003881352",
-     "t": "2026-11-24T15:50:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "청년 라이더부터 소상공인까지…KB국민은행, 미소금융 판 키운다",
-     "link": "https://www.fnnews.com/news/202611241329078688",
-     "t": "2026-11-24T15:28:00+09:00",
-     "by": "fnnews.com"
     }
    ]
   },
@@ -364,6 +328,78 @@
    ]
   },
   {
+   "name": "청년 라이더",
+   "count": 7,
+   "items": [
+    {
+     "title": "KB 청년 라이더 이륜차 대출 출시, 39세 이하 500만원 지원",
+     "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000086082",
+     "t": "2026-11-24T18:25:00+09:00",
+     "by": "jnilbo.com"
+    },
+    {
+     "title": "KB미소금융재단, 'KB 청년 라이더 희망 대출' 최대 500만원 대출",
+     "link": "https://www.joongangenews.com/news/articleView.html?idxno=566277",
+     "t": "2026-11-24T16:40:00+09:00",
+     "by": "joongangenews.com"
+    },
+    {
+     "title": "\" 오토바이 살 돈 막막한 청년 라이더\"…KB미소금융, 저리 대출 출시",
+     "link": "https://www.mt.co.kr/finance/2026/11/24/2026112415471030575",
+     "t": "2026-11-24T15:58:00+09:00",
+     "by": "mt.co.kr"
+    },
+    {
+     "title": "'배달라이더 전용대출' 나왔다…KB, 청년 라이더에 최대 500만원 대출",
+     "link": "https://www.newsis.com/view/NISX20261124_0003881352",
+     "t": "2026-11-24T15:50:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "청년 라이더부터 소상공인까지…KB국민은행, 미소금융 판 키운다",
+     "link": "https://www.fnnews.com/news/202611241329078688",
+     "t": "2026-11-24T15:28:00+09:00",
+     "by": "fnnews.com"
+    }
+   ]
+  },
+  {
+   "name": "대출 최저",
+   "count": 5,
+   "items": [
+    {
+     "title": "KB미소금융재단, 청년라이더 전용 대출 출시…최저 연 2.5%",
+     "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=269132",
+     "t": "2026-11-24T18:34:00+09:00",
+     "by": "whitepaper.co.kr"
+    },
+    {
+     "title": "KB미소금융재단, 청년 배달라이더 전용 대출 출시…최저 연 2.5%",
+     "link": "https://www.newsinside.kr/news/articleView.html?idxno=5055710",
+     "t": "2026-11-24T17:14:00+09:00",
+     "by": "newsinside.kr"
+    },
+    {
+     "title": "KB미소금융, 청년 배달라이더 전용 대출 출시…최저 연 2.5%",
+     "link": "https://www.globalepic.co.kr/view.php?ud=2026112416141394517cc35ccc5c_29",
+     "t": "2026-11-24T16:18:00+09:00",
+     "by": "globalepic.co.kr"
+    },
+    {
+     "title": "KB미소금융재단, 청년 배달라이더에 최대 500만원 대출…최저 연 2.5%",
+     "link": "https://www.ziksir.com/news/articleView.html?idxno=154513",
+     "t": "2026-11-24T15:38:00+09:00",
+     "by": "ziksir.com"
+    },
+    {
+     "title": "KB미소금융재단, 배달라이더 전용 대출 출시…최저 연 2.5%",
+     "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717716",
+     "t": "2026-11-24T14:14:00+09:00",
+     "by": "digitaltoday.co.kr"
+    }
+   ]
+  },
+  {
    "name": "바이크 타다",
    "count": 3,
    "items": [
@@ -384,30 +420,6 @@
      "link": "https://www.newsen.com/news_view.php?uid=202611231728081910",
      "t": "2026-11-23T17:38:00+09:00",
      "by": "newsen.com"
-    }
-   ]
-  },
-  {
-   "name": "청년라이더",
-   "count": 3,
-   "items": [
-    {
-     "title": "\"청년라이더 대출문턱 낮춘다\" KB미소금융재단 '라이더 희망 대출' 출시",
-     "link": "https://www.catchnews.kr/news/articleView.html?idxno=130927",
-     "t": "2026-11-24T18:39:00+09:00",
-     "by": "catchnews.kr"
-    },
-    {
-     "title": "KB미소금융재단, 청년라이더 전용 대출 출시…최저 연 2.5%",
-     "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=269132",
-     "t": "2026-11-24T18:34:00+09:00",
-     "by": "whitepaper.co.kr"
-    },
-    {
-     "title": "KB, 청년라이더 ‘희망대출’ 공급…미소금융 재원 1000억 단계적 지원",
-     "link": "https://www.inthenews.co.kr/news/article.html?no=94942",
-     "t": "2026-11-24T14:56:00+09:00",
-     "by": "inthenews.co.kr"
     }
    ]
   }

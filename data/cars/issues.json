@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:08:51.821529+09:00",
+ "updated": "2026-11-24T23:11:00.289830+09:00",
  "car": [
   {
    "name": "전기차",
@@ -39,7 +39,7 @@
   },
   {
    "name": "현대차",
-   "count": 29,
+   "count": 27,
    "items": [
     {
      "title": "현대차, 코나 EV·벨로스터 N 북미서 6만6000대 리콜 …\"국내는 괜찮나?\"",
@@ -75,7 +75,7 @@
   },
   {
    "name": "자율주행",
-   "count": 22,
+   "count": 21,
    "items": [
     {
      "title": "벤츠, 독일 최초 '지점 간 자율주행 보조' 승인…\"내년 상반기 출시\"",
@@ -111,8 +111,14 @@
   },
   {
    "name": "하이브리드차",
-   "count": 17,
+   "count": 18,
    "items": [
+    {
+     "title": "EU 하이브리드차 한국 쿼터 '6만7924대'…산업부 \"단기 영향 제한적\"",
+     "link": "https://www.betanews.net/article/view/beta202611240194",
+     "t": "2026-11-24T22:56:00+09:00",
+     "by": "betanews.net"
+    },
     {
      "title": "한국산 EU행 하이브리드차 6만7924대까지…내달부터 무관세 제한",
      "link": "https://www.mk.co.kr/article/12217527",
@@ -136,12 +142,6 @@
      "link": "https://www.nocutnews.co.kr/news/6612087?utm_source=naver&utm_medium=article&utm_campaign=20261124201905",
      "t": "2026-11-24T20:20:00+09:00",
      "by": "nocutnews.co.kr"
-    },
-    {
-     "title": "EU 한국산 하이브리드차 내달부터 200일간 6만7924대로 제한, 세이프가드...",
-     "link": "https://www.businesspost.co.kr/BP?command=article_view&num=452839",
-     "t": "2026-11-24T20:20:00+09:00",
-     "by": "businesspost.co.kr"
     }
    ]
   },
@@ -186,6 +186,12 @@
    "count": 20,
    "items": [
     {
+     "title": "“언젠가…” 꿈을 팔던 로봇, 실적으로 말하는 시장 연 美 1호 기업[최...",
+     "link": "https://www.donga.com/news/Opinion/article/all/20261124/135084263/2",
+     "t": "2026-11-24T23:01:00+09:00",
+     "by": "donga.com"
+    },
+    {
      "title": "AI·로봇·모빌리티 품은 대구특구, 딥테크 거점 '날갯짓'",
      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=566326",
      "t": "2026-11-24T21:24:00+09:00",
@@ -208,12 +214,6 @@
      "link": "https://www.jbnews.com/news/articleView.html?idxno=1516837",
      "t": "2026-11-24T17:32:00+09:00",
      "by": "jbnews.com"
-    },
-    {
-     "title": "AI 서버가 끌어올린 전자장비와기기…기판·MLCC부터 로봇·센서까지 확...",
-     "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507617",
-     "t": "2026-11-24T17:12:00+09:00",
-     "by": "pinpointnews.co.kr"
     }
    ]
   }
@@ -221,7 +221,7 @@
  "moto": [
   {
    "name": "청년 배달라이더",
-   "count": 22,
+   "count": 18,
    "items": [
     {
      "title": "KB 청년 배달라이더 전용 대출 출시…최저 연 2.5%",
@@ -257,8 +257,14 @@
   },
   {
    "name": "오토바",
-   "count": 20,
+   "count": 21,
    "items": [
+    {
+     "title": "“배달 오토바이 는 거부, 음식은 받겠다?”…청담 아파트에 분노의 현수...",
+     "link": "https://biz.heraldcorp.com/article/10948073?ref=naver",
+     "t": "2026-11-24T22:50:00+09:00",
+     "by": "biz.heraldcorp.com"
+    },
     {
      "title": "북구 오토바이 사고.. 20대 남성 숨져",
      "link": "https://www.ubc.co.kr/news/28648/",
@@ -282,12 +288,6 @@
      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861663&plink=ORI&cooper=NAVER",
      "t": "2026-11-24T19:36:00+09:00",
      "by": "sbs.co.kr"
-    },
-    {
-     "title": "\" 오토바이 는 안 되고 음식은 받고 싶냐\"…청담동 아파트 배달 갈등",
-     "link": "https://www.mt.co.kr/society/2026/11/24/2026112416594563220",
-     "t": "2026-11-24T17:58:00+09:00",
-     "by": "mt.co.kr"
     }
    ]
   },
@@ -329,7 +329,7 @@
   },
   {
    "name": "이륜차",
-   "count": 13,
+   "count": 12,
    "items": [
     {
      "title": "KB 청년 라이더 이륜차 대출 출시, 39세 이하 500만원 지원",
@@ -388,32 +388,26 @@
    ]
   },
   {
-   "name": "청년라이더",
-   "count": 4,
+   "name": "바이크 출입",
+   "count": 3,
    "items": [
     {
-     "title": "KB국민은행, 청년라이더 금융지원및 방산 생태계 강화 양축…생산적금...",
-     "link": "https://www.newstnt.com/news/articleView.html?idxno=730292",
-     "t": "2026-11-24T20:16:00+09:00",
-     "by": "newstnt.com"
+     "title": "아파트 바이크 출입 금지…청담르엘 배달 갑질 논란",
+     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16285172",
+     "t": "2026-11-24T22:38:00+09:00",
+     "by": "topstarnews.net"
     },
     {
-     "title": "\"청년라이더 대출문턱 낮춘다\" KB미소금융재단 '라이더 희망 대출' 출시",
-     "link": "https://www.catchnews.kr/news/articleView.html?idxno=130927",
-     "t": "2026-11-24T18:39:00+09:00",
-     "by": "catchnews.kr"
+     "title": "“바이크 출입 막고 음식은 받고싶나”…청담동 아파트에 ‘분노의 현수...",
+     "link": "https://www.donga.com/news/Society/article/all/20261124/135084390/2",
+     "t": "2026-11-24T21:21:00+09:00",
+     "by": "donga.com"
     },
     {
-     "title": "KB미소금융재단, 청년라이더 전용 대출 출시…최저 연 2.5%",
-     "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=269132",
-     "t": "2026-11-24T18:34:00+09:00",
-     "by": "whitepaper.co.kr"
-    },
-    {
-     "title": "KB, 청년라이더 ‘희망대출’ 공급…미소금융 재원 1000억 단계적 지원",
-     "link": "https://www.inthenews.co.kr/news/article.html?no=94942",
-     "t": "2026-11-24T14:56:00+09:00",
-     "by": "inthenews.co.kr"
+     "title": "“걸어오라고?” 청담아파트, 바이크 출입 거부 논란",
+     "link": "https://www.munhwa.com/article/11633778?ref=naver",
+     "t": "2026-11-24T20:12:00+09:00",
+     "by": "munhwa.com"
     }
    ]
   }

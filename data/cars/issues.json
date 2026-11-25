@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-25T20:10:45.214209+09:00",
+ "updated": "2026-11-25T21:08:37.889087+09:00",
  "car": [
   {
    "name": "전기차",
-   "count": 33,
+   "count": 34,
    "items": [
+    {
+     "title": "자국 산업 지키며 전기차 보급 늘렸다…프랑스의 비결은",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=04139366645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-25T20:19:00+09:00",
+     "by": "edaily.co.kr"
+    },
+    {
+     "title": "울산 북부소방서, 전기차 교통사고 인명구조훈련",
+     "link": "https://www.ulsanpress.net/news/articleView.html?idxno=587609",
+     "t": "2026-11-25T20:16:00+09:00",
+     "by": "ulsanpress.net"
+    },
     {
      "title": "현대 차그룹, 'HMG 완속충전기'로 전기차 충전 경험 통합한다",
      "link": "https://www.apnews.kr/news/articleView.html?idxno=3053556",
@@ -22,18 +34,6 @@
      "link": "https://www.dt.co.kr/article/12097281?ref=naver",
      "t": "2026-11-25T18:46:00+09:00",
      "by": "dt.co.kr"
-    },
-    {
-     "title": "프랑스 탄소규제로 중국 전기차 잡았다… 한국은 여전히 보조금 퍼주기",
-     "link": "https://www.dt.co.kr/article/12097281?ref=naver",
-     "t": "2026-11-25T18:46:00+09:00",
-     "by": "dt.co.kr"
-    },
-    {
-     "title": "전기차 생산세액공제 강조한 산업장관 \"자동차, 3년 전 반도체 위기와 ...",
-     "link": "https://www.ajunews.com/view/20261125172836223",
-     "t": "2026-11-25T18:42:00+09:00",
-     "by": "ajunews.com"
     }
    ]
   },
@@ -75,7 +75,7 @@
   },
   {
    "name": "현대차그룹",
-   "count": 22,
+   "count": 20,
    "items": [
     {
      "title": "현대차그룹, 자동결제 완속충전기 공개...내년 양산 출시",
@@ -106,42 +106,6 @@
      "link": "https://www.electimes.com/news/articleView.html?idxno=375293",
      "t": "2026-11-25T16:26:00+09:00",
      "by": "electimes.com"
-    }
-   ]
-  },
-  {
-   "name": "로봇",
-   "count": 24,
-   "items": [
-    {
-     "title": "동원로엑스, 물류센터에 로봇·AI 도입…생산효율 20% 개선",
-     "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=668778",
-     "t": "2026-11-25T19:14:00+09:00",
-     "by": "kfenews.co.kr"
-    },
-    {
-     "title": "손가락 마디 하나하나 모듈로…고난도 ‘로봇 손’ 구현하는 테솔로 [스...",
-     "link": "https://www.sedaily.com/article/20119015?ref=naver",
-     "t": "2026-11-25T18:31:00+09:00",
-     "by": "sedaily.com"
-    },
-    {
-     "title": "엘리베이터 타고 아파트 현관 앞까지…배민, 로봇 배달 확대",
-     "link": "http://www.4th.kr/news/articleView.html?idxno=2122699",
-     "t": "2026-11-25T18:30:00+09:00",
-     "by": "4th.kr"
-    },
-    {
-     "title": "동원로엑스, 물류 현장에 로봇·AI 투입… 스마트 물류 전환 속도",
-     "link": "https://www.koreaittimes.com/news/articleView.html?idxno=159461",
-     "t": "2026-11-25T18:04:00+09:00",
-     "by": "koreaittimes.com"
-    },
-    {
-     "title": "[재계] 세탁기 모터가 AI 로봇 관절로···류재철의 37년 기술이 지능으...",
-     "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261585",
-     "t": "2026-11-25T18:00:00+09:00",
-     "by": "womaneconomy.co.kr"
     }
    ]
   },
@@ -182,9 +146,51 @@
    ]
   },
   {
+   "name": "로봇",
+   "count": 22,
+   "items": [
+    {
+     "title": "동원로엑스, 물류센터에 로봇·AI 도입…생산효율 20% 개선",
+     "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=668778",
+     "t": "2026-11-25T19:14:00+09:00",
+     "by": "kfenews.co.kr"
+    },
+    {
+     "title": "손가락 마디 하나하나 모듈로…고난도 ‘로봇 손’ 구현하는 테솔로 [스...",
+     "link": "https://www.sedaily.com/article/20119015?ref=naver",
+     "t": "2026-11-25T18:31:00+09:00",
+     "by": "sedaily.com"
+    },
+    {
+     "title": "엘리베이터 타고 아파트 현관 앞까지…배민, 로봇 배달 확대",
+     "link": "http://www.4th.kr/news/articleView.html?idxno=2122699",
+     "t": "2026-11-25T18:30:00+09:00",
+     "by": "4th.kr"
+    },
+    {
+     "title": "동원로엑스, 물류 현장에 로봇·AI 투입… 스마트 물류 전환 속도",
+     "link": "https://www.koreaittimes.com/news/articleView.html?idxno=159461",
+     "t": "2026-11-25T18:04:00+09:00",
+     "by": "koreaittimes.com"
+    },
+    {
+     "title": "[재계] 세탁기 모터가 AI 로봇 관절로···류재철의 37년 기술이 지능으...",
+     "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261585",
+     "t": "2026-11-25T18:00:00+09:00",
+     "by": "womaneconomy.co.kr"
+    }
+   ]
+  },
+  {
    "name": "완속충전기",
    "count": 17,
    "items": [
+    {
+     "title": "현대 차그룹 통합 완속충전기 공개…내년 출시",
+     "link": "https://www.ulsanpress.net/news/articleView.html?idxno=587644",
+     "t": "2026-11-25T20:16:00+09:00",
+     "by": "ulsanpress.net"
+    },
     {
      "title": "현대 차그룹, 'HMG 완속충전기'로 전기차 충전 경험 통합한다",
      "link": "https://www.apnews.kr/news/articleView.html?idxno=3053556",
@@ -208,12 +214,6 @@
      "link": "https://news.tf.co.kr/read/economy/2393337.htm",
      "t": "2026-11-25T17:00:00+09:00",
      "by": "tf.co.kr"
-    },
-    {
-     "title": "현대차그룹, 통합 완속충전기 공개…충전사업 재편 퍼즐 맞춘다",
-     "link": "https://www.electimes.com/news/articleView.html?idxno=375293",
-     "t": "2026-11-25T16:26:00+09:00",
-     "by": "electimes.com"
     }
    ]
   }
@@ -257,7 +257,7 @@
   },
   {
    "name": "오토바",
-   "count": 21,
+   "count": 20,
    "items": [
     {
      "title": "“ 오토바이 두고 걸어와라” vs “배달원은 노예 아니다”",
@@ -348,30 +348,6 @@
      "link": "https://www.munhwa.com/article/11633778?ref=naver",
      "t": "2026-11-24T20:12:00+09:00",
      "by": "munhwa.com"
-    }
-   ]
-  },
-  {
-   "name": "김미경 바이크",
-   "count": 3,
-   "items": [
-    {
-     "title": "'남겨서 뭐하게' 김미경, 바이크 즐기는 반전 취미...아찔 사고 당하기...",
-     "link": "http://www.joynews24.com/view/2029494",
-     "t": "2026-11-23T22:50:00+09:00",
-     "by": "joynews24.com"
-    },
-    {
-     "title": "김미경, 바이크 타다 교통사고..\" 오토바이 에 깔려, 부려졌을까 걱정\" [남...",
-     "link": "https://www.starnewskorea.com/broadcast-show/2026/11/23/2026112319580849913",
-     "t": "2026-11-23T20:51:00+09:00",
-     "by": "starnewskorea.com"
-    },
-    {
-     "title": "김미경 \"바이크 타다가 깔려\"…아찔했던 사고 회상",
-     "link": "https://www.news1.kr/entertain/broadcast-tv/6363397",
-     "t": "2026-11-23T20:50:00+09:00",
-     "by": "news1.kr"
     }
    ]
   },

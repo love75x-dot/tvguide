@@ -18,7 +18,7 @@
     }
    ],
    "first": "00:10",
-   "last": "09:08",
+   "last": "10:09",
    "best": 1,
    "hours": [
     "00:10",
@@ -29,15 +29,16 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 23
+    "nate_pop": 30,
+    "nate_int": 42
    },
    "count": 1,
    "inrank": true
@@ -108,7 +109,7 @@
     }
    ],
    "first": "00:10",
-   "last": "09:08",
+   "last": "10:09",
    "best": 2,
    "hours": [
     "00:10",
@@ -119,7 +120,8 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
@@ -127,7 +129,7 @@
    ],
    "now": {
     "nate_pop": 7,
-    "nate_int": 5
+    "nate_int": 6
    },
    "count": 8,
    "inrank": true
@@ -198,7 +200,7 @@
     }
    ],
    "first": "00:10",
-   "last": "09:08",
+   "last": "10:09",
    "best": 3,
    "hours": [
     "00:10",
@@ -209,7 +211,8 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
@@ -217,7 +220,7 @@
    ],
    "now": {
     "nate_pop": 9,
-    "nate_int": 16
+    "nate_int": 25
    },
    "count": 8,
    "inrank": true
@@ -246,7 +249,7 @@
     }
    ],
    "first": "00:10",
-   "last": "09:08",
+   "last": "10:09",
    "best": 3,
    "hours": [
     "00:10",
@@ -257,14 +260,15 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 31
+    "nate_int": 37
    },
    "count": 2,
    "inrank": true
@@ -303,11 +307,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 41
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c6",
@@ -333,7 +335,7 @@
     }
    ],
    "first": "00:10",
-   "last": "09:08",
+   "last": "10:09",
    "best": 4,
    "hours": [
     "00:10",
@@ -344,15 +346,16 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 27
+    "nate_pop": 28,
+    "nate_int": 22
    },
    "count": 2,
    "inrank": true
@@ -381,21 +384,21 @@
     }
    ],
    "first": "00:10",
-   "last": "09:08",
+   "last": "10:09",
    "best": 7,
    "hours": [
     "00:10",
     "01:10",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 26,
-    "nate_int": 30
+    "nate_int": 31
    },
    "count": 2,
    "inrank": true
@@ -434,11 +437,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c9",
@@ -592,7 +593,7 @@
     }
    ],
    "first": "00:10",
-   "last": "09:08",
+   "last": "10:09",
    "best": 1,
    "hours": [
     "00:10",
@@ -603,15 +604,16 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 1
+    "nate_pop": 2,
+    "nate_int": 3
    },
    "count": 11,
    "inrank": true
@@ -647,7 +649,7 @@
     }
    ],
    "first": "00:10",
-   "last": "09:08",
+   "last": "10:09",
    "best": 3,
    "hours": [
     "00:10",
@@ -658,15 +660,16 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 4
+    "nate_pop": 6,
+    "nate_int": 8
    },
    "count": 3,
    "inrank": true
@@ -750,12 +753,14 @@
    "titles": [
     "[단독]\"최동석, 상간녀 허리춤 잡고 딱…\" 박지윤 편들려 허위 댓글, 명예...",
     "최동석·박지윤 TMI에 지친다…\"남친 집에서\"·\"지 애미가\" [엑's 이슈]",
-    "[단독]\"박지윤 그릇 위에 최동석 여친 반찬\" 허위 댓글 女, 알고 보니 지인..."
+    "[단독]\"박지윤 그릇 위에 최동석 여친 반찬\" 허위 댓글 女, 알고 보니 지인...",
+    "안성재·백종원, 결혼식장서 동시에 포착…알고 보니 '흑백' 트리플스타 재..."
    ],
    "links": [
     "https://news.nate.com/view/20261124n02354",
     "https://news.nate.com/view/20261124n34526",
-    "https://news.nate.com/view/20261125n00169"
+    "https://news.nate.com/view/20261125n00169",
+    "https://news.nate.com/view/20261125n02169"
    ],
    "articles": [
     {
@@ -772,10 +777,15 @@
      "title": "[단독]\"박지윤 그릇 위에 최동석 여친 반찬\" 허위 댓글 女, 알고 보니 지인...",
      "link": "https://news.nate.com/view/20261125n00169",
      "media": "스타뉴스"
+    },
+    {
+     "title": "안성재·백종원, 결혼식장서 동시에 포착…알고 보니 '흑백' 트리플스타 재...",
+     "link": "https://news.nate.com/view/20261125n02169",
+     "media": "엑스포츠뉴스"
     }
    ],
    "first": "00:10",
-   "last": "09:08",
+   "last": "10:09",
    "best": 8,
    "hours": [
     "00:10",
@@ -785,17 +795,18 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 15
+    "nate_pop": 23,
+    "nate_int": 17
    },
-   "count": 3,
+   "count": 4,
    "inrank": true
   },
   {
@@ -1057,12 +1068,14 @@
    "titles": [
     "'음주운전' 고경표, 접촉 사고 처음이 아니었다…영동대교 있었던 일 재조...",
     "고경표, 벌써 동정론? '울먹' 경찰 출석에 \"진짜 죄송한 듯\"vs\"음주운전...",
-    "'음주운전 의혹' 김대범, 고경표 작심 비판…\"대리만 부르면 될 것을\""
+    "'음주운전 의혹' 김대범, 고경표 작심 비판…\"대리만 부르면 될 것을\"",
+    "고경표, 과거엔 대리운전 이용했었다…\"팁만 5만원 줘\" 음주운전 사고..."
    ],
    "links": [
     "https://news.nate.com/view/20261124n29878",
     "https://news.nate.com/view/20261124n06086",
-    "https://news.nate.com/view/20261125n02138"
+    "https://news.nate.com/view/20261125n02138",
+    "https://news.nate.com/view/20261125n06979"
    ],
    "articles": [
     {
@@ -1079,10 +1092,15 @@
      "title": "'음주운전 의혹' 김대범, 고경표 작심 비판…\"대리만 부르면 될 것을\"",
      "link": "https://news.nate.com/view/20261125n02138",
      "media": "스포츠서울"
+    },
+    {
+     "title": "고경표, 과거엔 대리운전 이용했었다…\"팁만 5만원 줘\" 음주운전 사고...",
+     "link": "https://news.nate.com/view/20261125n06979",
+     "media": "스포츠조선"
     }
    ],
    "first": "00:10",
-   "last": "09:08",
+   "last": "10:09",
    "best": 1,
    "hours": [
     "00:10",
@@ -1093,17 +1111,18 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 7
+    "nate_pop": 3,
+    "nate_int": 2
    },
-   "count": 3,
+   "count": 4,
    "inrank": true
   },
   {
@@ -1146,20 +1165,27 @@
    "id": "c24",
    "title": "46세 배윤정 맞아? 거상 수술 한 달만에…투턱·목주름 삭제 \"진작할 걸\"",
    "titles": [
-    "46세 배윤정 맞아? 거상 수술 한 달만에…투턱·목주름 삭제 \"진작할 걸\""
+    "46세 배윤정 맞아? 거상 수술 한 달만에…투턱·목주름 삭제 \"진작할 걸\"",
+    "\"젤 못생김 주의\" 배윤정, 안면 거상 4주 버티니 미모 완성…홍현희 \"야 라..."
    ],
    "links": [
-    "https://news.nate.com/view/20261124n35407"
+    "https://news.nate.com/view/20261124n35407",
+    "https://news.nate.com/view/20261125n04915"
    ],
    "articles": [
     {
      "title": "46세 배윤정 맞아? 거상 수술 한 달만에…투턱·목주름 삭제 \"진작할 걸\"",
      "link": "https://news.nate.com/view/20261124n35407",
      "media": "스포츠조선"
+    },
+    {
+     "title": "\"젤 못생김 주의\" 배윤정, 안면 거상 4주 버티니 미모 완성…홍현희 \"야 라...",
+     "link": "https://news.nate.com/view/20261125n04915",
+     "media": "뉴스엔"
     }
    ],
    "first": "00:10",
-   "last": "09:08",
+   "last": "10:09",
    "best": 4,
    "hours": [
     "00:10",
@@ -1170,17 +1196,18 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 21
+    "nate_pop": 22,
+    "nate_int": 27
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -1193,7 +1220,8 @@
     "정준하 \"유재석 폭로하면 욕은 나만 먹어\" 폭로전 거부 (동상이몽2)",
     "'동상이몽2' 홍혜걸, 여에스더 공주 대접 \"만두, 아~\"",
     "여에스더, ♥홍혜걸에 분노 폭발…\"야, 왜 이렇게 건방져\" 녹화도 불참 ...",
-    "'동상이몽2' 오정태, \"과학고 다니는 첫째 딸, 만 17세에 카이스트 조기 입..."
+    "'동상이몽2' 오정태, \"과학고 다니는 첫째 딸, 만 17세에 카이스트 조기 입...",
+    "\"타월 들고 서 있던 어린 것이\" 여에스더, 64만 원 고량주 먹고 뻗은 홍혜..."
    ],
    "links": [
     "https://news.nate.com/view/20261124n36476",
@@ -1202,7 +1230,8 @@
     "https://news.nate.com/view/20261124n36493",
     "https://news.nate.com/view/20261125n00155",
     "https://news.nate.com/view/20261125n00203",
-    "https://news.nate.com/view/20261125n00714"
+    "https://news.nate.com/view/20261125n00714",
+    "https://news.nate.com/view/20261125n03868"
    ],
    "articles": [
     {
@@ -1239,10 +1268,15 @@
      "title": "'동상이몽2' 오정태, \"과학고 다니는 첫째 딸, 만 17세에 카이스트 조기 입...",
      "link": "https://news.nate.com/view/20261125n00714",
      "media": "SBS연예뉴스"
+    },
+    {
+     "title": "\"타월 들고 서 있던 어린 것이\" 여에스더, 64만 원 고량주 먹고 뻗은 홍혜...",
+     "link": "https://news.nate.com/view/20261125n03868",
+     "media": "마이데일리"
     }
    ],
    "first": "00:10",
-   "last": "09:08",
+   "last": "10:09",
    "best": 16,
    "hours": [
     "00:10",
@@ -1253,17 +1287,17 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 25
+    "nate_int": 32
    },
-   "count": 7,
+   "count": 8,
    "inrank": true
   },
   {
@@ -1334,11 +1368,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 42
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c28",
@@ -1508,7 +1540,7 @@
     }
    ],
    "first": "00:10",
-   "last": "09:08",
+   "last": "10:09",
    "best": 8,
    "hours": [
     "00:10",
@@ -1519,15 +1551,16 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 19
+    "nate_pop": 13,
+    "nate_int": 26
    },
    "count": 1,
    "inrank": true
@@ -1618,7 +1651,7 @@
     }
    ],
    "first": "02:29",
-   "last": "09:08",
+   "last": "10:09",
    "best": 10,
    "hours": [
     "02:29",
@@ -1627,15 +1660,16 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 22
+    "nate_pop": 27,
+    "nate_int": 36
    },
    "count": 1,
    "inrank": true
@@ -1657,7 +1691,7 @@
     }
    ],
    "first": "02:29",
-   "last": "09:08",
+   "last": "10:09",
    "best": 23,
    "hours": [
     "02:29",
@@ -1666,14 +1700,15 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 40
+    "nate_int": 48
    },
    "count": 1,
    "inrank": true
@@ -1695,7 +1730,7 @@
     }
    ],
    "first": "02:29",
-   "last": "09:08",
+   "last": "10:09",
    "best": 18,
    "hours": [
     "02:29",
@@ -1704,15 +1739,15 @@
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 29
+    "nate_int": 43
    },
    "count": 1,
    "inrank": true
@@ -1862,20 +1897,21 @@
     }
    ],
    "first": "06:08",
-   "last": "09:08",
+   "last": "10:09",
    "best": 10,
    "hours": [
     "06:08",
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 18
+    "nate_int": 33
    },
    "count": 2,
    "inrank": true
@@ -1914,11 +1950,13 @@
    "title": "'2억 놓친' 장동민, 패배에도 은퇴는 없다…\"챔피언 아닌 도전자로\" ('...",
    "titles": [
     "'2억 놓친' 장동민, 패배에도 은퇴는 없다…\"챔피언 아닌 도전자로\" ('...",
-    "\"승리 확신했는데\"…'데블스 플랜3' 장동민 vs 현경렬, 2억 주인공 확정"
+    "\"승리 확신했는데\"…'데블스 플랜3' 장동민 vs 현경렬, 2억 주인공 확정",
+    "장동민, 서바이벌 무패 신화 깨졌다…현경렬 '데블스 플랜3' 우승"
    ],
    "links": [
     "https://news.nate.com/view/20261125n02106",
-    "https://news.nate.com/view/20261124n32351"
+    "https://news.nate.com/view/20261124n32351",
+    "https://news.nate.com/view/20261125n06703"
    ],
    "articles": [
     {
@@ -1930,25 +1968,31 @@
      "title": "\"승리 확신했는데\"…'데블스 플랜3' 장동민 vs 현경렬, 2억 주인공 확정",
      "link": "https://news.nate.com/view/20261124n32351",
      "media": "일간스포츠"
+    },
+    {
+     "title": "장동민, 서바이벌 무패 신화 깨졌다…현경렬 '데블스 플랜3' 우승",
+     "link": "https://news.nate.com/view/20261125n06703",
+     "media": "iMBC연예"
     }
    ],
    "first": "07:08",
-   "last": "09:08",
+   "last": "10:09",
    "best": 3,
    "hours": [
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 8
+    "nate_pop": 10,
+    "nate_int": 9
    },
-   "count": 2,
+   "count": 3,
    "inrank": true
   },
   {
@@ -1968,12 +2012,13 @@
     }
    ],
    "first": "07:08",
-   "last": "09:08",
+   "last": "10:09",
    "best": 2,
    "hours": [
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
@@ -1981,7 +2026,7 @@
    ],
    "now": {
     "nate_pop": 4,
-    "nate_int": 2
+    "nate_int": 4
    },
    "count": 1,
    "inrank": true
@@ -2003,20 +2048,21 @@
     }
    ],
    "first": "07:08",
-   "last": "09:08",
+   "last": "10:09",
    "best": 6,
    "hours": [
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 11
+    "nate_pop": 25,
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -2038,20 +2084,21 @@
     }
    ],
    "first": "07:08",
-   "last": "09:08",
+   "last": "10:09",
    "best": 5,
    "hours": [
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 12
+    "nate_pop": 24,
+    "nate_int": 30
    },
    "count": 1,
    "inrank": true
@@ -2084,11 +2131,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 48
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c50",
@@ -2107,20 +2152,21 @@
     }
    ],
    "first": "07:08",
-   "last": "09:08",
+   "last": "10:09",
    "best": 6,
    "hours": [
     "07:08",
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 9
+    "nate_pop": 12,
+    "nate_int": 16
    },
    "count": 1,
    "inrank": true
@@ -2171,19 +2217,20 @@
     }
    ],
    "first": "08:08",
-   "last": "09:08",
+   "last": "10:09",
    "best": 10,
    "hours": [
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 14
+    "nate_pop": 11,
+    "nate_int": 18
    },
    "count": 1,
    "inrank": true
@@ -2212,18 +2259,20 @@
     }
    ],
    "first": "08:08",
-   "last": "09:08",
-   "best": 24,
+   "last": "10:09",
+   "best": 13,
    "hours": [
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 32
+    "nate_pop": 17,
+    "nate_int": 13
    },
    "count": 2,
    "inrank": true
@@ -2232,34 +2281,42 @@
    "id": "c54",
    "title": "퀸와사비, 불과 1년 만에 뱃살 볼록 인증샷…대체 무슨 일이? [MD★스타]",
    "titles": [
-    "퀸와사비, 불과 1년 만에 뱃살 볼록 인증샷…대체 무슨 일이? [MD★스타]"
+    "퀸와사비, 불과 1년 만에 뱃살 볼록 인증샷…대체 무슨 일이? [MD★스타]",
+    "워터밤 여신 어쩌다…퀸와사비 \"지금 바로 찍음\" 출렁 뱃살 무슨 일이[스타..."
    ],
    "links": [
-    "https://news.nate.com/view/20261125n03280"
+    "https://news.nate.com/view/20261125n03280",
+    "https://news.nate.com/view/20261125n05880"
    ],
    "articles": [
     {
      "title": "퀸와사비, 불과 1년 만에 뱃살 볼록 인증샷…대체 무슨 일이? [MD★스타]",
      "link": "https://news.nate.com/view/20261125n03280",
      "media": "마이데일리"
+    },
+    {
+     "title": "워터밤 여신 어쩌다…퀸와사비 \"지금 바로 찍음\" 출렁 뱃살 무슨 일이[스타...",
+     "link": "https://news.nate.com/view/20261125n05880",
+     "media": "스타뉴스"
     }
    ],
    "first": "08:08",
-   "last": "09:08",
+   "last": "10:09",
    "best": 5,
    "hours": [
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 6
+    "nate_pop": 8,
+    "nate_int": 7
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -2279,18 +2336,19 @@
     }
    ],
    "first": "08:08",
-   "last": "09:08",
+   "last": "10:09",
    "best": 29,
    "hours": [
     "08:08",
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 33
+    "nate_int": 45
    },
    "count": 1,
    "inrank": true
@@ -2466,11 +2524,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 50
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c62",
@@ -2489,18 +2545,19 @@
     }
    ],
    "first": "09:08",
-   "last": "09:08",
-   "best": 2,
+   "last": "10:09",
+   "best": 1,
    "hours": [
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 3
+    "nate_pop": 1,
+    "nate_int": 1
    },
    "count": 1,
    "inrank": true
@@ -2522,18 +2579,19 @@
     }
    ],
    "first": "09:08",
-   "last": "09:08",
+   "last": "10:09",
    "best": 10,
    "hours": [
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 10
+    "nate_pop": 16,
+    "nate_int": 15
    },
    "count": 1,
    "inrank": true
@@ -2555,18 +2613,19 @@
     }
    ],
    "first": "09:08",
-   "last": "09:08",
+   "last": "10:09",
    "best": 21,
    "hours": [
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 49
+    "nate_pop": 26,
+    "nate_int": 24
    },
    "count": 1,
    "inrank": true
@@ -2596,11 +2655,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 26
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c66",
@@ -2619,16 +2676,240 @@
     }
    ],
    "first": "09:08",
-   "last": "09:08",
-   "best": 35,
+   "last": "10:09",
+   "best": 29,
    "hours": [
-    "09:08"
+    "09:08",
+    "10:09"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 35
+    "nate_int": 29
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c67",
+   "title": "딘딘, 어머니 '미우새' 하차 속사정 최초 공개…\"母보다 먼저 통보받아...",
+   "titles": [
+    "딘딘, 어머니 '미우새' 하차 속사정 최초 공개…\"母보다 먼저 통보받아..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261125n04614"
+   ],
+   "articles": [
+    {
+     "title": "딘딘, 어머니 '미우새' 하차 속사정 최초 공개…\"母보다 먼저 통보받아...",
+     "link": "https://news.nate.com/view/20261125n04614",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "10:09",
+   "last": "10:09",
+   "best": 5,
+   "hours": [
+    "10:09"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 5,
+    "nate_int": 5
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c68",
+   "title": "'신민아♥' 김우빈 때아닌 성형 의혹 왜?…\"과한 보정VS원래 미남\"",
+   "titles": [
+    "'신민아♥' 김우빈 때아닌 성형 의혹 왜?…\"과한 보정VS원래 미남\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261125n03625"
+   ],
+   "articles": [
+    {
+     "title": "'신민아♥' 김우빈 때아닌 성형 의혹 왜?…\"과한 보정VS원래 미남\"",
+     "link": "https://news.nate.com/view/20261125n03625",
+     "media": "OSEN"
+    }
+   ],
+   "first": "10:09",
+   "last": "10:09",
+   "best": 19,
+   "hours": [
+    "10:09"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 19,
+    "nate_int": 20
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c69",
+   "title": "김대호, MBC 퇴사 후 수입 만족 \"입금될 때 뿌듯하지만…불안감 多\"[굿...",
+   "titles": [
+    "김대호, MBC 퇴사 후 수입 만족 \"입금될 때 뿌듯하지만…불안감 多\"[굿..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261125n06132"
+   ],
+   "articles": [
+    {
+     "title": "김대호, MBC 퇴사 후 수입 만족 \"입금될 때 뿌듯하지만…불안감 多\"[굿...",
+     "link": "https://news.nate.com/view/20261125n06132",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "10:09",
+   "last": "10:09",
+   "best": 11,
+   "hours": [
+    "10:09"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 20,
+    "nate_int": 11
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c70",
+   "title": "백종원의 무더기 고소…모욕죄가 '입틀막' 수단 안 되려면 [미디어전망대]",
+   "titles": [
+    "백종원의 무더기 고소…모욕죄가 '입틀막' 수단 안 되려면 [미디어전망대]"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261125n01529"
+   ],
+   "articles": [
+    {
+     "title": "백종원의 무더기 고소…모욕죄가 '입틀막' 수단 안 되려면 [미디어전망대]",
+     "link": "https://news.nate.com/view/20261125n01529",
+     "media": "한겨레"
+    }
+   ],
+   "first": "10:09",
+   "last": "10:09",
+   "best": 14,
+   "hours": [
+    "10:09"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 14
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c71",
+   "title": "'AOA 출신' 유나, 아들 첫돌 맞았다…고사리손 가득 채운 금반지·팔찌 '...",
+   "titles": [
+    "'AOA 출신' 유나, 아들 첫돌 맞았다…고사리손 가득 채운 금반지·팔찌 '..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261125n08174"
+   ],
+   "articles": [
+    {
+     "title": "'AOA 출신' 유나, 아들 첫돌 맞았다…고사리손 가득 채운 금반지·팔찌 '...",
+     "link": "https://news.nate.com/view/20261125n08174",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "10:09",
+   "last": "10:09",
+   "best": 21,
+   "hours": [
+    "10:09"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 21
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c72",
+   "title": "술잔 못 놔 포토라인 선 스타들…울먹인 고경표→'90도 사과' 이재룡·김호...",
+   "titles": [
+    "술잔 못 놔 포토라인 선 스타들…울먹인 고경표→'90도 사과' 이재룡·김호..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261125n06127"
+   ],
+   "articles": [
+    {
+     "title": "술잔 못 놔 포토라인 선 스타들…울먹인 고경표→'90도 사과' 이재룡·김호...",
+     "link": "https://news.nate.com/view/20261125n06127",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "10:09",
+   "last": "10:09",
+   "best": 28,
+   "hours": [
+    "10:09"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 28
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c73",
+   "title": "\"우와!\" 이찬원과 함께하는 전율 돋는 랜선 세계여행…샌프란시스코 대저택...",
+   "titles": [
+    "\"우와!\" 이찬원과 함께하는 전율 돋는 랜선 세계여행…샌프란시스코 대저택..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261125n02210"
+   ],
+   "articles": [
+    {
+     "title": "\"우와!\" 이찬원과 함께하는 전율 돋는 랜선 세계여행…샌프란시스코 대저택...",
+     "link": "https://news.nate.com/view/20261125n02210",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "10:09",
+   "last": "10:09",
+   "best": 34,
+   "hours": [
+    "10:09"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 34
    },
    "count": 1,
    "inrank": true
@@ -2706,9 +2987,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "10:09",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-25T09:08:28.702777+09:00",
+ "updated": "2026-11-25T10:09:21.983804+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

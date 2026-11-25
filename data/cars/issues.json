@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T22:14:00.231206+09:00",
+ "updated": "2026-11-25T23:08:37.554014+09:00",
  "car": [
   {
    "name": "전기차",
-   "count": 32,
+   "count": 31,
    "items": [
     {
      "title": "[카랑CAR랑] '경쾌한 CLA·안락한 GLC'…벤츠 전기차, 제주서 달려보니",
@@ -39,8 +39,14 @@
   },
   {
    "name": "하이브리드차",
-   "count": 26,
+   "count": 25,
    "items": [
+    {
+     "title": "EU 하이브리드차 세이프가드에 韓 자동차업계 촉각…정부, 쿼터 협의 주...",
+     "link": "https://www.greened.kr/news/articleView.html?idxno=355577",
+     "t": "2026-11-25T22:59:00+09:00",
+     "by": "greened.kr"
+    },
     {
      "title": "[이슈] EU 하이브리드차 수입 제한…K-자동차 수출 전략 변수",
      "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=368062",
@@ -64,12 +70,6 @@
      "link": "https://www.etoday.co.kr/news/view/2652950",
      "t": "2026-11-25T17:00:00+09:00",
      "by": "etoday.co.kr"
-    },
-    {
-     "title": "하이브리드차에 빗장 건 EU... 중국은 직격탄, 현대차 ·기아는 한숨 돌렸...",
-     "link": "https://www.insight.co.kr/news/583588",
-     "t": "2026-11-25T16:40:00+09:00",
-     "by": "insight.co.kr"
     }
    ]
   },
@@ -256,42 +256,6 @@
    ]
   },
   {
-   "name": "오토바",
-   "count": 16,
-   "items": [
-    {
-     "title": "\"배달음식은 받고 싶습니까?\"… 오토바이 출입 막은 청담동 아파트",
-     "link": "https://www.yna.co.kr/view/AKR20261125183200004?input=1195m",
-     "t": "2026-11-25T21:58:00+09:00",
-     "by": "yna.co.kr"
-    },
-    {
-     "title": "“ 오토바이 두고 걸어와라” vs “배달원은 노예 아니다”",
-     "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561656",
-     "t": "2026-11-25T19:39:00+09:00",
-     "by": "ichannela.com"
-    },
-    {
-     "title": "오토바이 막고 붙잡아…사적 검문·추격까지 당하는 외국인 배달 노동자",
-     "link": "https://www.hani.co.kr/arti/society/society_general/1289116.html",
-     "t": "2026-11-25T18:08:00+09:00",
-     "by": "hani.co.kr"
-    },
-    {
-     "title": "“ 오토바이 세우고 걸어서 배달” 청담르엘 논란…단지 폭 약 500m",
-     "link": "https://www.jasm.co.kr/news/view/326502/?sc=Naver",
-     "t": "2026-11-25T17:08:00+09:00",
-     "by": "jasm.co.kr"
-    },
-    {
-     "title": "오토바이 정면 충돌…상대 운전자 어금니, 뇌에 박혀",
-     "link": "https://kormedi.com/?p=2911085",
-     "t": "2026-11-25T17:06:00+09:00",
-     "by": "kormedi.com"
-    }
-   ]
-  },
-  {
    "name": "청년 라이더",
    "count": 8,
    "items": [
@@ -324,6 +288,42 @@
      "link": "https://www.mt.co.kr/finance/2026/11/24/2026112415471030575",
      "t": "2026-11-24T15:58:00+09:00",
      "by": "mt.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "오토바",
+   "count": 15,
+   "items": [
+    {
+     "title": "\"배달음식은 받고 싶습니까?\"… 오토바이 출입 막은 청담동 아파트",
+     "link": "https://www.yna.co.kr/view/AKR20261125183200004?input=1195m",
+     "t": "2026-11-25T21:58:00+09:00",
+     "by": "yna.co.kr"
+    },
+    {
+     "title": "“ 오토바이 두고 걸어와라” vs “배달원은 노예 아니다”",
+     "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561656",
+     "t": "2026-11-25T19:39:00+09:00",
+     "by": "ichannela.com"
+    },
+    {
+     "title": "오토바이 막고 붙잡아…사적 검문·추격까지 당하는 외국인 배달 노동자",
+     "link": "https://www.hani.co.kr/arti/society/society_general/1289116.html",
+     "t": "2026-11-25T18:08:00+09:00",
+     "by": "hani.co.kr"
+    },
+    {
+     "title": "“ 오토바이 세우고 걸어서 배달” 청담르엘 논란…단지 폭 약 500m",
+     "link": "https://www.jasm.co.kr/news/view/326502/?sc=Naver",
+     "t": "2026-11-25T17:08:00+09:00",
+     "by": "jasm.co.kr"
+    },
+    {
+     "title": "오토바이 정면 충돌…상대 운전자 어금니, 뇌에 박혀",
+     "link": "https://kormedi.com/?p=2911085",
+     "t": "2026-11-25T17:06:00+09:00",
+     "by": "kormedi.com"
     }
    ]
   },

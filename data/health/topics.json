@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:08:33.250268+09:00",
+ "updated": "2026-11-26T07:08:43.800748+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -209,6 +209,47 @@
    ]
   },
   {
+   "name": "수면",
+   "kind": "운동·생활",
+   "count": 12,
+   "angles": [
+    "부작용",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "심장질환자 하루 9시간 이상 수면…사망 위험 51% 증가",
+     "link": "https://www.bntnews.co.kr/article/view/bnt202611260020",
+     "t": "2026-11-26T06:32:00+09:00",
+     "by": "bntnews.co.kr"
+    },
+    {
+     "title": "과음 반복하면 간·위장 부담 커지고 수면의 질 저하…충분한 휴식과 금...",
+     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=214717",
+     "t": "2026-11-25T20:20:00+09:00",
+     "by": "thefirstmedia.net"
+    },
+    {
+     "title": "\"많이 자면 건강 에 좋다더니\"…심장병 환자 9시간 수면의 반전 [매일비...",
+     "link": "https://www.imaeil.com/page/view/2026112510543387331",
+     "t": "2026-11-25T11:29:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "송년회 후 멍하고 피곤하다면 '간·위장·수면' 건강 살펴야",
+     "link": "https://www.rapportian.com/news/articleView.html?idxno=242850",
+     "t": "2026-11-25T10:40:00+09:00",
+     "by": "rapportian.com"
+    },
+    {
+     "title": "“심심해서 잠들기 전 스마트폰”… 수면 부족과 지루함 부르는 악순환",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/25/2026112501127.html",
+     "t": "2026-11-25T10:37:00+09:00",
+     "by": "health.chosun.com"
+    }
+   ]
+  },
+  {
    "name": "다이어트",
    "kind": "운동·생활",
    "count": 11,
@@ -251,42 +292,45 @@
    ]
   },
   {
-   "name": "수면",
-   "kind": "운동·생활",
-   "count": 11,
+   "name": "염증",
+   "kind": "질환·증상",
+   "count": 9,
    "angles": [
-    "부작용"
+    "에 좋은",
+    "부작용",
+    "먹는 법",
+    "효능"
    ],
    "items": [
     {
-     "title": "과음 반복하면 간·위장 부담 커지고 수면의 질 저하…충분한 휴식과 금...",
-     "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=214717",
-     "t": "2026-11-25T20:20:00+09:00",
-     "by": "thefirstmedia.net"
+     "title": "“감자 맞아?” 잘랐더니 속이 보라색⋯몸속 염증에도 도움된다고?",
+     "link": "https://kormedi.com/?p=2910822",
+     "t": "2026-11-26T07:06:00+09:00",
+     "by": "kormedi.com"
     },
     {
-     "title": "\"많이 자면 건강 에 좋다더니\"…심장병 환자 9시간 수면의 반전 [매일비...",
-     "link": "https://www.imaeil.com/page/view/2026112510543387331",
-     "t": "2026-11-25T11:29:00+09:00",
-     "by": "imaeil.com"
+     "title": "“위장 염증 싹 사라진다”… 전문가가 강력 추천한 ‘세끼 식사법’",
+     "link": "https://kormedi.com/?p=2912915",
+     "t": "2026-11-26T01:02:00+09:00",
+     "by": "kormedi.com"
     },
     {
-     "title": "송년회 후 멍하고 피곤하다면 '간·위장·수면' 건강 살펴야",
-     "link": "https://www.rapportian.com/news/articleView.html?idxno=242850",
-     "t": "2026-11-25T10:40:00+09:00",
-     "by": "rapportian.com"
-    },
-    {
-     "title": "“심심해서 잠들기 전 스마트폰”… 수면 부족과 지루함 부르는 악순환",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/25/2026112501127.html",
-     "t": "2026-11-25T10:37:00+09:00",
+     "title": "“ 음식 에 뿌려 먹는다”… 김희애가 챙겨 다니는 ‘염증 줄이는 식품’",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/25/2026112502619.html",
+     "t": "2026-11-25T17:31:00+09:00",
      "by": "health.chosun.com"
     },
     {
-     "title": "통증 부담 줄이는 '수면 고주파 리프팅', 원리부터 주의사항까지",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70516",
-     "t": "2026-11-25T10:32:00+09:00",
-     "by": "hidoc.co.kr"
+     "title": "고려대 세종캠퍼스, '면역 관용·조직 염증·표적 치료제' 국제 심포지엄...",
+     "link": "https://www.kyosu.net/news/articleView.html?idxno=212821",
+     "t": "2026-11-25T14:54:00+09:00",
+     "by": "kyosu.net"
+    },
+    {
+     "title": "11만 명 추적… 어릴 때 ‘생선’ 많이 먹은 사람, 장 염증 위험 낮았다",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/25/2026112501135.html",
+     "t": "2026-11-25T10:40:00+09:00",
+     "by": "health.chosun.com"
     }
    ]
   },
@@ -331,6 +375,44 @@
    ]
   },
   {
+   "name": "고혈압",
+   "kind": "질환·증상",
+   "count": 8,
+   "angles": [],
+   "items": [
+    {
+     "title": "여수시, 고혈압·당뇨병 환자 의료비 지원 연말 종료…어르신 부담은 어...",
+     "link": "https://www.geconomy.co.kr/news/article.html?no=326092",
+     "t": "2026-11-26T06:44:00+09:00",
+     "by": "geconomy.co.kr"
+    },
+    {
+     "title": "고혈압·당뇨병 환자 의료비 지원 52억 전액 삭감 직전...\"예산 복원하라...",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3017369",
+     "t": "2026-11-25T20:56:00+09:00",
+     "by": "bosa.co.kr"
+    },
+    {
+     "title": "여수시, 고혈압·당뇨병 등록환자 의료비 지원 올해 말 종료...대체 제도...",
+     "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1107860",
+     "t": "2026-11-25T17:06:00+09:00",
+     "by": "discoverynews.kr"
+    },
+    {
+     "title": "‘침묵의 살인자’ 고혈압…‘이 두가지’로 미리 잡아낸다?",
+     "link": "https://www.nongmin.com/article/20261124500373",
+     "t": "2026-11-25T11:28:00+09:00",
+     "by": "nongmin.com"
+    },
+    {
+     "title": "사천시보건소, 고혈압·당뇨병 등록관리사업 성과보고회 개최",
+     "link": "https://www.newsgn.com/news/articleView.html?idxno=587862",
+     "t": "2026-11-25T11:12:00+09:00",
+     "by": "newsgn.com"
+    }
+   ]
+  },
+  {
    "name": "당뇨",
    "kind": "질환·증상",
    "count": 8,
@@ -367,86 +449,6 @@
      "link": "https://kormedi.com/?p=2910666",
      "t": "2026-11-23T19:02:00+09:00",
      "by": "kormedi.com"
-    }
-   ]
-  },
-  {
-   "name": "염증",
-   "kind": "질환·증상",
-   "count": 8,
-   "angles": [
-    "부작용",
-    "먹는 법",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "“위장 염증 싹 사라진다”… 전문가가 강력 추천한 ‘세끼 식사법’",
-     "link": "https://kormedi.com/?p=2912915",
-     "t": "2026-11-26T01:02:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "“ 음식 에 뿌려 먹는다”… 김희애가 챙겨 다니는 ‘염증 줄이는 식품’",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/25/2026112502619.html",
-     "t": "2026-11-25T17:31:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "고려대 세종캠퍼스, '면역 관용·조직 염증·표적 치료제' 국제 심포지엄...",
-     "link": "https://www.kyosu.net/news/articleView.html?idxno=212821",
-     "t": "2026-11-25T14:54:00+09:00",
-     "by": "kyosu.net"
-    },
-    {
-     "title": "11만 명 추적… 어릴 때 ‘생선’ 많이 먹은 사람, 장 염증 위험 낮았다",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/25/2026112501135.html",
-     "t": "2026-11-25T10:40:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "한림대동탄성심병원, 로봇 무릎 인공관절수술 후 관절·전신 염증 반응...",
-     "link": "https://economist.co.kr/article/view/ecn202611240130",
-     "t": "2026-11-24T15:11:00+09:00",
-     "by": "economist.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "고혈압",
-   "kind": "질환·증상",
-   "count": 7,
-   "angles": [],
-   "items": [
-    {
-     "title": "고혈압·당뇨병 환자 의료비 지원 52억 전액 삭감 직전...\"예산 복원하라...",
-     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3017369",
-     "t": "2026-11-25T20:56:00+09:00",
-     "by": "bosa.co.kr"
-    },
-    {
-     "title": "여수시, 고혈압·당뇨병 등록환자 의료비 지원 올해 말 종료...대체 제도...",
-     "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1107860",
-     "t": "2026-11-25T17:06:00+09:00",
-     "by": "discoverynews.kr"
-    },
-    {
-     "title": "‘침묵의 살인자’ 고혈압…‘이 두가지’로 미리 잡아낸다?",
-     "link": "https://www.nongmin.com/article/20261124500373",
-     "t": "2026-11-25T11:28:00+09:00",
-     "by": "nongmin.com"
-    },
-    {
-     "title": "사천시보건소, 고혈압·당뇨병 등록관리사업 성과보고회 개최",
-     "link": "https://www.newsgn.com/news/articleView.html?idxno=587862",
-     "t": "2026-11-25T11:12:00+09:00",
-     "by": "newsgn.com"
-    },
-    {
-     "title": "노인들 고혈압·당뇨 폰 측정 쉽지 않은데…새 사업 띄우려 19년 된 지원...",
-     "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232660",
-     "t": "2026-11-24T20:05:00+09:00",
-     "by": "mbn.co.kr"
     }
    ]
   },

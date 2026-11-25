@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-26T02:11:04.435813+09:00",
+ "updated": "2026-11-26T03:08:43.593429+09:00",
  "all": [
   {
    "name": "해킹",
    "count": 56,
    "items": [
+    {
+     "title": "美금융범죄 단속기관도 뚫렸다…해킹에 일부 시스템 가동중단",
+     "link": "https://www.yna.co.kr/view/AKR20261126003300072?input=1195m",
+     "t": "2026-11-26T02:28:00+09:00",
+     "by": "yna.co.kr"
+    },
     {
      "title": "빗썸, 해킹 피해 추가 확인...보름 동안 해킹 사실 몰라",
      "link": "https://www.ytn.co.kr/_ln/0102_202611260115010324",
@@ -28,18 +34,12 @@
      "link": "https://www.news2day.co.kr/article/20261126500002",
      "t": "2026-11-26T00:06:00+09:00",
      "by": "news2day.co.kr"
-    },
-    {
-     "title": "보름 간 털린 줄도 몰라… 빗썸 해킹 추가 확인",
-     "link": "https://www.kmib.co.kr/article/20261125502160",
-     "t": "2026-11-26T00:01:00+09:00",
-     "by": "kmib.co.kr"
     }
    ]
   },
   {
    "name": "개인정보 유출",
-   "count": 28,
+   "count": 27,
    "items": [
     {
      "title": "빗썸 개인정보 유출 7159명 넘어…보름간 해킹 도 몰랐다",
@@ -146,42 +146,6 @@
    ]
   },
   {
-   "name": "게임",
-   "count": 13,
-   "items": [
-    {
-     "title": "호주, 게임·SNS·AI 챗봇 이용자 보호 의무화 추진",
-     "link": "https://it.chosun.com/news/articleView.html?idxno=3000000001847",
-     "t": "2026-11-25T19:44:00+09:00",
-     "by": "it.chosun.com"
-    },
-    {
-     "title": "그라비티, 게임 넘어 신규 플랫폼 3종으로 신성장 동력 확보에 나선다",
-     "link": "https://game.donga.com/125284/",
-     "t": "2026-11-25T18:54:00+09:00",
-     "by": "game.donga.com"
-    },
-    {
-     "title": "엠 게임 '귀혼키우기', 출시 하루 만에 인기 1위 등극...초반 흥행 '청신...",
-     "link": "https://www.techm.kr/news/articleView.html?idxno=157807",
-     "t": "2026-11-25T18:48:00+09:00",
-     "by": "techm.kr"
-    },
-    {
-     "title": "'부산행' 장현국, 넥써쓰, 게임보다 블록체인 힘주나",
-     "link": "https://news.bizwatch.co.kr/article/mobile/2026/11/25/0016",
-     "t": "2026-11-25T18:33:00+09:00",
-     "by": "bizwatch.co.kr"
-    },
-    {
-     "title": "[ 게임 앤 플랫폼] 게임 업계 연말 콘텐츠 경쟁…전장·캐릭터 늘리고 신...",
-     "link": "https://www.seoultimes.news/news/article.html?no=2000102708",
-     "t": "2026-11-25T18:23:00+09:00",
-     "by": "seoultimes.news"
-    }
-   ]
-  },
-  {
    "name": "보안",
    "count": 12,
    "items": [
@@ -214,6 +178,42 @@
      "link": "https://www.datanet.co.kr/news/articleView.html?idxno=300573",
      "t": "2026-11-25T18:18:00+09:00",
      "by": "datanet.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "김정관",
+   "count": 12,
+   "items": [
+    {
+     "title": "김정관 \"15% 유지하면 상당히 선방\"…美 301조 관세 추가 인상 '촉각'",
+     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261126010010103",
+     "t": "2026-11-26T01:54:00+09:00",
+     "by": "asiatoday.co.kr"
+    },
+    {
+     "title": "김정관 “美 과잉생산 관세 15%, 선방 이상의 선방”",
+     "link": "https://www.seoul.co.kr/news/economy/2026/11/26/20261126500004?wlog_tag3=naver",
+     "t": "2026-11-26T01:41:00+09:00",
+     "by": "seoul.co.kr"
+    },
+    {
+     "title": "김정관 “美 과잉생산 관세 상한 15%, 선방 이상의 선방”",
+     "link": "https://www.seoul.co.kr/news/economy/2026/11/26/20261126500004?wlog_tag3=naver",
+     "t": "2026-11-26T01:41:00+09:00",
+     "by": "seoul.co.kr"
+    },
+    {
+     "title": "美, 한국산에 301조 관세 합산 15% 제안…김정관 “최종 15% 유지하면 선...",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=01118486645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-26T01:12:00+09:00",
+     "by": "edaily.co.kr"
+    },
+    {
+     "title": "김정관, 초광역특구법 R&D 인력 52시간 근무 예외 필요 재차 강조…“초...",
+     "link": "https://www.viva100.com/article/20261125501389",
+     "t": "2026-11-25T18:54:00+09:00",
+     "by": "viva100.com"
     }
    ]
   }

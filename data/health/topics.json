@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-25T19:10:56.286652+09:00",
+ "updated": "2026-11-25T20:10:45.214209+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 31,
+   "count": 30,
    "angles": [
     "효능",
     "에 좋은",
@@ -126,54 +126,21 @@
    ]
   },
   {
-   "name": "수면",
-   "kind": "운동·생활",
-   "count": 12,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "\"많이 자면 건강 에 좋다더니\"…심장병 환자 9시간 수면의 반전 [매일비...",
-     "link": "https://www.imaeil.com/page/view/2026112510543387331",
-     "t": "2026-11-25T11:29:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "송년회 후 멍하고 피곤하다면 '간·위장·수면' 건강 살펴야",
-     "link": "https://www.rapportian.com/news/articleView.html?idxno=242850",
-     "t": "2026-11-25T10:40:00+09:00",
-     "by": "rapportian.com"
-    },
-    {
-     "title": "“심심해서 잠들기 전 스마트폰”… 수면 부족과 지루함 부르는 악순환",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/25/2026112501127.html",
-     "t": "2026-11-25T10:37:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "통증 부담 줄이는 '수면 고주파 리프팅', 원리부터 주의사항까지",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70516",
-     "t": "2026-11-25T10:32:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "송년회 회식 후 멍하고 피곤하다면…간·위·수면 건강 살펴야",
-     "link": "https://www.pharmnews.com/news/articleView.html?idxno=308302",
-     "t": "2026-11-25T10:12:00+09:00",
-     "by": "pharmnews.com"
-    }
-   ]
-  },
-  {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 12,
+   "count": 13,
    "angles": [
     "에 좋은",
-    "부작용"
+    "부작용",
+    "먹는 법"
    ],
    "items": [
+    {
+     "title": "커피 하루 2~3잔 마신 사람, 치매 위험 낮았다… 디카페인은?",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70434",
+     "t": "2026-11-25T20:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
     {
      "title": "[조찬호의 줄기세포 & 안티에이징] 뱃살 줄이고 혈당 관리 하면 치매 위...",
      "link": "https://www.sportsworldi.com/newsView/20261125515396",
@@ -197,12 +164,6 @@
      "link": "https://www.newsis.com/view/NISX20261124_0003881793",
      "t": "2026-11-24T22:25:00+09:00",
      "by": "newsis.com"
-    },
-    {
-     "title": "강서구, 25일 통합청사 본관 1층에서 '밀착돌봄 치매 실종예방 캠페인'...",
-     "link": "https://www.cnbizm.com/news/articleView.html?idxno=322538",
-     "t": "2026-11-24T21:10:00+09:00",
-     "by": "cnbizm.com"
     }
    ]
   },
@@ -250,13 +211,19 @@
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 10,
+   "count": 11,
    "angles": [
     "먹는 법",
     "부작용",
     "에 좋은"
    ],
    "items": [
+    {
+     "title": "“매일 두 알씩 먹고 14kg 감량”… 의사가 꼽은 ‘최고의 다이어트 음...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/25/2026112502774.html",
+     "t": "2026-11-25T20:01:00+09:00",
+     "by": "health.chosun.com"
+    },
     {
      "title": "화장품 파우치도 다이어트… 중국 뷰티시장에 부는 ‘미니멀 뷰티’ 바...",
      "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=245353",
@@ -280,53 +247,46 @@
      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=68407",
      "t": "2026-11-25T10:54:00+09:00",
      "by": "newsroad.co.kr"
-    },
-    {
-     "title": "'몸신의 탄생', 같은 칼로리 먹어도 더 많이 태우는 다이어트 비법 공개",
-     "link": "https://www.etoday.co.kr/news/view/2652433",
-     "t": "2026-11-24T17:30:00+09:00",
-     "by": "etoday.co.kr"
     }
    ]
   },
   {
-   "name": "당뇨",
-   "kind": "질환·증상",
-   "count": 9,
+   "name": "수면",
+   "kind": "운동·생활",
+   "count": 11,
    "angles": [
-    "부작용",
-    "효능"
+    "부작용"
    ],
    "items": [
     {
-     "title": "TV 보는 습관이 당뇨 위험 키운다?… '신장 기능'에도 적신호",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70522",
-     "t": "2026-11-25T09:00:00+09:00",
+     "title": "\"많이 자면 건강 에 좋다더니\"…심장병 환자 9시간 수면의 반전 [매일비...",
+     "link": "https://www.imaeil.com/page/view/2026112510543387331",
+     "t": "2026-11-25T11:29:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "송년회 후 멍하고 피곤하다면 '간·위장·수면' 건강 살펴야",
+     "link": "https://www.rapportian.com/news/articleView.html?idxno=242850",
+     "t": "2026-11-25T10:40:00+09:00",
+     "by": "rapportian.com"
+    },
+    {
+     "title": "“심심해서 잠들기 전 스마트폰”… 수면 부족과 지루함 부르는 악순환",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/25/2026112501127.html",
+     "t": "2026-11-25T10:37:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "통증 부담 줄이는 '수면 고주파 리프팅', 원리부터 주의사항까지",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70516",
+     "t": "2026-11-25T10:32:00+09:00",
      "by": "hidoc.co.kr"
     },
     {
-     "title": "노인들 고혈압·당뇨 폰 측정 쉽지 않은데…새 사업 띄우려 19년 된 지원...",
-     "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232660",
-     "t": "2026-11-24T20:05:00+09:00",
-     "by": "mbn.co.kr"
-    },
-    {
-     "title": "당뇨 없어도 혈당 관리 했더니… 자연스럽게 생기는 건강 효과 5가지",
-     "link": "https://kormedi.com/?p=2911636",
-     "t": "2026-11-24T19:02:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "‘단’ 한 잔의 함정… 서구화된 식습관, 젊은 세대 위협하는 ‘당뇨’",
-     "link": "https://www.kyeongin.com/article/1775320",
-     "t": "2026-11-24T19:02:00+09:00",
-     "by": "kyeongin.com"
-    },
-    {
-     "title": "몸집 키우는 '마운자로'…심혈관에 소아 당뇨 적응증 확장",
-     "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1172113&ref=naverpc",
-     "t": "2026-11-24T17:16:00+09:00",
-     "by": "medicaltimes.com"
+     "title": "송년회 회식 후 멍하고 피곤하다면…간·위·수면 건강 살펴야",
+     "link": "https://www.pharmnews.com/news/articleView.html?idxno=308302",
+     "t": "2026-11-25T10:12:00+09:00",
+     "by": "pharmnews.com"
     }
    ]
   },
@@ -407,6 +367,46 @@
      "link": "https://www.monews.co.kr/news/articleView.html?idxno=415770",
      "t": "2026-11-25T09:12:00+09:00",
      "by": "monews.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "당뇨",
+   "kind": "질환·증상",
+   "count": 8,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "노인들 고혈압·당뇨 폰 측정 쉽지 않은데…새 사업 띄우려 19년 된 지원...",
+     "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232660",
+     "t": "2026-11-24T20:05:00+09:00",
+     "by": "mbn.co.kr"
+    },
+    {
+     "title": "당뇨 없어도 혈당 관리 했더니… 자연스럽게 생기는 건강 효과 5가지",
+     "link": "https://kormedi.com/?p=2911636",
+     "t": "2026-11-24T19:02:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "‘단’ 한 잔의 함정… 서구화된 식습관, 젊은 세대 위협하는 ‘당뇨’",
+     "link": "https://www.kyeongin.com/article/1775320",
+     "t": "2026-11-24T19:02:00+09:00",
+     "by": "kyeongin.com"
+    },
+    {
+     "title": "몸집 키우는 '마운자로'…심혈관에 소아 당뇨 적응증 확장",
+     "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1172113&ref=naverpc",
+     "t": "2026-11-24T17:16:00+09:00",
+     "by": "medicaltimes.com"
+    },
+    {
+     "title": "당뇨 남편과 같은 음식 먹었더니…살 빠지고 혈관 좋아진 이유?",
+     "link": "https://kormedi.com/?p=2910666",
+     "t": "2026-11-23T19:02:00+09:00",
+     "by": "kormedi.com"
     }
    ]
   },
@@ -888,6 +888,36 @@
    ]
   },
   {
+   "name": "커피",
+   "kind": "식품·제철",
+   "count": 3,
+   "angles": [
+    "먹는 법",
+    "부작용",
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "커피 하루 2~3잔 마신 사람, 치매 위험 낮았다… 디카페인은?",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70434",
+     "t": "2026-11-25T20:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "커피 물처럼 마시면 화장실 자주 가는 이유",
+     "link": "https://www.elle.co.kr/article/1913591",
+     "t": "2026-11-24T17:58:00+09:00",
+     "by": "elle.co.kr"
+    },
+    {
+     "title": "커피 두세 잔으로 뇌졸중 막는 효과… 디카페인은 많이 마시면 되레 위...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/23/2026112301104.html",
+     "t": "2026-11-23T11:14:00+09:00",
+     "by": "health.chosun.com"
+    }
+   ]
+  },
+  {
    "name": "코로나",
    "kind": "질환·증상",
    "count": 3,
@@ -995,26 +1025,6 @@
      "link": "https://www.mk.co.kr/article/12218060",
      "t": "2026-11-25T14:29:00+09:00",
      "by": "mk.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "수족냉증",
-   "kind": "질환·증상",
-   "count": 2,
-   "angles": [],
-   "items": [
-    {
-     "title": "\"강추위에 손발 꽁꽁\"…수족냉증 아닌 '이 질환 '?",
-     "link": "https://www.newsis.com/view/NISX20261125_0003882250",
-     "t": "2026-11-25T09:55:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "[요즘, 건강] 겨울만 되면 손발 꽁꽁…수족냉증 관리법은",
-     "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886659",
-     "t": "2026-11-24T16:28:00+09:00",
-     "by": "hansbiz.co.kr"
     }
    ]
   }

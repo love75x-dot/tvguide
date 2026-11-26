@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:55:07.817435+09:00",
+ "updated": "2026-11-26T14:08:24.806852+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -46,7 +46,7 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 24,
+   "count": 23,
    "angles": [
     "에 좋은",
     "부작용"
@@ -87,7 +87,7 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 15,
+   "count": 14,
    "angles": [
     "에 좋은",
     "부작용"
@@ -122,48 +122,6 @@
      "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=99157",
      "t": "2026-11-26T09:28:00+09:00",
      "by": "kmedinfo.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "치매",
-   "kind": "질환·증상",
-   "count": 14,
-   "angles": [
-    "에 좋은",
-    "부작용",
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "[1분정보]하루 1,500ml 물 섭취 치매 예방 에 도움!",
-     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51753",
-     "t": "2026-11-26T08:00:00+09:00",
-     "by": "ikunkang.com"
-    },
-    {
-     "title": "커피 하루 2~3잔 마신 사람, 치매 위험 낮았다… 디카페인은?",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70434",
-     "t": "2026-11-25T20:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "[조찬호의 줄기세포 & 안티에이징] 뱃살 줄이고 혈당 관리 하면 치매 위...",
-     "link": "https://www.sportsworldi.com/newsView/20261125515396",
-     "t": "2026-11-25T16:46:00+09:00",
-     "by": "sportsworldi.com"
-    },
-    {
-     "title": "ADHD, 치매·조기 사망과 연관 있을까?… 유전적 요인과 건강 위험 살펴...",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70558",
-     "t": "2026-11-25T16:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "“저지방으로 골라먹었는데…” 고지방 치즈 즐겨 먹는 사람, 치매 위험...",
-     "link": "https://lady.khan.co.kr/khlady.html?mode=view&artid=202611251506001&code=14",
-     "t": "2026-11-25T15:07:00+09:00",
-     "by": "lady.khan.co.kr"
     }
    ]
   },
@@ -251,9 +209,51 @@
    ]
   },
   {
-   "name": "혈압",
+   "name": "치매",
    "kind": "질환·증상",
    "count": 13,
+   "angles": [
+    "에 좋은",
+    "부작용",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "[1분정보]하루 1,500ml 물 섭취 치매 예방 에 도움!",
+     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51753",
+     "t": "2026-11-26T08:00:00+09:00",
+     "by": "ikunkang.com"
+    },
+    {
+     "title": "커피 하루 2~3잔 마신 사람, 치매 위험 낮았다… 디카페인은?",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70434",
+     "t": "2026-11-25T20:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "[조찬호의 줄기세포 & 안티에이징] 뱃살 줄이고 혈당 관리 하면 치매 위...",
+     "link": "https://www.sportsworldi.com/newsView/20261125515396",
+     "t": "2026-11-25T16:46:00+09:00",
+     "by": "sportsworldi.com"
+    },
+    {
+     "title": "ADHD, 치매·조기 사망과 연관 있을까?… 유전적 요인과 건강 위험 살펴...",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70558",
+     "t": "2026-11-25T16:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "“저지방으로 골라먹었는데…” 고지방 치즈 즐겨 먹는 사람, 치매 위험...",
+     "link": "https://lady.khan.co.kr/khlady.html?mode=view&artid=202611251506001&code=14",
+     "t": "2026-11-25T15:07:00+09:00",
+     "by": "lady.khan.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "혈압",
+   "kind": "질환·증상",
+   "count": 12,
    "angles": [
     "에 좋은",
     "부작용"
@@ -413,6 +413,47 @@
    ]
   },
   {
+   "name": "지방간",
+   "kind": "질환·증상",
+   "count": 7,
+   "angles": [
+    "부작용",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "노년층 지방간에 음주까지 더해지면 심방세동 위험 높아",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=03181606645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-26T14:08:00+09:00",
+     "by": "edaily.co.kr"
+    },
+    {
+     "title": "같은 노년기 지방간이라도 '술'이 갈랐다… 심방세동 위험 27% ↑",
+     "link": "https://www.hankookilbo.com/news/article/A2026112610050002763?did=NA",
+     "t": "2026-11-26T11:31:00+09:00",
+     "by": "hankookilbo.com"
+    },
+    {
+     "title": "지방간 있는 노년층, 술 마시면 심방세동 위험까지 '껑충'",
+     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34138",
+     "t": "2026-11-26T11:22:00+09:00",
+     "by": "jhealthmedia.joins.com"
+    },
+    {
+     "title": "음주 동반 대사성 지방간, 노년기 심방세동 위험 높아",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3017426",
+     "t": "2026-11-26T11:10:00+09:00",
+     "by": "bosa.co.kr"
+    },
+    {
+     "title": "노인 대사성 지방간 환자, 술도 마시면 심방세동 위험 껑충",
+     "link": "https://www.monews.co.kr/news/articleView.html?idxno=415811",
+     "t": "2026-11-26T10:12:00+09:00",
+     "by": "monews.co.kr"
+    }
+   ]
+  },
+  {
    "name": "관절염",
    "kind": "질환·증상",
    "count": 6,
@@ -534,81 +575,43 @@
    ]
   },
   {
-   "name": "지방간",
-   "kind": "질환·증상",
-   "count": 6,
+   "name": "우유",
+   "kind": "식품·제철",
+   "count": 5,
    "angles": [
-    "부작용",
-    "먹는 법"
+    "먹는 법",
+    "에 좋은"
    ],
    "items": [
     {
-     "title": "같은 노년기 지방간이라도 '술'이 갈랐다… 심방세동 위험 27% ↑",
-     "link": "https://www.hankookilbo.com/news/article/A2026112610050002763?did=NA",
-     "t": "2026-11-26T11:31:00+09:00",
-     "by": "hankookilbo.com"
+     "title": "한국인 칼슘 섭취 부족…우유 한 잔에 담긴 영양소는",
+     "link": "https://www.hankyung.com/article/202611262139O",
+     "t": "2026-11-26T14:05:00+09:00",
+     "by": "hankyung.com"
     },
     {
-     "title": "지방간 있는 노년층, 술 마시면 심방세동 위험까지 '껑충'",
-     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34138",
-     "t": "2026-11-26T11:22:00+09:00",
-     "by": "jhealthmedia.joins.com"
+     "title": "국민 10명 중 7명 칼슘 섭취 부족…우유·유제품 통한 영양 보충 주목",
+     "link": "https://economist.co.kr/article/view/ecn202611260037",
+     "t": "2026-11-26T13:53:00+09:00",
+     "by": "economist.co.kr"
     },
     {
-     "title": "음주 동반 대사성 지방간, 노년기 심방세동 위험 높아",
-     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3017426",
-     "t": "2026-11-26T11:10:00+09:00",
-     "by": "bosa.co.kr"
+     "title": "국민 70.9% 칼슘 섭취 부족…매일 우유 한 잔으로 영양 보충",
+     "link": "https://www.thebilliards.kr/news/articleView.html?idxno=32588",
+     "t": "2026-11-26T12:02:00+09:00",
+     "by": "thebilliards.kr"
     },
     {
-     "title": "노인 대사성 지방간 환자, 술도 마시면 심방세동 위험 껑충",
-     "link": "https://www.monews.co.kr/news/articleView.html?idxno=415811",
-     "t": "2026-11-26T10:12:00+09:00",
-     "by": "monews.co.kr"
+     "title": "국민 10명 중 7명 칼슘 섭취 부족… 겨울철 우유 한 잔 챙겨야",
+     "link": "https://www.etoday.co.kr/news/view/2653281",
+     "t": "2026-11-26T10:24:00+09:00",
+     "by": "etoday.co.kr"
     },
     {
-     "title": "노년기 지방간에 음주까지…심방세동 발생 위험 증가",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=422711",
-     "t": "2026-11-26T09:34:00+09:00",
-     "by": "medipana.com"
-    }
-   ]
-  },
-  {
-   "name": "유산균",
-   "kind": "영양제",
-   "count": 5,
-   "angles": [],
-   "items": [
-    {
-     "title": "\"먹는 유산균을 피부에 바른다면\"…hy '아이오셀' 뷰티 시장 진출 [체험...",
-     "link": "https://www.newspost.kr/news/articleView.html?idxno=227781",
-     "t": "2026-11-26T09:56:00+09:00",
-     "by": "newspost.kr"
-    },
-    {
-     "title": "\"연말 회식에 여행까지\"... 피곤한 장(腸), '유산균 사균체'로 챙겨볼까",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70561",
-     "t": "2026-11-25T17:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "센트룸, '플러스+' 4종→대상웰라이프, '것시스' 유산균 출시",
-     "link": "https://www.slist.kr/news/articleView.html?idxno=784651",
-     "t": "2026-11-25T11:04:00+09:00",
-     "by": "slist.kr"
-    },
-    {
-     "title": "서울우유, 어린이 유산균 음료 '츄츄' 2종 출시…동남아 시장 공략",
-     "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=72073",
-     "t": "2026-11-24T23:24:00+09:00",
-     "by": "youngnong.co.kr"
-    },
-    {
-     "title": "팜스빌, 김치 유래 항비만 유산균 개발.. 중기부 장관상 수상",
-     "link": "https://www.mt.co.kr/industry/2026/11/23/2026112313285113133",
-     "t": "2026-11-23T13:57:00+09:00",
-     "by": "mt.co.kr"
+     "title": "“우유 대신 넣어주세요”…의외로 혈당 높이는 ‘이 선택’",
+     "link": "https://www.nongmin.com/article/20261123500071",
+     "t": "2026-11-26T07:30:00+09:00",
+     "by": "nongmin.com"
     }
    ]
   },
@@ -694,40 +697,6 @@
    ]
   },
   {
-   "name": "김치",
-   "kind": "식품·제철",
-   "count": 4,
-   "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "뉴욕서 '글로벌 김치 비전' 선포…발효과학·제조혁신 강화",
-     "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=72154",
-     "t": "2026-11-25T22:00:00+09:00",
-     "by": "youngnong.co.kr"
-    },
-    {
-     "title": "농식품부, 뉴욕에서 '글로벌 김치 비전 선포식'",
-     "link": "http://www.worldkorean.net/news/articleView.html?idxno=58281",
-     "t": "2026-11-23T15:22:00+09:00",
-     "by": "worldkorean.net"
-    },
-    {
-     "title": "[채수완의 ‘100세 건강 식탁’] (11) 김치의 효과",
-     "link": "https://cooknchefnews.com/news/view/1065588297840387",
-     "t": "2026-11-23T15:16:00+09:00",
-     "by": "cooknchefnews.com"
-    },
-    {
-     "title": "팜스빌, 김치 유래 항비만 유산균 개발.. 중기부 장관상 수상",
-     "link": "https://www.mt.co.kr/industry/2026/11/23/2026112313285113133",
-     "t": "2026-11-23T13:57:00+09:00",
-     "by": "mt.co.kr"
-    }
-   ]
-  },
-  {
    "name": "대장암",
    "kind": "질환·증상",
    "count": 4,
@@ -798,41 +767,6 @@
    ]
   },
   {
-   "name": "우유",
-   "kind": "식품·제철",
-   "count": 4,
-   "angles": [
-    "먹는 법",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "국민 10명 중 7명 칼슘 섭취 부족…우유·유제품 통한 영양 보충 주목",
-     "link": "https://economist.co.kr/article/view/ecn202611260037",
-     "t": "2026-11-26T13:53:00+09:00",
-     "by": "economist.co.kr"
-    },
-    {
-     "title": "국민 70.9% 칼슘 섭취 부족…매일 우유 한 잔으로 영양 보충",
-     "link": "https://www.thebilliards.kr/news/articleView.html?idxno=32588",
-     "t": "2026-11-26T12:02:00+09:00",
-     "by": "thebilliards.kr"
-    },
-    {
-     "title": "국민 10명 중 7명 칼슘 섭취 부족… 겨울철 우유 한 잔 챙겨야",
-     "link": "https://www.etoday.co.kr/news/view/2653281",
-     "t": "2026-11-26T10:24:00+09:00",
-     "by": "etoday.co.kr"
-    },
-    {
-     "title": "“우유 대신 넣어주세요”…의외로 혈당 높이는 ‘이 선택’",
-     "link": "https://www.nongmin.com/article/20261123500071",
-     "t": "2026-11-26T07:30:00+09:00",
-     "by": "nongmin.com"
-    }
-   ]
-  },
-  {
    "name": "위암",
    "kind": "질환·증상",
    "count": 4,
@@ -864,6 +798,100 @@
      "link": "https://news.knn.co.kr/news/article/194861",
      "t": "2026-11-24T10:34:00+09:00",
      "by": "knn.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "유산균",
+   "kind": "영양제",
+   "count": 4,
+   "angles": [],
+   "items": [
+    {
+     "title": "\"먹는 유산균을 피부에 바른다면\"…hy '아이오셀' 뷰티 시장 진출 [체험...",
+     "link": "https://www.newspost.kr/news/articleView.html?idxno=227781",
+     "t": "2026-11-26T09:56:00+09:00",
+     "by": "newspost.kr"
+    },
+    {
+     "title": "\"연말 회식에 여행까지\"... 피곤한 장(腸), '유산균 사균체'로 챙겨볼까",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70561",
+     "t": "2026-11-25T17:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "센트룸, '플러스+' 4종→대상웰라이프, '것시스' 유산균 출시",
+     "link": "https://www.slist.kr/news/articleView.html?idxno=784651",
+     "t": "2026-11-25T11:04:00+09:00",
+     "by": "slist.kr"
+    },
+    {
+     "title": "서울우유, 어린이 유산균 음료 '츄츄' 2종 출시…동남아 시장 공략",
+     "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=72073",
+     "t": "2026-11-24T23:24:00+09:00",
+     "by": "youngnong.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "칼슘",
+   "kind": "영양제",
+   "count": 4,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "한국인 칼슘 섭취 부족…우유 한 잔에 담긴 영양소는",
+     "link": "https://www.hankyung.com/article/202611262139O",
+     "t": "2026-11-26T14:05:00+09:00",
+     "by": "hankyung.com"
+    },
+    {
+     "title": "국민 10명 중 7명 칼슘 섭취 부족…우유·유제품 통한 영양 보충 주목",
+     "link": "https://economist.co.kr/article/view/ecn202611260037",
+     "t": "2026-11-26T13:53:00+09:00",
+     "by": "economist.co.kr"
+    },
+    {
+     "title": "국민 70.9% 칼슘 섭취 부족…매일 우유 한 잔으로 영양 보충",
+     "link": "https://www.thebilliards.kr/news/articleView.html?idxno=32588",
+     "t": "2026-11-26T12:02:00+09:00",
+     "by": "thebilliards.kr"
+    },
+    {
+     "title": "국민 10명 중 7명 칼슘 섭취 부족… 겨울철 우유 한 잔 챙겨야",
+     "link": "https://www.etoday.co.kr/news/view/2653281",
+     "t": "2026-11-26T10:24:00+09:00",
+     "by": "etoday.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "김치",
+   "kind": "식품·제철",
+   "count": 3,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "뉴욕서 '글로벌 김치 비전' 선포…발효과학·제조혁신 강화",
+     "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=72154",
+     "t": "2026-11-25T22:00:00+09:00",
+     "by": "youngnong.co.kr"
+    },
+    {
+     "title": "농식품부, 뉴욕에서 '글로벌 김치 비전 선포식'",
+     "link": "http://www.worldkorean.net/news/articleView.html?idxno=58281",
+     "t": "2026-11-23T15:22:00+09:00",
+     "by": "worldkorean.net"
+    },
+    {
+     "title": "[채수완의 ‘100세 건강 식탁’] (11) 김치의 효과",
+     "link": "https://cooknchefnews.com/news/view/1065588297840387",
+     "t": "2026-11-23T15:16:00+09:00",
+     "by": "cooknchefnews.com"
     }
    ]
   },
@@ -920,6 +948,34 @@
      "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=95734",
      "t": "2026-11-23T15:44:00+09:00",
      "by": "mediafine.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "불면증",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "[의학칼럼] 불면증 치료, '페이스 메이커'가 필요하다",
+     "link": "https://www.news1.kr/local/moi/6367097",
+     "t": "2026-11-26T14:02:00+09:00",
+     "by": "news1.kr"
+    },
+    {
+     "title": "앱으로 불면증 관리? 수면시간 연장 효과, 6~12분에 그쳐",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/26/2026112601874.html",
+     "t": "2026-11-26T13:45:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "겨울철 지독한 불면증, 혹시 '수면무호흡증' 동반?",
+     "link": "https://www.sportschosun.com/life/2026-11-26/202611260100165520015256",
+     "t": "2026-11-26T12:04:00+09:00",
+     "by": "sportschosun.com"
     }
    ]
   },
@@ -1007,34 +1063,6 @@
    ]
   },
   {
-   "name": "칼슘",
-   "kind": "영양제",
-   "count": 3,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "국민 10명 중 7명 칼슘 섭취 부족…우유·유제품 통한 영양 보충 주목",
-     "link": "https://economist.co.kr/article/view/ecn202611260037",
-     "t": "2026-11-26T13:53:00+09:00",
-     "by": "economist.co.kr"
-    },
-    {
-     "title": "국민 70.9% 칼슘 섭취 부족…매일 우유 한 잔으로 영양 보충",
-     "link": "https://www.thebilliards.kr/news/articleView.html?idxno=32588",
-     "t": "2026-11-26T12:02:00+09:00",
-     "by": "thebilliards.kr"
-    },
-    {
-     "title": "국민 10명 중 7명 칼슘 섭취 부족… 겨울철 우유 한 잔 챙겨야",
-     "link": "https://www.etoday.co.kr/news/view/2653281",
-     "t": "2026-11-26T10:24:00+09:00",
-     "by": "etoday.co.kr"
-    }
-   ]
-  },
-  {
    "name": "커피",
    "kind": "식품·제철",
    "count": 3,
@@ -1060,35 +1088,6 @@
      "link": "https://www.elle.co.kr/article/1913591",
      "t": "2026-11-24T17:58:00+09:00",
      "by": "elle.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "남원시보건소, 고위험군에 독감·코로나19 접종 권장…독감 입원 3주 새...",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3763302",
-     "t": "2026-11-25T22:34:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "인플루엔자 71%·코로나19는 34%… 고령층 백신 격차 줄일 ' 예방 접종관리...",
-     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=81070",
-     "t": "2026-11-25T17:32:00+09:00",
-     "by": "mkhealth.co.kr"
-    },
-    {
-     "title": "“코에 걸면 코로나 예방”…마스크 제조 업체 대표, 2심도 벌금 2000만...",
-     "link": "https://www.segye.com/newsView/20261125508760?OutUrl=naver",
-     "t": "2026-11-25T12:19:00+09:00",
-     "by": "segye.com"
     }
    ]
   }

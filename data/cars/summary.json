@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-26T09:08:31.307056+09:00",
+ "updated": "2026-11-26T10:13:36.487490+09:00",
  "hot": [
   {
    "name": "렉스턴",
    "count": 28,
    "prev": 2,
-   "rise": 22,
+   "rise": null,
    "moto": false,
    "why": [
     "출시",
@@ -13,10 +13,21 @@
    ]
   },
   {
+   "name": "아이오닉 3",
+   "count": 11,
+   "prev": 0,
+   "rise": null,
+   "moto": false,
+   "why": [
+    "판매 1위",
+    "출시"
+   ]
+  },
+  {
    "name": "GLC",
    "count": 8,
    "prev": 0,
-   "rise": -42,
+   "rise": null,
    "moto": false,
    "why": []
   },
@@ -24,15 +35,7 @@
    "name": "아반떼",
    "count": 5,
    "prev": 27,
-   "rise": -27,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "아이오닉 3",
-   "count": 4,
-   "prev": 0,
-   "rise": 0,
+   "rise": null,
    "moto": false,
    "why": []
   },
@@ -40,26 +43,34 @@
    "name": "GV90",
    "count": 4,
    "prev": 1,
-   "rise": -17,
+   "rise": null,
    "moto": false,
    "why": []
   },
   {
    "name": "그랜저",
-   "count": 2,
+   "count": 3,
    "prev": 0,
-   "rise": 3,
+   "rise": null,
    "moto": false,
    "why": [
-    "중고차 시세",
-    "판매 1위"
+    "판매 1위",
+    "중고차 시세"
    ]
+  },
+  {
+   "name": "PV5",
+   "count": 2,
+   "prev": 1,
+   "rise": null,
+   "moto": false,
+   "why": []
   },
   {
    "name": "싼타페",
    "count": 2,
    "prev": 0,
-   "rise": -29,
+   "rise": null,
    "moto": false,
    "why": []
   },
@@ -67,7 +78,7 @@
    "name": "쏘렌토",
    "count": 2,
    "prev": 0,
-   "rise": -28,
+   "rise": null,
    "moto": false,
    "why": []
   },
@@ -75,20 +86,9 @@
    "name": "쏘나타",
    "count": 2,
    "prev": 0,
-   "rise": -31,
+   "rise": null,
    "moto": false,
    "why": []
-  },
-  {
-   "name": "코나",
-   "count": 2,
-   "prev": 0,
-   "rise": -32,
-   "moto": false,
-   "why": [
-    "리콜",
-    "출시"
-   ]
   }
  ],
  "calendar": [
@@ -106,6 +106,14 @@
    "date": "2026-11-23",
    "title": "“듀얼 머플러에 검은 휠” 차세대 코나 N 라인 첫 포착, 출시 는?",
    "link": "https://thedrive.co.kr/news/newsview.php?ncode=1065595001521485",
+   "moto": false
+  },
+  {
+   "name": "아이오닉 3",
+   "status": "out",
+   "date": "2026-11-26",
+   "title": "현대 차 아이오닉 3, 유럽 출시 하자마자 일냈다…英 톱기어 '올해의 소형...",
+   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718279",
    "moto": false
   },
   {

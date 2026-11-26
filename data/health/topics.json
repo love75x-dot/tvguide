@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:08:39.399619+09:00",
+ "updated": "2026-11-26T22:08:37.708099+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -87,13 +87,19 @@
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 14,
+   "count": 15,
    "angles": [
     "부작용",
     "에 좋은",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "치매·파킨슨병 4개 코호트 6년…‘한국인 뇌 질환 ’ 실마리 풀려",
+     "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978678",
+     "t": "2026-11-26T21:10:00+09:00",
+     "by": "medicalworldnews.co.kr"
+    },
     {
      "title": "3분 읽고 하나 기억하고 하나 실천…치매 늦추는 '311' 운동 함께 해요",
      "link": "https://www.k-health.com/news/articleView.html?idxno=102482",
@@ -117,12 +123,6 @@
      "link": "https://www.news1.kr/bio/welfare-medical/6367188",
      "t": "2026-11-26T14:45:00+09:00",
      "by": "news1.kr"
-    },
-    {
-     "title": "커피 하루 2~3잔 마신 사람, 치매 위험 낮았다… 디카페인은?",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70434",
-     "t": "2026-11-25T20:00:00+09:00",
-     "by": "hidoc.co.kr"
     }
    ]
   },
@@ -990,6 +990,28 @@
    ]
   },
   {
+   "name": "김치",
+   "kind": "식품·제철",
+   "count": 2,
+   "angles": [
+    "효능"
+   ],
+   "items": [
+    {
+     "title": "농수산식품유통공사(aT), 중국 선전 APEC 홍보전·모스크바 김치 페스티...",
+     "link": "https://www.cstimes.com/news/articleView.html?idxno=729648",
+     "t": "2026-11-26T21:10:00+09:00",
+     "by": "cstimes.com"
+    },
+    {
+     "title": "뉴욕서 '글로벌 김치 비전' 선포…발효과학·제조혁신 강화",
+     "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=72154",
+     "t": "2026-11-25T22:00:00+09:00",
+     "by": "youngnong.co.kr"
+    }
+   ]
+  },
+  {
    "name": "노로바이러스",
    "kind": "질환·증상",
    "count": 2,
@@ -1008,28 +1030,6 @@
      "link": "https://www.wikitree.co.kr/articles/1177648",
      "t": "2026-11-25T12:42:00+09:00",
      "by": "wikitree.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "대상포진",
-   "kind": "질환·증상",
-   "count": 2,
-   "angles": [
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "진안군, 12월부터 대상포진 예방 접종 ‘생백신?사백신’ 선택접종 시행",
-     "link": "https://sjbnews.com/news/news.php?number=893448",
-     "t": "2026-11-24T19:14:00+09:00",
-     "by": "sjbnews.com"
-    },
-    {
-     "title": "진안군 보건소, 대상포진 예방 접종에 '사백신' 도입",
-     "link": "https://www.news1.kr/local/jeonbuk/6364373",
-     "t": "2026-11-24T15:04:00+09:00",
-     "by": "news1.kr"
     }
    ]
   }

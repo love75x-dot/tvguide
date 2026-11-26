@@ -1,7 +1,644 @@
 {
  "date": "2026-11-26",
- "updated": "2026-11-26T12:08:26.770939+09:00",
+ "updated": "2026-11-26T13:08:28.928475+09:00",
  "articles": [
+  {
+   "title": "SK인텔릭스 '나무엑스 A1', AI 국제표준 우수사례 선정…로봇 품질 경쟁...",
+   "link": "https://www.job-post.co.kr/news/articleView.html?idxno=241148",
+   "t": "2026-11-26T13:08:00+09:00",
+   "by": "job-post.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "美, 호남 반도체 '과잉생산' 지목… 韓 관세 15% 제안·협의 미흡 땐 25%",
+   "link": "https://www.thepublic.kr/news/articleView.html?idxno=328552",
+   "t": "2026-11-26T13:08:00+09:00",
+   "by": "thepublic.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "‘모두의 AI’에 공공 AX 성과물 연계…외부 개방 추진·독파모 평가 손...",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02968406645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "t": "2026-11-26T13:08:00+09:00",
+   "by": "edaily.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "빗썸 해킹 추가피해, 한투저축은행도 유출",
+   "link": "https://www.naeil.com/news/read/610206?ref=naver",
+   "t": "2026-11-26T13:06:00+09:00",
+   "by": "naeil.com",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[진단_저축은행 ⑧예가람저축은행] 대출 외형 성장에 가려진 수익성 한...",
+   "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=516376",
+   "t": "2026-11-26T13:06:00+09:00",
+   "by": "newsworker.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "美 \"호남 반도체 클러스터도 과잉생산...관세 최대 15%\"",
+   "link": "https://www.thepublic.kr/news/articleView.html?idxno=328586",
+   "t": "2026-11-26T13:06:00+09:00",
+   "by": "thepublic.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "넥슨, '아주르 프로밀리아'·'템빨' 동시 출격",
+   "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=366652",
+   "t": "2026-11-26T13:04:00+09:00",
+   "by": "smedaily.co.kr",
+   "tags": [
+    "스마트폰",
+    "게임"
+   ]
+  },
+  {
+   "title": "한화에어로·항우연, ‘재사용 발사체’ 개발 본격화",
+   "link": "https://www.sedaily.com/article/20119297?ref=naver",
+   "t": "2026-11-26T13:04:00+09:00",
+   "by": "sedaily.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "애플 \"공정위 판단 동의하지 않는다···성실히 소명할 것\"",
+   "link": "https://www.seoulfn.com/news/articleView.html?idxno=644019",
+   "t": "2026-11-26T13:03:00+09:00",
+   "by": "seoulfn.com",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "AI 영상 플랫폼 숨 AI , 출시 한 달 만에 누적결제 10억 돌파",
+   "link": "https://www.sedaily.com/article/20119294?ref=naver",
+   "t": "2026-11-26T13:03:00+09:00",
+   "by": "sedaily.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "[게임] 엔씨, 리니지M 기사·마법사 클래스 개편…넷마블, 일곱 개의 대...",
+   "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2392321",
+   "t": "2026-11-26T13:02:00+09:00",
+   "by": "webeconomy.co.kr",
+   "tags": [
+    "스마트폰",
+    "게임"
+   ]
+  },
+  {
+   "title": "LS일렉트릭, 100분기 연속 흑자…3분기 영업익 132% 급증",
+   "link": "https://www.sedaily.com/article/20119291?ref=naver",
+   "t": "2026-11-26T13:02:00+09:00",
+   "by": "sedaily.com",
+   "tags": [
+    "AI·앱",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "BNP “내년 중반 메모리 가격 하락”…마이크론 목표가 54% 하향",
+   "link": "https://www.sedaily.com/article/20119290?ref=naver",
+   "t": "2026-11-26T13:02:00+09:00",
+   "by": "sedaily.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "한우 출하성적부터 수익까지 한눈에 본다…‘한우비서’ 출시",
+   "link": "https://www.naeil.com/news/read/610135?ref=naver",
+   "t": "2026-11-26T13:02:00+09:00",
+   "by": "naeil.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "LG유플러스, 전국 시내버스 3만대 와이파이 7로 교체",
+   "link": "https://www.polinews.co.kr/news/articleView.html?idxno=749297",
+   "t": "2026-11-26T13:02:00+09:00",
+   "by": "polinews.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "제주 특수교육 조례 11년 만에 전면 손질…강영아 의원, 교육권 보장 강...",
+   "link": "https://www.gukjenews.com/news/articleView.html?idxno=3763875",
+   "t": "2026-11-26T13:02:00+09:00",
+   "by": "gukjenews.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "엠게임 '귀혼키우기' 초반 성적은?",
+   "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=408237",
+   "t": "2026-11-26T13:02:00+09:00",
+   "by": "tgdaily.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[르포] 中 로봇에 ‘젠슨 황 복귀’ 묻자 “ AI 발전할 것”… 샤오펑 AI ...",
+   "link": "https://biz.chosun.com/international/international_general/2026/11/26/5GP7M3KGYZHHVIY3EXMXILD5TE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "t": "2026-11-26T13:01:00+09:00",
+   "by": "biz.chosun.com",
+   "tags": [
+    "AI·앱",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "남인순 부의장, 벌금형·기소유예 없는 '목조름죄' 법안 발의",
+   "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288630&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "t": "2026-11-26T13:01:00+09:00",
+   "by": "ohmynews.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "“AIDC, 찬반 넘어 입지·효율 논의할 때”…100㎿급 생산유발 3.5兆",
+   "link": "https://www.etnews.com/20261126000257",
+   "t": "2026-11-26T13:01:00+09:00",
+   "by": "etnews.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "정치권 젊어졌는데 자산은 그대로…미국의 이상한 세대교체",
+   "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54880",
+   "t": "2026-11-26T13:00:00+09:00",
+   "by": "fortunekorea.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "넥슨 판타지 RPG '아주르 프로밀리아' 출시",
+   "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=408235",
+   "t": "2026-11-26T12:58:00+09:00",
+   "by": "tgdaily.co.kr",
+   "tags": [
+    "스마트폰"
+   ]
+  },
+  {
+   "title": "애플 기만광고 제재 착수…시리 한국어 18개월 지연, 과징금 640억원 가...",
+   "link": "https://www.cbci.co.kr/news/articleView.html?idxno=630966",
+   "t": "2026-11-26T12:58:00+09:00",
+   "by": "cbci.co.kr",
+   "tags": [
+    "스마트폰",
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "결제 다음은 금융…네이버·카카오·토스, 미래 먹거리 선점 경쟁",
+   "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887603",
+   "t": "2026-11-26T12:58:00+09:00",
+   "by": "hansbiz.co.kr",
+   "tags": [
+    "AI·앱",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "넥슨, '아주르 프로밀리아' 국내 출시 …사전등록 3000만명 돌파",
+   "link": "https://www.sportschosun.com/entertainment/2026-11-26/202611260100165840015271",
+   "t": "2026-11-26T12:56:00+09:00",
+   "by": "sportschosun.com",
+   "tags": [
+    "스마트폰",
+    "게임"
+   ]
+  },
+  {
+   "title": "벤츠코리아, \"전동화 혁신, 패밀리 SUV까지 확대한다\"",
+   "link": "http://autotimes.co.kr/detail.php?number=690125&thread=27",
+   "t": "2026-11-26T12:56:00+09:00",
+   "by": "autotimes.co.kr",
+   "tags": [
+    "AI·앱",
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "수익률부터 매매 타이밍까지…씽크풀, AI ETF 플랫폼 출시",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02932326645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "t": "2026-11-26T12:54:00+09:00",
+   "by": "edaily.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "신현송 \"성장은 굳건…주식시장 가지 굵어질 여지\"(종합)",
+   "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446729",
+   "t": "2026-11-26T12:52:00+09:00",
+   "by": "einfomax.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[남승표의 궁변통구] 130조 도둑질이 횡행하는 나라",
+   "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446726",
+   "t": "2026-11-26T12:50:00+09:00",
+   "by": "einfomax.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "美 '과잉생산 관세'에 호남 반도체 투자 겨냥…15% 유지 속 25% 압박",
+   "link": "https://view.asiae.co.kr/article/2026112609564288580",
+   "t": "2026-11-26T12:49:00+09:00",
+   "by": "view.asiae.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "LG유플러스, 전국 시내버스 3만2857대 'Wi-Fi 7' 구축 완료…공공와이파...",
+   "link": "https://www.job-post.co.kr/news/articleView.html?idxno=241138",
+   "t": "2026-11-26T12:46:00+09:00",
+   "by": "job-post.co.kr",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "넥슨, 3년 만의 대형 MMORPG ‘템빨: 오버기어드’ 정식 출시",
+   "link": "https://www.fntimes.com/html/view.php?ud=2026112612412599837492587736_18",
+   "t": "2026-11-26T12:44:00+09:00",
+   "by": "fntimes.com",
+   "tags": [
+    "게임",
+    "통신·요금",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "현대차그룹, 브랜드 통합 'HMG 글로벌 완속충전기' 공개",
+   "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2497485",
+   "t": "2026-11-26T12:43:00+09:00",
+   "by": "enewstoday.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "[게임史전②] 세운상가·용산 누비던 플로피 디스켓 10장···라인게임즈...",
+   "link": "https://www.cnbnews.com/news/articleView.html?idxno=1025429",
+   "t": "2026-11-26T12:42:00+09:00",
+   "by": "cnbnews.com",
+   "tags": [
+    "노트북·태블릿",
+    "게임"
+   ]
+  },
+  {
+   "title": "한국 다이소에는 안 파나?…일본에서 연령 불문 불티나게 팔린다는 신박...",
+   "link": "https://www.wikitree.co.kr/articles/1177966",
+   "t": "2026-11-26T12:42:00+09:00",
+   "by": "wikitree.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "[아시아라운드업 20261126] \"이란, 호르무즈 안전통항 대가로 암호화폐 ...",
+   "link": "http://kor.theasian.asia/archives/423206",
+   "t": "2026-11-26T12:42:00+09:00",
+   "by": "kor.theasian.asia",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "SKT ‘모두의 AI ’ 기대감 높다...가입자 10명 중 8명 \"이용 의향\"",
+   "link": "https://zdnet.co.kr/view/?no=20261126115859",
+   "t": "2026-11-26T12:39:00+09:00",
+   "by": "zdnet.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "공정위, '애플 인텔리전스' 기만 광고 제재 착수…관련 매출 3조3527억원...",
+   "link": "https://www.pointe.co.kr/news/articleView.html?idxno=88501",
+   "t": "2026-11-26T12:38:00+09:00",
+   "by": "pointe.co.kr",
+   "tags": [
+    "스마트폰",
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "해로드 앱 , 위치 좌표 담아 해경·소방에 구조 요청",
+   "link": "https://www.vegannews.co.kr/news/article.html?no=411515",
+   "t": "2026-11-26T12:38:00+09:00",
+   "by": "vegannews.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "공정위, ‘ 아이폰 16 허위 광고’ 심의",
+   "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723306&ref=A",
+   "t": "2026-11-26T12:37:00+09:00",
+   "by": "kbs.co.kr",
+   "tags": [
+    "스마트폰",
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "젠슨 황 복귀, 게이밍용 GPU 생산부터 줄였다",
+   "link": "https://m.skyedaily.com/news_view.html?ID=315259",
+   "t": "2026-11-26T12:34:00+09:00",
+   "by": "skyedaily.com",
+   "tags": [
+    "PC·부품"
+   ]
+  },
+  {
+   "title": "3천만 성림자의 기다림 끝났다… 넥슨 '아주르 프로밀리아' 국내 정식 출...",
+   "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=228139",
+   "t": "2026-11-26T12:32:00+09:00",
+   "by": "gamechosun.co.kr",
+   "tags": [
+    "스마트폰",
+    "게임"
+   ]
+  },
+  {
+   "title": "대동, 유럽법인 주도로 '에이마' 첫 참가…이탈리아 건설장비 시장 진출",
+   "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=72257",
+   "t": "2026-11-26T12:30:00+09:00",
+   "by": "youngnong.co.kr",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "빗썸, 1시간이라던 해킹 보름 넘게 지속…피해 규모 확대",
+   "link": "http://www.press9.kr/news/articleView.html?idxno=87083",
+   "t": "2026-11-26T12:30:00+09:00",
+   "by": "press9.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
+   "title": "넥슨, 판타지 월드 RPG '아주르 프로밀리아' 국내 정식 출시",
+   "link": "http://www.newsdream.kr/news/articleView.html?idxno=123087",
+   "t": "2026-11-26T12:28:00+09:00",
+   "by": "newsdream.kr",
+   "tags": [
+    "스마트폰",
+    "게임"
+   ]
+  },
+  {
+   "title": "삼성전자, 메모리 개발체제 일원화…시스템LSI 영업 조직 격상",
+   "link": "http://www.inews24.com/view/2030737",
+   "t": "2026-11-26T12:28:00+09:00",
+   "by": "inews24.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "종이에서 모바일로, 읽기의 변화가 이끈 한국 그래픽 디자인 50년",
+   "link": "https://www.nc.press/news/articleView.html?idxno=631962",
+   "t": "2026-11-26T12:26:00+09:00",
+   "by": "nc.press",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "해운 상장기업 2026년 11월 브랜드평판...HMM, 팬오션, 대한해운 順",
+   "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=230110",
+   "t": "2026-11-26T12:26:00+09:00",
+   "by": "energy-news.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "[지스타 B2B] 앱마켓 밖으로 눈 돌리는 한국 게임, 중화권에 기회 있다",
+   "link": "https://www.thisisgame.com/articles/433342",
+   "t": "2026-11-26T12:25:00+09:00",
+   "by": "thisisgame.com",
+   "tags": [
+    "스마트폰",
+    "AI·앱",
+    "게임",
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "日·인도, 달 남극서 물 찾는다… 2028년 발사할 탐사차 첫 시연",
+   "link": "https://biz.chosun.com/science-chosun/science/2026/11/26/THIT7I3DRNCVTN5MFJDOSDHHME/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "t": "2026-11-26T12:24:00+09:00",
+   "by": "biz.chosun.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "YG엔터, 공연 접근성 개선으로 'CSR 필름 페스티벌' 장관상",
+   "link": "https://www.fnnews.com/news/202611261218101684",
+   "t": "2026-11-26T12:23:00+09:00",
+   "by": "fnnews.com",
+   "tags": [
+    "통신·요금"
+   ]
+  },
+  {
+   "title": "아이디어창 국제특허법률사무소, 스타트업 위한 'IP 리스크 관리 전략'...",
+   "link": "http://www.bizwnews.com/news/articleView.html?idxno=153340",
+   "t": "2026-11-26T12:22:00+09:00",
+   "by": "bizwnews.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "삼성생명 등 삼성 금융계열사 CEO 모두 유임...안정·연속성 중시",
+   "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=173535",
+   "t": "2026-11-26T12:22:00+09:00",
+   "by": "choicenews.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "'창간 34주년' 강원도민일보, '글로벌 종합 미디어' 도약 선포",
+   "link": "https://www.news1.kr/local/kangwon/6366976",
+   "t": "2026-11-26T12:22:00+09:00",
+   "by": "news1.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "중국 AI 기업, 모델 개발 포기까지 검토…미국과 기술 격차 9개월 전망",
+   "link": "https://www.aitimes.com/news/articleView.html?idxno=217798",
+   "t": "2026-11-26T12:20:00+09:00",
+   "by": "aitimes.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "넥슨, 사전등록 3000만명 돌파한 '아주르 프로밀리아' 국내 출시",
+   "link": "https://www.newsis.com/view/NISX20261126_0003884391",
+   "t": "2026-11-26T12:19:00+09:00",
+   "by": "newsis.com",
+   "tags": [
+    "스마트폰",
+    "게임"
+   ]
+  },
+  {
+   "title": "아이폰 먼저 팔고 AI는 뒤늦게…공정위, 애플 제재 착수",
+   "link": "https://www.newspim.com/news/view/20261126000707",
+   "t": "2026-11-26T12:18:00+09:00",
+   "by": "newspim.com",
+   "tags": [
+    "스마트폰",
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "\"' 아이폰 16' AI기능 기만광고\" 공정위, 과징금 의견 심의 착수",
+   "link": "https://www.busan.com/view/busan/view.php?code=2026112612140154831",
+   "t": "2026-11-26T12:18:00+09:00",
+   "by": "busan.com",
+   "tags": [
+    "스마트폰",
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "강원도민일보 창간 34주년 기념식…글로벌 종합미디어 선포",
+   "link": "https://www.yna.co.kr/view/AKR20261126096600062?input=1195m",
+   "t": "2026-11-26T12:18:00+09:00",
+   "by": "yna.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "14억 뷰 신화 이어간다…‘템빨: 오버기어드’ 정식 출시",
+   "link": "https://www.gameshot.net/common/con_view.php?code=GA6b07a3686dba0",
+   "t": "2026-11-26T12:16:00+09:00",
+   "by": "gameshot.net",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "수원도시공사, 서비스 부문 특별상 수상 기념 SNS 이벤트",
+   "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2497472",
+   "t": "2026-11-26T12:15:00+09:00",
+   "by": "enewstoday.co.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "애플, 아이폰 16 AI 기능 기만 광고 혐의…공정위 심의 착수",
+   "link": "https://www.kukinews.com/article/view/kuk202611260088",
+   "t": "2026-11-26T12:14:00+09:00",
+   "by": "kukinews.com",
+   "tags": [
+    "스마트폰",
+    "노트북·태블릿",
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "美, 韓 ‘호남 반도체 클러스터’ 정조준…관세 15% 유지 속 ‘25% 인상’...",
+   "link": "https://news-s.kr/view.html?id=L2611261207523bab",
+   "t": "2026-11-26T12:14:00+09:00",
+   "by": "news-s.kr",
+   "tags": [
+    "IT 업계"
+   ]
+  },
+  {
+   "title": "미국 홈보안 시장, 고정형 카메라 넘어 자율비행 드론으로 진화",
+   "link": "https://www.boannews.com/news/articleView.html?idxno=147558",
+   "t": "2026-11-26T12:12:00+09:00",
+   "by": "boannews.com",
+   "tags": [
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "귀혼의 추억은 여전했다! 엠 게임 ‘귀혼키우기’ 출시 이틀 만에 양대 ...",
+   "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=228136",
+   "t": "2026-11-26T12:12:00+09:00",
+   "by": "gamechosun.co.kr",
+   "tags": [
+    "게임"
+   ]
+  },
+  {
+   "title": "넥슨, '아주르 프로밀리아' 국내 출시 …PC·모바일 동시 서비스",
+   "link": "https://www.mt.co.kr/tech/2026/11/26/2026112612104124561",
+   "t": "2026-11-26T12:11:00+09:00",
+   "by": "mt.co.kr",
+   "tags": [
+    "스마트폰",
+    "게임"
+   ]
+  },
+  {
+   "title": "공정위, 아이폰 16의 중요 정보 뺀 채 광고한 애플에 대해 제재 나서",
+   "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261126.99099008321",
+   "t": "2026-11-26T12:11:00+09:00",
+   "by": "kookje.co.kr",
+   "tags": [
+    "스마트폰",
+    "AI·앱"
+   ]
+  },
+  {
+   "title": "\"D램은 공급난, 낸드는 공급과잉\"…K 반도체 새해 업황은",
+   "link": "https://www.newsis.com/view/NISX20261126_0003884254",
+   "t": "2026-11-26T12:11:00+09:00",
+   "by": "newsis.com",
+   "tags": [
+    "IT 업계"
+   ]
+  },
   {
    "title": "[아주르 프로밀리아] 리세마라 15분이면 가능합니다",
    "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=113419",
@@ -21,13 +658,22 @@
    ]
   },
   {
+   "title": "경남대 1,202건 개인정보 유출 ...\"민감 정보 는 없어\"",
+   "link": "https://www.ytn.co.kr/_ln/0115_202611261210191342",
+   "t": "2026-11-26T12:10:00+09:00",
+   "by": "ytn.co.kr",
+   "tags": [
+    "보안·개인정보"
+   ]
+  },
+  {
    "title": "애플 ‘ 아이폰 16 AI 기만광고’ 혐의…공정위 제재 심의",
    "link": "https://www.dt.co.kr/article/12097383?ref=naver",
    "t": "2026-11-26T12:09:00+09:00",
    "by": "dt.co.kr",
    "tags": [
-    "스마트폰",
-    "AI·앱"
+    "AI·앱",
+    "스마트폰"
    ]
   },
   {
@@ -45,8 +691,8 @@
    "t": "2026-11-26T12:08:00+09:00",
    "by": "newsis.com",
    "tags": [
-    "스마트폰",
-    "노트북·태블릿"
+    "노트북·태블릿",
+    "스마트폰"
    ]
   },
   {
@@ -73,8 +719,8 @@
    "t": "2026-11-26T12:06:00+09:00",
    "by": "womaneconomy.co.kr",
    "tags": [
-    "노트북·태블릿",
     "AI·앱",
+    "노트북·태블릿",
     "통신·요금"
    ]
   },
@@ -116,13 +762,23 @@
    ]
   },
   {
+   "title": "미국선 3600억 합의, 한국은 '팽'…애플에 역대급 과징금 예고",
+   "link": "https://www.edaily.co.kr/News/Read?newsId=02797846645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "t": "2026-11-26T12:03:00+09:00",
+   "by": "edaily.co.kr",
+   "tags": [
+    "스마트폰",
+    "AI·앱"
+   ]
+  },
+  {
    "title": "\"애플, 아이폰 16 AI 기능 제공할 것처럼 광고\"…공정위, 제재 착수",
    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446699",
    "t": "2026-11-26T12:02:00+09:00",
    "by": "einfomax.co.kr",
    "tags": [
-    "스마트폰",
-    "AI·앱"
+    "AI·앱",
+    "스마트폰"
    ]
   },
   {
@@ -131,8 +787,8 @@
    "t": "2026-11-26T12:02:00+09:00",
    "by": "dailian.co.kr",
    "tags": [
-    "스마트폰",
-    "AI·앱"
+    "AI·앱",
+    "스마트폰"
    ]
   },
   {
@@ -141,9 +797,9 @@
    "t": "2026-11-26T12:02:00+09:00",
    "by": "mtn.co.kr",
    "tags": [
-    "스마트폰",
+    "AI·앱",
     "노트북·태블릿",
-    "AI·앱"
+    "스마트폰"
    ]
   },
   {
@@ -152,8 +808,8 @@
    "t": "2026-11-26T12:02:00+09:00",
    "by": "ajunews.com",
    "tags": [
-    "스마트폰",
-    "AI·앱"
+    "AI·앱",
+    "스마트폰"
    ]
   },
   {
@@ -214,13 +870,23 @@
    ]
   },
   {
+   "title": "“ 아이폰 16 AI 기능 광고서 소비자 기만”…공정위, 애플 심의 착수",
+   "link": "https://www.hani.co.kr/arti/economy/economy_general/1289208.html",
+   "t": "2026-11-26T12:02:00+09:00",
+   "by": "hani.co.kr",
+   "tags": [
+    "스마트폰",
+    "노트북·태블릿"
+   ]
+  },
+  {
    "title": "AI 기능 된다더니 1년 반 뒤에야…애플, 수백억 과징금 위기",
    "link": "https://www.joongang.co.kr/article/25482198",
    "t": "2026-11-26T12:01:00+09:00",
    "by": "joongang.co.kr",
    "tags": [
-    "스마트폰",
-    "AI·앱"
+    "AI·앱",
+    "스마트폰"
    ]
   },
   {
@@ -229,9 +895,9 @@
    "t": "2026-11-26T12:01:00+09:00",
    "by": "biz.heraldcorp.com",
    "tags": [
-    "스마트폰",
+    "AI·앱",
     "노트북·태블릿",
-    "AI·앱"
+    "스마트폰"
    ]
   },
   {
@@ -240,8 +906,8 @@
    "t": "2026-11-26T12:01:00+09:00",
    "by": "hankookilbo.com",
    "tags": [
-    "스마트폰",
-    "AI·앱"
+    "AI·앱",
+    "스마트폰"
    ]
   },
   {
@@ -250,8 +916,8 @@
    "t": "2026-11-26T12:01:00+09:00",
    "by": "sedaily.com",
    "tags": [
-    "스마트폰",
-    "AI·앱"
+    "AI·앱",
+    "스마트폰"
    ]
   },
   {
@@ -260,8 +926,8 @@
    "t": "2026-11-26T12:01:00+09:00",
    "by": "biz.chosun.com",
    "tags": [
-    "스마트폰",
-    "AI·앱"
+    "AI·앱",
+    "스마트폰"
    ]
   },
   {
@@ -279,9 +945,9 @@
    "t": "2026-11-26T12:01:00+09:00",
    "by": "nocutnews.co.kr",
    "tags": [
-    "스마트폰",
+    "AI·앱",
     "노트북·태블릿",
-    "AI·앱"
+    "스마트폰"
    ]
   },
   {
@@ -290,8 +956,8 @@
    "t": "2026-11-26T12:01:00+09:00",
    "by": "chosun.com",
    "tags": [
-    "스마트폰",
-    "AI·앱"
+    "AI·앱",
+    "스마트폰"
    ]
   },
   {
@@ -300,8 +966,8 @@
    "t": "2026-11-26T12:01:00+09:00",
    "by": "fnnews.com",
    "tags": [
-    "스마트폰",
-    "AI·앱"
+    "AI·앱",
+    "스마트폰"
    ]
   },
   {
@@ -552,8 +1218,8 @@
    "t": "2026-11-26T11:58:00+09:00",
    "by": "mk.co.kr",
    "tags": [
-    "스마트폰",
-    "게임"
+    "게임",
+    "스마트폰"
    ]
   },
   {
@@ -670,8 +1336,8 @@
    "t": "2026-11-26T11:52:00+09:00",
    "by": "thelec.kr",
    "tags": [
-    "스마트폰",
-    "게임"
+    "게임",
+    "스마트폰"
    ]
   },
   {
@@ -779,8 +1445,8 @@
    "t": "2026-11-26T11:48:00+09:00",
    "by": "e-science.co.kr",
    "tags": [
-    "스마트폰",
-    "게임"
+    "게임",
+    "스마트폰"
    ]
   },
   {
@@ -789,8 +1455,8 @@
    "t": "2026-11-26T11:48:00+09:00",
    "by": "thisisgame.com",
    "tags": [
-    "스마트폰",
-    "게임"
+    "게임",
+    "스마트폰"
    ]
   },
   {
@@ -799,8 +1465,8 @@
    "t": "2026-11-26T11:48:00+09:00",
    "by": "it.chosun.com",
    "tags": [
-    "스마트폰",
-    "게임"
+    "게임",
+    "스마트폰"
    ]
   },
   {
@@ -845,8 +1511,8 @@
    "t": "2026-11-26T11:46:00+09:00",
    "by": "gamefocus.co.kr",
    "tags": [
-    "스마트폰",
-    "게임"
+    "게임",
+    "스마트폰"
    ]
   },
   {
@@ -864,8 +1530,8 @@
    "t": "2026-11-26T11:46:00+09:00",
    "by": "biz.sbs.co.kr",
    "tags": [
-    "통신·요금",
-    "보안·개인정보"
+    "보안·개인정보",
+    "통신·요금"
    ]
   },
   {
@@ -1046,8 +1712,8 @@
    "t": "2026-11-26T11:38:00+09:00",
    "by": "newskr.kr",
    "tags": [
-    "스마트폰",
-    "노트북·태블릿"
+    "노트북·태블릿",
+    "스마트폰"
    ]
   },
   {
@@ -1083,8 +1749,8 @@
    "t": "2026-11-26T11:36:00+09:00",
    "by": "asiaa.co.kr",
    "tags": [
-    "스마트폰",
-    "게임"
+    "게임",
+    "스마트폰"
    ]
   },
   {
@@ -1301,8 +1967,8 @@
    "t": "2026-11-26T11:25:00+09:00",
    "by": "zdnet.co.kr",
    "tags": [
-    "통신·요금",
-    "보안·개인정보"
+    "보안·개인정보",
+    "통신·요금"
    ]
   },
   {
@@ -1419,8 +2085,8 @@
    "t": "2026-11-26T11:18:00+09:00",
    "by": "weeklytoday.com",
    "tags": [
-    "스마트폰",
-    "게임"
+    "게임",
+    "스마트폰"
    ]
   },
   {
@@ -1429,8 +2095,8 @@
    "t": "2026-11-26T11:18:00+09:00",
    "by": "betanews.net",
    "tags": [
-    "스마트폰",
-    "게임"
+    "게임",
+    "스마트폰"
    ]
   },
   {
@@ -1511,8 +2177,8 @@
    "t": "2026-11-26T11:16:00+09:00",
    "by": "pinpointnews.co.kr",
    "tags": [
-    "통신·요금",
-    "보안·개인정보"
+    "보안·개인정보",
+    "통신·요금"
    ]
   },
   {
@@ -3028,646 +3694,6 @@
    "by": "gasnews.com",
    "tags": [
     "AI·앱"
-   ]
-  },
-  {
-   "title": "네이버클라우드, 행정망에 이미지 생성 AI 도입",
-   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718298",
-   "t": "2026-11-26T10:12:00+09:00",
-   "by": "digitaltoday.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "자동차와 휴머노이드, 하나의 AI 두뇌로 움직인다…샤오펑, 튜링 피지컬...",
-   "link": "https://www.aitimes.kr/news/articleView.html?idxno=42897",
-   "t": "2026-11-26T10:12:00+09:00",
-   "by": "aitimes.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "웹젠, ‘뮤’에 전략 신작 더한다…'디겜폭'·'G.O.G' 통해 2027년 반등 채...",
-   "link": "https://zdnet.co.kr/view/?no=20261126100506",
-   "t": "2026-11-26T10:12:00+09:00",
-   "by": "zdnet.co.kr",
-   "tags": [
-    "게임"
-   ]
-  },
-  {
-   "title": "엠 게임 , 신작 '귀혼키우기' 출시 이틀 만에 양대 마켓 인기 '1위'",
-   "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=272992",
-   "t": "2026-11-26T10:12:00+09:00",
-   "by": "asiaa.co.kr",
-   "tags": [
-    "게임"
-   ]
-  },
-  {
-   "title": "LGU+, '와이파이 7' 전국 시내버스 3만 대 구축 완료",
-   "link": "https://www.itdaily.kr/news/articleView.html?idxno=243213",
-   "t": "2026-11-26T10:12:00+09:00",
-   "by": "itdaily.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "LG유플러스, Wi-Fi 7로 버스 공공와이파이 속도·안정성 높여",
-   "link": "http://www.newslock.co.kr/news/articleView.html?idxno=141014",
-   "t": "2026-11-26T10:12:00+09:00",
-   "by": "newslock.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "한은, 기준금리 3.25%로 인상… 반도체 發 고성장에 다시 긴축",
-   "link": "https://www.tfmedia.co.kr/news/article.html?no=209242",
-   "t": "2026-11-26T10:12:00+09:00",
-   "by": "tfmedia.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "김영훈 노동장관, 반도체 연구원 현장 간담회…\"근로시간 확보와 건강권...",
-   "link": "https://news.tvchosun.com/site/data/html_dir/2026/11/26/2026112690099.html",
-   "t": "2026-11-26T10:11:00+09:00",
-   "by": "tvchosun.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "美, 호남 반도체 '과잉생산' 지목…15% 방어에도 25% 불씨",
-   "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000086749",
-   "t": "2026-11-26T10:11:00+09:00",
-   "by": "jnilbo.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "[특징주] 대주전자재료, AI 서버용 MLCC 수요 확대 기대감에 16%대 급등",
-   "link": "https://www.widedaily.com/news/articleView.html?idxno=304784",
-   "t": "2026-11-26T10:10:00+09:00",
-   "by": "widedaily.com",
-   "tags": [
-    "PC·부품"
-   ]
-  },
-  {
-   "title": "[특징주] 엘티씨, 고체산화물 연료전지(SOFC) 테마 강세에 15%대 급등",
-   "link": "https://www.widedaily.com/news/articleView.html?idxno=304785",
-   "t": "2026-11-26T10:10:00+09:00",
-   "by": "widedaily.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "美, ‘삼전닉스 D램 70%’ 콕 집어 과잉생산 관세…호남 800조 클러스터...",
-   "link": "https://www.ekn.kr/web/view.php?key=20261126026364910",
-   "t": "2026-11-26T10:10:00+09:00",
-   "by": "ekn.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "美 '과잉생산 관세', 韓 15% 상한 유지…협의 불만족 시 25% 검토",
-   "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7195810",
-   "t": "2026-11-26T10:10:00+09:00",
-   "by": "weekly.hankooki.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "비피엠지, 요리 게임 '쿠킹 어드벤처' 스팀 출시 …540개 스테이지 제공",
-   "link": "http://www.inews24.com/view/2030632",
-   "t": "2026-11-26T10:09:00+09:00",
-   "by": "inews24.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "AI 봇 몰려와도 서버비는 기업 몫…안철수, ‘중국발 AI 봇 폭주 방지법...",
-   "link": "https://www.mk.co.kr/article/12219059",
-   "t": "2026-11-26T10:09:00+09:00",
-   "by": "mk.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "[EU 테크 정책] AI는 늦었지만 양자역학은 앞서가자",
-   "link": "https://www.greened.kr/news/articleView.html?idxno=355595",
-   "t": "2026-11-26T10:09:00+09:00",
-   "by": "greened.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "솔라나, 日 금융권과 스테이블코인 동맹…결제·송금 사업 추진",
-   "link": "https://zdnet.co.kr/view/?no=20261126095342",
-   "t": "2026-11-26T10:08:00+09:00",
-   "by": "zdnet.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "에이펙스 레전드 개발진 설립한 스튜디오, 신작 출시 없이 운영 중단",
-   "link": "https://zdnet.co.kr/view/?no=20261126091715",
-   "t": "2026-11-26T10:08:00+09:00",
-   "by": "zdnet.co.kr",
-   "tags": [
-    "게임"
-   ]
-  },
-  {
-   "title": "LG유플러스, 전국 시내버스에 와이파이 7 기반 공공 와이파이 구축",
-   "link": "http://www.newscape.co.kr/news/articleView.html?idxno=126115",
-   "t": "2026-11-26T10:08:00+09:00",
-   "by": "newscape.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "LG U+, 전국 시내버스 3만2857대에 최신 Wi-Fi 7 통신 망 가동",
-   "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=108276",
-   "t": "2026-11-26T10:08:00+09:00",
-   "by": "womentimes.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "美 반도체 압박에 흔들리는 동맹",
-   "link": "http://www.00news.co.kr/news/articleView.html?idxno=108370",
-   "t": "2026-11-26T10:08:00+09:00",
-   "by": "00news.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "AI 서버·고성능 반도체 기판 수요 폭발…심텍홀딩스·삼성전기·이수페...",
-   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508290",
-   "t": "2026-11-26T10:08:00+09:00",
-   "by": "pinpointnews.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "머스크 자금난 경고 현실화?…JP모간 \"AI 투자 내년 정점 후 정체\"",
-   "link": "https://www.mt.co.kr/world/2026/11/26/2026112609060027010",
-   "t": "2026-11-26T10:07:00+09:00",
-   "by": "mt.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "토스, 탈퇴 해도 1년간 보관하던 얼굴정보…\"3개월만 보관\"",
-   "link": "https://www.ajunews.com/view/20261126084418132",
-   "t": "2026-11-26T10:06:00+09:00",
-   "by": "ajunews.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "[현대자동차] 소방관 지원 사회공헌 성과…글로벌 전기차 충전 생태계 ...",
-   "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2390049",
-   "t": "2026-11-26T10:06:00+09:00",
-   "by": "webeconomy.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "LG유플러스, 전국 시내버스 3만2857대에 와이파이7 구축 완료",
-   "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=92687",
-   "t": "2026-11-26T10:06:00+09:00",
-   "by": "worktoday.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "LG유플러스, 전국 시내버스 공공와이파이 구축 완료",
-   "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140772",
-   "t": "2026-11-26T10:06:00+09:00",
-   "by": "e-science.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "美 '과잉생산 관세' 韓 15% 상한 유지…한숨 돌렸지만 안심 못해",
-   "link": "https://www.newstree.kr/newsView/ntr202611260005",
-   "t": "2026-11-26T10:06:00+09:00",
-   "by": "newstree.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "한은, 기준금리 연 3.25%로 0.25%p 인상…올해 성장률 전망 3.9%로 대폭 상...",
-   "link": "https://www.pointe.co.kr/news/articleView.html?idxno=88477",
-   "t": "2026-11-26T10:06:00+09:00",
-   "by": "pointe.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "[돌아온 젠슨 황, 한국 반도체 는(하)] 2028년이 고비… 백악관 업은 엔비...",
-   "link": "https://www.the-today.com/news/articleView.html?idxno=94120",
-   "t": "2026-11-26T10:06:00+09:00",
-   "by": "the-today.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "광주 미래차 소부장단지, 자율주행 핵심기술개발 '성과'",
-   "link": "https://www.newsis.com/view/NISX20261126_0003883921",
-   "t": "2026-11-26T10:05:00+09:00",
-   "by": "newsis.com",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "대용량 서버· AI 데이터센터 겨냥… 파인인포, 에센코어 서버용 DDR5 RDIM...",
-   "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61453",
-   "t": "2026-11-26T10:04:00+09:00",
-   "by": "ilovepc.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "LG유플러스, 시내버스 3만2857대에 Wi-Fi 7 공공와이파이 구축",
-   "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=255339",
-   "t": "2026-11-26T10:04:00+09:00",
-   "by": "nextdaily.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "LG유플러스, 전국 시내버스 3만여대에 Wi-Fi 7 구축…통합관리체계 마련",
-   "link": "http://www.kdfnews.com/news/articleView.html?idxno=191461",
-   "t": "2026-11-26T10:04:00+09:00",
-   "by": "kdfnews.com",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "한국투자저축은행 고객 8만6611명 정보 유출 … 해킹 피해 확산",
-   "link": "http://www.srtimes.kr/news/articleView.html?idxno=218692",
-   "t": "2026-11-26T10:04:00+09:00",
-   "by": "srtimes.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "\"AI가 끌어올린 기판 슈퍼사이클\"…삼성전기·태성·이수페타시스·대덕...",
-   "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508284",
-   "t": "2026-11-26T10:04:00+09:00",
-   "by": "pinpointnews.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "한은, 기준금리 3.25%로 25bp 인상",
-   "link": "https://www.newstopkorea.com/ko-kr/articles/49320",
-   "t": "2026-11-26T10:04:00+09:00",
-   "by": "newstopkorea.com",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "갤럭시S27 울트라, 60W 충전 인증 통과…배터리 5700mAh 탑재 유력",
-   "link": "https://kbench.com/?q=node/283654",
-   "t": "2026-11-26T10:02:00+09:00",
-   "by": "kbench.com",
-   "tags": [
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "토스 얼굴결제·네이버 AI 검색...개인정보 규제 문턱 낮추되 사후관리...",
-   "link": "https://news.mtn.co.kr/article/2026112609092623705",
-   "t": "2026-11-26T10:02:00+09:00",
-   "by": "mtn.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "RSA, AI 에이전트 권한 통제·고위험 작업 승인 기능 갖춘 솔루션 선보여",
-   "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611260949345610722",
-   "t": "2026-11-26T10:02:00+09:00",
-   "by": "dnews.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "LGU+, 전국 시내버스 공공와이파이 고도화…와이파이 7 적용",
-   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718270",
-   "t": "2026-11-26T10:02:00+09:00",
-   "by": "digitaltoday.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "LGU+, 전국 시내버스 3만대에 와이파이 7 구축 완료",
-   "link": "https://www.ajunews.com/view/20261126092411296",
-   "t": "2026-11-26T10:02:00+09:00",
-   "by": "ajunews.com",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "LG유플러스, 전국 버스 와이파이 ‘한 체계로’..시내버스 3만대 와이파...",
-   "link": "https://kpenews.com/View.aspx?No=4330325",
-   "t": "2026-11-26T10:02:00+09:00",
-   "by": "kpenews.com",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "LG유플, 전국 시내버스 3만대에 'Wi-Fi 7' 구축 완료…대역폭 2배 확대",
-   "link": "https://www.etoday.co.kr/news/view/2653166",
-   "t": "2026-11-26T10:02:00+09:00",
-   "by": "etoday.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "한투저축은행도 털렸다…8만6000명 넘어, 업권 '최다'",
-   "link": "https://www.sisajournal.com/news/articleView.html?idxno=395290",
-   "t": "2026-11-26T10:02:00+09:00",
-   "by": "sisajournal.com",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "알리바바·외국계 사모펀드에 고객정보 넘어갈라...정부, M&A 보안 점검",
-   "link": "https://news.mtn.co.kr/article/2026112609155429154",
-   "t": "2026-11-26T10:02:00+09:00",
-   "by": "mtn.co.kr",
-   "tags": [
-    "보안·개인정보"
-   ]
-  },
-  {
-   "title": "DL건설 제안 반도체 고속도로, 내년 상반기 사업자 선정 가시화",
-   "link": "https://news.mtn.co.kr/article/2026112609312834246",
-   "t": "2026-11-26T10:02:00+09:00",
-   "by": "mtn.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "이형일 \"전략산업 육성 가장 중요한 과제…AI에서 앞서나가야\"",
-   "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446636",
-   "t": "2026-11-26T10:02:00+09:00",
-   "by": "einfomax.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "[CEO PICK] 현대모비스 이규석…램프 제조 덜고 '로봇 관절' 키운다",
-   "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087357",
-   "t": "2026-11-26T10:02:00+09:00",
-   "by": "shinailbo.co.kr",
-   "tags": [
-    "IT 업계"
-   ]
-  },
-  {
-   "title": "볼트테크코리아, ‘아이프로텍플러스 애플케어서비스’로 한경 핀테크...",
-   "link": "https://www.hankyung.com/article/202611250450O",
-   "t": "2026-11-26T10:01:00+09:00",
-   "by": "hankyung.com",
-   "tags": [
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "가상자산 거래소 앱에 생성형 AI 챗봇 탑재…디지털엑스, 서비스 분야 최...",
-   "link": "https://www.hankyung.com/article/202611250442O",
-   "t": "2026-11-26T10:01:00+09:00",
-   "by": "hankyung.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "LG유플러스 “전국 시내버스 3만대에 최신 와이파이 구축”",
-   "link": "https://biz.heraldcorp.com/article/10949767?ref=naver",
-   "t": "2026-11-26T10:01:00+09:00",
-   "by": "biz.heraldcorp.com",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "LG유플러스, 통신 속도 2배 빠른 '와이파이7' 전국 시내버스 3만대에 구축",
-   "link": "https://www.fnnews.com/news/202611260926401793",
-   "t": "2026-11-26T10:01:00+09:00",
-   "by": "fnnews.com",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "LG유플러스, 전국 시내버스 3만대 Wi-Fi 7 구축…공공와이파이 통합",
-   "link": "https://www.dailian.co.kr/news/view/1719919/?sc=Naver",
-   "t": "2026-11-26T10:01:00+09:00",
-   "by": "dailian.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "피코펄스, 접이식 블루투스 휴대용 키보드 'KX' 출시",
-   "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=250477",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "sisunnews.co.kr",
-   "tags": [
-    "노트북·태블릿",
-    "스마트폰"
-   ]
-  },
-  {
-   "title": "[똑똑한리빙] 쌍용C&B, 테팔, 이케아, 현대L&C, 한샘, 쿠쿠홈시스, 당근...",
-   "link": "https://www.ekn.kr/web/view.php?key=20261126025214961",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "ekn.kr",
-   "tags": [
-    "가전"
-   ]
-  },
-  {
-   "title": "낫싱, 회의·통화 기록하는 AI 이어폰 '이어(노트)' 공개",
-   "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718306",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "digitaltoday.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "개인정보위, SKT·네이버·토스 등 사전검토 거친 서비스 점검…\"모두 이...",
-   "link": "https://view.asiae.co.kr/article/2026112609001870282",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "view.asiae.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "개보위, 사전적정성 검토 서비스 보호조치 이행 점검",
-   "link": "https://zdnet.co.kr/view/?no=20261126084732",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "zdnet.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "개인정보위 \"사전 검토 거친 6개 서비스 , 주요 보호 조치 모두 이행\"",
-   "link": "https://www.news1.kr/it-science/security-hacking/6366577",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "news1.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "토스 '페이스페이'·네이버 ' AI 탭', 개인정보 보호조치 이행 합격점",
-   "link": "https://www.newsis.com/view/NISX20261126_0003883838",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "newsis.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "와디즈, 커뮤니티 정책 개편…펀딩 참여 환경 개선",
-   "link": "https://www.m-i.kr/news/articleView.html?idxno=2023686",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "m-i.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "스카이레브 '나루가드', 감사 기록률 100%·즉시 차단 1.0초 이하 검증",
-   "link": "https://www.datanet.co.kr/news/articleView.html?idxno=300551",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "datanet.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "토스 안면결제 등 사전적정성 검토 점검…\"보호조치 모두 이행\"",
-   "link": "https://www.yna.co.kr/view/AKR20261126031500530?input=1195m",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "yna.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "한컴서 분사한 씽크프리, 3년 만에 매출 50억원 돌파 전망",
-   "link": "https://it.chosun.com/news/articleView.html?idxno=3000000001828",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "it.chosun.com",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "[Car & Now] 현대차그룹, 'HMG 글로벌 완속충전기' 공개·현대모비스, 올...",
-   "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1732988",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "ebn.co.kr",
-   "tags": [
-    "AI·앱"
-   ]
-  },
-  {
-   "title": "LGU+ \"전국 시내버스 3만2857대에 와이파이7 통신 망 구축 완료\"",
-   "link": "https://www.itbiznews.com/news/articleView.html?idxno=232836",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "itbiznews.com",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "달리는 버스안 초고속 통신 시대 연다…LG유플러스, 전국 시내버스 3만...",
-   "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95548",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "thefairnews.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "LG U+, 전국 버스 3만2857대 와이파이 7 구축…최저 보장속도 5배↑",
-   "link": "https://www.mt.co.kr/tech/2026/11/26/2026112609181815343",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "mt.co.kr",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "LG유플러스, 전국 시내버스 3만대에 와이파이7 구축… 통신 품질 개선",
-   "link": "https://daily.hankooki.com/news/articleView.html?idxno=1429216",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "daily.hankooki.com",
-   "tags": [
-    "통신·요금"
-   ]
-  },
-  {
-   "title": "LG유플러스, 전국 버스 공공와이파이 통합…전용 5G망·관제시스템 도입",
-   "link": "http://www.newsdream.kr/news/articleView.html?idxno=123063",
-   "t": "2026-11-26T10:00:00+09:00",
-   "by": "newsdream.kr",
-   "tags": [
-    "통신·요금"
    ]
   }
  ]

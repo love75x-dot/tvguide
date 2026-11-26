@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T08:08:29.178709+09:00",
+ "updated": "2026-11-27T08:48:37.427331+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -46,12 +46,18 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 20,
+   "count": 21,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "국내 독감 기승, 중국엔 3가지 바이러스 동시 유행...\"백신 접종이 가장...",
+     "link": "https://www.ytn.co.kr/_ln/0115_202611270830569270",
+     "t": "2026-11-27T08:30:00+09:00",
+     "by": "ytn.co.kr"
+    },
     {
      "title": "계절성 독감 백신, 소 유래 H5N1 억제",
      "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3017388",
@@ -75,12 +81,6 @@
      "link": "https://www.medipana.com/news/articleView.html?idxno=422768",
      "t": "2026-11-26T18:02:00+09:00",
      "by": "medipana.com"
-    },
-    {
-     "title": "\"올겨울 초미세먼지에 독감 까지 겹칠 수 있다\"… 콧속 방어력 지키려면",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70291",
-     "t": "2026-11-26T17:00:00+09:00",
-     "by": "hidoc.co.kr"
     }
    ]
   },
@@ -1020,6 +1020,26 @@
    ]
   },
   {
+   "name": "고지혈증",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [],
+   "items": [
+    {
+     "title": "일화, 물 없이 먹는 고지혈증 복합제 출격…치료 선택지 확대",
+     "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887878",
+     "t": "2026-11-27T08:30:00+09:00",
+     "by": "hansbiz.co.kr"
+    },
+    {
+     "title": "달라진 고지혈증 치료 지침",
+     "link": "http://www.gnmaeil.com/news/articleView.html?idxno=599573",
+     "t": "2026-11-25T21:20:00+09:00",
+     "by": "gnmaeil.com"
+    }
+   ]
+  },
+  {
    "name": "골다공증",
    "kind": "질환·증상",
    "count": 2,
@@ -1036,28 +1056,6 @@
      "link": "https://kormedi.com/?p=2912720",
      "t": "2026-11-25T18:04:00+09:00",
      "by": "kormedi.com"
-    }
-   ]
-  },
-  {
-   "name": "김치",
-   "kind": "식품·제철",
-   "count": 2,
-   "angles": [
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "농수산식품유통공사(aT), 중국 선전 APEC 홍보전·모스크바 김치 페스티...",
-     "link": "https://www.cstimes.com/news/articleView.html?idxno=729648",
-     "t": "2026-11-26T21:10:00+09:00",
-     "by": "cstimes.com"
-    },
-    {
-     "title": "뉴욕서 '글로벌 김치 비전' 선포…발효과학·제조혁신 강화",
-     "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=72154",
-     "t": "2026-11-25T22:00:00+09:00",
-     "by": "youngnong.co.kr"
     }
    ]
   }

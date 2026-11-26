@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:10:43.494671+09:00",
+ "updated": "2026-11-27T08:08:29.178709+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -129,13 +129,19 @@
   {
    "name": "감기",
    "kind": "질환·증상",
-   "count": 13,
+   "count": 14,
    "angles": [
     "먹는 법",
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "감기 다 나았는데 밤새 '콜록콜록'…우리 아이 마른기침, 혹시?",
+     "link": "https://www.sportschosun.com/life/2026-11-26/202611270100168840015644",
+     "t": "2026-11-27T07:18:00+09:00",
+     "by": "sportschosun.com"
+    },
     {
      "title": "감기 에 항생제를 먹으면 안 되는 이유 [kuki 건강]",
      "link": "https://www.kukinews.com/article/view/kuk202611260129",
@@ -159,12 +165,6 @@
      "link": "https://www.mt.co.kr/thebio/2026/11/26/2026112617090292252",
      "t": "2026-11-26T17:20:00+09:00",
      "by": "mt.co.kr"
-    },
-    {
-     "title": "“감기와 혼동하지 마세요”…‘콜록콜록’ 오래가면 어린이 OO 의심해...",
-     "link": "https://www.nongmin.com/article/20261126500159",
-     "t": "2026-11-26T16:50:00+09:00",
-     "by": "nongmin.com"
     }
    ]
   },
@@ -371,12 +371,18 @@
   {
    "name": "지방간",
    "kind": "질환·증상",
-   "count": 7,
+   "count": 8,
    "angles": [
     "부작용",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "고령층 지방간 환자, 술 마시면 심방세동 위험 '껑충'",
+     "link": "https://www.sportschosun.com/life/2026-11-26/202611270100168770015640",
+     "t": "2026-11-27T08:10:00+09:00",
+     "by": "sportschosun.com"
+    },
     {
      "title": "지방간 위험 최대 42% 높아졌다… 매일 마시는 음료의 영향은?",
      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1195026",
@@ -400,12 +406,6 @@
      "link": "https://www.hankookilbo.com/news/article/A2026112610050002763?did=NA",
      "t": "2026-11-26T11:31:00+09:00",
      "by": "hankookilbo.com"
-    },
-    {
-     "title": "지방간 있는 노년층, 술 마시면 심방세동 위험까지 '껑충'",
-     "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=34138",
-     "t": "2026-11-26T11:22:00+09:00",
-     "by": "jhealthmedia.joins.com"
     }
    ]
   },
@@ -572,6 +572,88 @@
    ]
   },
   {
+   "name": "유산균",
+   "kind": "영양제",
+   "count": 5,
+   "angles": [
+    "효능",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "“몸에 좋은 유산균, 효과 사라진다”⋯ 먹을 때 피해야 할 실수 4가지",
+     "link": "https://kormedi.com/?p=2911461",
+     "t": "2026-11-27T08:03:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "전문가가 꼽은 '유산균' 필요하다는 신호 6가지",
+     "link": "http://www.joseilbo.com/news/news_read.php?uid=580531&class=27&grp=",
+     "t": "2026-11-26T16:04:00+09:00",
+     "by": "joseilbo.com"
+    },
+    {
+     "title": "\"연말 회식에 여행까지\"... 피곤한 장(腸), '유산균 사균체'로 챙겨볼까",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70561",
+     "t": "2026-11-25T17:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "센트룸, '플러스+' 4종→대상웰라이프, '것시스' 유산균 출시",
+     "link": "https://www.slist.kr/news/articleView.html?idxno=784651",
+     "t": "2026-11-25T11:04:00+09:00",
+     "by": "slist.kr"
+    },
+    {
+     "title": "서울우유, 어린이 유산균 음료 '츄츄' 2종 출시…동남아 시장 공략",
+     "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=72073",
+     "t": "2026-11-24T23:24:00+09:00",
+     "by": "youngnong.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "콜레스테롤",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "스타틴으로도 부족한 콜레스테롤 조절…英, 신약 2종 승인",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=422785",
+     "t": "2026-11-27T07:24:00+09:00",
+     "by": "medipana.com"
+    },
+    {
+     "title": "“올리브유만 고집 마세요”… ‘나쁜 콜레스테롤 낮추는’ 고소한 기름",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/26/2026112602790.html",
+     "t": "2026-11-26T19:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "“2030 이상지질혈증 급증… ‘내 LDL 콜레스테롤’ 알고 꾸준히 관리 를...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/26/2026112602490.html",
+     "t": "2026-11-26T15:31:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "\"계란 노른자 콜레스테롤 공포, 진짜 주범은 포화지방\"",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3763769",
+     "t": "2026-11-26T11:14:00+09:00",
+     "by": "gukjenews.com"
+    },
+    {
+     "title": "콜레스테롤 낮추고 살 빼주는 '이 빵'... 英 전문가 \"포만감 높아 적게 ...",
+     "link": "https://www.insight.co.kr/news/583308",
+     "t": "2026-11-24T10:22:00+09:00",
+     "by": "insight.co.kr"
+    }
+   ]
+  },
+  {
    "name": "비타민C",
    "kind": "영양제",
    "count": 4,
@@ -708,38 +790,6 @@
    ]
   },
   {
-   "name": "유산균",
-   "kind": "영양제",
-   "count": 4,
-   "angles": [],
-   "items": [
-    {
-     "title": "전문가가 꼽은 '유산균' 필요하다는 신호 6가지",
-     "link": "http://www.joseilbo.com/news/news_read.php?uid=580531&class=27&grp=",
-     "t": "2026-11-26T16:04:00+09:00",
-     "by": "joseilbo.com"
-    },
-    {
-     "title": "\"연말 회식에 여행까지\"... 피곤한 장(腸), '유산균 사균체'로 챙겨볼까",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70561",
-     "t": "2026-11-25T17:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "센트룸, '플러스+' 4종→대상웰라이프, '것시스' 유산균 출시",
-     "link": "https://www.slist.kr/news/articleView.html?idxno=784651",
-     "t": "2026-11-25T11:04:00+09:00",
-     "by": "slist.kr"
-    },
-    {
-     "title": "서울우유, 어린이 유산균 음료 '츄츄' 2종 출시…동남아 시장 공략",
-     "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=72073",
-     "t": "2026-11-24T23:24:00+09:00",
-     "by": "youngnong.co.kr"
-    }
-   ]
-  },
-  {
    "name": "칼슘",
    "kind": "영양제",
    "count": 4,
@@ -770,41 +820,6 @@
      "link": "https://www.thebilliards.kr/news/articleView.html?idxno=32588",
      "t": "2026-11-26T12:02:00+09:00",
      "by": "thebilliards.kr"
-    }
-   ]
-  },
-  {
-   "name": "콜레스테롤",
-   "kind": "질환·증상",
-   "count": 4,
-   "angles": [
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "“올리브유만 고집 마세요”… ‘나쁜 콜레스테롤 낮추는’ 고소한 기름",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/26/2026112602790.html",
-     "t": "2026-11-26T19:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "“2030 이상지질혈증 급증… ‘내 LDL 콜레스테롤’ 알고 꾸준히 관리 를...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/26/2026112602490.html",
-     "t": "2026-11-26T15:31:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "\"계란 노른자 콜레스테롤 공포, 진짜 주범은 포화지방\"",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3763769",
-     "t": "2026-11-26T11:14:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "콜레스테롤 낮추고 살 빼주는 '이 빵'... 英 전문가 \"포만감 높아 적게 ...",
-     "link": "https://www.insight.co.kr/news/583308",
-     "t": "2026-11-24T10:22:00+09:00",
-     "by": "insight.co.kr"
     }
    ]
   },

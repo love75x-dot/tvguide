@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:08:28.928475+09:00",
+ "updated": "2026-11-26T13:55:07.817435+09:00",
  "hot": [
   {
    "name": "렉스턴",
@@ -33,7 +33,7 @@
   },
   {
    "name": "그랜저",
-   "count": 6,
+   "count": 5,
    "prev": 0,
    "rise": 3,
    "moto": false,
@@ -59,14 +59,6 @@
    "why": []
   },
   {
-   "name": "PV5",
-   "count": 2,
-   "prev": 1,
-   "rise": 9,
-   "moto": false,
-   "why": []
-  },
-  {
    "name": "코나",
    "count": 2,
    "prev": 0,
@@ -78,6 +70,14 @@
    ]
   },
   {
+   "name": "PV5",
+   "count": 1,
+   "prev": 1,
+   "rise": 9,
+   "moto": false,
+   "why": []
+  },
+  {
    "name": "카니발",
    "count": 1,
    "prev": 3,
@@ -86,11 +86,11 @@
    "why": []
   },
   {
-   "name": "캠리",
+   "name": "할리데이비슨",
    "count": 1,
    "prev": 0,
-   "rise": 11,
-   "moto": false,
+   "rise": -10,
+   "moto": true,
    "why": []
   }
  ],

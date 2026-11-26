@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T06:10:40.098077+09:00",
+ "updated": "2026-11-27T07:10:43.494671+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -46,12 +46,18 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 19,
+   "count": 20,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "계절성 독감 백신, 소 유래 H5N1 억제",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3017388",
+     "t": "2026-11-27T06:16:00+09:00",
+     "by": "bosa.co.kr"
+    },
     {
      "title": "독감 환자 급증…신속한 예방 접종 당부",
      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723953&ref=A",
@@ -75,25 +81,25 @@
      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70291",
      "t": "2026-11-26T17:00:00+09:00",
      "by": "hidoc.co.kr"
-    },
-    {
-     "title": "[현장] 독감 못지않게 위험한 RSV…아브리스보, 영아부터 고령층까지 보...",
-     "link": "https://daily.hankooki.com/news/articleView.html?idxno=1429486",
-     "t": "2026-11-26T16:48:00+09:00",
-     "by": "daily.hankooki.com"
     }
    ]
   },
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 15,
+   "count": 16,
    "angles": [
     "부작용",
     "에 좋은",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "스톡홀름대, 집 앞 100m 녹지 많을수록 치매 위험 21% 낮아…16년 추적 연...",
+     "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140407",
+     "t": "2026-11-27T07:00:00+09:00",
+     "by": "e-science.co.kr"
+    },
     {
      "title": "치매·파킨슨병 4개 코호트 6년…‘한국인 뇌 질환 ’ 실마리 풀려",
      "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978678",
@@ -117,12 +123,6 @@
      "link": "https://www.newscammp.co.kr/news/articleView.html?idxno=7329",
      "t": "2026-11-26T14:46:00+09:00",
      "by": "newscammp.co.kr"
-    },
-    {
-     "title": "치매·파킨슨병 연구데이터 모은다…뇌 질환 연구기반 성과 공유",
-     "link": "https://www.news1.kr/bio/welfare-medical/6367188",
-     "t": "2026-11-26T14:45:00+09:00",
-     "by": "news1.kr"
     }
    ]
   },
@@ -674,6 +674,40 @@
    ]
   },
   {
+   "name": "유방암",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "'엔허투가 놓친 암세포 노린다'…지니너스, 58조 유방암 치료제 시장 정...",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=01230006645649984&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-27T07:07:00+09:00",
+     "by": "edaily.co.kr"
+    },
+    {
+     "title": "“의료 AI로 유방암 조기 발견하고 평생 관리…1차 의료기관 역할 넓힌...",
+     "link": "https://magazine.hankyung.com/business/article/202611160534b",
+     "t": "2026-11-27T06:01:00+09:00",
+     "by": "magazine.hankyung.com"
+    },
+    {
+     "title": "'하루 한알'로 유방암 재발·사망 위험 30% '뚝'…꿈의 신약, 20년만에 美...",
+     "link": "https://www.imaeil.com/page/view/2026112610472056981",
+     "t": "2026-11-26T10:57:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "로슈 ‘윌서들리’ 초기 ER+ 유방암 FDA 허가",
+     "link": "https://www.yakup.com/news/index.html?mode=view&cat=16&nid=335656",
+     "t": "2026-11-24T14:10:00+09:00",
+     "by": "yakup.com"
+    }
+   ]
+  },
+  {
    "name": "유산균",
    "kind": "영양제",
    "count": 4,
@@ -909,34 +943,6 @@
      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886659",
      "t": "2026-11-24T16:28:00+09:00",
      "by": "hansbiz.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "유방암",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "“의료 AI로 유방암 조기 발견하고 평생 관리…1차 의료기관 역할 넓힌...",
-     "link": "https://magazine.hankyung.com/business/article/202611160534b",
-     "t": "2026-11-27T06:01:00+09:00",
-     "by": "magazine.hankyung.com"
-    },
-    {
-     "title": "'하루 한알'로 유방암 재발·사망 위험 30% '뚝'…꿈의 신약, 20년만에 美...",
-     "link": "https://www.imaeil.com/page/view/2026112610472056981",
-     "t": "2026-11-26T10:57:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "로슈 ‘윌서들리’ 초기 ER+ 유방암 FDA 허가",
-     "link": "https://www.yakup.com/news/index.html?mode=view&cat=16&nid=335656",
-     "t": "2026-11-24T14:10:00+09:00",
-     "by": "yakup.com"
     }
    ]
   },

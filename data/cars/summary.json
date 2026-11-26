@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-26T10:13:36.487490+09:00",
+ "updated": "2026-11-26T11:10:32.549291+09:00",
  "hot": [
   {
    "name": "렉스턴",
    "count": 28,
    "prev": 2,
-   "rise": null,
+   "rise": 77,
    "moto": false,
    "why": [
     "출시",
@@ -14,9 +14,9 @@
   },
   {
    "name": "아이오닉 3",
-   "count": 11,
+   "count": 13,
    "prev": 0,
-   "rise": null,
+   "rise": 0,
    "moto": false,
    "why": [
     "판매 1위",
@@ -27,31 +27,15 @@
    "name": "GLC",
    "count": 8,
    "prev": 0,
-   "rise": null,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "아반떼",
-   "count": 5,
-   "prev": 27,
-   "rise": null,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "GV90",
-   "count": 4,
-   "prev": 1,
-   "rise": null,
+   "rise": -9,
    "moto": false,
    "why": []
   },
   {
    "name": "그랜저",
-   "count": 3,
+   "count": 5,
    "prev": 0,
-   "rise": null,
+   "rise": 3,
    "moto": false,
    "why": [
     "판매 1위",
@@ -59,34 +43,53 @@
    ]
   },
   {
+   "name": "아반떼",
+   "count": 5,
+   "prev": 27,
+   "rise": 5,
+   "moto": false,
+   "why": []
+  },
+  {
+   "name": "GV90",
+   "count": 4,
+   "prev": 1,
+   "rise": 25,
+   "moto": false,
+   "why": []
+  },
+  {
    "name": "PV5",
    "count": 2,
    "prev": 1,
-   "rise": null,
+   "rise": 9,
    "moto": false,
    "why": []
   },
   {
-   "name": "싼타페",
+   "name": "코나",
    "count": 2,
    "prev": 0,
-   "rise": null,
+   "rise": 0,
+   "moto": false,
+   "why": [
+    "리콜",
+    "출시"
+   ]
+  },
+  {
+   "name": "카니발",
+   "count": 1,
+   "prev": 3,
+   "rise": 3,
    "moto": false,
    "why": []
   },
   {
-   "name": "쏘렌토",
-   "count": 2,
+   "name": "캠리",
+   "count": 1,
    "prev": 0,
-   "rise": null,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "쏘나타",
-   "count": 2,
-   "prev": 0,
-   "rise": null,
+   "rise": 11,
    "moto": false,
    "why": []
   }

@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-26T10:13:36.487490+09:00",
+ "updated": "2026-11-26T11:10:32.549291+09:00",
  "topics": [
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 36,
+   "count": 33,
    "angles": [
     "효능",
     "에 좋은",
@@ -46,12 +46,18 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 29,
+   "count": 28,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "겨울철 감기 독감 비상, 성인과 다른 아이 증상 꼼꼼히 살펴야",
+     "link": "https://www.livesnews.com/news/article.html?no=66401",
+     "t": "2026-11-26T10:38:00+09:00",
+     "by": "livesnews.com"
+    },
     {
      "title": "심근경색 환자, 독감 백신 접종 시 1년 사망률 낮아…입원 중 접종률은...",
      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627751",
@@ -75,12 +81,6 @@
      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3763302",
      "t": "2026-11-25T22:34:00+09:00",
      "by": "gukjenews.com"
-    },
-    {
-     "title": "[현장속으로]\"소아과는 오픈런\"… 독감 확산에 병·의원 '북새통'",
-     "link": "https://www.namdonews.com/news/articleView.html?idxno=930517",
-     "t": "2026-11-25T18:48:00+09:00",
-     "by": "namdonews.com"
     }
    ]
   },
@@ -168,6 +168,47 @@
    ]
   },
   {
+   "name": "감기",
+   "kind": "질환·증상",
+   "count": 13,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "[건강정보] 감기 다 나았는데 여전히 콜록콜록···우리 아이, 혹시 천...",
+     "link": "http://www.doctorstimes.com/news/articleView.html?idxno=241288",
+     "t": "2026-11-26T11:02:00+09:00",
+     "by": "doctorstimes.com"
+    },
+    {
+     "title": "겨울철 감기 독감 비상, 성인과 다른 아이 증상 꼼꼼히 살펴야",
+     "link": "https://www.livesnews.com/news/article.html?no=66401",
+     "t": "2026-11-26T10:38:00+09:00",
+     "by": "livesnews.com"
+    },
+    {
+     "title": "감기 다 나았는데 여전히 콜록콜록...우리 아이, 혹시 천식?",
+     "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=99157",
+     "t": "2026-11-26T09:28:00+09:00",
+     "by": "kmedinfo.co.kr"
+    },
+    {
+     "title": "[팩트체크] 잘 안 낫는 감기에는 항생제가 즉효?",
+     "link": "https://www.newstopkorea.com/ko-kr/articles/49313",
+     "t": "2026-11-26T07:46:00+09:00",
+     "by": "newstopkorea.com"
+    },
+    {
+     "title": "[헬스&라이프] 독감 환자 일주일 새 45% 급증…단순 감기와 구별하는 방...",
+     "link": "https://www.ddaily.co.kr/page/view/2026112514313274240",
+     "t": "2026-11-26T05:01:00+09:00",
+     "by": "ddaily.co.kr"
+    }
+   ]
+  },
+  {
    "name": "다이어트",
    "kind": "운동·생활",
    "count": 13,
@@ -212,7 +253,7 @@
   {
    "name": "수면",
    "kind": "운동·생활",
-   "count": 13,
+   "count": 12,
    "angles": [
     "부작용",
     "먹는 법"
@@ -247,47 +288,6 @@
      "link": "https://www.rapportian.com/news/articleView.html?idxno=242850",
      "t": "2026-11-25T10:40:00+09:00",
      "by": "rapportian.com"
-    }
-   ]
-  },
-  {
-   "name": "감기",
-   "kind": "질환·증상",
-   "count": 12,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "감기 다 나았는데 여전히 콜록콜록...우리 아이, 혹시 천식?",
-     "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=99157",
-     "t": "2026-11-26T09:28:00+09:00",
-     "by": "kmedinfo.co.kr"
-    },
-    {
-     "title": "[팩트체크] 잘 안 낫는 감기에는 항생제가 즉효?",
-     "link": "https://www.newstopkorea.com/ko-kr/articles/49313",
-     "t": "2026-11-26T07:46:00+09:00",
-     "by": "newstopkorea.com"
-    },
-    {
-     "title": "[헬스&라이프] 독감 환자 일주일 새 45% 급증…단순 감기와 구별하는 방...",
-     "link": "https://www.ddaily.co.kr/page/view/2026112514313274240",
-     "t": "2026-11-26T05:01:00+09:00",
-     "by": "ddaily.co.kr"
-    },
-    {
-     "title": "해외여행 뒤 발열, 그냥 감기 로 넘기지 말자",
-     "link": "http://www.samdailbo.com/news/articleView.html?idxno=273192",
-     "t": "2026-11-25T17:50:00+09:00",
-     "by": "samdailbo.com"
-    },
-    {
-     "title": "보일러 25도 틀고 자면 습도 급감, 감기 위험 커진다",
-     "link": "https://www.insight.co.kr/news/583589",
-     "t": "2026-11-25T17:46:00+09:00",
-     "by": "insight.co.kr"
     }
    ]
   },
@@ -373,9 +373,49 @@
    ]
   },
   {
+   "name": "단백질",
+   "kind": "영양제",
+   "count": 7,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "파인애플 속심 효소로 뽑은 소뼈 콜라겐, 근육 단백질 분해 최대 48% 억...",
+     "link": "https://www.dailian.co.kr/news/view/1719866/?sc=Naver",
+     "t": "2026-11-26T11:02:00+09:00",
+     "by": "dailian.co.kr"
+    },
+    {
+     "title": "'고단백' 음료·간식, 단백질 원료·당류·열량 함께 살펴야",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3763321",
+     "t": "2026-11-25T22:36:00+09:00",
+     "by": "gukjenews.com"
+    },
+    {
+     "title": "[김태열의 생생 건강 S펜] 국립암센터, 암세포 생존 돕는 두 단백질 상호...",
+     "link": "https://biz.heraldcorp.com/article/10949227?ref=naver",
+     "t": "2026-11-25T15:59:00+09:00",
+     "by": "biz.heraldcorp.com"
+    },
+    {
+     "title": "밀가루·버터 없이 만들 수 있다… 한의학 박사가 단백질 섭취에 좋다며...",
+     "link": "https://www.wikitree.co.kr/articles/1177559",
+     "t": "2026-11-25T12:08:00+09:00",
+     "by": "wikitree.co.kr"
+    },
+    {
+     "title": "\"당류 부담 낮췄다\"…매일유업·빙그레, 단백질 라인업 확대",
+     "link": "https://www.asiatime.co.kr/article/20261125500113",
+     "t": "2026-11-25T11:06:00+09:00",
+     "by": "asiatime.co.kr"
+    }
+   ]
+  },
+  {
    "name": "당뇨",
    "kind": "질환·증상",
-   "count": 8,
+   "count": 7,
    "angles": [
     "효능"
    ],
@@ -409,86 +449,6 @@
      "link": "https://kormedi.com/?p=2910666",
      "t": "2026-11-23T19:02:00+09:00",
      "by": "kormedi.com"
-    }
-   ]
-  },
-  {
-   "name": "폐렴",
-   "kind": "질환·증상",
-   "count": 8,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "\"곰팡이부터 가습기까지\"…일상 속 숨은 '과민성 폐렴' 위험",
-     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579431186260",
-     "t": "2026-11-24T11:20:00+09:00",
-     "by": "megaeconomy.co.kr"
-    },
-    {
-     "title": "[건강칼럼]'과민성 폐렴' 치료의 기본은 원인 물질을 찾아 피하는 것이...",
-     "link": "https://www.getnews.co.kr/news/articleView.html?idxno=888216",
-     "t": "2026-11-23T23:06:00+09:00",
-     "by": "getnews.co.kr"
-    },
-    {
-     "title": "독감 다 나은 줄 알았는데… 열이 또 난다면 폐렴 의심을",
-     "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041878",
-     "t": "2026-11-23T18:44:00+09:00",
-     "by": "kihoilbo.co.kr"
-    },
-    {
-     "title": "감기인 줄 알았던 마른기침…집 안 곰팡이가 '폐렴 원인'",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=422410",
-     "t": "2026-11-23T16:48:00+09:00",
-     "by": "medipana.com"
-    },
-    {
-     "title": "[건강뉴스] 독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 ...",
-     "link": "https://www.ibabynews.com/news/articleView.html?idxno=157210",
-     "t": "2026-11-23T16:20:00+09:00",
-     "by": "ibabynews.com"
-    }
-   ]
-  },
-  {
-   "name": "단백질",
-   "kind": "영양제",
-   "count": 7,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "'고단백' 음료·간식, 단백질 원료·당류·열량 함께 살펴야",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3763321",
-     "t": "2026-11-25T22:36:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "[김태열의 생생 건강 S펜] 국립암센터, 암세포 생존 돕는 두 단백질 상호...",
-     "link": "https://biz.heraldcorp.com/article/10949227?ref=naver",
-     "t": "2026-11-25T15:59:00+09:00",
-     "by": "biz.heraldcorp.com"
-    },
-    {
-     "title": "밀가루·버터 없이 만들 수 있다… 한의학 박사가 단백질 섭취에 좋다며...",
-     "link": "https://www.wikitree.co.kr/articles/1177559",
-     "t": "2026-11-25T12:08:00+09:00",
-     "by": "wikitree.co.kr"
-    },
-    {
-     "title": "\"당류 부담 낮췄다\"…매일유업·빙그레, 단백질 라인업 확대",
-     "link": "https://www.asiatime.co.kr/article/20261125500113",
-     "t": "2026-11-25T11:06:00+09:00",
-     "by": "asiatime.co.kr"
-    },
-    {
-     "title": "심혈관 건강에 좋고 단백질 풍부하다… 겨울에 먹으면 좋은 '이 생선'",
-     "link": "https://www.wikitree.co.kr/articles/1177588",
-     "t": "2026-11-25T10:32:00+09:00",
-     "by": "wikitree.co.kr"
     }
    ]
   },
@@ -653,6 +613,46 @@
    ]
   },
   {
+   "name": "폐렴",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "\"곰팡이부터 가습기까지\"…일상 속 숨은 '과민성 폐렴' 위험",
+     "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579431186260",
+     "t": "2026-11-24T11:20:00+09:00",
+     "by": "megaeconomy.co.kr"
+    },
+    {
+     "title": "[건강칼럼]'과민성 폐렴' 치료의 기본은 원인 물질을 찾아 피하는 것이...",
+     "link": "https://www.getnews.co.kr/news/articleView.html?idxno=888216",
+     "t": "2026-11-23T23:06:00+09:00",
+     "by": "getnews.co.kr"
+    },
+    {
+     "title": "독감 다 나은 줄 알았는데… 열이 또 난다면 폐렴 의심을",
+     "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041878",
+     "t": "2026-11-23T18:44:00+09:00",
+     "by": "kihoilbo.co.kr"
+    },
+    {
+     "title": "감기인 줄 알았던 마른기침…집 안 곰팡이가 '폐렴 원인'",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=422410",
+     "t": "2026-11-23T16:48:00+09:00",
+     "by": "medipana.com"
+    },
+    {
+     "title": "[건강뉴스] 독감 다 나은 줄 알았는데 다시 열이 난다면…폐렴 합병증 ...",
+     "link": "https://www.ibabynews.com/news/articleView.html?idxno=157210",
+     "t": "2026-11-23T16:20:00+09:00",
+     "by": "ibabynews.com"
+    }
+   ]
+  },
+  {
    "name": "김치",
    "kind": "식품·제철",
    "count": 4,
@@ -792,6 +792,75 @@
    ]
   },
   {
+   "name": "유방암",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "'하루 한알'로 유방암 재발·사망 위험 30% '뚝'…꿈의 신약, 20년만에 美...",
+     "link": "https://www.imaeil.com/page/view/2026112610472056981",
+     "t": "2026-11-26T10:57:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "로슈 ‘윌서들리’ 초기 ER+ 유방암 FDA 허가",
+     "link": "https://www.yakup.com/news/index.html?mode=view&cat=16&nid=335656",
+     "t": "2026-11-24T14:10:00+09:00",
+     "by": "yakup.com"
+    },
+    {
+     "title": "프레스티지바이오파마IDC, 유방암 치료제 개발 국책과제 선정",
+     "link": "https://www.newspim.com/news/view/20261123001089",
+     "t": "2026-11-23T16:56:00+09:00",
+     "by": "newspim.com"
+    },
+    {
+     "title": "프레스티지바이오파마IDC, 유방암 표적 장기지속형 피하주사 치료제 국...",
+     "link": "https://www.the-stock.kr/news/articleView.html?idxno=33892",
+     "t": "2026-11-23T13:30:00+09:00",
+     "by": "the-stock.kr"
+    }
+   ]
+  },
+  {
+   "name": "지방간",
+   "kind": "질환·증상",
+   "count": 4,
+   "angles": [
+    "부작용",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "음주 동반 대사성 지방간, 노년기 심방세동 위험 높아",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3017426",
+     "t": "2026-11-26T11:10:00+09:00",
+     "by": "bosa.co.kr"
+    },
+    {
+     "title": "노인 대사성 지방간 환자, 술도 마시면 심방세동 위험 껑충",
+     "link": "https://www.monews.co.kr/news/articleView.html?idxno=415811",
+     "t": "2026-11-26T10:12:00+09:00",
+     "by": "monews.co.kr"
+    },
+    {
+     "title": "노년기 지방간에 음주까지…심방세동 발생 위험 증가",
+     "link": "https://www.medipana.com/news/articleView.html?idxno=422711",
+     "t": "2026-11-26T09:34:00+09:00",
+     "by": "medipana.com"
+    },
+    {
+     "title": "“근육이 이리 탄탄한데”⋯비도 의아해한 ‘지방간’, 운동해도 생기는...",
+     "link": "https://kormedi.com/?p=2911174",
+     "t": "2026-11-24T15:12:00+09:00",
+     "by": "kormedi.com"
+    }
+   ]
+  },
+  {
    "name": "커피",
    "kind": "식품·제철",
    "count": 4,
@@ -828,41 +897,6 @@
    ]
   },
   {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 4,
-   "angles": [
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "남원시보건소, 고위험군에 독감·코로나19 접종 권장…독감 입원 3주 새...",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3763302",
-     "t": "2026-11-25T22:34:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "인플루엔자 71%·코로나19는 34%… 고령층 백신 격차 줄일 ' 예방 접종관리...",
-     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=81070",
-     "t": "2026-11-25T17:32:00+09:00",
-     "by": "mkhealth.co.kr"
-    },
-    {
-     "title": "“코에 걸면 코로나 예방”…마스크 제조 업체 대표, 2심도 벌금 2000만...",
-     "link": "https://www.segye.com/newsView/20261125508760?OutUrl=naver",
-     "t": "2026-11-25T12:19:00+09:00",
-     "by": "segye.com"
-    },
-    {
-     "title": "남원시, 독감·코로나 접종 독려",
-     "link": "http://www.jeollailbo.com/news/articleView.html?idxno=817512",
-     "t": "2026-11-23T11:02:00+09:00",
-     "by": "jeollailbo.com"
-    }
-   ]
-  },
-  {
    "name": "걷기",
    "kind": "운동·생활",
    "count": 3,
@@ -888,6 +922,34 @@
      "link": "https://www.insight.co.kr/news/583182",
      "t": "2026-11-23T13:42:00+09:00",
      "by": "insight.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "노로바이러스",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "광주 노로바이러스 검출률↑…\"식중독 예방 수칙 준수\"",
+     "link": "https://www.newsis.com/view/NISX20261126_0003884213",
+     "t": "2026-11-26T10:55:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "광주 노로바이러스 검출률 지속 상승세…\" 예방 수칙 준수해야\"",
+     "link": "https://www.news1.kr/local/gwangju-jeonnam/6366665",
+     "t": "2026-11-26T10:05:00+09:00",
+     "by": "news1.kr"
+    },
+    {
+     "title": "[ 건강 꿀팁] 겨울철 노로바이러스 '손씻기' 30초, 음식은 85도에서 1분 가...",
+     "link": "https://www.wikitree.co.kr/articles/1177648",
+     "t": "2026-11-25T12:42:00+09:00",
+     "by": "wikitree.co.kr"
     }
    ]
   },
@@ -1004,77 +1066,31 @@
    ]
   },
   {
-   "name": "유방암",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [],
-   "items": [
-    {
-     "title": "로슈 ‘윌서들리’ 초기 ER+ 유방암 FDA 허가",
-     "link": "https://www.yakup.com/news/index.html?mode=view&cat=16&nid=335656",
-     "t": "2026-11-24T14:10:00+09:00",
-     "by": "yakup.com"
-    },
-    {
-     "title": "프레스티지바이오파마IDC, 유방암 치료제 개발 국책과제 선정",
-     "link": "https://www.newspim.com/news/view/20261123001089",
-     "t": "2026-11-23T16:56:00+09:00",
-     "by": "newspim.com"
-    },
-    {
-     "title": "프레스티지바이오파마IDC, 유방암 표적 장기지속형 피하주사 치료제 국...",
-     "link": "https://www.the-stock.kr/news/articleView.html?idxno=33892",
-     "t": "2026-11-23T13:30:00+09:00",
-     "by": "the-stock.kr"
-    }
-   ]
-  },
-  {
-   "name": "지방간",
+   "name": "코로나",
    "kind": "질환·증상",
    "count": 3,
    "angles": [
-    "부작용",
-    "먹는 법"
+    "에 좋은",
+    "부작용"
    ],
    "items": [
     {
-     "title": "노인 대사성 지방간 환자, 술도 마시면 심방세동 위험 껑충",
-     "link": "https://www.monews.co.kr/news/articleView.html?idxno=415811",
-     "t": "2026-11-26T10:12:00+09:00",
-     "by": "monews.co.kr"
+     "title": "남원시보건소, 고위험군에 독감·코로나19 접종 권장…독감 입원 3주 새...",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3763302",
+     "t": "2026-11-25T22:34:00+09:00",
+     "by": "gukjenews.com"
     },
     {
-     "title": "노년기 지방간에 음주까지…심방세동 발생 위험 증가",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=422711",
-     "t": "2026-11-26T09:34:00+09:00",
-     "by": "medipana.com"
+     "title": "인플루엔자 71%·코로나19는 34%… 고령층 백신 격차 줄일 ' 예방 접종관리...",
+     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=81070",
+     "t": "2026-11-25T17:32:00+09:00",
+     "by": "mkhealth.co.kr"
     },
     {
-     "title": "“근육이 이리 탄탄한데”⋯비도 의아해한 ‘지방간’, 운동해도 생기는...",
-     "link": "https://kormedi.com/?p=2911174",
-     "t": "2026-11-24T15:12:00+09:00",
-     "by": "kormedi.com"
-    }
-   ]
-  },
-  {
-   "name": "고지혈증",
-   "kind": "질환·증상",
-   "count": 2,
-   "angles": [],
-   "items": [
-    {
-     "title": "달라진 고지혈증 치료 지침",
-     "link": "http://www.gnmaeil.com/news/articleView.html?idxno=599573",
-     "t": "2026-11-25T21:20:00+09:00",
-     "by": "gnmaeil.com"
-    },
-    {
-     "title": "휴온스, 고 혈압 ·고지혈증 치료 성분 3가지 담은 복합제 출시",
-     "link": "http://www.issuenbiz.com/news/articleView.html?idxno=81897",
-     "t": "2026-11-23T13:36:00+09:00",
-     "by": "issuenbiz.com"
+     "title": "“코에 걸면 코로나 예방”…마스크 제조 업체 대표, 2심도 벌금 2000만...",
+     "link": "https://www.segye.com/newsView/20261125508760?OutUrl=naver",
+     "t": "2026-11-25T12:19:00+09:00",
+     "by": "segye.com"
     }
    ]
   }

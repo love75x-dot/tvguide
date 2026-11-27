@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:08:42.673659+09:00",
+ "updated": "2026-11-27T16:08:42.211494+09:00",
  "hot": [
   {
    "name": "GLC",
@@ -20,18 +20,18 @@
    ]
   },
   {
-   "name": "GV90",
+   "name": "PV5",
    "count": 4,
    "prev": 0,
-   "rise": 38,
+   "rise": 6,
    "moto": false,
    "why": []
   },
   {
-   "name": "렉스턴",
-   "count": 3,
-   "prev": 27,
-   "rise": 53,
+   "name": "GV90",
+   "count": 4,
+   "prev": 0,
+   "rise": 38,
    "moto": false,
    "why": []
   },
@@ -44,10 +44,10 @@
    "why": []
   },
   {
-   "name": "PV5",
-   "count": 3,
-   "prev": 0,
-   "rise": 6,
+   "name": "렉스턴",
+   "count": 2,
+   "prev": 28,
+   "rise": 53,
    "moto": false,
    "why": []
   },
@@ -60,26 +60,32 @@
    "why": []
   },
   {
-   "name": "할리데이비슨",
+   "name": "그랜저",
    "count": 2,
    "prev": 0,
-   "rise": -2,
-   "moto": true,
-   "why": []
-  },
-  {
-   "name": "아이오닉 5",
-   "count": 2,
-   "prev": 0,
-   "rise": 6,
+   "rise": 3,
    "moto": false,
-   "why": []
+   "why": [
+    "판매 1위",
+    "중고차 시세"
+   ]
   },
   {
-   "name": "스포티지",
+   "name": "쏘렌토",
    "count": 2,
-   "prev": 1,
-   "rise": -4,
+   "prev": 0,
+   "rise": 1,
+   "moto": false,
+   "why": [
+    "판매 1위",
+    "중고차 시세"
+   ]
+  },
+  {
+   "name": "캐스퍼",
+   "count": 2,
+   "prev": 0,
+   "rise": 5,
    "moto": false,
    "why": [
     "중고차 시세"

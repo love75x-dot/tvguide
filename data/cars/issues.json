@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-27T22:08:34.017693+09:00",
+ "updated": "2026-11-27T23:08:40.795076+09:00",
  "car": [
   {
    "name": "현대차",
-   "count": 91,
+   "count": 89,
    "items": [
     {
      "title": "현대차 그룹, 영국 '탑기어 어워즈' 6년 연속 수상 영예",
@@ -39,8 +39,14 @@
   },
   {
    "name": "전기차",
-   "count": 36,
+   "count": 37,
    "items": [
+    {
+     "title": "[경기119] 달리는 전기차 불…피혁공장 화재 로 7명 대피",
+     "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1545284",
+     "t": "2026-11-27T22:30:00+09:00",
+     "by": "obsnews.co.kr"
+    },
     {
      "title": "'베이비 에스컬레이드' 전기차로 상륙…캐딜락 대형 SUV '비스틱' 출시",
      "link": "http://www.bizwnews.com/news/articleView.html?idxno=153581",
@@ -64,19 +70,19 @@
      "link": "https://www.newsway.co.kr/news/view?ud=2026112718551046442",
      "t": "2026-11-27T18:56:00+09:00",
      "by": "newsway.co.kr"
-    },
-    {
-     "title": "[르포] 4억원대 전기차 까지…중국차, 이제는 초고급차 경쟁",
-     "link": "https://www.yna.co.kr/view/AKR20261127157100003?input=1195m",
-     "t": "2026-11-27T18:34:00+09:00",
-     "by": "yna.co.kr"
     }
    ]
   },
   {
    "name": "관세",
-   "count": 35,
+   "count": 34,
    "items": [
+    {
+     "title": "“대통령이 경제적 자해를 했다”…저축까지 관세 인상 핑계삼은 트럼프",
+     "link": "https://www.mk.co.kr/article/12220521",
+     "t": "2026-11-27T22:24:00+09:00",
+     "by": "mk.co.kr"
+    },
     {
      "title": "과잉생산 관세 미 소비자에도 피해…이중잣대 비판",
      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1545266",
@@ -100,18 +106,48 @@
      "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=102465",
      "t": "2026-11-27T18:42:00+09:00",
      "by": "weeklytrade.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "자율주행",
+   "count": 19,
+   "items": [
+    {
+     "title": "서울시, ‘ 자율주행 이 바꿀 서울의 도시공간’ 모색…2차 내부 릴레이 ...",
+     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611272206211630015",
+     "t": "2026-11-27T22:20:00+09:00",
+     "by": "dnews.co.kr"
     },
     {
-     "title": "10대 그룹 CEO 80% 유임… 관세 ·금리 파고에 '안정' 택했다",
-     "link": "https://www.hankyung.com/article/2026112754261",
-     "t": "2026-11-27T17:53:00+09:00",
-     "by": "hankyung.com"
+     "title": "“차가 사라진 도로, 공원이 되고 서비스가 찾아온다”…서울, 자율주행 ...",
+     "link": "https://biz.heraldcorp.com/article/10952274?ref=naver",
+     "t": "2026-11-27T20:47:00+09:00",
+     "by": "biz.heraldcorp.com"
+    },
+    {
+     "title": "대전시, 전국 최초 자율주행 실증 데이터 개방…AI 인재 양성",
+     "link": "http://www.4th.kr/news/articleView.html?idxno=2122892",
+     "t": "2026-11-27T19:08:00+09:00",
+     "by": "4th.kr"
+    },
+    {
+     "title": "자율주행 공기 정화부터 비대면 건강 측정까지…진화하는 웰니스 로봇",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=628221",
+     "t": "2026-11-27T18:24:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "서울시 \" 자율주행 시대, 골목을 보행길·녹지로\" 실·국장 릴레이 특강",
+     "link": "http://www.breaknews.com/1254840",
+     "t": "2026-11-27T17:58:00+09:00",
+     "by": "breaknews.com"
     }
    ]
   },
   {
    "name": "반도체",
-   "count": 22,
+   "count": 21,
    "items": [
     {
      "title": "미국 '과잉생산' 관세 압박..'호남 반도체'까지 언급",
@@ -178,42 +214,6 @@
      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=203772",
      "t": "2026-11-27T16:44:00+09:00",
      "by": "thevaluenews.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "자율주행",
-   "count": 17,
-   "items": [
-    {
-     "title": "“차가 사라진 도로, 공원이 되고 서비스가 찾아온다”…서울, 자율주행 ...",
-     "link": "https://biz.heraldcorp.com/article/10952274?ref=naver",
-     "t": "2026-11-27T20:47:00+09:00",
-     "by": "biz.heraldcorp.com"
-    },
-    {
-     "title": "대전시, 전국 최초 자율주행 실증 데이터 개방…AI 인재 양성",
-     "link": "http://www.4th.kr/news/articleView.html?idxno=2122892",
-     "t": "2026-11-27T19:08:00+09:00",
-     "by": "4th.kr"
-    },
-    {
-     "title": "자율주행 공기 정화부터 비대면 건강 측정까지…진화하는 웰니스 로봇",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=628221",
-     "t": "2026-11-27T18:24:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "서울시 \" 자율주행 시대, 골목을 보행길·녹지로\" 실·국장 릴레이 특강",
-     "link": "http://www.breaknews.com/1254840",
-     "t": "2026-11-27T17:58:00+09:00",
-     "by": "breaknews.com"
-    },
-    {
-     "title": "[줌인] KCC, 제조 혁신부터 자율주행 도장로봇까지…잇단 수상에 담긴 경...",
-     "link": "http://www.dailypop.kr/news/articleView.html?idxno=105126",
-     "t": "2026-11-27T17:46:00+09:00",
-     "by": "dailypop.kr"
     }
    ]
   }

@@ -18,7 +18,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -30,14 +30,16 @@
     "06:10",
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 35
+    "nate_pop": 30,
+    "nate_int": 39
    },
    "count": 1,
    "inrank": true
@@ -118,7 +120,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 2,
    "hours": [
     "00:08",
@@ -130,15 +132,16 @@
     "06:10",
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 10
+    "nate_pop": 17,
+    "nate_int": 17
    },
    "count": 3,
    "inrank": true
@@ -230,7 +233,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -242,15 +245,16 @@
     "06:10",
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 7
+    "nate_pop": 15,
+    "nate_int": 13
    },
    "count": 11,
    "inrank": true
@@ -297,22 +301,24 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 39
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c6",
    "title": "'결별' 이도현, 한소희 다리 보일까 걱정…현장 뒤집은 핑크빛 매너",
    "titles": [
     "'결별' 이도현, 한소희 다리 보일까 걱정…현장 뒤집은 핑크빛 매너",
-    "이도현, 한소희 짧은 치마에 망설임 없이 옷 벗었다…스윗 매너男"
+    "이도현, 한소희 짧은 치마에 망설임 없이 옷 벗었다…스윗 매너男",
+    "'임지연과 결별' 이도현, 한소희 곁 지켰다…망설임 없이 옷 벗어준 '...",
+    "짧은 원피스 한소희 안절부절, 이도현 1초 컷 철벽 방어 \"이별 후에도 스윗..."
    ],
    "links": [
     "https://news.nate.com/view/20261126n35182",
-    "https://news.nate.com/view/20261127n02692"
+    "https://news.nate.com/view/20261127n02692",
+    "https://news.nate.com/view/20261127n08107",
+    "https://news.nate.com/view/20261127n02903"
    ],
    "articles": [
     {
@@ -324,11 +330,21 @@
      "title": "이도현, 한소희 짧은 치마에 망설임 없이 옷 벗었다…스윗 매너男",
      "link": "https://news.nate.com/view/20261127n02692",
      "media": "스포츠조선"
+    },
+    {
+     "title": "'임지연과 결별' 이도현, 한소희 곁 지켰다…망설임 없이 옷 벗어준 '...",
+     "link": "https://news.nate.com/view/20261127n08107",
+     "media": "TV리포트"
+    },
+    {
+     "title": "짧은 원피스 한소희 안절부절, 이도현 1초 컷 철벽 방어 \"이별 후에도 스윗...",
+     "link": "https://news.nate.com/view/20261127n02903",
+     "media": "스포츠서울"
     }
    ],
    "first": "00:08",
-   "last": "10:10",
-   "best": 6,
+   "last": "11:08",
+   "best": 2,
    "hours": [
     "00:08",
     "01:10",
@@ -339,17 +355,18 @@
     "06:10",
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 24
+    "nate_pop": 2,
+    "nate_int": 3
    },
-   "count": 2,
+   "count": 4,
    "inrank": true
   },
   {
@@ -376,7 +393,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 6,
    "hours": [
     "00:08",
@@ -388,15 +405,15 @@
     "06:10",
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 16
+    "nate_int": 24
    },
    "count": 2,
    "inrank": true
@@ -505,7 +522,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 2,
    "hours": [
     "00:08",
@@ -517,15 +534,15 @@
     "06:10",
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 21
+    "nate_int": 25
    },
    "count": 7,
    "inrank": true
@@ -547,7 +564,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 5,
    "hours": [
     "00:08",
@@ -559,15 +576,15 @@
     "06:10",
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 33
+    "nate_int": 41
    },
    "count": 1,
    "inrank": true
@@ -627,7 +644,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 10,
    "hours": [
     "00:08",
@@ -639,14 +656,15 @@
     "06:10",
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 38
+    "nate_int": 46
    },
    "count": 1,
    "inrank": true
@@ -718,7 +736,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -730,15 +748,16 @@
     "06:10",
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 20
+    "nate_pop": 25,
+    "nate_int": 29
    },
    "count": 3,
    "inrank": true
@@ -805,7 +824,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 4,
    "hours": [
     "00:08",
@@ -817,14 +836,15 @@
     "06:10",
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 26
+    "nate_int": 35
    },
    "count": 2,
    "inrank": true
@@ -864,11 +884,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 41
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c18",
@@ -947,11 +965,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 46
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c20",
@@ -1014,7 +1030,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 11,
    "hours": [
     "00:08",
@@ -1026,14 +1042,15 @@
     "06:10",
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 40
+    "nate_int": 44
    },
    "count": 2,
    "inrank": true
@@ -1626,12 +1643,14 @@
    "titles": [
     "지나, 10년 공백 뒤 근황…\"같은 사람이지만 다른 분위기\"",
     "'10년 공백' 지나, 몰라보게 달라진 얼굴…39세에 느껴지는 세월",
-    "지나, '10년 공백' 사이 무슨 일 있었나…몰라보게 달라진 얼굴에 '술렁' [..."
+    "지나, '10년 공백' 사이 무슨 일 있었나…몰라보게 달라진 얼굴에 '술렁' [...",
+    "'10년 만에 복귀' 지나, 과감한 복부 노출 패션으로 시선 집중 [★한컷]"
    ],
    "links": [
     "https://news.nate.com/view/20261126n37433",
     "https://news.nate.com/view/20261126n37013",
-    "https://news.nate.com/view/20261127n02581"
+    "https://news.nate.com/view/20261127n02581",
+    "https://news.nate.com/view/20261127n08427"
    ],
    "articles": [
     {
@@ -1648,10 +1667,15 @@
      "title": "지나, '10년 공백' 사이 무슨 일 있었나…몰라보게 달라진 얼굴에 '술렁' [...",
      "link": "https://news.nate.com/view/20261127n02581",
      "media": "엑스포츠뉴스"
+    },
+    {
+     "title": "'10년 만에 복귀' 지나, 과감한 복부 노출 패션으로 시선 집중 [★한컷]",
+     "link": "https://news.nate.com/view/20261127n08427",
+     "media": "티브이데일리"
     }
    ],
    "first": "00:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 5,
    "hours": [
     "00:08",
@@ -1663,17 +1687,18 @@
     "06:10",
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 5
+    "nate_pop": 9,
+    "nate_int": 6
    },
-   "count": 3,
+   "count": 4,
    "inrank": true
   },
   {
@@ -1738,7 +1763,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 11,
    "hours": [
     "00:08",
@@ -1750,15 +1775,16 @@
     "06:10",
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 17
+    "nate_pop": 22,
+    "nate_int": 21
    },
    "count": 2,
    "inrank": true
@@ -1798,11 +1824,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 36
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c43",
@@ -1984,11 +2008,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 48
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c48",
@@ -2106,19 +2128,20 @@
     }
    ],
    "first": "05:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 12,
    "hours": [
     "05:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 22
+    "nate_pop": 18,
+    "nate_int": 20
    },
    "count": 2,
    "inrank": true
@@ -2200,20 +2223,21 @@
     }
    ],
    "first": "07:10",
-   "last": "10:10",
+   "last": "11:08",
    "best": 14,
    "hours": [
     "07:10",
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 18
+    "nate_pop": 20,
+    "nate_int": 19
    },
    "count": 1,
    "inrank": true
@@ -2224,12 +2248,18 @@
    "titles": [
     "팬 편지 쓰레기장에 투척…뮤지컬 배우 이동연, \"빼빼로만 빼먹고 버렸...",
     "'제자 성폭행 혐의' 뮤지컬 배우 남경주, 국민참여재판 시작",
-    "이동연, 팬 편지 보지도 않고 버렸다 들통 \"배은망덕 레전드\" [소셜in]"
+    "이동연, 팬 편지 보지도 않고 버렸다 들통 \"배은망덕 레전드\" [소셜in]",
+    "'제자 성폭행 혐의' 남경주 재판에 웬 뮤지컬? 먼저 꺼낸 건 재판장이었다...",
+    "'제자 성폭행 혐의' 남경주는 원했고 피해자는 반대했다…국민참여재판의 '...",
+    "법정 향하는 뮤지컬 배우 남경주"
    ],
    "links": [
     "https://news.nate.com/view/20261127n03233",
     "https://news.nate.com/view/20261127n06392",
-    "https://news.nate.com/view/20261127n05944"
+    "https://news.nate.com/view/20261127n05944",
+    "https://news.nate.com/view/20261127n04848",
+    "https://news.nate.com/view/20261127n07883",
+    "https://news.nate.com/view/20261127n06391"
    ],
    "articles": [
     {
@@ -2246,24 +2276,40 @@
      "title": "이동연, 팬 편지 보지도 않고 버렸다 들통 \"배은망덕 레전드\" [소셜in]",
      "link": "https://news.nate.com/view/20261127n05944",
      "media": "iMBC연예"
+    },
+    {
+     "title": "'제자 성폭행 혐의' 남경주 재판에 웬 뮤지컬? 먼저 꺼낸 건 재판장이었다...",
+     "link": "https://news.nate.com/view/20261127n04848",
+     "media": "OSEN"
+    },
+    {
+     "title": "'제자 성폭행 혐의' 남경주는 원했고 피해자는 반대했다…국민참여재판의 '...",
+     "link": "https://news.nate.com/view/20261127n07883",
+     "media": "스포츠서울"
+    },
+    {
+     "title": "법정 향하는 뮤지컬 배우 남경주",
+     "link": "https://news.nate.com/view/20261127n06391",
+     "media": "뉴시스"
     }
    ],
    "first": "08:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 1,
    "hours": [
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
+    "nate_pop": 3,
     "nate_int": 1
    },
-   "count": 3,
+   "count": 6,
    "inrank": true
   },
   {
@@ -2283,19 +2329,20 @@
     }
    ],
    "first": "08:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 2,
    "hours": [
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 4
+    "nate_pop": 12,
+    "nate_int": 12
    },
    "count": 1,
    "inrank": true
@@ -2317,19 +2364,20 @@
     }
    ],
    "first": "08:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 2,
    "hours": [
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 2
+    "nate_pop": 8,
+    "nate_int": 4
    },
    "count": 1,
    "inrank": true
@@ -2351,19 +2399,20 @@
     }
    ],
    "first": "08:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 5,
    "hours": [
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 14
+    "nate_pop": 29,
+    "nate_int": 22
    },
    "count": 1,
    "inrank": true
@@ -2385,19 +2434,20 @@
     }
    ],
    "first": "08:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 3,
    "hours": [
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 3
+    "nate_pop": 6,
+    "nate_int": 7
    },
    "count": 1,
    "inrank": true
@@ -2419,19 +2469,19 @@
     }
    ],
    "first": "08:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 19,
    "hours": [
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 19
+    "nate_int": 34
    },
    "count": 1,
    "inrank": true
@@ -2453,19 +2503,19 @@
     }
    ],
    "first": "08:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 23,
    "hours": [
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 29
+    "nate_int": 30
    },
    "count": 1,
    "inrank": true
@@ -2487,19 +2537,20 @@
     }
    ],
    "first": "08:08",
-   "last": "10:10",
+   "last": "11:08",
    "best": 4,
    "hours": [
     "08:08",
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 6
+    "nate_pop": 7,
+    "nate_int": 10
    },
    "count": 1,
    "inrank": true
@@ -2521,18 +2572,19 @@
     }
    ],
    "first": "10:10",
-   "last": "10:10",
+   "last": "11:08",
    "best": 6,
    "hours": [
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 8
+    "nate_pop": 11,
+    "nate_int": 11
    },
    "count": 1,
    "inrank": true
@@ -2554,18 +2606,19 @@
     }
    ],
    "first": "10:10",
-   "last": "10:10",
+   "last": "11:08",
    "best": 9,
    "hours": [
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 9
+    "nate_pop": 21,
+    "nate_int": 18
    },
    "count": 1,
    "inrank": true
@@ -2587,18 +2640,19 @@
     }
    ],
    "first": "10:10",
-   "last": "10:10",
+   "last": "11:08",
    "best": 11,
    "hours": [
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 11
+    "nate_pop": 23,
+    "nate_int": 16
    },
    "count": 1,
    "inrank": true
@@ -2620,10 +2674,11 @@
     }
    ],
    "first": "10:10",
-   "last": "10:10",
+   "last": "11:08",
    "best": 12,
    "hours": [
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
@@ -2631,7 +2686,7 @@
    ],
    "now": {
     "nate_pop": 13,
-    "nate_int": 12
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -2653,18 +2708,19 @@
     }
    ],
    "first": "10:10",
-   "last": "10:10",
-   "best": 13,
+   "last": "11:08",
+   "best": 5,
    "hours": [
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 13
+    "nate_pop": 5,
+    "nate_int": 5
    },
    "count": 1,
    "inrank": true
@@ -2686,17 +2742,18 @@
     }
    ],
    "first": "10:10",
-   "last": "10:10",
+   "last": "11:08",
    "best": 20,
    "hours": [
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
+    "nate_pop": 28,
     "nate_int": 23
    },
    "count": 1,
@@ -2719,18 +2776,19 @@
     }
    ],
    "first": "10:10",
-   "last": "10:10",
-   "best": 30,
+   "last": "11:08",
+   "best": 26,
    "hours": [
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 31
+    "nate_pop": 26,
+    "nate_int": 27
    },
    "count": 1,
    "inrank": true
@@ -2760,11 +2818,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 37
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c71",
@@ -2783,16 +2839,19 @@
     }
    ],
    "first": "10:10",
-   "last": "10:10",
-   "best": 43,
+   "last": "11:08",
+   "best": 27,
    "hours": [
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 43
+    "nate_pop": 27,
+    "nate_int": 28
    },
    "count": 1,
    "inrank": true
@@ -2814,16 +2873,123 @@
     }
    ],
    "first": "10:10",
-   "last": "10:10",
+   "last": "11:08",
    "best": 44,
    "hours": [
-    "10:10"
+    "10:10",
+    "11:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 44
+    "nate_int": 48
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c73",
+   "title": "[단독] 강호동 아들 강시후, 전국 골프대회 준우승 '쾌거'…아빠 피 물...",
+   "titles": [
+    "[단독] 강호동 아들 강시후, 전국 골프대회 준우승 '쾌거'…아빠 피 물...",
+    "'피는 못 속이네'…강호동 아들 강시후, 전국 골프대회 고등부 준우승 쾌거"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261127n08151",
+    "https://news.nate.com/view/20261127n09236"
+   ],
+   "articles": [
+    {
+     "title": "[단독] 강호동 아들 강시후, 전국 골프대회 준우승 '쾌거'…아빠 피 물...",
+     "link": "https://news.nate.com/view/20261127n08151",
+     "media": "OSEN"
+    },
+    {
+     "title": "'피는 못 속이네'…강호동 아들 강시후, 전국 골프대회 고등부 준우승 쾌거",
+     "link": "https://news.nate.com/view/20261127n09236",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 1,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 1,
+    "nate_int": 2
+   },
+   "count": 2,
+   "inrank": true
+  },
+  {
+   "id": "c74",
+   "title": "유세윤, 베스티 다혜 양말 11년간 갖고 있었나…역주행에 사건 재소환",
+   "titles": [
+    "유세윤, 베스티 다혜 양말 11년간 갖고 있었나…역주행에 사건 재소환"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261127n09973"
+   ],
+   "articles": [
+    {
+     "title": "유세윤, 베스티 다혜 양말 11년간 갖고 있었나…역주행에 사건 재소환",
+     "link": "https://news.nate.com/view/20261127n09973",
+     "media": "엑스포츠뉴스"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 4,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 4,
+    "nate_int": 8
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c75",
+   "title": "허리띠로 직원 폭행→살해 협박…유명 화장품 업체 대표 누구? (히든아이)",
+   "titles": [
+    "허리띠로 직원 폭행→살해 협박…유명 화장품 업체 대표 누구? (히든아이)"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261127n09724"
+   ],
+   "articles": [
+    {
+     "title": "허리띠로 직원 폭행→살해 협박…유명 화장품 업체 대표 누구? (히든아이)",
+     "link": "https://news.nate.com/view/20261127n09724",
+     "media": "iMBC연예"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 19,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 19,
+    "nate_int": 40
    },
    "count": 1,
    "inrank": true
@@ -2909,9 +3075,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "11:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-27T10:10:50.501838+09:00",
+ "updated": "2026-11-27T11:08:20.750074+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

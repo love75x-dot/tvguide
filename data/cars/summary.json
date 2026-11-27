@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:10:58.697884+09:00",
+ "updated": "2026-11-27T11:08:26.323099+09:00",
  "hot": [
   {
    "name": "GLC",
@@ -16,6 +16,16 @@
    "rise": 38,
    "moto": false,
    "why": []
+  },
+  {
+   "name": "할리데이비슨",
+   "count": 3,
+   "prev": 0,
+   "rise": -2,
+   "moto": true,
+   "why": [
+    "출시"
+   ]
   },
   {
    "name": "아이오닉 3",
@@ -44,30 +54,28 @@
    ]
   },
   {
-   "name": "할리데이비슨",
+   "name": "아이오닉 5",
    "count": 2,
    "prev": 0,
-   "rise": -2,
-   "moto": true,
-   "why": [
-    "출시"
-   ]
+   "rise": 6,
+   "moto": false,
+   "why": []
   },
   {
-   "name": "렉스턴",
+   "name": "스포티지",
    "count": 2,
-   "prev": 27,
-   "rise": 53,
+   "prev": 1,
+   "rise": -4,
    "moto": false,
    "why": [
-    "가격 공개"
+    "중고차 시세"
    ]
   },
   {
-   "name": "그랜저",
+   "name": "카니발",
    "count": 2,
-   "prev": 0,
-   "rise": 3,
+   "prev": 1,
+   "rise": 4,
    "moto": false,
    "why": [
     "판매 1위",
@@ -75,24 +83,13 @@
    ]
   },
   {
-   "name": "쏘렌토",
+   "name": "EV6",
    "count": 2,
    "prev": 0,
-   "rise": 1,
+   "rise": -1,
    "moto": false,
    "why": [
-    "판매 1위",
-    "중고차 시세"
-   ]
-  },
-  {
-   "name": "캐스퍼",
-   "count": 2,
-   "prev": 0,
-   "rise": 5,
-   "moto": false,
-   "why": [
-    "중고차 시세"
+    "리콜"
    ]
   }
  ],

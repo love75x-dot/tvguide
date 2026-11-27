@@ -1,10 +1,51 @@
 {
- "updated": "2026-11-27T14:10:55.071650+09:00",
+ "updated": "2026-11-27T15:08:42.673659+09:00",
  "topics": [
+  {
+   "name": "독감",
+   "kind": "질환·증상",
+   "count": 24,
+   "angles": [
+    "에 좋은",
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "독감 호전되다가 다시 열나… 세균성 폐렴 걸릴 수도, 같은 듯 다른 독...",
+     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214885",
+     "t": "2026-11-27T15:08:00+09:00",
+     "by": "100ssd.co.kr"
+    },
+    {
+     "title": "독감 의심환자 5주 연속 증가…일주일 새 약 1000명 입원 [헬시타임]",
+     "link": "https://www.sedaily.com/article/20119865?ref=naver",
+     "t": "2026-11-27T14:29:00+09:00",
+     "by": "sedaily.com"
+    },
+    {
+     "title": "보령바이오파마 독감 신약 3상 설계 공개…위약대조·348명 모집",
+     "link": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70682",
+     "t": "2026-11-27T09:06:00+09:00",
+     "by": "medicopharma.co.kr"
+    },
+    {
+     "title": "심상치 않은 독감 상황...커지는 우려 [자막뉴스]",
+     "link": "https://www.ytn.co.kr/_ln/0134_202611270853494904",
+     "t": "2026-11-27T08:53:00+09:00",
+     "by": "ytn.co.kr"
+    },
+    {
+     "title": "국내 독감 기승, 중국엔 3가지 바이러스 동시 유행...\"백신 접종이 가장...",
+     "link": "https://www.ytn.co.kr/_ln/0115_202611270830569270",
+     "t": "2026-11-27T08:30:00+09:00",
+     "by": "ytn.co.kr"
+    }
+   ]
+  },
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 26,
+   "count": 24,
    "angles": [
     "효능",
     "에 좋은",
@@ -44,47 +85,6 @@
    ]
   },
   {
-   "name": "독감",
-   "kind": "질환·증상",
-   "count": 22,
-   "angles": [
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "보령바이오파마 독감 신약 3상 설계 공개…위약대조·348명 모집",
-     "link": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70682",
-     "t": "2026-11-27T09:06:00+09:00",
-     "by": "medicopharma.co.kr"
-    },
-    {
-     "title": "심상치 않은 독감 상황...커지는 우려 [자막뉴스]",
-     "link": "https://www.ytn.co.kr/_ln/0134_202611270853494904",
-     "t": "2026-11-27T08:53:00+09:00",
-     "by": "ytn.co.kr"
-    },
-    {
-     "title": "국내 독감 기승, 중국엔 3가지 바이러스 동시 유행...\"백신 접종이 가장...",
-     "link": "https://www.ytn.co.kr/_ln/0115_202611270830569270",
-     "t": "2026-11-27T08:30:00+09:00",
-     "by": "ytn.co.kr"
-    },
-    {
-     "title": "계절성 독감 백신, 소 유래 H5N1 억제",
-     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3017388",
-     "t": "2026-11-27T06:16:00+09:00",
-     "by": "bosa.co.kr"
-    },
-    {
-     "title": "독감 환자 급증…신속한 예방 접종 당부",
-     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723953&ref=A",
-     "t": "2026-11-26T22:12:00+09:00",
-     "by": "kbs.co.kr"
-    }
-   ]
-  },
-  {
    "name": "치매",
    "kind": "질환·증상",
    "count": 17,
@@ -94,6 +94,12 @@
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "\"치매 단백질 없어도 기억력 저하\"…뇌 소혈관 손상·인지장애 기전 규...",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3017560",
+     "t": "2026-11-27T15:06:00+09:00",
+     "by": "bosa.co.kr"
+    },
     {
      "title": "치매 단백질 없어도 기억력 뚝…“MRI 속 ‘뇌 소혈관 손상’이 주원인...",
      "link": "https://www.seoul.co.kr/news/society/health-medical/2026/11/27/20261127500096?wlog_tag3=naver",
@@ -117,12 +123,6 @@
      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140407",
      "t": "2026-11-27T07:00:00+09:00",
      "by": "e-science.co.kr"
-    },
-    {
-     "title": "치매·파킨슨병 4개 코호트 6년…‘한국인 뇌 질환 ’ 실마리 풀려",
-     "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510978678",
-     "t": "2026-11-26T21:10:00+09:00",
-     "by": "medicalworldnews.co.kr"
     }
    ]
   },
@@ -169,6 +169,46 @@
    ]
   },
   {
+   "name": "단백질",
+   "kind": "영양제",
+   "count": 14,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "\"치매 단백질 없어도 기억력 저하\"…뇌 소혈관 손상·인지장애 기전 규...",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3017560",
+     "t": "2026-11-27T15:06:00+09:00",
+     "by": "bosa.co.kr"
+    },
+    {
+     "title": "맘메이크, '독립운동가 지원에 1000만원 상당 단백질 쉐이크 전달'…우...",
+     "link": "http://www.bizwnews.com/news/articleView.html?idxno=153519",
+     "t": "2026-11-27T14:24:00+09:00",
+     "by": "bizwnews.com"
+    },
+    {
+     "title": "단백질 가득하고 세포 손상 방지한다… 추운 겨울에 꼭 먹으면 좋은 '제...",
+     "link": "https://www.wikitree.co.kr/articles/1178266",
+     "t": "2026-11-27T11:18:00+09:00",
+     "by": "wikitree.co.kr"
+    },
+    {
+     "title": "치매 단백질 없어도 기억력 뚝…“MRI 속 ‘뇌 소혈관 손상’이 주원인...",
+     "link": "https://www.seoul.co.kr/news/society/health-medical/2026/11/27/20261127500096?wlog_tag3=naver",
+     "t": "2026-11-27T10:58:00+09:00",
+     "by": "seoul.co.kr"
+    },
+    {
+     "title": "[약식동원] 단백질과 철분을 한 접시에 오리고기",
+     "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=335545",
+     "t": "2026-11-27T09:24:00+09:00",
+     "by": "yakup.com"
+    }
+   ]
+  },
+  {
    "name": "수면",
    "kind": "운동·생활",
    "count": 13,
@@ -210,46 +250,6 @@
    ]
   },
   {
-   "name": "단백질",
-   "kind": "영양제",
-   "count": 12,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "단백질 가득하고 세포 손상 방지한다… 추운 겨울에 꼭 먹으면 좋은 '제...",
-     "link": "https://www.wikitree.co.kr/articles/1178266",
-     "t": "2026-11-27T11:18:00+09:00",
-     "by": "wikitree.co.kr"
-    },
-    {
-     "title": "치매 단백질 없어도 기억력 뚝…“MRI 속 ‘뇌 소혈관 손상’이 주원인...",
-     "link": "https://www.seoul.co.kr/news/society/health-medical/2026/11/27/20261127500096?wlog_tag3=naver",
-     "t": "2026-11-27T10:58:00+09:00",
-     "by": "seoul.co.kr"
-    },
-    {
-     "title": "[약식동원] 단백질과 철분을 한 접시에 오리고기",
-     "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=335545",
-     "t": "2026-11-27T09:24:00+09:00",
-     "by": "yakup.com"
-    },
-    {
-     "title": "건강 챙기려 매일 먹었는데…단백질 과다 섭취가 부른 뜻밖의 결과",
-     "link": "https://www.segye.com/newsView/20261117517342?OutUrl=naver",
-     "t": "2026-11-27T05:32:00+09:00",
-     "by": "segye.com"
-    },
-    {
-     "title": "[인터뷰] 김정훈 생명연 센터장 \"질병 관련 단백질 분해하는 신약 개발...",
-     "link": "https://www.ajunews.com/view/20261126110449856",
-     "t": "2026-11-26T19:00:00+09:00",
-     "by": "ajunews.com"
-    }
-   ]
-  },
-  {
    "name": "다이어트",
    "kind": "운동·생활",
    "count": 10,
@@ -284,6 +284,47 @@
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/25/2026112502774.html",
      "t": "2026-11-25T20:01:00+09:00",
      "by": "health.chosun.com"
+    }
+   ]
+  },
+  {
+   "name": "콜레스테롤",
+   "kind": "질환·증상",
+   "count": 10,
+   "angles": [
+    "부작용",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "[고지혈증의 경고 2] 숫자 하나로 판단 말라: 콜레스테롤 수치 읽는 법",
+     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214863",
+     "t": "2026-11-27T15:08:00+09:00",
+     "by": "100ssd.co.kr"
+    },
+    {
+     "title": "아토피·류마티스관절염 경구 치료제, 콜레스테롤 관리 필요",
+     "link": "https://www.sentv.co.kr/article/view/sentv202611270157",
+     "t": "2026-11-27T14:18:00+09:00",
+     "by": "sentv.co.kr"
+    },
+    {
+     "title": "아토피·류마티스관절염 경구약, 투약 초기 콜레스테롤 관리 필요해",
+     "link": "https://www.k-health.com/news/articleView.html?idxno=102486",
+     "t": "2026-11-27T13:52:00+09:00",
+     "by": "k-health.com"
+    },
+    {
+     "title": "우파다시티닙, 복용 초기 '콜레스테롤 상승' 주의",
+     "link": "https://dailymedi.com/news/news_view.php?wr_id=943056",
+     "t": "2026-11-27T11:34:00+09:00",
+     "by": "dailymedi.com"
+    },
+    {
+     "title": "경구 치료제 '우파다시티닙' 투약 초기 콜레스테롤 관리 필요",
+     "link": "https://www.rapportian.com/news/articleView.html?idxno=242966",
+     "t": "2026-11-27T11:24:00+09:00",
+     "by": "rapportian.com"
     }
    ]
   },
@@ -367,6 +408,46 @@
    ]
   },
   {
+   "name": "우유",
+   "kind": "식품·제철",
+   "count": 9,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "겨울철 더 중요한 칼슘 섭취…우유로 영양 보충",
+     "link": "https://www.sidae.com/article/2026112714565066420",
+     "t": "2026-11-27T15:05:00+09:00",
+     "by": "sidae.com"
+    },
+    {
+     "title": "칼슘 섭취 부족한 한국인… 겨울철 우유 한 잔이 필요한 이유",
+     "link": "https://www.sportschosun.com/life/2026-11-27/202611270100170860015846",
+     "t": "2026-11-27T11:12:00+09:00",
+     "by": "sportschosun.com"
+    },
+    {
+     "title": "한국인 부족 영양소 ‘칼슘’… 겨울철 우유 섭취가 중요한 이유",
+     "link": "https://view.asiae.co.kr/article/2026112710133605686",
+     "t": "2026-11-27T10:15:00+09:00",
+     "by": "view.asiae.co.kr"
+    },
+    {
+     "title": "칼슘 섭취 부족한 국민 70.9%···우유 한 잔으로 영양 관리 시작해볼까",
+     "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=56879",
+     "t": "2026-11-27T09:12:00+09:00",
+     "by": "enetnews.co.kr"
+    },
+    {
+     "title": "겨울철 놓치기 쉬운 영양 관리…칼슘 보충엔 우유 한 잔",
+     "link": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45889",
+     "t": "2026-11-27T09:06:00+09:00",
+     "by": "hemophilia.co.kr"
+    }
+   ]
+  },
+  {
    "name": "지방간",
    "kind": "질환·증상",
    "count": 9,
@@ -409,53 +490,19 @@
    ]
   },
   {
-   "name": "우유",
-   "kind": "식품·제철",
-   "count": 8,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "칼슘 섭취 부족한 한국인… 겨울철 우유 한 잔이 필요한 이유",
-     "link": "https://www.sportschosun.com/life/2026-11-27/202611270100170860015846",
-     "t": "2026-11-27T11:12:00+09:00",
-     "by": "sportschosun.com"
-    },
-    {
-     "title": "한국인 부족 영양소 ‘칼슘’… 겨울철 우유 섭취가 중요한 이유",
-     "link": "https://view.asiae.co.kr/article/2026112710133605686",
-     "t": "2026-11-27T10:15:00+09:00",
-     "by": "view.asiae.co.kr"
-    },
-    {
-     "title": "칼슘 섭취 부족한 국민 70.9%···우유 한 잔으로 영양 관리 시작해볼까",
-     "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=56879",
-     "t": "2026-11-27T09:12:00+09:00",
-     "by": "enetnews.co.kr"
-    },
-    {
-     "title": "겨울철 놓치기 쉬운 영양 관리…칼슘 보충엔 우유 한 잔",
-     "link": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45889",
-     "t": "2026-11-27T09:06:00+09:00",
-     "by": "hemophilia.co.kr"
-    },
-    {
-     "title": "칼슘 섭취량 권장 수준의 67.3%… 겨울철 우유로 영양 보완",
-     "link": "https://www.gpkorea.com/news/articleView.html?idxno=149058",
-     "t": "2026-11-26T15:26:00+09:00",
-     "by": "gpkorea.com"
-    }
-   ]
-  },
-  {
    "name": "칼슘",
    "kind": "영양제",
-   "count": 8,
+   "count": 9,
    "angles": [
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "겨울철 더 중요한 칼슘 섭취…우유로 영양 보충",
+     "link": "https://www.sidae.com/article/2026112714565066420",
+     "t": "2026-11-27T15:05:00+09:00",
+     "by": "sidae.com"
+    },
     {
      "title": "칼슘 섭취 부족한 한국인… 겨울철 우유 한 잔이 필요한 이유",
      "link": "https://www.sportschosun.com/life/2026-11-27/202611270100170860015846",
@@ -479,53 +526,6 @@
      "link": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45889",
      "t": "2026-11-27T09:06:00+09:00",
      "by": "hemophilia.co.kr"
-    },
-    {
-     "title": "칼슘 섭취량 권장 수준의 67.3%… 겨울철 우유로 영양 보완",
-     "link": "https://www.gpkorea.com/news/articleView.html?idxno=149058",
-     "t": "2026-11-26T15:26:00+09:00",
-     "by": "gpkorea.com"
-    }
-   ]
-  },
-  {
-   "name": "콜레스테롤",
-   "kind": "질환·증상",
-   "count": 8,
-   "angles": [
-    "부작용",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "아토피·류마티스관절염 경구약, 투약 초기 콜레스테롤 관리 필요해",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=102486",
-     "t": "2026-11-27T13:52:00+09:00",
-     "by": "k-health.com"
-    },
-    {
-     "title": "우파다시티닙, 복용 초기 '콜레스테롤 상승' 주의",
-     "link": "https://dailymedi.com/news/news_view.php?wr_id=943056",
-     "t": "2026-11-27T11:34:00+09:00",
-     "by": "dailymedi.com"
-    },
-    {
-     "title": "경구 치료제 '우파다시티닙' 투약 초기 콜레스테롤 관리 필요",
-     "link": "https://www.rapportian.com/news/articleView.html?idxno=242966",
-     "t": "2026-11-27T11:24:00+09:00",
-     "by": "rapportian.com"
-    },
-    {
-     "title": "아토피·류마티스관절염 경구 치료제, 투약 초기 콜레스테롤 관리 필요",
-     "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1172192&ref=naverpc",
-     "t": "2026-11-27T09:50:00+09:00",
-     "by": "medicaltimes.com"
-    },
-    {
-     "title": "스타틴으로도 부족한 콜레스테롤 조절…英, 신약 2종 승인",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=422785",
-     "t": "2026-11-27T07:24:00+09:00",
-     "by": "medipana.com"
     }
    ]
   },
@@ -567,6 +567,47 @@
      "link": "https://www.kyeongin.com/article/1775320",
      "t": "2026-11-24T19:02:00+09:00",
      "by": "kyeongin.com"
+    }
+   ]
+  },
+  {
+   "name": "유산균",
+   "kind": "영양제",
+   "count": 6,
+   "angles": [
+    "효능",
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "[체험기] 겨울철 , 미스트를 찾지 않았다...바르는 유산균 hy '아이오셀'",
+     "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=108346",
+     "t": "2026-11-27T15:00:00+09:00",
+     "by": "womentimes.co.kr"
+    },
+    {
+     "title": "“몸에 좋은 유산균, 효과 사라진다”⋯ 먹을 때 피해야 할 실수 4가지",
+     "link": "https://kormedi.com/?p=2911461",
+     "t": "2026-11-27T08:03:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "전문가가 꼽은 '유산균' 필요하다는 신호 6가지",
+     "link": "http://www.joseilbo.com/news/news_read.php?uid=580531&class=27&grp=",
+     "t": "2026-11-26T16:04:00+09:00",
+     "by": "joseilbo.com"
+    },
+    {
+     "title": "\"연말 회식에 여행까지\"... 피곤한 장(腸), '유산균 사균체'로 챙겨볼까",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70561",
+     "t": "2026-11-25T17:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
+    {
+     "title": "센트룸, '플러스+' 4종→대상웰라이프, '것시스' 유산균 출시",
+     "link": "https://www.slist.kr/news/articleView.html?idxno=784651",
+     "t": "2026-11-25T11:04:00+09:00",
+     "by": "slist.kr"
     }
    ]
   },
@@ -653,54 +694,19 @@
    ]
   },
   {
-   "name": "유산균",
-   "kind": "영양제",
-   "count": 5,
-   "angles": [
-    "효능",
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "“몸에 좋은 유산균, 효과 사라진다”⋯ 먹을 때 피해야 할 실수 4가지",
-     "link": "https://kormedi.com/?p=2911461",
-     "t": "2026-11-27T08:03:00+09:00",
-     "by": "kormedi.com"
-    },
-    {
-     "title": "전문가가 꼽은 '유산균' 필요하다는 신호 6가지",
-     "link": "http://www.joseilbo.com/news/news_read.php?uid=580531&class=27&grp=",
-     "t": "2026-11-26T16:04:00+09:00",
-     "by": "joseilbo.com"
-    },
-    {
-     "title": "\"연말 회식에 여행까지\"... 피곤한 장(腸), '유산균 사균체'로 챙겨볼까",
-     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70561",
-     "t": "2026-11-25T17:00:00+09:00",
-     "by": "hidoc.co.kr"
-    },
-    {
-     "title": "센트룸, '플러스+' 4종→대상웰라이프, '것시스' 유산균 출시",
-     "link": "https://www.slist.kr/news/articleView.html?idxno=784651",
-     "t": "2026-11-25T11:04:00+09:00",
-     "by": "slist.kr"
-    },
-    {
-     "title": "서울우유, 어린이 유산균 음료 '츄츄' 2종 출시…동남아 시장 공략",
-     "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=72073",
-     "t": "2026-11-24T23:24:00+09:00",
-     "by": "youngnong.co.kr"
-    }
-   ]
-  },
-  {
    "name": "불면증",
    "kind": "질환·증상",
-   "count": 4,
+   "count": 5,
    "angles": [
     "효능"
    ],
    "items": [
+    {
+     "title": "성인 틱장애, 불면증·공황장애 동반되면 자율신경실조증 검사·치료 필...",
+     "link": "http://www.bokuennews.com/news/article.html?no=287862",
+     "t": "2026-11-27T14:58:00+09:00",
+     "by": "bokuennews.com"
+    },
     {
      "title": "불면증·강박증·불안장애, 증상 간 상호작용 고려한 진단과 치료 중요",
      "link": "https://edu.donga.com/news/articleView.html?idxno=114122",
@@ -827,6 +833,32 @@
      "link": "https://www.imaeil.com/page/view/2026112610472056981",
      "t": "2026-11-26T10:57:00+09:00",
      "by": "imaeil.com"
+    }
+   ]
+  },
+  {
+   "name": "고지혈증",
+   "kind": "질환·증상",
+   "count": 3,
+   "angles": [],
+   "items": [
+    {
+     "title": "[고지혈증의 경고 2] 숫자 하나로 판단 말라: 콜레스테롤 수치 읽는 법",
+     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214863",
+     "t": "2026-11-27T15:08:00+09:00",
+     "by": "100ssd.co.kr"
+    },
+    {
+     "title": "일화, 물 없이 먹는 고지혈증 복합제 출격…치료 선택지 확대",
+     "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887878",
+     "t": "2026-11-27T08:30:00+09:00",
+     "by": "hansbiz.co.kr"
+    },
+    {
+     "title": "달라진 고지혈증 치료 지침",
+     "link": "http://www.gnmaeil.com/news/articleView.html?idxno=599573",
+     "t": "2026-11-25T21:20:00+09:00",
+     "by": "gnmaeil.com"
     }
    ]
   },
@@ -1042,26 +1074,6 @@
      "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240903",
      "t": "2026-11-25T12:30:00+09:00",
      "by": "cctoday.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "계란",
-   "kind": "식품·제철",
-   "count": 2,
-   "angles": [],
-   "items": [
-    {
-     "title": "삶은 계란 이제 그만…50대 의사가 알려준 노화 막는 최고의 아침 식사...",
-     "link": "https://www.wikitree.co.kr/articles/1178256",
-     "t": "2026-11-27T10:28:00+09:00",
-     "by": "wikitree.co.kr"
-    },
-    {
-     "title": "\"계란 노른자 콜레스테롤 공포, 진짜 주범은 포화지방\"",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3763769",
-     "t": "2026-11-26T11:14:00+09:00",
-     "by": "gukjenews.com"
     }
    ]
   }

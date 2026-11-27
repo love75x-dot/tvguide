@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T08:48:37.427331+09:00",
+ "updated": "2026-11-27T09:13:58.632616+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -46,12 +46,24 @@
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 21,
+   "count": 23,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "보령바이오파마 독감 신약 3상 설계 공개…위약대조·348명 모집",
+     "link": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70682",
+     "t": "2026-11-27T09:06:00+09:00",
+     "by": "medicopharma.co.kr"
+    },
+    {
+     "title": "심상치 않은 독감 상황...커지는 우려 [자막뉴스]",
+     "link": "https://www.ytn.co.kr/_ln/0134_202611270853494904",
+     "t": "2026-11-27T08:53:00+09:00",
+     "by": "ytn.co.kr"
+    },
     {
      "title": "국내 독감 기승, 중국엔 3가지 바이러스 동시 유행...\"백신 접종이 가장...",
      "link": "https://www.ytn.co.kr/_ln/0115_202611270830569270",
@@ -69,31 +81,31 @@
      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723953&ref=A",
      "t": "2026-11-26T22:12:00+09:00",
      "by": "kbs.co.kr"
-    },
-    {
-     "title": "독감 백신 접종, 고령층 인지기능 저하 위험 33% 낮아…알츠하이머 예방...",
-     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627739",
-     "t": "2026-11-26T19:10:00+09:00",
-     "by": "mdtoday.co.kr"
-    },
-    {
-     "title": "건강한 아이도 독감 중증 합병증…소청병협의 경고",
-     "link": "https://www.medipana.com/news/articleView.html?idxno=422768",
-     "t": "2026-11-26T18:02:00+09:00",
-     "by": "medipana.com"
     }
    ]
   },
   {
    "name": "치매",
    "kind": "질환·증상",
-   "count": 16,
+   "count": 18,
    "angles": [
     "부작용",
     "에 좋은",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "BMI만으로 비만 관련 치매 위험 평가 어려워…복부비만·대사 건강 함께...",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=628019",
+     "t": "2026-11-27T09:02:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "\"초미세먼지, 뇌도 위협한다\"… 공기 나쁠수록 치매 위험 25% 높아",
+     "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70577",
+     "t": "2026-11-27T09:00:00+09:00",
+     "by": "hidoc.co.kr"
+    },
     {
      "title": "스톡홀름대, 집 앞 100m 녹지 많을수록 치매 위험 21% 낮아…16년 추적 연...",
      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140407",
@@ -111,18 +123,6 @@
      "link": "https://www.k-health.com/news/articleView.html?idxno=102482",
      "t": "2026-11-26T21:04:00+09:00",
      "by": "k-health.com"
-    },
-    {
-     "title": "커피 즐겨 마시는 사람, 치매 위험 18% 낮았다",
-     "link": "https://www.newscj.com/news/articleView.html?idxno=3452362",
-     "t": "2026-11-26T15:34:00+09:00",
-     "by": "newscj.com"
-    },
-    {
-     "title": "국립보건연구원, 치매·파킨슨병 연구기반 강화…성과교류회 개최",
-     "link": "https://www.newscammp.co.kr/news/articleView.html?idxno=7329",
-     "t": "2026-11-26T14:46:00+09:00",
-     "by": "newscammp.co.kr"
     }
    ]
   },
@@ -450,6 +450,86 @@
    ]
   },
   {
+   "name": "우유",
+   "kind": "식품·제철",
+   "count": 6,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "칼슘 섭취 부족한 국민 70.9%···우유 한 잔으로 영양 관리 시작해볼까",
+     "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=56879",
+     "t": "2026-11-27T09:12:00+09:00",
+     "by": "enetnews.co.kr"
+    },
+    {
+     "title": "겨울철 놓치기 쉬운 영양 관리…칼슘 보충엔 우유 한 잔",
+     "link": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45889",
+     "t": "2026-11-27T09:06:00+09:00",
+     "by": "hemophilia.co.kr"
+    },
+    {
+     "title": "칼슘 섭취량 권장 수준의 67.3%… 겨울철 우유로 영양 보완",
+     "link": "https://www.gpkorea.com/news/articleView.html?idxno=149058",
+     "t": "2026-11-26T15:26:00+09:00",
+     "by": "gpkorea.com"
+    },
+    {
+     "title": "한국인 칼슘 섭취 부족…우유 한 잔에 담긴 영양소는",
+     "link": "https://www.hankyung.com/article/202611262139O",
+     "t": "2026-11-26T14:05:00+09:00",
+     "by": "hankyung.com"
+    },
+    {
+     "title": "국민 10명 중 7명 칼슘 섭취 부족…우유·유제품 통한 영양 보충 주목",
+     "link": "https://economist.co.kr/article/view/ecn202611260037",
+     "t": "2026-11-26T13:53:00+09:00",
+     "by": "economist.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "칼슘",
+   "kind": "영양제",
+   "count": 6,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "칼슘 섭취 부족한 국민 70.9%···우유 한 잔으로 영양 관리 시작해볼까",
+     "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=56879",
+     "t": "2026-11-27T09:12:00+09:00",
+     "by": "enetnews.co.kr"
+    },
+    {
+     "title": "겨울철 놓치기 쉬운 영양 관리…칼슘 보충엔 우유 한 잔",
+     "link": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45889",
+     "t": "2026-11-27T09:06:00+09:00",
+     "by": "hemophilia.co.kr"
+    },
+    {
+     "title": "칼슘 섭취량 권장 수준의 67.3%… 겨울철 우유로 영양 보완",
+     "link": "https://www.gpkorea.com/news/articleView.html?idxno=149058",
+     "t": "2026-11-26T15:26:00+09:00",
+     "by": "gpkorea.com"
+    },
+    {
+     "title": "한국인 칼슘 섭취 부족…우유 한 잔에 담긴 영양소는",
+     "link": "https://www.hankyung.com/article/202611262139O",
+     "t": "2026-11-26T14:05:00+09:00",
+     "by": "hankyung.com"
+    },
+    {
+     "title": "국민 10명 중 7명 칼슘 섭취 부족…우유·유제품 통한 영양 보충 주목",
+     "link": "https://economist.co.kr/article/view/ecn202611260037",
+     "t": "2026-11-26T13:53:00+09:00",
+     "by": "economist.co.kr"
+    }
+   ]
+  },
+  {
    "name": "당뇨",
    "kind": "질환·증상",
    "count": 5,
@@ -722,40 +802,6 @@
    ]
   },
   {
-   "name": "우유",
-   "kind": "식품·제철",
-   "count": 4,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "칼슘 섭취량 권장 수준의 67.3%… 겨울철 우유로 영양 보완",
-     "link": "https://www.gpkorea.com/news/articleView.html?idxno=149058",
-     "t": "2026-11-26T15:26:00+09:00",
-     "by": "gpkorea.com"
-    },
-    {
-     "title": "한국인 칼슘 섭취 부족…우유 한 잔에 담긴 영양소는",
-     "link": "https://www.hankyung.com/article/202611262139O",
-     "t": "2026-11-26T14:05:00+09:00",
-     "by": "hankyung.com"
-    },
-    {
-     "title": "국민 10명 중 7명 칼슘 섭취 부족…우유·유제품 통한 영양 보충 주목",
-     "link": "https://economist.co.kr/article/view/ecn202611260037",
-     "t": "2026-11-26T13:53:00+09:00",
-     "by": "economist.co.kr"
-    },
-    {
-     "title": "국민 70.9% 칼슘 섭취 부족…매일 우유 한 잔으로 영양 보충",
-     "link": "https://www.thebilliards.kr/news/articleView.html?idxno=32588",
-     "t": "2026-11-26T12:02:00+09:00",
-     "by": "thebilliards.kr"
-    }
-   ]
-  },
-  {
    "name": "유방암",
    "kind": "질환·증상",
    "count": 4,
@@ -786,40 +832,6 @@
      "link": "https://www.yakup.com/news/index.html?mode=view&cat=16&nid=335656",
      "t": "2026-11-24T14:10:00+09:00",
      "by": "yakup.com"
-    }
-   ]
-  },
-  {
-   "name": "칼슘",
-   "kind": "영양제",
-   "count": 4,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "칼슘 섭취량 권장 수준의 67.3%… 겨울철 우유로 영양 보완",
-     "link": "https://www.gpkorea.com/news/articleView.html?idxno=149058",
-     "t": "2026-11-26T15:26:00+09:00",
-     "by": "gpkorea.com"
-    },
-    {
-     "title": "한국인 칼슘 섭취 부족…우유 한 잔에 담긴 영양소는",
-     "link": "https://www.hankyung.com/article/202611262139O",
-     "t": "2026-11-26T14:05:00+09:00",
-     "by": "hankyung.com"
-    },
-    {
-     "title": "국민 10명 중 7명 칼슘 섭취 부족…우유·유제품 통한 영양 보충 주목",
-     "link": "https://economist.co.kr/article/view/ecn202611260037",
-     "t": "2026-11-26T13:53:00+09:00",
-     "by": "economist.co.kr"
-    },
-    {
-     "title": "국민 70.9% 칼슘 섭취 부족…매일 우유 한 잔으로 영양 보충",
-     "link": "https://www.thebilliards.kr/news/articleView.html?idxno=32588",
-     "t": "2026-11-26T12:02:00+09:00",
-     "by": "thebilliards.kr"
     }
    ]
   },

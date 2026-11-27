@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:09:16.093598+09:00",
+ "updated": "2026-11-27T20:08:31.173989+09:00",
  "all": [
   {
    "name": "개인정보 유출",
@@ -39,8 +39,14 @@
   },
   {
    "name": "해킹",
-   "count": 59,
+   "count": 57,
    "items": [
+    {
+     "title": "블프 대목에 '먹통' 다나와… 해킹 복구 장기화",
+     "link": "https://it.chosun.com/news/articleView.html?idxno=3000000002053",
+     "t": "2026-11-27T20:00:00+09:00",
+     "by": "it.chosun.com"
+    },
     {
      "title": "CJ올리브영, 업무시스템 해킹 으로 790명 개인정보 유출 …회원 정보 240만...",
      "link": "https://www.geconomy.co.kr/news/article.html?no=326207",
@@ -64,12 +70,6 @@
      "link": "https://www.edaily.co.kr/News/Read?newsId=03342326645649984&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
      "t": "2026-11-27T18:23:00+09:00",
      "by": "edaily.co.kr"
-    },
-    {
-     "title": "[기획] 저축은행 해킹 , 하반기 13만건…대책 없나",
-     "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=668964",
-     "t": "2026-11-27T18:22:00+09:00",
-     "by": "kfenews.co.kr"
     }
    ]
   },
@@ -111,8 +111,14 @@
   },
   {
    "name": "보안",
-   "count": 21,
+   "count": 20,
    "items": [
+    {
+     "title": "AI 사이버 공격 확산…미국 정부·기업 보안 체계 재정비 시급",
+     "link": "https://www.tokenpost.kr/news/cryptocurrency/445410",
+     "t": "2026-11-27T19:32:00+09:00",
+     "by": "tokenpost.kr"
+    },
     {
      "title": "휴네시온, 빛가람 컨퍼런스서 ICS 공급망 보안 전략 제시",
      "link": "https://zdnet.co.kr/view/?no=20261127185210",
@@ -136,12 +142,42 @@
      "link": "https://www.techm.kr/news/articleView.html?idxno=157887",
      "t": "2026-11-27T18:14:00+09:00",
      "by": "techm.kr"
+    }
+   ]
+  },
+  {
+   "name": "반도체",
+   "count": 19,
+   "items": [
+    {
+     "title": "대만, ‘AI· 반도체 특수’에 올해 경제성장률 13.28%로 상향",
+     "link": "https://www.etoday.co.kr/news/view/2654136",
+     "t": "2026-11-27T19:42:00+09:00",
+     "by": "etoday.co.kr"
     },
     {
-     "title": "잇단 개인정보 유출 에 멍드는 유통업계…보안 투자 실효성 의문",
-     "link": "https://www.etoday.co.kr/news/view/2654058",
-     "t": "2026-11-27T18:00:00+09:00",
-     "by": "etoday.co.kr"
+     "title": "마이크론 위협하는 중국 메모리 반도체 굴기…화웨이·CXMT 기술 추격 본...",
+     "link": "https://www.jemin.com/news/articleView.html?idxno=848684",
+     "t": "2026-11-27T19:20:00+09:00",
+     "by": "jemin.com"
+    },
+    {
+     "title": "없어서 못 판다더니… 반도체 시장에 '이상 신호' 켜졌다",
+     "link": "https://www.hankyung.com/article/2026112754081",
+     "t": "2026-11-27T17:48:00+09:00",
+     "by": "hankyung.com"
+    },
+    {
+     "title": "\"없어서 못 판다더니 웬일\"… 반도체 시장에 심상찮은 신호",
+     "link": "https://www.hankyung.com/article/2026112754081",
+     "t": "2026-11-27T17:48:00+09:00",
+     "by": "hankyung.com"
+    },
+    {
+     "title": "삼성전자, 대대적 조직개편… 반도체 경쟁력 강화·미래 먹거리 확보",
+     "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=242301",
+     "t": "2026-11-27T17:46:00+09:00",
+     "by": "ezyeconomy.com"
     }
    ]
   },
@@ -168,52 +204,16 @@
      "by": "wolyo.co.kr"
     },
     {
-     "title": "\"한국 맏형이 중국 편이가…\" 中 게임에 힘 실은 넥슨에 불만 고조",
-     "link": "https://www.thelec.kr/news/articleView.html?idxno=66025",
-     "t": "2026-11-27T17:32:00+09:00",
-     "by": "thelec.kr"
-    },
-    {
      "title": "中 게임에 힘 실은 넥슨에 중소개발사 불만 고조",
      "link": "https://www.thelec.kr/news/articleView.html?idxno=66025",
      "t": "2026-11-27T17:32:00+09:00",
      "by": "thelec.kr"
-    }
-   ]
-  },
-  {
-   "name": "반도체",
-   "count": 18,
-   "items": [
-    {
-     "title": "없어서 못 판다더니… 반도체 시장에 '이상 신호' 켜졌다",
-     "link": "https://www.hankyung.com/article/2026112754081",
-     "t": "2026-11-27T17:48:00+09:00",
-     "by": "hankyung.com"
     },
     {
-     "title": "\"없어서 못 판다더니 웬일\"… 반도체 시장에 심상찮은 신호",
-     "link": "https://www.hankyung.com/article/2026112754081",
-     "t": "2026-11-27T17:48:00+09:00",
-     "by": "hankyung.com"
-    },
-    {
-     "title": "삼성전자, 대대적 조직개편… 반도체 경쟁력 강화·미래 먹거리 확보",
-     "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=242301",
-     "t": "2026-11-27T17:46:00+09:00",
-     "by": "ezyeconomy.com"
-    },
-    {
-     "title": "주병기 \" 반도체 수출 사상 최대인데 온기는 협력사까지 가지 못해\"",
-     "link": "https://news.tvchosun.com/site/data/html_dir/2026/11/27/2026112790221.html",
-     "t": "2026-11-27T17:23:00+09:00",
-     "by": "tvchosun.com"
-    },
-    {
-     "title": "K-반도체 ‘위기론’ 거세지는데 …삼성·SK, ‘주 52시간 특례’ 풀릴까",
-     "link": "https://www.ceoscoredaily.com/page/view/2026112713113831468",
-     "t": "2026-11-27T17:02:00+09:00",
-     "by": "ceoscoredaily.com"
+     "title": "\"한국 맏형이 중국 편이가…\" 中 게임에 힘 실은 넥슨에 불만 고조",
+     "link": "https://www.thelec.kr/news/articleView.html?idxno=66025",
+     "t": "2026-11-27T17:32:00+09:00",
+     "by": "thelec.kr"
     }
    ]
   }

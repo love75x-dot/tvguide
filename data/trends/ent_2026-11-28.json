@@ -210,7 +210,7 @@
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
+    "nate_pop": 4,
     "nate_int": 5
    },
    "count": 1,
@@ -592,12 +592,13 @@
     }
    ],
    "first": "00:08",
-   "last": "02:10",
+   "last": "03:12",
    "best": 12,
    "hours": [
     "00:08",
     "01:09",
-    "02:10"
+    "02:10",
+    "03:12"
    ],
    "srcs": [
     "nate_pop",
@@ -818,7 +819,7 @@
     "nate_int"
    ],
    "now": {
-    "nate_int": 32
+    "nate_int": 33
    },
    "count": 1,
    "inrank": true
@@ -1191,12 +1192,13 @@
     }
    ],
    "first": "00:08",
-   "last": "02:10",
+   "last": "03:12",
    "best": 31,
    "hours": [
     "00:08",
     "01:09",
-    "02:10"
+    "02:10",
+    "03:12"
    ],
    "srcs": [
     "nate_int"
@@ -1522,7 +1524,7 @@
     "nate_int"
    ],
    "now": {
-    "nate_int": 42
+    "nate_int": 36
    },
    "count": 1,
    "inrank": true
@@ -1714,7 +1716,7 @@
     "nate_int": 45
    },
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c48",
@@ -1733,17 +1735,20 @@
     }
    ],
    "first": "01:09",
-   "last": "01:09",
-   "best": 50,
+   "last": "03:12",
+   "best": 46,
    "hours": [
-    "01:09"
+    "01:09",
+    "03:12"
    ],
    "srcs": [
     "nate_int"
    ],
-   "now": {},
+   "now": {
+    "nate_int": 46
+   },
    "count": 1,
-   "inrank": false
+   "inrank": true
   },
   {
    "id": "c49",

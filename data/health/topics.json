@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:10:48.715514+09:00",
+ "updated": "2026-11-27T19:09:16.093598+09:00",
  "topics": [
   {
    "name": "독감",
@@ -45,13 +45,19 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 25,
+   "count": 24,
    "angles": [
-    "효능",
     "에 좋은",
+    "효능",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "“요동치는 혈당 잡는다”… 겨울에 먹으면 더 좋은 식품 3가지",
+     "link": "https://kormedi.com/?p=2914566",
+     "t": "2026-11-27T18:22:00+09:00",
+     "by": "kormedi.com"
+    },
     {
      "title": "똑같이 통 곡물빵 먹었는데, 내 혈당만 쭉 오르는 이유",
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/27/2026112702114.html",
@@ -75,12 +81,6 @@
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/27/2026112701102.html",
      "t": "2026-11-27T13:01:00+09:00",
      "by": "health.chosun.com"
-    },
-    {
-     "title": "유산소 먼저? 근력 운동 먼저?… 혈당 낮추려면 ‘이 순서’로",
-     "link": "https://kormedi.com/?p=2913802",
-     "t": "2026-11-27T11:20:00+09:00",
-     "by": "kormedi.com"
     }
    ]
   },
@@ -252,9 +252,15 @@
   {
    "name": "다이어트",
    "kind": "운동·생활",
-   "count": 11,
+   "count": 12,
    "angles": [],
    "items": [
+    {
+     "title": "야노시호가 “모든 음식에 뿌리라”며 다이어트 비결로 꼽은 ‘시오콘부...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/27/2026112701904.html",
+     "t": "2026-11-27T18:31:00+09:00",
+     "by": "health.chosun.com"
+    },
     {
      "title": "다이어트 대신 담배 택하면 생기는 몸속 변화, 무엇이 달라지나",
      "link": "https://www.insight.co.kr/news/583909",
@@ -278,12 +284,6 @@
      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288609&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
      "t": "2026-11-26T15:51:00+09:00",
      "by": "ohmynews.com"
-    },
-    {
-     "title": "몸집 키운 통합 진에어, 첫 행보는 ' 다이어트 ' [LCC 전국시대②]",
-     "link": "https://www.fntimes.com/html/view.php?ud=20261126144423278fa6b69a559_18",
-     "t": "2026-11-26T15:04:00+09:00",
-     "by": "fntimes.com"
     }
    ]
   },
@@ -331,7 +331,7 @@
   {
    "name": "고혈압",
    "kind": "질환·증상",
-   "count": 10,
+   "count": 9,
    "angles": [
     "부작용"
    ],
@@ -491,85 +491,6 @@
    ]
   },
   {
-   "name": "혈압",
-   "kind": "질환·증상",
-   "count": 8,
-   "angles": [],
-   "items": [
-    {
-     "title": "찬바람 불면 혈압도 '들썩'…증상 없어도 안심 마세요",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=102484",
-     "t": "2026-11-27T09:30:00+09:00",
-     "by": "k-health.com"
-    },
-    {
-     "title": "유기농 먹거리·건강 관리 병행했더니…혈압·당화혈색소 개선",
-     "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200284",
-     "t": "2026-11-26T20:42:00+09:00",
-     "by": "doctorsnews.co.kr"
-    },
-    {
-     "title": "녹색소비자연대 \"유기농 먹고 건강 관리 했다면 '혈압 개선' 긍정적\"",
-     "link": "http://www.breaknews.com/1254437",
-     "t": "2026-11-26T17:58:00+09:00",
-     "by": "breaknews.com"
-    },
-    {
-     "title": "혈압 측정부터 운동 체험까지…포항 건강생활지원센터 개소",
-     "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092064",
-     "t": "2026-11-25T16:30:00+09:00",
-     "by": "kyongbuk.co.kr"
-    },
-    {
-     "title": "추워질수록 위협받는 혈관 건강… 고 혈압 ·이상지질혈증 등 관리 중요",
-     "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250136&t=NN",
-     "t": "2026-11-25T15:48:00+09:00",
-     "by": "wowtv.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "당뇨",
-   "kind": "질환·증상",
-   "count": 6,
-   "angles": [
-    "에 좋은",
-    "효능"
-   ],
-   "items": [
-    {
-     "title": "운동 하면 나오는 이 물질, 지방 태우더니 근육까지 키웠다…당뇨 치료 ...",
-     "link": "https://www.imaeil.com/page/view/2026112716574083374",
-     "t": "2026-11-27T16:59:00+09:00",
-     "by": "imaeil.com"
-    },
-    {
-     "title": "당뇨 치료는 합병증 예방까지…건보 급여 기준 개선 목소리",
-     "link": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70690",
-     "t": "2026-11-27T13:20:00+09:00",
-     "by": "medicopharma.co.kr"
-    },
-    {
-     "title": "다이어트 주사? 나는 당뇨 치료를 위해 마운자로를 맞는다",
-     "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288609&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-     "t": "2026-11-26T15:51:00+09:00",
-     "by": "ohmynews.com"
-    },
-    {
-     "title": "노인들 고혈압·당뇨 폰 측정 쉽지 않은데…새 사업 띄우려 19년 된 지원...",
-     "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232660",
-     "t": "2026-11-24T20:05:00+09:00",
-     "by": "mbn.co.kr"
-    },
-    {
-     "title": "당뇨 없어도 혈당 관리 했더니… 자연스럽게 생기는 건강 효과 5가지",
-     "link": "https://kormedi.com/?p=2911636",
-     "t": "2026-11-24T19:02:00+09:00",
-     "by": "kormedi.com"
-    }
-   ]
-  },
-  {
    "name": "불면증",
    "kind": "질환·증상",
    "count": 6,
@@ -651,6 +572,124 @@
    ]
   },
   {
+   "name": "혈압",
+   "kind": "질환·증상",
+   "count": 6,
+   "angles": [],
+   "items": [
+    {
+     "title": "찬바람 불면 혈압도 '들썩'…증상 없어도 안심 마세요",
+     "link": "https://www.k-health.com/news/articleView.html?idxno=102484",
+     "t": "2026-11-27T09:30:00+09:00",
+     "by": "k-health.com"
+    },
+    {
+     "title": "유기농 먹거리·건강 관리 병행했더니…혈압·당화혈색소 개선",
+     "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200284",
+     "t": "2026-11-26T20:42:00+09:00",
+     "by": "doctorsnews.co.kr"
+    },
+    {
+     "title": "녹색소비자연대 \"유기농 먹고 건강 관리 했다면 '혈압 개선' 긍정적\"",
+     "link": "http://www.breaknews.com/1254437",
+     "t": "2026-11-26T17:58:00+09:00",
+     "by": "breaknews.com"
+    },
+    {
+     "title": "혈압 측정부터 운동 체험까지…포항 건강생활지원센터 개소",
+     "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092064",
+     "t": "2026-11-25T16:30:00+09:00",
+     "by": "kyongbuk.co.kr"
+    },
+    {
+     "title": "추워질수록 위협받는 혈관 건강… 고 혈압 ·이상지질혈증 등 관리 중요",
+     "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250136&t=NN",
+     "t": "2026-11-25T15:48:00+09:00",
+     "by": "wowtv.co.kr"
+    }
+   ]
+  },
+  {
+   "name": "고지혈증",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [
+    "부작용"
+   ],
+   "items": [
+    {
+     "title": "아침 공복에 먹는 음식 들… 뱃살-당뇨-고지혈증 동시에 생겼다, 뭘 먹었...",
+     "link": "https://kormedi.com/?p=2914174",
+     "t": "2026-11-27T19:02:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "이은지, 건강 적신호…\"나이 젊은데 고지혈증 위험\" 깜짝 (이은지)",
+     "link": "http://www.tvdaily.co.kr/read.php3?aid=17957620621811533002",
+     "t": "2026-11-27T16:10:00+09:00",
+     "by": "tvdaily.co.kr"
+    },
+    {
+     "title": "[고지혈증의 경고 2] 숫자 하나로 판단 말라: 콜레스테롤 수치 읽는 법",
+     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214863",
+     "t": "2026-11-27T15:08:00+09:00",
+     "by": "100ssd.co.kr"
+    },
+    {
+     "title": "일화, 물 없이 먹는 고지혈증 복합제 출격…치료 선택지 확대",
+     "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887878",
+     "t": "2026-11-27T08:30:00+09:00",
+     "by": "hansbiz.co.kr"
+    },
+    {
+     "title": "달라진 고지혈증 치료 지침",
+     "link": "http://www.gnmaeil.com/news/articleView.html?idxno=599573",
+     "t": "2026-11-25T21:20:00+09:00",
+     "by": "gnmaeil.com"
+    }
+   ]
+  },
+  {
+   "name": "당뇨",
+   "kind": "질환·증상",
+   "count": 5,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "아침 공복에 먹는 음식 들… 뱃살-당뇨-고지혈증 동시에 생겼다, 뭘 먹었...",
+     "link": "https://kormedi.com/?p=2914174",
+     "t": "2026-11-27T19:02:00+09:00",
+     "by": "kormedi.com"
+    },
+    {
+     "title": "운동 하면 나오는 이 물질, 지방 태우더니 근육까지 키웠다…당뇨 치료 ...",
+     "link": "https://www.imaeil.com/page/view/2026112716574083374",
+     "t": "2026-11-27T16:59:00+09:00",
+     "by": "imaeil.com"
+    },
+    {
+     "title": "당뇨 치료는 합병증 예방까지…건보 급여 기준 개선 목소리",
+     "link": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70690",
+     "t": "2026-11-27T13:20:00+09:00",
+     "by": "medicopharma.co.kr"
+    },
+    {
+     "title": "다이어트 주사? 나는 당뇨 치료를 위해 마운자로를 맞는다",
+     "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288609&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+     "t": "2026-11-26T15:51:00+09:00",
+     "by": "ohmynews.com"
+    },
+    {
+     "title": "노인들 고혈압·당뇨 폰 측정 쉽지 않은데…새 사업 띄우려 19년 된 지원...",
+     "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232660",
+     "t": "2026-11-24T20:05:00+09:00",
+     "by": "mbn.co.kr"
+    }
+   ]
+  },
+  {
    "name": "커피",
    "kind": "식품·제철",
    "count": 5,
@@ -688,40 +727,6 @@
      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=70434",
      "t": "2026-11-25T20:00:00+09:00",
      "by": "hidoc.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "고지혈증",
-   "kind": "질환·증상",
-   "count": 4,
-   "angles": [
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "이은지, 건강 적신호…\"나이 젊은데 고지혈증 위험\" 깜짝 (이은지)",
-     "link": "http://www.tvdaily.co.kr/read.php3?aid=17957620621811533002",
-     "t": "2026-11-27T16:10:00+09:00",
-     "by": "tvdaily.co.kr"
-    },
-    {
-     "title": "[고지혈증의 경고 2] 숫자 하나로 판단 말라: 콜레스테롤 수치 읽는 법",
-     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214863",
-     "t": "2026-11-27T15:08:00+09:00",
-     "by": "100ssd.co.kr"
-    },
-    {
-     "title": "일화, 물 없이 먹는 고지혈증 복합제 출격…치료 선택지 확대",
-     "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887878",
-     "t": "2026-11-27T08:30:00+09:00",
-     "by": "hansbiz.co.kr"
-    },
-    {
-     "title": "달라진 고지혈증 치료 지침",
-     "link": "http://www.gnmaeil.com/news/articleView.html?idxno=599573",
-     "t": "2026-11-25T21:20:00+09:00",
-     "by": "gnmaeil.com"
     }
    ]
   },

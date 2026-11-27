@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:06:19.730186+09:00",
+ "updated": "2026-11-27T18:10:48.715514+09:00",
  "hot": [
   {
    "name": "GLC",
@@ -10,13 +10,13 @@
    "why": []
   },
   {
-   "name": "모델 Y",
-   "count": 5,
+   "name": "할리데이비슨",
+   "count": 4,
    "prev": 0,
-   "rise": 22,
-   "moto": false,
+   "rise": -2,
+   "moto": true,
    "why": [
-    "중고차 시세"
+    "출시"
    ]
   },
   {
@@ -28,13 +28,13 @@
    "why": []
   },
   {
-   "name": "할리데이비슨",
-   "count": 3,
-   "prev": 0,
-   "rise": -2,
-   "moto": true,
+   "name": "모델 Y",
+   "count": 4,
+   "prev": 1,
+   "rise": 22,
+   "moto": false,
    "why": [
-    "출시"
+    "중고차 시세"
    ]
   },
   {
@@ -50,14 +50,6 @@
    "count": 2,
    "prev": 28,
    "rise": 53,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "아반떼",
-   "count": 2,
-   "prev": 11,
-   "rise": 0,
    "moto": false,
    "why": []
   },
@@ -92,6 +84,14 @@
    "why": [
     "중고차 시세"
    ]
+  },
+  {
+   "name": "쏘나타",
+   "count": 1,
+   "prev": 1,
+   "rise": 9,
+   "moto": false,
+   "why": []
   }
  ],
  "calendar": [

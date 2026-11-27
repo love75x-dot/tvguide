@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:08:36.638907+09:00",
+ "updated": "2026-11-28T08:10:51.217225+09:00",
  "topics": [
   {
    "name": "독감",
@@ -45,13 +45,19 @@
   {
    "name": "혈당",
    "kind": "질환·증상",
-   "count": 24,
+   "count": 25,
    "angles": [
     "에 좋은",
     "효능",
     "먹는 법"
    ],
    "items": [
+    {
+     "title": "“밥 먹을 때 ‘이 채소’ 곁들였더니?”… 혈당 부담 확 줄이는 식사법...",
+     "link": "https://kormedi.com/?p=2914109",
+     "t": "2026-11-28T08:04:00+09:00",
+     "by": "kormedi.com"
+    },
     {
      "title": "문경 오미자, 혈당 억제 기능 성 인정 이어 특허 독점권 확보",
      "link": "https://www.newsis.com/view/NISX20261127_0003886869",
@@ -74,12 +80,6 @@
      "title": "“치실로 혈당 잰다”… 잇몸 염증까지 찾아내는 신기술 개발",
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/27/2026112701829.html",
      "t": "2026-11-27T16:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "“요리할 때도 혈당 올라요”… 당화혈색소 낮추는 요리 중 ‘후드 습관...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/27/2026112701444.html",
-     "t": "2026-11-27T14:01:00+09:00",
      "by": "health.chosun.com"
     }
    ]
@@ -494,6 +494,47 @@
    ]
   },
   {
+   "name": "혈압",
+   "kind": "질환·증상",
+   "count": 8,
+   "angles": [
+    "효능",
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "혈압이 정상이어도 안심 못 해…심장성 쇼크, 몸의 변화 함께 살펴야",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=01436646645650312&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "t": "2026-11-28T08:07:00+09:00",
+     "by": "edaily.co.kr"
+    },
+    {
+     "title": "“혈압 떨어뜨리는 효과 ”… 아침에 즙 내서 한 잔 마시면 좋은 ‘쌉싸...",
+     "link": "https://health.chosun.com/site/data/html_dir/2026/11/27/2026112702186.html",
+     "t": "2026-11-28T04:01:00+09:00",
+     "by": "health.chosun.com"
+    },
+    {
+     "title": "찬바람 불면 혈압도 '들썩'…증상 없어도 안심 마세요",
+     "link": "https://www.k-health.com/news/articleView.html?idxno=102484",
+     "t": "2026-11-27T09:30:00+09:00",
+     "by": "k-health.com"
+    },
+    {
+     "title": "유기농 먹거리·건강 관리 병행했더니…혈압·당화혈색소 개선",
+     "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200284",
+     "t": "2026-11-26T20:42:00+09:00",
+     "by": "doctorsnews.co.kr"
+    },
+    {
+     "title": "녹색소비자연대 \"유기농 먹고 건강 관리 했다면 '혈압 개선' 긍정적\"",
+     "link": "http://www.breaknews.com/1254437",
+     "t": "2026-11-26T17:58:00+09:00",
+     "by": "breaknews.com"
+    }
+   ]
+  },
+  {
    "name": "불면증",
    "kind": "질환·증상",
    "count": 7,
@@ -531,47 +572,6 @@
      "link": "https://www.news1.kr/local/moi/6367097",
      "t": "2026-11-26T14:02:00+09:00",
      "by": "news1.kr"
-    }
-   ]
-  },
-  {
-   "name": "혈압",
-   "kind": "질환·증상",
-   "count": 7,
-   "angles": [
-    "효능",
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "“혈압 떨어뜨리는 효과 ”… 아침에 즙 내서 한 잔 마시면 좋은 ‘쌉싸...",
-     "link": "https://health.chosun.com/site/data/html_dir/2026/11/27/2026112702186.html",
-     "t": "2026-11-28T04:01:00+09:00",
-     "by": "health.chosun.com"
-    },
-    {
-     "title": "찬바람 불면 혈압도 '들썩'…증상 없어도 안심 마세요",
-     "link": "https://www.k-health.com/news/articleView.html?idxno=102484",
-     "t": "2026-11-27T09:30:00+09:00",
-     "by": "k-health.com"
-    },
-    {
-     "title": "유기농 먹거리·건강 관리 병행했더니…혈압·당화혈색소 개선",
-     "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200284",
-     "t": "2026-11-26T20:42:00+09:00",
-     "by": "doctorsnews.co.kr"
-    },
-    {
-     "title": "녹색소비자연대 \"유기농 먹고 건강 관리 했다면 '혈압 개선' 긍정적\"",
-     "link": "http://www.breaknews.com/1254437",
-     "t": "2026-11-26T17:58:00+09:00",
-     "by": "breaknews.com"
-    },
-    {
-     "title": "혈압 측정부터 운동 체험까지…포항 건강생활지원센터 개소",
-     "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092064",
-     "t": "2026-11-25T16:30:00+09:00",
-     "by": "kyongbuk.co.kr"
     }
    ]
   },
@@ -1019,6 +1019,32 @@
    ]
   },
   {
+   "name": "오미자",
+   "kind": "식품·제철",
+   "count": 3,
+   "angles": [],
+   "items": [
+    {
+     "title": "\"식약처 인정 오미자·콩 혈당개선 특허, 2039년까지 독점 확보\"… 문경...",
+     "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2498304",
+     "t": "2026-11-28T07:40:00+09:00",
+     "by": "enewstoday.co.kr"
+    },
+    {
+     "title": "문경시, 오미자·콩즙 당뇨개선 특허 전용실시권 확보",
+     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3765714",
+     "t": "2026-11-27T21:10:00+09:00",
+     "by": "gukjenews.com"
+    },
+    {
+     "title": "문경 오미자, 혈당 억제 기능 성 인정 이어 특허 독점권 확보",
+     "link": "https://www.newsis.com/view/NISX20261127_0003886869",
+     "t": "2026-11-27T19:51:00+09:00",
+     "by": "newsis.com"
+    }
+   ]
+  },
+  {
    "name": "코로나",
    "kind": "질환·증상",
    "count": 3,
@@ -1064,26 +1090,6 @@
      "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240903",
      "t": "2026-11-25T12:30:00+09:00",
      "by": "cctoday.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "계란",
-   "kind": "식품·제철",
-   "count": 2,
-   "angles": [],
-   "items": [
-    {
-     "title": "삶은 계란 이제 그만…50대 의사가 알려준 노화 막는 최고의 아침 식사...",
-     "link": "https://www.wikitree.co.kr/articles/1178256",
-     "t": "2026-11-27T10:28:00+09:00",
-     "by": "wikitree.co.kr"
-    },
-    {
-     "title": "\"계란 노른자 콜레스테롤 공포, 진짜 주범은 포화지방\"",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3763769",
-     "t": "2026-11-26T11:14:00+09:00",
-     "by": "gukjenews.com"
     }
    ]
   }

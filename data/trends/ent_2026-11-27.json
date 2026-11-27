@@ -18,7 +18,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 1,
    "hours": [
     "00:08",
@@ -29,15 +29,15 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 23
+    "nate_int": 35
    },
    "count": 1,
    "inrank": true
@@ -83,12 +83,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 21,
-    "nate_int": 18
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c3",
@@ -121,7 +118,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 2,
    "hours": [
     "00:08",
@@ -132,15 +129,16 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 4
+    "nate_pop": 10,
+    "nate_int": 10
    },
    "count": 3,
    "inrank": true
@@ -156,7 +154,10 @@
     "'미성숙 부부' 아내, 충격적인 배설물 청소…\"미쳤나 봐\"",
     "\"난 놀지도 말라고?\"…'이숙캠' 미성숙 아내, 택시·애견카페에 돈 탕진 ...",
     "SNS남과 동거한 아내 vs 아내 친구에 뽀뽀한 남편…누가 더 막장? [...",
-    "\"변을 청소기로 빨아들여?\" 서장훈, 미성숙 아내 청소법에 '분노'"
+    "\"변을 청소기로 빨아들여?\" 서장훈, 미성숙 아내 청소법에 '분노'",
+    "한 달 28일 노는 남편 vs 택시·카페 10만원 아내…서장훈 '분노 폭발'",
+    "미성숙 아내, 외도·동거 당당하게 인정…서장훈 \"무법자네\" ('이혼숙려캠...",
+    "\"월세도 못 내면서\" 미성숙 남편, 오토바이에 수 백만원 탕진 '경악'"
    ],
    "links": [
     "https://news.nate.com/view/20261126n39483",
@@ -166,7 +167,10 @@
     "https://news.nate.com/view/20261126n38948",
     "https://news.nate.com/view/20261126n38937",
     "https://news.nate.com/view/20261127n02062",
-    "https://news.nate.com/view/20261127n00687"
+    "https://news.nate.com/view/20261127n00687",
+    "https://news.nate.com/view/20261127n05908",
+    "https://news.nate.com/view/20261127n02726",
+    "https://news.nate.com/view/20261127n00771"
    ],
    "articles": [
     {
@@ -208,10 +212,25 @@
      "title": "\"변을 청소기로 빨아들여?\" 서장훈, 미성숙 아내 청소법에 '분노'",
      "link": "https://news.nate.com/view/20261127n00687",
      "media": "머니투데이"
+    },
+    {
+     "title": "한 달 28일 노는 남편 vs 택시·카페 10만원 아내…서장훈 '분노 폭발'",
+     "link": "https://news.nate.com/view/20261127n05908",
+     "media": "스포츠서울"
+    },
+    {
+     "title": "미성숙 아내, 외도·동거 당당하게 인정…서장훈 \"무법자네\" ('이혼숙려캠...",
+     "link": "https://news.nate.com/view/20261127n02726",
+     "media": "셀럽미디어"
+    },
+    {
+     "title": "\"월세도 못 내면서\" 미성숙 남편, 오토바이에 수 백만원 탕진 '경악'",
+     "link": "https://news.nate.com/view/20261127n00771",
+     "media": "머니투데이"
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 1,
    "hours": [
     "00:08",
@@ -222,17 +241,18 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 9
+    "nate_pop": 8,
+    "nate_int": 7
    },
-   "count": 8,
+   "count": 11,
    "inrank": true
   },
   {
@@ -259,7 +279,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 5,
    "hours": [
     "00:08",
@@ -270,15 +290,15 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 30,
-    "nate_int": 26
+    "nate_int": 39
    },
    "count": 2,
    "inrank": true
@@ -307,7 +327,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 6,
    "hours": [
     "00:08",
@@ -318,15 +338,16 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 16
+    "nate_pop": 22,
+    "nate_int": 24
    },
    "count": 2,
    "inrank": true
@@ -335,20 +356,27 @@
    "id": "c7",
    "title": "이서진, 공식 석상서 '중년女 비하' 파문…'갱년기' 날벼락 한지민 \"취소해...",
    "titles": [
-    "이서진, 공식 석상서 '중년女 비하' 파문…'갱년기' 날벼락 한지민 \"취소해..."
+    "이서진, 공식 석상서 '중년女 비하' 파문…'갱년기' 날벼락 한지민 \"취소해...",
+    "이서진, 한지민에 \"갱년기 중년 여성\"…20년 우정 강조하려다 역풍 [N이슈..."
    ],
    "links": [
-    "https://news.nate.com/view/20261126n30584"
+    "https://news.nate.com/view/20261126n30584",
+    "https://news.nate.com/view/20261127n05170"
    ],
    "articles": [
     {
      "title": "이서진, 공식 석상서 '중년女 비하' 파문…'갱년기' 날벼락 한지민 \"취소해...",
      "link": "https://news.nate.com/view/20261126n30584",
      "media": "스타뉴스"
+    },
+    {
+     "title": "이서진, 한지민에 \"갱년기 중년 여성\"…20년 우정 강조하려다 역풍 [N이슈...",
+     "link": "https://news.nate.com/view/20261127n05170",
+     "media": "뉴스1"
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 6,
    "hours": [
     "00:08",
@@ -359,16 +387,18 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 40
+    "nate_pop": 18,
+    "nate_int": 16
    },
-   "count": 1,
+   "count": 2,
    "inrank": true
   },
   {
@@ -412,11 +442,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 39
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c9",
@@ -477,7 +505,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 2,
    "hours": [
     "00:08",
@@ -488,15 +516,16 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 5
+    "nate_pop": 25,
+    "nate_int": 21
    },
    "count": 7,
    "inrank": true
@@ -518,7 +547,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 5,
    "hours": [
     "00:08",
@@ -529,15 +558,16 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 15
+    "nate_pop": 27,
+    "nate_int": 33
    },
    "count": 1,
    "inrank": true
@@ -576,11 +606,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 46
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c12",
@@ -599,7 +627,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 10,
    "hours": [
     "00:08",
@@ -610,15 +638,15 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 25
+    "nate_int": 38
    },
    "count": 1,
    "inrank": true
@@ -690,7 +718,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 1,
    "hours": [
     "00:08",
@@ -701,15 +729,16 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 6
+    "nate_pop": 24,
+    "nate_int": 20
    },
    "count": 3,
    "inrank": true
@@ -748,11 +777,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 48
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c16",
@@ -778,7 +805,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 4,
    "hours": [
     "00:08",
@@ -789,15 +816,15 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 8
+    "nate_int": 26
    },
    "count": 2,
    "inrank": true
@@ -819,7 +846,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 5,
    "hours": [
     "00:08",
@@ -830,15 +857,15 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 16,
-    "nate_int": 17
+    "nate_int": 41
    },
    "count": 1,
    "inrank": true
@@ -902,7 +929,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 7,
    "hours": [
     "00:08",
@@ -913,15 +940,15 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 14,
-    "nate_int": 12
+    "nate_int": 46
    },
    "count": 2,
    "inrank": true
@@ -987,7 +1014,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 11,
    "hours": [
     "00:08",
@@ -998,15 +1025,15 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 28,
-    "nate_int": 36
+    "nate_int": 40
    },
    "count": 2,
    "inrank": true
@@ -1045,11 +1072,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 44
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c23",
@@ -1085,11 +1110,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 37
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c24",
@@ -1132,11 +1155,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 38
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c25",
@@ -1630,8 +1651,8 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
-   "best": 7,
+   "last": "10:10",
+   "best": 5,
    "hours": [
     "00:08",
     "01:10",
@@ -1641,15 +1662,16 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 10
+    "nate_pop": 7,
+    "nate_int": 5
    },
    "count": 3,
    "inrank": true
@@ -1688,11 +1710,9 @@
     "nate_int",
     "nate_pop"
    ],
-   "now": {
-    "nate_int": 33
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c41",
@@ -1718,7 +1738,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 11,
    "hours": [
     "00:08",
@@ -1729,15 +1749,16 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 13
+    "nate_pop": 17,
+    "nate_int": 17
    },
    "count": 2,
    "inrank": true
@@ -1759,7 +1780,7 @@
     }
    ],
    "first": "00:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 11,
    "hours": [
     "00:08",
@@ -1770,15 +1791,15 @@
     "05:08",
     "06:10",
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 24
+    "nate_int": 36
    },
    "count": 1,
    "inrank": true
@@ -1822,11 +1843,9 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 41
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c44",
@@ -1952,21 +1971,24 @@
     }
    ],
    "first": "02:10",
-   "last": "06:10",
+   "last": "10:10",
    "best": 42,
    "hours": [
     "02:10",
     "03:10",
     "04:10",
     "05:08",
-    "06:10"
+    "06:10",
+    "10:10"
    ],
    "srcs": [
     "nate_int"
    ],
-   "now": {},
+   "now": {
+    "nate_int": 48
+   },
    "count": 1,
-   "inrank": false
+   "inrank": true
   },
   {
    "id": "c48",
@@ -2064,30 +2086,42 @@
    "id": "c51",
    "title": "브라이언, 서인영 보자마자 냅다 안고 빙글 \"결혼하면 못 하니까\"(유행꼰대...",
    "titles": [
-    "브라이언, 서인영 보자마자 냅다 안고 빙글 \"결혼하면 못 하니까\"(유행꼰대..."
+    "브라이언, 서인영 보자마자 냅다 안고 빙글 \"결혼하면 못 하니까\"(유행꼰대...",
+    "서인영-브라이언 진한 스킨십 눈길 \"알몸 봐도 아무렇지 않은 사이\" (유행..."
    ],
    "links": [
-    "https://news.nate.com/view/20261126n38174"
+    "https://news.nate.com/view/20261126n38174",
+    "https://news.nate.com/view/20261127n00623"
    ],
    "articles": [
     {
      "title": "브라이언, 서인영 보자마자 냅다 안고 빙글 \"결혼하면 못 하니까\"(유행꼰대...",
      "link": "https://news.nate.com/view/20261126n38174",
      "media": "뉴스엔"
+    },
+    {
+     "title": "서인영-브라이언 진한 스킨십 눈길 \"알몸 봐도 아무렇지 않은 사이\" (유행...",
+     "link": "https://news.nate.com/view/20261127n00623",
+     "media": "iMBC연예"
     }
    ],
    "first": "05:08",
-   "last": "05:08",
-   "best": 50,
+   "last": "10:10",
+   "best": 12,
    "hours": [
-    "05:08"
+    "05:08",
+    "10:10"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 12,
+    "nate_int": 22
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c52",
@@ -2145,11 +2179,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 35
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c54",
@@ -2168,19 +2200,20 @@
     }
    ],
    "first": "07:10",
-   "last": "08:08",
+   "last": "10:10",
    "best": 14,
    "hours": [
     "07:10",
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 14
+    "nate_pop": 19,
+    "nate_int": 18
    },
    "count": 1,
    "inrank": true
@@ -2189,23 +2222,38 @@
    "id": "c55",
    "title": "팬 편지 쓰레기장에 투척…뮤지컬 배우 이동연, \"빼빼로만 빼먹고 버렸...",
    "titles": [
-    "팬 편지 쓰레기장에 투척…뮤지컬 배우 이동연, \"빼빼로만 빼먹고 버렸..."
+    "팬 편지 쓰레기장에 투척…뮤지컬 배우 이동연, \"빼빼로만 빼먹고 버렸...",
+    "'제자 성폭행 혐의' 뮤지컬 배우 남경주, 국민참여재판 시작",
+    "이동연, 팬 편지 보지도 않고 버렸다 들통 \"배은망덕 레전드\" [소셜in]"
    ],
    "links": [
-    "https://news.nate.com/view/20261127n03233"
+    "https://news.nate.com/view/20261127n03233",
+    "https://news.nate.com/view/20261127n06392",
+    "https://news.nate.com/view/20261127n05944"
    ],
    "articles": [
     {
      "title": "팬 편지 쓰레기장에 투척…뮤지컬 배우 이동연, \"빼빼로만 빼먹고 버렸...",
      "link": "https://news.nate.com/view/20261127n03233",
      "media": "스포츠서울"
+    },
+    {
+     "title": "'제자 성폭행 혐의' 뮤지컬 배우 남경주, 국민참여재판 시작",
+     "link": "https://news.nate.com/view/20261127n06392",
+     "media": "뉴시스"
+    },
+    {
+     "title": "이동연, 팬 편지 보지도 않고 버렸다 들통 \"배은망덕 레전드\" [소셜in]",
+     "link": "https://news.nate.com/view/20261127n05944",
+     "media": "iMBC연예"
     }
    ],
    "first": "08:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 1,
    "hours": [
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
@@ -2215,7 +2263,7 @@
     "nate_pop": 1,
     "nate_int": 1
    },
-   "count": 1,
+   "count": 3,
    "inrank": true
   },
   {
@@ -2235,18 +2283,19 @@
     }
    ],
    "first": "08:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 2,
    "hours": [
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 2,
-    "nate_int": 2
+    "nate_pop": 5,
+    "nate_int": 4
    },
    "count": 1,
    "inrank": true
@@ -2268,18 +2317,19 @@
     }
    ],
    "first": "08:08",
-   "last": "08:08",
-   "best": 3,
+   "last": "10:10",
+   "best": 2,
    "hours": [
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 3
+    "nate_pop": 2,
+    "nate_int": 2
    },
    "count": 1,
    "inrank": true
@@ -2301,18 +2351,19 @@
     }
    ],
    "first": "08:08",
-   "last": "08:08",
+   "last": "10:10",
    "best": 5,
    "hours": [
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 5,
-    "nate_int": 7
+    "nate_pop": 14,
+    "nate_int": 14
    },
    "count": 1,
    "inrank": true
@@ -2334,18 +2385,19 @@
     }
    ],
    "first": "08:08",
-   "last": "08:08",
-   "best": 7,
+   "last": "10:10",
+   "best": 3,
    "hours": [
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 43
+    "nate_pop": 3,
+    "nate_int": 3
    },
    "count": 1,
    "inrank": true
@@ -2367,18 +2419,19 @@
     }
    ],
    "first": "08:08",
-   "last": "08:08",
-   "best": 21,
+   "last": "10:10",
+   "best": 19,
    "hours": [
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 25,
-    "nate_int": 21
+    "nate_pop": 21,
+    "nate_int": 19
    },
    "count": 1,
    "inrank": true
@@ -2400,18 +2453,19 @@
     }
    ],
    "first": "08:08",
-   "last": "08:08",
-   "best": 26,
+   "last": "10:10",
+   "best": 23,
    "hours": [
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 26,
-    "nate_int": 30
+    "nate_pop": 23,
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -2433,18 +2487,343 @@
     }
    ],
    "first": "08:08",
-   "last": "08:08",
-   "best": 27,
+   "last": "10:10",
+   "best": 4,
    "hours": [
-    "08:08"
+    "08:08",
+    "10:10"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 29
+    "nate_pop": 4,
+    "nate_int": 6
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c63",
+   "title": "'우결' 똥이 커플 에릭남♥솔라, 10년만 재회 \"우리 이혼했어요\"",
+   "titles": [
+    "'우결' 똥이 커플 에릭남♥솔라, 10년만 재회 \"우리 이혼했어요\""
+   ],
+   "links": [
+    "https://news.nate.com/view/20261127n04098"
+   ],
+   "articles": [
+    {
+     "title": "'우결' 똥이 커플 에릭남♥솔라, 10년만 재회 \"우리 이혼했어요\"",
+     "link": "https://news.nate.com/view/20261127n04098",
+     "media": "마이데일리"
+    }
+   ],
+   "first": "10:10",
+   "last": "10:10",
+   "best": 6,
+   "hours": [
+    "10:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 6,
+    "nate_int": 8
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c64",
+   "title": "\"감사합니동\" 이동연 팬레터 인증 불구 버렸나?…안경 그림에 불거진 분리...",
+   "titles": [
+    "\"감사합니동\" 이동연 팬레터 인증 불구 버렸나?…안경 그림에 불거진 분리..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261127n05859"
+   ],
+   "articles": [
+    {
+     "title": "\"감사합니동\" 이동연 팬레터 인증 불구 버렸나?…안경 그림에 불거진 분리...",
+     "link": "https://news.nate.com/view/20261127n05859",
+     "media": "OSEN"
+    }
+   ],
+   "first": "10:10",
+   "last": "10:10",
+   "best": 9,
+   "hours": [
+    "10:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 9,
+    "nate_int": 9
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c65",
+   "title": "오정세, 뒤늦게 알려진 미담…암투병 팬 母 장례식·축가까지 \"평생 잊지 ...",
+   "titles": [
+    "오정세, 뒤늦게 알려진 미담…암투병 팬 母 장례식·축가까지 \"평생 잊지 ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261127n06727"
+   ],
+   "articles": [
+    {
+     "title": "오정세, 뒤늦게 알려진 미담…암투병 팬 母 장례식·축가까지 \"평생 잊지 ...",
+     "link": "https://news.nate.com/view/20261127n06727",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "10:10",
+   "last": "10:10",
+   "best": 11,
+   "hours": [
+    "10:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 11,
+    "nate_int": 11
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c66",
+   "title": "김유정, 빅뱅 무대에 입 틀어막았다…지드래곤 '좋아요'로 화답",
+   "titles": [
+    "김유정, 빅뱅 무대에 입 틀어막았다…지드래곤 '좋아요'로 화답"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261127n04729"
+   ],
+   "articles": [
+    {
+     "title": "김유정, 빅뱅 무대에 입 틀어막았다…지드래곤 '좋아요'로 화답",
+     "link": "https://news.nate.com/view/20261127n04729",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "10:10",
+   "last": "10:10",
+   "best": 12,
+   "hours": [
+    "10:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 13,
+    "nate_int": 12
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c67",
+   "title": "임예진, '궁' 윤은혜에 갑질 의혹 부인 \"세트 뒤에서 춤춰보라고…너무 사...",
+   "titles": [
+    "임예진, '궁' 윤은혜에 갑질 의혹 부인 \"세트 뒤에서 춤춰보라고…너무 사..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261127n05222"
+   ],
+   "articles": [
+    {
+     "title": "임예진, '궁' 윤은혜에 갑질 의혹 부인 \"세트 뒤에서 춤춰보라고…너무 사...",
+     "link": "https://news.nate.com/view/20261127n05222",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "10:10",
+   "last": "10:10",
+   "best": 13,
+   "hours": [
+    "10:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 15,
+    "nate_int": 13
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c68",
+   "title": "\"허리띠 후크 풀고 있다가\"…백상 2관왕 류승룡, 시상식 생방송 아찔했던 ...",
+   "titles": [
+    "\"허리띠 후크 풀고 있다가\"…백상 2관왕 류승룡, 시상식 생방송 아찔했던 ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261127n04109"
+   ],
+   "articles": [
+    {
+     "title": "\"허리띠 후크 풀고 있다가\"…백상 2관왕 류승룡, 시상식 생방송 아찔했던 ...",
+     "link": "https://news.nate.com/view/20261127n04109",
+     "media": "마이데일리"
+    }
+   ],
+   "first": "10:10",
+   "last": "10:10",
+   "best": 20,
+   "hours": [
+    "10:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 20,
+    "nate_int": 23
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c69",
+   "title": "'싱글맘' 이지현, '전종서 닮은꼴' 중1딸 공개…완성형 미모",
+   "titles": [
+    "'싱글맘' 이지현, '전종서 닮은꼴' 중1딸 공개…완성형 미모"
+   ],
+   "links": [
+    "https://news.nate.com/view/20261127n00405"
+   ],
+   "articles": [
+    {
+     "title": "'싱글맘' 이지현, '전종서 닮은꼴' 중1딸 공개…완성형 미모",
+     "link": "https://news.nate.com/view/20261127n00405",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "10:10",
+   "last": "10:10",
+   "best": 30,
+   "hours": [
+    "10:10"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 30,
+    "nate_int": 31
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c70",
+   "title": "이영표, 박지성과 히딩크 팔순 잔치 참석 인증샷 공개 \"90세 파티 열어주고...",
+   "titles": [
+    "이영표, 박지성과 히딩크 팔순 잔치 참석 인증샷 공개 \"90세 파티 열어주고..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261127n04248"
+   ],
+   "articles": [
+    {
+     "title": "이영표, 박지성과 히딩크 팔순 잔치 참석 인증샷 공개 \"90세 파티 열어주고...",
+     "link": "https://news.nate.com/view/20261127n04248",
+     "media": "뉴스엔"
+    }
+   ],
+   "first": "10:10",
+   "last": "10:10",
+   "best": 37,
+   "hours": [
+    "10:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 37
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c71",
+   "title": "나은이 동생 탄생 임박…'박주호♥' 안나, 만삭 D라인 깜짝 공개 \"1주일 ...",
+   "titles": [
+    "나은이 동생 탄생 임박…'박주호♥' 안나, 만삭 D라인 깜짝 공개 \"1주일 ..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261127n04559"
+   ],
+   "articles": [
+    {
+     "title": "나은이 동생 탄생 임박…'박주호♥' 안나, 만삭 D라인 깜짝 공개 \"1주일 ...",
+     "link": "https://news.nate.com/view/20261127n04559",
+     "media": "스포츠조선"
+    }
+   ],
+   "first": "10:10",
+   "last": "10:10",
+   "best": 43,
+   "hours": [
+    "10:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 43
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c72",
+   "title": "팬들 편지, 안 읽고 쓰레기봉투 값마저 아까워 분리배출…\"뮤지컬배우 이동...",
+   "titles": [
+    "팬들 편지, 안 읽고 쓰레기봉투 값마저 아까워 분리배출…\"뮤지컬배우 이동..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261127n03610"
+   ],
+   "articles": [
+    {
+     "title": "팬들 편지, 안 읽고 쓰레기봉투 값마저 아까워 분리배출…\"뮤지컬배우 이동...",
+     "link": "https://news.nate.com/view/20261127n03610",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "10:10",
+   "last": "10:10",
+   "best": 44,
+   "hours": [
+    "10:10"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 44
    },
    "count": 1,
    "inrank": true
@@ -2522,9 +2901,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "10:10",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-27T08:08:22.513742+09:00",
+ "updated": "2026-11-27T10:10:50.501838+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

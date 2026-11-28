@@ -18,7 +18,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -31,15 +31,16 @@
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 21,
-    "nate_int": 24
+    "nate_pop": 24,
+    "nate_int": 31
    },
    "count": 1,
    "inrank": true
@@ -75,8 +76,8 @@
     }
    ],
    "first": "00:08",
-   "last": "10:25",
-   "best": 2,
+   "last": "11:08",
+   "best": 1,
    "hours": [
     "00:08",
     "01:09",
@@ -88,15 +89,16 @@
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 3,
-    "nate_int": 2
+    "nate_pop": 2,
+    "nate_int": 1
    },
    "count": 3,
    "inrank": true
@@ -125,7 +127,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 3,
    "hours": [
     "00:08",
@@ -138,15 +140,16 @@
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 19,
-    "nate_int": 22
+    "nate_pop": 25,
+    "nate_int": 33
    },
    "count": 2,
    "inrank": true
@@ -210,7 +213,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -223,15 +226,16 @@
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 13,
-    "nate_int": 14
+    "nate_pop": 23,
+    "nate_int": 22
    },
    "count": 7,
    "inrank": true
@@ -253,7 +257,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 5,
    "hours": [
     "00:08",
@@ -266,15 +270,16 @@
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 17,
-    "nate_int": 21
+    "nate_pop": 22,
+    "nate_int": 23
    },
    "count": 1,
    "inrank": true
@@ -366,7 +371,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 2,
    "hours": [
     "00:08",
@@ -379,15 +384,16 @@
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 9,
-    "nate_int": 7
+    "nate_pop": 16,
+    "nate_int": 14
    },
    "count": 11,
    "inrank": true
@@ -428,11 +434,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 50
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c8",
@@ -465,7 +469,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 8,
    "hours": [
     "00:08",
@@ -478,14 +482,15 @@
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 39
+    "nate_int": 36
    },
    "count": 3,
    "inrank": true
@@ -549,7 +554,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 5,
    "hours": [
     "00:08",
@@ -562,15 +567,16 @@
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 11,
-    "nate_int": 10
+    "nate_pop": 19,
+    "nate_int": 17
    },
    "count": 7,
    "inrank": true
@@ -629,7 +635,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 7,
    "hours": [
     "00:08",
@@ -642,15 +648,15 @@
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 27,
-    "nate_int": 35
+    "nate_int": 37
    },
    "count": 2,
    "inrank": true
@@ -662,13 +668,15 @@
     "오윤아, 발리 웨딩 촬영 현장 공개…♥4세 연하 남편 큰 키에 듬직한 체격 ...",
     "전혜빈, ♥치과의사 남편·4세 아들 최초 공개…결혼 7년 차 행복한 일상",
     "손연재 부부, 30억 기부 약정…결혼부터 아들 생일까지 꾸준한 나눔",
-    "오윤아, ♥4살 연하 남편 첫 공개…발리서 웨딩 촬영 '달달' [마데핫리..."
+    "오윤아, ♥4살 연하 남편 첫 공개…발리서 웨딩 촬영 '달달' [마데핫리...",
+    "'결혼 후 최초공개' 전혜빈, ♥치과의사 남편도 등장…아들은 어쩜 이렇게 ..."
    ],
    "links": [
     "https://news.nate.com/view/20261127n27091",
     "https://news.nate.com/view/20261127n27025",
     "https://news.nate.com/view/20261127n15529",
-    "https://news.nate.com/view/20261128n01845"
+    "https://news.nate.com/view/20261128n01845",
+    "https://news.nate.com/view/20261128n02462"
    ],
    "articles": [
     {
@@ -690,10 +698,15 @@
      "title": "오윤아, ♥4살 연하 남편 첫 공개…발리서 웨딩 촬영 '달달' [마데핫리...",
      "link": "https://news.nate.com/view/20261128n01845",
      "media": "마이데일리"
+    },
+    {
+     "title": "'결혼 후 최초공개' 전혜빈, ♥치과의사 남편도 등장…아들은 어쩜 이렇게 ...",
+     "link": "https://news.nate.com/view/20261128n02462",
+     "media": "엑스포츠뉴스"
     }
    ],
    "first": "00:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 1,
    "hours": [
     "00:08",
@@ -706,17 +719,18 @@
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 1,
-    "nate_int": 1
+    "nate_pop": 4,
+    "nate_int": 2
    },
-   "count": 4,
+   "count": 5,
    "inrank": true
   },
   {
@@ -892,11 +906,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 48
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c18",
@@ -904,12 +916,14 @@
    "titles": [
     "[단독] '사생활 논란' 홍민기 前 여자친구 실종…마포대교서 마지막 확인",
     "[속보] '낙태 폭행 주장' 홍민기 전 여친 실종…마포대교서 신호 끊겨",
-    "\"홍민기가 임신중절 종용\" 주장한 전 여친 실종…경찰, 마포대교 인근 수색"
+    "\"홍민기가 임신중절 종용\" 주장한 전 여친 실종…경찰, 마포대교 인근 수색",
+    "\"홍민기가 폭행·낙태 종용\" 전 연인 실종…마지막 행적은 마포대교"
    ],
    "links": [
     "https://news.nate.com/view/20261127n24891",
     "https://news.nate.com/view/20261127n26772",
-    "https://news.nate.com/view/20261128n02969"
+    "https://news.nate.com/view/20261128n02969",
+    "https://news.nate.com/view/20261128n02638"
    ],
    "articles": [
     {
@@ -926,10 +940,15 @@
      "title": "\"홍민기가 임신중절 종용\" 주장한 전 여친 실종…경찰, 마포대교 인근 수색",
      "link": "https://news.nate.com/view/20261128n02969",
      "media": "스타투데이"
+    },
+    {
+     "title": "\"홍민기가 폭행·낙태 종용\" 전 연인 실종…마지막 행적은 마포대교",
+     "link": "https://news.nate.com/view/20261128n02638",
+     "media": "iMBC연예"
     }
    ],
    "first": "00:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 14,
    "hours": [
     "00:08",
@@ -940,17 +959,17 @@
     "06:09",
     "07:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 29,
-    "nate_int": 26
+    "nate_int": 41
    },
-   "count": 3,
+   "count": 4,
    "inrank": true
   },
   {
@@ -1033,12 +1052,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 30,
-    "nate_int": 27
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c21",
@@ -1076,11 +1092,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 43
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c22",
@@ -1106,7 +1120,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 12,
    "hours": [
     "00:08",
@@ -1115,15 +1129,15 @@
     "03:07",
     "05:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 12,
-    "nate_int": 12
+    "nate_int": 27
    },
    "count": 2,
    "inrank": true
@@ -1164,11 +1178,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_int": 42
-   },
+   "now": {},
    "count": 1,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c24",
@@ -1211,21 +1223,28 @@
    "id": "c25",
    "title": "'환승연애' 김보현, 훈남 ♥남친과 내년 결혼 \"매일 웃음으로 가득해\"[전문...",
    "titles": [
-    "'환승연애' 김보현, 훈남 ♥남친과 내년 결혼 \"매일 웃음으로 가득해\"[전문..."
+    "'환승연애' 김보현, 훈남 ♥남친과 내년 결혼 \"매일 웃음으로 가득해\"[전문...",
+    "두달새 벌써 6명째, '환승연애' 알고보니 웨딩성지였네…김보현도 '품절녀'..."
    ],
    "links": [
-    "https://news.nate.com/view/20261127n27942"
+    "https://news.nate.com/view/20261127n27942",
+    "https://news.nate.com/view/20261128n04210"
    ],
    "articles": [
     {
      "title": "'환승연애' 김보현, 훈남 ♥남친과 내년 결혼 \"매일 웃음으로 가득해\"[전문...",
      "link": "https://news.nate.com/view/20261127n27942",
      "media": "뉴스엔"
+    },
+    {
+     "title": "두달새 벌써 6명째, '환승연애' 알고보니 웨딩성지였네…김보현도 '품절녀'...",
+     "link": "https://news.nate.com/view/20261128n04210",
+     "media": "스포츠조선"
     }
    ],
    "first": "00:08",
-   "last": "07:08",
-   "best": 15,
+   "last": "11:08",
+   "best": 13,
    "hours": [
     "00:08",
     "01:09",
@@ -1233,15 +1252,19 @@
     "03:07",
     "05:08",
     "06:09",
-    "07:08"
+    "07:08",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 13,
+    "nate_int": 13
+   },
+   "count": 2,
+   "inrank": true
   },
   {
    "id": "c26",
@@ -1579,40 +1602,57 @@
    "srcs": [
     "nate_int"
    ],
-   "now": {
-    "nate_int": 47
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c36",
    "title": "오정세, 뒤늦게 알려진 미담…암투병 팬 母 장례식·축가까지 \"평생 잊지 ...",
    "titles": [
-    "오정세, 뒤늦게 알려진 미담…암투병 팬 母 장례식·축가까지 \"평생 잊지 ..."
+    "오정세, 뒤늦게 알려진 미담…암투병 팬 母 장례식·축가까지 \"평생 잊지 ...",
+    "'마약 실형' 돈스파이크 \"김범수, 제일 먼저 면회 와준…평생 잊지 못할 은...",
+    "[단독]돈스파이크 \"마운자로 투약 15kg 감량…마약 중독 끊으려 시작\" [인..."
    ],
    "links": [
-    "https://news.nate.com/view/20261127n06727"
+    "https://news.nate.com/view/20261127n06727",
+    "https://news.nate.com/view/20261128n02881",
+    "https://news.nate.com/view/20261128n01685"
    ],
    "articles": [
     {
      "title": "오정세, 뒤늦게 알려진 미담…암투병 팬 母 장례식·축가까지 \"평생 잊지 ...",
      "link": "https://news.nate.com/view/20261127n06727",
      "media": "스포츠조선"
+    },
+    {
+     "title": "'마약 실형' 돈스파이크 \"김범수, 제일 먼저 면회 와준…평생 잊지 못할 은...",
+     "link": "https://news.nate.com/view/20261128n02881",
+     "media": "스포츠조선"
+    },
+    {
+     "title": "[단독]돈스파이크 \"마운자로 투약 15kg 감량…마약 중독 끊으려 시작\" [인...",
+     "link": "https://news.nate.com/view/20261128n01685",
+     "media": "스타뉴스"
     }
    ],
    "first": "00:08",
-   "last": "00:08",
-   "best": 36,
+   "last": "11:08",
+   "best": 5,
    "hours": [
-    "00:08"
+    "00:08",
+    "11:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
-   "now": {},
-   "count": 1,
-   "inrank": false
+   "now": {
+    "nate_pop": 8,
+    "nate_int": 5
+   },
+   "count": 3,
+   "inrank": true
   },
   {
    "id": "c37",
@@ -1737,7 +1777,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 8,
    "hours": [
     "00:08",
@@ -1750,14 +1790,15 @@
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 38
+    "nate_int": 44
    },
    "count": 1,
    "inrank": true
@@ -1847,7 +1888,7 @@
     }
    ],
    "first": "00:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 26,
    "hours": [
     "00:08",
@@ -1858,14 +1899,15 @@
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_int": 36
+    "nate_int": 38
    },
    "count": 1,
    "inrank": true
@@ -2052,7 +2094,7 @@
     }
    ],
    "first": "02:10",
-   "last": "10:25",
+   "last": "11:08",
    "best": 9,
    "hours": [
     "02:10",
@@ -2063,15 +2105,15 @@
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 18,
-    "nate_int": 17
+    "nate_int": 26
    },
    "count": 1,
    "inrank": true
@@ -2414,12 +2456,9 @@
     "nate_pop",
     "nate_int"
    ],
-   "now": {
-    "nate_pop": 2,
-    "nate_int": 3
-   },
+   "now": {},
    "count": 2,
-   "inrank": true
+   "inrank": false
   },
   {
    "id": "c61",
@@ -2445,21 +2484,22 @@
     }
    ],
    "first": "08:10",
-   "last": "10:25",
+   "last": "11:08",
    "best": 2,
    "hours": [
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 6,
-    "nate_int": 5
+    "nate_pop": 12,
+    "nate_int": 12
    },
    "count": 2,
    "inrank": true
@@ -2481,21 +2521,22 @@
     }
    ],
    "first": "08:10",
-   "last": "10:25",
+   "last": "11:08",
    "best": 3,
    "hours": [
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 4,
-    "nate_int": 6
+    "nate_pop": 3,
+    "nate_int": 11
    },
    "count": 1,
    "inrank": true
@@ -2505,11 +2546,15 @@
    "title": "유지애♥곽시양, 미용실서 싹튼 사랑…오늘(25일) 웨딩마치[뮤즈★]",
    "titles": [
     "유지애♥곽시양, 미용실서 싹튼 사랑…오늘(25일) 웨딩마치[뮤즈★]",
-    "'열애설 없이 결혼 발표' 곽시양♥유지애, 축복 속 백년가약 [N디데이]"
+    "'열애설 없이 결혼 발표' 곽시양♥유지애, 축복 속 백년가약 [N디데이]",
+    "곽시양♥유지애, 오늘(28일) 결혼…\"행복하게 살게요\" [왓IS]",
+    "'6살 차' 곽시양♥유지애, 오늘(28일) 부부 된다…나란히 큰절 \"행복하게 ..."
    ],
    "links": [
     "https://news.nate.com/view/20261128n01457",
-    "https://news.nate.com/view/20261128n01409"
+    "https://news.nate.com/view/20261128n01409",
+    "https://news.nate.com/view/20261128n03659",
+    "https://news.nate.com/view/20261128n03414"
    ],
    "articles": [
     {
@@ -2521,26 +2566,37 @@
      "title": "'열애설 없이 결혼 발표' 곽시양♥유지애, 축복 속 백년가약 [N디데이]",
      "link": "https://news.nate.com/view/20261128n01409",
      "media": "뉴스1"
+    },
+    {
+     "title": "곽시양♥유지애, 오늘(28일) 결혼…\"행복하게 살게요\" [왓IS]",
+     "link": "https://news.nate.com/view/20261128n03659",
+     "media": "일간스포츠"
+    },
+    {
+     "title": "'6살 차' 곽시양♥유지애, 오늘(28일) 부부 된다…나란히 큰절 \"행복하게 ...",
+     "link": "https://news.nate.com/view/20261128n03414",
+     "media": "TV리포트"
     }
    ],
    "first": "08:10",
-   "last": "10:25",
+   "last": "11:08",
    "best": 5,
    "hours": [
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 10,
-    "nate_int": 11
+    "nate_pop": 6,
+    "nate_int": 6
    },
-   "count": 2,
+   "count": 4,
    "inrank": true
   },
   {
@@ -2560,21 +2616,22 @@
     }
    ],
    "first": "08:10",
-   "last": "10:25",
+   "last": "11:08",
    "best": 14,
    "hours": [
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 15,
-    "nate_int": 15
+    "nate_pop": 27,
+    "nate_int": 24
    },
    "count": 1,
    "inrank": true
@@ -2596,13 +2653,14 @@
     }
    ],
    "first": "08:10",
-   "last": "10:25",
+   "last": "11:08",
    "best": 4,
    "hours": [
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
@@ -2632,13 +2690,14 @@
     }
    ],
    "first": "08:10",
-   "last": "10:25",
+   "last": "11:08",
    "best": 30,
    "hours": [
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_int"
@@ -2704,21 +2763,22 @@
     }
    ],
    "first": "08:10",
-   "last": "10:25",
-   "best": 11,
+   "last": "11:08",
+   "best": 9,
    "hours": [
     "08:10",
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 23,
-    "nate_int": 19
+    "nate_pop": 9,
+    "nate_int": 9
    },
    "count": 2,
    "inrank": true
@@ -2740,20 +2800,21 @@
     }
    ],
    "first": "09:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 8,
    "hours": [
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 8,
-    "nate_int": 9
+    "nate_pop": 15,
+    "nate_int": 15
    },
    "count": 1,
    "inrank": true
@@ -2775,20 +2836,21 @@
     }
    ],
    "first": "09:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 17,
    "hours": [
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 24,
-    "nate_int": 20
+    "nate_pop": 20,
+    "nate_int": 21
    },
    "count": 1,
    "inrank": true
@@ -2810,19 +2872,20 @@
     }
    ],
    "first": "09:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 24,
    "hours": [
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_int": 29
+    "nate_int": 30
    },
    "count": 1,
    "inrank": true
@@ -2844,20 +2907,21 @@
     }
    ],
    "first": "09:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 18,
    "hours": [
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_int",
     "nate_pop"
    ],
    "now": {
-    "nate_pop": 22,
-    "nate_int": 18
+    "nate_pop": 18,
+    "nate_int": 19
    },
    "count": 1,
    "inrank": true
@@ -2879,18 +2943,19 @@
     }
    ],
    "first": "09:08",
-   "last": "10:25",
+   "last": "11:08",
    "best": 39,
    "hours": [
     "09:08",
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 41
+    "nate_int": 43
    },
    "count": 1,
    "inrank": true
@@ -2942,19 +3007,20 @@
     }
    ],
    "first": "10:10",
-   "last": "10:25",
+   "last": "11:08",
    "best": 7,
    "hours": [
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
    "now": {
-    "nate_pop": 7,
-    "nate_int": 8
+    "nate_pop": 14,
+    "nate_int": 18
    },
    "count": 1,
    "inrank": true
@@ -2976,17 +3042,20 @@
     }
    ],
    "first": "10:10",
-   "last": "10:25",
-   "best": 32,
+   "last": "11:08",
+   "best": 26,
    "hours": [
     "10:10",
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 32
+    "nate_pop": 26,
+    "nate_int": 29
    },
    "count": 1,
    "inrank": true
@@ -3037,16 +3106,19 @@
     }
    ],
    "first": "10:25",
-   "last": "10:25",
-   "best": 28,
+   "last": "11:08",
+   "best": 10,
    "hours": [
-    "10:25"
+    "10:25",
+    "11:08"
    ],
    "srcs": [
-    "nate_int"
+    "nate_int",
+    "nate_pop"
    ],
    "now": {
-    "nate_int": 28
+    "nate_pop": 10,
+    "nate_int": 10
    },
    "count": 1,
    "inrank": true
@@ -3068,16 +3140,147 @@
     }
    ],
    "first": "10:25",
-   "last": "10:25",
-   "best": 31,
+   "last": "11:08",
+   "best": 28,
    "hours": [
-    "10:25"
+    "10:25",
+    "11:08"
+   ],
+   "srcs": [
+    "nate_int",
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 30,
+    "nate_int": 28
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c80",
+   "title": "53세 전도연, 인공 시술 없는 '눈가 주름-치아 변색'으로 증명한 자연...",
+   "titles": [
+    "53세 전도연, 인공 시술 없는 '눈가 주름-치아 변색'으로 증명한 자연..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261128n03699"
+   ],
+   "articles": [
+    {
+     "title": "53세 전도연, 인공 시술 없는 '눈가 주름-치아 변색'으로 증명한 자연...",
+     "link": "https://news.nate.com/view/20261128n03699",
+     "media": "스포티비뉴스"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 1,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 1,
+    "nate_int": 8
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c81",
+   "title": "'42세' 男 배우, 갑작스러운 '영정사진' 공개…\"이 사진으로 선택\"→모두...",
+   "titles": [
+    "'42세' 男 배우, 갑작스러운 '영정사진' 공개…\"이 사진으로 선택\"→모두..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261128n04154"
+   ],
+   "articles": [
+    {
+     "title": "'42세' 男 배우, 갑작스러운 '영정사진' 공개…\"이 사진으로 선택\"→모두...",
+     "link": "https://news.nate.com/view/20261128n04154",
+     "media": "MHN스포츠"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 3,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "now": {
+    "nate_pop": 7,
+    "nate_int": 3
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c82",
+   "title": "금융인♥ 사모님 효민, 우아한 16세기 궁전 다이닝…포멀한 정장인 줄 알았...",
+   "titles": [
+    "금융인♥ 사모님 효민, 우아한 16세기 궁전 다이닝…포멀한 정장인 줄 알았..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261128n02003"
+   ],
+   "articles": [
+    {
+     "title": "금융인♥ 사모님 효민, 우아한 16세기 궁전 다이닝…포멀한 정장인 줄 알았...",
+     "link": "https://news.nate.com/view/20261128n02003",
+     "media": "마이데일리"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 46,
+   "hours": [
+    "11:08"
    ],
    "srcs": [
     "nate_int"
    ],
    "now": {
-    "nate_int": 31
+    "nate_int": 46
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c83",
+   "title": "학창 시절 '일진' 폭로 나왔다…유명 女가수, 100명 증언 등장→\"대가 치르...",
+   "titles": [
+    "학창 시절 '일진' 폭로 나왔다…유명 女가수, 100명 증언 등장→\"대가 치르..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261128n03791"
+   ],
+   "articles": [
+    {
+     "title": "학창 시절 '일진' 폭로 나왔다…유명 女가수, 100명 증언 등장→\"대가 치르...",
+     "link": "https://news.nate.com/view/20261128n03791",
+     "media": "TV리포트"
+    }
+   ],
+   "first": "11:08",
+   "last": "11:08",
+   "best": 49,
+   "hours": [
+    "11:08"
+   ],
+   "srcs": [
+    "nate_int"
+   ],
+   "now": {
+    "nate_int": 49
    },
    "count": 1,
    "inrank": true
@@ -3171,9 +3374,17 @@
     "nate_int"
    ],
    "items": 80
+  },
+  {
+   "time": "11:08",
+   "sources": [
+    "nate_pop",
+    "nate_int"
+   ],
+   "items": 80
   }
  ],
- "updated": "2026-11-28T10:25:30.484729+09:00",
+ "updated": "2026-11-28T11:08:44.917967+09:00",
  "labels": {
   "nate_pop": "네이트 많이 본",
   "nate_int": "네이트 관심"

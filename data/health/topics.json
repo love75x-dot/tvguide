@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T12:08:36.074501+09:00",
+ "updated": "2026-11-28T13:08:41.519534+09:00",
  "topics": [
   {
    "name": "혈당",
@@ -8,10 +8,22 @@
    "angles": [
     "효능",
     "에 좋은",
-    "먹는 법",
-    "부작용"
+    "부작용",
+    "먹는 법"
    ],
    "items": [
+    {
+     "title": "AI로 설계한 인공 단백질, 결함 있는 인슐린 수용체 활성화해 혈당 낮춰",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=628273",
+     "t": "2026-11-28T12:42:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "지속적인 고 혈당 과 유전적 요인, 오십견 발생 위험 높여",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=628284",
+     "t": "2026-11-28T12:24:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
     {
      "title": "\"운동 순서만 바꿔도 혈당 잡는다\"…당뇨 환자에게 유리한 순서는",
      "link": "https://zdnet.co.kr/view/?no=20261127172324",
@@ -29,30 +41,24 @@
      "link": "https://kormedi.com/?p=2914109",
      "t": "2026-11-28T08:04:00+09:00",
      "by": "kormedi.com"
-    },
-    {
-     "title": "문경 오미자, 혈당 억제 기능 성 인정 이어 특허 독점권 확보",
-     "link": "https://www.newsis.com/view/NISX20261127_0003886869",
-     "t": "2026-11-27T19:51:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "“요동치는 혈당 잡는다”… 겨울에 먹으면 더 좋은 식품 3가지",
-     "link": "https://kormedi.com/?p=2914566",
-     "t": "2026-11-27T18:22:00+09:00",
-     "by": "kormedi.com"
     }
    ]
   },
   {
    "name": "독감",
    "kind": "질환·증상",
-   "count": 24,
+   "count": 25,
    "angles": [
     "에 좋은",
     "부작용"
    ],
    "items": [
+    {
+     "title": "독감 예방접종 후 몸살, 원인은 '면역 에너지' [박민선의 건강톡톡]",
+     "link": "https://www.sisajournal.com/news/articleView.html?idxno=395160",
+     "t": "2026-11-28T13:00:00+09:00",
+     "by": "sisajournal.com"
+    },
     {
      "title": "독감 확산에 헌혈 줄어…전남광주 혈액 수급 비상",
      "link": "https://www.newsis.com/view/NISX20261127_0003886504",
@@ -76,12 +82,6 @@
      "link": "https://kormedi.com/?p=2913930",
      "t": "2026-11-27T16:06:00+09:00",
      "by": "kormedi.com"
-    },
-    {
-     "title": "독감 호전되다가 다시 열나… 세균성 폐렴 걸릴 수도, 같은 듯 다른 독...",
-     "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=214885",
-     "t": "2026-11-27T15:08:00+09:00",
-     "by": "100ssd.co.kr"
     }
    ]
   },
@@ -170,6 +170,46 @@
    ]
   },
   {
+   "name": "단백질",
+   "kind": "영양제",
+   "count": 16,
+   "angles": [
+    "먹는 법"
+   ],
+   "items": [
+    {
+     "title": "AI로 설계한 인공 단백질, 결함 있는 인슐린 수용체 활성화해 혈당 낮춰",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=628273",
+     "t": "2026-11-28T12:42:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "[주말에 뭐먹지] 100kcal에 단백질 10g·당류 3g...겨울 밤 야식 죄책감 ...",
+     "link": "https://www.techm.kr/news/articleView.html?idxno=157892",
+     "t": "2026-11-28T11:00:00+09:00",
+     "by": "techm.kr"
+    },
+    {
+     "title": "KAIST, 유전자 조절 단백질로 치매 단백질 뭉침 억제 원리 규명",
+     "link": "http://www.brainmedia.co.kr/BrainScience/25760",
+     "t": "2026-11-28T09:24:00+09:00",
+     "by": "brainmedia.co.kr"
+    },
+    {
+     "title": "알츠하이머 단백질 없어도 기억력 저하…뇌 MRI서 단서 찾았다",
+     "link": "http://www.brainmedia.co.kr/BrainScience/25762",
+     "t": "2026-11-28T09:24:00+09:00",
+     "by": "brainmedia.co.kr"
+    },
+    {
+     "title": "50대 아침 식사, 굶는 것보다 중요한 단백질…김수연 의사의 추천 식단",
+     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16288098",
+     "t": "2026-11-27T20:38:00+09:00",
+     "by": "topstarnews.net"
+    }
+   ]
+  },
+  {
    "name": "다이어트",
    "kind": "운동·생활",
    "count": 15,
@@ -208,46 +248,6 @@
      "link": "https://health.chosun.com/site/data/html_dir/2026/11/27/2026112701904.html",
      "t": "2026-11-27T18:31:00+09:00",
      "by": "health.chosun.com"
-    }
-   ]
-  },
-  {
-   "name": "단백질",
-   "kind": "영양제",
-   "count": 15,
-   "angles": [
-    "먹는 법"
-   ],
-   "items": [
-    {
-     "title": "[주말에 뭐먹지] 100kcal에 단백질 10g·당류 3g...겨울 밤 야식 죄책감 ...",
-     "link": "https://www.techm.kr/news/articleView.html?idxno=157892",
-     "t": "2026-11-28T11:00:00+09:00",
-     "by": "techm.kr"
-    },
-    {
-     "title": "KAIST, 유전자 조절 단백질로 치매 단백질 뭉침 억제 원리 규명",
-     "link": "http://www.brainmedia.co.kr/BrainScience/25760",
-     "t": "2026-11-28T09:24:00+09:00",
-     "by": "brainmedia.co.kr"
-    },
-    {
-     "title": "알츠하이머 단백질 없어도 기억력 저하…뇌 MRI서 단서 찾았다",
-     "link": "http://www.brainmedia.co.kr/BrainScience/25762",
-     "t": "2026-11-28T09:24:00+09:00",
-     "by": "brainmedia.co.kr"
-    },
-    {
-     "title": "50대 아침 식사, 굶는 것보다 중요한 단백질…김수연 의사의 추천 식단",
-     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16288098",
-     "t": "2026-11-27T20:38:00+09:00",
-     "by": "topstarnews.net"
-    },
-    {
-     "title": "\"치매 단백질 없어도 기억력 저하\"…뇌 소혈관 손상·인지장애 기전 규...",
-     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3017560",
-     "t": "2026-11-27T15:06:00+09:00",
-     "by": "bosa.co.kr"
     }
    ]
   },
@@ -925,34 +925,6 @@
    ]
   },
   {
-   "name": "노로바이러스",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "에 좋은"
-   ],
-   "items": [
-    {
-     "title": "[ 건강 칼럼] 연말 모임 뒤 구토·설사… 겨울철 노로바이러스, 가족에게...",
-     "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95794",
-     "t": "2026-11-27T13:58:00+09:00",
-     "by": "thefairnews.co.kr"
-    },
-    {
-     "title": "광주 노로바이러스 검출률↑…\"식중독 예방 수칙 준수\"",
-     "link": "https://www.newsis.com/view/NISX20261126_0003884213",
-     "t": "2026-11-26T10:55:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "[ 건강 꿀팁] 겨울철 노로바이러스 '손씻기' 30초, 음식은 85도에서 1분 가...",
-     "link": "https://www.wikitree.co.kr/articles/1177648",
-     "t": "2026-11-25T12:42:00+09:00",
-     "by": "wikitree.co.kr"
-    }
-   ]
-  },
-  {
    "name": "염증",
    "kind": "질환·증상",
    "count": 3,
@@ -1008,55 +980,6 @@
    ]
   },
   {
-   "name": "코로나",
-   "kind": "질환·증상",
-   "count": 3,
-   "angles": [
-    "에 좋은",
-    "부작용"
-   ],
-   "items": [
-    {
-     "title": "남원시보건소, 고위험군에 독감·코로나19 접종 권장…독감 입원 3주 새...",
-     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3763302",
-     "t": "2026-11-25T22:34:00+09:00",
-     "by": "gukjenews.com"
-    },
-    {
-     "title": "인플루엔자 71%·코로나19는 34%… 고령층 백신 격차 줄일 ' 예방 접종관리...",
-     "link": "https://www.mkhealth.co.kr/news/articleView.html?idxno=81070",
-     "t": "2026-11-25T17:32:00+09:00",
-     "by": "mkhealth.co.kr"
-    },
-    {
-     "title": "“코에 걸면 코로나 예방”…마스크 제조 업체 대표, 2심도 벌금 2000만...",
-     "link": "https://www.segye.com/newsView/20261125508760?OutUrl=naver",
-     "t": "2026-11-25T12:19:00+09:00",
-     "by": "segye.com"
-    }
-   ]
-  },
-  {
-   "name": "걷기",
-   "kind": "운동·생활",
-   "count": 2,
-   "angles": [],
-   "items": [
-    {
-     "title": "“내 몸과 지구의 건강을 함께 지키자” 상상인, ‘ 걷기 프로젝트 시즌...",
-     "link": "https://sports.donga.com/economy/article/all/20261126/135095074/1",
-     "t": "2026-11-26T16:02:00+09:00",
-     "by": "sports.donga.com"
-    },
-    {
-     "title": "보령시 건강생활·걷기 실천율 개선…취약계층 돌봄도 확대",
-     "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240903",
-     "t": "2026-11-25T12:30:00+09:00",
-     "by": "cctoday.co.kr"
-    }
-   ]
-  },
-  {
    "name": "계란",
    "kind": "식품·제철",
    "count": 2,
@@ -1073,6 +996,72 @@
      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3763769",
      "t": "2026-11-26T11:14:00+09:00",
      "by": "gukjenews.com"
+    }
+   ]
+  },
+  {
+   "name": "관절염",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "류마티스 관절염, 증상 나타나기 전 예측한다…AI 기반 예방 전략 주목",
+     "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627742",
+     "t": "2026-11-26T18:50:00+09:00",
+     "by": "mdtoday.co.kr"
+    },
+    {
+     "title": "고관절 관절염 환자, 인공관절 수술은 언제 받아야 할까? [건강한 고관절...",
+     "link": "https://health.chosun.com/healthyLife/column_view.jsp?idx=12056",
+     "t": "2026-11-25T14:56:00+09:00",
+     "by": "health.chosun.com"
+    }
+   ]
+  },
+  {
+   "name": "노로바이러스",
+   "kind": "질환·증상",
+   "count": 2,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "[ 건강 칼럼] 연말 모임 뒤 구토·설사… 겨울철 노로바이러스, 가족에게...",
+     "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95794",
+     "t": "2026-11-27T13:58:00+09:00",
+     "by": "thefairnews.co.kr"
+    },
+    {
+     "title": "광주 노로바이러스 검출률↑…\"식중독 예방 수칙 준수\"",
+     "link": "https://www.newsis.com/view/NISX20261126_0003884213",
+     "t": "2026-11-26T10:55:00+09:00",
+     "by": "newsis.com"
+    }
+   ]
+  },
+  {
+   "name": "당근",
+   "kind": "식품·제철",
+   "count": 2,
+   "angles": [
+    "에 좋은"
+   ],
+   "items": [
+    {
+     "title": "[안현필 건강교실]뿌리채소의 여왕 당근의 건강 비밀",
+     "link": "https://www.ikunkang.com/news/articleView.html?idxno=51769",
+     "t": "2026-11-27T08:00:00+09:00",
+     "by": "ikunkang.com"
+    },
+    {
+     "title": "\"11㎏ 뺀 신봉선도 챙겨 먹었다\"…당근이 체중 감량에 좋은 이유는?",
+     "link": "https://www.newsis.com/view/NISX20261126_0003883781",
+     "t": "2026-11-27T00:00:00+09:00",
+     "by": "newsis.com"
     }
    ]
   }

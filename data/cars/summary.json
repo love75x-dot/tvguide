@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:10:53.660513+09:00",
+ "updated": "2026-11-28T10:25:38.204208+09:00",
  "hot": [
   {
    "name": "GLC",
@@ -78,18 +78,20 @@
    ]
   },
   {
+   "name": "EV2",
+   "count": 1,
+   "prev": 0,
+   "rise": 0,
+   "moto": false,
+   "why": [
+    "출시"
+   ]
+  },
+  {
    "name": "투싼",
    "count": 1,
    "prev": 1,
    "rise": -4,
-   "moto": false,
-   "why": []
-  },
-  {
-   "name": "모델 3",
-   "count": 1,
-   "prev": 0,
-   "rise": 15,
    "moto": false,
    "why": []
   }
@@ -126,6 +128,14 @@
    "title": "할리데이비슨 컬렉션스 레더 재킷 출시",
    "link": "https://www.bntnews.co.kr/article/view/bnt202611280020",
    "moto": true
+  },
+  {
+   "name": "EV2",
+   "status": "out",
+   "date": "2026-11-28",
+   "title": "기아 가 폴란드서 출시 한 도심형 전기차 EV2, 영하 기온서 달린 실제 성적...",
+   "link": "https://www.g-enews.com/view.php?ud=2026112810125938292bd56fbc3c_1",
+   "moto": false
   }
  ]
 }

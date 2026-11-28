@@ -495,13 +495,15 @@
     "주진모, ♥민혜연 '7년 만 임신'에 오열 \"예전부터 갖고싶었지만 말 못했다...",
     "'주진모♥' 민혜연, 딩크 선언 번복한 이유…\"남편이 다 키워주겠다고\"",
     "\"아기 초등학교 가면 오빠 60세\"…민혜연, 2세 소식 알리다 주진모♥ 나이 ...",
-    "52세 주진모, 결혼 7년만 ♥민혜연 임신에 오열 \"아기 갖고 싶었는데 말 못..."
+    "52세 주진모, 결혼 7년만 ♥민혜연 임신에 오열 \"아기 갖고 싶었는데 말 못...",
+    "\"새생명이 찾아왔어요\" 41세 박하나 난임 극복→결혼 17개월만 임신 성공…..."
    ],
    "links": [
     "https://news.nate.com/view/20261127n28108",
     "https://news.nate.com/view/20261127n28090",
     "https://news.nate.com/view/20261128n02283",
-    "https://news.nate.com/view/20261128n06381"
+    "https://news.nate.com/view/20261128n06381",
+    "https://news.nate.com/view/20261128n07068"
    ],
    "articles": [
     {
@@ -523,10 +525,15 @@
      "title": "52세 주진모, 결혼 7년만 ♥민혜연 임신에 오열 \"아기 갖고 싶었는데 말 못...",
      "link": "https://news.nate.com/view/20261128n06381",
      "media": "뉴스엔"
+    },
+    {
+     "title": "\"새생명이 찾아왔어요\" 41세 박하나 난임 극복→결혼 17개월만 임신 성공…...",
+     "link": "https://news.nate.com/view/20261128n07068",
+     "media": "스포츠조선"
     }
    ],
    "first": "00:08",
-   "last": "16:08",
+   "last": "19:16",
    "best": 8,
    "hours": [
     "00:08",
@@ -543,15 +550,18 @@
     "11:08",
     "12:08",
     "13:08",
-    "16:08"
+    "16:08",
+    "19:16"
    ],
    "srcs": [
     "nate_pop",
     "nate_int"
    ],
-   "now": {},
-   "count": 4,
-   "inrank": false
+   "now": {
+    "nate_int": 50
+   },
+   "count": 5,
+   "inrank": true
   },
   {
    "id": "c9",
@@ -2852,8 +2862,8 @@
     "nate_int"
    ],
    "now": {
-    "nate_pop": 20,
-    "nate_int": 26
+    "nate_pop": 23,
+    "nate_int": 30
    },
    "count": 1,
    "inrank": true
@@ -4564,10 +4574,11 @@
     }
    ],
    "first": "18:09",
-   "last": "18:09",
+   "last": "19:16",
    "best": 46,
    "hours": [
-    "18:09"
+    "18:09",
+    "19:16"
    ],
    "srcs": [
     "nate_int"
@@ -4697,7 +4708,39 @@
     "nate_int"
    ],
    "now": {
-    "nate_int": 48
+    "nate_pop": 1,
+    "nate_int": 12
+   },
+   "count": 1,
+   "inrank": true
+  },
+  {
+   "id": "c115",
+   "title": "김광규, 연희동 자가 마련 후 뜻밖의 이웃…유재석 \"독거 형님들 몰려\"...",
+   "titles": [
+    "김광규, 연희동 자가 마련 후 뜻밖의 이웃…유재석 \"독거 형님들 몰려\"..."
+   ],
+   "links": [
+    "https://news.nate.com/view/20261128n09048"
+   ],
+   "articles": [
+    {
+     "title": "김광규, 연희동 자가 마련 후 뜻밖의 이웃…유재석 \"독거 형님들 몰려\"...",
+     "link": "https://news.nate.com/view/20261128n09048",
+     "media": "스타뉴스"
+    }
+   ],
+   "first": "19:16",
+   "last": "19:16",
+   "best": 4,
+   "hours": [
+    "19:16"
+   ],
+   "srcs": [
+    "nate_pop"
+   ],
+   "now": {
+    "nate_pop": 4
    },
    "count": 1,
    "inrank": true

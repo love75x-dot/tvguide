@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:08:53.748655+09:00",
+ "updated": "2026-11-28T12:08:36.074501+09:00",
  "car": [
   {
    "name": "현대차",
@@ -70,42 +70,6 @@
      "link": "https://www.newspim.com/news/view/20261127000511",
      "t": "2026-11-28T07:00:00+09:00",
      "by": "newspim.com"
-    }
-   ]
-  },
-  {
-   "name": "관세",
-   "count": 22,
-   "items": [
-    {
-     "title": "트럼프 관세 에도 美 수입 사상 최대…AI 설비투자가 증가세 주도",
-     "link": "https://www.bloter.net/news/articleView.html?idxno=679933",
-     "t": "2026-11-28T09:00:00+09:00",
-     "by": "bloter.net"
-    },
-    {
-     "title": "美 ' 관세 상한' 셈법…기존 관세 에 얼마나 더 붙나 [15% 방어전①]",
-     "link": "https://www.newsis.com/view/NISX20261127_0003885492",
-     "t": "2026-11-28T06:00:00+09:00",
-     "by": "newsis.com"
-    },
-    {
-     "title": "美 대법원이 막은 관세…301조 뒷문으로 복귀[글로벌 모닝 브리핑]",
-     "link": "https://www.sedaily.com/article/20120054?ref=naver",
-     "t": "2026-11-28T05:31:00+09:00",
-     "by": "sedaily.com"
-    },
-    {
-     "title": "“대통령이 경제적 자해를 했다”…저축까지 관세 인상 핑계삼은 트럼프",
-     "link": "https://www.mk.co.kr/article/12220521",
-     "t": "2026-11-27T22:24:00+09:00",
-     "by": "mk.co.kr"
-    },
-    {
-     "title": "과잉생산 관세 미 소비자에도 피해…이중잣대 비판",
-     "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1545266",
-     "t": "2026-11-27T20:50:00+09:00",
-     "by": "obsnews.co.kr"
     }
    ]
   },
@@ -182,6 +146,42 @@
    ]
   },
   {
+   "name": "관세",
+   "count": 21,
+   "items": [
+    {
+     "title": "트럼프 관세 에도 美 수입 사상 최대…AI 설비투자가 증가세 주도",
+     "link": "https://www.bloter.net/news/articleView.html?idxno=679933",
+     "t": "2026-11-28T09:00:00+09:00",
+     "by": "bloter.net"
+    },
+    {
+     "title": "美 ' 관세 상한' 셈법…기존 관세 에 얼마나 더 붙나 [15% 방어전①]",
+     "link": "https://www.newsis.com/view/NISX20261127_0003885492",
+     "t": "2026-11-28T06:00:00+09:00",
+     "by": "newsis.com"
+    },
+    {
+     "title": "美 대법원이 막은 관세…301조 뒷문으로 복귀[글로벌 모닝 브리핑]",
+     "link": "https://www.sedaily.com/article/20120054?ref=naver",
+     "t": "2026-11-28T05:31:00+09:00",
+     "by": "sedaily.com"
+    },
+    {
+     "title": "“대통령이 경제적 자해를 했다”…저축까지 관세 인상 핑계삼은 트럼프",
+     "link": "https://www.mk.co.kr/article/12220521",
+     "t": "2026-11-27T22:24:00+09:00",
+     "by": "mk.co.kr"
+    },
+    {
+     "title": "과잉생산 관세 미 소비자에도 피해…이중잣대 비판",
+     "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1545266",
+     "t": "2026-11-27T20:50:00+09:00",
+     "by": "obsnews.co.kr"
+    }
+   ]
+  },
+  {
    "name": "자율주행",
    "count": 17,
    "items": [
@@ -221,8 +221,20 @@
  "moto": [
   {
    "name": "인도 돌진",
-   "count": 8,
+   "count": 9,
    "items": [
+    {
+     "title": "화성 동탄서 승용차가 오토바이 추돌 후 인도 돌진...3명 중경상",
+     "link": "https://www.kgnews.co.kr/news/article.html?no=921514",
+     "t": "2026-11-28T11:52:00+09:00",
+     "by": "kgnews.co.kr"
+    },
+    {
+     "title": "화성 동탄구서 신호 위반 차량 인도 돌진… 오토바이 운전자 등 3명 부상",
+     "link": "https://www.kgnews.co.kr/news/article.html?no=921512",
+     "t": "2026-11-28T11:10:00+09:00",
+     "by": "kgnews.co.kr"
+    },
     {
      "title": "동탄서 승용차가 오토바이 들이받고 인도 돌진…3명 중경상",
      "link": "https://www.donga.com/news/Society/article/all/20261128/135107019/2",
@@ -240,27 +252,33 @@
      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725058&ref=A",
      "t": "2026-11-28T07:34:00+09:00",
      "by": "kbs.co.kr"
-    },
-    {
-     "title": "승용차가 오토바이 치고 인도 돌진‥3명 중경상",
-     "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6869237_37012.html",
-     "t": "2026-11-28T07:07:00+09:00",
-     "by": "imnews.imbc.com"
-    },
-    {
-     "title": "화성 동탄서 SUV 인도로 돌진… 오토바이 운전자 등 3명 부상",
-     "link": "https://www.kyeonggi.com/article/20261128580001",
-     "t": "2026-11-28T06:34:00+09:00",
-     "by": "kyeonggi.com"
     }
    ]
   },
   {
    "name": "오토바",
-   "count": 15,
+   "count": 16,
    "items": [
     {
+     "title": "화성 동탄서 승용차가 오토바이 추돌 후 인도 돌진...3명 중경상",
+     "link": "https://www.kgnews.co.kr/news/article.html?no=921514",
+     "t": "2026-11-28T11:52:00+09:00",
+     "by": "kgnews.co.kr"
+    },
+    {
+     "title": "화성 동탄구서 신호 위반 차량 인도 돌진… 오토바이 운전자 등 3명 부상",
+     "link": "https://www.kgnews.co.kr/news/article.html?no=921512",
+     "t": "2026-11-28T11:10:00+09:00",
+     "by": "kgnews.co.kr"
+    },
+    {
      "title": "동탄서 승용차가 오토바이 들이받고 인도 돌진…3명 중경상",
+     "link": "https://www.donga.com/news/Society/article/all/20261128/135107019/2",
+     "t": "2026-11-28T09:46:00+09:00",
+     "by": "donga.com"
+    },
+    {
+     "title": "30대女 몰던 캐스퍼, 신호위반 뒤 오토바이 -행인 ‘쾅쾅’…3명 중경상",
      "link": "https://www.donga.com/news/Society/article/all/20261128/135107019/2",
      "t": "2026-11-28T09:46:00+09:00",
      "by": "donga.com"
@@ -270,24 +288,6 @@
      "link": "https://www.newsis.com/view/NISX20261128_0003887008",
      "t": "2026-11-28T09:10:00+09:00",
      "by": "newsis.com"
-    },
-    {
-     "title": "배달 오토바이 몰던 10대, 광역버스와 부딪혀 숨져…경찰 경위 조사",
-     "link": "https://www.kyeonggi.com/article/20261128580020",
-     "t": "2026-11-28T08:49:00+09:00",
-     "by": "kyeonggi.com"
-    },
-    {
-     "title": "승용차가 오토바이 치고 인도 돌진…3명 다쳐",
-     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725058&ref=A",
-     "t": "2026-11-28T07:34:00+09:00",
-     "by": "kbs.co.kr"
-    },
-    {
-     "title": "승용차가 오토바이 치고 인도 돌진‥3명 중경상",
-     "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6869237_37012.html",
-     "t": "2026-11-28T07:07:00+09:00",
-     "by": "imnews.imbc.com"
     }
    ]
   },
